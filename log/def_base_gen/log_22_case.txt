@@ -1,0 +1,527 @@
+<<<<<<<<<<<< 22 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sort, Posbility: 0.6570
+Next Token :  second, Posbility: 0.0500
+Next Token :  Sort, Posbility: 0.0238
+Next Token :  merge, Posbility: 0.0235
+Next Token :  sorted, Posbility: 0.0166
+Choose :  sort,  Posbility: 0.6570
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort
+---------------------------
+Next Token : _, Posbility: 0.4828
+Next Token : (, Posbility: 0.1940
+Next Token : Second, Posbility: 0.0537
+Next Token : T, Posbility: 0.0508
+Next Token : By, Posbility: 0.0405
+Choose : _,  Posbility: 0.4828
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_
+---------------------------
+Next Token : t, Posbility: 0.2590
+Next Token : tu, Posbility: 0.2342
+Next Token : by, Posbility: 0.1255
+Next Token : list, Posbility: 0.1076
+Next Token : 2, Posbility: 0.0170
+Choose : t,  Posbility: 0.2590
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_t
+---------------------------
+Next Token : uple, Posbility: 0.9322
+Next Token : up, Posbility: 0.0378
+Next Token : ups, Posbility: 0.0115
+Next Token : upp, Posbility: 0.0044
+Next Token : uble, Posbility: 0.0013
+Choose : uple,  Posbility: 0.9322
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple
+---------------------------
+Next Token : (, Posbility: 0.8298
+Next Token : _, Posbility: 0.1430
+Next Token :  (, Posbility: 0.0083
+Next Token : ():, Posbility: 0.0061
+Next Token : 2, Posbility: 0.0047
+Choose : (,  Posbility: 0.8298
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(
+---------------------------
+Next Token : t, Posbility: 0.4850
+Next Token : l, Posbility: 0.0937
+Next Token : list, Posbility: 0.0815
+Next Token : tu, Posbility: 0.0466
+Next Token : input, Posbility: 0.0382
+Choose : t,  Posbility: 0.4850
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(t
+---------------------------
+Next Token : up, Posbility: 0.4332
+Next Token : uple, Posbility: 0.3230
+Next Token : ):, Posbility: 0.1482
+Next Token : ups, Posbility: 0.0226
+Next Token : _, Posbility: 0.0176
+Choose : up,  Posbility: 0.4332
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup
+---------------------------
+Next Token : ):, Posbility: 0.8102
+Next Token : ,, Posbility: 0.0801
+Next Token : _, Posbility: 0.0496
+Next Token : 1, Posbility: 0.0280
+Next Token : :, Posbility: 0.0047
+Choose : ):,  Posbility: 0.8102
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+---------------------------
+Next Token : 
+, Posbility: 0.9362
+Next Token :  , Posbility: 0.0197
+Next Token : 
+
+, Posbility: 0.0192
+Next Token : , Posbility: 0.0143
+Next Token :  #, Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9362
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+
+---------------------------
+Next Token :     , Posbility: 0.9410
+Next Token :   , Posbility: 0.0352
+Next Token : 	, Posbility: 0.0127
+Next Token :    , Posbility: 0.0066
+Next Token :      , Posbility: 0.0011
+Choose :     ,  Posbility: 0.9410
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    
+---------------------------
+Next Token : return, Posbility: 0.3151
+Next Token : '', Posbility: 0.1525
+Next Token : #, Posbility: 0.0817
+Next Token : t, Posbility: 0.0671
+Next Token : l, Posbility: 0.0422
+Choose : return,  Posbility: 0.3151
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return
+---------------------------
+Next Token :  t, Posbility: 0.6327
+Next Token :  (, Posbility: 0.1861
+Next Token :  sorted, Posbility: 0.0513
+Next Token :  tuple, Posbility: 0.0409
+Next Token : (, Posbility: 0.0256
+Choose :  t,  Posbility: 0.6327
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return t
+---------------------------
+Next Token : up, Posbility: 0.9999
+Next Token : [, Posbility: 0.0000
+Next Token : ups, Posbility: 0.0000
+Next Token : upp, Posbility: 0.0000
+Next Token : uple, Posbility: 0.0000
+Choose : up,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup
+---------------------------
+Next Token : [, Posbility: 0.9817
+Next Token :  [, Posbility: 0.0084
+Next Token : ., Posbility: 0.0066
+Next Token : (, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0005
+Choose : [,  Posbility: 0.9817
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[
+---------------------------
+Next Token : 1, Posbility: 0.9049
+Next Token : 2, Posbility: 0.0444
+Next Token : ::, Posbility: 0.0188
+Next Token : 0, Posbility: 0.0181
+Next Token : -, Posbility: 0.0063
+Choose : 1,  Posbility: 0.9049
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1
+---------------------------
+Next Token : ], Posbility: 0.9508
+Next Token : ],, Posbility: 0.0260
+Next Token : :], Posbility: 0.0090
+Next Token : ][, Posbility: 0.0089
+Next Token : :, Posbility: 0.0018
+Choose : ],  Posbility: 0.9508
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+---------------------------
+Next Token : 
+, Posbility: 0.7344
+Next Token : 
+
+, Posbility: 0.2014
+Next Token : <|endoftext|>, Posbility: 0.0333
+Next Token :  #, Posbility: 0.0099
+Next Token :  , Posbility: 0.0068
+Choose : 
+,  Posbility: 0.7344
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+---------------------------
+Next Token : 
+, Posbility: 0.7994
+Next Token :     , Posbility: 0.0365
+Next Token : t, Posbility: 0.0250
+Next Token : print, Posbility: 0.0191
+Next Token : '', Posbility: 0.0191
+Choose : 
+,  Posbility: 0.7994
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9823
+Next Token : <|endoftext|>, Posbility: 0.0079
+Next Token : 
+
+, Posbility: 0.0050
+Next Token :     , Posbility: 0.0034
+Next Token :  , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9823
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3025
+Next Token : def, Posbility: 0.2439
+Next Token : #, Posbility: 0.2018
+Next Token : print, Posbility: 0.0570
+Next Token : t, Posbility: 0.0374
+Choose : '',  Posbility: 0.3025
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7310
+Next Token :  Write, Posbility: 0.0345
+Next Token : Sort, Posbility: 0.0282
+Next Token : 
+, Posbility: 0.0218
+Next Token : Create, Posbility: 0.0153
+Choose : Write,  Posbility: 0.7310
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9940
+Next Token :  an, Posbility: 0.0018
+Next Token :  your, Posbility: 0.0010
+Next Token :  the, Posbility: 0.0007
+Next Token :  function, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9940
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9510
+Next Token :  program, Posbility: 0.0116
+Next Token :  Python, Posbility: 0.0111
+Next Token :  python, Posbility: 0.0030
+Next Token :  method, Posbility: 0.0020
+Choose :  function,  Posbility: 0.9510
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6532
+Next Token :  that, Posbility: 0.2697
+Next Token :  named, Posbility: 0.0153
+Next Token :  called, Posbility: 0.0141
+Next Token :  sort, Posbility: 0.0087
+Choose :  to,  Posbility: 0.6532
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to
+---------------------------
+Next Token :  get, Posbility: 0.1015
+Next Token :  find, Posbility: 0.0993
+Next Token :  create, Posbility: 0.0975
+Next Token :  print, Posbility: 0.0517
+Next Token :  return, Posbility: 0.0502
+Choose :  get,  Posbility: 0.1015
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get
+---------------------------
+Next Token :  the, Posbility: 0.6376
+Next Token :  a, Posbility: 0.2829
+Next Token :  all, Posbility: 0.0157
+Next Token :  an, Posbility: 0.0127
+Next Token :  three, Posbility: 0.0024
+Choose :  the,  Posbility: 0.6376
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the
+---------------------------
+Next Token :  middle, Posbility: 0.1332
+Next Token :  length, Posbility: 0.0784
+Next Token :  sum, Posbility: 0.0690
+Next Token :  maximum, Posbility: 0.0478
+Next Token :  n, Posbility: 0.0429
+Choose :  middle,  Posbility: 0.1332
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle
+---------------------------
+Next Token :  value, Posbility: 0.6377
+Next Token :  element, Posbility: 0.2920
+Next Token :  item, Posbility: 0.0198
+Next Token :  of, Posbility: 0.0163
+Next Token :  index, Posbility: 0.0054
+Choose :  value,  Posbility: 0.6377
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value
+---------------------------
+Next Token :  of, Posbility: 0.6612
+Next Token :  from, Posbility: 0.1157
+Next Token :  in, Posbility: 0.1114
+Next Token :  (, Posbility: 0.0242
+Next Token : ,, Posbility: 0.0182
+Choose :  of,  Posbility: 0.6612
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of
+---------------------------
+Next Token :  a, Posbility: 0.9376
+Next Token :  the, Posbility: 0.0320
+Next Token :  an, Posbility: 0.0101
+Next Token :  three, Posbility: 0.0033
+Next Token :  all, Posbility: 0.0025
+Choose :  a,  Posbility: 0.9376
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a
+---------------------------
+Next Token :  list, Posbility: 0.5047
+Next Token :  tuple, Posbility: 0.4137
+Next Token :  given, Posbility: 0.0200
+Next Token :  sequence, Posbility: 0.0103
+Next Token :  sorted, Posbility: 0.0082
+Choose :  list,  Posbility: 0.5047
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list
+---------------------------
+Next Token :  of, Posbility: 0.3557
+Next Token : .', Posbility: 0.3386
+Next Token : ., Posbility: 0.1396
+Next Token : '', Posbility: 0.0752
+Next Token : ,, Posbility: 0.0180
+Choose :  of,  Posbility: 0.3557
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of
+---------------------------
+Next Token :  tu, Posbility: 0.6321
+Next Token :  numbers, Posbility: 0.2406
+Next Token :  lists, Posbility: 0.0221
+Next Token :  tuple, Posbility: 0.0105
+Next Token :  values, Posbility: 0.0097
+Choose :  tu,  Posbility: 0.6321
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of tu
+---------------------------
+Next Token : ples, Posbility: 0.9999
+Next Token : pl, Posbility: 0.0001
+Next Token : pe, Posbility: 0.0000
+Next Token : pled, Posbility: 0.0000
+Next Token : pless, Posbility: 0.0000
+Choose : ples,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of tuples
+---------------------------
+Next Token : .', Posbility: 0.7421
+Next Token : ., Posbility: 0.1426
+Next Token : '', Posbility: 0.0297
+Next Token :  using, Posbility: 0.0211
+Next Token : ,, Posbility: 0.0122
+Choose : .',  Posbility: 0.7421
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of tuples.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of tuples.'''
+---------------------------
+Next Token : 
+, Posbility: 0.8447
+Next Token : 
+
+, Posbility: 0.1533
+Next Token : def, Posbility: 0.0008
+Next Token :  , Posbility: 0.0006
+Next Token :   , Posbility: 0.0002
+Choose : 
+,  Posbility: 0.8447
+---------------------------
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of tuples.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9342
+Next Token : 
+, Posbility: 0.0498
+Next Token : #, Posbility: 0.0076
+Next Token : from, Posbility: 0.0019
+Next Token : import, Posbility: 0.0016
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.021714210510254
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to sort a list of tuples using the second value of each tuple.'''
+def sort_tuple(tup):
+    return tup[1]
+
+
+'''Write a function to get the middle value of a list of tuples.'''
+

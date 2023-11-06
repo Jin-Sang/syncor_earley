@@ -1,0 +1,165 @@
+<<<<<<<<<<<< 177 problem >>>>>>>>>>>
+
+
+
+
+Next Token : xt, Posbility: 0.1645
+Next Token : 
+, Posbility: 0.1136
+Next Token : ix, Posbility: 0.0805
+Next Token : ____, Posbility: 0.0767
+Next Token : ich, Posbility: 0.0648
+Choose : xt, Posbility: 0.1645
+'''Write a function to convert a given string to a tuple of characters.'''
+def xt
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xt
+---------------------------
+Next Token : uple, Posbility: 0.6324
+Next Token : o, Posbility: 0.1148
+Next Token : ra, Posbility: 0.0310
+Next Token : ract, Posbility: 0.0192
+Next Token : up, Posbility: 0.0132
+Choose : uple, Posbility: 0.6324
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple
+---------------------------
+Next Token : (, Posbility: 0.7669
+Next Token : _, Posbility: 0.0683
+Next Token : ():, Posbility: 0.0365
+Next Token : To, Posbility: 0.0239
+Next Token : 2, Posbility: 0.0216
+Choose : (, Posbility: 0.7669
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(
+---------------------------
+Next Token : s, Posbility: 0.2701
+Next Token : string, Posbility: 0.1904
+Next Token : str, Posbility: 0.1355
+Next Token : txt, Posbility: 0.0587
+Next Token : text, Posbility: 0.0528
+Choose : s, Posbility: 0.2701
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s
+---------------------------
+Next Token : ):, Posbility: 0.9437
+Next Token : :, Posbility: 0.0304
+Next Token : ,, Posbility: 0.0122
+Next Token : 1, Posbility: 0.0037
+Next Token : ), Posbility: 0.0031
+Choose : ):, Posbility: 0.9437
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+---------------------------
+Next Token : 
+, Posbility: 0.8982
+Next Token :  , Posbility: 0.0438
+Next Token : , Posbility: 0.0175
+Next Token : 
+
+, Posbility: 0.0163
+Next Token :  #, Posbility: 0.0072
+Choose : 
+, Posbility: 0.8982
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+
+---------------------------
+Next Token :     , Posbility: 0.9107
+Next Token : 	, Posbility: 0.0397
+Next Token :   , Posbility: 0.0350
+Next Token :    , Posbility: 0.0090
+Next Token :      , Posbility: 0.0012
+Choose :     , Posbility: 0.9107
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    
+---------------------------
+Next Token : return, Posbility: 0.2034
+Next Token : '', Posbility: 0.1325
+Next Token : t, Posbility: 0.1309
+Next Token : l, Posbility: 0.0508
+Next Token : #, Posbility: 0.0432
+Choose : return, Posbility: 0.2034
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    return
+---------------------------
+Next Token :  tuple, Posbility: 0.7061
+Next Token :  (, Posbility: 0.0792
+Next Token :  s, Posbility: 0.0537
+Next Token : (, Posbility: 0.0372
+Next Token :  list, Posbility: 0.0261
+Choose :  tuple, Posbility: 0.7061
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    return tuple
+---------------------------
+Next Token : (, Posbility: 0.9498
+Next Token : ([, Posbility: 0.0362
+Next Token : ((, Posbility: 0.0061
+Next Token : (', Posbility: 0.0036
+Next Token : (", Posbility: 0.0015
+Choose : (, Posbility: 0.9498
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    return tuple(
+---------------------------
+Next Token : s, Posbility: 0.9091
+Next Token : map, Posbility: 0.0191
+Next Token : list, Posbility: 0.0167
+Next Token : ord, Posbility: 0.0112
+Next Token : x, Posbility: 0.0058
+Choose : s, Posbility: 0.9091
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    return tuple(s
+---------------------------
+Next Token : ), Posbility: 0.8132
+Next Token : ., Posbility: 0.1320
+Next Token : [, Posbility: 0.0284
+Next Token : orted, Posbility: 0.0150
+Next Token :  for, Posbility: 0.0036
+Choose : ), Posbility: 0.8132
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    return tuple(s)
+---------------------------
+Next Token : 
+, Posbility: 0.7243
+Next Token : 
+
+, Posbility: 0.2163
+Next Token : <|endoftext|>, Posbility: 0.0288
+Next Token :  , Posbility: 0.0093
+Next Token :  #, Posbility: 0.0055
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 2.0480844974517822
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert a given string to a tuple of characters.'''
+def xtuple(s):
+    return tuple(s)
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

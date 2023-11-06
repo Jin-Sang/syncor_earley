@@ -1,0 +1,1043 @@
+<<<<<<<<<<<< 327 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  interchange, Posbility: 0.2927
+Next Token :  swap, Posbility: 0.1077
+Next Token :  first, Posbility: 0.0541
+Next Token :  inter, Posbility: 0.0309
+Next Token :  list, Posbility: 0.0275
+Choose :  interchange,  Posbility: 0.2927
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange
+---------------------------
+Next Token : (, Posbility: 0.6234
+Next Token : _, Posbility: 0.2905
+Next Token : ():, Posbility: 0.0127
+Next Token :  (, Posbility: 0.0116
+Next Token : 1, Posbility: 0.0110
+Choose : (,  Posbility: 0.6234
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(
+---------------------------
+Next Token : l, Posbility: 0.2837
+Next Token : list, Posbility: 0.1714
+Next Token : a, Posbility: 0.0682
+Next Token : arr, Posbility: 0.0507
+Next Token : my, Posbility: 0.0410
+Choose : l,  Posbility: 0.2837
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(l
+---------------------------
+Next Token : st, Posbility: 0.8012
+Next Token : ):, Posbility: 0.1129
+Next Token : 1, Posbility: 0.0599
+Next Token : ,, Posbility: 0.0156
+Next Token : :, Posbility: 0.0032
+Choose : st,  Posbility: 0.8012
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst
+---------------------------
+Next Token : ):, Posbility: 0.8646
+Next Token : ,, Posbility: 0.0629
+Next Token : 1, Posbility: 0.0384
+Next Token : :, Posbility: 0.0139
+Next Token : _, Posbility: 0.0092
+Choose : ):,  Posbility: 0.8646
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.8855
+Next Token : 
+
+, Posbility: 0.0393
+Next Token : , Posbility: 0.0368
+Next Token :  , Posbility: 0.0256
+Next Token :   , Posbility: 0.0036
+Choose : 
+,  Posbility: 0.8855
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9093
+Next Token :   , Posbility: 0.0500
+Next Token : 	, Posbility: 0.0256
+Next Token :    , Posbility: 0.0085
+Next Token :         , Posbility: 0.0015
+Choose :     ,  Posbility: 0.9093
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2139
+Next Token : l, Posbility: 0.1506
+Next Token : #, Posbility: 0.0685
+Next Token : for, Posbility: 0.0609
+Next Token : if, Posbility: 0.0579
+Choose : '',  Posbility: 0.2139
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '", Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''
+---------------------------
+Next Token : Write, Posbility: 0.1534
+Next Token : 
+, Posbility: 0.0936
+Next Token : Re, Posbility: 0.0752
+Next Token : Function, Posbility: 0.0518
+Next Token : This, Posbility: 0.0464
+Choose : Write,  Posbility: 0.1534
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write
+---------------------------
+Next Token :  a, Posbility: 0.9267
+Next Token :  your, Posbility: 0.0531
+Next Token :  an, Posbility: 0.0054
+Next Token :  the, Posbility: 0.0032
+Next Token :  function, Posbility: 0.0021
+Choose :  a,  Posbility: 0.9267
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a
+---------------------------
+Next Token :  python, Posbility: 0.8145
+Next Token :  function, Posbility: 0.1392
+Next Token :  Python, Posbility: 0.0135
+Next Token :  program, Posbility: 0.0043
+Next Token :  recursive, Posbility: 0.0017
+Choose :  python,  Posbility: 0.8145
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9826
+Next Token :  program, Posbility: 0.0053
+Next Token :  fun, Posbility: 0.0017
+Next Token :  f, Posbility: 0.0016
+Next Token :  func, Posbility: 0.0009
+Choose :  function,  Posbility: 0.9826
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.9247
+Next Token :  that, Posbility: 0.0558
+Next Token :  which, Posbility: 0.0026
+Next Token :  for, Posbility: 0.0021
+Next Token : ,, Posbility: 0.0013
+Choose :  to,  Posbility: 0.9247
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to
+---------------------------
+Next Token :  interchange, Posbility: 0.9613
+Next Token :  swap, Posbility: 0.0096
+Next Token :  exchange, Posbility: 0.0050
+Next Token :  find, Posbility: 0.0013
+Next Token :  get, Posbility: 0.0011
+Choose :  interchange,  Posbility: 0.9613
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange
+---------------------------
+Next Token :  the, Posbility: 0.9940
+Next Token :  two, Posbility: 0.0020
+Next Token :  first, Posbility: 0.0006
+Next Token :  a, Posbility: 0.0005
+Next Token :  elements, Posbility: 0.0004
+Choose :  the,  Posbility: 0.9940
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the
+---------------------------
+Next Token :  first, Posbility: 0.9945
+Next Token :  1, Posbility: 0.0010
+Next Token :  last, Posbility: 0.0008
+Next Token :  elements, Posbility: 0.0006
+Next Token :  fist, Posbility: 0.0005
+Choose :  first,  Posbility: 0.9945
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first
+---------------------------
+Next Token :  and, Posbility: 0.9922
+Next Token :  element, Posbility: 0.0059
+Next Token :  two, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0002
+Choose :  and,  Posbility: 0.9922
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and
+---------------------------
+Next Token :  last, Posbility: 0.9918
+Next Token :  the, Posbility: 0.0037
+Next Token : 
+, Posbility: 0.0016
+Next Token :  second, Posbility: 0.0014
+Next Token :  , Posbility: 0.0004
+Choose :  last,  Posbility: 0.9918
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last
+---------------------------
+Next Token :  element, Posbility: 0.9788
+Next Token :  elements, Posbility: 0.0089
+Next Token : 
+, Posbility: 0.0051
+Next Token :  ele, Posbility: 0.0024
+Next Token :  , Posbility: 0.0018
+Choose :  element,  Posbility: 0.9788
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element
+---------------------------
+Next Token :  in, Posbility: 0.9178
+Next Token :  of, Posbility: 0.0596
+Next Token : 
+, Posbility: 0.0076
+Next Token : '', Posbility: 0.0055
+Next Token :  , Posbility: 0.0023
+Choose :  in,  Posbility: 0.9178
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in
+---------------------------
+Next Token :  a, Posbility: 0.9855
+Next Token : 
+, Posbility: 0.0049
+Next Token :  given, Posbility: 0.0034
+Next Token :  the, Posbility: 0.0025
+Next Token :  list, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9855
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a
+---------------------------
+Next Token :  given, Posbility: 0.9842
+Next Token :  list, Posbility: 0.0076
+Next Token : 
+, Posbility: 0.0044
+Next Token :  , Posbility: 0.0013
+Next Token :  give, Posbility: 0.0009
+Choose :  given,  Posbility: 0.9842
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given
+---------------------------
+Next Token :  list, Posbility: 0.9916
+Next Token : 
+, Posbility: 0.0048
+Next Token :  , Posbility: 0.0009
+Next Token :  array, Posbility: 0.0006
+Next Token :  lists, Posbility: 0.0004
+Choose :  list,  Posbility: 0.9916
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list
+---------------------------
+Next Token : .', Posbility: 0.7211
+Next Token : ., Posbility: 0.1901
+Next Token : '', Posbility: 0.0590
+Next Token : 
+, Posbility: 0.0051
+Next Token : 
+
+, Posbility: 0.0032
+Choose : .',  Posbility: 0.7211
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'
+---------------------------
+Next Token : '', Posbility: 0.9943
+Next Token : 
+, Posbility: 0.0034
+Next Token : 
+
+, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0007
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9943
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9094
+Next Token : 
+
+, Posbility: 0.0796
+Next Token :  , Posbility: 0.0062
+Next Token :     , Posbility: 0.0018
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9094
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9827
+Next Token :         , Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0024
+Next Token : def, Posbility: 0.0021
+Next Token :   , Posbility: 0.0019
+Choose :     ,  Posbility: 0.9827
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    
+---------------------------
+Next Token : l, Posbility: 0.2016
+Next Token : for, Posbility: 0.0884
+Next Token : if, Posbility: 0.0810
+Next Token : print, Posbility: 0.0609
+Next Token : #, Posbility: 0.0560
+Choose : l,  Posbility: 0.2016
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    l
+---------------------------
+Next Token : st, Posbility: 0.9481
+Next Token :  =, Posbility: 0.0251
+Next Token : 1, Posbility: 0.0113
+Next Token : =, Posbility: 0.0061
+Next Token : _, Posbility: 0.0021
+Choose : st,  Posbility: 0.9481
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst
+---------------------------
+Next Token : ., Posbility: 0.5633
+Next Token : [, Posbility: 0.1640
+Next Token : 1, Posbility: 0.0719
+Next Token : _, Posbility: 0.0649
+Next Token :  =, Posbility: 0.0610
+Choose : .,  Posbility: 0.5633
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.
+---------------------------
+Next Token : sort, Posbility: 0.3934
+Next Token : reverse, Posbility: 0.1888
+Next Token : pop, Posbility: 0.1661
+Next Token : append, Posbility: 0.1121
+Next Token : insert, Posbility: 0.0730
+Choose : sort,  Posbility: 0.3934
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort
+---------------------------
+Next Token : (), Posbility: 0.8742
+Next Token : (, Posbility: 0.1137
+Next Token : ();, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0020
+Next Token : ()., Posbility: 0.0005
+Choose : (),  Posbility: 0.8742
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+---------------------------
+Next Token : 
+, Posbility: 0.9363
+Next Token :  #, Posbility: 0.0250
+Next Token : 
+
+, Posbility: 0.0093
+Next Token :  , Posbility: 0.0077
+Next Token :   , Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9363
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+
+---------------------------
+Next Token :     , Posbility: 0.9864
+Next Token : 
+, Posbility: 0.0059
+Next Token : def, Posbility: 0.0025
+Next Token :         , Posbility: 0.0008
+Next Token : #, Posbility: 0.0007
+Choose :     ,  Posbility: 0.9864
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    
+---------------------------
+Next Token : l, Posbility: 0.3803
+Next Token : print, Posbility: 0.1879
+Next Token : return, Posbility: 0.1068
+Next Token : temp, Posbility: 0.0336
+Next Token : for, Posbility: 0.0324
+Choose : l,  Posbility: 0.3803
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    l
+---------------------------
+Next Token : st, Posbility: 0.9850
+Next Token :  =, Posbility: 0.0055
+Next Token : 1, Posbility: 0.0040
+Next Token : =, Posbility: 0.0009
+Next Token : _, Posbility: 0.0007
+Choose : st,  Posbility: 0.9850
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst
+---------------------------
+Next Token : ., Posbility: 0.7500
+Next Token : [, Posbility: 0.1453
+Next Token :  =, Posbility: 0.0354
+Next Token : _, Posbility: 0.0211
+Next Token : 1, Posbility: 0.0202
+Choose : .,  Posbility: 0.7500
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.
+---------------------------
+Next Token : reverse, Posbility: 0.8576
+Next Token : pop, Posbility: 0.0551
+Next Token : append, Posbility: 0.0381
+Next Token : sort, Posbility: 0.0263
+Next Token : insert, Posbility: 0.0124
+Choose : reverse,  Posbility: 0.8576
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse
+---------------------------
+Next Token : (), Posbility: 0.9929
+Next Token : 
+, Posbility: 0.0038
+Next Token : ();, Posbility: 0.0016
+Next Token : (, Posbility: 0.0008
+Next Token : 
+
+, Posbility: 0.0004
+Choose : (),  Posbility: 0.9929
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+---------------------------
+Next Token : 
+, Posbility: 0.9591
+Next Token : 
+
+, Posbility: 0.0216
+Next Token :  #, Posbility: 0.0071
+Next Token :  , Posbility: 0.0039
+Next Token :     , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9591
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+
+---------------------------
+Next Token :     , Posbility: 0.9538
+Next Token : 
+, Posbility: 0.0270
+Next Token : def, Posbility: 0.0052
+Next Token : <|endoftext|>, Posbility: 0.0037
+Next Token :         , Posbility: 0.0019
+Choose :     ,  Posbility: 0.9538
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    
+---------------------------
+Next Token : return, Posbility: 0.3828
+Next Token : print, Posbility: 0.2223
+Next Token : l, Posbility: 0.1793
+Next Token : for, Posbility: 0.0418
+Next Token : if, Posbility: 0.0171
+Choose : return,  Posbility: 0.3828
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return
+---------------------------
+Next Token :  l, Posbility: 0.9307
+Next Token : (, Posbility: 0.0286
+Next Token :  (, Posbility: 0.0067
+Next Token :  list, Posbility: 0.0058
+Next Token :  print, Posbility: 0.0044
+Choose :  l,  Posbility: 0.9307
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+---------------------------
+Next Token : 
+, Posbility: 0.6622
+Next Token : 
+
+, Posbility: 0.2124
+Next Token : [, Posbility: 0.0546
+Next Token : <|endoftext|>, Posbility: 0.0381
+Next Token :  , Posbility: 0.0135
+Choose : 
+,  Posbility: 0.6622
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+---------------------------
+Next Token : 
+, Posbility: 0.5705
+Next Token :     , Posbility: 0.1000
+Next Token : print, Posbility: 0.0920
+Next Token : <|endoftext|>, Posbility: 0.0692
+Next Token : l, Posbility: 0.0423
+Choose : 
+,  Posbility: 0.5705
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8582
+Next Token : <|endoftext|>, Posbility: 0.0553
+Next Token : 
+
+, Posbility: 0.0398
+Next Token :     , Posbility: 0.0382
+Next Token :         , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.8582
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3211
+Next Token : #, Posbility: 0.2560
+Next Token : def, Posbility: 0.1144
+Next Token : if, Posbility: 0.0577
+Next Token : 
+, Posbility: 0.0545
+Choose : '',  Posbility: 0.3211
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7738
+Next Token :  Write, Posbility: 0.0241
+Next Token : Create, Posbility: 0.0163
+Next Token : 
+, Posbility: 0.0146
+Next Token : Use, Posbility: 0.0067
+Choose : Write,  Posbility: 0.7738
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9872
+Next Token :  your, Posbility: 0.0041
+Next Token :  an, Posbility: 0.0025
+Next Token :  the, Posbility: 0.0009
+Next Token :  python, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9872
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9474
+Next Token :  function, Posbility: 0.0199
+Next Token :  Python, Posbility: 0.0178
+Next Token :  program, Posbility: 0.0044
+Next Token :  script, Posbility: 0.0007
+Choose :  python,  Posbility: 0.9474
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9421
+Next Token :  program, Posbility: 0.0396
+Next Token :  script, Posbility: 0.0038
+Next Token :  fun, Posbility: 0.0019
+Next Token :  class, Posbility: 0.0019
+Choose :  function,  Posbility: 0.9421
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.9085
+Next Token :  that, Posbility: 0.0593
+Next Token :  which, Posbility: 0.0055
+Next Token :  for, Posbility: 0.0035
+Next Token :  called, Posbility: 0.0021
+Choose :  to,  Posbility: 0.9085
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to
+---------------------------
+Next Token :  remove, Posbility: 0.1015
+Next Token :  find, Posbility: 0.0975
+Next Token :  reverse, Posbility: 0.0625
+Next Token :  count, Posbility: 0.0614
+Next Token :  check, Posbility: 0.0512
+Choose :  remove,  Posbility: 0.1015
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove
+---------------------------
+Next Token :  the, Posbility: 0.4448
+Next Token :  dupl, Posbility: 0.1240
+Next Token :  duplicate, Posbility: 0.1209
+Next Token :  all, Posbility: 0.0590
+Next Token :  an, Posbility: 0.0572
+Choose :  the,  Posbility: 0.4448
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the
+---------------------------
+Next Token :  first, Posbility: 0.2065
+Next Token :  last, Posbility: 0.0877
+Next Token :  middle, Posbility: 0.0631
+Next Token :  n, Posbility: 0.0539
+Next Token :  element, Posbility: 0.0498
+Choose :  first,  Posbility: 0.2065
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first
+---------------------------
+Next Token :  occurrence, Posbility: 0.2983
+Next Token :  and, Posbility: 0.2145
+Next Token :  element, Posbility: 0.1593
+Next Token :  occ, Posbility: 0.1147
+Next Token :  occur, Posbility: 0.0280
+Choose :  occurrence,  Posbility: 0.2983
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence
+---------------------------
+Next Token :  of, Posbility: 0.9671
+Next Token :  from, Posbility: 0.0159
+Next Token :  in, Posbility: 0.0041
+Next Token :  and, Posbility: 0.0015
+Next Token :  (, Posbility: 0.0012
+Choose :  of,  Posbility: 0.9671
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of
+---------------------------
+Next Token :  a, Posbility: 0.4514
+Next Token :  an, Posbility: 0.2985
+Next Token :  the, Posbility: 0.1385
+Next Token :  any, Posbility: 0.0102
+Next Token :  ', Posbility: 0.0090
+Choose :  a,  Posbility: 0.4514
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a
+---------------------------
+Next Token :  given, Posbility: 0.4474
+Next Token :  value, Posbility: 0.1434
+Next Token :  specific, Posbility: 0.1142
+Next Token :  specified, Posbility: 0.0642
+Next Token :  number, Posbility: 0.0376
+Choose :  given,  Posbility: 0.4474
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given
+---------------------------
+Next Token :  element, Posbility: 0.5103
+Next Token :  value, Posbility: 0.2563
+Next Token :  item, Posbility: 0.0552
+Next Token :  number, Posbility: 0.0509
+Next Token :  word, Posbility: 0.0332
+Choose :  element,  Posbility: 0.5103
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element
+---------------------------
+Next Token :  from, Posbility: 0.5891
+Next Token :  in, Posbility: 0.2269
+Next Token : .', Posbility: 0.1073
+Next Token : ., Posbility: 0.0183
+Next Token : '', Posbility: 0.0093
+Choose :  from,  Posbility: 0.5891
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from
+---------------------------
+Next Token :  a, Posbility: 0.9250
+Next Token :  the, Posbility: 0.0509
+Next Token :  an, Posbility: 0.0087
+Next Token :  list, Posbility: 0.0035
+Next Token :  given, Posbility: 0.0031
+Choose :  a,  Posbility: 0.9250
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a
+---------------------------
+Next Token :  given, Posbility: 0.8890
+Next Token :  list, Posbility: 0.0948
+Next Token : 
+, Posbility: 0.0020
+Next Token :  sequence, Posbility: 0.0015
+Next Token :  sorted, Posbility: 0.0015
+Choose :  given,  Posbility: 0.8890
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a given
+---------------------------
+Next Token :  list, Posbility: 0.9621
+Next Token :  array, Posbility: 0.0107
+Next Token :  sequence, Posbility: 0.0055
+Next Token : 
+, Posbility: 0.0032
+Next Token :  sorted, Posbility: 0.0019
+Choose :  list,  Posbility: 0.9621
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a given list
+---------------------------
+Next Token : .', Posbility: 0.8860
+Next Token : ., Posbility: 0.0431
+Next Token :  of, Posbility: 0.0302
+Next Token : '', Posbility: 0.0118
+Next Token :  and, Posbility: 0.0042
+Choose : .',  Posbility: 0.8860
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a given list.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9533
+Next Token : 
+
+, Posbility: 0.0337
+Next Token :  , Posbility: 0.0044
+Next Token :     , Posbility: 0.0025
+Next Token : def, Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9533
+---------------------------
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a given list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9145
+Next Token : 
+, Posbility: 0.0528
+Next Token : #, Posbility: 0.0140
+Next Token : '', Posbility: 0.0053
+Next Token : from, Posbility: 0.0025
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.717607498168945
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to interchange the first and last element in a given list.'''
+def interchange(lst):
+    '''Write a python function to interchange the first and last element in a given list.'''
+    lst.sort()
+    lst.reverse()
+    return lst
+
+
+'''Write a python function to remove the first occurrence of a given element from a given list.'''
+

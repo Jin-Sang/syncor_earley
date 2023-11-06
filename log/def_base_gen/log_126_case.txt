@@ -1,0 +1,1427 @@
+<<<<<<<<<<<< 126 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  count, Posbility: 0.2760
+Next Token :  occ, Posbility: 0.0465
+Next Token :  tuple, Posbility: 0.0328
+Next Token :  element, Posbility: 0.0323
+Next Token :  unique, Posbility: 0.0297
+Choose :  count,  Posbility: 0.2760
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def count
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def count
+---------------------------
+Next Token : Occ, Posbility: 0.4555
+Next Token : _, Posbility: 0.4062
+Next Token : (, Posbility: 0.0650
+Next Token : O, Posbility: 0.0098
+Next Token : occ, Posbility: 0.0089
+Choose : Occ,  Posbility: 0.4555
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOcc
+---------------------------
+Next Token : ure, Posbility: 0.3367
+Next Token : (, Posbility: 0.1961
+Next Token : ur, Posbility: 0.1470
+Next Token : urrence, Posbility: 0.0849
+Next Token : urances, Posbility: 0.0419
+Choose : ure,  Posbility: 0.3367
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccure
+---------------------------
+Next Token : nces, Posbility: 0.6571
+Next Token : nce, Posbility: 0.3346
+Next Token : c, Posbility: 0.0015
+Next Token : (, Posbility: 0.0011
+Next Token : nc, Posbility: 0.0010
+Choose : nces,  Posbility: 0.6571
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences
+---------------------------
+Next Token : (, Posbility: 0.8830
+Next Token :  (, Posbility: 0.0206
+Next Token : In, Posbility: 0.0175
+Next Token : Of, Posbility: 0.0151
+Next Token : 2, Posbility: 0.0102
+Choose : (,  Posbility: 0.8830
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(
+---------------------------
+Next Token : t, Posbility: 0.6700
+Next Token : element, Posbility: 0.0614
+Next Token : my, Posbility: 0.0299
+Next Token : e, Posbility: 0.0206
+Next Token : tu, Posbility: 0.0184
+Choose : t,  Posbility: 0.6700
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(t
+---------------------------
+Next Token : uple, Posbility: 0.6755
+Next Token : up, Posbility: 0.1893
+Next Token : ,, Posbility: 0.1030
+Next Token : 1, Posbility: 0.0048
+Next Token : _, Posbility: 0.0026
+Choose : uple,  Posbility: 0.6755
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple
+---------------------------
+Next Token : ,, Posbility: 0.8148
+Next Token : 1, Posbility: 0.0503
+Next Token : _, Posbility: 0.0251
+Next Token : :, Posbility: 0.0172
+Next Token : ):, Posbility: 0.0159
+Choose : ,,  Posbility: 0.8148
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple,
+---------------------------
+Next Token :  element, Posbility: 0.4671
+Next Token : element, Posbility: 0.2801
+Next Token :  ele, Posbility: 0.0737
+Next Token :  item, Posbility: 0.0179
+Next Token : e, Posbility: 0.0170
+Choose :  element,  Posbility: 0.4671
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element
+---------------------------
+Next Token : ):, Posbility: 0.9779
+Next Token : To, Posbility: 0.0069
+Next Token : ,, Posbility: 0.0031
+Next Token : _, Posbility: 0.0029
+Next Token : ), Posbility: 0.0026
+Choose : ):,  Posbility: 0.9779
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+---------------------------
+Next Token : 
+, Posbility: 0.9461
+Next Token : 
+
+, Posbility: 0.0236
+Next Token : , Posbility: 0.0117
+Next Token :  , Posbility: 0.0103
+Next Token :  #, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9461
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+
+---------------------------
+Next Token :     , Posbility: 0.9274
+Next Token :   , Posbility: 0.0338
+Next Token : 	, Posbility: 0.0306
+Next Token :    , Posbility: 0.0036
+Next Token :         , Posbility: 0.0020
+Choose :     ,  Posbility: 0.9274
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    
+---------------------------
+Next Token : '', Posbility: 0.2560
+Next Token : count, Posbility: 0.1681
+Next Token : occ, Posbility: 0.1118
+Next Token : return, Posbility: 0.0664
+Next Token : #, Posbility: 0.0576
+Choose : '',  Posbility: 0.2560
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '", Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''
+---------------------------
+Next Token : t, Posbility: 0.1095
+Next Token : Write, Posbility: 0.0988
+Next Token : 
+, Posbility: 0.0924
+Next Token : Count, Posbility: 0.0847
+Next Token : Return, Posbility: 0.0644
+Choose : t,  Posbility: 0.1095
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''t
+---------------------------
+Next Token : uple, Posbility: 0.7910
+Next Token : akes, Posbility: 0.1666
+Next Token :  =, Posbility: 0.0102
+Next Token : up, Posbility: 0.0081
+Next Token : aken, Posbility: 0.0019
+Choose : uple,  Posbility: 0.7910
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple
+---------------------------
+Next Token :  is, Posbility: 0.2694
+Next Token : :, Posbility: 0.1864
+Next Token :  -, Posbility: 0.1260
+Next Token :  =, Posbility: 0.0911
+Next Token :  :, Posbility: 0.0399
+Choose :  is,  Posbility: 0.2694
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is
+---------------------------
+Next Token :  a, Posbility: 0.6142
+Next Token :  the, Posbility: 0.2210
+Next Token :  tuple, Posbility: 0.0558
+Next Token :  an, Posbility: 0.0237
+Next Token :  of, Posbility: 0.0094
+Choose :  a,  Posbility: 0.6142
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a
+---------------------------
+Next Token :  tuple, Posbility: 0.8439
+Next Token :  list, Posbility: 0.0747
+Next Token :  2, Posbility: 0.0061
+Next Token :  T, Posbility: 0.0056
+Next Token :  sequence, Posbility: 0.0055
+Choose :  tuple,  Posbility: 0.8439
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple
+---------------------------
+Next Token :  of, Posbility: 0.3152
+Next Token :  with, Posbility: 0.1138
+Next Token :  containing, Posbility: 0.1008
+Next Token : ,, Posbility: 0.0836
+Next Token :  that, Posbility: 0.0596
+Choose :  of,  Posbility: 0.3152
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of
+---------------------------
+Next Token :  elements, Posbility: 0.2048
+Next Token :  integers, Posbility: 0.1311
+Next Token :  numbers, Posbility: 0.0718
+Next Token :  strings, Posbility: 0.0707
+Next Token :  int, Posbility: 0.0625
+Choose :  elements,  Posbility: 0.2048
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements
+---------------------------
+Next Token :  and, Posbility: 0.4168
+Next Token : '', Posbility: 0.1618
+Next Token : ,, Posbility: 0.0926
+Next Token : ., Posbility: 0.0738
+Next Token : 
+, Posbility: 0.0328
+Choose :  and,  Posbility: 0.4168
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and
+---------------------------
+Next Token :  element, Posbility: 0.6183
+Next Token :  an, Posbility: 0.0973
+Next Token :  the, Posbility: 0.0842
+Next Token :  a, Posbility: 0.0455
+Next Token :  elements, Posbility: 0.0258
+Choose :  element,  Posbility: 0.6183
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element
+---------------------------
+Next Token :  is, Posbility: 0.8834
+Next Token : '', Posbility: 0.0191
+Next Token :  are, Posbility: 0.0120
+Next Token :  the, Posbility: 0.0093
+Next Token : ., Posbility: 0.0068
+Choose :  is,  Posbility: 0.8834
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is
+---------------------------
+Next Token :  an, Posbility: 0.4196
+Next Token :  the, Posbility: 0.2930
+Next Token :  a, Posbility: 0.2001
+Next Token :  element, Posbility: 0.0137
+Next Token :  one, Posbility: 0.0109
+Choose :  an,  Posbility: 0.4196
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an
+---------------------------
+Next Token :  element, Posbility: 0.9190
+Next Token :  int, Posbility: 0.0192
+Next Token :  integer, Posbility: 0.0167
+Next Token :  item, Posbility: 0.0137
+Next Token :  ele, Posbility: 0.0038
+Choose :  element,  Posbility: 0.9190
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element
+---------------------------
+Next Token :  to, Posbility: 0.2937
+Next Token : '', Posbility: 0.2824
+Next Token :  in, Posbility: 0.1607
+Next Token : .', Posbility: 0.0524
+Next Token :  of, Posbility: 0.0490
+Choose :  to,  Posbility: 0.2937
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to
+---------------------------
+Next Token :  be, Posbility: 0.4004
+Next Token :  look, Posbility: 0.1366
+Next Token :  search, Posbility: 0.1346
+Next Token :  count, Posbility: 0.1234
+Next Token :  check, Posbility: 0.0587
+Choose :  be,  Posbility: 0.4004
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be
+---------------------------
+Next Token :  counted, Posbility: 0.3840
+Next Token :  searched, Posbility: 0.3301
+Next Token :  found, Posbility: 0.0885
+Next Token :  used, Posbility: 0.0176
+Next Token :  looked, Posbility: 0.0156
+Choose :  counted,  Posbility: 0.3840
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted
+---------------------------
+Next Token : '', Posbility: 0.4700
+Next Token : .', Posbility: 0.2554
+Next Token : ., Posbility: 0.1297
+Next Token :  in, Posbility: 0.0441
+Next Token : 
+, Posbility: 0.0409
+Choose : '',  Posbility: 0.4700
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : ';, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+---------------------------
+Next Token : 
+, Posbility: 0.9566
+Next Token : 
+
+, Posbility: 0.0346
+Next Token :  , Posbility: 0.0059
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9566
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+
+---------------------------
+Next Token :     , Posbility: 0.9954
+Next Token :         , Posbility: 0.0008
+Next Token :   , Posbility: 0.0007
+Next Token :    , Posbility: 0.0007
+Next Token :      , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9954
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    
+---------------------------
+Next Token : count, Posbility: 0.2457
+Next Token : occ, Posbility: 0.1474
+Next Token : counter, Posbility: 0.0663
+Next Token : '', Posbility: 0.0651
+Next Token : return, Posbility: 0.0595
+Choose : count,  Posbility: 0.2457
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count
+---------------------------
+Next Token :  =, Posbility: 0.8106
+Next Token : =, Posbility: 0.1181
+Next Token : _, Posbility: 0.0177
+Next Token : s, Posbility: 0.0169
+Next Token : ={, Posbility: 0.0046
+Choose :  =,  Posbility: 0.8106
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9309
+Next Token : 0, Posbility: 0.0159
+Next Token :  tuple, Posbility: 0.0119
+Next Token :  len, Posbility: 0.0104
+Next Token :  1, Posbility: 0.0091
+Choose :  0,  Posbility: 0.9309
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9385
+Next Token : 
+
+, Posbility: 0.0272
+Next Token :  , Posbility: 0.0132
+Next Token :  #, Posbility: 0.0080
+Next Token : ;, Posbility: 0.0057
+Choose : 
+,  Posbility: 0.9385
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9980
+Next Token :         , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9980
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.8990
+Next Token : if, Posbility: 0.0332
+Next Token : 
+, Posbility: 0.0127
+Next Token : #, Posbility: 0.0117
+Next Token : t, Posbility: 0.0061
+Choose : for,  Posbility: 0.8990
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.3880
+Next Token :  element, Posbility: 0.1434
+Next Token :  item, Posbility: 0.0999
+Next Token :  x, Posbility: 0.0745
+Next Token :  ele, Posbility: 0.0651
+Choose :  i,  Posbility: 0.3880
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9880
+Next Token : ,, Posbility: 0.0113
+Next Token :   , Posbility: 0.0004
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9880
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in
+---------------------------
+Next Token :  tuple, Posbility: 0.6167
+Next Token :  range, Posbility: 0.3528
+Next Token :  t, Posbility: 0.0088
+Next Token :  list, Posbility: 0.0043
+Next Token :  element, Posbility: 0.0031
+Choose :  tuple,  Posbility: 0.6167
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple
+---------------------------
+Next Token : :, Posbility: 0.9909
+Next Token :  :, Posbility: 0.0041
+Next Token : [, Posbility: 0.0036
+Next Token : :#, Posbility: 0.0006
+Next Token : ., Posbility: 0.0002
+Choose : :,  Posbility: 0.9909
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+---------------------------
+Next Token : 
+, Posbility: 0.9844
+Next Token :  #, Posbility: 0.0043
+Next Token :  , Posbility: 0.0033
+Next Token :     , Posbility: 0.0012
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9844
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+
+---------------------------
+Next Token :         , Posbility: 0.9831
+Next Token :       , Posbility: 0.0057
+Next Token :        , Posbility: 0.0040
+Next Token :             , Posbility: 0.0032
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9831
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        
+---------------------------
+Next Token : if, Posbility: 0.9703
+Next Token : count, Posbility: 0.0171
+Next Token : #, Posbility: 0.0034
+Next Token : for, Posbility: 0.0027
+Next Token : '', Posbility: 0.0016
+Choose : if,  Posbility: 0.9703
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.7559
+Next Token :  element, Posbility: 0.1024
+Next Token : (, Posbility: 0.0877
+Next Token :  (, Posbility: 0.0266
+Next Token :  tuple, Posbility: 0.0096
+Choose :  i,  Posbility: 0.7559
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i
+---------------------------
+Next Token :  ==, Posbility: 0.9449
+Next Token : ==, Posbility: 0.0471
+Next Token : ., Posbility: 0.0023
+Next Token :  is, Posbility: 0.0022
+Next Token : !=, Posbility: 0.0019
+Choose :  ==,  Posbility: 0.9449
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i ==
+---------------------------
+Next Token :  element, Posbility: 0.9947
+Next Token : element, Posbility: 0.0022
+Next Token :   , Posbility: 0.0010
+Next Token :  item, Posbility: 0.0005
+Next Token :  ele, Posbility: 0.0004
+Choose :  element,  Posbility: 0.9947
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element
+---------------------------
+Next Token : :, Posbility: 0.9926
+Next Token :  :, Posbility: 0.0037
+Next Token :  or, Posbility: 0.0021
+Next Token :  and, Posbility: 0.0008
+Next Token :  ==, Posbility: 0.0002
+Choose : :,  Posbility: 0.9926
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+---------------------------
+Next Token : 
+, Posbility: 0.9834
+Next Token :  , Posbility: 0.0064
+Next Token :  count, Posbility: 0.0044
+Next Token :  #, Posbility: 0.0014
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9834
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+
+---------------------------
+Next Token :             , Posbility: 0.9880
+Next Token :            , Posbility: 0.0058
+Next Token :                 , Posbility: 0.0018
+Next Token :              , Posbility: 0.0018
+Next Token :           , Posbility: 0.0015
+Choose :             ,  Posbility: 0.9880
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            
+---------------------------
+Next Token : count, Posbility: 0.9939
+Next Token : print, Posbility: 0.0013
+Next Token : if, Posbility: 0.0012
+Next Token : #, Posbility: 0.0011
+Next Token : return, Posbility: 0.0007
+Choose : count,  Posbility: 0.9939
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count
+---------------------------
+Next Token :  +=, Posbility: 0.6863
+Next Token :  =, Posbility: 0.2109
+Next Token : +=, Posbility: 0.0972
+Next Token : =, Posbility: 0.0041
+Next Token :   , Posbility: 0.0005
+Choose :  +=,  Posbility: 0.6863
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count +=
+---------------------------
+Next Token :  1, Posbility: 0.9121
+Next Token : 1, Posbility: 0.0872
+Next Token :  tuple, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token :  2, Posbility: 0.0000
+Choose :  1,  Posbility: 0.9121
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9550
+Next Token : 
+
+, Posbility: 0.0300
+Next Token :  , Posbility: 0.0072
+Next Token :     , Posbility: 0.0016
+Next Token :  #, Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9550
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.9469
+Next Token :         , Posbility: 0.0374
+Next Token :             , Posbility: 0.0128
+Next Token : #, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9469
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8991
+Next Token : print, Posbility: 0.0748
+Next Token : 
+, Posbility: 0.0158
+Next Token : #, Posbility: 0.0038
+Next Token : if, Posbility: 0.0020
+Choose : return,  Posbility: 0.8991
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9478
+Next Token : (, Posbility: 0.0213
+Next Token :  (, Posbility: 0.0149
+Next Token :  f, Posbility: 0.0060
+Next Token :  print, Posbility: 0.0035
+Choose :  count,  Posbility: 0.9478
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7590
+Next Token : 
+
+, Posbility: 0.1904
+Next Token :  , Posbility: 0.0203
+Next Token : <|endoftext|>, Posbility: 0.0154
+Next Token :     , Posbility: 0.0040
+Choose : 
+,  Posbility: 0.7590
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+---------------------------
+Next Token : 
+, Posbility: 0.7515
+Next Token : print, Posbility: 0.0484
+Next Token :     , Posbility: 0.0408
+Next Token : #, Posbility: 0.0326
+Next Token : <|endoftext|>, Posbility: 0.0282
+Choose : 
+,  Posbility: 0.7515
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9225
+Next Token : 
+
+, Posbility: 0.0245
+Next Token : <|endoftext|>, Posbility: 0.0245
+Next Token :     , Posbility: 0.0210
+Next Token :         , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9225
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2659
+Next Token : #, Posbility: 0.2222
+Next Token : def, Posbility: 0.1518
+Next Token : print, Posbility: 0.1170
+Next Token : if, Posbility: 0.0550
+Choose : '',  Posbility: 0.2659
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7298
+Next Token :  Write, Posbility: 0.0258
+Next Token : 
+, Posbility: 0.0133
+Next Token : Create, Posbility: 0.0129
+Next Token : Test, Posbility: 0.0077
+Choose : Write,  Posbility: 0.7298
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9848
+Next Token :  your, Posbility: 0.0037
+Next Token :  an, Posbility: 0.0031
+Next Token :  the, Posbility: 0.0019
+Next Token :  another, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9848
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.8933
+Next Token :  function, Posbility: 0.0618
+Next Token :  Python, Posbility: 0.0203
+Next Token :  program, Posbility: 0.0061
+Next Token :  script, Posbility: 0.0012
+Choose :  python,  Posbility: 0.8933
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9583
+Next Token :  program, Posbility: 0.0240
+Next Token :  script, Posbility: 0.0036
+Next Token :  fun, Posbility: 0.0024
+Next Token :  code, Posbility: 0.0014
+Choose :  function,  Posbility: 0.9583
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function
+---------------------------
+Next Token :  that, Posbility: 0.8562
+Next Token :  to, Posbility: 0.0933
+Next Token :  which, Posbility: 0.0124
+Next Token :  named, Posbility: 0.0052
+Next Token : ,, Posbility: 0.0036
+Choose :  that,  Posbility: 0.8562
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that
+---------------------------
+Next Token :  takes, Posbility: 0.8570
+Next Token :  accepts, Posbility: 0.0372
+Next Token :  returns, Posbility: 0.0241
+Next Token :  receives, Posbility: 0.0060
+Next Token :  prints, Posbility: 0.0056
+Choose :  takes,  Posbility: 0.8570
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes
+---------------------------
+Next Token :  in, Posbility: 0.8620
+Next Token :  a, Posbility: 0.0817
+Next Token :  an, Posbility: 0.0178
+Next Token :  two, Posbility: 0.0125
+Next Token :  as, Posbility: 0.0093
+Choose :  in,  Posbility: 0.8620
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in
+---------------------------
+Next Token :  a, Posbility: 0.7556
+Next Token :  two, Posbility: 0.0975
+Next Token :  an, Posbility: 0.0958
+Next Token :  three, Posbility: 0.0112
+Next Token :  the, Posbility: 0.0069
+Choose :  a,  Posbility: 0.7556
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a
+---------------------------
+Next Token :  tuple, Posbility: 0.6526
+Next Token :  string, Posbility: 0.0916
+Next Token :  dictionary, Posbility: 0.0719
+Next Token :  list, Posbility: 0.0712
+Next Token :  set, Posbility: 0.0091
+Choose :  tuple,  Posbility: 0.6526
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple
+---------------------------
+Next Token :  and, Posbility: 0.8187
+Next Token : ,, Posbility: 0.0709
+Next Token :  of, Posbility: 0.0514
+Next Token :  with, Posbility: 0.0136
+Next Token :  as, Posbility: 0.0103
+Choose :  and,  Posbility: 0.8187
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and
+---------------------------
+Next Token :  an, Posbility: 0.5421
+Next Token :  a, Posbility: 0.2234
+Next Token :  returns, Posbility: 0.0597
+Next Token :  two, Posbility: 0.0290
+Next Token :  another, Posbility: 0.0076
+Choose :  an,  Posbility: 0.5421
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an
+---------------------------
+Next Token :  element, Posbility: 0.9533
+Next Token :  integer, Posbility: 0.0095
+Next Token :  index, Posbility: 0.0089
+Next Token :  item, Posbility: 0.0077
+Next Token :  array, Posbility: 0.0026
+Choose :  element,  Posbility: 0.9533
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element
+---------------------------
+Next Token :  and, Posbility: 0.8852
+Next Token : ,, Posbility: 0.0644
+Next Token : ., Posbility: 0.0094
+Next Token :  to, Posbility: 0.0050
+Next Token :  as, Posbility: 0.0039
+Choose :  and,  Posbility: 0.8852
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and
+---------------------------
+Next Token :  counts, Posbility: 0.3546
+Next Token :  returns, Posbility: 0.2561
+Next Token :  prints, Posbility: 0.0692
+Next Token :  calculates, Posbility: 0.0345
+Next Token :  checks, Posbility: 0.0195
+Choose :  counts,  Posbility: 0.3546
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts
+---------------------------
+Next Token :  the, Posbility: 0.9619
+Next Token :  how, Posbility: 0.0075
+Next Token :  all, Posbility: 0.0066
+Next Token : 
+, Posbility: 0.0020
+Next Token :  number, Posbility: 0.0013
+Choose :  the,  Posbility: 0.9619
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the
+---------------------------
+Next Token :  occ, Posbility: 0.2305
+Next Token :  number, Posbility: 0.1917
+Next Token :  occurrences, Posbility: 0.1290
+Next Token :  length, Posbility: 0.0384
+Next Token :  occurrence, Posbility: 0.0325
+Choose :  occ,  Posbility: 0.2305
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occ
+---------------------------
+Next Token : c, Posbility: 0.6994
+Next Token : ure, Posbility: 0.2915
+Next Token : uren, Posbility: 0.0033
+Next Token : u, Posbility: 0.0016
+Next Token : ac, Posbility: 0.0004
+Choose : c,  Posbility: 0.6994
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occc
+---------------------------
+Next Token : ure, Posbility: 0.9967
+Next Token : uren, Posbility: 0.0016
+Next Token : urance, Posbility: 0.0003
+Next Token : ures, Posbility: 0.0002
+Next Token : ured, Posbility: 0.0001
+Choose : ure,  Posbility: 0.9967
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcure
+---------------------------
+Next Token : nces, Posbility: 0.9798
+Next Token : nce, Posbility: 0.0190
+Next Token : ances, Posbility: 0.0002
+Next Token : ns, Posbility: 0.0001
+Next Token : nt, Posbility: 0.0001
+Choose : nces,  Posbility: 0.9798
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences
+---------------------------
+Next Token :  of, Posbility: 0.9798
+Next Token : 
+, Posbility: 0.0057
+Next Token :  in, Posbility: 0.0042
+Next Token :  , Posbility: 0.0025
+Next Token :  for, Posbility: 0.0011
+Choose :  of,  Posbility: 0.9798
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of
+---------------------------
+Next Token :  the, Posbility: 0.9156
+Next Token :  all, Posbility: 0.0205
+Next Token :  a, Posbility: 0.0188
+Next Token :  an, Posbility: 0.0087
+Next Token :  each, Posbility: 0.0060
+Choose :  the,  Posbility: 0.9156
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the
+---------------------------
+Next Token :  element, Posbility: 0.9385
+Next Token :  tuple, Posbility: 0.0143
+Next Token :  elements, Posbility: 0.0134
+Next Token : 
+, Posbility: 0.0036
+Next Token :  , Posbility: 0.0028
+Choose :  element,  Posbility: 0.9385
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element
+---------------------------
+Next Token :  in, Posbility: 0.9250
+Next Token :  with, Posbility: 0.0083
+Next Token :  and, Posbility: 0.0068
+Next Token :  within, Posbility: 0.0067
+Next Token :  from, Posbility: 0.0049
+Choose :  in,  Posbility: 0.9250
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in
+---------------------------
+Next Token :  the, Posbility: 0.9589
+Next Token :  a, Posbility: 0.0226
+Next Token :  all, Posbility: 0.0020
+Next Token :  an, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0013
+Choose :  the,  Posbility: 0.9589
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the
+---------------------------
+Next Token :  tuple, Posbility: 0.9789
+Next Token :  tu, Posbility: 0.0053
+Next Token :  list, Posbility: 0.0025
+Next Token :  first, Posbility: 0.0015
+Next Token :  dictionary, Posbility: 0.0009
+Choose :  tuple,  Posbility: 0.9789
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple
+---------------------------
+Next Token : .', Posbility: 0.6051
+Next Token : ., Posbility: 0.1235
+Next Token : ,, Posbility: 0.0425
+Next Token :  and, Posbility: 0.0330
+Next Token :  using, Posbility: 0.0217
+Choose : .',  Posbility: 0.6051
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9993
+Next Token : 
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9993
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9362
+Next Token : 
+
+, Posbility: 0.0462
+Next Token : def, Posbility: 0.0054
+Next Token :  , Posbility: 0.0049
+Next Token :     , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9362
+---------------------------
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9139
+Next Token : 
+, Posbility: 0.0627
+Next Token : #, Posbility: 0.0096
+Next Token : from, Posbility: 0.0023
+Next Token : import, Posbility: 0.0021
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 15.512178659439087
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+def countOccurences(tuple, element):
+    '''tuple is a tuple of elements and element is an element to be counted'''
+    count = 0
+    for i in tuple:
+        if i == element:
+            count += 1
+    return count
+
+
+'''Write a python function that takes in a tuple and an element and counts the occcurences of the element in the tuple.'''
+

@@ -1,0 +1,739 @@
+<<<<<<<<<<<< 404 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  convert, Posbility: 0.1674
+Next Token :  tuple, Posbility: 0.1127
+Next Token :  t, Posbility: 0.0693
+Next Token :  int, Posbility: 0.0661
+Next Token :  to, Posbility: 0.0650
+Choose :  convert,  Posbility: 0.1674
+'''Write a function to convert tuple string to integer tuple.'''
+def convert
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert
+---------------------------
+Next Token : _, Posbility: 0.5382
+Next Token : (, Posbility: 0.1305
+Next Token : T, Posbility: 0.1179
+Next Token : To, Posbility: 0.1097
+Next Token : 2, Posbility: 0.0217
+Choose : _,  Posbility: 0.5382
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_
+---------------------------
+Next Token : t, Posbility: 0.6326
+Next Token : to, Posbility: 0.1380
+Next Token : tu, Posbility: 0.0558
+Next Token : string, Posbility: 0.0429
+Next Token : str, Posbility: 0.0129
+Choose : t,  Posbility: 0.6326
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_t
+---------------------------
+Next Token : uple, Posbility: 0.9794
+Next Token : up, Posbility: 0.0140
+Next Token : _, Posbility: 0.0009
+Next Token : ups, Posbility: 0.0005
+Next Token : ok, Posbility: 0.0005
+Choose : uple,  Posbility: 0.9794
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple
+---------------------------
+Next Token : _, Posbility: 0.5891
+Next Token : (, Posbility: 0.3737
+Next Token : 2, Posbility: 0.0158
+Next Token :  (, Posbility: 0.0052
+Next Token : ():, Posbility: 0.0049
+Choose : _,  Posbility: 0.5891
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_
+---------------------------
+Next Token : to, Posbility: 0.6107
+Next Token : string, Posbility: 0.2533
+Next Token : str, Posbility: 0.0304
+Next Token : int, Posbility: 0.0230
+Next Token : t, Posbility: 0.0139
+Choose : to,  Posbility: 0.6107
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to
+---------------------------
+Next Token : _, Posbility: 0.9950
+Next Token : int, Posbility: 0.0022
+Next Token : (, Posbility: 0.0008
+Next Token : Int, Posbility: 0.0007
+Next Token : Integer, Posbility: 0.0004
+Choose : _,  Posbility: 0.9950
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_
+---------------------------
+Next Token : int, Posbility: 0.5138
+Next Token : integer, Posbility: 0.2610
+Next Token : t, Posbility: 0.1191
+Next Token : list, Posbility: 0.0227
+Next Token : ints, Posbility: 0.0133
+Choose : int,  Posbility: 0.5138
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int
+---------------------------
+Next Token : (, Posbility: 0.8091
+Next Token : _, Posbility: 0.1475
+Next Token : ():, Posbility: 0.0145
+Next Token :  (, Posbility: 0.0078
+Next Token : t, Posbility: 0.0077
+Choose : (,  Posbility: 0.8091
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(
+---------------------------
+Next Token : t, Posbility: 0.6008
+Next Token : string, Posbility: 0.0609
+Next Token : s, Posbility: 0.0260
+Next Token : a, Posbility: 0.0256
+Next Token : x, Posbility: 0.0253
+Choose : t,  Posbility: 0.6008
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(t
+---------------------------
+Next Token : uple, Posbility: 0.5703
+Next Token : up, Posbility: 0.2897
+Next Token : ):, Posbility: 0.0943
+Next Token : _, Posbility: 0.0205
+Next Token : :, Posbility: 0.0036
+Choose : uple,  Posbility: 0.5703
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple
+---------------------------
+Next Token : _, Posbility: 0.6305
+Next Token : ):, Posbility: 0.3052
+Next Token : 1, Posbility: 0.0284
+Next Token : :, Posbility: 0.0084
+Next Token : ,, Posbility: 0.0044
+Choose : _,  Posbility: 0.6305
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_
+---------------------------
+Next Token : string, Posbility: 0.6076
+Next Token : str, Posbility: 0.1276
+Next Token : ):, Posbility: 0.0443
+Next Token : to, Posbility: 0.0257
+Next Token : t, Posbility: 0.0181
+Choose : string,  Posbility: 0.6076
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string
+---------------------------
+Next Token : ):, Posbility: 0.9322
+Next Token : :, Posbility: 0.0377
+Next Token : ,, Posbility: 0.0107
+Next Token : _, Posbility: 0.0095
+Next Token : ), Posbility: 0.0057
+Choose : ):,  Posbility: 0.9322
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+---------------------------
+Next Token : 
+, Posbility: 0.9509
+Next Token : 
+
+, Posbility: 0.0182
+Next Token : , Posbility: 0.0127
+Next Token :  , Posbility: 0.0093
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9509
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+
+---------------------------
+Next Token :     , Posbility: 0.9289
+Next Token : 	, Posbility: 0.0339
+Next Token :   , Posbility: 0.0287
+Next Token :    , Posbility: 0.0043
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9289
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    
+---------------------------
+Next Token : '', Posbility: 0.5079
+Next Token : return, Posbility: 0.0971
+Next Token : t, Posbility: 0.0647
+Next Token : int, Posbility: 0.0472
+Next Token : if, Posbility: 0.0292
+Choose : '',  Posbility: 0.5079
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''
+---------------------------
+Next Token : Con, Posbility: 0.4102
+Next Token : t, Posbility: 0.0589
+Next Token : 
+, Posbility: 0.0581
+Next Token : Write, Posbility: 0.0559
+Next Token : con, Posbility: 0.0522
+Choose : Con,  Posbility: 0.4102
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Con
+---------------------------
+Next Token : vert, Posbility: 0.8201
+Next Token : verts, Posbility: 0.1569
+Next Token : verting, Posbility: 0.0075
+Next Token : version, Posbility: 0.0064
+Next Token : ver, Posbility: 0.0033
+Choose : vert,  Posbility: 0.8201
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert
+---------------------------
+Next Token :  tuple, Posbility: 0.5178
+Next Token :  a, Posbility: 0.2764
+Next Token :  string, Posbility: 0.0854
+Next Token :  the, Posbility: 0.0342
+Next Token :  tu, Posbility: 0.0076
+Choose :  tuple,  Posbility: 0.5178
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple
+---------------------------
+Next Token :  string, Posbility: 0.8843
+Next Token :  to, Posbility: 0.0698
+Next Token :  of, Posbility: 0.0069
+Next Token : _, Posbility: 0.0068
+Next Token :  into, Posbility: 0.0049
+Choose :  string,  Posbility: 0.8843
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string
+---------------------------
+Next Token :  to, Posbility: 0.9072
+Next Token :  into, Posbility: 0.0370
+Next Token :  in, Posbility: 0.0074
+Next Token :  of, Posbility: 0.0067
+Next Token :  (, Posbility: 0.0049
+Choose :  to,  Posbility: 0.9072
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to
+---------------------------
+Next Token :  integer, Posbility: 0.8543
+Next Token :  int, Posbility: 0.0745
+Next Token :  tuple, Posbility: 0.0332
+Next Token :  an, Posbility: 0.0083
+Next Token :  a, Posbility: 0.0046
+Choose :  integer,  Posbility: 0.8543
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer
+---------------------------
+Next Token :  tuple, Posbility: 0.8443
+Next Token : .', Posbility: 0.0460
+Next Token : ., Posbility: 0.0229
+Next Token : '', Posbility: 0.0151
+Next Token :  tu, Posbility: 0.0091
+Choose :  tuple,  Posbility: 0.8443
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple
+---------------------------
+Next Token : .', Posbility: 0.5722
+Next Token : ., Posbility: 0.2184
+Next Token : '', Posbility: 0.0805
+Next Token :  and, Posbility: 0.0144
+Next Token : ,, Posbility: 0.0115
+Choose : .',  Posbility: 0.5722
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token : 
+, Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9995
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9568
+Next Token : 
+
+, Posbility: 0.0372
+Next Token :  , Posbility: 0.0036
+Next Token :     , Posbility: 0.0010
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9568
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9969
+Next Token :         , Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Next Token :    , Posbility: 0.0003
+Next Token :      , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9969
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.2549
+Next Token : t, Posbility: 0.1423
+Next Token : int, Posbility: 0.0907
+Next Token : list, Posbility: 0.0527
+Next Token : if, Posbility: 0.0481
+Choose : return,  Posbility: 0.2549
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return
+---------------------------
+Next Token :  tuple, Posbility: 0.8935
+Next Token :  int, Posbility: 0.0335
+Next Token :  (, Posbility: 0.0324
+Next Token : (, Posbility: 0.0115
+Next Token :  [, Posbility: 0.0069
+Choose :  tuple,  Posbility: 0.8935
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple
+---------------------------
+Next Token : (, Posbility: 0.6580
+Next Token : ([, Posbility: 0.1963
+Next Token : _, Posbility: 0.1009
+Next Token : ((, Posbility: 0.0345
+Next Token : (', Posbility: 0.0019
+Choose : (,  Posbility: 0.6580
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(
+---------------------------
+Next Token : map, Posbility: 0.6158
+Next Token : int, Posbility: 0.3063
+Next Token : t, Posbility: 0.0379
+Next Token : list, Posbility: 0.0073
+Next Token :  map, Posbility: 0.0069
+Choose : map,  Posbility: 0.6158
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map
+---------------------------
+Next Token : (, Posbility: 0.9981
+Next Token : (', Posbility: 0.0007
+Next Token : ((, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0002
+Next Token : (_, Posbility: 0.0001
+Choose : (,  Posbility: 0.9981
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(
+---------------------------
+Next Token : int, Posbility: 0.9282
+Next Token : lambda, Posbility: 0.0409
+Next Token : str, Posbility: 0.0102
+Next Token : t, Posbility: 0.0049
+Next Token : float, Posbility: 0.0033
+Choose : int,  Posbility: 0.9282
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int
+---------------------------
+Next Token : ,, Posbility: 0.9977
+Next Token : ,, Posbility: 0.0013
+Next Token : ,', Posbility: 0.0004
+Next Token : ,[, Posbility: 0.0002
+Next Token : ,", Posbility: 0.0002
+Choose : ,,  Posbility: 0.9977
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int,
+---------------------------
+Next Token :  tuple, Posbility: 0.7838
+Next Token : t, Posbility: 0.1552
+Next Token :  list, Posbility: 0.0152
+Next Token : (, Posbility: 0.0119
+Next Token :  (, Posbility: 0.0085
+Choose :  tuple,  Posbility: 0.7838
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple
+---------------------------
+Next Token : _, Posbility: 0.9972
+Next Token : (, Posbility: 0.0024
+Next Token : )), Posbility: 0.0001
+Next Token : (', Posbility: 0.0001
+Next Token : ([, Posbility: 0.0000
+Choose : _,  Posbility: 0.9972
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_
+---------------------------
+Next Token : string, Posbility: 0.9998
+Next Token : str, Posbility: 0.0001
+Next Token : to, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : strings, Posbility: 0.0000
+Choose : string,  Posbility: 0.9998
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string
+---------------------------
+Next Token : )), Posbility: 0.5626
+Next Token : ., Posbility: 0.4112
+Next Token : [, Posbility: 0.0150
+Next Token : )., Posbility: 0.0045
+Next Token : ))., Posbility: 0.0016
+Choose : )),  Posbility: 0.5626
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+---------------------------
+Next Token : 
+, Posbility: 0.6166
+Next Token : 
+
+, Posbility: 0.2864
+Next Token : <|endoftext|>, Posbility: 0.0677
+Next Token :  , Posbility: 0.0114
+Next Token :  #, Posbility: 0.0051
+Choose : 
+,  Posbility: 0.6166
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+---------------------------
+Next Token : 
+, Posbility: 0.8412
+Next Token : <|endoftext|>, Posbility: 0.0477
+Next Token :     , Posbility: 0.0343
+Next Token : '', Posbility: 0.0262
+Next Token : def, Posbility: 0.0135
+Choose : 
+,  Posbility: 0.8412
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9617
+Next Token : <|endoftext|>, Posbility: 0.0194
+Next Token : 
+
+, Posbility: 0.0095
+Next Token :     , Posbility: 0.0068
+Next Token :  , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9617
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5519
+Next Token : def, Posbility: 0.2033
+Next Token : #, Posbility: 0.1316
+Next Token : if, Posbility: 0.0247
+Next Token : 
+, Posbility: 0.0215
+Choose : '',  Posbility: 0.5519
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8637
+Next Token :  Write, Posbility: 0.0199
+Next Token : 
+, Posbility: 0.0137
+Next Token : Con, Posbility: 0.0099
+Next Token : Test, Posbility: 0.0056
+Choose : Write,  Posbility: 0.8637
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9823
+Next Token :  function, Posbility: 0.0066
+Next Token :  your, Posbility: 0.0026
+Next Token :  an, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9823
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9731
+Next Token :  program, Posbility: 0.0034
+Next Token :  Python, Posbility: 0.0030
+Next Token :  python, Posbility: 0.0025
+Next Token :  Function, Posbility: 0.0013
+Choose :  function,  Posbility: 0.9731
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7887
+Next Token :  that, Posbility: 0.1658
+Next Token :  which, Posbility: 0.0077
+Next Token :  named, Posbility: 0.0050
+Next Token :  for, Posbility: 0.0041
+Choose :  to,  Posbility: 0.7887
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to
+---------------------------
+Next Token :  convert, Posbility: 0.4404
+Next Token :  print, Posbility: 0.0644
+Next Token :  find, Posbility: 0.0523
+Next Token :  remove, Posbility: 0.0385
+Next Token :  reverse, Posbility: 0.0334
+Choose :  convert,  Posbility: 0.4404
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert
+---------------------------
+Next Token :  string, Posbility: 0.2327
+Next Token :  a, Posbility: 0.1387
+Next Token :  tuple, Posbility: 0.1136
+Next Token :  integer, Posbility: 0.0998
+Next Token :  dictionary, Posbility: 0.0882
+Choose :  string,  Posbility: 0.2327
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string
+---------------------------
+Next Token :  to, Posbility: 0.4951
+Next Token :  tuple, Posbility: 0.3077
+Next Token :  string, Posbility: 0.0313
+Next Token :  list, Posbility: 0.0305
+Next Token :  of, Posbility: 0.0186
+Choose :  to,  Posbility: 0.4951
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string to
+---------------------------
+Next Token :  tuple, Posbility: 0.2744
+Next Token :  integer, Posbility: 0.1901
+Next Token :  list, Posbility: 0.0963
+Next Token :  int, Posbility: 0.0949
+Next Token :  float, Posbility: 0.0590
+Choose :  tuple,  Posbility: 0.2744
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string to tuple
+---------------------------
+Next Token : .', Posbility: 0.6031
+Next Token :  string, Posbility: 0.1879
+Next Token :  list, Posbility: 0.0432
+Next Token : ., Posbility: 0.0301
+Next Token :  of, Posbility: 0.0186
+Choose : .',  Posbility: 0.6031
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string to tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string to tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9730
+Next Token : 
+
+, Posbility: 0.0236
+Next Token : def, Posbility: 0.0012
+Next Token :  , Posbility: 0.0011
+Next Token :   , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9730
+---------------------------
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string to tuple.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9678
+Next Token : 
+, Posbility: 0.0208
+Next Token : #, Posbility: 0.0051
+Next Token : from, Posbility: 0.0016
+Next Token : import, Posbility: 0.0011
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.928160905838013
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert tuple string to integer tuple.'''
+def convert_tuple_to_int(tuple_string):
+    '''Convert tuple string to integer tuple.'''
+    return tuple(map(int, tuple_string))
+
+
+'''Write a function to convert string to tuple.'''
+

@@ -1,0 +1,404 @@
+<<<<<<<<<<<< 412 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2210
+Next Token : ia, Posbility: 0.1796
+Next Token : iban, Posbility: 0.1366
+Next Token : ____, Posbility: 0.0461
+Next Token : ix, Posbility: 0.0394
+syntax error : 
+
+Choose : ia, Posbility: 0.1796
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia
+---------------------------
+Next Token : _, Posbility: 0.2839
+Next Token : (, Posbility: 0.2655
+Next Token : a, Posbility: 0.1708
+Next Token : b, Posbility: 0.0381
+Next Token : ():, Posbility: 0.0288
+Choose : _, Posbility: 0.2839
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_
+---------------------------
+Next Token : b, Posbility: 0.4229
+Next Token : a, Posbility: 0.0659
+Next Token : match, Posbility: 0.0351
+Next Token : string, Posbility: 0.0337
+Next Token : mat, Posbility: 0.0173
+Choose : b, Posbility: 0.4229
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b
+---------------------------
+Next Token : (, Posbility: 0.6096
+Next Token : _, Posbility: 0.1521
+Next Token : ():, Posbility: 0.0696
+Next Token : ib, Posbility: 0.0316
+Next Token : bs, Posbility: 0.0278
+Choose : (, Posbility: 0.6096
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(
+---------------------------
+Next Token : string, Posbility: 0.2593
+Next Token : s, Posbility: 0.2310
+Next Token : text, Posbility: 0.1009
+Next Token : str, Posbility: 0.0912
+Next Token : word, Posbility: 0.0492
+Choose : string, Posbility: 0.2593
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string
+---------------------------
+Next Token : ):, Posbility: 0.9246
+Next Token : ,, Posbility: 0.0306
+Next Token : :, Posbility: 0.0186
+Next Token : _, Posbility: 0.0142
+Next Token : 1, Posbility: 0.0057
+Choose : ):, Posbility: 0.9246
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9130
+Next Token : 
+
+, Posbility: 0.0280
+Next Token :  , Posbility: 0.0266
+Next Token : , Posbility: 0.0159
+Next Token :  #, Posbility: 0.0061
+Choose : 
+, Posbility: 0.9130
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+
+---------------------------
+Next Token :     , Posbility: 0.9042
+Next Token : 	, Posbility: 0.0454
+Next Token :   , Posbility: 0.0382
+Next Token :    , Posbility: 0.0067
+Next Token :         , Posbility: 0.0012
+Choose :     , Posbility: 0.9042
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    
+---------------------------
+Next Token : if, Posbility: 0.1628
+Next Token : '', Posbility: 0.0973
+Next Token : return, Posbility: 0.0893
+Next Token : for, Posbility: 0.0647
+Next Token : #, Posbility: 0.0500
+Choose : if, Posbility: 0.1628
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if
+---------------------------
+Next Token :  string, Posbility: 0.6317
+Next Token :  len, Posbility: 0.1230
+Next Token :  ', Posbility: 0.0945
+Next Token : (, Posbility: 0.0367
+Next Token :  (, Posbility: 0.0294
+Choose :  string, Posbility: 0.6317
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string
+---------------------------
+Next Token : [, Posbility: 0.5392
+Next Token : ., Posbility: 0.3801
+Next Token :  ==, Posbility: 0.0550
+Next Token : ==, Posbility: 0.0082
+Next Token : !=, Posbility: 0.0040
+Choose : [, Posbility: 0.5392
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[
+---------------------------
+Next Token : -, Posbility: 0.4640
+Next Token : 0, Posbility: 0.3486
+Next Token : :, Posbility: 0.1263
+Next Token : len, Posbility: 0.0145
+Next Token : 1, Posbility: 0.0134
+Choose : -, Posbility: 0.4640
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-
+---------------------------
+Next Token : 1, Posbility: 0.5333
+Next Token : 2, Posbility: 0.1815
+Next Token : 3, Posbility: 0.1262
+Next Token : 4, Posbility: 0.0781
+Next Token : 5, Posbility: 0.0434
+Choose : 1, Posbility: 0.5333
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1
+---------------------------
+Next Token : ], Posbility: 0.7691
+Next Token : :], Posbility: 0.1224
+Next Token : ]., Posbility: 0.0525
+Next Token : :, Posbility: 0.0348
+Next Token : :-, Posbility: 0.0062
+Choose : ], Posbility: 0.7691
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1]
+---------------------------
+Next Token :  ==, Posbility: 0.6630
+Next Token : ==, Posbility: 0.1461
+Next Token : !=, Posbility: 0.0894
+Next Token :  in, Posbility: 0.0714
+Next Token : !, Posbility: 0.0145
+Choose :  ==, Posbility: 0.6630
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] ==
+---------------------------
+Next Token :  ', Posbility: 0.8370
+Next Token :  ", Posbility: 0.1400
+Next Token : ', Posbility: 0.0115
+Next Token :  string, Posbility: 0.0057
+Next Token :  a, Posbility: 0.0008
+Choose :  ', Posbility: 0.8370
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '
+---------------------------
+Next Token : a, Posbility: 0.8674
+Next Token : b, Posbility: 0.1044
+Next Token : .', Posbility: 0.0036
+Next Token : A, Posbility: 0.0031
+Next Token :  ', Posbility: 0.0018
+syntax error : a
+syntax error : b
+Choose : .', Posbility: 0.0036
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.'
+---------------------------
+Next Token : :, Posbility: 0.8184
+Next Token :  and, Posbility: 0.1260
+Next Token :  or, Posbility: 0.0482
+Next Token :  :, Posbility: 0.0049
+Next Token :   , Posbility: 0.0005
+Choose : :, Posbility: 0.8184
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+---------------------------
+Next Token : 
+, Posbility: 0.9401
+Next Token :  , Posbility: 0.0240
+Next Token :  return, Posbility: 0.0111
+Next Token :  #, Posbility: 0.0103
+Next Token :   , Posbility: 0.0031
+Choose : 
+, Posbility: 0.9401
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+
+---------------------------
+Next Token :         , Posbility: 0.9796
+Next Token :        , Posbility: 0.0052
+Next Token :       , Posbility: 0.0051
+Next Token :             , Posbility: 0.0049
+Next Token :     , Posbility: 0.0017
+Choose :         , Posbility: 0.9796
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        
+---------------------------
+Next Token : return, Posbility: 0.5190
+Next Token : string, Posbility: 0.2066
+Next Token : if, Posbility: 0.0865
+Next Token : print, Posbility: 0.0403
+Next Token : for, Posbility: 0.0139
+Choose : return, Posbility: 0.5190
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return
+---------------------------
+Next Token :  True, Posbility: 0.3685
+Next Token :  string, Posbility: 0.3672
+Next Token :  False, Posbility: 0.1001
+Next Token :  ', Posbility: 0.0436
+Next Token :  ", Posbility: 0.0183
+Choose :  True, Posbility: 0.3685
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9528
+Next Token : 
+
+, Posbility: 0.0204
+Next Token :  , Posbility: 0.0111
+Next Token :  #, Posbility: 0.0039
+Next Token : ;, Posbility: 0.0017
+Choose : 
+, Posbility: 0.9528
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9615
+Next Token : 
+, Posbility: 0.0190
+Next Token :         , Posbility: 0.0087
+Next Token : def, Posbility: 0.0030
+Next Token : print, Posbility: 0.0008
+Choose :     , Posbility: 0.9615
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.6382
+Next Token : return, Posbility: 0.1760
+Next Token : el, Posbility: 0.0939
+Next Token : if, Posbility: 0.0456
+Next Token : 
+, Posbility: 0.0146
+Choose : else, Posbility: 0.6382
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9947
+Next Token :  :, Posbility: 0.0051
+Next Token : :#, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : :, Posbility: 0.9947
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9330
+Next Token :  , Posbility: 0.0369
+Next Token :  return, Posbility: 0.0261
+Next Token :  #, Posbility: 0.0008
+Next Token :     , Posbility: 0.0007
+Choose : 
+, Posbility: 0.9330
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9923
+Next Token :        , Posbility: 0.0022
+Next Token :          , Posbility: 0.0018
+Next Token :             , Posbility: 0.0011
+Next Token :     , Posbility: 0.0010
+Choose :         , Posbility: 0.9923
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9580
+Next Token : if, Posbility: 0.0119
+Next Token : print, Posbility: 0.0048
+Next Token : for, Posbility: 0.0036
+Next Token : False, Posbility: 0.0027
+Choose : return, Posbility: 0.9580
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9916
+Next Token :  , Posbility: 0.0018
+Next Token :  True, Posbility: 0.0011
+Next Token :  not, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0006
+Choose :  False, Posbility: 0.9916
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7392
+Next Token : 
+
+, Posbility: 0.2051
+Next Token : <|endoftext|>, Posbility: 0.0243
+Next Token :  , Posbility: 0.0150
+Next Token :     , Posbility: 0.0054
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.307266473770142
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that matches a string that has an 'a' followed by anything, ending in 'b'.'''
+def ia_b(string):
+    if string[-1] == '.':
+        return True
+    else:
+        return False
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,598 @@
+<<<<<<<<<<<< 148 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  cylinder, Posbility: 0.5252
+Next Token :  volume, Posbility: 0.1364
+Next Token :  vol, Posbility: 0.0727
+Next Token :  calculate, Posbility: 0.0462
+Next Token :  c, Posbility: 0.0246
+Choose :  cylinder,  Posbility: 0.5252
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder
+---------------------------
+Next Token : _, Posbility: 0.4694
+Next Token : (, Posbility: 0.3337
+Next Token : Volume, Posbility: 0.1163
+Next Token : Vol, Posbility: 0.0182
+Next Token : ():, Posbility: 0.0147
+Choose : _,  Posbility: 0.4694
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_
+---------------------------
+Next Token : volume, Posbility: 0.8661
+Next Token : vol, Posbility: 0.0729
+Next Token : area, Posbility: 0.0098
+Next Token : cal, Posbility: 0.0050
+Next Token : Volume, Posbility: 0.0026
+Choose : volume,  Posbility: 0.8661
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume
+---------------------------
+Next Token : (, Posbility: 0.9209
+Next Token : ():, Posbility: 0.0308
+Next Token : _, Posbility: 0.0261
+Next Token :  (, Posbility: 0.0196
+Next Token : (*, Posbility: 0.0009
+Choose : (,  Posbility: 0.9209
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(
+---------------------------
+Next Token : r, Posbility: 0.4728
+Next Token : radius, Posbility: 0.3441
+Next Token : height, Posbility: 0.0275
+Next Token : R, Posbility: 0.0274
+Next Token : rad, Posbility: 0.0241
+Choose : r,  Posbility: 0.4728
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r
+---------------------------
+Next Token : ,, Posbility: 0.9408
+Next Token : :, Posbility: 0.0263
+Next Token : ):, Posbility: 0.0135
+Next Token : _, Posbility: 0.0068
+Next Token : =, Posbility: 0.0062
+Choose : ,,  Posbility: 0.9408
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r,
+---------------------------
+Next Token :  h, Posbility: 0.5474
+Next Token : h, Posbility: 0.4358
+Next Token :  height, Posbility: 0.0083
+Next Token : height, Posbility: 0.0023
+Next Token : H, Posbility: 0.0006
+Choose :  h,  Posbility: 0.5474
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h
+---------------------------
+Next Token : ):, Posbility: 0.9911
+Next Token : ,, Posbility: 0.0038
+Next Token : ), Posbility: 0.0021
+Next Token : =, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0007
+Choose : ):,  Posbility: 0.9911
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+---------------------------
+Next Token : 
+, Posbility: 0.9164
+Next Token : 
+
+, Posbility: 0.0353
+Next Token : , Posbility: 0.0211
+Next Token :  , Posbility: 0.0123
+Next Token :  #, Posbility: 0.0066
+Choose : 
+,  Posbility: 0.9164
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+
+---------------------------
+Next Token :     , Posbility: 0.9316
+Next Token :   , Posbility: 0.0358
+Next Token : 	, Posbility: 0.0264
+Next Token :    , Posbility: 0.0026
+Next Token :         , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9316
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    
+---------------------------
+Next Token : return, Posbility: 0.2930
+Next Token : volume, Posbility: 0.2022
+Next Token : '', Posbility: 0.1208
+Next Token : #, Posbility: 0.0666
+Next Token : print, Posbility: 0.0499
+Choose : return,  Posbility: 0.2930
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return
+---------------------------
+Next Token :  (, Posbility: 0.2941
+Next Token :  r, Posbility: 0.2611
+Next Token :  3, Posbility: 0.0987
+Next Token :  h, Posbility: 0.0778
+Next Token :  4, Posbility: 0.0709
+Choose :  (,  Posbility: 0.2941
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (
+---------------------------
+Next Token : r, Posbility: 0.3123
+Next Token : 3, Posbility: 0.3051
+Next Token : 4, Posbility: 0.2911
+Next Token : 2, Posbility: 0.0163
+Next Token : h, Posbility: 0.0162
+Choose : r,  Posbility: 0.3123
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r
+---------------------------
+Next Token : *, Posbility: 0.3698
+Next Token : **, Posbility: 0.2625
+Next Token :  *, Posbility: 0.2416
+Next Token :  **, Posbility: 0.1090
+Next Token : ), Posbility: 0.0081
+Choose : *,  Posbility: 0.3698
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*
+---------------------------
+Next Token : h, Posbility: 0.7233
+Next Token : r, Posbility: 0.1536
+Next Token : (, Posbility: 0.0519
+Next Token : 3, Posbility: 0.0402
+Next Token : 4, Posbility: 0.0098
+Choose : h,  Posbility: 0.7233
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h
+---------------------------
+Next Token : )/, Posbility: 0.4099
+Next Token : ), Posbility: 0.3252
+Next Token : *, Posbility: 0.1230
+Next Token : )*, Posbility: 0.0850
+Next Token : /, Posbility: 0.0384
+Choose : )/,  Posbility: 0.4099
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/
+---------------------------
+Next Token : 3, Posbility: 0.5682
+Next Token : 2, Posbility: 0.3858
+Next Token : 4, Posbility: 0.0134
+Next Token : (, Posbility: 0.0114
+Next Token : math, Posbility: 0.0064
+Choose : 3,  Posbility: 0.5682
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+---------------------------
+Next Token : 
+, Posbility: 0.4792
+Next Token : ., Posbility: 0.4307
+Next Token : 
+
+, Posbility: 0.0599
+Next Token : *, Posbility: 0.0111
+Next Token : /, Posbility: 0.0046
+Choose : 
+,  Posbility: 0.4792
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+---------------------------
+Next Token : 
+, Posbility: 0.6898
+Next Token : print, Posbility: 0.1066
+Next Token :     , Posbility: 0.0446
+Next Token : #, Posbility: 0.0376
+Next Token : cyl, Posbility: 0.0173
+Choose : 
+,  Posbility: 0.6898
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9478
+Next Token : <|endoftext|>, Posbility: 0.0203
+Next Token : 
+
+, Posbility: 0.0160
+Next Token :     , Posbility: 0.0120
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9478
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3759
+Next Token : #, Posbility: 0.2009
+Next Token : print, Posbility: 0.1228
+Next Token : def, Posbility: 0.1212
+Next Token : if, Posbility: 0.0570
+Choose : '',  Posbility: 0.3759
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7932
+Next Token :  Write, Posbility: 0.0238
+Next Token : 
+, Posbility: 0.0197
+Next Token : Use, Posbility: 0.0066
+Next Token : A, Posbility: 0.0064
+Choose : Write,  Posbility: 0.7932
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9879
+Next Token :  your, Posbility: 0.0031
+Next Token :  the, Posbility: 0.0024
+Next Token :  an, Posbility: 0.0020
+Next Token :  another, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9879
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9621
+Next Token :  program, Posbility: 0.0128
+Next Token :  Python, Posbility: 0.0040
+Next Token :  python, Posbility: 0.0030
+Next Token :  recursive, Posbility: 0.0018
+Choose :  function,  Posbility: 0.9621
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9210
+Next Token :  to, Posbility: 0.0263
+Next Token :  called, Posbility: 0.0235
+Next Token :  which, Posbility: 0.0071
+Next Token :  named, Posbility: 0.0064
+Choose :  that,  Posbility: 0.9210
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.6964
+Next Token :  returns, Posbility: 0.0575
+Next Token :  accepts, Posbility: 0.0542
+Next Token :  calculates, Posbility: 0.0197
+Next Token :  prints, Posbility: 0.0170
+Choose :  takes,  Posbility: 0.6964
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  in, Posbility: 0.7828
+Next Token :  a, Posbility: 0.0890
+Next Token :  as, Posbility: 0.0252
+Next Token :  two, Posbility: 0.0249
+Next Token :  the, Posbility: 0.0244
+Choose :  in,  Posbility: 0.7828
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in
+---------------------------
+Next Token :  the, Posbility: 0.3328
+Next Token :  a, Posbility: 0.2550
+Next Token :  two, Posbility: 0.1873
+Next Token :  an, Posbility: 0.0670
+Next Token :  radius, Posbility: 0.0475
+Choose :  the,  Posbility: 0.3328
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the
+---------------------------
+Next Token :  radius, Posbility: 0.6161
+Next Token :  height, Posbility: 0.0413
+Next Token :  diameter, Posbility: 0.0311
+Next Token :  name, Posbility: 0.0290
+Next Token :  number, Posbility: 0.0275
+Choose :  radius,  Posbility: 0.6161
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius
+---------------------------
+Next Token :  and, Posbility: 0.6881
+Next Token :  of, Posbility: 0.2615
+Next Token : ,, Posbility: 0.0274
+Next Token :  (, Posbility: 0.0060
+Next Token :  r, Posbility: 0.0040
+Choose :  and,  Posbility: 0.6881
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and
+---------------------------
+Next Token :  height, Posbility: 0.9230
+Next Token :  length, Posbility: 0.0101
+Next Token :  diameter, Posbility: 0.0086
+Next Token :  depth, Posbility: 0.0071
+Next Token :  volume, Posbility: 0.0054
+Choose :  height,  Posbility: 0.9230
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height
+---------------------------
+Next Token :  of, Posbility: 0.9651
+Next Token :  and, Posbility: 0.0220
+Next Token :  (, Posbility: 0.0044
+Next Token : ,, Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0009
+Choose :  of,  Posbility: 0.9651
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of
+---------------------------
+Next Token :  a, Posbility: 0.9620
+Next Token :  an, Posbility: 0.0143
+Next Token :  two, Posbility: 0.0075
+Next Token :  the, Posbility: 0.0056
+Next Token :  three, Posbility: 0.0024
+Choose :  a,  Posbility: 0.9620
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a
+---------------------------
+Next Token :  cylinder, Posbility: 0.6404
+Next Token :  sphere, Posbility: 0.0904
+Next Token :  triangle, Posbility: 0.0421
+Next Token :  cone, Posbility: 0.0329
+Next Token :  cub, Posbility: 0.0150
+Choose :  cylinder,  Posbility: 0.6404
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder
+---------------------------
+Next Token :  and, Posbility: 0.9625
+Next Token : ,, Posbility: 0.0193
+Next Token : 
+, Posbility: 0.0038
+Next Token :  as, Posbility: 0.0022
+Next Token : ., Posbility: 0.0018
+Choose :  and,  Posbility: 0.9625
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and
+---------------------------
+Next Token :  returns, Posbility: 0.8361
+Next Token :  calculates, Posbility: 0.0297
+Next Token :  return, Posbility: 0.0249
+Next Token :  prints, Posbility: 0.0239
+Next Token : 
+, Posbility: 0.0080
+Choose :  returns,  Posbility: 0.8361
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns
+---------------------------
+Next Token :  the, Posbility: 0.9257
+Next Token :  a, Posbility: 0.0178
+Next Token :  its, Posbility: 0.0120
+Next Token : 
+, Posbility: 0.0076
+Next Token :  whether, Posbility: 0.0073
+Choose :  the,  Posbility: 0.9257
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the
+---------------------------
+Next Token :  surface, Posbility: 0.1901
+Next Token :  area, Posbility: 0.1847
+Next Token :  the, Posbility: 0.1169
+Next Token :  volume, Posbility: 0.0782
+Next Token :  diameter, Posbility: 0.0626
+Choose :  surface,  Posbility: 0.1901
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the surface
+---------------------------
+Next Token :  area, Posbility: 0.7498
+Next Token :  volume, Posbility: 0.0555
+Next Token :  of, Posbility: 0.0459
+Next Token : 
+, Posbility: 0.0289
+Next Token :  normal, Posbility: 0.0122
+Choose :  area,  Posbility: 0.7498
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the surface area
+---------------------------
+Next Token : .', Posbility: 0.7055
+Next Token :  of, Posbility: 0.1216
+Next Token : ., Posbility: 0.0474
+Next Token : '', Posbility: 0.0444
+Next Token :  (, Posbility: 0.0267
+Choose : .',  Posbility: 0.7055
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the surface area.'
+---------------------------
+Next Token : '', Posbility: 0.9992
+Next Token : 
+, Posbility: 0.0005
+Next Token :  ', Posbility: 0.0001
+Next Token :  , Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9992
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the surface area.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9723
+Next Token : 
+
+, Posbility: 0.0232
+Next Token :  , Posbility: 0.0019
+Next Token : def, Posbility: 0.0011
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9723
+---------------------------
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the surface area.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9646
+Next Token : 
+, Posbility: 0.0271
+Next Token : #, Posbility: 0.0036
+Next Token : import, Posbility: 0.0010
+Next Token : from, Posbility: 0.0005
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.61491584777832
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in the radius and height of a cylinder and returns the the volume.'''
+def cylinder_volume(r, h):
+    return (r*h)/3
+
+
+'''Write a function that takes in the radius and height of a cylinder and returns the surface area.'''
+

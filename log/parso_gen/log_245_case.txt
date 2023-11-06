@@ -1,0 +1,238 @@
+<<<<<<<<<<<< 245 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ia, Posbility: 0.2312
+Next Token : ____, Posbility: 0.1089
+Next Token : ix, Posbility: 0.0884
+Next Token : 
+, Posbility: 0.0686
+Next Token : iz, Posbility: 0.0289
+Choose : ia, Posbility: 0.2312
+'''Write a function to find the area of a rectangle.'''
+def ia
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia
+---------------------------
+Next Token : (, Posbility: 0.3569
+Next Token : _, Posbility: 0.1971
+Next Token : rea, Posbility: 0.0604
+Next Token : ():, Posbility: 0.0597
+Next Token : a, Posbility: 0.0278
+Choose : (, Posbility: 0.3569
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(
+---------------------------
+Next Token : a, Posbility: 0.2094
+Next Token : x, Posbility: 0.1518
+Next Token : l, Posbility: 0.1098
+Next Token : r, Posbility: 0.0606
+Next Token : h, Posbility: 0.0375
+Choose : a, Posbility: 0.2094
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a
+---------------------------
+Next Token : ,, Posbility: 0.7922
+Next Token : ):, Posbility: 0.1179
+Next Token : 1, Posbility: 0.0544
+Next Token : _, Posbility: 0.0129
+Next Token : :, Posbility: 0.0061
+Choose : ,, Posbility: 0.7922
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,
+---------------------------
+Next Token : b, Posbility: 0.5654
+Next Token :  b, Posbility: 0.3204
+Next Token : h, Posbility: 0.0297
+Next Token : l, Posbility: 0.0160
+Next Token :  h, Posbility: 0.0142
+Choose : b, Posbility: 0.5654
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b
+---------------------------
+Next Token : ,, Posbility: 0.7134
+Next Token : ):, Posbility: 0.2825
+Next Token : ), Posbility: 0.0022
+Next Token : =, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0006
+Choose : ,, Posbility: 0.7134
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,
+---------------------------
+Next Token : c, Posbility: 0.5464
+Next Token : h, Posbility: 0.2923
+Next Token : l, Posbility: 0.0350
+Next Token : w, Posbility: 0.0251
+Next Token : x, Posbility: 0.0138
+Choose : c, Posbility: 0.5464
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c
+---------------------------
+Next Token : ):, Posbility: 0.6524
+Next Token : ,, Posbility: 0.3407
+Next Token : ), Posbility: 0.0036
+Next Token : =, Posbility: 0.0017
+Next Token : x, Posbility: 0.0004
+Choose : ):, Posbility: 0.6524
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+---------------------------
+Next Token : 
+, Posbility: 0.9039
+Next Token : , Posbility: 0.0339
+Next Token :  , Posbility: 0.0263
+Next Token : 
+
+, Posbility: 0.0168
+Next Token :  #, Posbility: 0.0063
+Choose : 
+, Posbility: 0.9039
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+
+---------------------------
+Next Token :     , Posbility: 0.8913
+Next Token :   , Posbility: 0.0585
+Next Token : 	, Posbility: 0.0320
+Next Token :    , Posbility: 0.0075
+Next Token :         , Posbility: 0.0028
+Choose :     , Posbility: 0.8913
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    
+---------------------------
+Next Token : return, Posbility: 0.2568
+Next Token : area, Posbility: 0.1727
+Next Token : ia, Posbility: 0.1543
+Next Token : '', Posbility: 0.0929
+Next Token : if, Posbility: 0.0663
+Choose : return, Posbility: 0.2568
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return
+---------------------------
+Next Token :  a, Posbility: 0.4847
+Next Token :  (, Posbility: 0.2688
+Next Token :  abs, Posbility: 0.0843
+Next Token :  ((, Posbility: 0.0401
+Next Token : (, Posbility: 0.0229
+Choose :  a, Posbility: 0.4847
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a
+---------------------------
+Next Token : *, Posbility: 0.8560
+Next Token :  *, Posbility: 0.1205
+Next Token : +, Posbility: 0.0130
+Next Token :  +, Posbility: 0.0052
+Next Token : **, Posbility: 0.0035
+Choose : *, Posbility: 0.8560
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*
+---------------------------
+Next Token : b, Posbility: 0.7330
+Next Token : c, Posbility: 0.2368
+Next Token : (, Posbility: 0.0208
+Next Token : a, Posbility: 0.0049
+Next Token : ((, Posbility: 0.0009
+Choose : b, Posbility: 0.7330
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*b
+---------------------------
+Next Token : /, Posbility: 0.3589
+Next Token : *, Posbility: 0.3487
+Next Token : +, Posbility: 0.1244
+Next Token : -, Posbility: 0.0418
+Next Token : 
+, Posbility: 0.0354
+Choose : /, Posbility: 0.3589
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*b/
+---------------------------
+Next Token : 2, Posbility: 0.5305
+Next Token : c, Posbility: 0.4601
+Next Token : 3, Posbility: 0.0036
+Next Token : 4, Posbility: 0.0013
+Next Token : ((, Posbility: 0.0006
+Choose : 2, Posbility: 0.5305
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*b/2
+---------------------------
+Next Token : 
+, Posbility: 0.3455
+Next Token : +, Posbility: 0.2558
+Next Token :  +, Posbility: 0.1464
+Next Token : *, Posbility: 0.0702
+Next Token : -, Posbility: 0.0449
+Choose : 
+, Posbility: 0.3455
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*b/2
+
+---------------------------
+Next Token : 
+, Posbility: 0.4617
+Next Token : def, Posbility: 0.2551
+Next Token : print, Posbility: 0.0694
+Next Token :     , Posbility: 0.0286
+Next Token : #, Posbility: 0.0250
+Choose : 
+, Posbility: 0.4617
+---------------------------
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*b/2
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9540
+Next Token : 
+
+, Posbility: 0.0193
+Next Token :     , Posbility: 0.0131
+Next Token : <|endoftext|>, Posbility: 0.0045
+Next Token :  , Posbility: 0.0028
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 2.7570784091949463
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the area of a rectangle.'''
+def ia(a,b,c):
+    return a*b/2
+
+
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

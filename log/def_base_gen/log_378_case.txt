@@ -1,0 +1,1424 @@
+<<<<<<<<<<<< 378 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  match, Posbility: 0.1523
+Next Token :  a, Posbility: 0.1413
+Next Token :  find, Posbility: 0.0904
+Next Token :  is, Posbility: 0.0412
+Next Token :  check, Posbility: 0.0254
+Choose :  match,  Posbility: 0.1523
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match
+---------------------------
+Next Token : _, Posbility: 0.5664
+Next Token : (, Posbility: 0.2080
+Next Token : A, Posbility: 0.0474
+Next Token : a, Posbility: 0.0231
+Next Token : B, Posbility: 0.0183
+Choose : _,  Posbility: 0.5664
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_
+---------------------------
+Next Token : a, Posbility: 0.5952
+Next Token : string, Posbility: 0.0726
+Next Token : b, Posbility: 0.0313
+Next Token : ab, Posbility: 0.0211
+Next Token : any, Posbility: 0.0146
+Choose : a,  Posbility: 0.5952
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a
+---------------------------
+Next Token : (, Posbility: 0.5708
+Next Token : _, Posbility: 0.3959
+Next Token : ():, Posbility: 0.0106
+Next Token : 1, Posbility: 0.0047
+Next Token :  (, Posbility: 0.0045
+Choose : (,  Posbility: 0.5708
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(
+---------------------------
+Next Token : string, Posbility: 0.2462
+Next Token : s, Posbility: 0.1951
+Next Token : text, Posbility: 0.1322
+Next Token : str, Posbility: 0.1054
+Next Token : word, Posbility: 0.0516
+Choose : string,  Posbility: 0.2462
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string
+---------------------------
+Next Token : ):, Posbility: 0.8719
+Next Token : ,, Posbility: 0.0541
+Next Token : :, Posbility: 0.0376
+Next Token : _, Posbility: 0.0208
+Next Token : 1, Posbility: 0.0081
+Choose : ):,  Posbility: 0.8719
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9065
+Next Token : , Posbility: 0.0301
+Next Token : 
+
+, Posbility: 0.0274
+Next Token :  , Posbility: 0.0157
+Next Token :  #, Posbility: 0.0074
+Choose : 
+,  Posbility: 0.9065
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+
+---------------------------
+Next Token :     , Posbility: 0.8995
+Next Token : 	, Posbility: 0.0473
+Next Token :   , Posbility: 0.0363
+Next Token :    , Posbility: 0.0081
+Next Token :         , Posbility: 0.0023
+Choose :     ,  Posbility: 0.8995
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    
+---------------------------
+Next Token : if, Posbility: 0.1665
+Next Token : '', Posbility: 0.1389
+Next Token : return, Posbility: 0.0834
+Next Token : #, Posbility: 0.0704
+Next Token : a, Posbility: 0.0567
+Choose : if,  Posbility: 0.1665
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if
+---------------------------
+Next Token :  string, Posbility: 0.5254
+Next Token :  ', Posbility: 0.1686
+Next Token :  len, Posbility: 0.0955
+Next Token :  ", Posbility: 0.0471
+Next Token : (, Posbility: 0.0433
+Choose :  string,  Posbility: 0.5254
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string
+---------------------------
+Next Token : ., Posbility: 0.4538
+Next Token : [, Posbility: 0.4378
+Next Token :  ==, Posbility: 0.0765
+Next Token : ==, Posbility: 0.0088
+Next Token :  in, Posbility: 0.0057
+Choose : .,  Posbility: 0.4538
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.
+---------------------------
+Next Token : find, Posbility: 0.3396
+Next Token : start, Posbility: 0.2300
+Next Token : count, Posbility: 0.2169
+Next Token : lower, Posbility: 0.0680
+Next Token : end, Posbility: 0.0655
+Choose : find,  Posbility: 0.3396
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find
+---------------------------
+Next Token : (', Posbility: 0.6565
+Next Token : (", Posbility: 0.3332
+Next Token : (, Posbility: 0.0093
+Next Token :  (', Posbility: 0.0003
+Next Token :  (", Posbility: 0.0003
+Choose : (',  Posbility: 0.6565
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('
+---------------------------
+Next Token : a, Posbility: 0.9314
+Next Token : ab, Posbility: 0.0110
+Next Token : b, Posbility: 0.0110
+Next Token : A, Posbility: 0.0080
+Next Token : ba, Posbility: 0.0046
+Choose : a,  Posbility: 0.9314
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a
+---------------------------
+Next Token : '), Posbility: 0.9570
+Next Token : ', Posbility: 0.0227
+Next Token : ',, Posbility: 0.0080
+Next Token : .', Posbility: 0.0035
+Next Token :  ', Posbility: 0.0030
+Choose : '),  Posbility: 0.9570
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')
+---------------------------
+Next Token : !=, Posbility: 0.5240
+Next Token :  >, Posbility: 0.1106
+Next Token :  >=, Posbility: 0.1077
+Next Token : !, Posbility: 0.0696
+Next Token :  ==, Posbility: 0.0694
+Choose : !=,  Posbility: 0.5240
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!=
+---------------------------
+Next Token :  -, Posbility: 0.7195
+Next Token : 0, Posbility: 0.2273
+Next Token : None, Posbility: 0.0167
+Next Token :  0, Posbility: 0.0150
+Next Token : len, Posbility: 0.0038
+Choose :  -,  Posbility: 0.7195
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -
+---------------------------
+Next Token : 1, Posbility: 0.9740
+Next Token :  1, Posbility: 0.0252
+Next Token : 2, Posbility: 0.0003
+Next Token : 10, Posbility: 0.0001
+Next Token : 9, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9740
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1
+---------------------------
+Next Token : :, Posbility: 0.7915
+Next Token :  or, Posbility: 0.0810
+Next Token :  and, Posbility: 0.0771
+Next Token :  :, Posbility: 0.0452
+Next Token :   , Posbility: 0.0019
+Choose : :,  Posbility: 0.7915
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+---------------------------
+Next Token : 
+, Posbility: 0.9413
+Next Token :  , Posbility: 0.0131
+Next Token :  #, Posbility: 0.0128
+Next Token :  return, Posbility: 0.0123
+Next Token : 
+
+, Posbility: 0.0047
+Choose : 
+,  Posbility: 0.9413
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+
+---------------------------
+Next Token :         , Posbility: 0.9511
+Next Token :        , Posbility: 0.0134
+Next Token :             , Posbility: 0.0112
+Next Token :       , Posbility: 0.0109
+Next Token :     , Posbility: 0.0039
+Choose :         ,  Posbility: 0.9511
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        
+---------------------------
+Next Token : return, Posbility: 0.6154
+Next Token : print, Posbility: 0.1058
+Next Token : string, Posbility: 0.0675
+Next Token : a, Posbility: 0.0248
+Next Token : if, Posbility: 0.0175
+Choose : return,  Posbility: 0.6154
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.6838
+Next Token :  string, Posbility: 0.1512
+Next Token :  1, Posbility: 0.0483
+Next Token :  ', Posbility: 0.0342
+Next Token :  ", Posbility: 0.0144
+Choose :  True,  Posbility: 0.6838
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9512
+Next Token : 
+
+, Posbility: 0.0204
+Next Token :  , Posbility: 0.0123
+Next Token : ;, Posbility: 0.0063
+Next Token :  #, Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9512
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9077
+Next Token : 
+, Posbility: 0.0460
+Next Token : def, Posbility: 0.0168
+Next Token :         , Posbility: 0.0154
+Next Token : #, Posbility: 0.0017
+Choose :     ,  Posbility: 0.9077
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.7835
+Next Token : return, Posbility: 0.1240
+Next Token : el, Posbility: 0.0600
+Next Token : if, Posbility: 0.0142
+Next Token : 
+, Posbility: 0.0090
+Choose : else,  Posbility: 0.7835
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9823
+Next Token :  :, Posbility: 0.0172
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  return, Posbility: 0.0001
+Choose : :,  Posbility: 0.9823
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9370
+Next Token :  return, Posbility: 0.0350
+Next Token :  , Posbility: 0.0221
+Next Token : return, Posbility: 0.0024
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9370
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9872
+Next Token :        , Posbility: 0.0036
+Next Token :          , Posbility: 0.0035
+Next Token :             , Posbility: 0.0019
+Next Token :     , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9872
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9738
+Next Token : print, Posbility: 0.0078
+Next Token : False, Posbility: 0.0032
+Next Token : if, Posbility: 0.0021
+Next Token : for, Posbility: 0.0020
+Choose : return,  Posbility: 0.9738
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9935
+Next Token :   , Posbility: 0.0007
+Next Token :  match, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0007
+Next Token :  false, Posbility: 0.0006
+Choose :  False,  Posbility: 0.9935
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7765
+Next Token : 
+
+, Posbility: 0.1797
+Next Token :  , Posbility: 0.0152
+Next Token : <|endoftext|>, Posbility: 0.0109
+Next Token :     , Posbility: 0.0053
+Choose : 
+,  Posbility: 0.7765
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.5942
+Next Token : def, Posbility: 0.1264
+Next Token :     , Posbility: 0.0486
+Next Token : '', Posbility: 0.0449
+Next Token : print, Posbility: 0.0423
+Choose : 
+,  Posbility: 0.5942
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9011
+Next Token : 
+
+, Posbility: 0.0361
+Next Token :     , Posbility: 0.0332
+Next Token : <|endoftext|>, Posbility: 0.0160
+Next Token :         , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9011
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5406
+Next Token : def, Posbility: 0.2079
+Next Token : #, Posbility: 0.0814
+Next Token : 
+, Posbility: 0.0780
+Next Token : print, Posbility: 0.0440
+Choose : '',  Posbility: 0.5406
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.9075
+Next Token :  Write, Posbility: 0.0175
+Next Token : 
+, Posbility: 0.0123
+Next Token : write, Posbility: 0.0035
+Next Token : Use, Posbility: 0.0024
+Choose : Write,  Posbility: 0.9075
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9962
+Next Token :  an, Posbility: 0.0009
+Next Token :  your, Posbility: 0.0009
+Next Token :  the, Posbility: 0.0004
+Next Token :  another, Posbility: 0.0003
+Choose :  a,  Posbility: 0.9962
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9775
+Next Token :  Python, Posbility: 0.0032
+Next Token :  program, Posbility: 0.0030
+Next Token :  python, Posbility: 0.0022
+Next Token :  method, Posbility: 0.0008
+Choose :  function,  Posbility: 0.9775
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9622
+Next Token :  to, Posbility: 0.0101
+Next Token :  called, Posbility: 0.0055
+Next Token :  which, Posbility: 0.0045
+Next Token :  named, Posbility: 0.0024
+Choose :  that,  Posbility: 0.9622
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that
+---------------------------
+Next Token :  matches, Posbility: 0.5022
+Next Token :  takes, Posbility: 0.0877
+Next Token :  returns, Posbility: 0.0268
+Next Token :  will, Posbility: 0.0253
+Next Token :  revers, Posbility: 0.0221
+Choose :  matches,  Posbility: 0.5022
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches
+---------------------------
+Next Token :  a, Posbility: 0.9200
+Next Token :  any, Posbility: 0.0119
+Next Token :  an, Posbility: 0.0117
+Next Token :  two, Posbility: 0.0114
+Next Token :  the, Posbility: 0.0079
+Choose :  a,  Posbility: 0.9200
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a
+---------------------------
+Next Token :  string, Posbility: 0.9731
+Next Token :  sentence, Posbility: 0.0020
+Next Token :  pattern, Posbility: 0.0020
+Next Token :  word, Posbility: 0.0018
+Next Token :  single, Posbility: 0.0017
+Choose :  string,  Posbility: 0.9731
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string
+---------------------------
+Next Token :  that, Posbility: 0.9740
+Next Token :  with, Posbility: 0.0059
+Next Token :  which, Posbility: 0.0027
+Next Token :  where, Posbility: 0.0027
+Next Token : ., Posbility: 0.0026
+Choose :  that,  Posbility: 0.9740
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that
+---------------------------
+Next Token :  has, Posbility: 0.8973
+Next Token :  contains, Posbility: 0.0220
+Next Token :  ends, Posbility: 0.0162
+Next Token :  matches, Posbility: 0.0136
+Next Token :  starts, Posbility: 0.0111
+Choose :  has,  Posbility: 0.8973
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has
+---------------------------
+Next Token :  an, Posbility: 0.6336
+Next Token :  a, Posbility: 0.1630
+Next Token :  ', Posbility: 0.0461
+Next Token :  one, Posbility: 0.0382
+Next Token :  the, Posbility: 0.0143
+Choose :  an,  Posbility: 0.6336
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an
+---------------------------
+Next Token :  ', Posbility: 0.9632
+Next Token :  ", Posbility: 0.0043
+Next Token :  a, Posbility: 0.0034
+Next Token :  u, Posbility: 0.0023
+Next Token :  even, Posbility: 0.0020
+Choose :  ',  Posbility: 0.9632
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an '
+---------------------------
+Next Token : b, Posbility: 0.6081
+Next Token : a, Posbility: 0.0879
+Next Token : e, Posbility: 0.0844
+Next Token : c, Posbility: 0.0418
+Next Token : A, Posbility: 0.0383
+Choose : b,  Posbility: 0.6081
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b
+---------------------------
+Next Token : ', Posbility: 0.9829
+Next Token : ',, Posbility: 0.0048
+Next Token : '., Posbility: 0.0043
+Next Token : 's, Posbility: 0.0027
+Next Token : '-, Posbility: 0.0007
+Choose : ',  Posbility: 0.9829
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b'
+---------------------------
+Next Token :  followed, Posbility: 0.9931
+Next Token :  and, Posbility: 0.0012
+Next Token :  or, Posbility: 0.0009
+Next Token :  preceded, Posbility: 0.0008
+Next Token :  after, Posbility: 0.0006
+Choose :  followed,  Posbility: 0.9931
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed
+---------------------------
+Next Token :  by, Posbility: 0.9974
+Next Token : 
+, Posbility: 0.0011
+Next Token :  only, Posbility: 0.0006
+Next Token : ,, Posbility: 0.0001
+Next Token :  immediately, Posbility: 0.0000
+Choose :  by,  Posbility: 0.9974
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by
+---------------------------
+Next Token :  one, Posbility: 0.4916
+Next Token :  two, Posbility: 0.1573
+Next Token :  a, Posbility: 0.0626
+Next Token :  zero, Posbility: 0.0523
+Next Token :  three, Posbility: 0.0502
+Choose :  one,  Posbility: 0.4916
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one
+---------------------------
+Next Token :  or, Posbility: 0.9630
+Next Token :  ', Posbility: 0.0137
+Next Token :  of, Posbility: 0.0067
+Next Token :  letter, Posbility: 0.0034
+Next Token :  character, Posbility: 0.0013
+Choose :  or,  Posbility: 0.9630
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or
+---------------------------
+Next Token :  more, Posbility: 0.9922
+Next Token :  two, Posbility: 0.0054
+Next Token :  many, Posbility: 0.0008
+Next Token :  several, Posbility: 0.0005
+Next Token :  multiple, Posbility: 0.0003
+Choose :  more,  Posbility: 0.9922
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more
+---------------------------
+Next Token :  ', Posbility: 0.9691
+Next Token :  digits, Posbility: 0.0055
+Next Token :  spaces, Posbility: 0.0036
+Next Token :  characters, Posbility: 0.0028
+Next Token : 
+, Posbility: 0.0019
+Choose :  ',  Posbility: 0.9691
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more '
+---------------------------
+Next Token : a, Posbility: 0.5893
+Next Token : c, Posbility: 0.3138
+Next Token : d, Posbility: 0.0322
+Next Token : b, Posbility: 0.0175
+Next Token : g, Posbility: 0.0096
+Choose : a,  Posbility: 0.5893
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a
+---------------------------
+Next Token : 's, Posbility: 0.9119
+Next Token : ', Posbility: 0.0638
+Next Token : '., Posbility: 0.0194
+Next Token : ',, Posbility: 0.0021
+Next Token : '.", Posbility: 0.0009
+Choose : 's,  Posbility: 0.9119
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's
+---------------------------
+Next Token : ., Posbility: 0.9397
+Next Token : .', Posbility: 0.0373
+Next Token : '', Posbility: 0.0056
+Next Token : ,, Posbility: 0.0043
+Next Token :  and, Posbility: 0.0033
+Choose : .,  Posbility: 0.9397
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's.
+---------------------------
+Next Token :  https, Posbility: 0.6770
+Next Token : 
+, Posbility: 0.1522
+Next Token :  , Posbility: 0.0449
+Next Token : https, Posbility: 0.0100
+Next Token :   , Posbility: 0.0065
+Choose :  https,  Posbility: 0.6770
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https
+---------------------------
+Next Token : ://, Posbility: 0.9995
+Next Token : :, Posbility: 0.0004
+Next Token : :#, Posbility: 0.0001
+Next Token : //, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : ://,  Posbility: 0.9995
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://
+---------------------------
+Next Token : www, Posbility: 0.9940
+Next Token : en, Posbility: 0.0011
+Next Token : python, Posbility: 0.0008
+Next Token : w, Posbility: 0.0004
+Next Token : wiki, Posbility: 0.0002
+Choose : www,  Posbility: 0.9940
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www
+---------------------------
+Next Token : ., Posbility: 0.9999
+Next Token : 2, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token : .., Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : .,  Posbility: 0.9999
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.
+---------------------------
+Next Token : w, Posbility: 0.9987
+Next Token : python, Posbility: 0.0002
+Next Token : youtube, Posbility: 0.0001
+Next Token : wik, Posbility: 0.0001
+Next Token : ge, Posbility: 0.0001
+Choose : w,  Posbility: 0.9987
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w
+---------------------------
+Next Token : 3, Posbility: 1.0000
+Next Token :  3, Posbility: 0.0000
+Next Token : 03, Posbility: 0.0000
+Next Token : ag, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : 3,  Posbility: 1.0000
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3
+---------------------------
+Next Token : resource, Posbility: 0.9995
+Next Token : school, Posbility: 0.0001
+Next Token : python, Posbility: 0.0001
+Next Token : resources, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Choose : resource,  Posbility: 0.9995
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource
+---------------------------
+Next Token : ., Posbility: 1.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : .., Posbility: 0.0000
+Next Token : .(, Posbility: 0.0000
+Choose : .,  Posbility: 1.0000
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.
+---------------------------
+Next Token : com, Posbility: 0.9999
+Next Token : org, Posbility: 0.0000
+Next Token : cal, Posbility: 0.0000
+Next Token : io, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Choose : com,  Posbility: 0.9999
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com
+---------------------------
+Next Token : /, Posbility: 0.9999
+Next Token : //, Posbility: 0.0000
+Next Token : /#, Posbility: 0.0000
+Next Token : /., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : /,  Posbility: 0.9999
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/
+---------------------------
+Next Token : python, Posbility: 0.9998
+Next Token : Python, Posbility: 0.0001
+Next Token : java, Posbility: 0.0000
+Next Token : javascript, Posbility: 0.0000
+Next Token : think, Posbility: 0.0000
+Choose : python,  Posbility: 0.9998
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python
+---------------------------
+Next Token : -, Posbility: 0.9873
+Next Token : /, Posbility: 0.0126
+Next Token : 
+, Posbility: 0.0000
+Next Token : /?, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Choose : -,  Posbility: 0.9873
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-
+---------------------------
+Next Token : ex, Posbility: 0.9998
+Next Token : program, Posbility: 0.0001
+Next Token : express, Posbility: 0.0000
+Next Token : pro, Posbility: 0.0000
+Next Token : Ex, Posbility: 0.0000
+Choose : ex,  Posbility: 0.9998
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-ex
+---------------------------
+Next Token : erc, Posbility: 1.0000
+Next Token : ercise, Posbility: 0.0000
+Next Token : cers, Posbility: 0.0000
+Next Token : ers, Posbility: 0.0000
+Next Token : cer, Posbility: 0.0000
+Choose : erc,  Posbility: 1.0000
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exerc
+---------------------------
+Next Token : ises, Posbility: 0.9999
+Next Token : ies, Posbility: 0.0001
+Next Token : ices, Posbility: 0.0000
+Next Token : ites, Posbility: 0.0000
+Next Token : ists, Posbility: 0.0000
+Choose : ises,  Posbility: 0.9999
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises
+---------------------------
+Next Token : /, Posbility: 0.9999
+Next Token : /#, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : #, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : /,  Posbility: 0.9999
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/
+---------------------------
+Next Token : re, Posbility: 0.9900
+Next Token : python, Posbility: 0.0031
+Next Token : resource, Posbility: 0.0010
+Next Token : regular, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0003
+Choose : re,  Posbility: 0.9900
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re
+---------------------------
+Next Token : /, Posbility: 0.9998
+Next Token : -, Posbility: 0.0001
+Next Token : gex, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : /,  Posbility: 0.9998
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/
+---------------------------
+Next Token : python, Posbility: 0.9979
+Next Token : re, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token : Python, Posbility: 0.0001
+Next Token : py, Posbility: 0.0001
+Choose : python,  Posbility: 0.9979
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python
+---------------------------
+Next Token : -, Posbility: 0.9998
+Next Token : 3, Posbility: 0.0001
+Next Token : /, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : -,  Posbility: 0.9998
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-
+---------------------------
+Next Token : re, Posbility: 0.9961
+Next Token : ex, Posbility: 0.0013
+Next Token : regular, Posbility: 0.0006
+Next Token : 3, Posbility: 0.0001
+Next Token : python, Posbility: 0.0001
+Choose : re,  Posbility: 0.9961
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re
+---------------------------
+Next Token : -, Posbility: 0.9991
+Next Token : gex, Posbility: 0.0007
+Next Token : _, Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : -,  Posbility: 0.9991
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-
+---------------------------
+Next Token : ex, Posbility: 0.9996
+Next Token : example, Posbility: 0.0001
+Next Token : gex, Posbility: 0.0000
+Next Token : expression, Posbility: 0.0000
+Next Token : exp, Posbility: 0.0000
+Choose : ex,  Posbility: 0.9996
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-ex
+---------------------------
+Next Token : ercise, Posbility: 0.9998
+Next Token : erc, Posbility: 0.0001
+Next Token : ception, Posbility: 0.0000
+Next Token : cer, Posbility: 0.0000
+Next Token : er, Posbility: 0.0000
+Choose : ercise,  Posbility: 0.9998
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise
+---------------------------
+Next Token : -, Posbility: 0.9992
+Next Token : ., Posbility: 0.0007
+Next Token : --, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : +, Posbility: 0.0000
+Choose : -,  Posbility: 0.9992
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-
+---------------------------
+Next Token : 3, Posbility: 0.6473
+Next Token : 4, Posbility: 0.2441
+Next Token : 2, Posbility: 0.0586
+Next Token : 5, Posbility: 0.0173
+Next Token : 1, Posbility: 0.0110
+Choose : 3,  Posbility: 0.6473
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3
+---------------------------
+Next Token : ., Posbility: 0.9976
+Next Token : -, Posbility: 0.0017
+Next Token : b, Posbility: 0.0002
+Next Token : a, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Choose : .,  Posbility: 0.9976
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.
+---------------------------
+Next Token : php, Posbility: 0.9984
+Next Token : html, Posbility: 0.0009
+Next Token : htm, Posbility: 0.0005
+Next Token : asp, Posbility: 0.0000
+Next Token : pm, Posbility: 0.0000
+Choose : php,  Posbility: 0.9984
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php
+---------------------------
+Next Token : '', Posbility: 0.9820
+Next Token : 
+, Posbility: 0.0100
+Next Token :  ', Posbility: 0.0042
+Next Token : ., Posbility: 0.0006
+Next Token :  , Posbility: 0.0004
+Choose : '',  Posbility: 0.9820
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+---------------------------
+Next Token : 
+, Posbility: 0.9599
+Next Token : 
+
+, Posbility: 0.0194
+Next Token : def, Posbility: 0.0056
+Next Token :     , Posbility: 0.0031
+Next Token :  , Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9599
+---------------------------
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+
+---------------------------
+Next Token : def, Posbility: 0.9462
+Next Token : 
+, Posbility: 0.0474
+Next Token : #, Posbility: 0.0029
+Next Token : '', Posbility: 0.0015
+Next Token : import, Posbility: 0.0003
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 18.060822248458862
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that matches a string that has an 'a' followed by one or more 'b's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+def match_a(string):
+    if string.find('a')!= -1:
+        return True
+    else:
+        return False
+
+
+'''Write a function that matches a string that has an 'b' followed by one or more 'a's. https://www.w3resource.com/python-exercises/re/python-re-exercise-3.php'''
+

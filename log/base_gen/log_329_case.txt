@@ -1,0 +1,4767 @@
+<<<<<<<<<<<< 329 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2044
+Next Token : ix, Posbility: 0.1055
+Next Token : iz, Posbility: 0.0724
+Next Token : ia, Posbility: 0.0710
+Next Token : ____, Posbility: 0.0367
+Choose : 
+,  Posbility: 0.2044
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+
+---------------------------
+Next Token : import, Posbility: 0.0886
+Next Token : #, Posbility: 0.0863
+Next Token : '', Posbility: 0.0757
+Next Token : def, Posbility: 0.0704
+Next Token : 
+, Posbility: 0.0681
+Choose : import,  Posbility: 0.0886
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import
+---------------------------
+Next Token :  random, Posbility: 0.3031
+Next Token :  math, Posbility: 0.2068
+Next Token :  sys, Posbility: 0.0995
+Next Token :  time, Posbility: 0.0872
+Next Token :  n, Posbility: 0.0685
+Choose :  random,  Posbility: 0.3031
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+---------------------------
+Next Token : 
+, Posbility: 0.7746
+Next Token :  as, Posbility: 0.0724
+Next Token : 
+
+, Posbility: 0.0575
+Next Token : ,, Posbility: 0.0407
+Next Token :  , Posbility: 0.0324
+Choose : 
+,  Posbility: 0.7746
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+---------------------------
+Next Token : 
+, Posbility: 0.3991
+Next Token : def, Posbility: 0.1950
+Next Token : import, Posbility: 0.0945
+Next Token : #, Posbility: 0.0408
+Next Token : from, Posbility: 0.0386
+Choose : 
+,  Posbility: 0.3991
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9759
+Next Token : 
+
+, Posbility: 0.0139
+Next Token :  , Posbility: 0.0048
+Next Token :   , Posbility: 0.0017
+Next Token :     , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9759
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.6820
+Next Token : #, Posbility: 0.1412
+Next Token : class, Posbility: 0.0307
+Next Token : 
+, Posbility: 0.0261
+Next Token : '', Posbility: 0.0240
+Choose : def,  Posbility: 0.6820
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def
+---------------------------
+Next Token :  find, Posbility: 0.1904
+Next Token :  smallest, Posbility: 0.0843
+Next Token :  sort, Posbility: 0.0602
+Next Token :  main, Posbility: 0.0565
+Next Token :  get, Posbility: 0.0340
+Choose :  find,  Posbility: 0.1904
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find
+---------------------------
+Next Token : _, Posbility: 0.7565
+Next Token : Small, Posbility: 0.0824
+Next Token : Missing, Posbility: 0.0322
+Next Token : (, Posbility: 0.0302
+Next Token : Min, Posbility: 0.0284
+Choose : _,  Posbility: 0.7565
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_
+---------------------------
+Next Token : small, Posbility: 0.7408
+Next Token : min, Posbility: 0.0902
+Next Token : missing, Posbility: 0.0497
+Next Token : minimum, Posbility: 0.0166
+Next Token : the, Posbility: 0.0073
+Choose : small,  Posbility: 0.7408
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_small
+---------------------------
+Next Token : est, Posbility: 0.9856
+Next Token : _, Posbility: 0.0071
+Next Token : (, Posbility: 0.0041
+Next Token : er, Posbility: 0.0024
+Next Token : ():, Posbility: 0.0001
+Choose : est,  Posbility: 0.9856
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest
+---------------------------
+Next Token : _, Posbility: 0.6910
+Next Token : (, Posbility: 0.2723
+Next Token : ():, Posbility: 0.0320
+Next Token :  (, Posbility: 0.0011
+Next Token : (), Posbility: 0.0008
+Choose : _,  Posbility: 0.6910
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_
+---------------------------
+Next Token : missing, Posbility: 0.4422
+Next Token : number, Posbility: 0.2235
+Next Token : n, Posbility: 0.0783
+Next Token : num, Posbility: 0.0687
+Next Token : diff, Posbility: 0.0131
+Choose : missing,  Posbility: 0.4422
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing
+---------------------------
+Next Token : _, Posbility: 0.6248
+Next Token : (, Posbility: 0.3519
+Next Token : ():, Posbility: 0.0147
+Next Token : num, Posbility: 0.0015
+Next Token :  (, Posbility: 0.0013
+Choose : _,  Posbility: 0.6248
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_
+---------------------------
+Next Token : number, Posbility: 0.7895
+Next Token : num, Posbility: 0.0933
+Next Token : n, Posbility: 0.0625
+Next Token : value, Posbility: 0.0065
+Next Token : element, Posbility: 0.0062
+Choose : number,  Posbility: 0.7895
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number
+---------------------------
+Next Token : (, Posbility: 0.7908
+Next Token : ():, Posbility: 0.1104
+Next Token : _, Posbility: 0.0897
+Next Token :  (, Posbility: 0.0021
+Next Token : 1, Posbility: 0.0020
+Choose : (,  Posbility: 0.7908
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(
+---------------------------
+Next Token : n, Posbility: 0.2655
+Next Token : list, Posbility: 0.1606
+Next Token : l, Posbility: 0.1128
+Next Token : arr, Posbility: 0.0773
+Next Token : a, Posbility: 0.0455
+Choose : n,  Posbility: 0.2655
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(n
+---------------------------
+Next Token : umbers, Posbility: 0.5464
+Next Token : ums, Posbility: 0.3774
+Next Token : ):, Posbility: 0.0355
+Next Token : ,, Posbility: 0.0134
+Next Token : umer, Posbility: 0.0089
+Choose : umbers,  Posbility: 0.5464
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers
+---------------------------
+Next Token : ):, Posbility: 0.7581
+Next Token : ,, Posbility: 0.1086
+Next Token : _, Posbility: 0.0731
+Next Token : :, Posbility: 0.0499
+Next Token : ), Posbility: 0.0047
+Choose : ):,  Posbility: 0.7581
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+---------------------------
+Next Token : 
+, Posbility: 0.9105
+Next Token : 
+
+, Posbility: 0.0730
+Next Token :  , Posbility: 0.0068
+Next Token :   , Posbility: 0.0037
+Next Token :  #, Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9105
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+
+---------------------------
+Next Token :     , Posbility: 0.9352
+Next Token :   , Posbility: 0.0290
+Next Token : 	, Posbility: 0.0253
+Next Token :    , Posbility: 0.0036
+Next Token :         , Posbility: 0.0016
+Choose :     ,  Posbility: 0.9352
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    
+---------------------------
+Next Token : '', Posbility: 0.4323
+Next Token : small, Posbility: 0.0982
+Next Token : #, Posbility: 0.0766
+Next Token : """, Posbility: 0.0582
+Next Token : n, Posbility: 0.0332
+Choose : '',  Posbility: 0.4323
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1793
+Next Token : Find, Posbility: 0.1594
+Next Token : Write, Posbility: 0.0732
+Next Token : Return, Posbility: 0.0608
+Next Token : This, Posbility: 0.0524
+Choose : 
+,  Posbility: 0.1793
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9373
+Next Token :         , Posbility: 0.0456
+Next Token :      , Posbility: 0.0031
+Next Token :       , Posbility: 0.0024
+Next Token :        , Posbility: 0.0021
+Choose :     ,  Posbility: 0.9373
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    
+---------------------------
+Next Token : Find, Posbility: 0.1036
+Next Token : :, Posbility: 0.0983
+Next Token : This, Posbility: 0.0800
+Next Token : Given, Posbility: 0.0450
+Next Token : Function, Posbility: 0.0415
+Choose : Find,  Posbility: 0.1036
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find
+---------------------------
+Next Token :  the, Posbility: 0.5192
+Next Token : s, Posbility: 0.2414
+Next Token :  smallest, Posbility: 0.1829
+Next Token :  a, Posbility: 0.0190
+Next Token :  and, Posbility: 0.0066
+Choose :  the,  Posbility: 0.5192
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the
+---------------------------
+Next Token :  smallest, Posbility: 0.9653
+Next Token :  lowest, Posbility: 0.0046
+Next Token :  minimum, Posbility: 0.0038
+Next Token :  largest, Posbility: 0.0035
+Next Token :  number, Posbility: 0.0024
+Choose :  smallest,  Posbility: 0.9653
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest
+---------------------------
+Next Token :  missing, Posbility: 0.8753
+Next Token :  number, Posbility: 0.0947
+Next Token :  element, Posbility: 0.0036
+Next Token :  non, Posbility: 0.0016
+Next Token :  value, Posbility: 0.0014
+Choose :  missing,  Posbility: 0.8753
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing
+---------------------------
+Next Token :  number, Posbility: 0.9790
+Next Token :  element, Posbility: 0.0034
+Next Token :  natural, Posbility: 0.0033
+Next Token :  integer, Posbility: 0.0031
+Next Token :  numbers, Posbility: 0.0013
+Choose :  number,  Posbility: 0.9790
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number
+---------------------------
+Next Token :  from, Posbility: 0.5707
+Next Token :  in, Posbility: 0.1834
+Next Token : ., Posbility: 0.0519
+Next Token :  of, Posbility: 0.0227
+Next Token : 
+, Posbility: 0.0224
+Choose :  from,  Posbility: 0.5707
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from
+---------------------------
+Next Token :  a, Posbility: 0.8687
+Next Token :  the, Posbility: 0.0781
+Next Token :  sorted, Posbility: 0.0189
+Next Token :  numbers, Posbility: 0.0114
+Next Token :  list, Posbility: 0.0043
+Choose :  a,  Posbility: 0.8687
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a
+---------------------------
+Next Token :  sorted, Posbility: 0.8252
+Next Token :  list, Posbility: 0.1397
+Next Token :  given, Posbility: 0.0114
+Next Token :  number, Posbility: 0.0028
+Next Token :  , Posbility: 0.0024
+Choose :  sorted,  Posbility: 0.8252
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted
+---------------------------
+Next Token :  list, Posbility: 0.9720
+Next Token :  array, Posbility: 0.0070
+Next Token :  natural, Posbility: 0.0043
+Next Token :  numbers, Posbility: 0.0032
+Next Token : 
+, Posbility: 0.0025
+Choose :  list,  Posbility: 0.9720
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list
+---------------------------
+Next Token :  of, Posbility: 0.9452
+Next Token : ., Posbility: 0.0225
+Next Token : 
+, Posbility: 0.0168
+Next Token :  , Posbility: 0.0037
+Next Token : 
+
+, Posbility: 0.0026
+Choose :  of,  Posbility: 0.9452
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of
+---------------------------
+Next Token :  natural, Posbility: 0.8903
+Next Token :  numbers, Posbility: 0.0804
+Next Token : 
+, Posbility: 0.0092
+Next Token :  , Posbility: 0.0062
+Next Token :  integers, Posbility: 0.0032
+Choose :  natural,  Posbility: 0.8903
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural
+---------------------------
+Next Token :  numbers, Posbility: 0.9952
+Next Token : 
+, Posbility: 0.0020
+Next Token :  number, Posbility: 0.0011
+Next Token :  , Posbility: 0.0008
+Next Token :  integers, Posbility: 0.0002
+Choose :  numbers,  Posbility: 0.9952
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers
+---------------------------
+Next Token : ., Posbility: 0.7956
+Next Token : 
+, Posbility: 0.0822
+Next Token : 
+
+, Posbility: 0.0303
+Next Token : ,, Posbility: 0.0256
+Next Token :  and, Posbility: 0.0083
+Choose : .,  Posbility: 0.7956
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+---------------------------
+Next Token : 
+, Posbility: 0.6410
+Next Token : 
+
+, Posbility: 0.2895
+Next Token :  , Posbility: 0.0299
+Next Token :  The, Posbility: 0.0050
+Next Token :  Return, Posbility: 0.0030
+Choose : 
+,  Posbility: 0.6410
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+
+---------------------------
+Next Token :     , Posbility: 0.9866
+Next Token :         , Posbility: 0.0084
+Next Token :      , Posbility: 0.0009
+Next Token :       , Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9866
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    
+---------------------------
+Next Token : '', Posbility: 0.1626
+Next Token : :, Posbility: 0.1296
+Next Token : 
+, Posbility: 0.1099
+Next Token : Input, Posbility: 0.0522
+Next Token : The, Posbility: 0.0486
+Choose : '',  Posbility: 0.1626
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : �, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.8759
+Next Token : 
+
+, Posbility: 0.1188
+Next Token :  , Posbility: 0.0025
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.8759
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9937
+Next Token :   , Posbility: 0.0012
+Next Token :         , Posbility: 0.0012
+Next Token :    , Posbility: 0.0008
+Next Token : #, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9937
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    
+---------------------------
+Next Token : #, Posbility: 0.1522
+Next Token : small, Posbility: 0.1165
+Next Token : n, Posbility: 0.0641
+Next Token : for, Posbility: 0.0612
+Next Token : if, Posbility: 0.0612
+Choose : #,  Posbility: 0.1522
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    #
+---------------------------
+Next Token :  Find, Posbility: 0.0676
+Next Token :  Create, Posbility: 0.0330
+Next Token :  find, Posbility: 0.0319
+Next Token :  TOD, Posbility: 0.0291
+Next Token :  Sort, Posbility: 0.0287
+Choose :  Find,  Posbility: 0.0676
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find
+---------------------------
+Next Token :  the, Posbility: 0.7699
+Next Token :  smallest, Posbility: 0.0315
+Next Token :  a, Posbility: 0.0224
+Next Token :  all, Posbility: 0.0211
+Next Token : s, Posbility: 0.0143
+Choose :  the,  Posbility: 0.7699
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the
+---------------------------
+Next Token :  smallest, Posbility: 0.3411
+Next Token :  first, Posbility: 0.1171
+Next Token :  index, Posbility: 0.0940
+Next Token :  minimum, Posbility: 0.0683
+Next Token :  largest, Posbility: 0.0340
+Choose :  smallest,  Posbility: 0.3411
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest
+---------------------------
+Next Token :  missing, Posbility: 0.4537
+Next Token :  number, Posbility: 0.3349
+Next Token :  element, Posbility: 0.0295
+Next Token :  value, Posbility: 0.0278
+Next Token :  non, Posbility: 0.0103
+Choose :  missing,  Posbility: 0.4537
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing
+---------------------------
+Next Token :  number, Posbility: 0.9554
+Next Token :  element, Posbility: 0.0064
+Next Token :  value, Posbility: 0.0060
+Next Token :  integer, Posbility: 0.0046
+Next Token :  natural, Posbility: 0.0045
+Choose :  number,  Posbility: 0.9554
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+---------------------------
+Next Token : 
+, Posbility: 0.2576
+Next Token :  from, Posbility: 0.2207
+Next Token : ., Posbility: 0.1531
+Next Token :  in, Posbility: 0.1426
+Next Token :  and, Posbility: 0.0242
+Choose : 
+,  Posbility: 0.2576
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+
+---------------------------
+Next Token :     , Posbility: 0.9990
+Next Token :         , Posbility: 0.0004
+Next Token : #, Posbility: 0.0002
+Next Token : 	, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9990
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    
+---------------------------
+Next Token : small, Posbility: 0.3115
+Next Token : #, Posbility: 0.0691
+Next Token : min, Posbility: 0.0646
+Next Token : for, Posbility: 0.0587
+Next Token : n, Posbility: 0.0436
+Choose : small,  Posbility: 0.3115
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    small
+---------------------------
+Next Token : est, Posbility: 0.9830
+Next Token : _, Posbility: 0.0115
+Next Token :  =, Posbility: 0.0035
+Next Token : er, Posbility: 0.0010
+Next Token : es, Posbility: 0.0001
+Choose : est,  Posbility: 0.9830
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest
+---------------------------
+Next Token : _, Posbility: 0.7541
+Next Token :  =, Posbility: 0.2398
+Next Token : ,, Posbility: 0.0017
+Next Token : Number, Posbility: 0.0009
+Next Token : =, Posbility: 0.0007
+Choose : _,  Posbility: 0.7541
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_
+---------------------------
+Next Token : missing, Posbility: 0.5160
+Next Token : number, Posbility: 0.2910
+Next Token : num, Posbility: 0.0469
+Next Token : n, Posbility: 0.0289
+Next Token : index, Posbility: 0.0211
+Choose : missing,  Posbility: 0.5160
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing
+---------------------------
+Next Token : _, Posbility: 0.7345
+Next Token :  =, Posbility: 0.2614
+Next Token : =, Posbility: 0.0012
+Next Token : ,, Posbility: 0.0011
+Next Token : number, Posbility: 0.0004
+Choose : _,  Posbility: 0.7345
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_
+---------------------------
+Next Token : number, Posbility: 0.9079
+Next Token : num, Posbility: 0.0581
+Next Token : n, Posbility: 0.0139
+Next Token : index, Posbility: 0.0053
+Next Token : no, Posbility: 0.0028
+Choose : number,  Posbility: 0.9079
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number
+---------------------------
+Next Token :  =, Posbility: 0.9623
+Next Token : _, Posbility: 0.0274
+Next Token : =, Posbility: 0.0045
+Next Token : ,, Posbility: 0.0041
+Next Token : :, Posbility: 0.0007
+Choose :  =,  Posbility: 0.9623
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number =
+---------------------------
+Next Token :  0, Posbility: 0.2232
+Next Token :  numbers, Posbility: 0.1898
+Next Token :  find, Posbility: 0.1129
+Next Token :  None, Posbility: 0.0784
+Next Token :  min, Posbility: 0.0464
+Choose :  0,  Posbility: 0.2232
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8548
+Next Token : 
+
+, Posbility: 0.1072
+Next Token :   , Posbility: 0.0093
+Next Token :  #, Posbility: 0.0086
+Next Token :  , Posbility: 0.0084
+Choose : 
+,  Posbility: 0.8548
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9971
+Next Token :         , Posbility: 0.0008
+Next Token :  , Posbility: 0.0007
+Next Token :   , Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9971
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.5894
+Next Token : small, Posbility: 0.0909
+Next Token : #, Posbility: 0.0788
+Next Token : while, Posbility: 0.0443
+Next Token : 
+, Posbility: 0.0252
+Choose : for,  Posbility: 0.5894
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for
+---------------------------
+Next Token :  number, Posbility: 0.4403
+Next Token :  i, Posbility: 0.2604
+Next Token :  num, Posbility: 0.1064
+Next Token :  n, Posbility: 0.0503
+Next Token :  index, Posbility: 0.0362
+Choose :  number,  Posbility: 0.4403
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number
+---------------------------
+Next Token :  in, Posbility: 0.9912
+Next Token : _, Posbility: 0.0072
+Next Token : ,, Posbility: 0.0013
+Next Token : 1, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Choose :  in,  Posbility: 0.9912
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in
+---------------------------
+Next Token :  numbers, Posbility: 0.9000
+Next Token :  range, Posbility: 0.0732
+Next Token :  sorted, Posbility: 0.0157
+Next Token :  reversed, Posbility: 0.0039
+Next Token :  number, Posbility: 0.0010
+Choose :  numbers,  Posbility: 0.9000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers
+---------------------------
+Next Token : :, Posbility: 0.9736
+Next Token : [, Posbility: 0.0240
+Next Token : ., Posbility: 0.0010
+Next Token :  :, Posbility: 0.0008
+Next Token :  +, Posbility: 0.0002
+Choose : :,  Posbility: 0.9736
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+---------------------------
+Next Token : 
+, Posbility: 0.9908
+Next Token :  , Posbility: 0.0024
+Next Token : 
+
+, Posbility: 0.0024
+Next Token :   , Posbility: 0.0017
+Next Token :  #, Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9908
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+
+---------------------------
+Next Token :         , Posbility: 0.9939
+Next Token :       , Posbility: 0.0022
+Next Token :     , Posbility: 0.0012
+Next Token :             , Posbility: 0.0011
+Next Token :        , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9939
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        
+---------------------------
+Next Token : if, Posbility: 0.8257
+Next Token : #, Posbility: 0.0768
+Next Token : missing, Posbility: 0.0170
+Next Token : number, Posbility: 0.0122
+Next Token : while, Posbility: 0.0096
+Choose : if,  Posbility: 0.8257
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if
+---------------------------
+Next Token :  number, Posbility: 0.7893
+Next Token :  smallest, Posbility: 0.0957
+Next Token :  (, Posbility: 0.0461
+Next Token : (, Posbility: 0.0203
+Next Token :  not, Posbility: 0.0149
+Choose :  number,  Posbility: 0.7893
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number
+---------------------------
+Next Token :  <, Posbility: 0.4067
+Next Token :  >, Posbility: 0.1819
+Next Token : !=, Posbility: 0.1234
+Next Token :  -, Posbility: 0.0870
+Next Token :  ==, Posbility: 0.0653
+Choose :  <,  Posbility: 0.4067
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number <
+---------------------------
+Next Token :  smallest, Posbility: 0.9523
+Next Token :  0, Posbility: 0.0336
+Next Token :  numbers, Posbility: 0.0043
+Next Token :  lowest, Posbility: 0.0018
+Next Token :  largest, Posbility: 0.0010
+Choose :  smallest,  Posbility: 0.9523
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : :, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0000
+Next Token : Number, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_
+---------------------------
+Next Token : missing, Posbility: 0.9996
+Next Token : number, Posbility: 0.0003
+Next Token : miss, Posbility: 0.0000
+Next Token : required, Posbility: 0.0000
+Next Token : known, Posbility: 0.0000
+Choose : missing,  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : :, Posbility: 0.0000
+Next Token :  and, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_
+---------------------------
+Next Token : number, Posbility: 1.0000
+Next Token : num, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : value, Posbility: 0.0000
+Next Token : no, Posbility: 0.0000
+Choose : number,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number
+---------------------------
+Next Token : :, Posbility: 0.9807
+Next Token :  and, Posbility: 0.0066
+Next Token :  or, Posbility: 0.0060
+Next Token :  +, Posbility: 0.0042
+Next Token :  -, Posbility: 0.0008
+Choose : :,  Posbility: 0.9807
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+---------------------------
+Next Token : 
+, Posbility: 0.9917
+Next Token :  , Posbility: 0.0031
+Next Token :  smallest, Posbility: 0.0016
+Next Token :  #, Posbility: 0.0013
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9917
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+
+---------------------------
+Next Token :             , Posbility: 0.9977
+Next Token :                 , Posbility: 0.0007
+Next Token :            , Posbility: 0.0006
+Next Token :              , Posbility: 0.0004
+Next Token :           , Posbility: 0.0003
+Choose :             ,  Posbility: 0.9977
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            
+---------------------------
+Next Token : small, Posbility: 0.9890
+Next Token : #, Posbility: 0.0071
+Next Token : if, Posbility: 0.0008
+Next Token : min, Posbility: 0.0003
+Next Token : minimum, Posbility: 0.0003
+Choose : small,  Posbility: 0.9890
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            small
+---------------------------
+Next Token : est, Posbility: 0.9998
+Next Token : _, Posbility: 0.0002
+Next Token : er, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : es, Posbility: 0.0000
+Choose : est,  Posbility: 0.9998
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token :  =, Posbility: 0.0003
+Next Token : Number, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : =, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_
+---------------------------
+Next Token : missing, Posbility: 0.9961
+Next Token : number, Posbility: 0.0035
+Next Token : miss, Posbility: 0.0000
+Next Token : required, Posbility: 0.0000
+Next Token : index, Posbility: 0.0000
+Choose : missing,  Posbility: 0.9961
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token :  =, Posbility: 0.0001
+Next Token : =, Posbility: 0.0000
+Next Token : Number, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_
+---------------------------
+Next Token : number, Posbility: 0.9999
+Next Token : num, Posbility: 0.0000
+Next Token : value, Posbility: 0.0000
+Next Token : index, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Choose : number,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number
+---------------------------
+Next Token :  =, Posbility: 0.9982
+Next Token : =, Posbility: 0.0007
+Next Token : ,, Posbility: 0.0003
+Next Token :  +=, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  =,  Posbility: 0.9982
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number =
+---------------------------
+Next Token :  number, Posbility: 0.9940
+Next Token :  smallest, Posbility: 0.0025
+Next Token :   , Posbility: 0.0007
+Next Token :  int, Posbility: 0.0006
+Next Token : number, Posbility: 0.0002
+Choose :  number,  Posbility: 0.9940
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+---------------------------
+Next Token : 
+, Posbility: 0.6898
+Next Token : 
+
+, Posbility: 0.2943
+Next Token :  , Posbility: 0.0045
+Next Token :  +, Posbility: 0.0020
+Next Token :  #, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.6898
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+
+---------------------------
+Next Token :     , Posbility: 0.9398
+Next Token :         , Posbility: 0.0299
+Next Token :             , Posbility: 0.0266
+Next Token : 
+, Posbility: 0.0007
+Next Token :                 , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9398
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    
+---------------------------
+Next Token : return, Posbility: 0.5806
+Next Token : #, Posbility: 0.2016
+Next Token : 
+, Posbility: 0.1332
+Next Token : print, Posbility: 0.0618
+Next Token : if, Posbility: 0.0055
+Choose : return,  Posbility: 0.5806
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return
+---------------------------
+Next Token :  smallest, Posbility: 0.9897
+Next Token :  lowest, Posbility: 0.0038
+Next Token : (, Posbility: 0.0010
+Next Token :  (, Posbility: 0.0006
+Next Token :  shortest, Posbility: 0.0005
+Choose :  smallest,  Posbility: 0.9897
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_
+---------------------------
+Next Token : missing, Posbility: 1.0000
+Next Token : number, Posbility: 0.0000
+Next Token : miss, Posbility: 0.0000
+Next Token : required, Posbility: 0.0000
+Next Token : unknown, Posbility: 0.0000
+Choose : missing,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_
+---------------------------
+Next Token : number, Posbility: 1.0000
+Next Token : num, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token :  number, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : number,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+---------------------------
+Next Token : 
+
+, Posbility: 0.7192
+Next Token : 
+, Posbility: 0.2625
+Next Token :  +, Posbility: 0.0056
+Next Token :  , Posbility: 0.0045
+Next Token :     , Posbility: 0.0017
+Choose : 
+
+,  Posbility: 0.7192
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9854
+Next Token : 
+
+, Posbility: 0.0065
+Next Token :     , Posbility: 0.0065
+Next Token :         , Posbility: 0.0006
+Next Token :  , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9854
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.6774
+Next Token : #, Posbility: 0.1423
+Next Token : if, Posbility: 0.0675
+Next Token : print, Posbility: 0.0301
+Next Token : '', Posbility: 0.0130
+Choose : def,  Posbility: 0.6774
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def
+---------------------------
+Next Token :  main, Posbility: 0.1578
+Next Token :  find, Posbility: 0.1573
+Next Token :  test, Posbility: 0.0929
+Next Token :  sort, Posbility: 0.0366
+Next Token :  write, Posbility: 0.0267
+Choose :  main,  Posbility: 0.1578
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main
+---------------------------
+Next Token : ():, Posbility: 0.9593
+Next Token : (, Posbility: 0.0320
+Next Token : _, Posbility: 0.0049
+Next Token : (), Posbility: 0.0016
+Next Token :  (, Posbility: 0.0007
+Choose : ():,  Posbility: 0.9593
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+---------------------------
+Next Token : 
+, Posbility: 0.9685
+Next Token : 
+
+, Posbility: 0.0268
+Next Token :   , Posbility: 0.0016
+Next Token :  , Posbility: 0.0015
+Next Token :     , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9685
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+
+---------------------------
+Next Token :     , Posbility: 0.9960
+Next Token :   , Posbility: 0.0013
+Next Token : 	, Posbility: 0.0009
+Next Token :         , Posbility: 0.0005
+Next Token :    , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9960
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    
+---------------------------
+Next Token : '', Posbility: 0.6012
+Next Token : #, Posbility: 0.1297
+Next Token : print, Posbility: 0.0818
+Next Token : n, Posbility: 0.0753
+Next Token : """, Posbility: 0.0311
+Choose : '',  Posbility: 0.6012
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '", Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.4784
+Next Token : Write, Posbility: 0.1433
+Next Token : Run, Posbility: 0.0809
+Next Token : Test, Posbility: 0.0343
+Next Token : Main, Posbility: 0.0169
+Choose : 
+,  Posbility: 0.4784
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9944
+Next Token :         , Posbility: 0.0034
+Next Token :      , Posbility: 0.0009
+Next Token :       , Posbility: 0.0003
+Next Token : 	, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9944
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    
+---------------------------
+Next Token : Write, Posbility: 0.1265
+Next Token : Run, Posbility: 0.1064
+Next Token : Test, Posbility: 0.1006
+Next Token : Main, Posbility: 0.0415
+Next Token : This, Posbility: 0.0386
+Choose : Write,  Posbility: 0.1265
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write
+---------------------------
+Next Token :  a, Posbility: 0.7883
+Next Token :  your, Posbility: 0.1789
+Next Token :  the, Posbility: 0.0090
+Next Token :  an, Posbility: 0.0057
+Next Token :  python, Posbility: 0.0017
+Choose :  a,  Posbility: 0.7883
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a
+---------------------------
+Next Token :  python, Posbility: 0.8105
+Next Token :  function, Posbility: 0.0817
+Next Token :  program, Posbility: 0.0246
+Next Token :  Python, Posbility: 0.0229
+Next Token :  main, Posbility: 0.0228
+Choose :  python,  Posbility: 0.8105
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9287
+Next Token :  program, Posbility: 0.0569
+Next Token :  script, Posbility: 0.0053
+Next Token :  code, Posbility: 0.0017
+Next Token :  func, Posbility: 0.0008
+Choose :  function,  Posbility: 0.9287
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.7240
+Next Token :  that, Posbility: 0.2029
+Next Token :  find, Posbility: 0.0217
+Next Token :  which, Posbility: 0.0063
+Next Token : ,, Posbility: 0.0038
+Choose :  to,  Posbility: 0.7240
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.8814
+Next Token :  print, Posbility: 0.0152
+Next Token :  write, Posbility: 0.0152
+Next Token :  calculate, Posbility: 0.0092
+Next Token :  compute, Posbility: 0.0091
+Choose :  find,  Posbility: 0.8814
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.9915
+Next Token :  and, Posbility: 0.0024
+Next Token :  all, Posbility: 0.0014
+Next Token :  a, Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0009
+Choose :  the,  Posbility: 0.9915
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the
+---------------------------
+Next Token :  smallest, Posbility: 0.9811
+Next Token :  largest, Posbility: 0.0046
+Next Token :  lowest, Posbility: 0.0027
+Next Token :  minimum, Posbility: 0.0017
+Next Token :  closest, Posbility: 0.0012
+Choose :  smallest,  Posbility: 0.9811
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest
+---------------------------
+Next Token :  missing, Posbility: 0.9945
+Next Token :  number, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0013
+Next Token :  possible, Posbility: 0.0003
+Next Token :  and, Posbility: 0.0002
+Choose :  missing,  Posbility: 0.9945
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing
+---------------------------
+Next Token :  number, Posbility: 0.9895
+Next Token : 
+, Posbility: 0.0076
+Next Token :  , Posbility: 0.0017
+Next Token :  value, Posbility: 0.0002
+Next Token :  numbers, Posbility: 0.0001
+Choose :  number,  Posbility: 0.9895
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number
+---------------------------
+Next Token :  from, Posbility: 0.9406
+Next Token : 
+, Posbility: 0.0213
+Next Token : ., Posbility: 0.0143
+Next Token :  in, Posbility: 0.0088
+Next Token :  , Posbility: 0.0054
+Choose :  from,  Posbility: 0.9406
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from
+---------------------------
+Next Token :  a, Posbility: 0.9874
+Next Token : 
+, Posbility: 0.0076
+Next Token :  the, Posbility: 0.0018
+Next Token :  , Posbility: 0.0014
+Next Token :  sorted, Posbility: 0.0005
+Choose :  a,  Posbility: 0.9874
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a
+---------------------------
+Next Token :  sorted, Posbility: 0.8897
+Next Token : 
+, Posbility: 0.0710
+Next Token :  list, Posbility: 0.0191
+Next Token :  , Posbility: 0.0135
+Next Token :  given, Posbility: 0.0014
+Choose :  sorted,  Posbility: 0.8897
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted
+---------------------------
+Next Token :  list, Posbility: 0.9570
+Next Token : 
+, Posbility: 0.0370
+Next Token :  , Posbility: 0.0041
+Next Token :  array, Posbility: 0.0005
+Next Token :  lists, Posbility: 0.0004
+Choose :  list,  Posbility: 0.9570
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list
+---------------------------
+Next Token :  of, Posbility: 0.9173
+Next Token : 
+, Posbility: 0.0555
+Next Token : ., Posbility: 0.0173
+Next Token :  , Posbility: 0.0080
+Next Token : ,, Posbility: 0.0003
+Choose :  of,  Posbility: 0.9173
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of
+---------------------------
+Next Token :  natural, Posbility: 0.9772
+Next Token : 
+, Posbility: 0.0143
+Next Token :  , Posbility: 0.0051
+Next Token :  numbers, Posbility: 0.0016
+Next Token :  Natural, Posbility: 0.0001
+Choose :  natural,  Posbility: 0.9772
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural
+---------------------------
+Next Token :  numbers, Posbility: 0.9987
+Next Token : 
+, Posbility: 0.0009
+Next Token :  , Posbility: 0.0003
+Next Token :  number, Posbility: 0.0001
+Next Token :  integers, Posbility: 0.0000
+Choose :  numbers,  Posbility: 0.9987
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers
+---------------------------
+Next Token : ., Posbility: 0.9628
+Next Token : .', Posbility: 0.0099
+Next Token : ,, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0070
+Next Token :  using, Posbility: 0.0022
+Choose : .,  Posbility: 0.9628
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+---------------------------
+Next Token : 
+, Posbility: 0.9579
+Next Token : 
+
+, Posbility: 0.0217
+Next Token :  , Posbility: 0.0116
+Next Token :  The, Posbility: 0.0011
+Next Token :  (, Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9579
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+
+---------------------------
+Next Token :     , Posbility: 0.9941
+Next Token :      , Posbility: 0.0018
+Next Token :         , Posbility: 0.0016
+Next Token : '', Posbility: 0.0009
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9941
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    
+---------------------------
+Next Token : '', Posbility: 0.8764
+Next Token : The, Posbility: 0.0139
+Next Token : 
+, Posbility: 0.0083
+Next Token : Use, Posbility: 0.0073
+Next Token : This, Posbility: 0.0060
+Choose : '',  Posbility: 0.8764
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '., Posbility: 0.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : ", Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.8915
+Next Token : 
+
+, Posbility: 0.1041
+Next Token :     , Posbility: 0.0020
+Next Token :  , Posbility: 0.0011
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.8915
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9960
+Next Token : #, Posbility: 0.0013
+Next Token :    , Posbility: 0.0006
+Next Token :         , Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9960
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    
+---------------------------
+Next Token : #, Posbility: 0.4563
+Next Token : n, Posbility: 0.2216
+Next Token : print, Posbility: 0.1355
+Next Token : 
+, Posbility: 0.0141
+Next Token : list, Posbility: 0.0138
+Choose : #,  Posbility: 0.4563
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    #
+---------------------------
+Next Token :  Create, Posbility: 0.2043
+Next Token :  Gener, Posbility: 0.0960
+Next Token :  Get, Posbility: 0.0829
+Next Token :  Set, Posbility: 0.0454
+Next Token :  Initial, Posbility: 0.0326
+Choose :  Create,  Posbility: 0.2043
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create
+---------------------------
+Next Token :  a, Posbility: 0.7006
+Next Token :  an, Posbility: 0.0632
+Next Token :  the, Posbility: 0.0490
+Next Token :  list, Posbility: 0.0464
+Next Token :  random, Posbility: 0.0315
+Choose :  a,  Posbility: 0.7006
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a
+---------------------------
+Next Token :  list, Posbility: 0.5739
+Next Token :  random, Posbility: 0.2357
+Next Token :  sorted, Posbility: 0.0922
+Next Token :  new, Posbility: 0.0162
+Next Token :  2, Posbility: 0.0073
+Choose :  list,  Posbility: 0.5739
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list
+---------------------------
+Next Token :  of, Posbility: 0.7073
+Next Token :  with, Posbility: 0.1372
+Next Token : 
+, Posbility: 0.0390
+Next Token :  containing, Posbility: 0.0303
+Next Token :  to, Posbility: 0.0279
+Choose :  of,  Posbility: 0.7073
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of
+---------------------------
+Next Token :  natural, Posbility: 0.3218
+Next Token :  numbers, Posbility: 0.1961
+Next Token :  random, Posbility: 0.1409
+Next Token :  10, Posbility: 0.0695
+Next Token :  integers, Posbility: 0.0228
+Choose :  natural,  Posbility: 0.3218
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural
+---------------------------
+Next Token :  numbers, Posbility: 0.9944
+Next Token :  number, Posbility: 0.0037
+Next Token :  integers, Posbility: 0.0004
+Next Token :  num, Posbility: 0.0001
+Next Token :  values, Posbility: 0.0001
+Choose :  numbers,  Posbility: 0.9944
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+---------------------------
+Next Token : 
+, Posbility: 0.5279
+Next Token :  between, Posbility: 0.1078
+Next Token :  from, Posbility: 0.0427
+Next Token :  to, Posbility: 0.0306
+Next Token : ., Posbility: 0.0241
+Choose : 
+,  Posbility: 0.5279
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+
+---------------------------
+Next Token :     , Posbility: 0.9997
+Next Token : #, Posbility: 0.0002
+Next Token :    , Posbility: 0.0000
+Next Token :         , Posbility: 0.0000
+Next Token : 	, Posbility: 0.0000
+Choose :     ,  Posbility: 0.9997
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    
+---------------------------
+Next Token : n, Posbility: 0.8134
+Next Token : natural, Posbility: 0.0454
+Next Token : number, Posbility: 0.0225
+Next Token : list, Posbility: 0.0185
+Next Token : num, Posbility: 0.0117
+Choose : n,  Posbility: 0.8134
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    n
+---------------------------
+Next Token : umbers, Posbility: 0.9797
+Next Token : ums, Posbility: 0.0125
+Next Token :  =, Posbility: 0.0032
+Next Token : umer, Posbility: 0.0017
+Next Token : _, Posbility: 0.0008
+Choose : umbers,  Posbility: 0.9797
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers
+---------------------------
+Next Token :  =, Posbility: 0.9666
+Next Token : _, Posbility: 0.0300
+Next Token : 1, Posbility: 0.0015
+Next Token : =, Posbility: 0.0006
+Next Token : =[, Posbility: 0.0004
+Choose :  =,  Posbility: 0.9666
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers =
+---------------------------
+Next Token :  [, Posbility: 0.6333
+Next Token :  [], Posbility: 0.1790
+Next Token :  list, Posbility: 0.0817
+Next Token :  range, Posbility: 0.0442
+Next Token :  sorted, Posbility: 0.0114
+Choose :  [,  Posbility: 0.6333
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [
+---------------------------
+Next Token : random, Posbility: 0.2366
+Next Token : 1, Posbility: 0.1910
+Next Token : i, Posbility: 0.1833
+Next Token : x, Posbility: 0.0584
+Next Token : 
+, Posbility: 0.0577
+Choose : random,  Posbility: 0.2366
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random
+---------------------------
+Next Token : ., Posbility: 0.9989
+Next Token : _, Posbility: 0.0005
+Next Token :  for, Posbility: 0.0004
+Next Token : (), Posbility: 0.0001
+Next Token : ._, Posbility: 0.0000
+Choose : .,  Posbility: 0.9989
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.
+---------------------------
+Next Token : rand, Posbility: 0.9787
+Next Token : random, Posbility: 0.0118
+Next Token : choice, Posbility: 0.0052
+Next Token : un, Posbility: 0.0034
+Next Token : sample, Posbility: 0.0003
+Choose : rand,  Posbility: 0.9787
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.rand
+---------------------------
+Next Token : int, Posbility: 0.9408
+Next Token : range, Posbility: 0.0591
+Next Token : it, Posbility: 0.0000
+Next Token :  int, Posbility: 0.0000
+Next Token : ints, Posbility: 0.0000
+Choose : int,  Posbility: 0.9408
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint
+---------------------------
+Next Token : (, Posbility: 0.9297
+Next Token : (-, Posbility: 0.0698
+Next Token : (), Posbility: 0.0002
+Next Token :  for, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Choose : (,  Posbility: 0.9297
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(
+---------------------------
+Next Token : 1, Posbility: 0.5450
+Next Token : 0, Posbility: 0.3822
+Next Token : 10, Posbility: 0.0167
+Next Token : 100, Posbility: 0.0153
+Next Token : 2, Posbility: 0.0100
+Choose : 1,  Posbility: 0.5450
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1
+---------------------------
+Next Token : ,, Posbility: 0.9953
+Next Token : 00000000, Posbility: 0.0017
+Next Token : 000000, Posbility: 0.0013
+Next Token : _, Posbility: 0.0008
+Next Token : 0000000, Posbility: 0.0005
+Choose : ,,  Posbility: 0.9953
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1,
+---------------------------
+Next Token :  100, Posbility: 0.4246
+Next Token :  1000, Posbility: 0.1157
+Next Token :  10, Posbility: 0.0777
+Next Token :  50, Posbility: 0.0467
+Next Token :  20, Posbility: 0.0444
+Choose :  100,  Posbility: 0.4246
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100
+---------------------------
+Next Token : ), Posbility: 0.9050
+Next Token : 000, Posbility: 0.0330
+Next Token : 0000, Posbility: 0.0305
+Next Token : 000000, Posbility: 0.0089
+Next Token : _, Posbility: 0.0047
+Choose : ),  Posbility: 0.9050
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100)
+---------------------------
+Next Token :  for, Posbility: 0.9865
+Next Token : 
+, Posbility: 0.0107
+Next Token : for, Posbility: 0.0011
+Next Token :  , Posbility: 0.0006
+Next Token :  +, Posbility: 0.0002
+Choose :  for,  Posbility: 0.9865
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for
+---------------------------
+Next Token :  _, Posbility: 0.5526
+Next Token :  i, Posbility: 0.2652
+Next Token :  x, Posbility: 0.0638
+Next Token :  number, Posbility: 0.0316
+Next Token :  num, Posbility: 0.0280
+Choose :  _,  Posbility: 0.5526
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _
+---------------------------
+Next Token :  in, Posbility: 0.9987
+Next Token : i, Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token : x, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9987
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in
+---------------------------
+Next Token :  range, Posbility: 0.9988
+Next Token :  x, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  range,  Posbility: 0.9988
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range
+---------------------------
+Next Token : (, Posbility: 0.9973
+Next Token :  (, Posbility: 0.0025
+Next Token : ((, Posbility: 0.0001
+Next Token : (-, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9973
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(
+---------------------------
+Next Token : 10, Posbility: 0.2976
+Next Token : 100, Posbility: 0.2480
+Next Token : 20, Posbility: 0.1112
+Next Token : 1000, Posbility: 0.0751
+Next Token : 50, Posbility: 0.0412
+Choose : 10,  Posbility: 0.2976
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10
+---------------------------
+Next Token : )], Posbility: 0.8912
+Next Token : _, Posbility: 0.0475
+Next Token : **, Posbility: 0.0328
+Next Token :  **, Posbility: 0.0161
+Next Token : ), Posbility: 0.0049
+Choose : )],  Posbility: 0.8912
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+---------------------------
+Next Token : 
+, Posbility: 0.7101
+Next Token : 
+
+, Posbility: 0.2788
+Next Token :  , Posbility: 0.0032
+Next Token :   , Posbility: 0.0029
+Next Token :  #, Posbility: 0.0020
+Choose : 
+,  Posbility: 0.7101
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+
+---------------------------
+Next Token :     , Posbility: 0.9959
+Next Token : 
+, Posbility: 0.0014
+Next Token :         , Posbility: 0.0006
+Next Token :    , Posbility: 0.0006
+Next Token :  , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9959
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    
+---------------------------
+Next Token : #, Posbility: 0.5193
+Next Token : print, Posbility: 0.2813
+Next Token : n, Posbility: 0.0809
+Next Token : small, Posbility: 0.0397
+Next Token : 
+, Posbility: 0.0380
+Choose : #,  Posbility: 0.5193
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    #
+---------------------------
+Next Token :  Find, Posbility: 0.3161
+Next Token :  Print, Posbility: 0.1463
+Next Token :  Sort, Posbility: 0.0945
+Next Token :  Create, Posbility: 0.0505
+Next Token :  Get, Posbility: 0.0399
+Choose :  Find,  Posbility: 0.3161
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find
+---------------------------
+Next Token :  the, Posbility: 0.8377
+Next Token :  smallest, Posbility: 0.1316
+Next Token :  a, Posbility: 0.0053
+Next Token :  minimum, Posbility: 0.0031
+Next Token :  and, Posbility: 0.0029
+Choose :  the,  Posbility: 0.8377
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the
+---------------------------
+Next Token :  smallest, Posbility: 0.9661
+Next Token :  minimum, Posbility: 0.0070
+Next Token :  largest, Posbility: 0.0068
+Next Token :  missing, Posbility: 0.0030
+Next Token :  lowest, Posbility: 0.0019
+Choose :  smallest,  Posbility: 0.9661
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest
+---------------------------
+Next Token :  missing, Posbility: 0.9718
+Next Token :  number, Posbility: 0.0212
+Next Token : 
+, Posbility: 0.0006
+Next Token :  possible, Posbility: 0.0006
+Next Token :  empty, Posbility: 0.0003
+Choose :  missing,  Posbility: 0.9718
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing
+---------------------------
+Next Token :  number, Posbility: 0.9947
+Next Token : 
+, Posbility: 0.0020
+Next Token :  numbers, Posbility: 0.0006
+Next Token :  natural, Posbility: 0.0006
+Next Token :  value, Posbility: 0.0003
+Choose :  number,  Posbility: 0.9947
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+---------------------------
+Next Token : 
+, Posbility: 0.9085
+Next Token :  from, Posbility: 0.0386
+Next Token :  in, Posbility: 0.0148
+Next Token :  using, Posbility: 0.0089
+Next Token :  and, Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9085
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+
+---------------------------
+Next Token :     , Posbility: 0.9999
+Next Token : #, Posbility: 0.0000
+Next Token :         , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :      , Posbility: 0.0000
+Choose :     ,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    
+---------------------------
+Next Token : small, Posbility: 0.7090
+Next Token : print, Posbility: 0.1748
+Next Token : n, Posbility: 0.0167
+Next Token : find, Posbility: 0.0138
+Next Token : #, Posbility: 0.0122
+Choose : small,  Posbility: 0.7090
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    small
+---------------------------
+Next Token : est, Posbility: 0.9970
+Next Token : _, Posbility: 0.0021
+Next Token :  =, Posbility: 0.0003
+Next Token : er, Posbility: 0.0003
+Next Token : ests, Posbility: 0.0000
+Choose : est,  Posbility: 0.9970
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest
+---------------------------
+Next Token : _, Posbility: 0.9907
+Next Token :  =, Posbility: 0.0092
+Next Token : ,, Posbility: 0.0000
+Next Token : Missing, Posbility: 0.0000
+Next Token : Number, Posbility: 0.0000
+Choose : _,  Posbility: 0.9907
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_
+---------------------------
+Next Token : missing, Posbility: 0.9733
+Next Token : number, Posbility: 0.0170
+Next Token : n, Posbility: 0.0029
+Next Token : num, Posbility: 0.0006
+Next Token : miss, Posbility: 0.0005
+Choose : missing,  Posbility: 0.9733
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing
+---------------------------
+Next Token : _, Posbility: 0.9957
+Next Token :  =, Posbility: 0.0043
+Next Token : ness, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : number, Posbility: 0.0000
+Choose : _,  Posbility: 0.9957
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_
+---------------------------
+Next Token : number, Posbility: 0.9952
+Next Token : n, Posbility: 0.0023
+Next Token : num, Posbility: 0.0014
+Next Token : value, Posbility: 0.0002
+Next Token : no, Posbility: 0.0001
+Choose : number,  Posbility: 0.9952
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number
+---------------------------
+Next Token :  =, Posbility: 0.9932
+Next Token : _, Posbility: 0.0058
+Next Token : (, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  =,  Posbility: 0.9932
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number =
+---------------------------
+Next Token :  find, Posbility: 0.9867
+Next Token :  0, Posbility: 0.0043
+Next Token :  , Posbility: 0.0017
+Next Token :  (, Posbility: 0.0011
+Next Token :  \, Posbility: 0.0008
+Choose :  find,  Posbility: 0.9867
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token : er, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_
+---------------------------
+Next Token : small, Posbility: 0.9999
+Next Token : min, Posbility: 0.0000
+Next Token : short, Posbility: 0.0000
+Next Token : minimum, Posbility: 0.0000
+Next Token : missing, Posbility: 0.0000
+Choose : small,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_small
+---------------------------
+Next Token : est, Posbility: 1.0000
+Next Token : es, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : st, Posbility: 0.0000
+Next Token : et, Posbility: 0.0000
+Choose : est,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_
+---------------------------
+Next Token : missing, Posbility: 1.0000
+Next Token : miss, Posbility: 0.0000
+Next Token : number, Posbility: 0.0000
+Next Token : minimum, Posbility: 0.0000
+Next Token : unknown, Posbility: 0.0000
+Choose : missing,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : (, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_
+---------------------------
+Next Token : number, Posbility: 1.0000
+Next Token : num, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : value, Posbility: 0.0000
+Next Token : no, Posbility: 0.0000
+Choose : number,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token : ([, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : (,  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number(
+---------------------------
+Next Token : n, Posbility: 0.9942
+Next Token : 
+, Posbility: 0.0042
+Next Token : list, Posbility: 0.0004
+Next Token : s, Posbility: 0.0004
+Next Token : number, Posbility: 0.0002
+Choose : n,  Posbility: 0.9942
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number(n
+---------------------------
+Next Token : umbers, Posbility: 0.9996
+Next Token : ums, Posbility: 0.0003
+Next Token : ), Posbility: 0.0000
+Next Token : umer, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : umbers,  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number(numbers
+---------------------------
+Next Token : ), Posbility: 0.9969
+Next Token : =, Posbility: 0.0018
+Next Token : [, Posbility: 0.0004
+Next Token : )., Posbility: 0.0002
+Next Token : ., Posbility: 0.0002
+Choose : ),  Posbility: 0.9969
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number(numbers)
+---------------------------
+Next Token : 
+, Posbility: 0.8673
+Next Token : 
+
+, Posbility: 0.1301
+Next Token :  , Posbility: 0.0007
+Next Token :  +, Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.8673
+---------------------------
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number(numbers)
+
+---------------------------
+Next Token :     , Posbility: 0.9970
+Next Token : 
+, Posbility: 0.0018
+Next Token :    , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token : <|endoftext|>, Posbility: 0.0001
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 43.01069641113281
+
+
+
+----------Syntax Error-----------
+
+'''Write a python function to find the smallest missing number from a sorted list of natural numbers.'''
+def 
+import random
+
+
+def find_smallest_missing_number(numbers):
+    '''
+    Find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Find the smallest missing number
+    smallest_missing_number = 0
+    for number in numbers:
+        if number < smallest_missing_number:
+            smallest_missing_number = number
+    return smallest_missing_number
+
+
+def main():
+    '''
+    Write a python function to find the smallest missing number from a sorted list of natural numbers.
+    '''
+    # Create a list of natural numbers
+    numbers = [random.randint(1, 100) for _ in range(10)]
+    # Find the smallest missing number
+    smallest_missing_number = find_smallest_missing_number(numbers)
+
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

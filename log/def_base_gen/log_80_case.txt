@@ -1,0 +1,482 @@
+<<<<<<<<<<<< 80 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  to, Posbility: 0.1347
+Next Token :  convert, Posbility: 0.1325
+Next Token :  tuple, Posbility: 0.0794
+Next Token :  str, Posbility: 0.0687
+Next Token :  string, Posbility: 0.0676
+Choose :  to,  Posbility: 0.1347
+'''Write a function to convert a tuple to a string.'''
+def to
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to
+---------------------------
+Next Token : _, Posbility: 0.6432
+Next Token : String, Posbility: 0.2616
+Next Token : Str, Posbility: 0.0380
+Next Token : string, Posbility: 0.0145
+Next Token : str, Posbility: 0.0112
+Choose : _,  Posbility: 0.6432
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_
+---------------------------
+Next Token : string, Posbility: 0.7747
+Next Token : str, Posbility: 0.1653
+Next Token : s, Posbility: 0.0062
+Next Token : strings, Posbility: 0.0057
+Next Token : t, Posbility: 0.0053
+Choose : string,  Posbility: 0.7747
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string
+---------------------------
+Next Token : (, Posbility: 0.9224
+Next Token : (*, Posbility: 0.0384
+Next Token : _, Posbility: 0.0194
+Next Token :  (, Posbility: 0.0104
+Next Token : ():, Posbility: 0.0040
+Choose : (,  Posbility: 0.9224
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(
+---------------------------
+Next Token : t, Posbility: 0.6261
+Next Token : x, Posbility: 0.0531
+Next Token : a, Posbility: 0.0326
+Next Token : item, Posbility: 0.0190
+Next Token : my, Posbility: 0.0170
+Choose : t,  Posbility: 0.6261
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(t
+---------------------------
+Next Token : up, Posbility: 0.3466
+Next Token : ):, Posbility: 0.3244
+Next Token : uple, Posbility: 0.2903
+Next Token : :, Posbility: 0.0111
+Next Token : ,, Posbility: 0.0073
+Choose : up,  Posbility: 0.3466
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup
+---------------------------
+Next Token : ):, Posbility: 0.9266
+Next Token : ,, Posbility: 0.0290
+Next Token : :, Posbility: 0.0248
+Next Token : ), Posbility: 0.0048
+Next Token : 1, Posbility: 0.0045
+Choose : ):,  Posbility: 0.9266
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+---------------------------
+Next Token : 
+, Posbility: 0.9625
+Next Token : 
+
+, Posbility: 0.0093
+Next Token : , Posbility: 0.0091
+Next Token :  , Posbility: 0.0089
+Next Token :  return, Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9625
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+
+---------------------------
+Next Token :     , Posbility: 0.9221
+Next Token :   , Posbility: 0.0391
+Next Token : 	, Posbility: 0.0320
+Next Token :    , Posbility: 0.0040
+Next Token :         , Posbility: 0.0008
+Choose :     ,  Posbility: 0.9221
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    
+---------------------------
+Next Token : return, Posbility: 0.3039
+Next Token : '', Posbility: 0.2322
+Next Token : s, Posbility: 0.0721
+Next Token : str, Posbility: 0.0641
+Next Token : if, Posbility: 0.0454
+Choose : return,  Posbility: 0.3039
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return
+---------------------------
+Next Token :  ', Posbility: 0.2992
+Next Token :  str, Posbility: 0.2651
+Next Token :  ", Posbility: 0.1798
+Next Token :  f, Posbility: 0.0688
+Next Token :  ',, Posbility: 0.0606
+Choose :  ',  Posbility: 0.2992
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return '
+---------------------------
+Next Token : '., Posbility: 0.4098
+Next Token :  '., Posbility: 0.2110
+Next Token : ,', Posbility: 0.1524
+Next Token : {, Posbility: 0.0609
+Next Token : (', Posbility: 0.0450
+Choose : '.,  Posbility: 0.4098
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.
+---------------------------
+Next Token : join, Posbility: 0.9997
+Next Token :  join, Posbility: 0.0003
+Next Token : format, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : center, Posbility: 0.0000
+Choose : join,  Posbility: 0.9997
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join
+---------------------------
+Next Token : (, Posbility: 0.8392
+Next Token : ([, Posbility: 0.1421
+Next Token : ((, Posbility: 0.0092
+Next Token : (', Posbility: 0.0073
+Next Token : (", Posbility: 0.0012
+Choose : (,  Posbility: 0.8392
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(
+---------------------------
+Next Token : t, Posbility: 0.4529
+Next Token : str, Posbility: 0.2811
+Next Token : map, Posbility: 0.1762
+Next Token : f, Posbility: 0.0317
+Next Token : list, Posbility: 0.0137
+Choose : t,  Posbility: 0.4529
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(t
+---------------------------
+Next Token : up, Posbility: 0.9631
+Next Token : uple, Posbility: 0.0301
+Next Token :  for, Posbility: 0.0035
+Next Token : ), Posbility: 0.0013
+Next Token : pl, Posbility: 0.0006
+Choose : up,  Posbility: 0.9631
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup
+---------------------------
+Next Token : ), Posbility: 0.8900
+Next Token : [, Posbility: 0.0712
+Next Token : )., Posbility: 0.0315
+Next Token : )+, Posbility: 0.0014
+Next Token : ., Posbility: 0.0013
+Choose : ),  Posbility: 0.8900
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+---------------------------
+Next Token : 
+, Posbility: 0.6463
+Next Token : 
+
+, Posbility: 0.2888
+Next Token : <|endoftext|>, Posbility: 0.0393
+Next Token :  , Posbility: 0.0076
+Next Token :  +, Posbility: 0.0050
+Choose : 
+,  Posbility: 0.6463
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+---------------------------
+Next Token : 
+, Posbility: 0.8201
+Next Token : <|endoftext|>, Posbility: 0.0403
+Next Token : '', Posbility: 0.0248
+Next Token : print, Posbility: 0.0238
+Next Token :     , Posbility: 0.0225
+Choose : 
+,  Posbility: 0.8201
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9630
+Next Token : <|endoftext|>, Posbility: 0.0192
+Next Token : 
+
+, Posbility: 0.0090
+Next Token :     , Posbility: 0.0066
+Next Token :  , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9630
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3849
+Next Token : def, Posbility: 0.1958
+Next Token : #, Posbility: 0.1660
+Next Token : print, Posbility: 0.0718
+Next Token : if, Posbility: 0.0325
+Choose : '',  Posbility: 0.3849
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7851
+Next Token :  Write, Posbility: 0.0274
+Next Token : Con, Posbility: 0.0159
+Next Token : 
+, Posbility: 0.0153
+Next Token : Create, Posbility: 0.0098
+Choose : Write,  Posbility: 0.7851
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9887
+Next Token :  your, Posbility: 0.0027
+Next Token :  an, Posbility: 0.0024
+Next Token :  the, Posbility: 0.0013
+Next Token :  function, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9887
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9706
+Next Token :  program, Posbility: 0.0053
+Next Token :  Python, Posbility: 0.0035
+Next Token :  python, Posbility: 0.0019
+Next Token :  Function, Posbility: 0.0013
+Choose :  function,  Posbility: 0.9706
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6652
+Next Token :  that, Posbility: 0.2852
+Next Token :  which, Posbility: 0.0077
+Next Token :  named, Posbility: 0.0076
+Next Token :  called, Posbility: 0.0076
+Choose :  to,  Posbility: 0.6652
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to
+---------------------------
+Next Token :  convert, Posbility: 0.0927
+Next Token :  print, Posbility: 0.0914
+Next Token :  find, Posbility: 0.0907
+Next Token :  get, Posbility: 0.0563
+Next Token :  remove, Posbility: 0.0555
+Choose :  convert,  Posbility: 0.0927
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert
+---------------------------
+Next Token :  a, Posbility: 0.8856
+Next Token :  an, Posbility: 0.0423
+Next Token :  the, Posbility: 0.0179
+Next Token :  two, Posbility: 0.0061
+Next Token :  all, Posbility: 0.0045
+Choose :  a,  Posbility: 0.8856
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a
+---------------------------
+Next Token :  tuple, Posbility: 0.2582
+Next Token :  dictionary, Posbility: 0.2053
+Next Token :  list, Posbility: 0.1763
+Next Token :  string, Posbility: 0.1696
+Next Token :  set, Posbility: 0.0447
+Choose :  tuple,  Posbility: 0.2582
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple
+---------------------------
+Next Token :  to, Posbility: 0.7551
+Next Token :  of, Posbility: 0.0823
+Next Token :  into, Posbility: 0.0806
+Next Token :  back, Posbility: 0.0166
+Next Token :  from, Posbility: 0.0125
+Choose :  to,  Posbility: 0.7551
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to
+---------------------------
+Next Token :  a, Posbility: 0.9220
+Next Token :  an, Posbility: 0.0399
+Next Token :  dictionary, Posbility: 0.0037
+Next Token :  another, Posbility: 0.0035
+Next Token :  list, Posbility: 0.0032
+Choose :  a,  Posbility: 0.9220
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to a
+---------------------------
+Next Token :  string, Posbility: 0.5966
+Next Token :  list, Posbility: 0.1594
+Next Token :  dictionary, Posbility: 0.1053
+Next Token :  set, Posbility: 0.0306
+Next Token :  new, Posbility: 0.0226
+Choose :  string,  Posbility: 0.5966
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to a string
+---------------------------
+Next Token : .', Posbility: 0.6492
+Next Token : ., Posbility: 0.1123
+Next Token :  with, Posbility: 0.0278
+Next Token : ,, Posbility: 0.0263
+Next Token : '', Posbility: 0.0246
+Choose : .',  Posbility: 0.6492
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to a string.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to a string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9258
+Next Token : 
+
+, Posbility: 0.0705
+Next Token : def, Posbility: 0.0015
+Next Token :  , Posbility: 0.0007
+Next Token : <|endoftext|>, Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9258
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to a string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9104
+Next Token : 
+, Posbility: 0.0516
+Next Token : #, Posbility: 0.0112
+Next Token : from, Posbility: 0.0087
+Next Token : import, Posbility: 0.0034
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.569960832595825
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert a tuple to a string.'''
+def to_string(tup):
+    return ''.join(tup)
+
+
+'''Write a function to convert a tuple to a string.'''
+

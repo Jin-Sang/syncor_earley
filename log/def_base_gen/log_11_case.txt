@@ -1,0 +1,481 @@
+<<<<<<<<<<<< 11 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  square, Posbility: 0.3761
+Next Token :  perimeter, Posbility: 0.1960
+Next Token :  sq, Posbility: 0.0770
+Next Token :  per, Posbility: 0.0298
+Next Token :  get, Posbility: 0.0256
+Choose :  square,  Posbility: 0.3761
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square
+---------------------------
+Next Token : (, Posbility: 0.4645
+Next Token : _, Posbility: 0.4058
+Next Token : ():, Posbility: 0.0588
+Next Token :  (, Posbility: 0.0146
+Next Token : Length, Posbility: 0.0139
+Choose : (,  Posbility: 0.4645
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(
+---------------------------
+Next Token : side, Posbility: 0.8006
+Next Token : s, Posbility: 0.0578
+Next Token : length, Posbility: 0.0481
+Next Token : l, Posbility: 0.0210
+Next Token : a, Posbility: 0.0137
+Choose : side,  Posbility: 0.8006
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side
+---------------------------
+Next Token : ):, Posbility: 0.7790
+Next Token : _, Posbility: 0.1452
+Next Token : Length, Posbility: 0.0226
+Next Token : :, Posbility: 0.0161
+Next Token : =, Posbility: 0.0110
+Choose : ):,  Posbility: 0.7790
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+---------------------------
+Next Token : 
+, Posbility: 0.9287
+Next Token : , Posbility: 0.0283
+Next Token : 
+
+, Posbility: 0.0199
+Next Token :  , Posbility: 0.0116
+Next Token :  #, Posbility: 0.0041
+Choose : 
+,  Posbility: 0.9287
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+
+---------------------------
+Next Token :     , Posbility: 0.9398
+Next Token :   , Posbility: 0.0341
+Next Token : 	, Posbility: 0.0186
+Next Token :    , Posbility: 0.0037
+Next Token :         , Posbility: 0.0014
+Choose :     ,  Posbility: 0.9398
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    
+---------------------------
+Next Token : return, Posbility: 0.3311
+Next Token : per, Posbility: 0.1616
+Next Token : if, Posbility: 0.1462
+Next Token : '', Posbility: 0.1325
+Next Token : #, Posbility: 0.0281
+Choose : return,  Posbility: 0.3311
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return
+---------------------------
+Next Token :  side, Posbility: 0.7881
+Next Token :  (, Posbility: 0.0650
+Next Token :  4, Posbility: 0.0483
+Next Token :  2, Posbility: 0.0170
+Next Token :  int, Posbility: 0.0140
+Choose :  side,  Posbility: 0.7881
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side
+---------------------------
+Next Token :  *, Posbility: 0.4615
+Next Token : *, Posbility: 0.3134
+Next Token : **, Posbility: 0.1182
+Next Token :  **, Posbility: 0.1021
+Next Token :  +, Posbility: 0.0019
+Choose :  *,  Posbility: 0.4615
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side *
+---------------------------
+Next Token :  4, Posbility: 0.5256
+Next Token :  side, Posbility: 0.4230
+Next Token :  (, Posbility: 0.0200
+Next Token :  2, Posbility: 0.0056
+Next Token : side, Posbility: 0.0038
+Choose :  4,  Posbility: 0.5256
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+---------------------------
+Next Token : 
+, Posbility: 0.6786
+Next Token : 
+
+, Posbility: 0.2700
+Next Token : <|endoftext|>, Posbility: 0.0184
+Next Token :  +, Posbility: 0.0081
+Next Token :  , Posbility: 0.0075
+Choose : 
+,  Posbility: 0.6786
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+---------------------------
+Next Token : 
+, Posbility: 0.7473
+Next Token : print, Posbility: 0.0930
+Next Token :     , Posbility: 0.0343
+Next Token : def, Posbility: 0.0220
+Next Token : square, Posbility: 0.0198
+Choose : 
+,  Posbility: 0.7473
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9800
+Next Token : <|endoftext|>, Posbility: 0.0104
+Next Token :     , Posbility: 0.0046
+Next Token : 
+
+, Posbility: 0.0036
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9800
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3989
+Next Token : print, Posbility: 0.1856
+Next Token : def, Posbility: 0.1558
+Next Token : #, Posbility: 0.0937
+Next Token : if, Posbility: 0.0397
+Choose : '',  Posbility: 0.3989
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8658
+Next Token :  Write, Posbility: 0.0209
+Next Token : 
+, Posbility: 0.0156
+Next Token : Return, Posbility: 0.0065
+Next Token : Create, Posbility: 0.0057
+Choose : Write,  Posbility: 0.8658
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9913
+Next Token :  an, Posbility: 0.0018
+Next Token :  your, Posbility: 0.0017
+Next Token :  the, Posbility: 0.0014
+Next Token :  another, Posbility: 0.0010
+Choose :  a,  Posbility: 0.9913
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9758
+Next Token :  program, Posbility: 0.0061
+Next Token :  python, Posbility: 0.0023
+Next Token :  Python, Posbility: 0.0020
+Next Token :  recursive, Posbility: 0.0014
+Choose :  function,  Posbility: 0.9758
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9197
+Next Token :  to, Posbility: 0.0281
+Next Token :  called, Posbility: 0.0169
+Next Token :  named, Posbility: 0.0092
+Next Token :  which, Posbility: 0.0044
+Choose :  that,  Posbility: 0.9197
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that
+---------------------------
+Next Token :  returns, Posbility: 0.7200
+Next Token :  takes, Posbility: 0.0595
+Next Token :  prints, Posbility: 0.0538
+Next Token :  checks, Posbility: 0.0340
+Next Token :  accepts, Posbility: 0.0171
+Choose :  returns,  Posbility: 0.7200
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns
+---------------------------
+Next Token :  the, Posbility: 0.7760
+Next Token :  a, Posbility: 0.0903
+Next Token :  True, Posbility: 0.0540
+Next Token :  true, Posbility: 0.0104
+Next Token :  an, Posbility: 0.0086
+Choose :  the,  Posbility: 0.7760
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the
+---------------------------
+Next Token :  area, Posbility: 0.5391
+Next Token :  perimeter, Posbility: 0.2000
+Next Token :  volume, Posbility: 0.0586
+Next Token :  square, Posbility: 0.0315
+Next Token :  surface, Posbility: 0.0176
+Choose :  area,  Posbility: 0.5391
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area
+---------------------------
+Next Token :  of, Posbility: 0.9846
+Next Token :  and, Posbility: 0.0032
+Next Token :  (, Posbility: 0.0031
+Next Token :  given, Posbility: 0.0016
+Next Token :  or, Posbility: 0.0012
+Choose :  of,  Posbility: 0.9846
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of
+---------------------------
+Next Token :  a, Posbility: 0.9852
+Next Token :  the, Posbility: 0.0035
+Next Token :  an, Posbility: 0.0034
+Next Token :  rectangle, Posbility: 0.0023
+Next Token :  square, Posbility: 0.0019
+Choose :  a,  Posbility: 0.9852
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a
+---------------------------
+Next Token :  rectangle, Posbility: 0.4466
+Next Token :  triangle, Posbility: 0.2330
+Next Token :  circle, Posbility: 0.1014
+Next Token :  cube, Posbility: 0.0746
+Next Token :  square, Posbility: 0.0584
+Choose :  rectangle,  Posbility: 0.4466
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle
+---------------------------
+Next Token :  given, Posbility: 0.9633
+Next Token :  as, Posbility: 0.0044
+Next Token :  with, Posbility: 0.0040
+Next Token : ., Posbility: 0.0040
+Next Token : .', Posbility: 0.0021
+Choose :  given,  Posbility: 0.9633
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given
+---------------------------
+Next Token :  its, Posbility: 0.9821
+Next Token :  the, Posbility: 0.0089
+Next Token :  it, Posbility: 0.0020
+Next Token :  a, Posbility: 0.0013
+Next Token :  side, Posbility: 0.0010
+Choose :  its,  Posbility: 0.9821
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its
+---------------------------
+Next Token :  width, Posbility: 0.3156
+Next Token :  length, Posbility: 0.2041
+Next Token :  side, Posbility: 0.1717
+Next Token :  height, Posbility: 0.1434
+Next Token :  base, Posbility: 0.0876
+Choose :  width,  Posbility: 0.3156
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width
+---------------------------
+Next Token :  as, Posbility: 0.5100
+Next Token :  and, Posbility: 0.4545
+Next Token : 
+, Posbility: 0.0088
+Next Token : ,, Posbility: 0.0063
+Next Token :  (, Posbility: 0.0034
+Choose :  as,  Posbility: 0.5100
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width as
+---------------------------
+Next Token :  input, Posbility: 0.9813
+Next Token :  a, Posbility: 0.0052
+Next Token :  an, Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0041
+Next Token :  the, Posbility: 0.0011
+Choose :  input,  Posbility: 0.9813
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width as input
+---------------------------
+Next Token : .', Posbility: 0.4113
+Next Token :  and, Posbility: 0.3787
+Next Token : ., Posbility: 0.1114
+Next Token : ,, Posbility: 0.0321
+Next Token : 
+, Posbility: 0.0248
+Choose : .',  Posbility: 0.4113
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width as input.'
+---------------------------
+Next Token : '', Posbility: 0.9988
+Next Token : 
+, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9988
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width as input.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9619
+Next Token : 
+
+, Posbility: 0.0365
+Next Token :  , Posbility: 0.0005
+Next Token : def, Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9619
+---------------------------
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width as input.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9627
+Next Token : 
+, Posbility: 0.0285
+Next Token : #, Posbility: 0.0032
+Next Token : class, Posbility: 0.0009
+Next Token : import, Posbility: 0.0008
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.397079944610596
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that returns the perimeter of a square given its side length as input.'''
+def square(side):
+    return side * 4
+
+
+'''Write a function that returns the area of a rectangle given its width as input.'''
+

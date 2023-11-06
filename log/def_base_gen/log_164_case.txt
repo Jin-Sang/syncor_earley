@@ -1,0 +1,1501 @@
+<<<<<<<<<<<< 164 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  max, Posbility: 0.4680
+Next Token :  find, Posbility: 0.1895
+Next Token :  maximum, Posbility: 0.1400
+Next Token :  get, Posbility: 0.0263
+Next Token :  highest, Posbility: 0.0260
+Choose :  max,  Posbility: 0.4680
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max
+---------------------------
+Next Token : _, Posbility: 0.5784
+Next Token : (, Posbility: 0.1237
+Next Token : Value, Posbility: 0.0658
+Next Token : H, Posbility: 0.0320
+Next Token : value, Posbility: 0.0285
+Choose : _,  Posbility: 0.5784
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_
+---------------------------
+Next Token : value, Posbility: 0.4341
+Next Token : heter, Posbility: 0.1162
+Next Token : in, Posbility: 0.0710
+Next Token : val, Posbility: 0.0604
+Next Token : he, Posbility: 0.0471
+Choose : value,  Posbility: 0.4341
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value
+---------------------------
+Next Token : (, Posbility: 0.6884
+Next Token : _, Posbility: 0.2938
+Next Token : ():, Posbility: 0.0088
+Next Token :  (, Posbility: 0.0029
+Next Token : 1, Posbility: 0.0014
+Choose : (,  Posbility: 0.6884
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(
+---------------------------
+Next Token : l, Posbility: 0.2000
+Next Token : list, Posbility: 0.1552
+Next Token : heter, Posbility: 0.1073
+Next Token : a, Posbility: 0.0654
+Next Token : my, Posbility: 0.0504
+Choose : l,  Posbility: 0.2000
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(l
+---------------------------
+Next Token : st, Posbility: 0.6310
+Next Token : ):, Posbility: 0.3350
+Next Token : :, Posbility: 0.0101
+Next Token : 1, Posbility: 0.0093
+Next Token : ,, Posbility: 0.0061
+Choose : st,  Posbility: 0.6310
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst
+---------------------------
+Next Token : ):, Posbility: 0.9395
+Next Token : :, Posbility: 0.0189
+Next Token : ,, Posbility: 0.0172
+Next Token : _, Posbility: 0.0089
+Next Token : ), Posbility: 0.0067
+Choose : ):,  Posbility: 0.9395
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9208
+Next Token : 
+
+, Posbility: 0.0287
+Next Token : , Posbility: 0.0284
+Next Token :  , Posbility: 0.0131
+Next Token :   , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9208
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.8918
+Next Token :   , Posbility: 0.0643
+Next Token : 	, Posbility: 0.0312
+Next Token :    , Posbility: 0.0057
+Next Token :         , Posbility: 0.0020
+Choose :     ,  Posbility: 0.8918
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2894
+Next Token : max, Posbility: 0.2525
+Next Token : if, Posbility: 0.0817
+Next Token : return, Posbility: 0.0456
+Next Token : #, Posbility: 0.0448
+Choose : '',  Posbility: 0.2894
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''
+---------------------------
+Next Token : Find, Posbility: 0.1340
+Next Token : 
+, Posbility: 0.1183
+Next Token : Return, Posbility: 0.0975
+Next Token : Write, Posbility: 0.0848
+Next Token : Function, Posbility: 0.0657
+Choose : Find,  Posbility: 0.1340
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find
+---------------------------
+Next Token :  the, Posbility: 0.7246
+Next Token : s, Posbility: 0.1476
+Next Token :  maximum, Posbility: 0.0645
+Next Token :  max, Posbility: 0.0294
+Next Token :  and, Posbility: 0.0081
+Choose :  the,  Posbility: 0.7246
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the
+---------------------------
+Next Token :  maximum, Posbility: 0.8232
+Next Token :  highest, Posbility: 0.0534
+Next Token :  max, Posbility: 0.0507
+Next Token :  largest, Posbility: 0.0172
+Next Token :  value, Posbility: 0.0146
+Choose :  maximum,  Posbility: 0.8232
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum
+---------------------------
+Next Token :  value, Posbility: 0.8900
+Next Token :  element, Posbility: 0.0472
+Next Token :  of, Posbility: 0.0129
+Next Token :  in, Posbility: 0.0096
+Next Token :  item, Posbility: 0.0075
+Choose :  value,  Posbility: 0.8900
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value
+---------------------------
+Next Token :  in, Posbility: 0.7672
+Next Token :  of, Posbility: 0.1364
+Next Token :  from, Posbility: 0.0286
+Next Token : '', Posbility: 0.0094
+Next Token : ., Posbility: 0.0050
+Choose :  in,  Posbility: 0.7672
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in
+---------------------------
+Next Token :  a, Posbility: 0.9270
+Next Token :  the, Posbility: 0.0423
+Next Token :  given, Posbility: 0.0085
+Next Token :  list, Posbility: 0.0067
+Next Token :  l, Posbility: 0.0060
+Choose :  a,  Posbility: 0.9270
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a
+---------------------------
+Next Token :  given, Posbility: 0.8705
+Next Token :  list, Posbility: 0.0682
+Next Token :  heter, Posbility: 0.0432
+Next Token :  hom, Posbility: 0.0036
+Next Token :  sequence, Posbility: 0.0011
+Choose :  given,  Posbility: 0.8705
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given
+---------------------------
+Next Token :  heter, Posbility: 0.8177
+Next Token :  list, Posbility: 0.1553
+Next Token :  hom, Posbility: 0.0038
+Next Token :  set, Posbility: 0.0017
+Next Token :  non, Posbility: 0.0014
+Choose :  heter,  Posbility: 0.8177
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heter
+---------------------------
+Next Token : ogeneous, Posbility: 0.9904
+Next Token : ogenous, Posbility: 0.0035
+Next Token : ogene, Posbility: 0.0019
+Next Token : ogen, Posbility: 0.0015
+Next Token : o, Posbility: 0.0009
+Choose : ogeneous,  Posbility: 0.9904
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous
+---------------------------
+Next Token :  list, Posbility: 0.9938
+Next Token : 
+, Posbility: 0.0010
+Next Token :  l, Posbility: 0.0009
+Next Token :  array, Posbility: 0.0006
+Next Token :  lists, Posbility: 0.0004
+Choose :  list,  Posbility: 0.9938
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list
+---------------------------
+Next Token : .', Posbility: 0.5310
+Next Token : ., Posbility: 0.2806
+Next Token : '', Posbility: 0.0891
+Next Token :  of, Posbility: 0.0153
+Next Token : 
+, Posbility: 0.0116
+Choose : .',  Posbility: 0.5310
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'
+---------------------------
+Next Token : '', Posbility: 0.9979
+Next Token : 
+, Posbility: 0.0008
+Next Token : 
+
+, Posbility: 0.0008
+Next Token :  ', Posbility: 0.0002
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9979
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9205
+Next Token : 
+
+, Posbility: 0.0717
+Next Token :  , Posbility: 0.0048
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9205
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9940
+Next Token :   , Posbility: 0.0017
+Next Token :         , Posbility: 0.0010
+Next Token :    , Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9940
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    
+---------------------------
+Next Token : max, Posbility: 0.3624
+Next Token : if, Posbility: 0.1065
+Next Token : maximum, Posbility: 0.0673
+Next Token : return, Posbility: 0.0656
+Next Token : #, Posbility: 0.0495
+Choose : max,  Posbility: 0.3624
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max
+---------------------------
+Next Token : _, Posbility: 0.6585
+Next Token :  =, Posbility: 0.2085
+Next Token : =, Posbility: 0.0454
+Next Token : i, Posbility: 0.0148
+Next Token : val, Posbility: 0.0136
+Choose : _,  Posbility: 0.6585
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_
+---------------------------
+Next Token : val, Posbility: 0.3928
+Next Token : value, Posbility: 0.3256
+Next Token : num, Posbility: 0.0560
+Next Token : v, Posbility: 0.0471
+Next Token :  =, Posbility: 0.0157
+Choose : val,  Posbility: 0.3928
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val
+---------------------------
+Next Token :  =, Posbility: 0.9241
+Next Token : =, Posbility: 0.0543
+Next Token : _, Posbility: 0.0097
+Next Token : ,, Posbility: 0.0061
+Next Token : =-, Posbility: 0.0030
+Choose :  =,  Posbility: 0.9241
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val =
+---------------------------
+Next Token :  l, Posbility: 0.6878
+Next Token :  0, Posbility: 0.1497
+Next Token :  max, Posbility: 0.0388
+Next Token :  -, Posbility: 0.0306
+Next Token :  float, Posbility: 0.0282
+Choose :  l,  Posbility: 0.6878
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : [, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst
+---------------------------
+Next Token : [, Posbility: 0.9884
+Next Token : ., Posbility: 0.0093
+Next Token :  [, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0005
+Next Token : _, Posbility: 0.0002
+Choose : [,  Posbility: 0.9884
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[
+---------------------------
+Next Token : 0, Posbility: 0.9954
+Next Token : -, Posbility: 0.0019
+Next Token : 1, Posbility: 0.0010
+Next Token : len, Posbility: 0.0004
+Next Token : l, Posbility: 0.0004
+Choose : 0,  Posbility: 0.9954
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0
+---------------------------
+Next Token : ], Posbility: 0.9632
+Next Token : ][, Posbility: 0.0214
+Next Token : ];, Posbility: 0.0133
+Next Token : ]., Posbility: 0.0018
+Next Token : ]+, Posbility: 0.0002
+Choose : ],  Posbility: 0.9632
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+---------------------------
+Next Token : 
+, Posbility: 0.9035
+Next Token : 
+
+, Posbility: 0.0330
+Next Token :  #, Posbility: 0.0326
+Next Token :   , Posbility: 0.0071
+Next Token :  , Posbility: 0.0066
+Choose : 
+,  Posbility: 0.9035
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+
+---------------------------
+Next Token :     , Posbility: 0.9987
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0002
+Next Token :  , Posbility: 0.0001
+Next Token : 	, Posbility: 0.0001
+Choose :     ,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    
+---------------------------
+Next Token : for, Posbility: 0.8953
+Next Token : max, Posbility: 0.0227
+Next Token : 
+, Posbility: 0.0115
+Next Token : i, Posbility: 0.0090
+Next Token : print, Posbility: 0.0063
+Choose : for,  Posbility: 0.8953
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for
+---------------------------
+Next Token :  i, Posbility: 0.3914
+Next Token :  item, Posbility: 0.1290
+Next Token :  val, Posbility: 0.0731
+Next Token :  x, Posbility: 0.0626
+Next Token :  ele, Posbility: 0.0555
+Choose :  i,  Posbility: 0.3914
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9878
+Next Token : ,, Posbility: 0.0109
+Next Token : _, Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9878
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.5596
+Next Token :  l, Posbility: 0.4370
+Next Token :  list, Posbility: 0.0009
+Next Token :   , Posbility: 0.0005
+Next Token :  enumer, Posbility: 0.0003
+Choose :  range,  Posbility: 0.5596
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9860
+Next Token :  (, Posbility: 0.0136
+Next Token : ((, Posbility: 0.0001
+Next Token : ():, Posbility: 0.0001
+Next Token : :, Posbility: 0.0001
+Choose : (,  Posbility: 0.9860
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.5554
+Next Token : 1, Posbility: 0.3191
+Next Token : 0, Posbility: 0.1188
+Next Token :  len, Posbility: 0.0018
+Next Token : l, Posbility: 0.0017
+Choose : len,  Posbility: 0.5554
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token :  (, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9995
+Next Token : list, Posbility: 0.0001
+Next Token : max, Posbility: 0.0001
+Next Token :  l, Posbility: 0.0001
+Next Token : s, Posbility: 0.0000
+Choose : l,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ), Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst
+---------------------------
+Next Token : ), Posbility: 0.9549
+Next Token : )-, Posbility: 0.0399
+Next Token : )), Posbility: 0.0025
+Next Token : [, Posbility: 0.0021
+Next Token : ),, Posbility: 0.0003
+Choose : ),  Posbility: 0.9549
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.9792
+Next Token :  -, Posbility: 0.0201
+Next Token :  ):, Posbility: 0.0004
+Next Token : //, Posbility: 0.0000
+Next Token :  //, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9792
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9867
+Next Token :  , Posbility: 0.0038
+Next Token :  #, Posbility: 0.0031
+Next Token :     , Posbility: 0.0014
+Next Token : 
+
+, Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9867
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+
+---------------------------
+Next Token :         , Posbility: 0.9857
+Next Token :             , Posbility: 0.0044
+Next Token :       , Posbility: 0.0038
+Next Token :        , Posbility: 0.0021
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9857
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        
+---------------------------
+Next Token : if, Posbility: 0.9552
+Next Token : max, Posbility: 0.0172
+Next Token : for, Posbility: 0.0054
+Next Token : #, Posbility: 0.0041
+Next Token : val, Posbility: 0.0038
+Choose : if,  Posbility: 0.9552
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if
+---------------------------
+Next Token :  l, Posbility: 0.7402
+Next Token :  max, Posbility: 0.2039
+Next Token : (, Posbility: 0.0312
+Next Token :  (, Posbility: 0.0155
+Next Token :  i, Posbility: 0.0020
+Choose :  l,  Posbility: 0.7402
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if l
+---------------------------
+Next Token : st, Posbility: 0.9998
+Next Token : [, Posbility: 0.0001
+Next Token : t, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : st,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst
+---------------------------
+Next Token : [, Posbility: 0.9965
+Next Token :  [, Posbility: 0.0030
+Next Token : ., Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Next Token :  [-, Posbility: 0.0000
+Choose : [,  Posbility: 0.9965
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[
+---------------------------
+Next Token : i, Posbility: 0.9985
+Next Token : 0, Posbility: 0.0011
+Next Token : 1, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Next Token : max, Posbility: 0.0000
+Choose : i,  Posbility: 0.9985
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i
+---------------------------
+Next Token : ], Posbility: 0.9857
+Next Token : ][, Posbility: 0.0134
+Next Token : ]., Posbility: 0.0003
+Next Token : ]+, Posbility: 0.0003
+Next Token : ]-, Posbility: 0.0001
+Choose : ],  Posbility: 0.9857
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i]
+---------------------------
+Next Token :  >, Posbility: 0.9290
+Next Token : >, Posbility: 0.0515
+Next Token :  >=, Posbility: 0.0090
+Next Token :  <, Posbility: 0.0083
+Next Token : <, Posbility: 0.0007
+Choose :  >,  Posbility: 0.9290
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] >
+---------------------------
+Next Token :  max, Posbility: 0.9889
+Next Token :  l, Posbility: 0.0079
+Next Token : max, Posbility: 0.0015
+Next Token :   , Posbility: 0.0009
+Next Token :  0, Posbility: 0.0002
+Choose :  max,  Posbility: 0.9889
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : (, Posbility: 0.0001
+Next Token : :, Posbility: 0.0000
+Next Token : ():, Posbility: 0.0000
+Next Token : val, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_
+---------------------------
+Next Token : val, Posbility: 0.9999
+Next Token : value, Posbility: 0.0001
+Next Token : vals, Posbility: 0.0000
+Next Token : v, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Choose : val,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val
+---------------------------
+Next Token : :, Posbility: 0.9948
+Next Token :  and, Posbility: 0.0024
+Next Token :  :, Posbility: 0.0023
+Next Token : [, Posbility: 0.0002
+Next Token :  or, Posbility: 0.0002
+Choose : :,  Posbility: 0.9948
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+---------------------------
+Next Token : 
+, Posbility: 0.9892
+Next Token :  , Posbility: 0.0033
+Next Token :  max, Posbility: 0.0029
+Next Token :  #, Posbility: 0.0019
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9892
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+
+---------------------------
+Next Token :             , Posbility: 0.9960
+Next Token :                 , Posbility: 0.0013
+Next Token :            , Posbility: 0.0010
+Next Token :              , Posbility: 0.0007
+Next Token :           , Posbility: 0.0005
+Choose :             ,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            
+---------------------------
+Next Token : max, Posbility: 0.9935
+Next Token : #, Posbility: 0.0018
+Next Token : print, Posbility: 0.0012
+Next Token : if, Posbility: 0.0009
+Next Token : l, Posbility: 0.0008
+Choose : max,  Posbility: 0.9935
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token :  =, Posbility: 0.0002
+Next Token : val, Posbility: 0.0000
+Next Token : Val, Posbility: 0.0000
+Next Token : i, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_
+---------------------------
+Next Token : val, Posbility: 0.9990
+Next Token : value, Posbility: 0.0004
+Next Token : index, Posbility: 0.0001
+Next Token : id, Posbility: 0.0001
+Next Token : item, Posbility: 0.0000
+Choose : val,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val
+---------------------------
+Next Token :  =, Posbility: 0.9933
+Next Token : =, Posbility: 0.0057
+Next Token :   , Posbility: 0.0006
+Next Token : ,, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Choose :  =,  Posbility: 0.9933
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val =
+---------------------------
+Next Token :  l, Posbility: 0.9973
+Next Token : l, Posbility: 0.0019
+Next Token :   , Posbility: 0.0004
+Next Token :  max, Posbility: 0.0001
+Next Token :  list, Posbility: 0.0001
+Choose :  l,  Posbility: 0.9973
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : [, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : sta, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token :  [, Posbility: 0.0002
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[
+---------------------------
+Next Token : i, Posbility: 0.9999
+Next Token : 0, Posbility: 0.0000
+Next Token :  i, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : j, Posbility: 0.0000
+Choose : i,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i
+---------------------------
+Next Token : ], Posbility: 0.9988
+Next Token : ];, Posbility: 0.0011
+Next Token : ]., Posbility: 0.0000
+Next Token : ],, Posbility: 0.0000
+Next Token : ][, Posbility: 0.0000
+Choose : ],  Posbility: 0.9988
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+---------------------------
+Next Token : 
+, Posbility: 0.9555
+Next Token : 
+
+, Posbility: 0.0353
+Next Token :  , Posbility: 0.0039
+Next Token :     , Posbility: 0.0011
+Next Token :  #, Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9555
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+
+---------------------------
+Next Token :     , Posbility: 0.9447
+Next Token :         , Posbility: 0.0347
+Next Token :             , Posbility: 0.0170
+Next Token : 
+, Posbility: 0.0012
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9447
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    
+---------------------------
+Next Token : return, Posbility: 0.9197
+Next Token : print, Posbility: 0.0576
+Next Token : 
+, Posbility: 0.0130
+Next Token : #, Posbility: 0.0027
+Next Token : if, Posbility: 0.0018
+Choose : return,  Posbility: 0.9197
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return
+---------------------------
+Next Token :  max, Posbility: 0.9540
+Next Token : (, Posbility: 0.0280
+Next Token :  (, Posbility: 0.0065
+Next Token :  l, Posbility: 0.0021
+Next Token :  f, Posbility: 0.0021
+Choose :  max,  Posbility: 0.9540
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max
+---------------------------
+Next Token : _, Posbility: 0.9960
+Next Token : (, Posbility: 0.0038
+Next Token : 
+, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0000
+Choose : _,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_
+---------------------------
+Next Token : val, Posbility: 0.9997
+Next Token : value, Posbility: 0.0002
+Next Token : vals, Posbility: 0.0000
+Next Token : var, Posbility: 0.0000
+Next Token : values, Posbility: 0.0000
+Choose : val,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+---------------------------
+Next Token : 
+, Posbility: 0.7221
+Next Token : 
+
+, Posbility: 0.2362
+Next Token : <|endoftext|>, Posbility: 0.0201
+Next Token :  , Posbility: 0.0090
+Next Token :     , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.7221
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+---------------------------
+Next Token : 
+, Posbility: 0.7860
+Next Token :     , Posbility: 0.0467
+Next Token : print, Posbility: 0.0260
+Next Token : <|endoftext|>, Posbility: 0.0226
+Next Token : #, Posbility: 0.0224
+Choose : 
+,  Posbility: 0.7860
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9494
+Next Token :     , Posbility: 0.0182
+Next Token : 
+
+, Posbility: 0.0149
+Next Token : <|endoftext|>, Posbility: 0.0110
+Next Token :         , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9494
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5029
+Next Token : #, Posbility: 0.1783
+Next Token : def, Posbility: 0.1349
+Next Token : if, Posbility: 0.0545
+Next Token : 
+, Posbility: 0.0350
+Choose : '',  Posbility: 0.5029
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8595
+Next Token :  Write, Posbility: 0.0181
+Next Token : Find, Posbility: 0.0142
+Next Token : 
+, Posbility: 0.0103
+Next Token : Test, Posbility: 0.0062
+Choose : Write,  Posbility: 0.8595
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9900
+Next Token :  your, Posbility: 0.0023
+Next Token :  an, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0016
+Next Token :  function, Posbility: 0.0007
+Choose :  a,  Posbility: 0.9900
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9372
+Next Token :  program, Posbility: 0.0170
+Next Token :  Python, Posbility: 0.0106
+Next Token :  python, Posbility: 0.0055
+Next Token :  Function, Posbility: 0.0022
+Choose :  function,  Posbility: 0.9372
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.8083
+Next Token :  that, Posbility: 0.1505
+Next Token :  which, Posbility: 0.0067
+Next Token :  called, Posbility: 0.0062
+Next Token :  named, Posbility: 0.0052
+Choose :  to,  Posbility: 0.8083
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.3324
+Next Token :  print, Posbility: 0.0761
+Next Token :  remove, Posbility: 0.0620
+Next Token :  return, Posbility: 0.0565
+Next Token :  get, Posbility: 0.0310
+Choose :  find,  Posbility: 0.3324
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.9626
+Next Token :  all, Posbility: 0.0077
+Next Token :  minimum, Posbility: 0.0051
+Next Token :  a, Posbility: 0.0032
+Next Token :  if, Posbility: 0.0022
+Choose :  the,  Posbility: 0.9626
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  minimum, Posbility: 0.6482
+Next Token :  maximum, Posbility: 0.0817
+Next Token :  smallest, Posbility: 0.0487
+Next Token :  min, Posbility: 0.0215
+Next Token :  sum, Posbility: 0.0161
+Choose :  minimum,  Posbility: 0.6482
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum
+---------------------------
+Next Token :  value, Posbility: 0.9909
+Next Token :  and, Posbility: 0.0017
+Next Token :  element, Posbility: 0.0012
+Next Token :  number, Posbility: 0.0007
+Next Token :  of, Posbility: 0.0007
+Choose :  value,  Posbility: 0.9909
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value
+---------------------------
+Next Token :  in, Posbility: 0.9895
+Next Token :  of, Posbility: 0.0048
+Next Token : .', Posbility: 0.0011
+Next Token : '', Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0004
+Choose :  in,  Posbility: 0.9895
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in
+---------------------------
+Next Token :  a, Posbility: 0.9960
+Next Token :  the, Posbility: 0.0011
+Next Token :  an, Posbility: 0.0009
+Next Token :  list, Posbility: 0.0008
+Next Token :  given, Posbility: 0.0003
+Choose :  a,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a
+---------------------------
+Next Token :  given, Posbility: 0.9797
+Next Token :  heter, Posbility: 0.0096
+Next Token :  list, Posbility: 0.0070
+Next Token :  hom, Posbility: 0.0007
+Next Token :  sequence, Posbility: 0.0003
+Choose :  given,  Posbility: 0.9797
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given
+---------------------------
+Next Token :  heter, Posbility: 0.9938
+Next Token :  list, Posbility: 0.0030
+Next Token :  hom, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0003
+Next Token : heter, Posbility: 0.0002
+Choose :  heter,  Posbility: 0.9938
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heter
+---------------------------
+Next Token : ogeneous, Posbility: 0.9991
+Next Token : ogenous, Posbility: 0.0005
+Next Token : ogene, Posbility: 0.0002
+Next Token : ogen, Posbility: 0.0001
+Next Token : ographic, Posbility: 0.0000
+Choose : ogeneous,  Posbility: 0.9991
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heterogeneous
+---------------------------
+Next Token :  list, Posbility: 0.9970
+Next Token : 
+, Posbility: 0.0018
+Next Token :  , Posbility: 0.0002
+Next Token :  l, Posbility: 0.0001
+Next Token :  array, Posbility: 0.0001
+Choose :  list,  Posbility: 0.9970
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heterogeneous list
+---------------------------
+Next Token : .', Posbility: 0.9743
+Next Token : ., Posbility: 0.0182
+Next Token : '', Posbility: 0.0034
+Next Token : 
+, Posbility: 0.0007
+Next Token :  of, Posbility: 0.0006
+Choose : .',  Posbility: 0.9743
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heterogeneous list.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heterogeneous list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9807
+Next Token : 
+
+, Posbility: 0.0133
+Next Token :  , Posbility: 0.0021
+Next Token : def, Posbility: 0.0016
+Next Token :     , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9807
+---------------------------
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heterogeneous list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9794
+Next Token : 
+, Posbility: 0.0162
+Next Token : #, Posbility: 0.0028
+Next Token : '', Posbility: 0.0003
+Next Token : import, Posbility: 0.0003
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 16.162389278411865
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the maximum value in a given heterogeneous list.'''
+def max_value(lst):
+    '''Find the maximum value in a given heterogeneous list.'''
+    max_val = lst[0]
+    for i in range(len(lst)):
+        if lst[i] > max_val:
+            max_val = lst[i]
+    return max_val
+
+
+'''Write a function to find the minimum value in a given heterogeneous list.'''
+

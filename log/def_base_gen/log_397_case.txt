@@ -1,0 +1,3682 @@
+<<<<<<<<<<<< 397 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  pack, Posbility: 0.1530
+Next Token :  duplicate, Posbility: 0.1171
+Next Token :  conc, Posbility: 0.0498
+Next Token :  dupl, Posbility: 0.0491
+Next Token :  consecutive, Posbility: 0.0397
+Choose :  pack,  Posbility: 0.1530
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack
+---------------------------
+Next Token : _, Posbility: 0.5188
+Next Token : (, Posbility: 0.2624
+Next Token : Con, Posbility: 0.0384
+Next Token : Du, Posbility: 0.0235
+Next Token : Sub, Posbility: 0.0142
+Choose : _,  Posbility: 0.5188
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_
+---------------------------
+Next Token : con, Posbility: 0.5287
+Next Token : du, Posbility: 0.0817
+Next Token : sub, Posbility: 0.0550
+Next Token : list, Posbility: 0.0265
+Next Token : unique, Posbility: 0.0172
+Choose : con,  Posbility: 0.5287
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_con
+---------------------------
+Next Token : secut, Posbility: 0.9201
+Next Token : sec, Posbility: 0.0509
+Next Token : _, Posbility: 0.0034
+Next Token : j, Posbility: 0.0021
+Next Token : (, Posbility: 0.0021
+Choose : secut,  Posbility: 0.9201
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecut
+---------------------------
+Next Token : ive, Posbility: 0.8978
+Next Token : ives, Posbility: 0.0894
+Next Token : ively, Posbility: 0.0039
+Next Token : ve, Posbility: 0.0018
+Next Token : (, Posbility: 0.0017
+Choose : ive,  Posbility: 0.8978
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive
+---------------------------
+Next Token : _, Posbility: 0.8375
+Next Token : (, Posbility: 0.1573
+Next Token : Du, Posbility: 0.0014
+Next Token : ():, Posbility: 0.0009
+Next Token : D, Posbility: 0.0006
+Choose : _,  Posbility: 0.8375
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_
+---------------------------
+Next Token : du, Posbility: 0.9573
+Next Token : unique, Posbility: 0.0052
+Next Token : d, Posbility: 0.0052
+Next Token : e, Posbility: 0.0045
+Next Token : sub, Posbility: 0.0015
+Choose : du,  Posbility: 0.9573
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_du
+---------------------------
+Next Token : pl, Posbility: 0.8203
+Next Token : ps, Posbility: 0.0759
+Next Token : p, Posbility: 0.0396
+Next Token : pes, Posbility: 0.0374
+Next Token : ples, Posbility: 0.0102
+Choose : pl,  Posbility: 0.8203
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_dupl
+---------------------------
+Next Token : icates, Posbility: 0.9095
+Next Token : icate, Posbility: 0.0842
+Next Token : icated, Posbility: 0.0021
+Next Token : ication, Posbility: 0.0013
+Next Token : ic, Posbility: 0.0010
+Choose : icates,  Posbility: 0.9095
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates
+---------------------------
+Next Token : (, Posbility: 0.9454
+Next Token : _, Posbility: 0.0394
+Next Token :  (, Posbility: 0.0047
+Next Token : 2, Posbility: 0.0029
+Next Token : ():, Posbility: 0.0022
+Choose : (,  Posbility: 0.9454
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(
+---------------------------
+Next Token : l, Posbility: 0.2185
+Next Token : arr, Posbility: 0.1037
+Next Token : list, Posbility: 0.0880
+Next Token : input, Posbility: 0.0712
+Next Token : a, Posbility: 0.0524
+Choose : l,  Posbility: 0.2185
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(l
+---------------------------
+Next Token : st, Posbility: 0.6909
+Next Token : ):, Posbility: 0.2295
+Next Token : ,, Posbility: 0.0334
+Next Token : :, Posbility: 0.0277
+Next Token : 1, Posbility: 0.0091
+Choose : st,  Posbility: 0.6909
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst
+---------------------------
+Next Token : ):, Posbility: 0.8515
+Next Token : ,, Posbility: 0.0647
+Next Token : :, Posbility: 0.0558
+Next Token : _, Posbility: 0.0122
+Next Token : 1, Posbility: 0.0071
+Choose : ):,  Posbility: 0.8515
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9096
+Next Token : 
+
+, Posbility: 0.0452
+Next Token : , Posbility: 0.0201
+Next Token :  , Posbility: 0.0153
+Next Token :   , Posbility: 0.0034
+Choose : 
+,  Posbility: 0.9096
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9361
+Next Token :   , Posbility: 0.0383
+Next Token : 	, Posbility: 0.0163
+Next Token :    , Posbility: 0.0040
+Next Token :         , Posbility: 0.0018
+Choose :     ,  Posbility: 0.9361
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.1929
+Next Token : #, Posbility: 0.0911
+Next Token : l, Posbility: 0.0780
+Next Token : if, Posbility: 0.0565
+Next Token : n, Posbility: 0.0556
+Choose : '',  Posbility: 0.1929
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''
+---------------------------
+Next Token : Pack, Posbility: 0.1709
+Next Token : Write, Posbility: 0.1351
+Next Token : 
+, Posbility: 0.1304
+Next Token : pack, Posbility: 0.0469
+Next Token : Return, Posbility: 0.0458
+Choose : Pack,  Posbility: 0.1709
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack
+---------------------------
+Next Token :  consecutive, Posbility: 0.9168
+Next Token :  the, Posbility: 0.0198
+Next Token :  a, Posbility: 0.0122
+Next Token :  successive, Posbility: 0.0061
+Next Token :  elements, Posbility: 0.0056
+Choose :  consecutive,  Posbility: 0.9168
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive
+---------------------------
+Next Token :  dupl, Posbility: 0.7806
+Next Token :  duplicate, Posbility: 0.1741
+Next Token :  elements, Posbility: 0.0091
+Next Token :  unique, Posbility: 0.0025
+Next Token :  repeated, Posbility: 0.0023
+Choose :  dupl,  Posbility: 0.7806
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive dupl
+---------------------------
+Next Token : icates, Posbility: 0.9887
+Next Token : icated, Posbility: 0.0076
+Next Token : ic, Posbility: 0.0012
+Next Token : icate, Posbility: 0.0011
+Next Token : ications, Posbility: 0.0003
+Choose : icates,  Posbility: 0.9887
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates
+---------------------------
+Next Token :  of, Posbility: 0.4756
+Next Token :  into, Posbility: 0.1546
+Next Token :  in, Posbility: 0.1322
+Next Token : '', Posbility: 0.0284
+Next Token : ., Posbility: 0.0206
+Choose :  of,  Posbility: 0.4756
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of
+---------------------------
+Next Token :  a, Posbility: 0.6542
+Next Token :  the, Posbility: 0.0878
+Next Token :  given, Posbility: 0.0605
+Next Token :  list, Posbility: 0.0509
+Next Token :  elements, Posbility: 0.0398
+Choose :  a,  Posbility: 0.6542
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a
+---------------------------
+Next Token :  given, Posbility: 0.8845
+Next Token :  list, Posbility: 0.0988
+Next Token :  sequence, Posbility: 0.0038
+Next Token :  set, Posbility: 0.0010
+Next Token :  sorted, Posbility: 0.0007
+Choose :  given,  Posbility: 0.8845
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given
+---------------------------
+Next Token :  list, Posbility: 0.9728
+Next Token :  elements, Posbility: 0.0059
+Next Token :  l, Posbility: 0.0048
+Next Token :  array, Posbility: 0.0033
+Next Token :  set, Posbility: 0.0013
+Choose :  list,  Posbility: 0.9728
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list
+---------------------------
+Next Token :  elements, Posbility: 0.6806
+Next Token :  into, Posbility: 0.0805
+Next Token :  of, Posbility: 0.0720
+Next Token : ., Posbility: 0.0384
+Next Token : .', Posbility: 0.0247
+Choose :  elements,  Posbility: 0.6806
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements
+---------------------------
+Next Token :  into, Posbility: 0.8991
+Next Token : .', Posbility: 0.0216
+Next Token : ., Posbility: 0.0202
+Next Token :  in, Posbility: 0.0168
+Next Token : '', Posbility: 0.0085
+Choose :  into,  Posbility: 0.8991
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into
+---------------------------
+Next Token :  sub, Posbility: 0.9824
+Next Token :  a, Posbility: 0.0054
+Next Token : 
+, Posbility: 0.0032
+Next Token :  lists, Posbility: 0.0008
+Next Token :  their, Posbility: 0.0006
+Choose :  sub,  Posbility: 0.9824
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sub
+---------------------------
+Next Token : lists, Posbility: 0.9765
+Next Token :  lists, Posbility: 0.0092
+Next Token : list, Posbility: 0.0078
+Next Token : -, Posbility: 0.0023
+Next Token : l, Posbility: 0.0020
+Choose : lists,  Posbility: 0.9765
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists
+---------------------------
+Next Token : .', Posbility: 0.4301
+Next Token : ., Posbility: 0.3337
+Next Token : '', Posbility: 0.1120
+Next Token : 
+, Posbility: 0.0252
+Next Token : ,, Posbility: 0.0170
+Choose : .',  Posbility: 0.4301
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'
+---------------------------
+Next Token : '', Posbility: 0.9962
+Next Token : 
+, Posbility: 0.0017
+Next Token : 
+
+, Posbility: 0.0010
+Next Token :  ', Posbility: 0.0005
+Next Token : "", Posbility: 0.0002
+Choose : '',  Posbility: 0.9962
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+---------------------------
+Next Token : 
+, Posbility: 0.8811
+Next Token : 
+
+, Posbility: 0.1132
+Next Token :  , Posbility: 0.0032
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.8811
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9943
+Next Token :         , Posbility: 0.0011
+Next Token :   , Posbility: 0.0011
+Next Token : 	, Posbility: 0.0006
+Next Token :    , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9943
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    
+---------------------------
+Next Token : l, Posbility: 0.1045
+Next Token : #, Posbility: 0.0810
+Next Token : if, Posbility: 0.0727
+Next Token : n, Posbility: 0.0682
+Next Token : sub, Posbility: 0.0480
+Choose : l,  Posbility: 0.1045
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    l
+---------------------------
+Next Token : st, Posbility: 0.8725
+Next Token :  =, Posbility: 0.0843
+Next Token : _, Posbility: 0.0117
+Next Token : 1, Posbility: 0.0081
+Next Token : =, Posbility: 0.0045
+Choose : st,  Posbility: 0.8725
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst
+---------------------------
+Next Token : _, Posbility: 0.3792
+Next Token :  =, Posbility: 0.2934
+Next Token : ., Posbility: 0.2055
+Next Token : 2, Posbility: 0.0495
+Next Token : 1, Posbility: 0.0248
+Choose : _,  Posbility: 0.3792
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_
+---------------------------
+Next Token : len, Posbility: 0.1199
+Next Token : copy, Posbility: 0.0748
+Next Token : sub, Posbility: 0.0679
+Next Token : length, Posbility: 0.0339
+Next Token : new, Posbility: 0.0337
+Choose : len,  Posbility: 0.1199
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len
+---------------------------
+Next Token :  =, Posbility: 0.9622
+Next Token : =, Posbility: 0.0190
+Next Token : gh, Posbility: 0.0067
+Next Token : ,, Posbility: 0.0066
+Next Token : _, Posbility: 0.0034
+Choose :  =,  Posbility: 0.9622
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len =
+---------------------------
+Next Token :  len, Posbility: 0.9887
+Next Token :  0, Posbility: 0.0022
+Next Token :  [, Posbility: 0.0013
+Next Token :  [], Posbility: 0.0010
+Next Token : len, Posbility: 0.0009
+Choose :  len,  Posbility: 0.9887
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0002
+Next Token : ([, Posbility: 0.0001
+Next Token : (', Posbility: 0.0000
+Next Token : (", Posbility: 0.0000
+Choose : (,  Posbility: 0.9996
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(
+---------------------------
+Next Token : l, Posbility: 0.9969
+Next Token : list, Posbility: 0.0014
+Next Token : s, Posbility: 0.0006
+Next Token : set, Posbility: 0.0003
+Next Token : str, Posbility: 0.0002
+Choose : l,  Posbility: 0.9969
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst
+---------------------------
+Next Token : ), Posbility: 0.9928
+Next Token : [, Posbility: 0.0039
+Next Token : )-, Posbility: 0.0016
+Next Token : )+, Posbility: 0.0007
+Next Token : );, Posbility: 0.0006
+Choose : ),  Posbility: 0.9928
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+---------------------------
+Next Token : 
+, Posbility: 0.9068
+Next Token : 
+
+, Posbility: 0.0581
+Next Token :  -, Posbility: 0.0108
+Next Token :  #, Posbility: 0.0076
+Next Token :  , Posbility: 0.0046
+Choose : 
+,  Posbility: 0.9068
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+
+---------------------------
+Next Token :     , Posbility: 0.9983
+Next Token :         , Posbility: 0.0005
+Next Token : #, Posbility: 0.0003
+Next Token :  , Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Choose :     ,  Posbility: 0.9983
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    
+---------------------------
+Next Token : if, Posbility: 0.1571
+Next Token : l, Posbility: 0.1181
+Next Token : for, Posbility: 0.0745
+Next Token : i, Posbility: 0.0631
+Next Token : sub, Posbility: 0.0360
+Choose : if,  Posbility: 0.1571
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if
+---------------------------
+Next Token :  l, Posbility: 0.8902
+Next Token :  not, Posbility: 0.0382
+Next Token :  len, Posbility: 0.0222
+Next Token :  (, Posbility: 0.0204
+Next Token : (, Posbility: 0.0163
+Choose :  l,  Posbility: 0.8902
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : n, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : mt, Posbility: 0.0000
+Next Token : vl, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst
+---------------------------
+Next Token : _, Posbility: 0.9853
+Next Token : [, Posbility: 0.0062
+Next Token :  ==, Posbility: 0.0047
+Next Token : ., Posbility: 0.0013
+Next Token : :, Posbility: 0.0011
+Choose : _,  Posbility: 0.9853
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_
+---------------------------
+Next Token : len, Posbility: 1.0000
+Next Token : length, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Next Token : is, Posbility: 0.0000
+Choose : len,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len
+---------------------------
+Next Token :  ==, Posbility: 0.3376
+Next Token :  <, Posbility: 0.2706
+Next Token :  <=, Posbility: 0.2696
+Next Token :  >, Posbility: 0.0329
+Next Token :  %, Posbility: 0.0311
+Choose :  ==,  Posbility: 0.3376
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len ==
+---------------------------
+Next Token :  0, Posbility: 0.6149
+Next Token :  1, Posbility: 0.3661
+Next Token :  2, Posbility: 0.0099
+Next Token : 0, Posbility: 0.0029
+Next Token : 1, Posbility: 0.0028
+Choose :  0,  Posbility: 0.6149
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0
+---------------------------
+Next Token : :, Posbility: 0.9130
+Next Token :  or, Posbility: 0.0825
+Next Token :  :, Posbility: 0.0035
+Next Token :  and, Posbility: 0.0006
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9130
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.8553
+Next Token :  return, Posbility: 0.1109
+Next Token :  #, Posbility: 0.0097
+Next Token :  , Posbility: 0.0083
+Next Token :   , Posbility: 0.0052
+Choose : 
+,  Posbility: 0.8553
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9927
+Next Token :       , Posbility: 0.0029
+Next Token :        , Posbility: 0.0015
+Next Token :             , Posbility: 0.0010
+Next Token :          , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9927
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.9332
+Next Token : print, Posbility: 0.0143
+Next Token : y, Posbility: 0.0128
+Next Token : l, Posbility: 0.0089
+Next Token : pass, Posbility: 0.0078
+Choose : return,  Posbility: 0.9332
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return
+---------------------------
+Next Token :  [], Posbility: 0.5822
+Next Token :  [[, Posbility: 0.0958
+Next Token :  [, Posbility: 0.0796
+Next Token :  l, Posbility: 0.0752
+Next Token : 
+, Posbility: 0.0406
+Choose :  [],  Posbility: 0.5822
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+---------------------------
+Next Token : 
+, Posbility: 0.8432
+Next Token : 
+
+, Posbility: 0.1386
+Next Token :  #, Posbility: 0.0059
+Next Token :   , Posbility: 0.0039
+Next Token :  , Posbility: 0.0036
+Choose : 
+,  Posbility: 0.8432
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+
+---------------------------
+Next Token :     , Posbility: 0.9921
+Next Token :         , Posbility: 0.0060
+Next Token :  , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9921
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    
+---------------------------
+Next Token : el, Posbility: 0.2576
+Next Token : if, Posbility: 0.1898
+Next Token : else, Posbility: 0.0601
+Next Token : 
+, Posbility: 0.0502
+Next Token : l, Posbility: 0.0470
+Choose : el,  Posbility: 0.2576
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif
+---------------------------
+Next Token :  l, Posbility: 0.9833
+Next Token :  (, Posbility: 0.0051
+Next Token :  len, Posbility: 0.0050
+Next Token :  not, Posbility: 0.0024
+Next Token : (, Posbility: 0.0006
+Choose :  l,  Posbility: 0.9833
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ist, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst
+---------------------------
+Next Token : _, Posbility: 0.9933
+Next Token : [, Posbility: 0.0051
+Next Token :  ==, Posbility: 0.0007
+Next Token : ., Posbility: 0.0007
+Next Token :  is, Posbility: 0.0001
+Choose : _,  Posbility: 0.9933
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_
+---------------------------
+Next Token : len, Posbility: 0.9999
+Next Token : id, Posbility: 0.0000
+Next Token : length, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Choose : len,  Posbility: 0.9999
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len
+---------------------------
+Next Token :  ==, Posbility: 0.9146
+Next Token :  <=, Posbility: 0.0324
+Next Token :  <, Posbility: 0.0245
+Next Token :  >, Posbility: 0.0092
+Next Token :  %, Posbility: 0.0057
+Choose :  ==,  Posbility: 0.9146
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len ==
+---------------------------
+Next Token :  1, Posbility: 0.9877
+Next Token : 1, Posbility: 0.0070
+Next Token :  2, Posbility: 0.0043
+Next Token :  0, Posbility: 0.0004
+Next Token :  3, Posbility: 0.0002
+Choose :  1,  Posbility: 0.9877
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1
+---------------------------
+Next Token : :, Posbility: 0.9871
+Next Token :  or, Posbility: 0.0086
+Next Token :  and, Posbility: 0.0038
+Next Token :  :, Posbility: 0.0004
+Next Token : :#, Posbility: 0.0000
+Choose : :,  Posbility: 0.9871
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9911
+Next Token :  #, Posbility: 0.0025
+Next Token :  , Posbility: 0.0017
+Next Token :   , Posbility: 0.0010
+Next Token :  return, Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9911
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9986
+Next Token :             , Posbility: 0.0005
+Next Token :          , Posbility: 0.0003
+Next Token :     , Posbility: 0.0002
+Next Token :        , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9986
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.8929
+Next Token : l, Posbility: 0.0224
+Next Token : if, Posbility: 0.0205
+Next Token : #, Posbility: 0.0074
+Next Token : sub, Posbility: 0.0055
+Choose : return,  Posbility: 0.8929
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return
+---------------------------
+Next Token :  [, Posbility: 0.6067
+Next Token :  [[, Posbility: 0.1969
+Next Token :  l, Posbility: 0.1515
+Next Token :  [], Posbility: 0.0103
+Next Token :  list, Posbility: 0.0091
+Choose :  [,  Posbility: 0.6067
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [
+---------------------------
+Next Token : l, Posbility: 0.9644
+Next Token : list, Posbility: 0.0076
+Next Token : 1, Posbility: 0.0050
+Next Token :  l, Posbility: 0.0048
+Next Token : 0, Posbility: 0.0043
+Choose : l,  Posbility: 0.9644
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ], Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token :  for, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst
+---------------------------
+Next Token : ], Posbility: 0.6484
+Next Token : [, Posbility: 0.3179
+Next Token : ,, Posbility: 0.0160
+Next Token : ., Posbility: 0.0078
+Next Token :  +, Posbility: 0.0047
+Choose : ],  Posbility: 0.6484
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+---------------------------
+Next Token : 
+, Posbility: 0.8978
+Next Token : 
+
+, Posbility: 0.0843
+Next Token :  +, Posbility: 0.0062
+Next Token :  , Posbility: 0.0025
+Next Token :  *, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.8978
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+
+---------------------------
+Next Token :     , Posbility: 0.9952
+Next Token :         , Posbility: 0.0036
+Next Token : #, Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Next Token :      , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9952
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    
+---------------------------
+Next Token : else, Posbility: 0.4471
+Next Token : el, Posbility: 0.2962
+Next Token : 
+, Posbility: 0.0518
+Next Token : #, Posbility: 0.0188
+Next Token : l, Posbility: 0.0128
+Choose : else,  Posbility: 0.4471
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else
+---------------------------
+Next Token : :, Posbility: 0.9985
+Next Token :  :, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : :,  Posbility: 0.9985
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9838
+Next Token :  , Posbility: 0.0048
+Next Token :  #, Posbility: 0.0032
+Next Token : 
+
+, Posbility: 0.0025
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9838
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9958
+Next Token :     , Posbility: 0.0012
+Next Token :        , Posbility: 0.0010
+Next Token :       , Posbility: 0.0005
+Next Token :             , Posbility: 0.0005
+Choose :         ,  Posbility: 0.9958
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        
+---------------------------
+Next Token : l, Posbility: 0.1077
+Next Token : sub, Posbility: 0.0840
+Next Token : new, Posbility: 0.0605
+Next Token : return, Posbility: 0.0489
+Next Token : #, Posbility: 0.0472
+Choose : l,  Posbility: 0.1077
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        l
+---------------------------
+Next Token : st, Posbility: 0.9558
+Next Token :  =, Posbility: 0.0152
+Next Token : _, Posbility: 0.0103
+Next Token : 1, Posbility: 0.0067
+Next Token : 2, Posbility: 0.0014
+Choose : st,  Posbility: 0.9558
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst
+---------------------------
+Next Token : _, Posbility: 0.7485
+Next Token :  =, Posbility: 0.0711
+Next Token : ., Posbility: 0.0703
+Next Token : 2, Posbility: 0.0426
+Next Token : 1, Posbility: 0.0403
+Choose : _,  Posbility: 0.7485
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_
+---------------------------
+Next Token : sub, Posbility: 0.0900
+Next Token : 1, Posbility: 0.0520
+Next Token : new, Posbility: 0.0457
+Next Token : 2, Posbility: 0.0408
+Next Token : copy, Posbility: 0.0389
+Choose : sub,  Posbility: 0.0900
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sub
+---------------------------
+Next Token : lists, Posbility: 0.2964
+Next Token :  =, Posbility: 0.2514
+Next Token : list, Posbility: 0.2047
+Next Token : l, Posbility: 0.0914
+Next Token : _, Posbility: 0.0718
+Choose : lists,  Posbility: 0.2964
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists
+---------------------------
+Next Token :  =, Posbility: 0.9798
+Next Token : _, Posbility: 0.0138
+Next Token : ,, Posbility: 0.0028
+Next Token : =, Posbility: 0.0013
+Next Token : 1, Posbility: 0.0008
+Choose :  =,  Posbility: 0.9798
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists =
+---------------------------
+Next Token :  [], Posbility: 0.5252
+Next Token :  pack, Posbility: 0.2302
+Next Token :  [, Posbility: 0.1406
+Next Token :  list, Posbility: 0.0401
+Next Token :  [[, Posbility: 0.0295
+Choose :  [],  Posbility: 0.5252
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+---------------------------
+Next Token : 
+, Posbility: 0.9698
+Next Token : 
+
+, Posbility: 0.0218
+Next Token :  #, Posbility: 0.0022
+Next Token :   , Posbility: 0.0016
+Next Token :  , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9698
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+
+---------------------------
+Next Token :         , Posbility: 0.9914
+Next Token :     , Posbility: 0.0082
+Next Token : #, Posbility: 0.0001
+Next Token :        , Posbility: 0.0001
+Next Token :             , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9914
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        
+---------------------------
+Next Token : for, Posbility: 0.4216
+Next Token : l, Posbility: 0.1270
+Next Token : prev, Posbility: 0.0343
+Next Token : cur, Posbility: 0.0336
+Next Token : i, Posbility: 0.0332
+Choose : for,  Posbility: 0.4216
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for
+---------------------------
+Next Token :  i, Posbility: 0.7204
+Next Token :  index, Posbility: 0.0664
+Next Token :  id, Posbility: 0.0477
+Next Token :  x, Posbility: 0.0188
+Next Token :  j, Posbility: 0.0134
+Choose :  i,  Posbility: 0.7204
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i
+---------------------------
+Next Token :  in, Posbility: 0.9771
+Next Token : ,, Posbility: 0.0204
+Next Token : _, Posbility: 0.0016
+Next Token : 1, Posbility: 0.0004
+Next Token :   , Posbility: 0.0001
+Choose :  in,  Posbility: 0.9771
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in
+---------------------------
+Next Token :  range, Posbility: 0.9834
+Next Token :  l, Posbility: 0.0136
+Next Token :  x, Posbility: 0.0007
+Next Token :  list, Posbility: 0.0005
+Next Token :  reversed, Posbility: 0.0004
+Choose :  range,  Posbility: 0.9834
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range
+---------------------------
+Next Token : (, Posbility: 0.9935
+Next Token :  (, Posbility: 0.0043
+Next Token : (-, Posbility: 0.0010
+Next Token : ((, Posbility: 0.0010
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9935
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(
+---------------------------
+Next Token : l, Posbility: 0.6061
+Next Token : 0, Posbility: 0.1713
+Next Token : 1, Posbility: 0.1444
+Next Token : len, Posbility: 0.0655
+Next Token : 2, Posbility: 0.0060
+Choose : l,  Posbility: 0.6061
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ts, Posbility: 0.0000
+Next Token : pl, Posbility: 0.0000
+Next Token : mb, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst
+---------------------------
+Next Token : _, Posbility: 0.9936
+Next Token : [, Posbility: 0.0028
+Next Token : ., Posbility: 0.0025
+Next Token : ):, Posbility: 0.0007
+Next Token : ,, Posbility: 0.0002
+Choose : _,  Posbility: 0.9936
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_
+---------------------------
+Next Token : len, Posbility: 1.0000
+Next Token : id, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : length, Posbility: 0.0000
+Next Token : max, Posbility: 0.0000
+Choose : len,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len
+---------------------------
+Next Token : ):, Posbility: 0.5845
+Next Token : -, Posbility: 0.1987
+Next Token :  -, Posbility: 0.1703
+Next Token : //, Posbility: 0.0161
+Next Token : ,, Posbility: 0.0091
+Choose : ):,  Posbility: 0.5845
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+---------------------------
+Next Token : 
+, Posbility: 0.9876
+Next Token :  #, Posbility: 0.0029
+Next Token :  , Posbility: 0.0020
+Next Token :   , Posbility: 0.0018
+Next Token : 
+
+, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9876
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+
+---------------------------
+Next Token :             , Posbility: 0.9973
+Next Token :           , Posbility: 0.0007
+Next Token :                 , Posbility: 0.0007
+Next Token :         , Posbility: 0.0004
+Next Token :            , Posbility: 0.0004
+Choose :             ,  Posbility: 0.9973
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            
+---------------------------
+Next Token : if, Posbility: 0.3567
+Next Token : l, Posbility: 0.1913
+Next Token : sub, Posbility: 0.0555
+Next Token : for, Posbility: 0.0456
+Next Token : #, Posbility: 0.0380
+Choose : if,  Posbility: 0.3567
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if
+---------------------------
+Next Token :  l, Posbility: 0.4631
+Next Token :  i, Posbility: 0.4441
+Next Token :  (, Posbility: 0.0466
+Next Token :  len, Posbility: 0.0167
+Next Token :  not, Posbility: 0.0123
+Choose :  l,  Posbility: 0.4631
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if l
+---------------------------
+Next Token : st, Posbility: 0.9990
+Next Token : t, Posbility: 0.0002
+Next Token : [, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0001
+Next Token :  :=, Posbility: 0.0000
+Choose : st,  Posbility: 0.9990
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst
+---------------------------
+Next Token : [, Posbility: 0.9257
+Next Token : _, Posbility: 0.0554
+Next Token : ., Posbility: 0.0168
+Next Token :  ==, Posbility: 0.0012
+Next Token : !=, Posbility: 0.0002
+Choose : [,  Posbility: 0.9257
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[
+---------------------------
+Next Token : i, Posbility: 0.9666
+Next Token : l, Posbility: 0.0124
+Next Token : 0, Posbility: 0.0092
+Next Token : :, Posbility: 0.0060
+Next Token : -, Posbility: 0.0024
+Choose : i,  Posbility: 0.9666
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i
+---------------------------
+Next Token : ], Posbility: 0.9259
+Next Token : -, Posbility: 0.0204
+Next Token :  -, Posbility: 0.0169
+Next Token : :], Posbility: 0.0084
+Next Token : +, Posbility: 0.0082
+Choose : ],  Posbility: 0.9259
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i]
+---------------------------
+Next Token :  not, Posbility: 0.3240
+Next Token :  in, Posbility: 0.2773
+Next Token :  ==, Posbility: 0.2320
+Next Token : !=, Posbility: 0.1352
+Next Token :  >, Posbility: 0.0082
+Choose :  not,  Posbility: 0.3240
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not
+---------------------------
+Next Token :  in, Posbility: 0.9998
+Next Token :  already, Posbility: 0.0001
+Next Token :  yet, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Next Token :  seen, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9998
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in
+---------------------------
+Next Token :  l, Posbility: 0.9939
+Next Token :  [, Posbility: 0.0016
+Next Token :  list, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0010
+Next Token :  set, Posbility: 0.0005
+Choose :  l,  Posbility: 0.9939
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : sts, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst
+---------------------------
+Next Token : _, Posbility: 0.8449
+Next Token : [, Posbility: 0.1246
+Next Token : :, Posbility: 0.0283
+Next Token :  and, Posbility: 0.0015
+Next Token : ., Posbility: 0.0002
+Choose : _,  Posbility: 0.8449
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_
+---------------------------
+Next Token : sub, Posbility: 0.9954
+Next Token : du, Posbility: 0.0005
+Next Token : pre, Posbility: 0.0003
+Next Token : dict, Posbility: 0.0003
+Next Token : list, Posbility: 0.0002
+Choose : sub,  Posbility: 0.9954
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sub
+---------------------------
+Next Token : lists, Posbility: 0.9918
+Next Token : list, Posbility: 0.0073
+Next Token : sets, Posbility: 0.0003
+Next Token : :, Posbility: 0.0001
+Next Token :  lists, Posbility: 0.0001
+Choose : lists,  Posbility: 0.9918
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists
+---------------------------
+Next Token : :, Posbility: 0.4813
+Next Token : [, Posbility: 0.4772
+Next Token :  and, Posbility: 0.0396
+Next Token : ., Posbility: 0.0008
+Next Token :  or, Posbility: 0.0005
+Choose : :,  Posbility: 0.4813
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+---------------------------
+Next Token : 
+, Posbility: 0.9900
+Next Token :  #, Posbility: 0.0036
+Next Token :  , Posbility: 0.0020
+Next Token :   , Posbility: 0.0016
+Next Token :     , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9900
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+
+---------------------------
+Next Token :                 , Posbility: 0.9990
+Next Token :                     , Posbility: 0.0003
+Next Token :                , Posbility: 0.0002
+Next Token :               , Posbility: 0.0001
+Next Token :             , Posbility: 0.0001
+Choose :                 ,  Posbility: 0.9990
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                
+---------------------------
+Next Token : l, Posbility: 0.8144
+Next Token : new, Posbility: 0.0375
+Next Token : sub, Posbility: 0.0281
+Next Token : if, Posbility: 0.0277
+Next Token : #, Posbility: 0.0090
+Choose : l,  Posbility: 0.8144
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                l
+---------------------------
+Next Token : st, Posbility: 0.9970
+Next Token :  =, Posbility: 0.0009
+Next Token : _, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0002
+Choose : st,  Posbility: 0.9970
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst
+---------------------------
+Next Token : _, Posbility: 0.9958
+Next Token : [, Posbility: 0.0022
+Next Token : ., Posbility: 0.0009
+Next Token : 2, Posbility: 0.0003
+Next Token :  =, Posbility: 0.0003
+Choose : _,  Posbility: 0.9958
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_
+---------------------------
+Next Token : sub, Posbility: 0.9904
+Next Token : new, Posbility: 0.0010
+Next Token : copy, Posbility: 0.0007
+Next Token : index, Posbility: 0.0004
+Next Token : con, Posbility: 0.0003
+Choose : sub,  Posbility: 0.9904
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sub
+---------------------------
+Next Token : lists, Posbility: 0.9930
+Next Token : list, Posbility: 0.0057
+Next Token : sets, Posbility: 0.0006
+Next Token :  =, Posbility: 0.0004
+Next Token : groups, Posbility: 0.0000
+Choose : lists,  Posbility: 0.9930
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists
+---------------------------
+Next Token : ., Posbility: 0.9859
+Next Token :  +=, Posbility: 0.0106
+Next Token :  =, Posbility: 0.0018
+Next Token : [, Posbility: 0.0011
+Next Token : _, Posbility: 0.0003
+Choose : .,  Posbility: 0.9859
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.
+---------------------------
+Next Token : append, Posbility: 0.9952
+Next Token : ext, Posbility: 0.0037
+Next Token : insert, Posbility: 0.0010
+Next Token : clear, Posbility: 0.0001
+Next Token :  append, Posbility: 0.0000
+Choose : append,  Posbility: 0.9952
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append
+---------------------------
+Next Token : (, Posbility: 0.9912
+Next Token : ([, Posbility: 0.0074
+Next Token : ((, Posbility: 0.0010
+Next Token : ({, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Choose : (,  Posbility: 0.9912
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(
+---------------------------
+Next Token : l, Posbility: 0.9973
+Next Token : list, Posbility: 0.0010
+Next Token :  l, Posbility: 0.0007
+Next Token : str, Posbility: 0.0003
+Next Token : copy, Posbility: 0.0002
+Choose : l,  Posbility: 0.9973
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst
+---------------------------
+Next Token : [, Posbility: 0.9981
+Next Token : ., Posbility: 0.0008
+Next Token : ), Posbility: 0.0005
+Next Token : _, Posbility: 0.0005
+Next Token : [[, Posbility: 0.0000
+Choose : [,  Posbility: 0.9981
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[
+---------------------------
+Next Token : i, Posbility: 0.9855
+Next Token : :, Posbility: 0.0131
+Next Token : 0, Posbility: 0.0012
+Next Token : l, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Choose : i,  Posbility: 0.9855
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i
+---------------------------
+Next Token : ]), Posbility: 0.9896
+Next Token : :, Posbility: 0.0088
+Next Token : ], Posbility: 0.0007
+Next Token : ]., Posbility: 0.0002
+Next Token : -, Posbility: 0.0001
+Choose : ]),  Posbility: 0.9896
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+---------------------------
+Next Token : 
+, Posbility: 0.9799
+Next Token : 
+
+, Posbility: 0.0143
+Next Token :  , Posbility: 0.0013
+Next Token :  #, Posbility: 0.0010
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9799
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+
+---------------------------
+Next Token :             , Posbility: 0.5177
+Next Token :                 , Posbility: 0.2751
+Next Token :         , Posbility: 0.1915
+Next Token :     , Posbility: 0.0149
+Next Token : 
+, Posbility: 0.0002
+Choose :             ,  Posbility: 0.5177
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            
+---------------------------
+Next Token : else, Posbility: 0.6177
+Next Token : el, Posbility: 0.1953
+Next Token : if, Posbility: 0.1403
+Next Token : l, Posbility: 0.0091
+Next Token : for, Posbility: 0.0084
+Choose : else,  Posbility: 0.6177
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else
+---------------------------
+Next Token : :, Posbility: 0.9999
+Next Token :  :, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0000
+Next Token : :#, Posbility: 0.0000
+Next Token :  or, Posbility: 0.0000
+Choose : :,  Posbility: 0.9999
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+---------------------------
+Next Token : 
+, Posbility: 0.9907
+Next Token :  , Posbility: 0.0033
+Next Token :  #, Posbility: 0.0023
+Next Token :   , Posbility: 0.0010
+Next Token :     , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9907
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+
+---------------------------
+Next Token :                 , Posbility: 0.9987
+Next Token :                  , Posbility: 0.0003
+Next Token :                , Posbility: 0.0002
+Next Token :             , Posbility: 0.0002
+Next Token :               , Posbility: 0.0002
+Choose :                 ,  Posbility: 0.9987
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                
+---------------------------
+Next Token : l, Posbility: 0.3136
+Next Token : if, Posbility: 0.1257
+Next Token : for, Posbility: 0.0719
+Next Token : j, Posbility: 0.0376
+Next Token : index, Posbility: 0.0304
+Choose : l,  Posbility: 0.3136
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                l
+---------------------------
+Next Token : st, Posbility: 0.9961
+Next Token :  =, Posbility: 0.0013
+Next Token : 1, Posbility: 0.0007
+Next Token : _, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0003
+Choose : st,  Posbility: 0.9961
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst
+---------------------------
+Next Token : _, Posbility: 0.9538
+Next Token : [, Posbility: 0.0258
+Next Token : 2, Posbility: 0.0059
+Next Token : 1, Posbility: 0.0053
+Next Token :  =, Posbility: 0.0038
+Choose : _,  Posbility: 0.9538
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_
+---------------------------
+Next Token : sub, Posbility: 0.8775
+Next Token : index, Posbility: 0.0156
+Next Token : du, Posbility: 0.0074
+Next Token : len, Posbility: 0.0064
+Next Token : i, Posbility: 0.0053
+Choose : sub,  Posbility: 0.8775
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sub
+---------------------------
+Next Token : lists, Posbility: 0.9875
+Next Token : list, Posbility: 0.0094
+Next Token :  =, Posbility: 0.0014
+Next Token : sets, Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Choose : lists,  Posbility: 0.9875
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists
+---------------------------
+Next Token : ., Posbility: 0.4927
+Next Token : [, Posbility: 0.4151
+Next Token :  =, Posbility: 0.0778
+Next Token : _, Posbility: 0.0099
+Next Token :  +=, Posbility: 0.0032
+Choose : .,  Posbility: 0.4927
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.
+---------------------------
+Next Token : append, Posbility: 0.9256
+Next Token : remove, Posbility: 0.0321
+Next Token : pop, Posbility: 0.0236
+Next Token : ext, Posbility: 0.0076
+Next Token : insert, Posbility: 0.0053
+Choose : append,  Posbility: 0.9256
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append
+---------------------------
+Next Token : (, Posbility: 0.8419
+Next Token : ([, Posbility: 0.1508
+Next Token : ((, Posbility: 0.0037
+Next Token : (', Posbility: 0.0017
+Next Token : ({, Posbility: 0.0007
+Choose : (,  Posbility: 0.8419
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(
+---------------------------
+Next Token : l, Posbility: 0.9837
+Next Token : list, Posbility: 0.0057
+Next Token : 
+, Posbility: 0.0019
+Next Token : pack, Posbility: 0.0011
+Next Token :  l, Posbility: 0.0009
+Choose : l,  Posbility: 0.9837
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Next Token : tr, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst
+---------------------------
+Next Token : [, Posbility: 0.9305
+Next Token : _, Posbility: 0.0601
+Next Token : ., Posbility: 0.0044
+Next Token : ), Posbility: 0.0042
+Next Token : [[, Posbility: 0.0003
+Choose : [,  Posbility: 0.9305
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[
+---------------------------
+Next Token : i, Posbility: 0.9416
+Next Token : :, Posbility: 0.0398
+Next Token : l, Posbility: 0.0133
+Next Token : 0, Posbility: 0.0021
+Next Token : (, Posbility: 0.0005
+Choose : i,  Posbility: 0.9416
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i
+---------------------------
+Next Token : ]), Posbility: 0.8902
+Next Token : ], Posbility: 0.0396
+Next Token : ]+, Posbility: 0.0238
+Next Token : :, Posbility: 0.0199
+Next Token : ],, Posbility: 0.0077
+Choose : ]),  Posbility: 0.8902
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+---------------------------
+Next Token : 
+, Posbility: 0.9805
+Next Token : 
+
+, Posbility: 0.0119
+Next Token :  , Posbility: 0.0018
+Next Token :  #, Posbility: 0.0012
+Next Token :                 , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9805
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+
+---------------------------
+Next Token :                 , Posbility: 0.9254
+Next Token :         , Posbility: 0.0621
+Next Token :             , Posbility: 0.0078
+Next Token :     , Posbility: 0.0036
+Next Token :                     , Posbility: 0.0004
+Choose :                 ,  Posbility: 0.9254
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                
+---------------------------
+Next Token : l, Posbility: 0.5235
+Next Token : if, Posbility: 0.1804
+Next Token : for, Posbility: 0.0724
+Next Token : del, Posbility: 0.0185
+Next Token : while, Posbility: 0.0164
+Choose : l,  Posbility: 0.5235
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                l
+---------------------------
+Next Token : st, Posbility: 0.9993
+Next Token :  =, Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0000
+Choose : st,  Posbility: 0.9993
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst
+---------------------------
+Next Token : _, Posbility: 0.8778
+Next Token : [, Posbility: 0.0827
+Next Token : ., Posbility: 0.0195
+Next Token :  =, Posbility: 0.0154
+Next Token : 2, Posbility: 0.0020
+Choose : _,  Posbility: 0.8778
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_
+---------------------------
+Next Token : sub, Posbility: 0.9152
+Next Token : len, Posbility: 0.0101
+Next Token : index, Posbility: 0.0087
+Next Token : du, Posbility: 0.0074
+Next Token : i, Posbility: 0.0043
+Choose : sub,  Posbility: 0.9152
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sub
+---------------------------
+Next Token : lists, Posbility: 0.9796
+Next Token : list, Posbility: 0.0154
+Next Token :  =, Posbility: 0.0013
+Next Token : sets, Posbility: 0.0007
+Next Token : _, Posbility: 0.0007
+Choose : lists,  Posbility: 0.9796
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists
+---------------------------
+Next Token : ., Posbility: 0.7756
+Next Token :  =, Posbility: 0.1051
+Next Token : [, Posbility: 0.0779
+Next Token :  +=, Posbility: 0.0315
+Next Token : _, Posbility: 0.0078
+Choose : .,  Posbility: 0.7756
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.
+---------------------------
+Next Token : append, Posbility: 0.9005
+Next Token : ext, Posbility: 0.0618
+Next Token : sort, Posbility: 0.0200
+Next Token : pop, Posbility: 0.0110
+Next Token : remove, Posbility: 0.0042
+Choose : append,  Posbility: 0.9005
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append
+---------------------------
+Next Token : (, Posbility: 0.9911
+Next Token : ([, Posbility: 0.0071
+Next Token : (', Posbility: 0.0006
+Next Token : ((, Posbility: 0.0004
+Next Token : ({, Posbility: 0.0003
+Choose : (,  Posbility: 0.9911
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(
+---------------------------
+Next Token : l, Posbility: 0.9930
+Next Token : list, Posbility: 0.0022
+Next Token : None, Posbility: 0.0004
+Next Token : 0, Posbility: 0.0003
+Next Token :  l, Posbility: 0.0003
+Choose : l,  Posbility: 0.9930
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : tr, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst
+---------------------------
+Next Token : [, Posbility: 0.9837
+Next Token : _, Posbility: 0.0087
+Next Token : ., Posbility: 0.0051
+Next Token : ), Posbility: 0.0022
+Next Token : [[, Posbility: 0.0002
+Choose : [,  Posbility: 0.9837
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[
+---------------------------
+Next Token : i, Posbility: 0.9637
+Next Token : l, Posbility: 0.0174
+Next Token : :, Posbility: 0.0089
+Next Token : (, Posbility: 0.0031
+Next Token : -, Posbility: 0.0023
+Choose : i,  Posbility: 0.9637
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i
+---------------------------
+Next Token : ]), Posbility: 0.7337
+Next Token : +, Posbility: 0.1868
+Next Token :  +, Posbility: 0.0300
+Next Token : -, Posbility: 0.0223
+Next Token : ], Posbility: 0.0080
+Choose : ]),  Posbility: 0.7337
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+---------------------------
+Next Token : 
+, Posbility: 0.9597
+Next Token : 
+
+, Posbility: 0.0323
+Next Token :  , Posbility: 0.0018
+Next Token :  #, Posbility: 0.0012
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9597
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+
+---------------------------
+Next Token :         , Posbility: 0.8250
+Next Token :                 , Posbility: 0.1067
+Next Token :     , Posbility: 0.0433
+Next Token :             , Posbility: 0.0228
+Next Token : 
+, Posbility: 0.0005
+Choose :         ,  Posbility: 0.8250
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        
+---------------------------
+Next Token : return, Posbility: 0.7165
+Next Token : l, Posbility: 0.1131
+Next Token : for, Posbility: 0.0256
+Next Token : if, Posbility: 0.0205
+Next Token : new, Posbility: 0.0142
+Choose : return,  Posbility: 0.7165
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return
+---------------------------
+Next Token :  l, Posbility: 0.8466
+Next Token :  [, Posbility: 0.0783
+Next Token :  pack, Posbility: 0.0301
+Next Token :  list, Posbility: 0.0189
+Next Token :  [[, Posbility: 0.0041
+Choose :  l,  Posbility: 0.8466
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return l
+---------------------------
+Next Token : st, Posbility: 0.9997
+Next Token : 2, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : st,  Posbility: 0.9997
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst
+---------------------------
+Next Token : _, Posbility: 0.9959
+Next Token :  +, Posbility: 0.0026
+Next Token : 
+, Posbility: 0.0006
+Next Token : [, Posbility: 0.0003
+Next Token : +, Posbility: 0.0003
+Choose : _,  Posbility: 0.9959
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_
+---------------------------
+Next Token : sub, Posbility: 0.9998
+Next Token : con, Posbility: 0.0001
+Next Token : list, Posbility: 0.0000
+Next Token : to, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Choose : sub,  Posbility: 0.9998
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sub
+---------------------------
+Next Token : lists, Posbility: 0.9996
+Next Token : list, Posbility: 0.0002
+Next Token : sets, Posbility: 0.0001
+Next Token :  lists, Posbility: 0.0000
+Next Token : ists, Posbility: 0.0000
+Choose : lists,  Posbility: 0.9996
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+---------------------------
+Next Token : 
+, Posbility: 0.5405
+Next Token : 
+
+, Posbility: 0.3236
+Next Token : <|endoftext|>, Posbility: 0.0857
+Next Token :  +, Posbility: 0.0188
+Next Token : [, Posbility: 0.0118
+Choose : 
+,  Posbility: 0.5405
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+---------------------------
+Next Token : 
+, Posbility: 0.6499
+Next Token : <|endoftext|>, Posbility: 0.1255
+Next Token :     , Posbility: 0.0776
+Next Token :         , Posbility: 0.0497
+Next Token :             , Posbility: 0.0118
+Choose : 
+,  Posbility: 0.6499
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9070
+Next Token : <|endoftext|>, Posbility: 0.0377
+Next Token :     , Posbility: 0.0228
+Next Token : 
+
+, Posbility: 0.0216
+Next Token :         , Posbility: 0.0061
+Choose : 
+,  Posbility: 0.9070
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4827
+Next Token : def, Posbility: 0.1481
+Next Token : #, Posbility: 0.1185
+Next Token : 
+, Posbility: 0.0548
+Next Token : if, Posbility: 0.0534
+Choose : '',  Posbility: 0.4827
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7429
+Next Token : 
+, Posbility: 0.0223
+Next Token : Test, Posbility: 0.0111
+Next Token :  Write, Posbility: 0.0108
+Next Token : Return, Posbility: 0.0096
+Choose : Write,  Posbility: 0.7429
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9866
+Next Token :  an, Posbility: 0.0036
+Next Token :  your, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0013
+Next Token :  function, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9866
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9302
+Next Token :  Python, Posbility: 0.0152
+Next Token :  python, Posbility: 0.0085
+Next Token :  recursive, Posbility: 0.0075
+Next Token :  program, Posbility: 0.0064
+Choose :  function,  Posbility: 0.9302
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7907
+Next Token :  that, Posbility: 0.1341
+Next Token :  which, Posbility: 0.0121
+Next Token :  called, Posbility: 0.0082
+Next Token :  for, Posbility: 0.0055
+Choose :  to,  Posbility: 0.7907
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to
+---------------------------
+Next Token :  remove, Posbility: 0.1092
+Next Token :  find, Posbility: 0.1011
+Next Token :  count, Posbility: 0.0704
+Next Token :  check, Posbility: 0.0641
+Next Token :  print, Posbility: 0.0532
+Choose :  remove,  Posbility: 0.1092
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove
+---------------------------
+Next Token :  dupl, Posbility: 0.3946
+Next Token :  duplicate, Posbility: 0.1607
+Next Token :  all, Posbility: 0.0777
+Next Token :  the, Posbility: 0.0693
+Next Token :  a, Posbility: 0.0526
+Choose :  dupl,  Posbility: 0.3946
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove dupl
+---------------------------
+Next Token : icates, Posbility: 0.9787
+Next Token : icated, Posbility: 0.0182
+Next Token : ic, Posbility: 0.0009
+Next Token : icate, Posbility: 0.0008
+Next Token : ications, Posbility: 0.0004
+Choose : icates,  Posbility: 0.9787
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates
+---------------------------
+Next Token :  from, Posbility: 0.6758
+Next Token :  of, Posbility: 0.1693
+Next Token :  in, Posbility: 0.0765
+Next Token :  and, Posbility: 0.0109
+Next Token : ., Posbility: 0.0074
+Choose :  from,  Posbility: 0.6758
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from
+---------------------------
+Next Token :  a, Posbility: 0.8631
+Next Token :  an, Posbility: 0.0525
+Next Token :  the, Posbility: 0.0343
+Next Token :  given, Posbility: 0.0080
+Next Token :  list, Posbility: 0.0051
+Choose :  a,  Posbility: 0.8631
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a
+---------------------------
+Next Token :  given, Posbility: 0.8007
+Next Token :  list, Posbility: 0.1560
+Next Token :  sorted, Posbility: 0.0070
+Next Token :  set, Posbility: 0.0061
+Next Token :  dictionary, Posbility: 0.0054
+Choose :  given,  Posbility: 0.8007
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a given
+---------------------------
+Next Token :  list, Posbility: 0.8790
+Next Token :  array, Posbility: 0.0214
+Next Token :  string, Posbility: 0.0143
+Next Token :  set, Posbility: 0.0131
+Next Token :  uns, Posbility: 0.0127
+Choose :  list,  Posbility: 0.8790
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a given list
+---------------------------
+Next Token : .', Posbility: 0.5123
+Next Token :  of, Posbility: 0.2654
+Next Token :  elements, Posbility: 0.0840
+Next Token : ., Posbility: 0.0651
+Next Token : '', Posbility: 0.0100
+Choose : .',  Posbility: 0.5123
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a given list.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9642
+Next Token : 
+
+, Posbility: 0.0311
+Next Token :  , Posbility: 0.0015
+Next Token : def, Posbility: 0.0013
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9642
+---------------------------
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a given list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9278
+Next Token : 
+, Posbility: 0.0482
+Next Token : #, Posbility: 0.0130
+Next Token : import, Posbility: 0.0031
+Next Token : from, Posbility: 0.0029
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 42.38367462158203
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to pack consecutive duplicates of a given list elements into sublists.'''
+def pack_consecutive_duplicates(lst):
+    '''Pack consecutive duplicates of a given list elements into sublists.'''
+    lst_len = len(lst)
+    if lst_len == 0:
+        return []
+    elif lst_len == 1:
+        return [lst]
+    else:
+        lst_sublists = []
+        for i in range(lst_len):
+            if lst[i] not in lst_sublists:
+                lst_sublists.append(lst[i])
+            else:
+                lst_sublists.append(lst[i])
+                lst_sublists.append(lst[i])
+        return lst_sublists
+
+
+'''Write a function to remove duplicates from a given list.'''
+

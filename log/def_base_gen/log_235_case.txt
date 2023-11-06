@@ -1,0 +1,1140 @@
+<<<<<<<<<<<< 235 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  cube, Posbility: 0.4141
+Next Token :  find, Posbility: 0.1562
+Next Token :  cubes, Posbility: 0.0815
+Next Token :  cub, Posbility: 0.0184
+Next Token :  print, Posbility: 0.0163
+Choose :  cube,  Posbility: 0.4141
+'''Write a function to find cubes of individual elements in a list.'''
+def cube
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube
+---------------------------
+Next Token : (, Posbility: 0.4792
+Next Token : _, Posbility: 0.3939
+Next Token : Of, Posbility: 0.0255
+Next Token : C, Posbility: 0.0120
+Next Token : ():, Posbility: 0.0111
+Choose : (,  Posbility: 0.4792
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(
+---------------------------
+Next Token : l, Posbility: 0.1653
+Next Token : list, Posbility: 0.1463
+Next Token : n, Posbility: 0.1124
+Next Token : x, Posbility: 0.0631
+Next Token : a, Posbility: 0.0559
+Choose : l,  Posbility: 0.1653
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(l
+---------------------------
+Next Token : st, Posbility: 0.5517
+Next Token : ):, Posbility: 0.3873
+Next Token : ,, Posbility: 0.0246
+Next Token : :, Posbility: 0.0175
+Next Token : 1, Posbility: 0.0066
+Choose : st,  Posbility: 0.5517
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst
+---------------------------
+Next Token : ):, Posbility: 0.9143
+Next Token : ,, Posbility: 0.0443
+Next Token : :, Posbility: 0.0236
+Next Token : 1, Posbility: 0.0051
+Next Token : _, Posbility: 0.0043
+Choose : ):,  Posbility: 0.9143
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9159
+Next Token : , Posbility: 0.0262
+Next Token : 
+
+, Posbility: 0.0251
+Next Token :  , Posbility: 0.0166
+Next Token :  #, Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9159
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9143
+Next Token :   , Posbility: 0.0480
+Next Token : 	, Posbility: 0.0253
+Next Token :    , Posbility: 0.0066
+Next Token :         , Posbility: 0.0018
+Choose :     ,  Posbility: 0.9143
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.3089
+Next Token : for, Posbility: 0.0828
+Next Token : cube, Posbility: 0.0793
+Next Token : c, Posbility: 0.0771
+Next Token : return, Posbility: 0.0629
+Choose : '',  Posbility: 0.3089
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.0839
+Next Token : Find, Posbility: 0.0808
+Next Token : Write, Posbility: 0.0760
+Next Token : 
+, Posbility: 0.0632
+Next Token : cube, Posbility: 0.0426
+Choose : Return,  Posbility: 0.0839
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return
+---------------------------
+Next Token :  a, Posbility: 0.2474
+Next Token :  the, Posbility: 0.2284
+Next Token :  cube, Posbility: 0.1439
+Next Token :  cubes, Posbility: 0.1142
+Next Token :  list, Posbility: 0.0706
+Choose :  a,  Posbility: 0.2474
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a
+---------------------------
+Next Token :  list, Posbility: 0.5882
+Next Token :  new, Posbility: 0.1171
+Next Token :  cube, Posbility: 0.1070
+Next Token :  cubes, Posbility: 0.0320
+Next Token :  tuple, Posbility: 0.0187
+Choose :  list,  Posbility: 0.5882
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list
+---------------------------
+Next Token :  of, Posbility: 0.6897
+Next Token :  with, Posbility: 0.0921
+Next Token :  containing, Posbility: 0.0591
+Next Token :  where, Posbility: 0.0293
+Next Token :  that, Posbility: 0.0217
+Choose :  of,  Posbility: 0.6897
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of
+---------------------------
+Next Token :  cubes, Posbility: 0.8182
+Next Token :  the, Posbility: 0.0385
+Next Token :  all, Posbility: 0.0318
+Next Token :  cube, Posbility: 0.0285
+Next Token :  cub, Posbility: 0.0111
+Choose :  cubes,  Posbility: 0.8182
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes
+---------------------------
+Next Token :  of, Posbility: 0.4600
+Next Token : ., Posbility: 0.0874
+Next Token : ,, Posbility: 0.0794
+Next Token : .', Posbility: 0.0562
+Next Token : '', Posbility: 0.0500
+Choose :  of,  Posbility: 0.4600
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of
+---------------------------
+Next Token :  the, Posbility: 0.2197
+Next Token :  each, Posbility: 0.2039
+Next Token :  elements, Posbility: 0.1298
+Next Token :  all, Posbility: 0.0966
+Next Token :  individual, Posbility: 0.0528
+Choose :  the,  Posbility: 0.2197
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the
+---------------------------
+Next Token :  elements, Posbility: 0.4701
+Next Token :  list, Posbility: 0.1086
+Next Token :  given, Posbility: 0.0758
+Next Token :  input, Posbility: 0.0567
+Next Token :  first, Posbility: 0.0535
+Choose :  elements,  Posbility: 0.4701
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements
+---------------------------
+Next Token :  of, Posbility: 0.4414
+Next Token :  in, Posbility: 0.3900
+Next Token : '', Posbility: 0.0230
+Next Token :  from, Posbility: 0.0144
+Next Token : ., Posbility: 0.0133
+Choose :  of,  Posbility: 0.4414
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of
+---------------------------
+Next Token :  the, Posbility: 0.4013
+Next Token :  l, Posbility: 0.3027
+Next Token :  a, Posbility: 0.1669
+Next Token :  list, Posbility: 0.0450
+Next Token :  ', Posbility: 0.0117
+Choose :  the,  Posbility: 0.4013
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the
+---------------------------
+Next Token :  list, Posbility: 0.6333
+Next Token :  input, Posbility: 0.1828
+Next Token :  given, Posbility: 0.0580
+Next Token :  l, Posbility: 0.0189
+Next Token :  passed, Posbility: 0.0128
+Choose :  list,  Posbility: 0.6333
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list
+---------------------------
+Next Token : .', Posbility: 0.3317
+Next Token :  l, Posbility: 0.2478
+Next Token : ., Posbility: 0.1296
+Next Token : '', Posbility: 0.0788
+Next Token :  ', Posbility: 0.0378
+Choose : .',  Posbility: 0.3317
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'
+---------------------------
+Next Token : '', Posbility: 0.9991
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0002
+Next Token : "", Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0001
+Choose : '',  Posbility: 0.9991
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9514
+Next Token : 
+
+, Posbility: 0.0421
+Next Token :  , Posbility: 0.0037
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9514
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9934
+Next Token :   , Posbility: 0.0017
+Next Token :         , Posbility: 0.0008
+Next Token :    , Posbility: 0.0007
+Next Token : 	, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9934
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    
+---------------------------
+Next Token : c, Posbility: 0.1845
+Next Token : return, Posbility: 0.1747
+Next Token : cube, Posbility: 0.0994
+Next Token : l, Posbility: 0.0668
+Next Token : result, Posbility: 0.0556
+Choose : c,  Posbility: 0.1845
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    c
+---------------------------
+Next Token : ubes, Posbility: 0.8627
+Next Token : ub, Posbility: 0.0937
+Next Token :  =, Posbility: 0.0172
+Next Token : =, Posbility: 0.0090
+Next Token : _, Posbility: 0.0026
+Choose : ubes,  Posbility: 0.8627
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes
+---------------------------
+Next Token :  =, Posbility: 0.7481
+Next Token : =, Posbility: 0.1791
+Next Token : _, Posbility: 0.0378
+Next Token : =[, Posbility: 0.0182
+Next Token : ={, Posbility: 0.0056
+Choose :  =,  Posbility: 0.7481
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes =
+---------------------------
+Next Token :  [], Posbility: 0.6648
+Next Token :  [, Posbility: 0.2547
+Next Token :  list, Posbility: 0.0235
+Next Token :  [[, Posbility: 0.0227
+Next Token :  0, Posbility: 0.0062
+Choose :  [],  Posbility: 0.6648
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+---------------------------
+Next Token : 
+, Posbility: 0.9392
+Next Token : 
+
+, Posbility: 0.0406
+Next Token :  #, Posbility: 0.0078
+Next Token :  , Posbility: 0.0050
+Next Token :   , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9392
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+
+---------------------------
+Next Token :     , Posbility: 0.9979
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9979
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    
+---------------------------
+Next Token : for, Posbility: 0.8671
+Next Token : #, Posbility: 0.0164
+Next Token : if, Posbility: 0.0155
+Next Token : 
+, Posbility: 0.0106
+Next Token : c, Posbility: 0.0098
+Choose : for,  Posbility: 0.8671
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4652
+Next Token :  element, Posbility: 0.0924
+Next Token :  el, Posbility: 0.0821
+Next Token :  item, Posbility: 0.0559
+Next Token :  x, Posbility: 0.0501
+Choose :  i,  Posbility: 0.4652
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9762
+Next Token : ,, Posbility: 0.0228
+Next Token : _, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9762
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in
+---------------------------
+Next Token :  l, Posbility: 0.6241
+Next Token :  range, Posbility: 0.3701
+Next Token :  list, Posbility: 0.0013
+Next Token :  [, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0005
+Choose :  l,  Posbility: 0.6241
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in l
+---------------------------
+Next Token : st, Posbility: 0.9997
+Next Token : :, Posbility: 0.0002
+Next Token : t, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ist, Posbility: 0.0000
+Choose : st,  Posbility: 0.9997
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst
+---------------------------
+Next Token : :, Posbility: 0.9906
+Next Token : [, Posbility: 0.0059
+Next Token :  :, Posbility: 0.0019
+Next Token : ., Posbility: 0.0011
+Next Token : :#, Posbility: 0.0002
+Choose : :,  Posbility: 0.9906
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9743
+Next Token :  , Posbility: 0.0077
+Next Token :  cubes, Posbility: 0.0042
+Next Token :  #, Posbility: 0.0034
+Next Token :   , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9743
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9864
+Next Token :       , Posbility: 0.0051
+Next Token :        , Posbility: 0.0029
+Next Token :     , Posbility: 0.0017
+Next Token :             , Posbility: 0.0017
+Choose :         ,  Posbility: 0.9864
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        
+---------------------------
+Next Token : c, Posbility: 0.7662
+Next Token : if, Posbility: 0.0638
+Next Token : cube, Posbility: 0.0634
+Next Token : for, Posbility: 0.0358
+Next Token : i, Posbility: 0.0158
+Choose : c,  Posbility: 0.7662
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        c
+---------------------------
+Next Token : ubes, Posbility: 0.9934
+Next Token : ub, Posbility: 0.0040
+Next Token :  =, Posbility: 0.0020
+Next Token : ube, Posbility: 0.0001
+Next Token : =, Posbility: 0.0001
+Choose : ubes,  Posbility: 0.9934
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes
+---------------------------
+Next Token : ., Posbility: 0.9739
+Next Token :  +=, Posbility: 0.0154
+Next Token :  =, Posbility: 0.0075
+Next Token : _, Posbility: 0.0015
+Next Token : +=, Posbility: 0.0005
+Choose : .,  Posbility: 0.9739
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.
+---------------------------
+Next Token : append, Posbility: 0.9798
+Next Token : ext, Posbility: 0.0184
+Next Token : insert, Posbility: 0.0013
+Next Token : add, Posbility: 0.0001
+Next Token : clear, Posbility: 0.0001
+Choose : append,  Posbility: 0.9798
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append
+---------------------------
+Next Token : (, Posbility: 0.9587
+Next Token : ((, Posbility: 0.0219
+Next Token : ([, Posbility: 0.0182
+Next Token : (', Posbility: 0.0007
+Next Token : (", Posbility: 0.0002
+Choose : (,  Posbility: 0.9587
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(
+---------------------------
+Next Token : i, Posbility: 0.8288
+Next Token : cube, Posbility: 0.0270
+Next Token : int, Posbility: 0.0249
+Next Token : p, Posbility: 0.0237
+Next Token : l, Posbility: 0.0182
+Choose : i,  Posbility: 0.8288
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i
+---------------------------
+Next Token : **, Posbility: 0.5171
+Next Token : *, Posbility: 0.3489
+Next Token :  **, Posbility: 0.0715
+Next Token :  *, Posbility: 0.0576
+Next Token : ), Posbility: 0.0022
+Choose : **,  Posbility: 0.5171
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**
+---------------------------
+Next Token : 3, Posbility: 0.9979
+Next Token : 2, Posbility: 0.0014
+Next Token : (, Posbility: 0.0004
+Next Token : 4, Posbility: 0.0001
+Next Token :  3, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9979
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3
+---------------------------
+Next Token : ), Posbility: 0.9981
+Next Token :  ), Posbility: 0.0006
+Next Token : );, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Next Token :  if, Posbility: 0.0001
+Choose : ),  Posbility: 0.9981
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+---------------------------
+Next Token : 
+, Posbility: 0.9588
+Next Token : 
+
+, Posbility: 0.0189
+Next Token :  #, Posbility: 0.0080
+Next Token :  , Posbility: 0.0043
+Next Token :     , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9588
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+
+---------------------------
+Next Token :     , Posbility: 0.9719
+Next Token :         , Posbility: 0.0247
+Next Token : 
+, Posbility: 0.0009
+Next Token : #, Posbility: 0.0007
+Next Token :             , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9719
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    
+---------------------------
+Next Token : return, Posbility: 0.9502
+Next Token : print, Posbility: 0.0220
+Next Token : 
+, Posbility: 0.0111
+Next Token : c, Posbility: 0.0074
+Next Token : #, Posbility: 0.0034
+Choose : return,  Posbility: 0.9502
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return
+---------------------------
+Next Token :  cubes, Posbility: 0.9626
+Next Token : (, Posbility: 0.0202
+Next Token :  cub, Posbility: 0.0035
+Next Token :  list, Posbility: 0.0028
+Next Token :  (, Posbility: 0.0016
+Choose :  cubes,  Posbility: 0.9626
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+---------------------------
+Next Token : 
+, Posbility: 0.8199
+Next Token : 
+
+, Posbility: 0.1528
+Next Token : <|endoftext|>, Posbility: 0.0115
+Next Token :  , Posbility: 0.0078
+Next Token :     , Posbility: 0.0019
+Choose : 
+,  Posbility: 0.8199
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+---------------------------
+Next Token : 
+, Posbility: 0.7351
+Next Token : print, Posbility: 0.0493
+Next Token :     , Posbility: 0.0385
+Next Token : <|endoftext|>, Posbility: 0.0330
+Next Token : def, Posbility: 0.0257
+Choose : 
+,  Posbility: 0.7351
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9384
+Next Token : <|endoftext|>, Posbility: 0.0276
+Next Token :     , Posbility: 0.0150
+Next Token : 
+
+, Posbility: 0.0142
+Next Token :         , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9384
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3772
+Next Token : def, Posbility: 0.2301
+Next Token : #, Posbility: 0.1982
+Next Token : print, Posbility: 0.0508
+Next Token : 
+, Posbility: 0.0333
+Choose : '',  Posbility: 0.3772
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7315
+Next Token : Return, Posbility: 0.0330
+Next Token : Find, Posbility: 0.0170
+Next Token : 
+, Posbility: 0.0139
+Next Token :  Write, Posbility: 0.0128
+Choose : Write,  Posbility: 0.7315
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9818
+Next Token :  your, Posbility: 0.0044
+Next Token :  an, Posbility: 0.0042
+Next Token :  the, Posbility: 0.0020
+Next Token :  function, Posbility: 0.0015
+Choose :  a,  Posbility: 0.9818
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9334
+Next Token :  program, Posbility: 0.0144
+Next Token :  Python, Posbility: 0.0082
+Next Token :  python, Posbility: 0.0055
+Next Token :  recursive, Posbility: 0.0054
+Choose :  function,  Posbility: 0.9334
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7113
+Next Token :  that, Posbility: 0.2244
+Next Token :  which, Posbility: 0.0109
+Next Token :  called, Posbility: 0.0062
+Next Token :  for, Posbility: 0.0055
+Choose :  to,  Posbility: 0.7113
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1916
+Next Token :  return, Posbility: 0.0802
+Next Token :  print, Posbility: 0.0755
+Next Token :  get, Posbility: 0.0516
+Next Token :  check, Posbility: 0.0361
+Choose :  find,  Posbility: 0.1916
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.3796
+Next Token :  cubes, Posbility: 0.0410
+Next Token :  cube, Posbility: 0.0399
+Next Token :  a, Posbility: 0.0355
+Next Token :  sum, Posbility: 0.0318
+Choose :  the,  Posbility: 0.3796
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  sum, Posbility: 0.1731
+Next Token :  number, Posbility: 0.0771
+Next Token :  product, Posbility: 0.0417
+Next Token :  maximum, Posbility: 0.0393
+Next Token :  largest, Posbility: 0.0331
+Choose :  sum,  Posbility: 0.1731
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum
+---------------------------
+Next Token :  of, Posbility: 0.9723
+Next Token :  and, Posbility: 0.0042
+Next Token :  cubes, Posbility: 0.0028
+Next Token : ,, Posbility: 0.0023
+Next Token :  cube, Posbility: 0.0018
+Choose :  of,  Posbility: 0.9723
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of
+---------------------------
+Next Token :  the, Posbility: 0.2730
+Next Token :  cubes, Posbility: 0.2118
+Next Token :  all, Posbility: 0.1364
+Next Token :  a, Posbility: 0.1201
+Next Token :  cube, Posbility: 0.0367
+Choose :  the,  Posbility: 0.2730
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the
+---------------------------
+Next Token :  cubes, Posbility: 0.5147
+Next Token :  elements, Posbility: 0.1677
+Next Token :  cube, Posbility: 0.0665
+Next Token :  squares, Posbility: 0.0596
+Next Token :  numbers, Posbility: 0.0262
+Choose :  cubes,  Posbility: 0.5147
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes
+---------------------------
+Next Token :  of, Posbility: 0.8967
+Next Token :  in, Posbility: 0.0676
+Next Token : .', Posbility: 0.0075
+Next Token :  for, Posbility: 0.0029
+Next Token : ., Posbility: 0.0026
+Choose :  of,  Posbility: 0.8967
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of
+---------------------------
+Next Token :  the, Posbility: 0.4319
+Next Token :  all, Posbility: 0.1428
+Next Token :  each, Posbility: 0.1322
+Next Token :  a, Posbility: 0.0675
+Next Token :  individual, Posbility: 0.0448
+Choose :  the,  Posbility: 0.4319
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the
+---------------------------
+Next Token :  elements, Posbility: 0.6453
+Next Token :  individual, Posbility: 0.0988
+Next Token :  list, Posbility: 0.0634
+Next Token :  cubes, Posbility: 0.0486
+Next Token :  numbers, Posbility: 0.0161
+Choose :  elements,  Posbility: 0.6453
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements
+---------------------------
+Next Token :  of, Posbility: 0.8092
+Next Token :  in, Posbility: 0.1307
+Next Token : .', Posbility: 0.0137
+Next Token : 
+, Posbility: 0.0133
+Next Token :  , Posbility: 0.0030
+Choose :  of,  Posbility: 0.8092
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of
+---------------------------
+Next Token :  the, Posbility: 0.4875
+Next Token :  a, Posbility: 0.4288
+Next Token :  an, Posbility: 0.0273
+Next Token :  list, Posbility: 0.0103
+Next Token : 
+, Posbility: 0.0072
+Choose :  the,  Posbility: 0.4875
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of the
+---------------------------
+Next Token :  list, Posbility: 0.8153
+Next Token : 
+, Posbility: 0.0434
+Next Token :  input, Posbility: 0.0216
+Next Token :  lists, Posbility: 0.0174
+Next Token :  given, Posbility: 0.0140
+Choose :  list,  Posbility: 0.8153
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of the list
+---------------------------
+Next Token : .', Posbility: 0.8800
+Next Token : ., Posbility: 0.0308
+Next Token : '', Posbility: 0.0137
+Next Token : 
+, Posbility: 0.0136
+Next Token :  ', Posbility: 0.0073
+Choose : .',  Posbility: 0.8800
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of the list.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of the list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9514
+Next Token : 
+
+, Posbility: 0.0347
+Next Token : def, Posbility: 0.0032
+Next Token :     , Posbility: 0.0031
+Next Token :  , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9514
+---------------------------
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of the list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9541
+Next Token : 
+, Posbility: 0.0279
+Next Token : #, Posbility: 0.0074
+Next Token : sum, Posbility: 0.0024
+Next Token : import, Posbility: 0.0014
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.362111330032349
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find cubes of individual elements in a list.'''
+def cube(lst):
+    '''Return a list of cubes of the elements of the list.'''
+    cubes = []
+    for i in lst:
+        cubes.append(i**3)
+    return cubes
+
+
+'''Write a function to find the sum of the cubes of the elements of the list.'''
+

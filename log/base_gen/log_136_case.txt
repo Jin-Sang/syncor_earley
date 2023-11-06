@@ -1,0 +1,422 @@
+<<<<<<<<<<<< 136 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2107
+Next Token : ile, Posbility: 0.1838
+Next Token : ive, Posbility: 0.0456
+Next Token : ix, Posbility: 0.0381
+Next Token : iz, Posbility: 0.0378
+Choose : 
+,  Posbility: 0.2107
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+
+---------------------------
+Next Token : #, Posbility: 0.1552
+Next Token : def, Posbility: 0.1220
+Next Token : import, Posbility: 0.1067
+Next Token : '', Posbility: 0.0877
+Next Token : 
+, Posbility: 0.0741
+Choose : #,  Posbility: 0.1552
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+#
+---------------------------
+Next Token :  def, Posbility: 0.0376
+Next Token :  Write, Posbility: 0.0267
+Next Token :  split, Posbility: 0.0266
+Next Token : split, Posbility: 0.0233
+Next Token :  function, Posbility: 0.0202
+Choose :  def,  Posbility: 0.0376
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def
+---------------------------
+Next Token :  split, Posbility: 0.2945
+Next Token :  write, Posbility: 0.0416
+Next Token :  list, Posbility: 0.0348
+Next Token :  get, Posbility: 0.0273
+Next Token :  main, Posbility: 0.0232
+Choose :  split,  Posbility: 0.2945
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split
+---------------------------
+Next Token : _, Posbility: 0.4947
+Next Token : (, Posbility: 0.2341
+Next Token : List, Posbility: 0.0698
+Next Token : L, Posbility: 0.0414
+Next Token : Int, Posbility: 0.0221
+Choose : _,  Posbility: 0.4947
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_
+---------------------------
+Next Token : list, Posbility: 0.3870
+Next Token : lists, Posbility: 0.0789
+Next Token : l, Posbility: 0.0392
+Next Token : into, Posbility: 0.0324
+Next Token : part, Posbility: 0.0264
+Choose : list,  Posbility: 0.3870
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list
+---------------------------
+Next Token : (, Posbility: 0.8568
+Next Token : _, Posbility: 0.1130
+Next Token : ():, Posbility: 0.0110
+Next Token :  (, Posbility: 0.0088
+Next Token : 2, Posbility: 0.0016
+Choose : (,  Posbility: 0.8568
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(
+---------------------------
+Next Token : l, Posbility: 0.2545
+Next Token : list, Posbility: 0.2106
+Next Token : L, Posbility: 0.1324
+Next Token : input, Posbility: 0.0410
+Next Token : ls, Posbility: 0.0332
+Choose : l,  Posbility: 0.2545
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l
+---------------------------
+Next Token : ,, Posbility: 0.6297
+Next Token : st, Posbility: 0.2760
+Next Token : :, Posbility: 0.0338
+Next Token : ):, Posbility: 0.0254
+Next Token : _, Posbility: 0.0143
+Choose : ,,  Posbility: 0.6297
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l,
+---------------------------
+Next Token :  l, Posbility: 0.2750
+Next Token :  n, Posbility: 0.1690
+Next Token :  L, Posbility: 0.1378
+Next Token : l, Posbility: 0.0588
+Next Token : n, Posbility: 0.0557
+Choose :  l,  Posbility: 0.2750
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l
+---------------------------
+Next Token : _, Posbility: 0.5476
+Next Token : st, Posbility: 0.1244
+Next Token : 1, Posbility: 0.1018
+Next Token : 2, Posbility: 0.0397
+Next Token : is, Posbility: 0.0207
+Choose : _,  Posbility: 0.5476
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_
+---------------------------
+Next Token : len, Posbility: 0.5603
+Next Token : length, Posbility: 0.1357
+Next Token : size, Posbility: 0.0446
+Next Token : split, Posbility: 0.0375
+Next Token : part, Posbility: 0.0188
+Choose : len,  Posbility: 0.5603
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len
+---------------------------
+Next Token : ):, Posbility: 0.9213
+Next Token : ,, Posbility: 0.0328
+Next Token : =, Posbility: 0.0149
+Next Token :  =, Posbility: 0.0098
+Next Token : ), Posbility: 0.0091
+Choose : ):,  Posbility: 0.9213
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+---------------------------
+Next Token : 
+, Posbility: 0.9357
+Next Token : 
+
+, Posbility: 0.0189
+Next Token :  #, Posbility: 0.0160
+Next Token :  , Posbility: 0.0136
+Next Token :   , Posbility: 0.0059
+Choose : 
+,  Posbility: 0.9357
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+
+---------------------------
+Next Token : #, Posbility: 0.8082
+Next Token :     , Posbility: 0.0775
+Next Token : def, Posbility: 0.0619
+Next Token : 
+, Posbility: 0.0255
+Next Token :  #, Posbility: 0.0045
+Choose : #,  Posbility: 0.8082
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#
+---------------------------
+Next Token :      , Posbility: 0.8376
+Next Token :  , Posbility: 0.0600
+Next Token :    , Posbility: 0.0489
+Next Token : 
+, Posbility: 0.0133
+Next Token :     , Posbility: 0.0069
+Choose :      ,  Posbility: 0.8376
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     
+---------------------------
+Next Token : return, Posbility: 0.1925
+Next Token : '', Posbility: 0.0990
+Next Token : if, Posbility: 0.0824
+Next Token : #, Posbility: 0.0800
+Next Token : l, Posbility: 0.0564
+Choose : return,  Posbility: 0.1925
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return
+---------------------------
+Next Token :  (, Posbility: 0.2914
+Next Token :  l, Posbility: 0.2636
+Next Token :  [, Posbility: 0.1143
+Next Token :  tuple, Posbility: 0.0809
+Next Token :  list, Posbility: 0.0442
+Choose :  (,  Posbility: 0.2914
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (
+---------------------------
+Next Token : l, Posbility: 0.9021
+Next Token : 
+, Posbility: 0.0200
+Next Token : list, Posbility: 0.0170
+Next Token : len, Posbility: 0.0156
+Next Token : split, Posbility: 0.0086
+Choose : l,  Posbility: 0.9021
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l
+---------------------------
+Next Token : [, Posbility: 0.9829
+Next Token : ,, Posbility: 0.0105
+Next Token : _, Posbility: 0.0016
+Next Token :  [, Posbility: 0.0012
+Next Token :  *, Posbility: 0.0009
+Choose : [,  Posbility: 0.9829
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[
+---------------------------
+Next Token : :, Posbility: 0.6126
+Next Token : 0, Posbility: 0.3645
+Next Token : :(, Posbility: 0.0059
+Next Token :  :, Posbility: 0.0034
+Next Token : :-, Posbility: 0.0026
+Choose : :,  Posbility: 0.6126
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:
+---------------------------
+Next Token : l, Posbility: 0.9234
+Next Token : int, Posbility: 0.0323
+Next Token :  l, Posbility: 0.0217
+Next Token : len, Posbility: 0.0041
+Next Token : ],, Posbility: 0.0039
+Choose : l,  Posbility: 0.9234
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l
+---------------------------
+Next Token : _, Posbility: 0.9979
+Next Token : //, Posbility: 0.0005
+Next Token : ., Posbility: 0.0004
+Next Token :  //, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Choose : _,  Posbility: 0.9979
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_
+---------------------------
+Next Token : len, Posbility: 0.9999
+Next Token : length, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Next Token : int, Posbility: 0.0000
+Next Token : Len, Posbility: 0.0000
+Choose : len,  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len
+---------------------------
+Next Token : ],, Posbility: 0.9275
+Next Token : //, Posbility: 0.0173
+Next Token : ]), Posbility: 0.0157
+Next Token : ], Posbility: 0.0142
+Next Token : -, Posbility: 0.0035
+Choose : ],,  Posbility: 0.9275
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len],
+---------------------------
+Next Token :  l, Posbility: 0.8808
+Next Token : l, Posbility: 0.0972
+Next Token :  [, Posbility: 0.0076
+Next Token : 
+, Posbility: 0.0030
+Next Token :  (, Posbility: 0.0029
+Choose :  l,  Posbility: 0.8808
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l
+---------------------------
+Next Token : [, Posbility: 0.9969
+Next Token : ), Posbility: 0.0018
+Next Token : ,, Posbility: 0.0008
+Next Token :  [, Posbility: 0.0004
+Next Token : ., Posbility: 0.0000
+Choose : [,  Posbility: 0.9969
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[
+---------------------------
+Next Token : l, Posbility: 0.9621
+Next Token : :, Posbility: 0.0189
+Next Token : L, Posbility: 0.0052
+Next Token : len, Posbility: 0.0047
+Next Token : :-, Posbility: 0.0019
+Choose : l,  Posbility: 0.9621
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[l
+---------------------------
+Next Token : _, Posbility: 0.9992
+Next Token : :, Posbility: 0.0005
+Next Token : ., Posbility: 0.0001
+Next Token : :], Posbility: 0.0000
+Next Token : _-, Posbility: 0.0000
+Choose : _,  Posbility: 0.9992
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[l_
+---------------------------
+Next Token : len, Posbility: 1.0000
+Next Token : str, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Next Token : Len, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Choose : len,  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[l_len
+---------------------------
+Next Token : :, Posbility: 0.9619
+Next Token : :], Posbility: 0.0097
+Next Token : ::, Posbility: 0.0096
+Next Token : +, Posbility: 0.0053
+Next Token : :-, Posbility: 0.0035
+Choose : :,  Posbility: 0.9619
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[l_len:
+---------------------------
+Next Token : ]), Posbility: 0.8479
+Next Token : ],, Posbility: 0.1122
+Next Token : l, Posbility: 0.0126
+Next Token : len, Posbility: 0.0112
+Next Token : 2, Posbility: 0.0059
+Choose : ]),  Posbility: 0.8479
+---------------------------
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[l_len:])
+---------------------------
+Next Token : 
+, Posbility: 0.7945
+Next Token : 
+
+, Posbility: 0.1792
+Next Token :  , Posbility: 0.0089
+Next Token :  #, Posbility: 0.0053
+Next Token : <|endoftext|>, Posbility: 0.0029
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.661394119262695
+
+
+
+----------Syntax Error-----------
+
+'''Write a function that takes in a list and an integer L and splits the given list into two parts where the length of the first part of the list is L, and returns the resulting lists in a tuple.'''
+def 
+# def split_list(l, l_len):
+#     return (l[:l_len], l[l_len:])
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

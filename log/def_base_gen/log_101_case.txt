@@ -1,0 +1,523 @@
+<<<<<<<<<<<< 101 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  perimeter, Posbility: 0.1638
+Next Token :  find, Posbility: 0.1159
+Next Token :  pent, Posbility: 0.0808
+Next Token :  get, Posbility: 0.0474
+Next Token :  per, Posbility: 0.0444
+Choose :  perimeter,  Posbility: 0.1638
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter
+---------------------------
+Next Token : (, Posbility: 0.6557
+Next Token : _, Posbility: 0.2258
+Next Token : ():, Posbility: 0.0596
+Next Token :  (, Posbility: 0.0219
+Next Token : Of, Posbility: 0.0043
+Choose : (,  Posbility: 0.6557
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(
+---------------------------
+Next Token : side, Posbility: 0.4842
+Next Token : length, Posbility: 0.1004
+Next Token : s, Posbility: 0.0811
+Next Token : l, Posbility: 0.0561
+Next Token : a, Posbility: 0.0514
+Choose : side,  Posbility: 0.4842
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side
+---------------------------
+Next Token : ):, Posbility: 0.4873
+Next Token : _, Posbility: 0.1896
+Next Token : 1, Posbility: 0.1726
+Next Token : Length, Posbility: 0.0778
+Next Token : ,, Posbility: 0.0215
+Choose : ):,  Posbility: 0.4873
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+---------------------------
+Next Token : 
+, Posbility: 0.9090
+Next Token : , Posbility: 0.0380
+Next Token : 
+
+, Posbility: 0.0228
+Next Token :  , Posbility: 0.0126
+Next Token :  #, Posbility: 0.0071
+Choose : 
+,  Posbility: 0.9090
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+
+---------------------------
+Next Token :     , Posbility: 0.9404
+Next Token :   , Posbility: 0.0298
+Next Token : 	, Posbility: 0.0196
+Next Token :    , Posbility: 0.0042
+Next Token :         , Posbility: 0.0023
+Choose :     ,  Posbility: 0.9404
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    
+---------------------------
+Next Token : return, Posbility: 0.2408
+Next Token : if, Posbility: 0.2253
+Next Token : per, Posbility: 0.1241
+Next Token : '', Posbility: 0.0930
+Next Token : #, Posbility: 0.0323
+Choose : return,  Posbility: 0.2408
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return
+---------------------------
+Next Token :  side, Posbility: 0.4391
+Next Token :  (, Posbility: 0.1256
+Next Token :  4, Posbility: 0.1162
+Next Token :  2, Posbility: 0.0489
+Next Token :  ((, Posbility: 0.0488
+Choose :  side,  Posbility: 0.4391
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side
+---------------------------
+Next Token :  *, Posbility: 0.4175
+Next Token : *, Posbility: 0.3083
+Next Token : **, Posbility: 0.1311
+Next Token :  **, Posbility: 0.0883
+Next Token : [, Posbility: 0.0207
+Choose :  *,  Posbility: 0.4175
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side *
+---------------------------
+Next Token :  4, Posbility: 0.5676
+Next Token :  5, Posbility: 0.1743
+Next Token :  6, Posbility: 0.0976
+Next Token :  (, Posbility: 0.0546
+Next Token :  3, Posbility: 0.0471
+Choose :  4,  Posbility: 0.5676
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+---------------------------
+Next Token : 
+, Posbility: 0.5729
+Next Token : 
+
+, Posbility: 0.1329
+Next Token :  *, Posbility: 0.1185
+Next Token :  +, Posbility: 0.0960
+Next Token : <|endoftext|>, Posbility: 0.0262
+Choose : 
+,  Posbility: 0.5729
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+---------------------------
+Next Token : 
+, Posbility: 0.8024
+Next Token : def, Posbility: 0.0440
+Next Token :     , Posbility: 0.0393
+Next Token : <|endoftext|>, Posbility: 0.0312
+Next Token : print, Posbility: 0.0296
+Choose : 
+,  Posbility: 0.8024
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9758
+Next Token : <|endoftext|>, Posbility: 0.0123
+Next Token : 
+
+, Posbility: 0.0063
+Next Token :     , Posbility: 0.0044
+Next Token :   , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9758
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5158
+Next Token : def, Posbility: 0.1969
+Next Token : print, Posbility: 0.0859
+Next Token : #, Posbility: 0.0710
+Next Token : side, Posbility: 0.0441
+Choose : '',  Posbility: 0.5158
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8615
+Next Token :  Write, Posbility: 0.0296
+Next Token : 
+, Posbility: 0.0134
+Next Token : Find, Posbility: 0.0077
+Next Token : write, Posbility: 0.0054
+Choose : Write,  Posbility: 0.8615
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9889
+Next Token :  your, Posbility: 0.0026
+Next Token :  an, Posbility: 0.0023
+Next Token :  the, Posbility: 0.0020
+Next Token :  function, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9889
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9594
+Next Token :  program, Posbility: 0.0095
+Next Token :  python, Posbility: 0.0053
+Next Token :  Python, Posbility: 0.0043
+Next Token :  recursive, Posbility: 0.0035
+Choose :  function,  Posbility: 0.9594
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7501
+Next Token :  that, Posbility: 0.1810
+Next Token :  called, Posbility: 0.0263
+Next Token :  which, Posbility: 0.0094
+Next Token :  named, Posbility: 0.0056
+Choose :  to,  Posbility: 0.7501
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2634
+Next Token :  print, Posbility: 0.1395
+Next Token :  calculate, Posbility: 0.0874
+Next Token :  compute, Posbility: 0.0672
+Next Token :  check, Posbility: 0.0668
+Choose :  find,  Posbility: 0.2634
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.8857
+Next Token :  area, Posbility: 0.0442
+Next Token :  perimeter, Posbility: 0.0091
+Next Token :  all, Posbility: 0.0058
+Next Token :  a, Posbility: 0.0057
+Choose :  the,  Posbility: 0.8857
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  area, Posbility: 0.6096
+Next Token :  perimeter, Posbility: 0.2016
+Next Token :  volume, Posbility: 0.0341
+Next Token :  circumference, Posbility: 0.0252
+Next Token :  surface, Posbility: 0.0142
+Choose :  area,  Posbility: 0.6096
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area
+---------------------------
+Next Token :  of, Posbility: 0.9734
+Next Token :  under, Posbility: 0.0027
+Next Token :  and, Posbility: 0.0022
+Next Token :  (, Posbility: 0.0019
+Next Token : ,, Posbility: 0.0012
+Choose :  of,  Posbility: 0.9734
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of
+---------------------------
+Next Token :  a, Posbility: 0.9759
+Next Token :  the, Posbility: 0.0085
+Next Token :  an, Posbility: 0.0047
+Next Token :  square, Posbility: 0.0013
+Next Token :  rectangle, Posbility: 0.0010
+Choose :  a,  Posbility: 0.9759
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a
+---------------------------
+Next Token :  regular, Posbility: 0.8918
+Next Token :  rectangle, Posbility: 0.0237
+Next Token :  triangle, Posbility: 0.0112
+Next Token :  square, Posbility: 0.0106
+Next Token :  paralle, Posbility: 0.0089
+Choose :  regular,  Posbility: 0.8918
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular
+---------------------------
+Next Token :  pent, Posbility: 0.2121
+Next Token :  paralle, Posbility: 0.1757
+Next Token :  poly, Posbility: 0.1537
+Next Token :  triangle, Posbility: 0.0878
+Next Token :  tra, Posbility: 0.0707
+Choose :  pent,  Posbility: 0.2121
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pent
+---------------------------
+Next Token : agon, Posbility: 0.9822
+Next Token : agonal, Posbility: 0.0106
+Next Token : gon, Posbility: 0.0020
+Next Token : agram, Posbility: 0.0016
+Next Token : ag, Posbility: 0.0015
+Choose : agon,  Posbility: 0.9822
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon
+---------------------------
+Next Token :  from, Posbility: 0.7449
+Next Token : .', Posbility: 0.0784
+Next Token : ., Posbility: 0.0465
+Next Token :  given, Posbility: 0.0199
+Next Token :  with, Posbility: 0.0187
+Choose :  from,  Posbility: 0.7449
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from
+---------------------------
+Next Token :  the, Posbility: 0.8614
+Next Token :  its, Posbility: 0.0711
+Next Token :  a, Posbility: 0.0213
+Next Token :  side, Posbility: 0.0045
+Next Token :  given, Posbility: 0.0039
+Choose :  the,  Posbility: 0.8614
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the
+---------------------------
+Next Token :  length, Posbility: 0.6398
+Next Token :  side, Posbility: 0.0660
+Next Token :  perimeter, Posbility: 0.0608
+Next Token :  height, Posbility: 0.0343
+Next Token :  sides, Posbility: 0.0273
+Choose :  length,  Posbility: 0.6398
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length
+---------------------------
+Next Token :  of, Posbility: 0.9942
+Next Token : 
+, Posbility: 0.0020
+Next Token : .', Posbility: 0.0010
+Next Token :  and, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0003
+Choose :  of,  Posbility: 0.9942
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of
+---------------------------
+Next Token :  its, Posbility: 0.9928
+Next Token :  the, Posbility: 0.0020
+Next Token :  it, Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0012
+Next Token :  sides, Posbility: 0.0007
+Choose :  its,  Posbility: 0.9928
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of its
+---------------------------
+Next Token :  sides, Posbility: 0.9239
+Next Token : 
+, Posbility: 0.0130
+Next Token :  bases, Posbility: 0.0112
+Next Token :  side, Posbility: 0.0041
+Next Token :  four, Posbility: 0.0039
+Choose :  sides,  Posbility: 0.9239
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of its sides
+---------------------------
+Next Token : .', Posbility: 0.8776
+Next Token : ., Posbility: 0.0821
+Next Token : '', Posbility: 0.0158
+Next Token :  and, Posbility: 0.0067
+Next Token : ,, Posbility: 0.0036
+Choose : .',  Posbility: 0.8776
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of its sides.'
+---------------------------
+Next Token : '', Posbility: 0.9989
+Next Token : 
+, Posbility: 0.0008
+Next Token :  ', Posbility: 0.0002
+Next Token : ., Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9989
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of its sides.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9299
+Next Token : 
+
+, Posbility: 0.0679
+Next Token :  , Posbility: 0.0006
+Next Token : def, Posbility: 0.0006
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9299
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of its sides.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9603
+Next Token : 
+, Posbility: 0.0283
+Next Token : #, Posbility: 0.0039
+Next Token : import, Posbility: 0.0025
+Next Token : from, Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.642028570175171
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def perimeter(side):
+    return side * 4
+
+
+'''Write a function to find the area of a regular pentagon from the length of its sides.'''
+

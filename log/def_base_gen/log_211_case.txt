@@ -1,0 +1,793 @@
+<<<<<<<<<<<< 211 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  average, Posbility: 0.2065
+Next Token :  cube, Posbility: 0.1600
+Next Token :  find, Posbility: 0.0883
+Next Token :  avg, Posbility: 0.0448
+Next Token :  sum, Posbility: 0.0383
+Choose :  average,  Posbility: 0.2065
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average
+---------------------------
+Next Token : (, Posbility: 0.5490
+Next Token : _, Posbility: 0.2821
+Next Token : Of, Posbility: 0.0488
+Next Token : ():, Posbility: 0.0303
+Next Token : C, Posbility: 0.0221
+Choose : (,  Posbility: 0.5490
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(
+---------------------------
+Next Token : n, Posbility: 0.6822
+Next Token : num, Posbility: 0.0583
+Next Token : c, Posbility: 0.0505
+Next Token : x, Posbility: 0.0369
+Next Token : number, Posbility: 0.0362
+Choose : n,  Posbility: 0.6822
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n
+---------------------------
+Next Token : ):, Posbility: 0.8653
+Next Token : ,, Posbility: 0.0822
+Next Token : umbers, Posbility: 0.0138
+Next Token : :, Posbility: 0.0088
+Next Token : ), Posbility: 0.0079
+Choose : ):,  Posbility: 0.8653
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+---------------------------
+Next Token : 
+, Posbility: 0.8941
+Next Token : , Posbility: 0.0440
+Next Token : 
+
+, Posbility: 0.0250
+Next Token :  , Posbility: 0.0209
+Next Token :   , Posbility: 0.0044
+Choose : 
+,  Posbility: 0.8941
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+
+---------------------------
+Next Token :     , Posbility: 0.8802
+Next Token :   , Posbility: 0.0556
+Next Token : 	, Posbility: 0.0429
+Next Token :    , Posbility: 0.0114
+Next Token :      , Posbility: 0.0021
+Choose :     ,  Posbility: 0.8802
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    
+---------------------------
+Next Token : sum, Posbility: 0.1611
+Next Token : '', Posbility: 0.1318
+Next Token : c, Posbility: 0.0872
+Next Token : if, Posbility: 0.0810
+Next Token : total, Posbility: 0.0686
+Choose : sum,  Posbility: 0.1611
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.5628
+Next Token : =, Posbility: 0.2954
+Next Token : _, Posbility: 0.0699
+Next Token : 1, Posbility: 0.0335
+Next Token : C, Posbility: 0.0056
+Choose :  =,  Posbility: 0.5628
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9726
+Next Token : 0, Posbility: 0.0078
+Next Token :  1, Posbility: 0.0060
+Next Token :  n, Posbility: 0.0047
+Next Token :  sum, Posbility: 0.0014
+Choose :  0,  Posbility: 0.9726
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8912
+Next Token : ., Posbility: 0.0660
+Next Token : 
+
+, Posbility: 0.0158
+Next Token :  , Posbility: 0.0152
+Next Token : ;, Posbility: 0.0047
+Choose : 
+,  Posbility: 0.8912
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9981
+Next Token :    , Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Next Token :         , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9981
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.7331
+Next Token : c, Posbility: 0.0512
+Next Token : i, Posbility: 0.0434
+Next Token : count, Posbility: 0.0248
+Next Token : while, Posbility: 0.0174
+Choose : for,  Posbility: 0.7331
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8054
+Next Token :  x, Posbility: 0.0462
+Next Token :  num, Posbility: 0.0348
+Next Token :  n, Posbility: 0.0327
+Next Token :  number, Posbility: 0.0130
+Choose :  i,  Posbility: 0.8054
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9993
+Next Token :   , Posbility: 0.0003
+Next Token : ,, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9993
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9953
+Next Token :  n, Posbility: 0.0014
+Next Token :  list, Posbility: 0.0007
+Next Token :  (, Posbility: 0.0005
+Next Token :  str, Posbility: 0.0005
+Choose :  range,  Posbility: 0.9953
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9638
+Next Token :  (, Posbility: 0.0354
+Next Token : (-, Posbility: 0.0005
+Next Token : ((, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0000
+Choose : (,  Posbility: 0.9638
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : 1, Posbility: 0.6497
+Next Token : n, Posbility: 0.2576
+Next Token : 0, Posbility: 0.0787
+Next Token : 2, Posbility: 0.0077
+Next Token : 3, Posbility: 0.0011
+Choose : 1,  Posbility: 0.6497
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1
+---------------------------
+Next Token : ,, Posbility: 0.9967
+Next Token : ,, Posbility: 0.0031
+Next Token : ):, Posbility: 0.0000
+Next Token : +, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : ,,  Posbility: 0.9967
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1,
+---------------------------
+Next Token :  n, Posbility: 0.6294
+Next Token : n, Posbility: 0.3475
+Next Token :  int, Posbility: 0.0029
+Next Token :  (, Posbility: 0.0026
+Next Token :  11, Posbility: 0.0024
+Choose :  n,  Posbility: 0.6294
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n
+---------------------------
+Next Token : +, Posbility: 0.5801
+Next Token :  +, Posbility: 0.3796
+Next Token : ):, Posbility: 0.0349
+Next Token : ,, Posbility: 0.0030
+Next Token : *, Posbility: 0.0008
+Choose : +,  Posbility: 0.5801
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+
+---------------------------
+Next Token : 1, Posbility: 0.9953
+Next Token : 2, Posbility: 0.0031
+Next Token :  1, Posbility: 0.0013
+Next Token : 3, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Choose : 1,  Posbility: 0.9953
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1
+---------------------------
+Next Token : ):, Posbility: 0.9691
+Next Token : ,, Posbility: 0.0275
+Next Token : ), Posbility: 0.0024
+Next Token :  ):, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9691
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+---------------------------
+Next Token : 
+, Posbility: 0.9812
+Next Token :  , Posbility: 0.0056
+Next Token :  #, Posbility: 0.0040
+Next Token :   , Posbility: 0.0027
+Next Token : 
+
+, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9812
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+
+---------------------------
+Next Token :         , Posbility: 0.9827
+Next Token :       , Posbility: 0.0051
+Next Token :        , Posbility: 0.0043
+Next Token :             , Posbility: 0.0031
+Next Token :          , Posbility: 0.0018
+Choose :         ,  Posbility: 0.9827
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        
+---------------------------
+Next Token : sum, Posbility: 0.9394
+Next Token : if, Posbility: 0.0107
+Next Token : num, Posbility: 0.0062
+Next Token : c, Posbility: 0.0057
+Next Token : cube, Posbility: 0.0047
+Choose : sum,  Posbility: 0.9394
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum
+---------------------------
+Next Token :  +=, Posbility: 0.6699
+Next Token :  =, Posbility: 0.2662
+Next Token : +=, Posbility: 0.0564
+Next Token : =, Posbility: 0.0037
+Next Token : +, Posbility: 0.0010
+Choose :  +=,  Posbility: 0.6699
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum +=
+---------------------------
+Next Token :  i, Posbility: 0.9113
+Next Token :  (, Posbility: 0.0329
+Next Token : i, Posbility: 0.0086
+Next Token :  1, Posbility: 0.0075
+Next Token :  pow, Posbility: 0.0053
+Choose :  i,  Posbility: 0.9113
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+---------------------------
+Next Token : 
+, Posbility: 0.5020
+Next Token : **, Posbility: 0.3071
+Next Token :  **, Posbility: 0.0867
+Next Token : *, Posbility: 0.0333
+Next Token : 
+
+, Posbility: 0.0284
+Choose : 
+,  Posbility: 0.5020
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+
+---------------------------
+Next Token :     , Posbility: 0.9438
+Next Token :         , Posbility: 0.0528
+Next Token : 
+, Posbility: 0.0010
+Next Token : #, Posbility: 0.0006
+Next Token :             , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9438
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    
+---------------------------
+Next Token : return, Posbility: 0.6085
+Next Token : average, Posbility: 0.1355
+Next Token : av, Posbility: 0.1142
+Next Token : print, Posbility: 0.0529
+Next Token : sum, Posbility: 0.0184
+Choose : return,  Posbility: 0.6085
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9336
+Next Token :  round, Posbility: 0.0299
+Next Token :  (, Posbility: 0.0157
+Next Token : (, Posbility: 0.0055
+Next Token :  int, Posbility: 0.0046
+Choose :  sum,  Posbility: 0.9336
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum
+---------------------------
+Next Token : /, Posbility: 0.6547
+Next Token :  /, Posbility: 0.2629
+Next Token : 
+, Posbility: 0.0316
+Next Token : /(, Posbility: 0.0214
+Next Token : 
+
+, Posbility: 0.0094
+Choose : /,  Posbility: 0.6547
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/
+---------------------------
+Next Token : n, Posbility: 0.9386
+Next Token : float, Posbility: 0.0126
+Next Token : len, Posbility: 0.0077
+Next Token : i, Posbility: 0.0068
+Next Token :  n, Posbility: 0.0055
+Choose : n,  Posbility: 0.9386
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+---------------------------
+Next Token : 
+, Posbility: 0.8890
+Next Token : 
+
+, Posbility: 0.0823
+Next Token :  , Posbility: 0.0099
+Next Token : *, Posbility: 0.0034
+Next Token : **, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.8890
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+---------------------------
+Next Token : 
+, Posbility: 0.7265
+Next Token : print, Posbility: 0.0957
+Next Token : def, Posbility: 0.0401
+Next Token : #, Posbility: 0.0310
+Next Token :     , Posbility: 0.0263
+Choose : 
+,  Posbility: 0.7265
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9556
+Next Token : 
+
+, Posbility: 0.0206
+Next Token :     , Posbility: 0.0121
+Next Token : <|endoftext|>, Posbility: 0.0073
+Next Token :  , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9556
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5017
+Next Token : def, Posbility: 0.1423
+Next Token : print, Posbility: 0.1183
+Next Token : #, Posbility: 0.1130
+Next Token : 
+, Posbility: 0.0318
+Choose : '',  Posbility: 0.5017
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8531
+Next Token :  Write, Posbility: 0.0248
+Next Token : 
+, Posbility: 0.0111
+Next Token : Find, Posbility: 0.0083
+Next Token : write, Posbility: 0.0057
+Choose : Write,  Posbility: 0.8531
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9872
+Next Token :  your, Posbility: 0.0043
+Next Token :  an, Posbility: 0.0019
+Next Token :  the, Posbility: 0.0014
+Next Token :  python, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9872
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9391
+Next Token :  function, Posbility: 0.0299
+Next Token :  Python, Posbility: 0.0164
+Next Token :  program, Posbility: 0.0047
+Next Token :  script, Posbility: 0.0008
+Choose :  python,  Posbility: 0.9391
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9557
+Next Token :  program, Posbility: 0.0274
+Next Token :  script, Posbility: 0.0030
+Next Token :  fun, Posbility: 0.0023
+Next Token :  code, Posbility: 0.0015
+Choose :  function,  Posbility: 0.9557
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8704
+Next Token :  that, Posbility: 0.0851
+Next Token :  which, Posbility: 0.0132
+Next Token :  for, Posbility: 0.0036
+Next Token : ,, Posbility: 0.0021
+Choose :  to,  Posbility: 0.8704
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.3241
+Next Token :  print, Posbility: 0.1166
+Next Token :  check, Posbility: 0.0568
+Next Token :  calculate, Posbility: 0.0566
+Next Token :  return, Posbility: 0.0412
+Choose :  find,  Posbility: 0.3241
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.8602
+Next Token :  sum, Posbility: 0.0131
+Next Token :  cube, Posbility: 0.0085
+Next Token :  number, Posbility: 0.0077
+Next Token :  a, Posbility: 0.0069
+Choose :  the,  Posbility: 0.8602
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  cube, Posbility: 0.1386
+Next Token :  sum, Posbility: 0.0839
+Next Token :  largest, Posbility: 0.0614
+Next Token :  fact, Posbility: 0.0524
+Next Token :  maximum, Posbility: 0.0482
+Choose :  cube,  Posbility: 0.1386
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube
+---------------------------
+Next Token :  of, Posbility: 0.5324
+Next Token :  root, Posbility: 0.3611
+Next Token :  sum, Posbility: 0.0297
+Next Token :  roots, Posbility: 0.0238
+Next Token :  value, Posbility: 0.0147
+Choose :  of,  Posbility: 0.5324
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of
+---------------------------
+Next Token :  a, Posbility: 0.3343
+Next Token :  the, Posbility: 0.1708
+Next Token :  cubes, Posbility: 0.0717
+Next Token :  first, Posbility: 0.0604
+Next Token :  given, Posbility: 0.0280
+Choose :  a,  Posbility: 0.3343
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of a
+---------------------------
+Next Token :  number, Posbility: 0.4313
+Next Token :  given, Posbility: 0.3619
+Next Token :  natural, Posbility: 0.0462
+Next Token :  cube, Posbility: 0.0278
+Next Token :  specified, Posbility: 0.0139
+Choose :  number,  Posbility: 0.4313
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of a number
+---------------------------
+Next Token : .', Posbility: 0.5472
+Next Token : ., Posbility: 0.1442
+Next Token :  using, Posbility: 0.0787
+Next Token : '', Posbility: 0.0387
+Next Token :  n, Posbility: 0.0266
+Choose : .',  Posbility: 0.5472
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of a number.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of a number.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9121
+Next Token : 
+
+, Posbility: 0.0769
+Next Token :  , Posbility: 0.0038
+Next Token : def, Posbility: 0.0032
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9121
+---------------------------
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of a number.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9378
+Next Token : 
+, Posbility: 0.0416
+Next Token : #, Posbility: 0.0060
+Next Token : import, Posbility: 0.0034
+Next Token : cube, Posbility: 0.0022
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.041575908660889
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the average of cubes of first n natural numbers.'''
+def average(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+    return sum/n
+
+
+'''Write a python function to find the cube of a number.'''
+

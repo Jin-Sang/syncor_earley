@@ -1,0 +1,367 @@
+<<<<<<<<<<<< 194 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1599
+Next Token : ia, Posbility: 0.1057
+Next Token : ix, Posbility: 0.0676
+Next Token : ____, Posbility: 0.0542
+Next Token : iz, Posbility: 0.0520
+syntax error : 
+
+Choose : ia, Posbility: 0.1057
+'''Write a python function to find the minimum of two numbers.'''
+def ia
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia
+---------------------------
+Next Token : _, Posbility: 0.2977
+Next Token : ():, Posbility: 0.1412
+Next Token : (, Posbility: 0.1063
+Next Token : f, Posbility: 0.0572
+Next Token : u, Posbility: 0.0306
+Choose : _, Posbility: 0.2977
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_
+---------------------------
+Next Token : min, Posbility: 0.4489
+Next Token : minimum, Posbility: 0.0746
+Next Token : function, Posbility: 0.0431
+Next Token : func, Posbility: 0.0420
+Next Token : find, Posbility: 0.0285
+Choose : min, Posbility: 0.4489
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min
+---------------------------
+Next Token : (, Posbility: 0.6794
+Next Token : _, Posbility: 0.1359
+Next Token : ():, Posbility: 0.0984
+Next Token : 2, Posbility: 0.0149
+Next Token : (*, Posbility: 0.0100
+Choose : (, Posbility: 0.6794
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(
+---------------------------
+Next Token : a, Posbility: 0.4318
+Next Token : x, Posbility: 0.1553
+Next Token : num, Posbility: 0.1323
+Next Token : n, Posbility: 0.0825
+Next Token : number, Posbility: 0.0277
+Choose : a, Posbility: 0.4318
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a
+---------------------------
+Next Token : ,, Posbility: 0.9593
+Next Token : :, Posbility: 0.0100
+Next Token : ):, Posbility: 0.0084
+Next Token : 1, Posbility: 0.0080
+Next Token : =, Posbility: 0.0053
+Choose : ,, Posbility: 0.9593
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,
+---------------------------
+Next Token : b, Posbility: 0.5267
+Next Token :  b, Posbility: 0.4661
+Next Token :  n, Posbility: 0.0005
+Next Token : i, Posbility: 0.0005
+Next Token :  x, Posbility: 0.0005
+Choose : b, Posbility: 0.5267
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b
+---------------------------
+Next Token : ):, Posbility: 0.9640
+Next Token : ,, Posbility: 0.0274
+Next Token : ), Posbility: 0.0064
+Next Token : =, Posbility: 0.0017
+Next Token :  ):, Posbility: 0.0002
+Choose : ):, Posbility: 0.9640
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+---------------------------
+Next Token : 
+, Posbility: 0.8974
+Next Token : , Posbility: 0.0440
+Next Token :  , Posbility: 0.0242
+Next Token : 
+
+, Posbility: 0.0190
+Next Token :  #, Posbility: 0.0041
+Choose : 
+, Posbility: 0.8974
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+
+---------------------------
+Next Token :     , Posbility: 0.8589
+Next Token : 	, Posbility: 0.0582
+Next Token :   , Posbility: 0.0580
+Next Token :    , Posbility: 0.0127
+Next Token :         , Posbility: 0.0025
+Choose :     , Posbility: 0.8589
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    
+---------------------------
+Next Token : if, Posbility: 0.3542
+Next Token : '', Posbility: 0.2335
+Next Token : return, Posbility: 0.0931
+Next Token : min, Posbility: 0.0704
+Next Token : minimum, Posbility: 0.0380
+Choose : if, Posbility: 0.3542
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if
+---------------------------
+Next Token :  a, Posbility: 0.8432
+Next Token :  (, Posbility: 0.0457
+Next Token : (, Posbility: 0.0450
+Next Token :  b, Posbility: 0.0398
+Next Token :  not, Posbility: 0.0043
+Choose :  a, Posbility: 0.8432
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a
+---------------------------
+Next Token : <, Posbility: 0.3256
+Next Token :  <, Posbility: 0.2127
+Next Token : >, Posbility: 0.2070
+Next Token :  >, Posbility: 0.1150
+Next Token : ==, Posbility: 0.0425
+Choose : <, Posbility: 0.3256
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<
+---------------------------
+Next Token : b, Posbility: 0.9302
+Next Token : =, Posbility: 0.0578
+Next Token :  b, Posbility: 0.0045
+Next Token : a, Posbility: 0.0041
+Next Token : 0, Posbility: 0.0020
+Choose : b, Posbility: 0.9302
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b
+---------------------------
+Next Token : :, Posbility: 0.9759
+Next Token :  :, Posbility: 0.0107
+Next Token :  and, Posbility: 0.0079
+Next Token :  or, Posbility: 0.0034
+Next Token : :#, Posbility: 0.0008
+Choose : :, Posbility: 0.9759
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+---------------------------
+Next Token : 
+, Posbility: 0.9635
+Next Token :  , Posbility: 0.0151
+Next Token :  return, Posbility: 0.0049
+Next Token : return, Posbility: 0.0033
+Next Token :  a, Posbility: 0.0018
+Choose : 
+, Posbility: 0.9635
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+
+---------------------------
+Next Token :         , Posbility: 0.9785
+Next Token :        , Posbility: 0.0080
+Next Token :       , Posbility: 0.0059
+Next Token :             , Posbility: 0.0023
+Next Token :     , Posbility: 0.0019
+Choose :         , Posbility: 0.9785
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        
+---------------------------
+Next Token : return, Posbility: 0.4171
+Next Token : min, Posbility: 0.1715
+Next Token : a, Posbility: 0.1079
+Next Token : print, Posbility: 0.0838
+Next Token : small, Posbility: 0.0450
+Choose : return, Posbility: 0.4171
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return
+---------------------------
+Next Token :  a, Posbility: 0.9364
+Next Token :  b, Posbility: 0.0334
+Next Token : (, Posbility: 0.0095
+Next Token :  (, Posbility: 0.0056
+Next Token :  min, Posbility: 0.0025
+Choose :  a, Posbility: 0.9364
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+---------------------------
+Next Token : 
+, Posbility: 0.9592
+Next Token :  , Posbility: 0.0102
+Next Token : ;, Posbility: 0.0089
+Next Token : ,, Posbility: 0.0061
+Next Token : 
+
+, Posbility: 0.0039
+Choose : 
+, Posbility: 0.9592
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+
+---------------------------
+Next Token :     , Posbility: 0.9926
+Next Token :         , Posbility: 0.0056
+Next Token : 
+, Posbility: 0.0006
+Next Token : #, Posbility: 0.0002
+Next Token : def, Posbility: 0.0001
+Choose :     , Posbility: 0.9926
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    
+---------------------------
+Next Token : else, Posbility: 0.6484
+Next Token : return, Posbility: 0.1546
+Next Token : el, Posbility: 0.1433
+Next Token : if, Posbility: 0.0447
+Next Token : 
+, Posbility: 0.0030
+Choose : else, Posbility: 0.6484
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else
+---------------------------
+Next Token : :, Posbility: 0.9880
+Next Token :  :, Posbility: 0.0116
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose : :, Posbility: 0.9880
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9706
+Next Token :  , Posbility: 0.0184
+Next Token :  return, Posbility: 0.0061
+Next Token : return, Posbility: 0.0011
+Next Token :     , Posbility: 0.0011
+Choose : 
+, Posbility: 0.9706
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9913
+Next Token :        , Posbility: 0.0028
+Next Token :          , Posbility: 0.0022
+Next Token :             , Posbility: 0.0016
+Next Token :       , Posbility: 0.0007
+Choose :         , Posbility: 0.9913
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9890
+Next Token : print, Posbility: 0.0026
+Next Token : if, Posbility: 0.0024
+Next Token : a, Posbility: 0.0014
+Next Token : b, Posbility: 0.0008
+Choose : return, Posbility: 0.9890
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else:
+        return
+---------------------------
+Next Token :  b, Posbility: 0.9964
+Next Token :   , Posbility: 0.0009
+Next Token :  a, Posbility: 0.0008
+Next Token : b, Posbility: 0.0008
+Next Token : (, Posbility: 0.0005
+Choose :  b, Posbility: 0.9964
+---------------------------
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else:
+        return b
+---------------------------
+Next Token : 
+, Posbility: 0.8114
+Next Token : 
+
+, Posbility: 0.1540
+Next Token :  , Posbility: 0.0114
+Next Token : <|endoftext|>, Posbility: 0.0081
+Next Token :     , Posbility: 0.0055
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.289159536361694
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the minimum of two numbers.'''
+def ia_min(a,b):
+    if a<b:
+        return a
+    else:
+        return b
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

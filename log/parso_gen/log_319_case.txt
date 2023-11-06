@@ -1,0 +1,551 @@
+<<<<<<<<<<<< 319 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ix, Posbility: 0.2224
+Next Token : ime, Posbility: 0.1915
+Next Token : xt, Posbility: 0.0741
+Next Token : ia, Posbility: 0.0639
+Next Token : 
+, Posbility: 0.0516
+Choose : ix, Posbility: 0.2224
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ix
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ix
+---------------------------
+Next Token : mod, Posbility: 0.3320
+Next Token : (, Posbility: 0.1488
+Next Token : _, Posbility: 0.0945
+Next Token : or, Posbility: 0.0600
+Next Token : m, Posbility: 0.0470
+Choose : mod, Posbility: 0.3320
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod
+---------------------------
+Next Token : (, Posbility: 0.6872
+Next Token : ulo, Posbility: 0.0584
+Next Token : m, Posbility: 0.0401
+Next Token : _, Posbility: 0.0297
+Next Token : o, Posbility: 0.0219
+Choose : (, Posbility: 0.6872
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(
+---------------------------
+Next Token : a, Posbility: 0.2929
+Next Token : t, Posbility: 0.2356
+Next Token : x, Posbility: 0.1799
+Next Token : i, Posbility: 0.0284
+Next Token : l, Posbility: 0.0254
+Choose : a, Posbility: 0.2929
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a
+---------------------------
+Next Token : ,, Posbility: 0.9535
+Next Token : :, Posbility: 0.0137
+Next Token : 1, Posbility: 0.0111
+Next Token : ):, Posbility: 0.0101
+Next Token : _, Posbility: 0.0033
+Choose : ,, Posbility: 0.9535
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,
+---------------------------
+Next Token : b, Posbility: 0.5044
+Next Token :  b, Posbility: 0.3916
+Next Token :  x, Posbility: 0.0140
+Next Token :  i, Posbility: 0.0103
+Next Token : x, Posbility: 0.0081
+Choose : b, Posbility: 0.5044
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b
+---------------------------
+Next Token : ):, Posbility: 0.9725
+Next Token : ,, Posbility: 0.0243
+Next Token : ), Posbility: 0.0011
+Next Token : =, Posbility: 0.0011
+Next Token : =(, Posbility: 0.0003
+Choose : ):, Posbility: 0.9725
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+---------------------------
+Next Token : 
+, Posbility: 0.8919
+Next Token : , Posbility: 0.0324
+Next Token :  , Posbility: 0.0297
+Next Token : 
+
+, Posbility: 0.0219
+Next Token :  #, Posbility: 0.0084
+Choose : 
+, Posbility: 0.8919
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+
+---------------------------
+Next Token :     , Posbility: 0.8547
+Next Token : 	, Posbility: 0.0660
+Next Token :   , Posbility: 0.0519
+Next Token :    , Posbility: 0.0100
+Next Token :         , Posbility: 0.0047
+Choose :     , Posbility: 0.8547
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    
+---------------------------
+Next Token : '', Posbility: 0.1927
+Next Token : return, Posbility: 0.1578
+Next Token : if, Posbility: 0.0850
+Next Token : mod, Posbility: 0.0699
+Next Token : a, Posbility: 0.0447
+Choose : '', Posbility: 0.1927
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '/, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ', Posbility: 0.9997
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1515
+Next Token : a, Posbility: 0.1422
+Next Token : Write, Posbility: 0.0487
+Next Token : Returns, Posbility: 0.0330
+Next Token : Function, Posbility: 0.0312
+syntax error : 
+
+Choose : a, Posbility: 0.1422
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a
+---------------------------
+Next Token : ,, Posbility: 0.2728
+Next Token :  and, Posbility: 0.1411
+Next Token :  is, Posbility: 0.0997
+Next Token :  =, Posbility: 0.0801
+Next Token : :, Posbility: 0.0735
+Choose : ,, Posbility: 0.2728
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,
+---------------------------
+Next Token : b, Posbility: 0.8418
+Next Token :  b, Posbility: 0.1446
+Next Token :  and, Posbility: 0.0019
+Next Token : a, Posbility: 0.0014
+Next Token :  a, Posbility: 0.0009
+Choose : b, Posbility: 0.8418
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b
+---------------------------
+Next Token :  are, Posbility: 0.2706
+Next Token : :, Posbility: 0.2407
+Next Token :  =, Posbility: 0.0917
+Next Token :  is, Posbility: 0.0765
+Next Token :  :, Posbility: 0.0409
+Choose :  are, Posbility: 0.2706
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are
+---------------------------
+Next Token :  tu, Posbility: 0.5747
+Next Token :  two, Posbility: 0.1210
+Next Token :  tuple, Posbility: 0.0772
+Next Token :  the, Posbility: 0.0462
+Next Token :  a, Posbility: 0.0186
+Choose :  tu, Posbility: 0.5747
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tu
+---------------------------
+Next Token : ples, Posbility: 0.9992
+Next Token : pl, Posbility: 0.0006
+Next Token : pled, Posbility: 0.0001
+Next Token : pe, Posbility: 0.0000
+Next Token : pless, Posbility: 0.0000
+Choose : ples, Posbility: 0.9992
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples
+---------------------------
+Next Token :  of, Posbility: 0.6017
+Next Token : '', Posbility: 0.1106
+Next Token :  with, Posbility: 0.0471
+Next Token : ,, Posbility: 0.0409
+Next Token : ., Posbility: 0.0320
+Choose :  of, Posbility: 0.6017
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of
+---------------------------
+Next Token :  the, Posbility: 0.4327
+Next Token :  length, Posbility: 0.1286
+Next Token :  same, Posbility: 0.1140
+Next Token :  two, Posbility: 0.0902
+Next Token :  integers, Posbility: 0.0263
+Choose :  the, Posbility: 0.4327
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the
+---------------------------
+Next Token :  same, Posbility: 0.9691
+Next Token :  form, Posbility: 0.0152
+Next Token :  length, Posbility: 0.0025
+Next Token :  two, Posbility: 0.0020
+Next Token :  elements, Posbility: 0.0010
+Choose :  same, Posbility: 0.9691
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same
+---------------------------
+Next Token :  length, Posbility: 0.9705
+Next Token :  size, Posbility: 0.0099
+Next Token :  len, Posbility: 0.0070
+Next Token :  element, Posbility: 0.0013
+Next Token :  form, Posbility: 0.0012
+Choose :  length, Posbility: 0.9705
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length
+---------------------------
+Next Token : '', Posbility: 0.2864
+Next Token :  and, Posbility: 0.1700
+Next Token : ., Posbility: 0.1687
+Next Token : .', Posbility: 0.0981
+Next Token : ,, Posbility: 0.0813
+Choose : '', Posbility: 0.2864
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : ';, Posbility: 0.0000
+Next Token : 't, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : ', Posbility: 0.9999
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+---------------------------
+Next Token : 
+, Posbility: 0.9646
+Next Token : 
+
+, Posbility: 0.0258
+Next Token :  , Posbility: 0.0059
+Next Token :     , Posbility: 0.0010
+Next Token :   , Posbility: 0.0008
+Choose : 
+, Posbility: 0.9646
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+
+---------------------------
+Next Token :     , Posbility: 0.9928
+Next Token :         , Posbility: 0.0016
+Next Token :    , Posbility: 0.0011
+Next Token :   , Posbility: 0.0009
+Next Token : 	, Posbility: 0.0007
+Choose :     , Posbility: 0.9928
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    
+---------------------------
+Next Token : return, Posbility: 0.2091
+Next Token : if, Posbility: 0.0792
+Next Token : a, Posbility: 0.0651
+Next Token : mod, Posbility: 0.0616
+Next Token : '', Posbility: 0.0608
+Choose : return, Posbility: 0.2091
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return
+---------------------------
+Next Token :  a, Posbility: 0.3828
+Next Token :  (, Posbility: 0.2223
+Next Token :  tuple, Posbility: 0.0912
+Next Token :  sum, Posbility: 0.0587
+Next Token :  , Posbility: 0.0530
+Choose :  a, Posbility: 0.3828
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a
+---------------------------
+Next Token : [, Posbility: 0.7290
+Next Token : %, Posbility: 0.1684
+Next Token :  %, Posbility: 0.0560
+Next Token :  if, Posbility: 0.0077
+Next Token : *, Posbility: 0.0067
+Choose : [, Posbility: 0.7290
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[
+---------------------------
+Next Token : 0, Posbility: 0.9073
+Next Token : 1, Posbility: 0.0575
+Next Token : -, Posbility: 0.0098
+Next Token : 2, Posbility: 0.0088
+Next Token : :, Posbility: 0.0025
+Choose : 0, Posbility: 0.9073
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0
+---------------------------
+Next Token : ], Posbility: 0.9139
+Next Token : ]+, Posbility: 0.0436
+Next Token : ]-, Posbility: 0.0208
+Next Token : ][, Posbility: 0.0081
+Next Token : ],, Posbility: 0.0071
+Choose : ], Posbility: 0.9139
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]
+---------------------------
+Next Token : %, Posbility: 0.6750
+Next Token :  %, Posbility: 0.2220
+Next Token : *, Posbility: 0.0366
+Next Token :  +, Posbility: 0.0198
+Next Token :  -, Posbility: 0.0074
+Choose : %, Posbility: 0.6750
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%
+---------------------------
+Next Token : b, Posbility: 0.8327
+Next Token : a, Posbility: 0.1296
+Next Token : (, Posbility: 0.0133
+Next Token :  b, Posbility: 0.0078
+Next Token : int, Posbility: 0.0035
+Choose : b, Posbility: 0.8327
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b
+---------------------------
+Next Token : [, Posbility: 0.9845
+Next Token : ,, Posbility: 0.0079
+Next Token : 
+, Posbility: 0.0022
+Next Token : ==, Posbility: 0.0012
+Next Token :  and, Posbility: 0.0009
+Choose : [, Posbility: 0.9845
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[
+---------------------------
+Next Token : 0, Posbility: 0.9377
+Next Token : 1, Posbility: 0.0606
+Next Token : 2, Posbility: 0.0009
+Next Token : -, Posbility: 0.0004
+Next Token : len, Posbility: 0.0001
+Choose : 0, Posbility: 0.9377
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0
+---------------------------
+Next Token : ],, Posbility: 0.5544
+Next Token : ], Posbility: 0.3385
+Next Token : ]+, Posbility: 0.1011
+Next Token : ]=, Posbility: 0.0014
+Next Token : ]-, Posbility: 0.0014
+Choose : ],, Posbility: 0.5544
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],
+---------------------------
+Next Token : a, Posbility: 0.7533
+Next Token :  a, Posbility: 0.2171
+Next Token : b, Posbility: 0.0110
+Next Token :  b, Posbility: 0.0061
+Next Token : (, Posbility: 0.0035
+Choose : a, Posbility: 0.7533
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a
+---------------------------
+Next Token : [, Posbility: 0.9995
+Next Token : %, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Choose : [, Posbility: 0.9995
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[
+---------------------------
+Next Token : 1, Posbility: 0.9933
+Next Token : 0, Posbility: 0.0041
+Next Token : -, Posbility: 0.0021
+Next Token : 2, Posbility: 0.0004
+Next Token : len, Posbility: 0.0001
+Choose : 1, Posbility: 0.9933
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1
+---------------------------
+Next Token : ], Posbility: 0.9821
+Next Token : :], Posbility: 0.0070
+Next Token : ],, Posbility: 0.0048
+Next Token : ]+, Posbility: 0.0023
+Next Token : ]-, Posbility: 0.0016
+Choose : ], Posbility: 0.9821
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]
+---------------------------
+Next Token : %, Posbility: 0.9968
+Next Token :  %, Posbility: 0.0013
+Next Token : *, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0002
+Next Token : //, Posbility: 0.0002
+Choose : %, Posbility: 0.9968
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]%
+---------------------------
+Next Token : b, Posbility: 0.9984
+Next Token :  b, Posbility: 0.0007
+Next Token : (, Posbility: 0.0005
+Next Token : a, Posbility: 0.0001
+Next Token : c, Posbility: 0.0000
+Choose : b, Posbility: 0.9984
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]%b
+---------------------------
+Next Token : [, Posbility: 0.9999
+Next Token :  [, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : [, Posbility: 0.9999
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]%b[
+---------------------------
+Next Token : 1, Posbility: 0.9002
+Next Token : 0, Posbility: 0.0997
+Next Token : 2, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : 1, Posbility: 0.9002
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]%b[1
+---------------------------
+Next Token : ], Posbility: 0.6472
+Next Token : ],, Posbility: 0.3480
+Next Token : ],[, Posbility: 0.0017
+Next Token : ],", Posbility: 0.0009
+Next Token : ]+, Posbility: 0.0006
+Choose : ], Posbility: 0.6472
+---------------------------
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]%b[1]
+---------------------------
+Next Token : 
+, Posbility: 0.7829
+Next Token : 
+
+, Posbility: 0.1446
+Next Token : <|endoftext|>, Posbility: 0.0263
+Next Token : %, Posbility: 0.0161
+Next Token :  , Posbility: 0.0108
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.951035261154175
+
+
+
+----------No Syntax Error--------
+
+'''Write a function which takes two tuples of the same length and performs the element wise modulo.'''
+def ixmod(a,b):
+    '''a,b are tuples of the same length'''
+    return a[0]%b[0],a[1]%b[1]
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,472 @@
+<<<<<<<<<<<< 39 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sphere, Posbility: 0.4098
+Next Token :  surface, Posbility: 0.3880
+Next Token :  area, Posbility: 0.0223
+Next Token :  Sphere, Posbility: 0.0137
+Next Token :  find, Posbility: 0.0133
+Choose :  sphere,  Posbility: 0.4098
+'''Write a function to find the surface area of a sphere.'''
+def sphere
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere
+---------------------------
+Next Token : _, Posbility: 0.6059
+Next Token : Area, Posbility: 0.1542
+Next Token : (, Posbility: 0.1195
+Next Token : area, Posbility: 0.0406
+Next Token : Sur, Posbility: 0.0243
+Choose : _,  Posbility: 0.6059
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_
+---------------------------
+Next Token : area, Posbility: 0.8163
+Next Token : surface, Posbility: 0.1057
+Next Token : volume, Posbility: 0.0192
+Next Token : Area, Posbility: 0.0053
+Next Token : cal, Posbility: 0.0045
+Choose : area,  Posbility: 0.8163
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area
+---------------------------
+Next Token : (, Posbility: 0.8732
+Next Token : ():, Posbility: 0.0753
+Next Token : _, Posbility: 0.0331
+Next Token :  (, Posbility: 0.0145
+Next Token : (), Posbility: 0.0021
+Choose : (,  Posbility: 0.8732
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(
+---------------------------
+Next Token : r, Posbility: 0.7101
+Next Token : radius, Posbility: 0.1364
+Next Token : R, Posbility: 0.0362
+Next Token : rad, Posbility: 0.0217
+Next Token : x, Posbility: 0.0173
+Choose : r,  Posbility: 0.7101
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r
+---------------------------
+Next Token : ):, Posbility: 0.8622
+Next Token : ,, Posbility: 0.0748
+Next Token : :, Posbility: 0.0208
+Next Token : =, Posbility: 0.0142
+Next Token : _, Posbility: 0.0096
+Choose : ):,  Posbility: 0.8622
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+---------------------------
+Next Token : 
+, Posbility: 0.9093
+Next Token : , Posbility: 0.0476
+Next Token : 
+
+, Posbility: 0.0183
+Next Token :  , Posbility: 0.0111
+Next Token :  #, Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9093
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+
+---------------------------
+Next Token :     , Posbility: 0.9102
+Next Token :   , Posbility: 0.0617
+Next Token : 	, Posbility: 0.0183
+Next Token :    , Posbility: 0.0060
+Next Token :         , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9102
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    
+---------------------------
+Next Token : return, Posbility: 0.3166
+Next Token : '', Posbility: 0.2365
+Next Token : area, Posbility: 0.0651
+Next Token : pi, Posbility: 0.0646
+Next Token : #, Posbility: 0.0417
+Choose : return,  Posbility: 0.3166
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return
+---------------------------
+Next Token :  3, Posbility: 0.2842
+Next Token :  4, Posbility: 0.2238
+Next Token :  (, Posbility: 0.2042
+Next Token :  r, Posbility: 0.0673
+Next Token :  2, Posbility: 0.0291
+Choose :  3,  Posbility: 0.2842
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3
+---------------------------
+Next Token : ., Posbility: 0.8875
+Next Token :  *, Posbility: 0.0360
+Next Token : /, Posbility: 0.0334
+Next Token : *, Posbility: 0.0330
+Next Token :  /, Posbility: 0.0067
+Choose : .,  Posbility: 0.8875
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.
+---------------------------
+Next Token : 14, Posbility: 0.9293
+Next Token : 142, Posbility: 0.0549
+Next Token : 146, Posbility: 0.0043
+Next Token : 0, Posbility: 0.0032
+Next Token : 141, Posbility: 0.0013
+Choose : 14,  Posbility: 0.9293
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14
+---------------------------
+Next Token :  *, Posbility: 0.4165
+Next Token : *, Posbility: 0.3493
+Next Token : 159, Posbility: 0.1433
+Next Token : 15, Posbility: 0.0442
+Next Token : 16, Posbility: 0.0312
+Choose :  *,  Posbility: 0.4165
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 *
+---------------------------
+Next Token :  r, Posbility: 0.5635
+Next Token :  (, Posbility: 0.3531
+Next Token :  pow, Posbility: 0.0180
+Next Token :  ((, Posbility: 0.0092
+Next Token : (, Posbility: 0.0089
+Choose :  r,  Posbility: 0.5635
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r
+---------------------------
+Next Token :  **, Posbility: 0.4661
+Next Token :  *, Posbility: 0.3515
+Next Token : **, Posbility: 0.1585
+Next Token : *, Posbility: 0.0168
+Next Token : 2, Posbility: 0.0017
+Choose :  **,  Posbility: 0.4661
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r **
+---------------------------
+Next Token :  2, Posbility: 0.7928
+Next Token :  3, Posbility: 0.1609
+Next Token : 2, Posbility: 0.0356
+Next Token : 3, Posbility: 0.0101
+Next Token :  4, Posbility: 0.0002
+Choose :  2,  Posbility: 0.7928
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+---------------------------
+Next Token : 
+, Posbility: 0.5031
+Next Token : 
+
+, Posbility: 0.4095
+Next Token :  *, Posbility: 0.0578
+Next Token : <|endoftext|>, Posbility: 0.0102
+Next Token :  , Posbility: 0.0082
+Choose : 
+,  Posbility: 0.5031
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+---------------------------
+Next Token : 
+, Posbility: 0.8602
+Next Token : print, Posbility: 0.0279
+Next Token : def, Posbility: 0.0222
+Next Token : #, Posbility: 0.0198
+Next Token :     , Posbility: 0.0147
+Choose : 
+,  Posbility: 0.8602
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9892
+Next Token : 
+
+, Posbility: 0.0039
+Next Token :     , Posbility: 0.0028
+Next Token : <|endoftext|>, Posbility: 0.0026
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9892
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3958
+Next Token : def, Posbility: 0.2095
+Next Token : #, Posbility: 0.1567
+Next Token : print, Posbility: 0.0996
+Next Token : if, Posbility: 0.0371
+Choose : '',  Posbility: 0.3958
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8049
+Next Token :  Write, Posbility: 0.0251
+Next Token : 
+, Posbility: 0.0181
+Next Token : Find, Posbility: 0.0152
+Next Token : Create, Posbility: 0.0065
+Choose : Write,  Posbility: 0.8049
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9874
+Next Token :  your, Posbility: 0.0037
+Next Token :  an, Posbility: 0.0024
+Next Token :  the, Posbility: 0.0023
+Next Token :  function, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9874
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9484
+Next Token :  program, Posbility: 0.0158
+Next Token :  Python, Posbility: 0.0066
+Next Token :  python, Posbility: 0.0051
+Next Token :  script, Posbility: 0.0028
+Choose :  function,  Posbility: 0.9484
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7122
+Next Token :  that, Posbility: 0.2317
+Next Token :  called, Posbility: 0.0124
+Next Token :  which, Posbility: 0.0120
+Next Token :  named, Posbility: 0.0041
+Choose :  to,  Posbility: 0.7122
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2176
+Next Token :  calculate, Posbility: 0.1659
+Next Token :  compute, Posbility: 0.1226
+Next Token :  print, Posbility: 0.0876
+Next Token :  return, Posbility: 0.0545
+Choose :  find,  Posbility: 0.2176
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.8986
+Next Token :  volume, Posbility: 0.0298
+Next Token :  area, Posbility: 0.0204
+Next Token :  surface, Posbility: 0.0047
+Next Token :  a, Posbility: 0.0045
+Choose :  the,  Posbility: 0.8986
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  volume, Posbility: 0.4977
+Next Token :  surface, Posbility: 0.2506
+Next Token :  circumference, Posbility: 0.0575
+Next Token :  perimeter, Posbility: 0.0514
+Next Token :  area, Posbility: 0.0264
+Choose :  volume,  Posbility: 0.4977
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume
+---------------------------
+Next Token :  of, Posbility: 0.9836
+Next Token : .', Posbility: 0.0064
+Next Token : ., Posbility: 0.0018
+Next Token : ,, Posbility: 0.0009
+Next Token :  and, Posbility: 0.0006
+Choose :  of,  Posbility: 0.9836
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of
+---------------------------
+Next Token :  a, Posbility: 0.9906
+Next Token :  an, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0022
+Next Token :  sphere, Posbility: 0.0013
+Next Token :  cylinder, Posbility: 0.0004
+Choose :  a,  Posbility: 0.9906
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of a
+---------------------------
+Next Token :  sphere, Posbility: 0.8566
+Next Token :  cylinder, Posbility: 0.0870
+Next Token :  cube, Posbility: 0.0356
+Next Token :  spherical, Posbility: 0.0040
+Next Token :  cub, Posbility: 0.0036
+Choose :  sphere,  Posbility: 0.8566
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of a sphere
+---------------------------
+Next Token : .', Posbility: 0.8506
+Next Token : ., Posbility: 0.0986
+Next Token : '', Posbility: 0.0208
+Next Token :  given, Posbility: 0.0058
+Next Token :  with, Posbility: 0.0032
+Choose : .',  Posbility: 0.8506
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of a sphere.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of a sphere.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9188
+Next Token : 
+
+, Posbility: 0.0798
+Next Token :  , Posbility: 0.0005
+Next Token :   , Posbility: 0.0003
+Next Token : def, Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9188
+---------------------------
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of a sphere.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9562
+Next Token : 
+, Posbility: 0.0300
+Next Token : #, Posbility: 0.0049
+Next Token : import, Posbility: 0.0036
+Next Token : from, Posbility: 0.0015
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.3458898067474365
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the surface area of a sphere.'''
+def sphere_area(r):
+    return 3.14 * r ** 2
+
+
+'''Write a function to find the volume of a sphere.'''
+

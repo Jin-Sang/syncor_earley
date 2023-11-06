@@ -1,0 +1,675 @@
+<<<<<<<<<<<< 170 problem >>>>>>>>>>>
+
+
+
+
+Next Token : iz, Posbility: 0.1240
+Next Token : 
+, Posbility: 0.1154
+Next Token : ive, Posbility: 0.0732
+Next Token : ix, Posbility: 0.0729
+Next Token : idd, Posbility: 0.0699
+Choose : iz,  Posbility: 0.1240
+'''Write a function to find the depth of a dictionary.'''
+def iz
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def iz
+---------------------------
+Next Token : ip, Posbility: 0.1197
+Next Token : _, Posbility: 0.1077
+Next Token : q, Posbility: 0.0698
+Next Token : m, Posbility: 0.0478
+Next Token : of, Posbility: 0.0448
+Choose : ip,  Posbility: 0.1197
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip
+---------------------------
+Next Token : (, Posbility: 0.5926
+Next Token : _, Posbility: 0.2541
+Next Token : (*, Posbility: 0.0747
+Next Token : 2, Posbility: 0.0100
+Next Token : ():, Posbility: 0.0066
+Choose : (,  Posbility: 0.5926
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(
+---------------------------
+Next Token : iter, Posbility: 0.1468
+Next Token : x, Posbility: 0.1070
+Next Token : a, Posbility: 0.0947
+Next Token : d, Posbility: 0.0772
+Next Token : **, Posbility: 0.0482
+Choose : iter,  Posbility: 0.1468
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iter
+---------------------------
+Next Token : able, Posbility: 0.8977
+Next Token : ):, Posbility: 0.0351
+Next Token : ables, Posbility: 0.0206
+Next Token : 1, Posbility: 0.0141
+Next Token : ,, Posbility: 0.0133
+Choose : able,  Posbility: 0.8977
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable
+---------------------------
+Next Token : ):, Posbility: 0.5892
+Next Token : ,, Posbility: 0.3500
+Next Token : =(, Posbility: 0.0148
+Next Token : _, Posbility: 0.0135
+Next Token : :, Posbility: 0.0069
+Choose : ):,  Posbility: 0.5892
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+---------------------------
+Next Token : 
+, Posbility: 0.9060
+Next Token :  , Posbility: 0.0406
+Next Token :  return, Posbility: 0.0208
+Next Token : , Posbility: 0.0086
+Next Token : 
+
+, Posbility: 0.0072
+Choose : 
+,  Posbility: 0.9060
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+
+---------------------------
+Next Token :     , Posbility: 0.9198
+Next Token :   , Posbility: 0.0472
+Next Token : 	, Posbility: 0.0151
+Next Token :    , Posbility: 0.0077
+Next Token :         , Posbility: 0.0040
+Choose :     ,  Posbility: 0.9198
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    
+---------------------------
+Next Token : '', Posbility: 0.2296
+Next Token : """, Posbility: 0.1309
+Next Token : return, Posbility: 0.1135
+Next Token : for, Posbility: 0.1052
+Next Token : ', Posbility: 0.0875
+Choose : '',  Posbility: 0.2296
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9991
+Next Token : ':, Posbility: 0.0002
+Next Token : '", Posbility: 0.0001
+Next Token : '-, Posbility: 0.0001
+Next Token : ';, Posbility: 0.0001
+Choose : ',  Posbility: 0.9991
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.0819
+Next Token : Y, Posbility: 0.0734
+Next Token : 
+, Posbility: 0.0546
+Next Token : Returns, Posbility: 0.0523
+Next Token : A, Posbility: 0.0469
+Choose : Return,  Posbility: 0.0819
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return
+---------------------------
+Next Token :  an, Posbility: 0.7453
+Next Token :  a, Posbility: 0.1234
+Next Token :  the, Posbility: 0.0455
+Next Token :  (, Posbility: 0.0185
+Next Token :  depth, Posbility: 0.0145
+Choose :  an,  Posbility: 0.7453
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an
+---------------------------
+Next Token :  iterator, Posbility: 0.9504
+Next Token :  , Posbility: 0.0128
+Next Token :  iter, Posbility: 0.0113
+Next Token :  object, Posbility: 0.0056
+Next Token :  inter, Posbility: 0.0048
+Choose :  iterator,  Posbility: 0.9504
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator
+---------------------------
+Next Token :  that, Posbility: 0.3464
+Next Token :  over, Posbility: 0.2601
+Next Token :  yielding, Posbility: 0.0846
+Next Token :  of, Posbility: 0.0717
+Next Token : .', Posbility: 0.0254
+Choose :  that,  Posbility: 0.3464
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that
+---------------------------
+Next Token :  yields, Posbility: 0.3236
+Next Token :  returns, Posbility: 0.1904
+Next Token :  enumer, Posbility: 0.0630
+Next Token : 's, Posbility: 0.0495
+Next Token :  comp, Posbility: 0.0326
+Choose :  yields,  Posbility: 0.3236
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields
+---------------------------
+Next Token :  the, Posbility: 0.2820
+Next Token :  pairs, Posbility: 0.1247
+Next Token :  a, Posbility: 0.0995
+Next Token :  (, Posbility: 0.0909
+Next Token :  tu, Posbility: 0.0763
+Choose :  the,  Posbility: 0.2820
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the
+---------------------------
+Next Token :  pairs, Posbility: 0.3391
+Next Token :  items, Posbility: 0.1952
+Next Token :  keys, Posbility: 0.0804
+Next Token :  depth, Posbility: 0.0634
+Next Token :  values, Posbility: 0.0399
+Choose :  pairs,  Posbility: 0.3391
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs
+---------------------------
+Next Token :  of, Posbility: 0.8659
+Next Token :  (, Posbility: 0.0649
+Next Token :  [, Posbility: 0.0146
+Next Token : 
+, Posbility: 0.0074
+Next Token :  in, Posbility: 0.0052
+Choose :  of,  Posbility: 0.8659
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of
+---------------------------
+Next Token :  (, Posbility: 0.6349
+Next Token :  keys, Posbility: 0.1546
+Next Token :  items, Posbility: 0.0529
+Next Token :  key, Posbility: 0.0514
+Next Token :  the, Posbility: 0.0176
+Choose :  (,  Posbility: 0.6349
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (
+---------------------------
+Next Token : key, Posbility: 0.8839
+Next Token : value, Posbility: 0.0417
+Next Token : k, Posbility: 0.0282
+Next Token : item, Posbility: 0.0091
+Next Token : s, Posbility: 0.0065
+Choose : key,  Posbility: 0.8839
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key
+---------------------------
+Next Token : ,, Posbility: 0.9934
+Next Token : :, Posbility: 0.0032
+Next Token : -, Posbility: 0.0005
+Next Token : [, Posbility: 0.0004
+Next Token :  value, Posbility: 0.0003
+Choose : ,,  Posbility: 0.9934
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key,
+---------------------------
+Next Token :  value, Posbility: 0.8590
+Next Token : value, Posbility: 0.1096
+Next Token :  item, Posbility: 0.0058
+Next Token :  val, Posbility: 0.0042
+Next Token : val, Posbility: 0.0033
+Choose :  value,  Posbility: 0.8590
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value
+---------------------------
+Next Token : ), Posbility: 0.9592
+Next Token : )., Posbility: 0.0233
+Next Token : ),, Posbility: 0.0101
+Next Token : );, Posbility: 0.0022
+Next Token : ,, Posbility: 0.0011
+Choose : ),  Posbility: 0.9592
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value)
+---------------------------
+Next Token :  for, Posbility: 0.4949
+Next Token :  in, Posbility: 0.1717
+Next Token : 
+, Posbility: 0.0587
+Next Token :  from, Posbility: 0.0518
+Next Token :  given, Posbility: 0.0374
+Choose :  for,  Posbility: 0.4949
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for
+---------------------------
+Next Token :  each, Posbility: 0.4494
+Next Token :  every, Posbility: 0.1448
+Next Token :  all, Posbility: 0.1126
+Next Token : 
+, Posbility: 0.1049
+Next Token :  the, Posbility: 0.0389
+Choose :  each,  Posbility: 0.4494
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+---------------------------
+Next Token : 
+, Posbility: 0.3539
+Next Token :  item, Posbility: 0.2747
+Next Token :  element, Posbility: 0.1334
+Next Token :  , Posbility: 0.1120
+Next Token :  entry, Posbility: 0.0142
+Choose : 
+,  Posbility: 0.3539
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+
+---------------------------
+Next Token :     , Posbility: 0.8135
+Next Token :        , Posbility: 0.1498
+Next Token :         , Posbility: 0.0176
+Next Token :      , Posbility: 0.0023
+Next Token : item, Posbility: 0.0017
+Choose :     ,  Posbility: 0.8135
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    
+---------------------------
+Next Token : element, Posbility: 0.3582
+Next Token : item, Posbility: 0.2719
+Next Token : iter, Posbility: 0.0976
+Next Token : entry, Posbility: 0.0879
+Next Token : input, Posbility: 0.0301
+Choose : element,  Posbility: 0.3582
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element
+---------------------------
+Next Token :  in, Posbility: 0.9694
+Next Token :  of, Posbility: 0.0158
+Next Token :  from, Posbility: 0.0060
+Next Token :  found, Posbility: 0.0019
+Next Token :  given, Posbility: 0.0015
+Choose :  in,  Posbility: 0.9694
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in
+---------------------------
+Next Token :  the, Posbility: 0.6415
+Next Token :  *, Posbility: 0.1689
+Next Token :  iter, Posbility: 0.0578
+Next Token :  an, Posbility: 0.0221
+Next Token :  `, Posbility: 0.0208
+Choose :  the,  Posbility: 0.6415
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the
+---------------------------
+Next Token :  input, Posbility: 0.3908
+Next Token :  iter, Posbility: 0.3560
+Next Token :  given, Posbility: 0.0626
+Next Token :  argument, Posbility: 0.0370
+Next Token :  sequence, Posbility: 0.0341
+Choose :  input,  Posbility: 0.3908
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input
+---------------------------
+Next Token :  iter, Posbility: 0.8994
+Next Token :  dictionary, Posbility: 0.0355
+Next Token :  list, Posbility: 0.0121
+Next Token :  sequence, Posbility: 0.0108
+Next Token : ., Posbility: 0.0063
+Choose :  iter,  Posbility: 0.8994
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iter
+---------------------------
+Next Token : able, Posbility: 0.9979
+Next Token : atable, Posbility: 0.0004
+Next Token : ables, Posbility: 0.0002
+Next Token : ble, Posbility: 0.0002
+Next Token : .', Posbility: 0.0001
+Choose : able,  Posbility: 0.9979
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable
+---------------------------
+Next Token : .', Posbility: 0.5679
+Next Token : ., Posbility: 0.3986
+Next Token : '', Posbility: 0.0168
+Next Token : ,, Posbility: 0.0039
+Next Token : ;, Posbility: 0.0021
+Choose : .',  Posbility: 0.5679
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token :  '', Posbility: 0.0000
+Next Token : "", Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9522
+Next Token : 
+
+, Posbility: 0.0415
+Next Token :  , Posbility: 0.0035
+Next Token :   , Posbility: 0.0008
+Next Token :     , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9522
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9927
+Next Token :    , Posbility: 0.0011
+Next Token : def, Posbility: 0.0010
+Next Token :         , Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0008
+Choose :     ,  Posbility: 0.9927
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.4267
+Next Token : return, Posbility: 0.1853
+Next Token : #, Posbility: 0.0728
+Next Token : it, Posbility: 0.0277
+Next Token : if, Posbility: 0.0250
+Choose : for,  Posbility: 0.4267
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for
+---------------------------
+Next Token :  k, Posbility: 0.3086
+Next Token :  pair, Posbility: 0.1946
+Next Token :  key, Posbility: 0.0912
+Next Token :  element, Posbility: 0.0814
+Next Token :  ele, Posbility: 0.0715
+Choose :  k,  Posbility: 0.3086
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k
+---------------------------
+Next Token : ,, Posbility: 0.9689
+Next Token : v, Posbility: 0.0208
+Next Token :  in, Posbility: 0.0062
+Next Token : _, Posbility: 0.0015
+Next Token : 1, Posbility: 0.0008
+Choose : ,,  Posbility: 0.9689
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k,
+---------------------------
+Next Token :  v, Posbility: 0.9286
+Next Token : v, Posbility: 0.0648
+Next Token :  vs, Posbility: 0.0009
+Next Token :  _, Posbility: 0.0007
+Next Token :  item, Posbility: 0.0005
+Choose :  v,  Posbility: 0.9286
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v
+---------------------------
+Next Token :  in, Posbility: 0.9990
+Next Token :   , Posbility: 0.0004
+Next Token : ,, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in
+---------------------------
+Next Token :  iter, Posbility: 0.3986
+Next Token :  , Posbility: 0.3980
+Next Token :  it, Posbility: 0.0586
+Next Token :  enumer, Posbility: 0.0361
+Next Token :  zip, Posbility: 0.0157
+Choose :  iter,  Posbility: 0.3986
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iter
+---------------------------
+Next Token : able, Posbility: 0.8553
+Next Token : (, Posbility: 0.1257
+Next Token : items, Posbility: 0.0058
+Next Token : ((, Posbility: 0.0041
+Next Token : _, Posbility: 0.0024
+Choose : able,  Posbility: 0.8553
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable
+---------------------------
+Next Token : :, Posbility: 0.9896
+Next Token :  :, Posbility: 0.0034
+Next Token : ., Posbility: 0.0034
+Next Token :  if, Posbility: 0.0015
+Next Token : :(, Posbility: 0.0004
+Choose : :,  Posbility: 0.9896
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+---------------------------
+Next Token : 
+, Posbility: 0.9012
+Next Token :  yield, Posbility: 0.0557
+Next Token :  , Posbility: 0.0181
+Next Token :   , Posbility: 0.0053
+Next Token :  #, Posbility: 0.0041
+Choose : 
+,  Posbility: 0.9012
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+
+---------------------------
+Next Token :         , Posbility: 0.9871
+Next Token :        , Posbility: 0.0049
+Next Token :       , Posbility: 0.0026
+Next Token :             , Posbility: 0.0014
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9871
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        
+---------------------------
+Next Token : y, Posbility: 0.9737
+Next Token : for, Posbility: 0.0085
+Next Token : if, Posbility: 0.0062
+Next Token : #, Posbility: 0.0036
+Next Token : k, Posbility: 0.0012
+Choose : y,  Posbility: 0.9737
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        y
+---------------------------
+Next Token : ield, Posbility: 1.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : ielding, Posbility: 0.0000
+Next Token : acc, Posbility: 0.0000
+Next Token : aml, Posbility: 0.0000
+Choose : ield,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        yield
+---------------------------
+Next Token :  k, Posbility: 0.5332
+Next Token :  (, Posbility: 0.4441
+Next Token : (, Posbility: 0.0119
+Next Token :  ((, Posbility: 0.0046
+Next Token :  v, Posbility: 0.0024
+Choose :  k,  Posbility: 0.5332
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        yield k
+---------------------------
+Next Token : ,, Posbility: 0.9968
+Next Token : ,, Posbility: 0.0014
+Next Token : ., Posbility: 0.0008
+Next Token :  +, Posbility: 0.0002
+Next Token : [, Posbility: 0.0002
+Choose : ,,  Posbility: 0.9968
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        yield k,
+---------------------------
+Next Token :  v, Posbility: 0.8574
+Next Token : v, Posbility: 0.1398
+Next Token :  (, Posbility: 0.0016
+Next Token :  k, Posbility: 0.0004
+Next Token : (, Posbility: 0.0001
+Choose :  v,  Posbility: 0.8574
+---------------------------
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        yield k, v
+---------------------------
+Next Token : 
+, Posbility: 0.7449
+Next Token : 
+
+, Posbility: 0.2162
+Next Token : <|endoftext|>, Posbility: 0.0146
+Next Token :  , Posbility: 0.0114
+Next Token :  #, Posbility: 0.0023
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.820680379867554
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the depth of a dictionary.'''
+def izip(iterable):
+    '''Return an iterator that yields the pairs of (key, value) for each
+    element in the input iterable.'''
+    for k, v in iterable:
+        yield k, v
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,3537 @@
+<<<<<<<<<<<< 368 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sector, Posbility: 0.5449
+Next Token :  area, Posbility: 0.1332
+Next Token :  find, Posbility: 0.0684
+Next Token :  Sector, Posbility: 0.0634
+Next Token :  calculate, Posbility: 0.0154
+Choose :  sector,  Posbility: 0.5449
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector
+---------------------------
+Next Token : _, Posbility: 0.5049
+Next Token : (, Posbility: 0.2214
+Next Token : Area, Posbility: 0.1947
+Next Token : ize, Posbility: 0.0132
+Next Token : area, Posbility: 0.0102
+Choose : _,  Posbility: 0.5049
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_
+---------------------------
+Next Token : area, Posbility: 0.8546
+Next Token : angle, Posbility: 0.0139
+Next Token : cal, Posbility: 0.0128
+Next Token : are, Posbility: 0.0105
+Next Token : sector, Posbility: 0.0101
+Choose : area,  Posbility: 0.8546
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area
+---------------------------
+Next Token : (, Posbility: 0.9073
+Next Token : _, Posbility: 0.0753
+Next Token :  (, Posbility: 0.0111
+Next Token : ():, Posbility: 0.0032
+Next Token : (*, Posbility: 0.0010
+Choose : (,  Posbility: 0.9073
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(
+---------------------------
+Next Token : r, Posbility: 0.4249
+Next Token : radius, Posbility: 0.1926
+Next Token : sector, Posbility: 0.1672
+Next Token : rad, Posbility: 0.0562
+Next Token : angle, Posbility: 0.0236
+Choose : r,  Posbility: 0.4249
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r
+---------------------------
+Next Token : ,, Posbility: 0.9108
+Next Token : :, Posbility: 0.0364
+Next Token : ):, Posbility: 0.0279
+Next Token : _, Posbility: 0.0100
+Next Token : 1, Posbility: 0.0051
+Choose : ,,  Posbility: 0.9108
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r,
+---------------------------
+Next Token :  angle, Posbility: 0.4232
+Next Token : a, Posbility: 0.1448
+Next Token : angle, Posbility: 0.1322
+Next Token :  a, Posbility: 0.0906
+Next Token :  the, Posbility: 0.0365
+Choose :  angle,  Posbility: 0.4232
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle
+---------------------------
+Next Token : ):, Posbility: 0.9630
+Next Token : ,, Posbility: 0.0172
+Next Token : =, Posbility: 0.0073
+Next Token : _, Posbility: 0.0058
+Next Token : ), Posbility: 0.0035
+Choose : ):,  Posbility: 0.9630
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+---------------------------
+Next Token : 
+, Posbility: 0.9242
+Next Token : 
+
+, Posbility: 0.0376
+Next Token : , Posbility: 0.0142
+Next Token :  , Posbility: 0.0114
+Next Token :  #, Posbility: 0.0049
+Choose : 
+,  Posbility: 0.9242
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+
+---------------------------
+Next Token :     , Posbility: 0.9411
+Next Token : 	, Posbility: 0.0265
+Next Token :   , Posbility: 0.0244
+Next Token :    , Posbility: 0.0035
+Next Token :         , Posbility: 0.0016
+Choose :     ,  Posbility: 0.9411
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    
+---------------------------
+Next Token : if, Posbility: 0.6237
+Next Token : #, Posbility: 0.0665
+Next Token : '', Posbility: 0.0601
+Next Token : area, Posbility: 0.0307
+Next Token : angle, Posbility: 0.0272
+Choose : if,  Posbility: 0.6237
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if
+---------------------------
+Next Token :  angle, Posbility: 0.8043
+Next Token :  (, Posbility: 0.0689
+Next Token : (, Posbility: 0.0332
+Next Token :  r, Posbility: 0.0221
+Next Token :  0, Posbility: 0.0139
+Choose :  angle,  Posbility: 0.8043
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle
+---------------------------
+Next Token :  >, Posbility: 0.4199
+Next Token :  <, Posbility: 0.1992
+Next Token :  >=, Posbility: 0.1645
+Next Token :  <=, Posbility: 0.0676
+Next Token :  ==, Posbility: 0.0479
+Choose :  >,  Posbility: 0.4199
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle >
+---------------------------
+Next Token :  360, Posbility: 0.5933
+Next Token :  180, Posbility: 0.1960
+Next Token :  0, Posbility: 0.0616
+Next Token :  90, Posbility: 0.0314
+Next Token :  (, Posbility: 0.0257
+Choose :  360,  Posbility: 0.5933
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360
+---------------------------
+Next Token : :, Posbility: 0.7654
+Next Token :  or, Posbility: 0.1816
+Next Token : ., Posbility: 0.0180
+Next Token :  :, Posbility: 0.0110
+Next Token :  and, Posbility: 0.0032
+Choose : :,  Posbility: 0.7654
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+---------------------------
+Next Token : 
+, Posbility: 0.9523
+Next Token :  return, Posbility: 0.0182
+Next Token :  #, Posbility: 0.0085
+Next Token :  , Posbility: 0.0066
+Next Token :  angle, Posbility: 0.0047
+Choose : 
+,  Posbility: 0.9523
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+
+---------------------------
+Next Token :         , Posbility: 0.9828
+Next Token :             , Posbility: 0.0053
+Next Token :       , Posbility: 0.0039
+Next Token :        , Posbility: 0.0038
+Next Token :          , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9828
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        
+---------------------------
+Next Token : return, Posbility: 0.6354
+Next Token : angle, Posbility: 0.1869
+Next Token : print, Posbility: 0.1209
+Next Token : pass, Posbility: 0.0088
+Next Token : if, Posbility: 0.0070
+Choose : return,  Posbility: 0.6354
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return
+---------------------------
+Next Token :  None, Posbility: 0.8364
+Next Token : 
+, Posbility: 0.0611
+Next Token :  0, Posbility: 0.0265
+Next Token :  ', Posbility: 0.0158
+Next Token :  ", Posbility: 0.0134
+Choose :  None,  Posbility: 0.8364
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+---------------------------
+Next Token : 
+, Posbility: 0.9154
+Next Token : 
+
+, Posbility: 0.0664
+Next Token :  , Posbility: 0.0050
+Next Token :  #, Posbility: 0.0040
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9154
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+
+---------------------------
+Next Token :     , Posbility: 0.9926
+Next Token :         , Posbility: 0.0043
+Next Token : 
+, Posbility: 0.0013
+Next Token : #, Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9926
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    
+---------------------------
+Next Token : el, Posbility: 0.3029
+Next Token : if, Posbility: 0.2254
+Next Token : else, Posbility: 0.2253
+Next Token : return, Posbility: 0.0654
+Next Token : 
+, Posbility: 0.0234
+Choose : el,  Posbility: 0.3029
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    el
+---------------------------
+Next Token : if, Posbility: 0.9999
+Next Token : _, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : apsed, Posbility: 0.0000
+Choose : if,  Posbility: 0.9999
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif
+---------------------------
+Next Token :  angle, Posbility: 0.8113
+Next Token :  r, Posbility: 0.0820
+Next Token :  (, Posbility: 0.0330
+Next Token :  0, Posbility: 0.0174
+Next Token :  360, Posbility: 0.0072
+Choose :  angle,  Posbility: 0.8113
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle
+---------------------------
+Next Token :  ==, Posbility: 0.2781
+Next Token :  <, Posbility: 0.2171
+Next Token :  >, Posbility: 0.1910
+Next Token :  <=, Posbility: 0.1122
+Next Token :  >=, Posbility: 0.1112
+Choose :  ==,  Posbility: 0.2781
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle ==
+---------------------------
+Next Token :  0, Posbility: 0.4661
+Next Token :  360, Posbility: 0.3274
+Next Token :  90, Posbility: 0.1102
+Next Token :  180, Posbility: 0.0332
+Next Token :  45, Posbility: 0.0094
+Choose :  0,  Posbility: 0.4661
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0
+---------------------------
+Next Token : :, Posbility: 0.8277
+Next Token :  or, Posbility: 0.1329
+Next Token : ., Posbility: 0.0178
+Next Token :  and, Posbility: 0.0149
+Next Token :  :, Posbility: 0.0032
+Choose : :,  Posbility: 0.8277
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9804
+Next Token :  #, Posbility: 0.0079
+Next Token :  , Posbility: 0.0033
+Next Token :  return, Posbility: 0.0032
+Next Token :   , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9804
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9947
+Next Token :             , Posbility: 0.0021
+Next Token :          , Posbility: 0.0012
+Next Token :        , Posbility: 0.0008
+Next Token :     , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9947
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.8996
+Next Token : if, Posbility: 0.0263
+Next Token : print, Posbility: 0.0178
+Next Token : pass, Posbility: 0.0111
+Next Token : area, Posbility: 0.0081
+Choose : return,  Posbility: 0.8996
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return
+---------------------------
+Next Token :  r, Posbility: 0.4871
+Next Token :  0, Posbility: 0.2171
+Next Token :  None, Posbility: 0.1112
+Next Token :  (, Posbility: 0.0519
+Next Token :  round, Posbility: 0.0179
+Choose :  r,  Posbility: 0.4871
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r
+---------------------------
+Next Token :  *, Posbility: 0.3967
+Next Token : *, Posbility: 0.2329
+Next Token : 
+, Posbility: 0.1551
+Next Token : **, Posbility: 0.1318
+Next Token :  **, Posbility: 0.0635
+Choose :  *,  Posbility: 0.3967
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r *
+---------------------------
+Next Token :  r, Posbility: 0.4910
+Next Token :  (, Posbility: 0.1159
+Next Token :  2, Posbility: 0.1044
+Next Token :  math, Posbility: 0.0930
+Next Token :  0, Posbility: 0.0750
+Choose :  r,  Posbility: 0.4910
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+---------------------------
+Next Token : 
+, Posbility: 0.7860
+Next Token :  *, Posbility: 0.1527
+Next Token : 
+
+, Posbility: 0.0337
+Next Token :  /, Posbility: 0.0062
+Next Token :  , Posbility: 0.0043
+Choose : 
+,  Posbility: 0.7860
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+
+---------------------------
+Next Token :     , Posbility: 0.9963
+Next Token :         , Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0011
+Next Token : #, Posbility: 0.0002
+Next Token : def, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9963
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    
+---------------------------
+Next Token : el, Posbility: 0.5885
+Next Token : else, Posbility: 0.3716
+Next Token : return, Posbility: 0.0065
+Next Token : 
+, Posbility: 0.0050
+Next Token : if, Posbility: 0.0038
+Choose : el,  Posbility: 0.5885
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : ve, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif
+---------------------------
+Next Token :  angle, Posbility: 0.8626
+Next Token :  r, Posbility: 0.0385
+Next Token :  0, Posbility: 0.0271
+Next Token :  (, Posbility: 0.0263
+Next Token :  abs, Posbility: 0.0071
+Choose :  angle,  Posbility: 0.8626
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle
+---------------------------
+Next Token :  ==, Posbility: 0.4487
+Next Token :  <, Posbility: 0.1701
+Next Token :  >, Posbility: 0.1425
+Next Token :  %, Posbility: 0.0789
+Next Token :  >=, Posbility: 0.0699
+Choose :  ==,  Posbility: 0.4487
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle ==
+---------------------------
+Next Token :  90, Posbility: 0.5379
+Next Token :  180, Posbility: 0.2006
+Next Token :  360, Posbility: 0.0884
+Next Token :  45, Posbility: 0.0439
+Next Token :  -, Posbility: 0.0160
+Choose :  90,  Posbility: 0.5379
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90
+---------------------------
+Next Token : :, Posbility: 0.8611
+Next Token :  or, Posbility: 0.1118
+Next Token :  and, Posbility: 0.0168
+Next Token :  :, Posbility: 0.0026
+Next Token : ., Posbility: 0.0019
+Choose : :,  Posbility: 0.8611
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+---------------------------
+Next Token : 
+, Posbility: 0.9842
+Next Token :  #, Posbility: 0.0078
+Next Token :   , Posbility: 0.0022
+Next Token :  , Posbility: 0.0022
+Next Token :    , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9842
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+
+---------------------------
+Next Token :         , Posbility: 0.9976
+Next Token :             , Posbility: 0.0008
+Next Token :          , Posbility: 0.0006
+Next Token :     , Posbility: 0.0004
+Next Token :        , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9976
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        
+---------------------------
+Next Token : return, Posbility: 0.8781
+Next Token : if, Posbility: 0.0151
+Next Token : r, Posbility: 0.0136
+Next Token : area, Posbility: 0.0113
+Next Token : #, Posbility: 0.0083
+Choose : return,  Posbility: 0.8781
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return
+---------------------------
+Next Token :  r, Posbility: 0.6056
+Next Token :  (, Posbility: 0.1578
+Next Token :  2, Posbility: 0.1031
+Next Token :  0, Posbility: 0.0159
+Next Token :  math, Posbility: 0.0133
+Choose :  r,  Posbility: 0.6056
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r
+---------------------------
+Next Token :  *, Posbility: 0.8259
+Next Token :  **, Posbility: 0.0918
+Next Token : **, Posbility: 0.0359
+Next Token : 
+, Posbility: 0.0156
+Next Token : *, Posbility: 0.0114
+Choose :  *,  Posbility: 0.8259
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r *
+---------------------------
+Next Token :  (, Posbility: 0.3863
+Next Token :  r, Posbility: 0.3018
+Next Token :  math, Posbility: 0.0787
+Next Token :  2, Posbility: 0.0745
+Next Token :  ((, Posbility: 0.0224
+Choose :  (,  Posbility: 0.3863
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (
+---------------------------
+Next Token : r, Posbility: 0.4314
+Next Token : 1, Posbility: 0.2734
+Next Token : 2, Posbility: 0.1215
+Next Token : math, Posbility: 0.0427
+Next Token : 3, Posbility: 0.0282
+Choose : r,  Posbility: 0.4314
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r
+---------------------------
+Next Token :  *, Posbility: 0.3513
+Next Token :  +, Posbility: 0.2309
+Next Token :  -, Posbility: 0.1487
+Next Token :  /, Posbility: 0.0557
+Next Token :  **, Posbility: 0.0529
+Choose :  *,  Posbility: 0.3513
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r *
+---------------------------
+Next Token :  r, Posbility: 0.3362
+Next Token :  (, Posbility: 0.2872
+Next Token :  math, Posbility: 0.1035
+Next Token :  1, Posbility: 0.0634
+Next Token :  2, Posbility: 0.0393
+Choose :  r,  Posbility: 0.3362
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r
+---------------------------
+Next Token :  *, Posbility: 0.3339
+Next Token :  -, Posbility: 0.2342
+Next Token : ), Posbility: 0.2216
+Next Token :  +, Posbility: 0.1536
+Next Token :  /, Posbility: 0.0229
+Choose :  *,  Posbility: 0.3339
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r *
+---------------------------
+Next Token :  r, Posbility: 0.4693
+Next Token :  (, Posbility: 0.1976
+Next Token :  1, Posbility: 0.0741
+Next Token :  2, Posbility: 0.0509
+Next Token :  0, Posbility: 0.0502
+Choose :  r,  Posbility: 0.4693
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r
+---------------------------
+Next Token : ), Posbility: 0.4719
+Next Token :  *, Posbility: 0.3096
+Next Token :  -, Posbility: 0.1037
+Next Token :  +, Posbility: 0.0799
+Next Token :  /, Posbility: 0.0157
+Choose : ),  Posbility: 0.4719
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+---------------------------
+Next Token : 
+, Posbility: 0.6657
+Next Token :  -, Posbility: 0.0701
+Next Token :  +, Posbility: 0.0595
+Next Token :  **, Posbility: 0.0525
+Next Token :  /, Posbility: 0.0516
+Choose : 
+,  Posbility: 0.6657
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+
+---------------------------
+Next Token :     , Posbility: 0.9922
+Next Token :         , Posbility: 0.0031
+Next Token : 
+, Posbility: 0.0027
+Next Token : <|endoftext|>, Posbility: 0.0004
+Next Token : def, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9922
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    
+---------------------------
+Next Token : el, Posbility: 0.8343
+Next Token : else, Posbility: 0.1520
+Next Token : return, Posbility: 0.0020
+Next Token : if, Posbility: 0.0020
+Next Token : 
+, Posbility: 0.0015
+Choose : el,  Posbility: 0.8343
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : apsed, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif
+---------------------------
+Next Token :  angle, Posbility: 0.9557
+Next Token :  (, Posbility: 0.0082
+Next Token :  0, Posbility: 0.0072
+Next Token :  90, Posbility: 0.0069
+Next Token :  r, Posbility: 0.0062
+Choose :  angle,  Posbility: 0.9557
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle
+---------------------------
+Next Token :  ==, Posbility: 0.8207
+Next Token :  >, Posbility: 0.0575
+Next Token :  >=, Posbility: 0.0475
+Next Token :  <, Posbility: 0.0283
+Next Token :  <=, Posbility: 0.0163
+Choose :  ==,  Posbility: 0.8207
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle ==
+---------------------------
+Next Token :  180, Posbility: 0.8634
+Next Token :  270, Posbility: 0.0344
+Next Token :  -, Posbility: 0.0302
+Next Token :  90, Posbility: 0.0256
+Next Token :  45, Posbility: 0.0124
+Choose :  180,  Posbility: 0.8634
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180
+---------------------------
+Next Token : :, Posbility: 0.9718
+Next Token :  or, Posbility: 0.0211
+Next Token :  and, Posbility: 0.0027
+Next Token :  :, Posbility: 0.0021
+Next Token : :#, Posbility: 0.0004
+Choose : :,  Posbility: 0.9718
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+---------------------------
+Next Token : 
+, Posbility: 0.9958
+Next Token :  , Posbility: 0.0016
+Next Token :  #, Posbility: 0.0010
+Next Token : 
+
+, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9958
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+
+---------------------------
+Next Token :         , Posbility: 0.9981
+Next Token :             , Posbility: 0.0006
+Next Token :          , Posbility: 0.0006
+Next Token :        , Posbility: 0.0003
+Next Token :     , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9981
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        
+---------------------------
+Next Token : return, Posbility: 0.9190
+Next Token : if, Posbility: 0.0178
+Next Token : r, Posbility: 0.0075
+Next Token : #, Posbility: 0.0059
+Next Token : a, Posbility: 0.0052
+Choose : return,  Posbility: 0.9190
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return
+---------------------------
+Next Token :  r, Posbility: 0.6286
+Next Token :  (, Posbility: 0.2157
+Next Token :  2, Posbility: 0.0744
+Next Token :  ((, Posbility: 0.0132
+Next Token :  1, Posbility: 0.0086
+Choose :  r,  Posbility: 0.6286
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r
+---------------------------
+Next Token :  *, Posbility: 0.9237
+Next Token :  **, Posbility: 0.0383
+Next Token : **, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0103
+Next Token : *, Posbility: 0.0056
+Choose :  *,  Posbility: 0.9237
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r *
+---------------------------
+Next Token :  (, Posbility: 0.7575
+Next Token :  r, Posbility: 0.1162
+Next Token :  ((, Posbility: 0.0545
+Next Token :  2, Posbility: 0.0182
+Next Token :  math, Posbility: 0.0114
+Choose :  (,  Posbility: 0.7575
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (
+---------------------------
+Next Token : r, Posbility: 0.8448
+Next Token : 2, Posbility: 0.0670
+Next Token : 1, Posbility: 0.0253
+Next Token : 3, Posbility: 0.0201
+Next Token : 4, Posbility: 0.0086
+Choose : r,  Posbility: 0.8448
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r
+---------------------------
+Next Token :  *, Posbility: 0.9134
+Next Token :  **, Posbility: 0.0250
+Next Token :  +, Posbility: 0.0192
+Next Token : **, Posbility: 0.0107
+Next Token : *, Posbility: 0.0106
+Choose :  *,  Posbility: 0.9134
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r *
+---------------------------
+Next Token :  r, Posbility: 0.5957
+Next Token :  (, Posbility: 0.2935
+Next Token :  2, Posbility: 0.0251
+Next Token :  math, Posbility: 0.0168
+Next Token :  ((, Posbility: 0.0100
+Choose :  r,  Posbility: 0.5957
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r
+---------------------------
+Next Token :  *, Posbility: 0.8297
+Next Token : ), Posbility: 0.1182
+Next Token :  +, Posbility: 0.0173
+Next Token :  /, Posbility: 0.0096
+Next Token :  -, Posbility: 0.0083
+Choose :  *,  Posbility: 0.8297
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r *
+---------------------------
+Next Token :  r, Posbility: 0.7080
+Next Token :  (, Posbility: 0.1895
+Next Token :  2, Posbility: 0.0306
+Next Token :  1, Posbility: 0.0120
+Next Token :  math, Posbility: 0.0082
+Choose :  r,  Posbility: 0.7080
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r
+---------------------------
+Next Token :  *, Posbility: 0.7271
+Next Token : ), Posbility: 0.2280
+Next Token :  +, Posbility: 0.0145
+Next Token :  /, Posbility: 0.0098
+Next Token : *, Posbility: 0.0063
+Choose :  *,  Posbility: 0.7271
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r *
+---------------------------
+Next Token :  r, Posbility: 0.8292
+Next Token :  (, Posbility: 0.0766
+Next Token :  2, Posbility: 0.0285
+Next Token :  math, Posbility: 0.0112
+Next Token :  1, Posbility: 0.0093
+Choose :  r,  Posbility: 0.8292
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r
+---------------------------
+Next Token : ), Posbility: 0.7210
+Next Token :  *, Posbility: 0.2647
+Next Token : *, Posbility: 0.0036
+Next Token :  +, Posbility: 0.0032
+Next Token :  /, Posbility: 0.0019
+Choose : ),  Posbility: 0.7210
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+---------------------------
+Next Token : 
+, Posbility: 0.9350
+Next Token : 
+
+, Posbility: 0.0354
+Next Token :  *, Posbility: 0.0075
+Next Token :  +, Posbility: 0.0042
+Next Token :  , Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9350
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+
+---------------------------
+Next Token :     , Posbility: 0.9704
+Next Token : 
+, Posbility: 0.0187
+Next Token :         , Posbility: 0.0041
+Next Token : def, Posbility: 0.0014
+Next Token : <|endoftext|>, Posbility: 0.0011
+Choose :     ,  Posbility: 0.9704
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    
+---------------------------
+Next Token : el, Posbility: 0.7003
+Next Token : else, Posbility: 0.2738
+Next Token : return, Posbility: 0.0072
+Next Token : 
+, Posbility: 0.0039
+Next Token : if, Posbility: 0.0024
+Choose : el,  Posbility: 0.7003
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : apsed, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif
+---------------------------
+Next Token :  angle, Posbility: 0.9764
+Next Token :  (, Posbility: 0.0047
+Next Token :  0, Posbility: 0.0040
+Next Token :  r, Posbility: 0.0035
+Next Token :  180, Posbility: 0.0015
+Choose :  angle,  Posbility: 0.9764
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle
+---------------------------
+Next Token :  ==, Posbility: 0.8804
+Next Token :  >, Posbility: 0.0419
+Next Token :  >=, Posbility: 0.0302
+Next Token :  <, Posbility: 0.0213
+Next Token :  <=, Posbility: 0.0107
+Choose :  ==,  Posbility: 0.8804
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle ==
+---------------------------
+Next Token :  270, Posbility: 0.7553
+Next Token :  360, Posbility: 0.0703
+Next Token :  -, Posbility: 0.0523
+Next Token :  90, Posbility: 0.0442
+Next Token :  180, Posbility: 0.0179
+Choose :  270,  Posbility: 0.7553
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270
+---------------------------
+Next Token : :, Posbility: 0.9934
+Next Token :  or, Posbility: 0.0047
+Next Token :  and, Posbility: 0.0007
+Next Token :  :, Posbility: 0.0006
+Next Token : ., Posbility: 0.0001
+Choose : :,  Posbility: 0.9934
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+---------------------------
+Next Token : 
+, Posbility: 0.9965
+Next Token :  , Posbility: 0.0014
+Next Token :  #, Posbility: 0.0005
+Next Token : 
+
+, Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9965
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+
+---------------------------
+Next Token :         , Posbility: 0.9982
+Next Token :             , Posbility: 0.0005
+Next Token :          , Posbility: 0.0005
+Next Token :     , Posbility: 0.0003
+Next Token :        , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9982
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        
+---------------------------
+Next Token : return, Posbility: 0.9270
+Next Token : r, Posbility: 0.0078
+Next Token : if, Posbility: 0.0066
+Next Token : a, Posbility: 0.0060
+Next Token : x, Posbility: 0.0053
+Choose : return,  Posbility: 0.9270
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return
+---------------------------
+Next Token :  r, Posbility: 0.6939
+Next Token :  (, Posbility: 0.2061
+Next Token :  2, Posbility: 0.0456
+Next Token :  ((, Posbility: 0.0115
+Next Token :  -, Posbility: 0.0081
+Choose :  r,  Posbility: 0.6939
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r
+---------------------------
+Next Token :  *, Posbility: 0.9736
+Next Token :  **, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0040
+Next Token : *, Posbility: 0.0035
+Next Token : **, Posbility: 0.0022
+Choose :  *,  Posbility: 0.9736
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r *
+---------------------------
+Next Token :  (, Posbility: 0.7752
+Next Token :  r, Posbility: 0.1366
+Next Token :  ((, Posbility: 0.0487
+Next Token :  2, Posbility: 0.0092
+Next Token :  math, Posbility: 0.0060
+Choose :  (,  Posbility: 0.7752
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (
+---------------------------
+Next Token : r, Posbility: 0.9087
+Next Token : 2, Posbility: 0.0516
+Next Token : 3, Posbility: 0.0114
+Next Token : 1, Posbility: 0.0080
+Next Token : math, Posbility: 0.0027
+Choose : r,  Posbility: 0.9087
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r
+---------------------------
+Next Token :  *, Posbility: 0.9775
+Next Token :  **, Posbility: 0.0060
+Next Token : *, Posbility: 0.0051
+Next Token :  +, Posbility: 0.0046
+Next Token :  -, Posbility: 0.0018
+Choose :  *,  Posbility: 0.9775
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r *
+---------------------------
+Next Token :  r, Posbility: 0.8500
+Next Token :  (, Posbility: 0.1159
+Next Token :  2, Posbility: 0.0093
+Next Token :  ((, Posbility: 0.0048
+Next Token :  math, Posbility: 0.0032
+Choose :  r,  Posbility: 0.8500
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r
+---------------------------
+Next Token :  *, Posbility: 0.9564
+Next Token : ), Posbility: 0.0290
+Next Token :  +, Posbility: 0.0044
+Next Token : *, Posbility: 0.0031
+Next Token :  /, Posbility: 0.0021
+Choose :  *,  Posbility: 0.9564
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9011
+Next Token :  (, Posbility: 0.0730
+Next Token :  2, Posbility: 0.0081
+Next Token :  ((, Posbility: 0.0033
+Next Token :  3, Posbility: 0.0019
+Choose :  r,  Posbility: 0.9011
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r
+---------------------------
+Next Token :  *, Posbility: 0.9239
+Next Token : ), Posbility: 0.0606
+Next Token :  +, Posbility: 0.0035
+Next Token : *, Posbility: 0.0031
+Next Token :  /, Posbility: 0.0031
+Choose :  *,  Posbility: 0.9239
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9180
+Next Token :  (, Posbility: 0.0519
+Next Token :  2, Posbility: 0.0095
+Next Token :  math, Posbility: 0.0026
+Next Token :  3, Posbility: 0.0025
+Choose :  r,  Posbility: 0.9180
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r
+---------------------------
+Next Token :  *, Posbility: 0.9154
+Next Token : ), Posbility: 0.0695
+Next Token : *, Posbility: 0.0046
+Next Token :  +, Posbility: 0.0031
+Next Token :  /, Posbility: 0.0025
+Choose :  *,  Posbility: 0.9154
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9752
+Next Token :  (, Posbility: 0.0091
+Next Token :  2, Posbility: 0.0039
+Next Token :  math, Posbility: 0.0021
+Next Token : r, Posbility: 0.0018
+Choose :  r,  Posbility: 0.9752
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r
+---------------------------
+Next Token : ), Posbility: 0.8648
+Next Token :  *, Posbility: 0.1280
+Next Token : *, Posbility: 0.0028
+Next Token :  ), Posbility: 0.0012
+Next Token :  +, Posbility: 0.0010
+Choose : ),  Posbility: 0.8648
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+---------------------------
+Next Token : 
+, Posbility: 0.8392
+Next Token : 
+
+, Posbility: 0.1323
+Next Token : <|endoftext|>, Posbility: 0.0113
+Next Token :  *, Posbility: 0.0050
+Next Token :  , Posbility: 0.0038
+Choose : 
+,  Posbility: 0.8392
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+
+---------------------------
+Next Token :     , Posbility: 0.6874
+Next Token : 
+, Posbility: 0.2481
+Next Token : <|endoftext|>, Posbility: 0.0104
+Next Token : def, Posbility: 0.0103
+Next Token :         , Posbility: 0.0103
+Choose :     ,  Posbility: 0.6874
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    
+---------------------------
+Next Token : el, Posbility: 0.5235
+Next Token : else, Posbility: 0.4262
+Next Token : 
+, Posbility: 0.0175
+Next Token : return, Posbility: 0.0153
+Next Token : #, Posbility: 0.0039
+Choose : el,  Posbility: 0.5235
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : apsed, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : ip, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif
+---------------------------
+Next Token :  angle, Posbility: 0.9747
+Next Token :  (, Posbility: 0.0053
+Next Token :  0, Posbility: 0.0041
+Next Token :  r, Posbility: 0.0029
+Next Token :  180, Posbility: 0.0016
+Choose :  angle,  Posbility: 0.9747
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle
+---------------------------
+Next Token :  ==, Posbility: 0.9290
+Next Token :  >, Posbility: 0.0248
+Next Token :  >=, Posbility: 0.0206
+Next Token :  <, Posbility: 0.0113
+Next Token :  <=, Posbility: 0.0041
+Choose :  ==,  Posbility: 0.9290
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle ==
+---------------------------
+Next Token :  360, Posbility: 0.8902
+Next Token :  0, Posbility: 0.0349
+Next Token :  90, Posbility: 0.0156
+Next Token :  45, Posbility: 0.0090
+Next Token :  -, Posbility: 0.0078
+Choose :  360,  Posbility: 0.8902
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360
+---------------------------
+Next Token : :, Posbility: 0.9875
+Next Token :  and, Posbility: 0.0058
+Next Token :  or, Posbility: 0.0032
+Next Token :  :, Posbility: 0.0015
+Next Token :  +, Posbility: 0.0004
+Choose : :,  Posbility: 0.9875
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+---------------------------
+Next Token : 
+, Posbility: 0.9954
+Next Token :  , Posbility: 0.0015
+Next Token : 
+
+, Posbility: 0.0010
+Next Token :  #, Posbility: 0.0009
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9954
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+
+---------------------------
+Next Token :         , Posbility: 0.9975
+Next Token :             , Posbility: 0.0007
+Next Token :          , Posbility: 0.0006
+Next Token :     , Posbility: 0.0004
+Next Token :        , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9975
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        
+---------------------------
+Next Token : return, Posbility: 0.9277
+Next Token : if, Posbility: 0.0167
+Next Token : pass, Posbility: 0.0160
+Next Token : #, Posbility: 0.0051
+Next Token : print, Posbility: 0.0043
+Choose : return,  Posbility: 0.9277
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return
+---------------------------
+Next Token :  r, Posbility: 0.6021
+Next Token :  None, Posbility: 0.1598
+Next Token :  (, Posbility: 0.0919
+Next Token :  0, Posbility: 0.0586
+Next Token :  2, Posbility: 0.0200
+Choose :  r,  Posbility: 0.6021
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r
+---------------------------
+Next Token :  *, Posbility: 0.9446
+Next Token : 
+, Posbility: 0.0261
+Next Token :  **, Posbility: 0.0111
+Next Token : 
+
+, Posbility: 0.0052
+Next Token : *, Posbility: 0.0049
+Choose :  *,  Posbility: 0.9446
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r *
+---------------------------
+Next Token :  (, Posbility: 0.6525
+Next Token :  r, Posbility: 0.2764
+Next Token :  ((, Posbility: 0.0298
+Next Token :  2, Posbility: 0.0088
+Next Token :  math, Posbility: 0.0066
+Choose :  (,  Posbility: 0.6525
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (
+---------------------------
+Next Token : r, Posbility: 0.9460
+Next Token : 2, Posbility: 0.0284
+Next Token : 3, Posbility: 0.0065
+Next Token : 1, Posbility: 0.0046
+Next Token : 4, Posbility: 0.0022
+Choose : r,  Posbility: 0.9460
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r
+---------------------------
+Next Token :  *, Posbility: 0.9803
+Next Token : *, Posbility: 0.0057
+Next Token :  **, Posbility: 0.0055
+Next Token :  +, Posbility: 0.0033
+Next Token :  /, Posbility: 0.0013
+Choose :  *,  Posbility: 0.9803
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r *
+---------------------------
+Next Token :  r, Posbility: 0.9301
+Next Token :  (, Posbility: 0.0521
+Next Token :  2, Posbility: 0.0052
+Next Token :  math, Posbility: 0.0019
+Next Token :  ((, Posbility: 0.0017
+Choose :  r,  Posbility: 0.9301
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r
+---------------------------
+Next Token :  *, Posbility: 0.9628
+Next Token : ), Posbility: 0.0270
+Next Token : *, Posbility: 0.0029
+Next Token :  +, Posbility: 0.0027
+Next Token :  /, Posbility: 0.0012
+Choose :  *,  Posbility: 0.9628
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9582
+Next Token :  (, Posbility: 0.0295
+Next Token :  2, Posbility: 0.0035
+Next Token :  ((, Posbility: 0.0012
+Next Token :  math, Posbility: 0.0010
+Choose :  r,  Posbility: 0.9582
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r
+---------------------------
+Next Token :  *, Posbility: 0.9115
+Next Token : ), Posbility: 0.0776
+Next Token : *, Posbility: 0.0025
+Next Token :  +, Posbility: 0.0022
+Next Token :  /, Posbility: 0.0015
+Choose :  *,  Posbility: 0.9115
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9599
+Next Token :  (, Posbility: 0.0263
+Next Token :  2, Posbility: 0.0036
+Next Token :  3, Posbility: 0.0012
+Next Token :  math, Posbility: 0.0012
+Choose :  r,  Posbility: 0.9599
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r
+---------------------------
+Next Token :  *, Posbility: 0.9265
+Next Token : ), Posbility: 0.0618
+Next Token : *, Posbility: 0.0026
+Next Token :  +, Posbility: 0.0022
+Next Token :  /, Posbility: 0.0019
+Choose :  *,  Posbility: 0.9265
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9749
+Next Token :  (, Posbility: 0.0147
+Next Token :  2, Posbility: 0.0022
+Next Token :  math, Posbility: 0.0010
+Next Token : r, Posbility: 0.0008
+Choose :  r,  Posbility: 0.9749
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r
+---------------------------
+Next Token :  *, Posbility: 0.8663
+Next Token : ), Posbility: 0.1229
+Next Token : *, Posbility: 0.0033
+Next Token :  +, Posbility: 0.0018
+Next Token :  /, Posbility: 0.0014
+Choose :  *,  Posbility: 0.8663
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r *
+---------------------------
+Next Token :  r, Posbility: 0.9898
+Next Token :  (, Posbility: 0.0040
+Next Token :  2, Posbility: 0.0011
+Next Token : r, Posbility: 0.0010
+Next Token :  math, Posbility: 0.0007
+Choose :  r,  Posbility: 0.9898
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r
+---------------------------
+Next Token : ), Posbility: 0.7804
+Next Token :  *, Posbility: 0.2117
+Next Token : *, Posbility: 0.0033
+Next Token :  ), Posbility: 0.0014
+Next Token :  +, Posbility: 0.0007
+Choose : ),  Posbility: 0.7804
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+---------------------------
+Next Token : 
+, Posbility: 0.7428
+Next Token : 
+
+, Posbility: 0.2261
+Next Token : <|endoftext|>, Posbility: 0.0123
+Next Token :  *, Posbility: 0.0064
+Next Token :  , Posbility: 0.0038
+Choose : 
+,  Posbility: 0.7428
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+
+---------------------------
+Next Token :     , Posbility: 0.4811
+Next Token : 
+, Posbility: 0.4146
+Next Token : def, Posbility: 0.0226
+Next Token : <|endoftext|>, Posbility: 0.0190
+Next Token :         , Posbility: 0.0148
+Choose :     ,  Posbility: 0.4811
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    
+---------------------------
+Next Token : else, Posbility: 0.6384
+Next Token : el, Posbility: 0.2471
+Next Token : 
+, Posbility: 0.0500
+Next Token : return, Posbility: 0.0300
+Next Token : #, Posbility: 0.0088
+Choose : else,  Posbility: 0.6384
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else
+---------------------------
+Next Token : :, Posbility: 0.9939
+Next Token :  :, Posbility: 0.0056
+Next Token : 
+, Posbility: 0.0002
+Next Token : :#, Posbility: 0.0001
+Next Token : :(, Posbility: 0.0000
+Choose : :,  Posbility: 0.9939
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9861
+Next Token :  , Posbility: 0.0041
+Next Token :  #, Posbility: 0.0030
+Next Token :  return, Posbility: 0.0016
+Next Token : 
+
+, Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9861
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9953
+Next Token :     , Posbility: 0.0012
+Next Token :          , Posbility: 0.0011
+Next Token :        , Posbility: 0.0008
+Next Token :             , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9953
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.6207
+Next Token : print, Posbility: 0.0975
+Next Token : pass, Posbility: 0.0778
+Next Token : raise, Posbility: 0.0684
+Next Token : if, Posbility: 0.0161
+Choose : return,  Posbility: 0.6207
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return
+---------------------------
+Next Token :  None, Posbility: 0.5137
+Next Token :  r, Posbility: 0.1804
+Next Token :  0, Posbility: 0.0610
+Next Token :  (, Posbility: 0.0487
+Next Token :  sector, Posbility: 0.0261
+Choose :  None,  Posbility: 0.5137
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+---------------------------
+Next Token : 
+, Posbility: 0.5855
+Next Token : 
+
+, Posbility: 0.3786
+Next Token : <|endoftext|>, Posbility: 0.0244
+Next Token :  , Posbility: 0.0044
+Next Token :     , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.5855
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+---------------------------
+Next Token : 
+, Posbility: 0.7909
+Next Token : <|endoftext|>, Posbility: 0.0563
+Next Token : print, Posbility: 0.0305
+Next Token :     , Posbility: 0.0270
+Next Token : def, Posbility: 0.0260
+Choose : 
+,  Posbility: 0.7909
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9496
+Next Token : 
+
+, Posbility: 0.0208
+Next Token : <|endoftext|>, Posbility: 0.0179
+Next Token :     , Posbility: 0.0088
+Next Token :         , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9496
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3028
+Next Token : print, Posbility: 0.1837
+Next Token : #, Posbility: 0.1646
+Next Token : def, Posbility: 0.1536
+Next Token : if, Posbility: 0.0601
+Choose : '',  Posbility: 0.3028
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : This, Posbility: 0.0000
+Next Token : Test, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8032
+Next Token :  Write, Posbility: 0.0317
+Next Token : 
+, Posbility: 0.0200
+Next Token : Test, Posbility: 0.0097
+Next Token : Find, Posbility: 0.0094
+Choose : Write,  Posbility: 0.8032
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9855
+Next Token :  function, Posbility: 0.0033
+Next Token :  your, Posbility: 0.0020
+Next Token :  an, Posbility: 0.0020
+Next Token :  write, Posbility: 0.0015
+Choose :  a,  Posbility: 0.9855
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9630
+Next Token :  Python, Posbility: 0.0059
+Next Token :  program, Posbility: 0.0059
+Next Token :  python, Posbility: 0.0030
+Next Token :  recursive, Posbility: 0.0024
+Choose :  function,  Posbility: 0.9630
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7732
+Next Token :  that, Posbility: 0.1647
+Next Token :  called, Posbility: 0.0175
+Next Token :  which, Posbility: 0.0138
+Next Token :  for, Posbility: 0.0041
+Choose :  to,  Posbility: 0.7732
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2544
+Next Token :  calculate, Posbility: 0.1161
+Next Token :  check, Posbility: 0.0660
+Next Token :  print, Posbility: 0.0657
+Next Token :  return, Posbility: 0.0489
+Choose :  find,  Posbility: 0.2544
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find
+---------------------------
+Next Token :  perimeter, Posbility: 0.2223
+Next Token :  area, Posbility: 0.1728
+Next Token :  the, Posbility: 0.1647
+Next Token :  volume, Posbility: 0.1146
+Next Token :  circumference, Posbility: 0.0589
+Choose :  perimeter,  Posbility: 0.2223
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter
+---------------------------
+Next Token :  of, Posbility: 0.9479
+Next Token : ., Posbility: 0.0324
+Next Token :  and, Posbility: 0.0031
+Next Token : ,, Posbility: 0.0019
+Next Token : .', Posbility: 0.0018
+Choose :  of,  Posbility: 0.9479
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of
+---------------------------
+Next Token :  a, Posbility: 0.9316
+Next Token :  sector, Posbility: 0.0137
+Next Token :  the, Posbility: 0.0075
+Next Token :  circle, Posbility: 0.0060
+Next Token :  an, Posbility: 0.0054
+Choose :  a,  Posbility: 0.9316
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a
+---------------------------
+Next Token :  sector, Posbility: 0.8367
+Next Token :  triangle, Posbility: 0.0206
+Next Token :  circle, Posbility: 0.0205
+Next Token :  square, Posbility: 0.0161
+Next Token :  rectangle, Posbility: 0.0059
+Choose :  sector,  Posbility: 0.8367
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector
+---------------------------
+Next Token : ., Posbility: 0.9370
+Next Token : .', Posbility: 0.0312
+Next Token :  of, Posbility: 0.0034
+Next Token : '', Posbility: 0.0031
+Next Token : ,, Posbility: 0.0029
+Choose : .,  Posbility: 0.9370
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector.
+---------------------------
+Next Token :  The, Posbility: 0.8230
+Next Token :  Function, Posbility: 0.1150
+Next Token : 
+, Posbility: 0.0220
+Next Token :  It, Posbility: 0.0037
+Next Token :  This, Posbility: 0.0030
+Choose :  The,  Posbility: 0.8230
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The
+---------------------------
+Next Token :  function, Posbility: 0.9972
+Next Token :  func, Posbility: 0.0003
+Next Token :  functions, Posbility: 0.0002
+Next Token :  input, Posbility: 0.0002
+Next Token :  parameter, Posbility: 0.0001
+Choose :  function,  Posbility: 0.9972
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function
+---------------------------
+Next Token :  takes, Posbility: 0.9467
+Next Token :  should, Posbility: 0.0433
+Next Token :  returns, Posbility: 0.0021
+Next Token :  inputs, Posbility: 0.0010
+Next Token :  receives, Posbility: 0.0008
+Choose :  takes,  Posbility: 0.9467
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes
+---------------------------
+Next Token :  the, Posbility: 0.9435
+Next Token :  radius, Posbility: 0.0105
+Next Token :  a, Posbility: 0.0098
+Next Token :  two, Posbility: 0.0073
+Next Token :  an, Posbility: 0.0026
+Choose :  the,  Posbility: 0.9435
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the
+---------------------------
+Next Token :  radius, Posbility: 0.7991
+Next Token :  length, Posbility: 0.0326
+Next Token :  sector, Posbility: 0.0172
+Next Token :  angle, Posbility: 0.0169
+Next Token :  area, Posbility: 0.0160
+Choose :  radius,  Posbility: 0.7991
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius
+---------------------------
+Next Token :  and, Posbility: 0.7466
+Next Token :  as, Posbility: 0.1856
+Next Token : ,, Posbility: 0.0345
+Next Token : ., Posbility: 0.0166
+Next Token :  of, Posbility: 0.0091
+Choose :  and,  Posbility: 0.7466
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and
+---------------------------
+Next Token :  angle, Posbility: 0.9800
+Next Token :  the, Posbility: 0.0030
+Next Token :  area, Posbility: 0.0023
+Next Token :  length, Posbility: 0.0016
+Next Token :  width, Posbility: 0.0008
+Choose :  angle,  Posbility: 0.9800
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle
+---------------------------
+Next Token :  as, Posbility: 0.9537
+Next Token : ., Posbility: 0.0375
+Next Token :  in, Posbility: 0.0015
+Next Token : ,, Posbility: 0.0014
+Next Token :  of, Posbility: 0.0011
+Choose :  as,  Posbility: 0.9537
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as
+---------------------------
+Next Token :  inputs, Posbility: 0.9858
+Next Token :  input, Posbility: 0.0120
+Next Token :  arguments, Posbility: 0.0006
+Next Token :  parameters, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0002
+Choose :  inputs,  Posbility: 0.9858
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs
+---------------------------
+Next Token : ., Posbility: 0.9680
+Next Token : .', Posbility: 0.0234
+Next Token :  and, Posbility: 0.0030
+Next Token : ,, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0011
+Choose : .,  Posbility: 0.9680
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs.
+---------------------------
+Next Token :  Function, Posbility: 0.9723
+Next Token :  The, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0044
+Next Token :  It, Posbility: 0.0025
+Next Token :  function, Posbility: 0.0022
+Choose :  Function,  Posbility: 0.9723
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function
+---------------------------
+Next Token :  should, Posbility: 0.9976
+Next Token :  returns, Posbility: 0.0012
+Next Token :  must, Posbility: 0.0003
+Next Token :  will, Posbility: 0.0001
+Next Token :  return, Posbility: 0.0001
+Choose :  should,  Posbility: 0.9976
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should
+---------------------------
+Next Token :  return, Posbility: 0.9987
+Next Token :  output, Posbility: 0.0002
+Next Token :  returns, Posbility: 0.0001
+Next Token :  raise, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Choose :  return,  Posbility: 0.9987
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return
+---------------------------
+Next Token :  None, Posbility: 0.9058
+Next Token :  the, Posbility: 0.0524
+Next Token :  none, Posbility: 0.0158
+Next Token :  a, Posbility: 0.0073
+Next Token :  an, Posbility: 0.0023
+Choose :  None,  Posbility: 0.9058
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None
+---------------------------
+Next Token :  if, Posbility: 0.9980
+Next Token : ., Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Next Token :  is, Posbility: 0.0002
+Next Token : .', Posbility: 0.0001
+Choose :  if,  Posbility: 0.9980
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if
+---------------------------
+Next Token :  the, Posbility: 0.9751
+Next Token :  radius, Posbility: 0.0030
+Next Token :  there, Posbility: 0.0024
+Next Token :  it, Posbility: 0.0021
+Next Token :  angle, Posbility: 0.0015
+Choose :  the,  Posbility: 0.9751
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the
+---------------------------
+Next Token :  angle, Posbility: 0.9789
+Next Token :  radius, Posbility: 0.0056
+Next Token :  area, Posbility: 0.0018
+Next Token :  length, Posbility: 0.0017
+Next Token :  angles, Posbility: 0.0011
+Choose :  angle,  Posbility: 0.9789
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle
+---------------------------
+Next Token :  is, Posbility: 0.9966
+Next Token : 
+, Posbility: 0.0003
+Next Token :  equals, Posbility: 0.0003
+Next Token :  exceeds, Posbility: 0.0003
+Next Token :  isn, Posbility: 0.0002
+Choose :  is,  Posbility: 0.9966
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is
+---------------------------
+Next Token :  larger, Posbility: 0.8715
+Next Token :  greater, Posbility: 0.0422
+Next Token :  smaller, Posbility: 0.0182
+Next Token :  less, Posbility: 0.0105
+Next Token :  lower, Posbility: 0.0079
+Choose :  larger,  Posbility: 0.8715
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger
+---------------------------
+Next Token :  than, Posbility: 0.9989
+Next Token :  then, Posbility: 0.0005
+Next Token :  that, Posbility: 0.0003
+Next Token :  or, Posbility: 0.0002
+Next Token :  the, Posbility: 0.0000
+Choose :  than,  Posbility: 0.9989
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than
+---------------------------
+Next Token :  360, Posbility: 0.9556
+Next Token :  180, Posbility: 0.0295
+Next Token :  90, Posbility: 0.0062
+Next Token :  120, Posbility: 0.0010
+Next Token :  720, Posbility: 0.0006
+Choose :  360,  Posbility: 0.9556
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360
+---------------------------
+Next Token :  degrees, Posbility: 0.9975
+Next Token :  deg, Posbility: 0.0010
+Next Token : ., Posbility: 0.0003
+Next Token :  or, Posbility: 0.0002
+Next Token :  degree, Posbility: 0.0002
+Choose :  degrees,  Posbility: 0.9975
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees
+---------------------------
+Next Token : .', Posbility: 0.9171
+Next Token : ., Posbility: 0.0562
+Next Token : '', Posbility: 0.0190
+Next Token :  or, Posbility: 0.0025
+Next Token :  and, Posbility: 0.0010
+Choose : .',  Posbility: 0.9171
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'
+---------------------------
+Next Token : '', Posbility: 0.9994
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : '',  Posbility: 0.9994
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9771
+Next Token : 
+
+, Posbility: 0.0175
+Next Token : def, Posbility: 0.0032
+Next Token :  , Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9771
+---------------------------
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9370
+Next Token : 
+, Posbility: 0.0580
+Next Token : #, Posbility: 0.0019
+Next Token : import, Posbility: 0.0007
+Next Token : '', Posbility: 0.0006
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 42.182029008865356
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find area of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+def sector_area(r, angle):
+    if angle > 360:
+        return None
+    elif angle == 0:
+        return r * r
+    elif angle == 90:
+        return r * (r * r * r)
+    elif angle == 180:
+        return r * (r * r * r * r)
+    elif angle == 270:
+        return r * (r * r * r * r * r)
+    elif angle == 360:
+        return r * (r * r * r * r * r * r)
+    else:
+        return None
+
+
+'''Write a function to find perimeter of a sector. The function takes the radius and angle as inputs. Function should return None if the angle is larger than 360 degrees.'''
+

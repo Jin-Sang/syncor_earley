@@ -1,0 +1,1745 @@
+<<<<<<<<<<<< 337 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1599
+Next Token : 	, Posbility: 0.0690
+Next Token : iban, Posbility: 0.0644
+Next Token : ile, Posbility: 0.0472
+Next Token : ive, Posbility: 0.0465
+Choose : 
+,  Posbility: 0.1599
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+
+---------------------------
+Next Token : def, Posbility: 0.1160
+Next Token : import, Posbility: 0.0809
+Next Token : #, Posbility: 0.0630
+Next Token : class, Posbility: 0.0564
+Next Token : '', Posbility: 0.0527
+Choose : def,  Posbility: 0.1160
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def
+---------------------------
+Next Token :  check, Posbility: 0.2589
+Next Token :  no, Posbility: 0.1201
+Next Token :  profit, Posbility: 0.0775
+Next Token :  has, Posbility: 0.0504
+Next Token :  is, Posbility: 0.0433
+Choose :  check,  Posbility: 0.2589
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check
+---------------------------
+Next Token : _, Posbility: 0.4847
+Next Token : (, Posbility: 0.1707
+Next Token : Pro, Posbility: 0.1405
+Next Token : No, Posbility: 0.0263
+Next Token : ():, Posbility: 0.0193
+Choose : _,  Posbility: 0.4847
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_
+---------------------------
+Next Token : profit, Posbility: 0.3305
+Next Token : no, Posbility: 0.1781
+Next Token : pro, Posbility: 0.0436
+Next Token : balance, Posbility: 0.0317
+Next Token : if, Posbility: 0.0216
+Choose : profit,  Posbility: 0.3305
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit
+---------------------------
+Next Token : _, Posbility: 0.6176
+Next Token : (, Posbility: 0.3355
+Next Token : loss, Posbility: 0.0216
+Next Token : L, Posbility: 0.0074
+Next Token : ():, Posbility: 0.0071
+Choose : _,  Posbility: 0.6176
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_
+---------------------------
+Next Token : loss, Posbility: 0.6861
+Next Token : and, Posbility: 0.1264
+Next Token : or, Posbility: 0.0398
+Next Token : no, Posbility: 0.0235
+Next Token : l, Posbility: 0.0083
+Choose : loss,  Posbility: 0.6861
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss
+---------------------------
+Next Token : (, Posbility: 0.8528
+Next Token : _, Posbility: 0.0922
+Next Token : ():, Posbility: 0.0371
+Next Token :  (, Posbility: 0.0093
+Next Token : es, Posbility: 0.0042
+Choose : (,  Posbility: 0.8528
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(
+---------------------------
+Next Token : amount, Posbility: 0.2615
+Next Token : profit, Posbility: 0.0826
+Next Token : price, Posbility: 0.0371
+Next Token : balance, Posbility: 0.0362
+Next Token : budget, Posbility: 0.0305
+Choose : amount,  Posbility: 0.2615
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount
+---------------------------
+Next Token : ,, Posbility: 0.4515
+Next Token : ):, Posbility: 0.4109
+Next Token : _, Posbility: 0.0960
+Next Token : :, Posbility: 0.0163
+Next Token : s, Posbility: 0.0120
+Choose : ,,  Posbility: 0.4515
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount,
+---------------------------
+Next Token :  profit, Posbility: 0.2883
+Next Token : profit, Posbility: 0.0851
+Next Token :  budget, Posbility: 0.0279
+Next Token :  min, Posbility: 0.0216
+Next Token :  price, Posbility: 0.0215
+Choose :  profit,  Posbility: 0.2883
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit
+---------------------------
+Next Token : ,, Posbility: 0.5673
+Next Token : _, Posbility: 0.3795
+Next Token : =, Posbility: 0.0302
+Next Token : ):, Posbility: 0.0128
+Next Token :  =, Posbility: 0.0037
+Choose : ,,  Posbility: 0.5673
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit,
+---------------------------
+Next Token :  loss, Posbility: 0.8900
+Next Token :  profit, Posbility: 0.0159
+Next Token :  lost, Posbility: 0.0112
+Next Token :  cost, Posbility: 0.0100
+Next Token : loss, Posbility: 0.0090
+Choose :  loss,  Posbility: 0.8900
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss
+---------------------------
+Next Token : ):, Posbility: 0.8537
+Next Token : ,, Posbility: 0.1319
+Next Token : ), Posbility: 0.0047
+Next Token : =, Posbility: 0.0039
+Next Token : _, Posbility: 0.0025
+Choose : ):,  Posbility: 0.8537
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+---------------------------
+Next Token : 
+, Posbility: 0.9247
+Next Token : 
+
+, Posbility: 0.0452
+Next Token :  , Posbility: 0.0162
+Next Token :  #, Posbility: 0.0040
+Next Token :   , Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9247
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+
+---------------------------
+Next Token :     , Posbility: 0.8682
+Next Token :   , Posbility: 0.0576
+Next Token : 	, Posbility: 0.0485
+Next Token :    , Posbility: 0.0087
+Next Token : #, Posbility: 0.0030
+Choose :     ,  Posbility: 0.8682
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    
+---------------------------
+Next Token : if, Posbility: 0.4791
+Next Token : '', Posbility: 0.0812
+Next Token : #, Posbility: 0.0748
+Next Token : profit, Posbility: 0.0673
+Next Token : return, Posbility: 0.0266
+Choose : if,  Posbility: 0.4791
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if
+---------------------------
+Next Token :  amount, Posbility: 0.5450
+Next Token :  profit, Posbility: 0.1737
+Next Token :  (, Posbility: 0.1008
+Next Token : (, Posbility: 0.0668
+Next Token :  not, Posbility: 0.0118
+Choose :  amount,  Posbility: 0.5450
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount
+---------------------------
+Next Token :  >, Posbility: 0.3275
+Next Token :  <=, Posbility: 0.1493
+Next Token :  <, Posbility: 0.1220
+Next Token :  >=, Posbility: 0.0975
+Next Token :  ==, Posbility: 0.0939
+Choose :  >,  Posbility: 0.3275
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount >
+---------------------------
+Next Token :  profit, Posbility: 0.8873
+Next Token :  0, Posbility: 0.0600
+Next Token :  (, Posbility: 0.0110
+Next Token :  loss, Posbility: 0.0104
+Next Token : profit, Posbility: 0.0029
+Choose :  profit,  Posbility: 0.8873
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit
+---------------------------
+Next Token :  and, Posbility: 0.7629
+Next Token : :, Posbility: 0.1589
+Next Token :  +, Posbility: 0.0196
+Next Token :  >, Posbility: 0.0138
+Next Token :  -, Posbility: 0.0115
+Choose :  and,  Posbility: 0.7629
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and
+---------------------------
+Next Token :  amount, Posbility: 0.9744
+Next Token :  profit, Posbility: 0.0102
+Next Token :  (, Posbility: 0.0037
+Next Token :  loss, Posbility: 0.0027
+Next Token :  not, Posbility: 0.0023
+Choose :  amount,  Posbility: 0.9744
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount
+---------------------------
+Next Token :  >, Posbility: 0.5998
+Next Token :  <, Posbility: 0.1206
+Next Token :  -, Posbility: 0.1037
+Next Token :  <=, Posbility: 0.0480
+Next Token :  >=, Posbility: 0.0304
+Choose :  >,  Posbility: 0.5998
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount >
+---------------------------
+Next Token :  loss, Posbility: 0.9633
+Next Token :  0, Posbility: 0.0178
+Next Token :  profit, Posbility: 0.0068
+Next Token : loss, Posbility: 0.0037
+Next Token :  -, Posbility: 0.0014
+Choose :  loss,  Posbility: 0.9633
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss
+---------------------------
+Next Token : :, Posbility: 0.9584
+Next Token :  :, Posbility: 0.0163
+Next Token :  and, Posbility: 0.0158
+Next Token :  or, Posbility: 0.0058
+Next Token : :#, Posbility: 0.0012
+Choose : :,  Posbility: 0.9584
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+---------------------------
+Next Token : 
+, Posbility: 0.9690
+Next Token :  , Posbility: 0.0121
+Next Token :  #, Posbility: 0.0073
+Next Token :  return, Posbility: 0.0024
+Next Token :   , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9690
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+
+---------------------------
+Next Token :         , Posbility: 0.9866
+Next Token :             , Posbility: 0.0036
+Next Token :        , Posbility: 0.0031
+Next Token :       , Posbility: 0.0025
+Next Token :     , Posbility: 0.0016
+Choose :         ,  Posbility: 0.9866
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        
+---------------------------
+Next Token : print, Posbility: 0.5367
+Next Token : return, Posbility: 0.3410
+Next Token : profit, Posbility: 0.0366
+Next Token : if, Posbility: 0.0128
+Next Token : result, Posbility: 0.0059
+Choose : print,  Posbility: 0.5367
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print
+---------------------------
+Next Token : (", Posbility: 0.4512
+Next Token : (, Posbility: 0.3245
+Next Token : (', Posbility: 0.1905
+Next Token :  (", Posbility: 0.0117
+Next Token :  (, Posbility: 0.0073
+Choose : (",  Posbility: 0.4512
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("
+---------------------------
+Next Token : Amount, Posbility: 0.0912
+Next Token : No, Posbility: 0.0782
+Next Token : Pro, Posbility: 0.0775
+Next Token : The, Posbility: 0.0564
+Next Token : You, Posbility: 0.0500
+Choose : Amount,  Posbility: 0.0912
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount
+---------------------------
+Next Token :  is, Posbility: 0.3273
+Next Token :  has, Posbility: 0.1857
+Next Token : :, Posbility: 0.0653
+Next Token :  exceeds, Posbility: 0.0397
+Next Token :  does, Posbility: 0.0312
+Choose :  is,  Posbility: 0.3273
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is
+---------------------------
+Next Token :  greater, Posbility: 0.4005
+Next Token :  more, Posbility: 0.0682
+Next Token :  not, Posbility: 0.0429
+Next Token :  too, Posbility: 0.0403
+Next Token :  profitable, Posbility: 0.0355
+Choose :  greater,  Posbility: 0.4005
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater
+---------------------------
+Next Token :  than, Posbility: 0.8780
+Next Token : "), Posbility: 0.0427
+Next Token :  or, Posbility: 0.0089
+Next Token :  then, Posbility: 0.0080
+Next Token :  profit, Posbility: 0.0077
+Choose :  than,  Posbility: 0.8780
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than
+---------------------------
+Next Token :  profit, Posbility: 0.6566
+Next Token :  the, Posbility: 0.1153
+Next Token :  Profit, Posbility: 0.0265
+Next Token :  maximum, Posbility: 0.0084
+Next Token :  your, Posbility: 0.0079
+Choose :  profit,  Posbility: 0.6566
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit
+---------------------------
+Next Token :  and, Posbility: 0.7504
+Next Token : "), Posbility: 0.0772
+Next Token :  or, Posbility: 0.0469
+Next Token : ,, Posbility: 0.0281
+Next Token :  &, Posbility: 0.0083
+Choose :  and,  Posbility: 0.7504
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and
+---------------------------
+Next Token :  greater, Posbility: 0.3401
+Next Token :  less, Posbility: 0.1204
+Next Token :  more, Posbility: 0.1028
+Next Token :  loss, Posbility: 0.0706
+Next Token :  profit, Posbility: 0.0496
+Choose :  greater,  Posbility: 0.3401
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater
+---------------------------
+Next Token :  than, Posbility: 0.9832
+Next Token :  then, Posbility: 0.0071
+Next Token :  or, Posbility: 0.0037
+Next Token : "), Posbility: 0.0009
+Next Token :  that, Posbility: 0.0008
+Choose :  than,  Posbility: 0.9832
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than
+---------------------------
+Next Token :  loss, Posbility: 0.9051
+Next Token :  or, Posbility: 0.0402
+Next Token :  the, Posbility: 0.0075
+Next Token :  profit, Posbility: 0.0042
+Next Token :  losses, Posbility: 0.0035
+Choose :  loss,  Posbility: 0.9051
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss
+---------------------------
+Next Token : "), Posbility: 0.6668
+Next Token : ."), Posbility: 0.1222
+Next Token : ., Posbility: 0.0338
+Next Token : !", Posbility: 0.0265
+Next Token : ,, Posbility: 0.0259
+Choose : "),  Posbility: 0.6668
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+---------------------------
+Next Token : 
+, Posbility: 0.9615
+Next Token : 
+
+, Posbility: 0.0272
+Next Token :  , Posbility: 0.0070
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9615
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+
+---------------------------
+Next Token :     , Posbility: 0.8154
+Next Token :         , Posbility: 0.1810
+Next Token : 
+, Posbility: 0.0011
+Next Token : #, Posbility: 0.0004
+Next Token :  , Posbility: 0.0003
+Choose :     ,  Posbility: 0.8154
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    
+---------------------------
+Next Token : el, Posbility: 0.8875
+Next Token : if, Posbility: 0.0584
+Next Token : else, Posbility: 0.0393
+Next Token : 
+, Posbility: 0.0084
+Next Token : #, Posbility: 0.0044
+Choose : el,  Posbility: 0.8875
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : el, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif
+---------------------------
+Next Token :  amount, Posbility: 0.9035
+Next Token :  profit, Posbility: 0.0748
+Next Token :  (, Posbility: 0.0072
+Next Token :   , Posbility: 0.0020
+Next Token :  not, Posbility: 0.0018
+Choose :  amount,  Posbility: 0.9035
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount
+---------------------------
+Next Token :  <, Posbility: 0.5082
+Next Token :  >, Posbility: 0.2886
+Next Token :  ==, Posbility: 0.0787
+Next Token :  <=, Posbility: 0.0698
+Next Token :  >=, Posbility: 0.0252
+Choose :  <,  Posbility: 0.5082
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount <
+---------------------------
+Next Token :  profit, Posbility: 0.9704
+Next Token :  loss, Posbility: 0.0147
+Next Token :   , Posbility: 0.0038
+Next Token :  0, Posbility: 0.0034
+Next Token :  -, Posbility: 0.0018
+Choose :  profit,  Posbility: 0.9704
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit
+---------------------------
+Next Token :  and, Posbility: 0.9536
+Next Token : :, Posbility: 0.0267
+Next Token :  or, Posbility: 0.0107
+Next Token :  <, Posbility: 0.0037
+Next Token :   , Posbility: 0.0009
+Choose :  and,  Posbility: 0.9536
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and
+---------------------------
+Next Token :  amount, Posbility: 0.9931
+Next Token :  profit, Posbility: 0.0017
+Next Token :  (, Posbility: 0.0013
+Next Token :   , Posbility: 0.0010
+Next Token :  not, Posbility: 0.0008
+Choose :  amount,  Posbility: 0.9931
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount
+---------------------------
+Next Token :  <, Posbility: 0.8878
+Next Token :  >, Posbility: 0.0842
+Next Token :  <=, Posbility: 0.0146
+Next Token :  >=, Posbility: 0.0045
+Next Token : <, Posbility: 0.0021
+Choose :  <,  Posbility: 0.8878
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount <
+---------------------------
+Next Token :  loss, Posbility: 0.9883
+Next Token :  profit, Posbility: 0.0036
+Next Token : loss, Posbility: 0.0027
+Next Token :   , Posbility: 0.0013
+Next Token :  0, Posbility: 0.0006
+Choose :  loss,  Posbility: 0.9883
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss
+---------------------------
+Next Token : :, Posbility: 0.9907
+Next Token :  and, Posbility: 0.0035
+Next Token :  :, Posbility: 0.0034
+Next Token :  or, Posbility: 0.0015
+Next Token : :#, Posbility: 0.0004
+Choose : :,  Posbility: 0.9907
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+---------------------------
+Next Token : 
+, Posbility: 0.9919
+Next Token :  , Posbility: 0.0058
+Next Token :  #, Posbility: 0.0006
+Next Token :     , Posbility: 0.0005
+Next Token :   , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9919
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+
+---------------------------
+Next Token :         , Posbility: 0.9928
+Next Token :             , Posbility: 0.0030
+Next Token :          , Posbility: 0.0016
+Next Token :        , Posbility: 0.0010
+Next Token :     , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9928
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        
+---------------------------
+Next Token : print, Posbility: 0.9905
+Next Token : profit, Posbility: 0.0049
+Next Token : if, Posbility: 0.0021
+Next Token : #, Posbility: 0.0003
+Next Token : return, Posbility: 0.0003
+Choose : print,  Posbility: 0.9905
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print
+---------------------------
+Next Token : (", Posbility: 0.9646
+Next Token : (, Posbility: 0.0191
+Next Token : (', Posbility: 0.0117
+Next Token :  (", Posbility: 0.0044
+Next Token :  (, Posbility: 0.0001
+Choose : (",  Posbility: 0.9646
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("
+---------------------------
+Next Token : Amount, Posbility: 0.8732
+Next Token : amount, Posbility: 0.0184
+Next Token : Pro, Posbility: 0.0168
+Next Token : The, Posbility: 0.0082
+Next Token : You, Posbility: 0.0075
+Choose : Amount,  Posbility: 0.8732
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount
+---------------------------
+Next Token :  is, Posbility: 0.9096
+Next Token :  less, Posbility: 0.0525
+Next Token :  has, Posbility: 0.0045
+Next Token :  not, Posbility: 0.0023
+Next Token :  greater, Posbility: 0.0020
+Choose :  is,  Posbility: 0.9096
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is
+---------------------------
+Next Token :  less, Posbility: 0.7583
+Next Token :  lesser, Posbility: 0.0803
+Next Token :  smaller, Posbility: 0.0740
+Next Token :  lower, Posbility: 0.0443
+Next Token :  greater, Posbility: 0.0204
+Choose :  less,  Posbility: 0.7583
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less
+---------------------------
+Next Token :  than, Posbility: 0.9970
+Next Token :  or, Posbility: 0.0013
+Next Token :  then, Posbility: 0.0009
+Next Token :  that, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Choose :  than,  Posbility: 0.9970
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than
+---------------------------
+Next Token :  profit, Posbility: 0.9866
+Next Token :  the, Posbility: 0.0044
+Next Token :  a, Posbility: 0.0007
+Next Token :  Profit, Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose :  profit,  Posbility: 0.9866
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit
+---------------------------
+Next Token :  and, Posbility: 0.9682
+Next Token : "), Posbility: 0.0123
+Next Token :  but, Posbility: 0.0064
+Next Token :  or, Posbility: 0.0037
+Next Token : ,, Posbility: 0.0014
+Choose :  and,  Posbility: 0.9682
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and
+---------------------------
+Next Token :  less, Posbility: 0.9483
+Next Token :  lesser, Posbility: 0.0125
+Next Token :  smaller, Posbility: 0.0098
+Next Token :  lower, Posbility: 0.0070
+Next Token :  greater, Posbility: 0.0066
+Choose :  less,  Posbility: 0.9483
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less
+---------------------------
+Next Token :  than, Posbility: 0.9860
+Next Token :  then, Posbility: 0.0065
+Next Token :  that, Posbility: 0.0018
+Next Token :  or, Posbility: 0.0015
+Next Token :  less, Posbility: 0.0012
+Choose :  than,  Posbility: 0.9860
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than
+---------------------------
+Next Token :  loss, Posbility: 0.9904
+Next Token :  or, Posbility: 0.0019
+Next Token :  profit, Posbility: 0.0011
+Next Token :  lost, Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Choose :  loss,  Posbility: 0.9904
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss
+---------------------------
+Next Token : "), Posbility: 0.9853
+Next Token : ."), Posbility: 0.0058
+Next Token :  ", Posbility: 0.0037
+Next Token : ", Posbility: 0.0009
+Next Token : ., Posbility: 0.0006
+Choose : "),  Posbility: 0.9853
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+---------------------------
+Next Token : 
+, Posbility: 0.9812
+Next Token : 
+
+, Posbility: 0.0079
+Next Token :  , Posbility: 0.0052
+Next Token :     , Posbility: 0.0019
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9812
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+
+---------------------------
+Next Token :     , Posbility: 0.9909
+Next Token :         , Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0030
+Next Token : def, Posbility: 0.0004
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9909
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    
+---------------------------
+Next Token : el, Posbility: 0.7956
+Next Token : else, Posbility: 0.1969
+Next Token : return, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0017
+Next Token : if, Posbility: 0.0016
+Choose : el,  Posbility: 0.7956
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : else, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : IF, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif
+---------------------------
+Next Token :  amount, Posbility: 0.9740
+Next Token :  profit, Posbility: 0.0147
+Next Token :  (, Posbility: 0.0041
+Next Token :   , Posbility: 0.0014
+Next Token :  not, Posbility: 0.0014
+Choose :  amount,  Posbility: 0.9740
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount
+---------------------------
+Next Token :  ==, Posbility: 0.3710
+Next Token :  >, Posbility: 0.2995
+Next Token :  <, Posbility: 0.2462
+Next Token :  >=, Posbility: 0.0306
+Next Token :  <=, Posbility: 0.0297
+Choose :  ==,  Posbility: 0.3710
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount ==
+---------------------------
+Next Token :  profit, Posbility: 0.9950
+Next Token :  0, Posbility: 0.0019
+Next Token : profit, Posbility: 0.0007
+Next Token :  loss, Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Choose :  profit,  Posbility: 0.9950
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit
+---------------------------
+Next Token :  and, Posbility: 0.9663
+Next Token : :, Posbility: 0.0196
+Next Token :  or, Posbility: 0.0095
+Next Token :  ==, Posbility: 0.0016
+Next Token :   , Posbility: 0.0006
+Choose :  and,  Posbility: 0.9663
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and
+---------------------------
+Next Token :  amount, Posbility: 0.9553
+Next Token :  profit, Posbility: 0.0168
+Next Token :  loss, Posbility: 0.0096
+Next Token :  (, Posbility: 0.0051
+Next Token :  not, Posbility: 0.0025
+Choose :  amount,  Posbility: 0.9553
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount
+---------------------------
+Next Token :  ==, Posbility: 0.5215
+Next Token :  <, Posbility: 0.1828
+Next Token : !=, Posbility: 0.1619
+Next Token :  >, Posbility: 0.0957
+Next Token :  <=, Posbility: 0.0086
+Choose :  ==,  Posbility: 0.5215
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount ==
+---------------------------
+Next Token :  loss, Posbility: 0.9960
+Next Token :  profit, Posbility: 0.0019
+Next Token : loss, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Next Token :  0, Posbility: 0.0001
+Choose :  loss,  Posbility: 0.9960
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss
+---------------------------
+Next Token : :, Posbility: 0.9928
+Next Token :  :, Posbility: 0.0021
+Next Token :  and, Posbility: 0.0020
+Next Token :  or, Posbility: 0.0014
+Next Token : :#, Posbility: 0.0008
+Choose : :,  Posbility: 0.9928
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+---------------------------
+Next Token : 
+, Posbility: 0.9958
+Next Token :  , Posbility: 0.0024
+Next Token :  #, Posbility: 0.0007
+Next Token :   , Posbility: 0.0003
+Next Token :  print, Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9958
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+
+---------------------------
+Next Token :         , Posbility: 0.9938
+Next Token :             , Posbility: 0.0029
+Next Token :          , Posbility: 0.0016
+Next Token :        , Posbility: 0.0007
+Next Token :     , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9938
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        
+---------------------------
+Next Token : print, Posbility: 0.9944
+Next Token : return, Posbility: 0.0023
+Next Token : if, Posbility: 0.0010
+Next Token : pass, Posbility: 0.0007
+Next Token : #, Posbility: 0.0004
+Choose : print,  Posbility: 0.9944
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print
+---------------------------
+Next Token : (", Posbility: 0.9620
+Next Token : (, Posbility: 0.0236
+Next Token : (', Posbility: 0.0094
+Next Token :  (", Posbility: 0.0046
+Next Token : (), Posbility: 0.0002
+Choose : (",  Posbility: 0.9620
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("
+---------------------------
+Next Token : Amount, Posbility: 0.2496
+Next Token : Both, Posbility: 0.2483
+Next Token : No, Posbility: 0.1072
+Next Token : It, Posbility: 0.0464
+Next Token : Same, Posbility: 0.0328
+Choose : Amount,  Posbility: 0.2496
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount
+---------------------------
+Next Token :  is, Posbility: 0.8220
+Next Token :  equals, Posbility: 0.0374
+Next Token :  has, Posbility: 0.0291
+Next Token :  are, Posbility: 0.0135
+Next Token :  equal, Posbility: 0.0125
+Choose :  is,  Posbility: 0.8220
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is
+---------------------------
+Next Token :  equal, Posbility: 0.7235
+Next Token :  same, Posbility: 0.0742
+Next Token :  the, Posbility: 0.0377
+Next Token :  both, Posbility: 0.0227
+Next Token :  equals, Posbility: 0.0167
+Choose :  equal,  Posbility: 0.7235
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal
+---------------------------
+Next Token :  to, Posbility: 0.7999
+Next Token : "), Posbility: 0.0996
+Next Token :  profit, Posbility: 0.0412
+Next Token :  and, Posbility: 0.0172
+Next Token :  amount, Posbility: 0.0075
+Choose :  to,  Posbility: 0.7999
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to
+---------------------------
+Next Token :  profit, Posbility: 0.8920
+Next Token :  both, Posbility: 0.0679
+Next Token :  the, Posbility: 0.0140
+Next Token :  all, Posbility: 0.0034
+Next Token :  either, Posbility: 0.0027
+Choose :  profit,  Posbility: 0.8920
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit
+---------------------------
+Next Token :  and, Posbility: 0.9681
+Next Token : "), Posbility: 0.0130
+Next Token : ,, Posbility: 0.0054
+Next Token :  or, Posbility: 0.0013
+Next Token :  &, Posbility: 0.0010
+Choose :  and,  Posbility: 0.9681
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and
+---------------------------
+Next Token :  equal, Posbility: 0.9376
+Next Token :  loss, Posbility: 0.0142
+Next Token :  amount, Posbility: 0.0096
+Next Token :  equals, Posbility: 0.0084
+Next Token :  profit, Posbility: 0.0051
+Choose :  equal,  Posbility: 0.9376
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal
+---------------------------
+Next Token :  to, Posbility: 0.9986
+Next Token :  profit, Posbility: 0.0002
+Next Token :  than, Posbility: 0.0002
+Next Token :  loss, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  to,  Posbility: 0.9986
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to
+---------------------------
+Next Token :  loss, Posbility: 0.9959
+Next Token :  profit, Posbility: 0.0007
+Next Token :  losses, Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Next Token :  lost, Posbility: 0.0002
+Choose :  loss,  Posbility: 0.9959
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss
+---------------------------
+Next Token : "), Posbility: 0.9806
+Next Token :  ", Posbility: 0.0052
+Next Token : ."), Posbility: 0.0046
+Next Token : ,, Posbility: 0.0017
+Next Token : ., Posbility: 0.0011
+Choose : "),  Posbility: 0.9806
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+---------------------------
+Next Token : 
+, Posbility: 0.9513
+Next Token : 
+
+, Posbility: 0.0362
+Next Token :  , Posbility: 0.0058
+Next Token :     , Posbility: 0.0018
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9513
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+
+---------------------------
+Next Token :     , Posbility: 0.9380
+Next Token : 
+, Posbility: 0.0330
+Next Token :         , Posbility: 0.0110
+Next Token : def, Posbility: 0.0021
+Next Token : #, Posbility: 0.0020
+Choose :     ,  Posbility: 0.9380
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    
+---------------------------
+Next Token : else, Posbility: 0.6373
+Next Token : el, Posbility: 0.3336
+Next Token : return, Posbility: 0.0113
+Next Token : 
+, Posbility: 0.0074
+Next Token : #, Posbility: 0.0031
+Choose : else,  Posbility: 0.6373
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else
+---------------------------
+Next Token : :, Posbility: 0.9917
+Next Token :  :, Posbility: 0.0079
+Next Token : :#, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0000
+Choose : :,  Posbility: 0.9917
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9677
+Next Token :  , Posbility: 0.0188
+Next Token :  print, Posbility: 0.0090
+Next Token :  #, Posbility: 0.0010
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9677
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9909
+Next Token :          , Posbility: 0.0041
+Next Token :        , Posbility: 0.0017
+Next Token :             , Posbility: 0.0016
+Next Token :       , Posbility: 0.0005
+Choose :         ,  Posbility: 0.9909
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        
+---------------------------
+Next Token : print, Posbility: 0.9707
+Next Token : pass, Posbility: 0.0166
+Next Token : return, Posbility: 0.0053
+Next Token : if, Posbility: 0.0022
+Next Token : profit, Posbility: 0.0014
+Choose : print,  Posbility: 0.9707
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print
+---------------------------
+Next Token : (", Posbility: 0.9711
+Next Token : (, Posbility: 0.0164
+Next Token : (', Posbility: 0.0093
+Next Token :  (", Posbility: 0.0024
+Next Token : (), Posbility: 0.0006
+Choose : (",  Posbility: 0.9711
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("
+---------------------------
+Next Token : Amount, Posbility: 0.4254
+Next Token : No, Posbility: 0.0791
+Next Token : Both, Posbility: 0.0301
+Next Token : Not, Posbility: 0.0298
+Next Token : Invalid, Posbility: 0.0279
+Choose : Amount,  Posbility: 0.4254
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount
+---------------------------
+Next Token :  is, Posbility: 0.8799
+Next Token :  not, Posbility: 0.0236
+Next Token :  does, Posbility: 0.0202
+Next Token :  doesn, Posbility: 0.0132
+Next Token :  has, Posbility: 0.0129
+Choose :  is,  Posbility: 0.8799
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is
+---------------------------
+Next Token :  less, Posbility: 0.3024
+Next Token :  greater, Posbility: 0.2431
+Next Token :  not, Posbility: 0.1688
+Next Token :  equal, Posbility: 0.0752
+Next Token :  lesser, Posbility: 0.0297
+Choose :  less,  Posbility: 0.3024
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less
+---------------------------
+Next Token :  than, Posbility: 0.9833
+Next Token :  or, Posbility: 0.0088
+Next Token :  then, Posbility: 0.0048
+Next Token :  that, Posbility: 0.0006
+Next Token :  equal, Posbility: 0.0003
+Choose :  than,  Posbility: 0.9833
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than
+---------------------------
+Next Token :  profit, Posbility: 0.9676
+Next Token :  loss, Posbility: 0.0080
+Next Token :  either, Posbility: 0.0034
+Next Token :  the, Posbility: 0.0030
+Next Token :  or, Posbility: 0.0022
+Choose :  profit,  Posbility: 0.9676
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit
+---------------------------
+Next Token :  and, Posbility: 0.8985
+Next Token :  or, Posbility: 0.0378
+Next Token : "), Posbility: 0.0334
+Next Token : ,, Posbility: 0.0098
+Next Token :  but, Posbility: 0.0082
+Choose :  and,  Posbility: 0.8985
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and
+---------------------------
+Next Token :  less, Posbility: 0.8554
+Next Token :  greater, Posbility: 0.0295
+Next Token :  not, Posbility: 0.0202
+Next Token :  more, Posbility: 0.0174
+Next Token :  lesser, Posbility: 0.0127
+Choose :  less,  Posbility: 0.8554
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less
+---------------------------
+Next Token :  than, Posbility: 0.9922
+Next Token :  then, Posbility: 0.0054
+Next Token :  that, Posbility: 0.0010
+Next Token :  or, Posbility: 0.0003
+Next Token : "), Posbility: 0.0001
+Choose :  than,  Posbility: 0.9922
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less than
+---------------------------
+Next Token :  loss, Posbility: 0.9934
+Next Token :  profit, Posbility: 0.0015
+Next Token :  lost, Posbility: 0.0006
+Next Token :  or, Posbility: 0.0005
+Next Token :  losses, Posbility: 0.0003
+Choose :  loss,  Posbility: 0.9934
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less than loss
+---------------------------
+Next Token : "), Posbility: 0.9503
+Next Token :  and, Posbility: 0.0116
+Next Token : ,, Posbility: 0.0082
+Next Token :  or, Posbility: 0.0070
+Next Token : ."), Posbility: 0.0049
+Choose : "),  Posbility: 0.9503
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less than loss")
+---------------------------
+Next Token : 
+, Posbility: 0.8041
+Next Token : 
+
+, Posbility: 0.1733
+Next Token :  , Posbility: 0.0083
+Next Token :     , Posbility: 0.0038
+Next Token :         , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.8041
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less than loss")
+
+---------------------------
+Next Token : 
+, Posbility: 0.5631
+Next Token :     , Posbility: 0.1476
+Next Token :         , Posbility: 0.0720
+Next Token : amount, Posbility: 0.0399
+Next Token : check, Posbility: 0.0314
+Choose : 
+,  Posbility: 0.5631
+---------------------------
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less than loss")
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8675
+Next Token :     , Posbility: 0.0580
+Next Token : 
+
+, Posbility: 0.0491
+Next Token :         , Posbility: 0.0094
+Next Token : <|endoftext|>, Posbility: 0.0054
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 19.65950036048889
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to check whether the given amount has no profit and no loss'''
+def 
+def check_profit_loss(amount, profit, loss):
+    if amount > profit and amount > loss:
+        print("Amount is greater than profit and greater than loss")
+    elif amount < profit and amount < loss:
+        print("Amount is less than profit and less than loss")
+    elif amount == profit and amount == loss:
+        print("Amount is equal to profit and equal to loss")
+    else:
+        print("Amount is less than profit and less than loss")
+
+
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Timeout >>>>>>>>>>>>

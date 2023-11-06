@@ -1,0 +1,791 @@
+<<<<<<<<<<<< 42 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2018
+Next Token : ____, Posbility: 0.0673
+Next Token : iz, Posbility: 0.0604
+Next Token : ich, Posbility: 0.0593
+Next Token : ix, Posbility: 0.0473
+syntax error : 
+
+Choose : ____, Posbility: 0.0673
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____
+---------------------------
+Next Token : get, Posbility: 0.2330
+Next Token : (, Posbility: 0.0960
+Next Token : ():, Posbility: 0.0843
+Next Token : frequency, Posbility: 0.0753
+Next Token : fre, Posbility: 0.0718
+Choose : get, Posbility: 0.2330
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get
+---------------------------
+Next Token : _, Posbility: 0.6337
+Next Token : F, Posbility: 0.1044
+Next Token : Fre, Posbility: 0.0902
+Next Token : fre, Posbility: 0.0427
+Next Token : frequency, Posbility: 0.0197
+Choose : _, Posbility: 0.6337
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_
+---------------------------
+Next Token : frequency, Posbility: 0.6214
+Next Token : fre, Posbility: 0.2194
+Next Token : f, Posbility: 0.0297
+Next Token : all, Posbility: 0.0187
+Next Token : e, Posbility: 0.0116
+Choose : frequency, Posbility: 0.6214
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency
+---------------------------
+Next Token : _, Posbility: 0.5579
+Next Token : (, Posbility: 0.3190
+Next Token : ():, Posbility: 0.0546
+Next Token : __, Posbility: 0.0366
+Next Token : _(, Posbility: 0.0075
+Choose : _, Posbility: 0.5579
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_
+---------------------------
+Next Token : of, Posbility: 0.3455
+Next Token : dict, Posbility: 0.2591
+Next Token : d, Posbility: 0.1262
+Next Token : list, Posbility: 0.1140
+Next Token : from, Posbility: 0.0164
+Choose : of, Posbility: 0.3455
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of
+---------------------------
+Next Token : _, Posbility: 0.9808
+Next Token : (, Posbility: 0.0116
+Next Token : __, Posbility: 0.0030
+Next Token : ():, Posbility: 0.0007
+Next Token : All, Posbility: 0.0006
+Choose : _, Posbility: 0.9808
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_
+---------------------------
+Next Token : e, Posbility: 0.3272
+Next Token : all, Posbility: 0.2953
+Next Token : list, Posbility: 0.1746
+Next Token : element, Posbility: 0.0293
+Next Token : each, Posbility: 0.0276
+Choose : e, Posbility: 0.3272
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_e
+---------------------------
+Next Token : lements, Posbility: 0.9787
+Next Token : lem, Posbility: 0.0205
+Next Token : (, Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Next Token : les, Posbility: 0.0000
+Choose : lements, Posbility: 0.9787
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements
+---------------------------
+Next Token : (, Posbility: 0.4217
+Next Token : _, Posbility: 0.3198
+Next Token : __, Posbility: 0.0901
+Next Token : ____, Posbility: 0.0583
+Next Token : ():, Posbility: 0.0441
+Choose : (, Posbility: 0.4217
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(
+---------------------------
+Next Token : list, Posbility: 0.2044
+Next Token : l, Posbility: 0.1683
+Next Token : e, Posbility: 0.1309
+Next Token : my, Posbility: 0.0726
+Next Token : some, Posbility: 0.0413
+Choose : list, Posbility: 0.2044
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list
+---------------------------
+Next Token : ):, Posbility: 0.5653
+Next Token : _, Posbility: 0.2828
+Next Token : 1, Posbility: 0.0569
+Next Token : ,, Posbility: 0.0236
+Next Token : e, Posbility: 0.0236
+Choose : ):, Posbility: 0.5653
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+---------------------------
+Next Token : 
+, Posbility: 0.8921
+Next Token : 
+
+, Posbility: 0.0347
+Next Token :  , Posbility: 0.0320
+Next Token : , Posbility: 0.0184
+Next Token :   , Posbility: 0.0047
+Choose : 
+, Posbility: 0.8921
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+
+---------------------------
+Next Token :     , Posbility: 0.8608
+Next Token :   , Posbility: 0.0536
+Next Token : 	, Posbility: 0.0509
+Next Token :    , Posbility: 0.0138
+Next Token :         , Posbility: 0.0056
+Choose :     , Posbility: 0.8608
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    
+---------------------------
+Next Token : frequency, Posbility: 0.2337
+Next Token : '', Posbility: 0.1189
+Next Token : fre, Posbility: 0.1043
+Next Token : d, Posbility: 0.0984
+Next Token : #, Posbility: 0.0486
+Choose : frequency, Posbility: 0.2337
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency
+---------------------------
+Next Token :  =, Posbility: 0.4441
+Next Token : _, Posbility: 0.4419
+Next Token : ={, Posbility: 0.0683
+Next Token : =, Posbility: 0.0315
+Next Token : D, Posbility: 0.0049
+Choose :  =, Posbility: 0.4441
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency =
+---------------------------
+Next Token :  {}, Posbility: 0.8034
+Next Token :  dict, Posbility: 0.1321
+Next Token :  {, Posbility: 0.0325
+Next Token :  collections, Posbility: 0.0062
+Next Token : {, Posbility: 0.0053
+Choose :  {}, Posbility: 0.8034
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+---------------------------
+Next Token : 
+, Posbility: 0.9065
+Next Token : 
+
+, Posbility: 0.0596
+Next Token :  #, Posbility: 0.0091
+Next Token :  , Posbility: 0.0089
+Next Token :   , Posbility: 0.0040
+Choose : 
+, Posbility: 0.9065
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+
+---------------------------
+Next Token :     , Posbility: 0.9958
+Next Token :    , Posbility: 0.0010
+Next Token :         , Posbility: 0.0006
+Next Token :  , Posbility: 0.0004
+Next Token : #, Posbility: 0.0004
+Choose :     , Posbility: 0.9958
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    
+---------------------------
+Next Token : for, Posbility: 0.8849
+Next Token : 
+, Posbility: 0.0159
+Next Token : #, Posbility: 0.0109
+Next Token : list, Posbility: 0.0097
+Next Token : count, Posbility: 0.0068
+Choose : for, Posbility: 0.8849
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for
+---------------------------
+Next Token :  element, Posbility: 0.3564
+Next Token :  i, Posbility: 0.2322
+Next Token :  ele, Posbility: 0.0765
+Next Token :  item, Posbility: 0.0579
+Next Token :  el, Posbility: 0.0477
+Choose :  element, Posbility: 0.3564
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element
+---------------------------
+Next Token :  in, Posbility: 0.9916
+Next Token : _, Posbility: 0.0062
+Next Token : ,, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0006
+Next Token :   , Posbility: 0.0002
+Choose :  in, Posbility: 0.9916
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in
+---------------------------
+Next Token :  list, Posbility: 0.9857
+Next Token :  range, Posbility: 0.0072
+Next Token :  set, Posbility: 0.0017
+Next Token :   , Posbility: 0.0013
+Next Token :  (, Posbility: 0.0005
+Choose :  list, Posbility: 0.9857
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list
+---------------------------
+Next Token : :, Posbility: 0.9896
+Next Token :  :, Posbility: 0.0043
+Next Token : [, Posbility: 0.0040
+Next Token : ., Posbility: 0.0009
+Next Token : _, Posbility: 0.0005
+Choose : :, Posbility: 0.9896
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+---------------------------
+Next Token : 
+, Posbility: 0.9791
+Next Token :  , Posbility: 0.0104
+Next Token :  frequency, Posbility: 0.0039
+Next Token : 
+
+, Posbility: 0.0013
+Next Token :   , Posbility: 0.0011
+Choose : 
+, Posbility: 0.9791
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+
+---------------------------
+Next Token :         , Posbility: 0.9827
+Next Token :       , Posbility: 0.0055
+Next Token :        , Posbility: 0.0034
+Next Token :             , Posbility: 0.0031
+Next Token :     , Posbility: 0.0017
+Choose :         , Posbility: 0.9827
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        
+---------------------------
+Next Token : if, Posbility: 0.6679
+Next Token : frequency, Posbility: 0.2602
+Next Token : try, Posbility: 0.0179
+Next Token : element, Posbility: 0.0125
+Next Token : for, Posbility: 0.0056
+Choose : if, Posbility: 0.6679
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if
+---------------------------
+Next Token :  element, Posbility: 0.9260
+Next Token :  not, Posbility: 0.0177
+Next Token : (, Posbility: 0.0114
+Next Token :  (, Posbility: 0.0108
+Next Token :  frequency, Posbility: 0.0090
+Choose :  element, Posbility: 0.9260
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element
+---------------------------
+Next Token :  in, Posbility: 0.7223
+Next Token :  not, Posbility: 0.2650
+Next Token : ., Posbility: 0.0035
+Next Token : :, Posbility: 0.0021
+Next Token : !=, Posbility: 0.0016
+Choose :  in, Posbility: 0.7223
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in
+---------------------------
+Next Token :  frequency, Posbility: 0.9773
+Next Token :  list, Posbility: 0.0169
+Next Token :   , Posbility: 0.0014
+Next Token :  sorted, Posbility: 0.0007
+Next Token :  dictionary, Posbility: 0.0006
+Choose :  frequency, Posbility: 0.9773
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency
+---------------------------
+Next Token : :, Posbility: 0.8469
+Next Token : ., Posbility: 0.1506
+Next Token :  :, Posbility: 0.0015
+Next Token :  and, Posbility: 0.0006
+Next Token :  or, Posbility: 0.0002
+Choose : :, Posbility: 0.8469
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+---------------------------
+Next Token : 
+, Posbility: 0.9816
+Next Token :  , Posbility: 0.0084
+Next Token :  frequency, Posbility: 0.0054
+Next Token :   , Posbility: 0.0012
+Next Token :  #, Posbility: 0.0008
+Choose : 
+, Posbility: 0.9816
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+
+---------------------------
+Next Token :             , Posbility: 0.9920
+Next Token :            , Posbility: 0.0031
+Next Token :                 , Posbility: 0.0018
+Next Token :           , Posbility: 0.0015
+Next Token :              , Posbility: 0.0008
+Choose :             , Posbility: 0.9920
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            
+---------------------------
+Next Token : frequency, Posbility: 0.9841
+Next Token : if, Posbility: 0.0027
+Next Token : fre, Posbility: 0.0022
+Next Token : #, Posbility: 0.0021
+Next Token : element, Posbility: 0.0011
+Choose : frequency, Posbility: 0.9841
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency
+---------------------------
+Next Token : [, Posbility: 0.9966
+Next Token : ., Posbility: 0.0015
+Next Token :  =, Posbility: 0.0008
+Next Token :  [, Posbility: 0.0006
+Next Token : [', Posbility: 0.0002
+Choose : [, Posbility: 0.9966
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[
+---------------------------
+Next Token : element, Posbility: 0.9987
+Next Token :  element, Posbility: 0.0003
+Next Token : str, Posbility: 0.0002
+Next Token : list, Posbility: 0.0002
+Next Token : e, Posbility: 0.0001
+Choose : element, Posbility: 0.9987
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element
+---------------------------
+Next Token : ], Posbility: 0.9952
+Next Token : ]=, Posbility: 0.0039
+Next Token : ]+, Posbility: 0.0003
+Next Token : ][, Posbility: 0.0002
+Next Token : ]., Posbility: 0.0001
+Choose : ], Posbility: 0.9952
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element]
+---------------------------
+Next Token :  +=, Posbility: 0.7735
+Next Token :  =, Posbility: 0.1467
+Next Token : +=, Posbility: 0.0787
+Next Token : 
+, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  +=, Posbility: 0.7735
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] +=
+---------------------------
+Next Token :  1, Posbility: 0.9698
+Next Token : 1, Posbility: 0.0286
+Next Token :  list, Posbility: 0.0006
+Next Token :   , Posbility: 0.0002
+Next Token :  frequency, Posbility: 0.0002
+Choose :  1, Posbility: 0.9698
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9820
+Next Token :  , Posbility: 0.0081
+Next Token : 
+
+, Posbility: 0.0025
+Next Token :  #, Posbility: 0.0017
+Next Token :   , Posbility: 0.0015
+Choose : 
+, Posbility: 0.9820
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+
+---------------------------
+Next Token :         , Posbility: 0.9905
+Next Token :             , Posbility: 0.0066
+Next Token :     , Posbility: 0.0022
+Next Token : #, Posbility: 0.0001
+Next Token :                 , Posbility: 0.0001
+Choose :         , Posbility: 0.9905
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        
+---------------------------
+Next Token : else, Posbility: 0.9952
+Next Token : el, Posbility: 0.0037
+Next Token : 
+, Posbility: 0.0005
+Next Token : if, Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Choose : else, Posbility: 0.9952
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else
+---------------------------
+Next Token : :, Posbility: 0.9960
+Next Token :  :, Posbility: 0.0038
+Next Token : 
+, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :, Posbility: 0.9960
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+---------------------------
+Next Token : 
+, Posbility: 0.9869
+Next Token :  , Posbility: 0.0091
+Next Token :  frequency, Posbility: 0.0024
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Choose : 
+, Posbility: 0.9869
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+
+---------------------------
+Next Token :             , Posbility: 0.9975
+Next Token :            , Posbility: 0.0011
+Next Token :              , Posbility: 0.0007
+Next Token :           , Posbility: 0.0003
+Next Token :                 , Posbility: 0.0001
+Choose :             , Posbility: 0.9975
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            
+---------------------------
+Next Token : frequency, Posbility: 0.9984
+Next Token : fre, Posbility: 0.0004
+Next Token : #, Posbility: 0.0002
+Next Token : if, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Choose : frequency, Posbility: 0.9984
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency
+---------------------------
+Next Token : [, Posbility: 0.9987
+Next Token : ., Posbility: 0.0009
+Next Token :  [, Posbility: 0.0002
+Next Token : [', Posbility: 0.0000
+Next Token : [", Posbility: 0.0000
+Choose : [, Posbility: 0.9987
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[
+---------------------------
+Next Token : element, Posbility: 0.9996
+Next Token :  element, Posbility: 0.0001
+Next Token : str, Posbility: 0.0001
+Next Token : e, Posbility: 0.0001
+Next Token : int, Posbility: 0.0000
+Choose : element, Posbility: 0.9996
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element
+---------------------------
+Next Token : ], Posbility: 0.9965
+Next Token : ]=, Posbility: 0.0028
+Next Token :  ], Posbility: 0.0006
+Next Token :  =, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : ], Posbility: 0.9965
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element]
+---------------------------
+Next Token :  =, Posbility: 0.9984
+Next Token :   , Posbility: 0.0007
+Next Token :  +=, Posbility: 0.0004
+Next Token :  ==, Posbility: 0.0003
+Next Token : =, Posbility: 0.0000
+Choose :  =, Posbility: 0.9984
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] =
+---------------------------
+Next Token :  1, Posbility: 0.9763
+Next Token :  0, Posbility: 0.0200
+Next Token : 1, Posbility: 0.0019
+Next Token :  list, Posbility: 0.0005
+Next Token :   , Posbility: 0.0005
+Choose :  1, Posbility: 0.9763
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] = 1
+---------------------------
+Next Token : 
+, Posbility: 0.9330
+Next Token : 
+
+, Posbility: 0.0474
+Next Token :  , Posbility: 0.0091
+Next Token :     , Posbility: 0.0024
+Next Token :    , Posbility: 0.0022
+Choose : 
+, Posbility: 0.9330
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] = 1
+
+---------------------------
+Next Token :     , Posbility: 0.9645
+Next Token :         , Posbility: 0.0162
+Next Token :             , Posbility: 0.0137
+Next Token : 
+, Posbility: 0.0017
+Next Token : #, Posbility: 0.0005
+Choose :     , Posbility: 0.9645
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] = 1
+    
+---------------------------
+Next Token : return, Posbility: 0.9372
+Next Token : print, Posbility: 0.0208
+Next Token : 
+, Posbility: 0.0184
+Next Token : frequency, Posbility: 0.0080
+Next Token : for, Posbility: 0.0043
+Choose : return, Posbility: 0.9372
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] = 1
+    return
+---------------------------
+Next Token :  frequency, Posbility: 0.9943
+Next Token : (, Posbility: 0.0021
+Next Token :  (, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Next Token :  list, Posbility: 0.0004
+Choose :  frequency, Posbility: 0.9943
+---------------------------
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] = 1
+    return frequency
+---------------------------
+Next Token : 
+, Posbility: 0.7682
+Next Token : 
+
+, Posbility: 0.1826
+Next Token : <|endoftext|>, Posbility: 0.0249
+Next Token :  , Posbility: 0.0077
+Next Token :     , Posbility: 0.0048
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.962109804153442
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to get the frequency of all the elements in a list, returned as a dictionary.'''
+def ____get_frequency_of_elements(list):
+    frequency = {}
+    for element in list:
+        if element in frequency:
+            frequency[element] += 1
+        else:
+            frequency[element] = 1
+    return frequency
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

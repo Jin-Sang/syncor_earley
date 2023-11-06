@@ -1,0 +1,826 @@
+<<<<<<<<<<<< 34 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  odd, Posbility: 0.6392
+Next Token :  check, Posbility: 0.1049
+Next Token :  is, Posbility: 0.0777
+Next Token :  length, Posbility: 0.0364
+Next Token :  word, Posbility: 0.0117
+Choose :  odd,  Posbility: 0.6392
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd
+---------------------------
+Next Token : _, Posbility: 0.4858
+Next Token : Or, Posbility: 0.1959
+Next Token : (, Posbility: 0.1490
+Next Token : Length, Posbility: 0.0339
+Next Token : Even, Posbility: 0.0194
+Choose : _,  Posbility: 0.4858
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_
+---------------------------
+Next Token : or, Posbility: 0.2649
+Next Token : length, Posbility: 0.1825
+Next Token : word, Posbility: 0.1736
+Next Token : len, Posbility: 0.0865
+Next Token : even, Posbility: 0.0385
+Choose : or,  Posbility: 0.2649
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or
+---------------------------
+Next Token : _, Posbility: 0.9859
+Next Token : (, Posbility: 0.0078
+Next Token : not, Posbility: 0.0014
+Next Token : Even, Posbility: 0.0005
+Next Token : ():, Posbility: 0.0005
+Choose : _,  Posbility: 0.9859
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_
+---------------------------
+Next Token : even, Posbility: 0.8675
+Next Token : not, Posbility: 0.1091
+Next Token : odd, Posbility: 0.0053
+Next Token : zero, Posbility: 0.0021
+Next Token : Even, Posbility: 0.0021
+Choose : even,  Posbility: 0.8675
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even
+---------------------------
+Next Token : (, Posbility: 0.9000
+Next Token : _, Posbility: 0.0727
+Next Token : ():, Posbility: 0.0181
+Next Token :  (, Posbility: 0.0060
+Next Token : (*, Posbility: 0.0009
+Choose : (,  Posbility: 0.9000
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(
+---------------------------
+Next Token : word, Posbility: 0.4828
+Next Token : string, Posbility: 0.1106
+Next Token : s, Posbility: 0.0548
+Next Token : str, Posbility: 0.0472
+Next Token : text, Posbility: 0.0452
+Choose : word,  Posbility: 0.4828
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word
+---------------------------
+Next Token : ):, Posbility: 0.9482
+Next Token : _, Posbility: 0.0159
+Next Token : :, Posbility: 0.0154
+Next Token : ,, Posbility: 0.0079
+Next Token : ), Posbility: 0.0064
+Choose : ):,  Posbility: 0.9482
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+---------------------------
+Next Token : 
+, Posbility: 0.9211
+Next Token : , Posbility: 0.0296
+Next Token : 
+
+, Posbility: 0.0278
+Next Token :  , Posbility: 0.0122
+Next Token :  #, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9211
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+
+---------------------------
+Next Token :     , Posbility: 0.9143
+Next Token :   , Posbility: 0.0391
+Next Token : 	, Posbility: 0.0313
+Next Token :    , Posbility: 0.0097
+Next Token :      , Posbility: 0.0012
+Choose :     ,  Posbility: 0.9143
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    
+---------------------------
+Next Token : if, Posbility: 0.4616
+Next Token : '', Posbility: 0.2625
+Next Token : odd, Posbility: 0.0444
+Next Token : #, Posbility: 0.0265
+Next Token : return, Posbility: 0.0210
+Choose : if,  Posbility: 0.4616
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if
+---------------------------
+Next Token :  len, Posbility: 0.8645
+Next Token :  word, Posbility: 0.0602
+Next Token : (, Posbility: 0.0260
+Next Token :  (, Posbility: 0.0220
+Next Token :  not, Posbility: 0.0080
+Choose :  len,  Posbility: 0.8645
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9991
+Next Token :  (, Posbility: 0.0004
+Next Token : (', Posbility: 0.0001
+Next Token : (", Posbility: 0.0001
+Next Token :  ==, Posbility: 0.0001
+Choose : (,  Posbility: 0.9991
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(
+---------------------------
+Next Token : word, Posbility: 0.9958
+Next Token : str, Posbility: 0.0025
+Next Token : list, Posbility: 0.0007
+Next Token : set, Posbility: 0.0002
+Next Token : words, Posbility: 0.0001
+Choose : word,  Posbility: 0.9958
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word
+---------------------------
+Next Token : ), Posbility: 0.9876
+Next Token : ., Posbility: 0.0072
+Next Token : )!, Posbility: 0.0027
+Next Token : )-, Posbility: 0.0007
+Next Token : ):, Posbility: 0.0005
+Choose : ),  Posbility: 0.9876
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word)
+---------------------------
+Next Token :  %, Posbility: 0.5022
+Next Token : %, Posbility: 0.4266
+Next Token :  ==, Posbility: 0.0217
+Next Token :  >, Posbility: 0.0078
+Next Token : !=, Posbility: 0.0064
+Choose :  %,  Posbility: 0.5022
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) %
+---------------------------
+Next Token :  2, Posbility: 0.9701
+Next Token : 2, Posbility: 0.0291
+Next Token :  3, Posbility: 0.0002
+Next Token :  4, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  2,  Posbility: 0.9701
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2
+---------------------------
+Next Token :  ==, Posbility: 0.7634
+Next Token : !=, Posbility: 0.1791
+Next Token : :, Posbility: 0.0430
+Next Token : ==, Posbility: 0.0080
+Next Token : !, Posbility: 0.0013
+Choose :  ==,  Posbility: 0.7634
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 ==
+---------------------------
+Next Token :  0, Posbility: 0.8394
+Next Token :  1, Posbility: 0.1457
+Next Token : 0, Posbility: 0.0104
+Next Token : 1, Posbility: 0.0021
+Next Token :  True, Posbility: 0.0010
+Choose :  0,  Posbility: 0.8394
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0
+---------------------------
+Next Token : :, Posbility: 0.9745
+Next Token :  and, Posbility: 0.0095
+Next Token :  or, Posbility: 0.0082
+Next Token :  :, Posbility: 0.0069
+Next Token : :#, Posbility: 0.0002
+Choose : :,  Posbility: 0.9745
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9535
+Next Token :  , Posbility: 0.0115
+Next Token :  #, Posbility: 0.0111
+Next Token :   , Posbility: 0.0077
+Next Token :  return, Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9535
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9857
+Next Token :             , Posbility: 0.0039
+Next Token :        , Posbility: 0.0032
+Next Token :       , Posbility: 0.0032
+Next Token :          , Posbility: 0.0017
+Choose :         ,  Posbility: 0.9857
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.5507
+Next Token : print, Posbility: 0.2991
+Next Token : if, Posbility: 0.0587
+Next Token : odd, Posbility: 0.0169
+Next Token : result, Posbility: 0.0091
+Choose : return,  Posbility: 0.5507
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.2629
+Next Token :  ', Posbility: 0.2166
+Next Token :  ", Posbility: 0.1983
+Next Token :  word, Posbility: 0.1111
+Next Token :  f, Posbility: 0.0666
+Choose :  True,  Posbility: 0.2629
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9695
+Next Token : 
+
+, Posbility: 0.0151
+Next Token :  , Posbility: 0.0054
+Next Token : ,, Posbility: 0.0041
+Next Token :  #, Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9695
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9846
+Next Token :         , Posbility: 0.0082
+Next Token : 
+, Posbility: 0.0050
+Next Token : def, Posbility: 0.0004
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9846
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.8948
+Next Token : return, Posbility: 0.0762
+Next Token : el, Posbility: 0.0198
+Next Token : if, Posbility: 0.0041
+Next Token : 
+, Posbility: 0.0023
+Choose : else,  Posbility: 0.8948
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9923
+Next Token :  :, Posbility: 0.0075
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9923
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9784
+Next Token :  , Posbility: 0.0160
+Next Token :  return, Posbility: 0.0039
+Next Token :   , Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9784
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9951
+Next Token :          , Posbility: 0.0021
+Next Token :        , Posbility: 0.0012
+Next Token :             , Posbility: 0.0006
+Next Token :     , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9951
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9886
+Next Token : print, Posbility: 0.0057
+Next Token : if, Posbility: 0.0018
+Next Token : False, Posbility: 0.0010
+Next Token : #, Posbility: 0.0008
+Choose : return,  Posbility: 0.9886
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9934
+Next Token :  True, Posbility: 0.0023
+Next Token :   , Posbility: 0.0012
+Next Token :  ', Posbility: 0.0004
+Next Token :  ", Posbility: 0.0004
+Choose :  False,  Posbility: 0.9934
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.6551
+Next Token : 
+
+, Posbility: 0.3092
+Next Token : <|endoftext|>, Posbility: 0.0157
+Next Token :  , Posbility: 0.0102
+Next Token :     , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.6551
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.6521
+Next Token : print, Posbility: 0.0991
+Next Token :     , Posbility: 0.0428
+Next Token : def, Posbility: 0.0373
+Next Token : #, Posbility: 0.0349
+Choose : 
+,  Posbility: 0.6521
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9528
+Next Token : 
+
+, Posbility: 0.0161
+Next Token : <|endoftext|>, Posbility: 0.0145
+Next Token :     , Posbility: 0.0118
+Next Token :         , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9528
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4896
+Next Token : #, Posbility: 0.1354
+Next Token : def, Posbility: 0.1147
+Next Token : print, Posbility: 0.0905
+Next Token : word, Posbility: 0.0431
+Choose : '',  Posbility: 0.4896
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7637
+Next Token :  Write, Posbility: 0.0373
+Next Token : 
+, Posbility: 0.0148
+Next Token : Check, Posbility: 0.0148
+Next Token : Function, Posbility: 0.0084
+Choose : Write,  Posbility: 0.7637
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9845
+Next Token :  your, Posbility: 0.0064
+Next Token :  an, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0017
+Next Token :  python, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9845
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9254
+Next Token :  function, Posbility: 0.0393
+Next Token :  Python, Posbility: 0.0219
+Next Token :  program, Posbility: 0.0041
+Next Token :  script, Posbility: 0.0006
+Choose :  python,  Posbility: 0.9254
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9674
+Next Token :  program, Posbility: 0.0177
+Next Token :  fun, Posbility: 0.0025
+Next Token :  script, Posbility: 0.0021
+Next Token :  code, Posbility: 0.0011
+Choose :  function,  Posbility: 0.9674
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8606
+Next Token :  that, Posbility: 0.0882
+Next Token :  which, Posbility: 0.0220
+Next Token :  for, Posbility: 0.0049
+Next Token : ,, Posbility: 0.0025
+Choose :  to,  Posbility: 0.8606
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to
+---------------------------
+Next Token :  check, Posbility: 0.2879
+Next Token :  count, Posbility: 0.0793
+Next Token :  find, Posbility: 0.0776
+Next Token :  print, Posbility: 0.0632
+Next Token :  get, Posbility: 0.0575
+Choose :  check,  Posbility: 0.2879
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8276
+Next Token :  if, Posbility: 0.0771
+Next Token :  the, Posbility: 0.0435
+Next Token :  for, Posbility: 0.0086
+Next Token :  a, Posbility: 0.0056
+Choose :  whether,  Posbility: 0.8276
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether
+---------------------------
+Next Token :  the, Posbility: 0.7806
+Next Token :  a, Posbility: 0.0906
+Next Token :  an, Posbility: 0.0137
+Next Token :  there, Posbility: 0.0133
+Next Token :  all, Posbility: 0.0084
+Choose :  the,  Posbility: 0.7806
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the
+---------------------------
+Next Token :  word, Posbility: 0.1944
+Next Token :  string, Posbility: 0.1905
+Next Token :  number, Posbility: 0.0947
+Next Token :  first, Posbility: 0.0741
+Next Token :  length, Posbility: 0.0590
+Choose :  word,  Posbility: 0.1944
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word
+---------------------------
+Next Token :  is, Posbility: 0.5099
+Next Token :  contains, Posbility: 0.1769
+Next Token :  has, Posbility: 0.0719
+Next Token :  ends, Posbility: 0.0427
+Next Token :  in, Posbility: 0.0169
+Choose :  is,  Posbility: 0.5099
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is
+---------------------------
+Next Token :  pal, Posbility: 0.3780
+Next Token :  a, Posbility: 0.2027
+Next Token :  an, Posbility: 0.0423
+Next Token :  in, Posbility: 0.0235
+Next Token :  p, Posbility: 0.0186
+Choose :  pal,  Posbility: 0.3780
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is pal
+---------------------------
+Next Token : ind, Posbility: 0.9886
+Next Token : id, Posbility: 0.0033
+Next Token : end, Posbility: 0.0017
+Next Token : ab, Posbility: 0.0005
+Next Token : in, Posbility: 0.0005
+Choose : ind,  Posbility: 0.9886
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palind
+---------------------------
+Next Token : rome, Posbility: 0.9682
+Next Token : rom, Posbility: 0.0307
+Next Token : roma, Posbility: 0.0003
+Next Token : or, Posbility: 0.0001
+Next Token : orm, Posbility: 0.0001
+Choose : rome,  Posbility: 0.9682
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome
+---------------------------
+Next Token :  or, Posbility: 0.8068
+Next Token : .', Posbility: 0.0975
+Next Token : ., Posbility: 0.0417
+Next Token : '', Posbility: 0.0229
+Next Token : ,, Posbility: 0.0045
+Choose :  or,  Posbility: 0.8068
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome or
+---------------------------
+Next Token :  not, Posbility: 0.9965
+Next Token :  pal, Posbility: 0.0009
+Next Token :  Not, Posbility: 0.0002
+Next Token :  NOT, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Choose :  not,  Posbility: 0.9965
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome or not
+---------------------------
+Next Token : .', Posbility: 0.8238
+Next Token : ., Posbility: 0.1070
+Next Token : '', Posbility: 0.0374
+Next Token :  using, Posbility: 0.0048
+Next Token :  ', Posbility: 0.0039
+Choose : .',  Posbility: 0.8238
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome or not.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9043
+Next Token : 
+
+, Posbility: 0.0884
+Next Token :  , Posbility: 0.0025
+Next Token : def, Posbility: 0.0021
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9043
+---------------------------
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.8864
+Next Token : 
+, Posbility: 0.0842
+Next Token : #, Posbility: 0.0144
+Next Token : '', Posbility: 0.0027
+Next Token : import, Posbility: 0.0021
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.016209840774536
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether the length of the word is odd or not.'''
+def odd_or_even(word):
+    if len(word) % 2 == 0:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether the word is palindrome or not.'''
+

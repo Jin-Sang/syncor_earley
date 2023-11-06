@@ -1,0 +1,1021 @@
+<<<<<<<<<<<< 222 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  match, Posbility: 0.2017
+Next Token :  find, Posbility: 0.0777
+Next Token :  is, Posbility: 0.0616
+Next Token :  b, Posbility: 0.0497
+Next Token :  a, Posbility: 0.0484
+Choose :  match,  Posbility: 0.2017
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match
+---------------------------
+Next Token : _, Posbility: 0.5338
+Next Token : (, Posbility: 0.2263
+Next Token : B, Posbility: 0.0490
+Next Token : A, Posbility: 0.0376
+Next Token : b, Posbility: 0.0205
+Choose : _,  Posbility: 0.5338
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_
+---------------------------
+Next Token : a, Posbility: 0.2946
+Next Token : b, Posbility: 0.2502
+Next Token : string, Posbility: 0.0545
+Next Token : with, Posbility: 0.0256
+Next Token : one, Posbility: 0.0229
+Choose : a,  Posbility: 0.2946
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a
+---------------------------
+Next Token : _, Posbility: 0.6465
+Next Token : (, Posbility: 0.3262
+Next Token : ():, Posbility: 0.0082
+Next Token : 1, Posbility: 0.0069
+Next Token : 2, Posbility: 0.0020
+Choose : _,  Posbility: 0.6465
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_
+---------------------------
+Next Token : b, Posbility: 0.5800
+Next Token : follow, Posbility: 0.0680
+Next Token : with, Posbility: 0.0341
+Next Token : a, Posbility: 0.0331
+Next Token : to, Posbility: 0.0152
+Choose : b,  Posbility: 0.5800
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b
+---------------------------
+Next Token : (, Posbility: 0.8313
+Next Token : _, Posbility: 0.1058
+Next Token : ():, Posbility: 0.0319
+Next Token :  (, Posbility: 0.0059
+Next Token : (*, Posbility: 0.0042
+Choose : (,  Posbility: 0.8313
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(
+---------------------------
+Next Token : string, Posbility: 0.2715
+Next Token : s, Posbility: 0.2073
+Next Token : text, Posbility: 0.1156
+Next Token : str, Posbility: 0.0901
+Next Token : word, Posbility: 0.0482
+Choose : string,  Posbility: 0.2715
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string
+---------------------------
+Next Token : ):, Posbility: 0.8254
+Next Token : ,, Posbility: 0.0966
+Next Token : :, Posbility: 0.0482
+Next Token : _, Posbility: 0.0199
+Next Token : 1, Posbility: 0.0045
+Choose : ):,  Posbility: 0.8254
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9252
+Next Token : 
+
+, Posbility: 0.0356
+Next Token : , Posbility: 0.0197
+Next Token :  , Posbility: 0.0090
+Next Token :  #, Posbility: 0.0043
+Choose : 
+,  Posbility: 0.9252
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+
+---------------------------
+Next Token :     , Posbility: 0.9176
+Next Token :   , Posbility: 0.0395
+Next Token : 	, Posbility: 0.0315
+Next Token :    , Posbility: 0.0054
+Next Token :         , Posbility: 0.0014
+Choose :     ,  Posbility: 0.9176
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    
+---------------------------
+Next Token : '', Posbility: 0.1319
+Next Token : if, Posbility: 0.1193
+Next Token : #, Posbility: 0.0745
+Next Token : a, Posbility: 0.0656
+Next Token : return, Posbility: 0.0647
+Choose : '',  Posbility: 0.1319
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9995
+Next Token : '", Posbility: 0.0002
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9995
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.0981
+Next Token : 
+, Posbility: 0.0688
+Next Token : Returns, Posbility: 0.0621
+Next Token : Write, Posbility: 0.0429
+Next Token : Match, Posbility: 0.0401
+Choose : Return,  Posbility: 0.0981
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return
+---------------------------
+Next Token :  True, Posbility: 0.4021
+Next Token :  a, Posbility: 0.2096
+Next Token :  true, Posbility: 0.1411
+Next Token :  the, Posbility: 0.0976
+Next Token :  whether, Posbility: 0.0351
+Choose :  True,  Posbility: 0.4021
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True
+---------------------------
+Next Token :  if, Posbility: 0.9408
+Next Token :  or, Posbility: 0.0173
+Next Token :  is, Posbility: 0.0096
+Next Token : /, Posbility: 0.0084
+Next Token : ,, Posbility: 0.0071
+Choose :  if,  Posbility: 0.9408
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if
+---------------------------
+Next Token :  string, Posbility: 0.5744
+Next Token :  the, Posbility: 0.1753
+Next Token :  a, Posbility: 0.0713
+Next Token :  there, Posbility: 0.0298
+Next Token : f, Posbility: 0.0226
+Choose :  string,  Posbility: 0.5744
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string
+---------------------------
+Next Token :  has, Posbility: 0.5167
+Next Token :  matches, Posbility: 0.1674
+Next Token :  is, Posbility: 0.1033
+Next Token :  contains, Posbility: 0.0386
+Next Token :  starts, Posbility: 0.0305
+Choose :  has,  Posbility: 0.5167
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has
+---------------------------
+Next Token :  a, Posbility: 0.4837
+Next Token :  an, Posbility: 0.1750
+Next Token :  one, Posbility: 0.0478
+Next Token :  the, Posbility: 0.0314
+Next Token :  at, Posbility: 0.0252
+Choose :  a,  Posbility: 0.4837
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a
+---------------------------
+Next Token :  followed, Posbility: 0.8825
+Next Token :  b, Posbility: 0.0310
+Next Token :  a, Posbility: 0.0089
+Next Token :  ', Posbility: 0.0062
+Next Token :  ", Posbility: 0.0031
+Choose :  followed,  Posbility: 0.8825
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed
+---------------------------
+Next Token :  by, Posbility: 0.9895
+Next Token :  b, Posbility: 0.0028
+Next Token :  a, Posbility: 0.0012
+Next Token :  with, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0006
+Choose :  by,  Posbility: 0.9895
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by
+---------------------------
+Next Token :  one, Posbility: 0.6418
+Next Token :  b, Posbility: 0.1160
+Next Token :  a, Posbility: 0.0731
+Next Token :  either, Posbility: 0.0209
+Next Token :  at, Posbility: 0.0170
+Choose :  one,  Posbility: 0.6418
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one
+---------------------------
+Next Token :  or, Posbility: 0.5968
+Next Token :  of, Posbility: 0.2033
+Next Token :  b, Posbility: 0.1146
+Next Token : ,, Posbility: 0.0226
+Next Token :  letter, Posbility: 0.0090
+Choose :  or,  Posbility: 0.5968
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or
+---------------------------
+Next Token :  more, Posbility: 0.9980
+Next Token :  many, Posbility: 0.0006
+Next Token :  multiple, Posbility: 0.0004
+Next Token :  one, Posbility: 0.0002
+Next Token :  two, Posbility: 0.0002
+Choose :  more,  Posbility: 0.9980
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more
+---------------------------
+Next Token :  b, Posbility: 0.8420
+Next Token :  a, Posbility: 0.0737
+Next Token :  ', Posbility: 0.0188
+Next Token :  of, Posbility: 0.0151
+Next Token :  c, Posbility: 0.0038
+Choose :  b,  Posbility: 0.8420
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b
+---------------------------
+Next Token : 's, Posbility: 0.7656
+Next Token : s, Posbility: 0.0501
+Next Token : '', Posbility: 0.0483
+Next Token : .', Posbility: 0.0288
+Next Token : ', Posbility: 0.0244
+Choose : 's,  Posbility: 0.7656
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's
+---------------------------
+Next Token : .', Posbility: 0.4070
+Next Token : ., Posbility: 0.1661
+Next Token : ,, Posbility: 0.1196
+Next Token : '', Posbility: 0.0961
+Next Token : ;, Posbility: 0.0796
+Choose : .',  Posbility: 0.4070
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'
+---------------------------
+Next Token : '', Posbility: 0.9958
+Next Token : 
+, Posbility: 0.0016
+Next Token : ,, Posbility: 0.0008
+Next Token : 
+
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0004
+Choose : '',  Posbility: 0.9958
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9687
+Next Token : 
+
+, Posbility: 0.0261
+Next Token :  , Posbility: 0.0031
+Next Token :   , Posbility: 0.0005
+Next Token :     , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9687
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9979
+Next Token :   , Posbility: 0.0005
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0002
+Next Token : 	, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9979
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.1907
+Next Token : if, Posbility: 0.1450
+Next Token : for, Posbility: 0.0783
+Next Token : #, Posbility: 0.0654
+Next Token : a, Posbility: 0.0610
+Choose : return,  Posbility: 0.1907
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return
+---------------------------
+Next Token :  string, Posbility: 0.4117
+Next Token :  ', Posbility: 0.1288
+Next Token :  any, Posbility: 0.0932
+Next Token :  len, Posbility: 0.0635
+Next Token :  bool, Posbility: 0.0583
+Choose :  string,  Posbility: 0.4117
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string
+---------------------------
+Next Token : ., Posbility: 0.7826
+Next Token : [, Posbility: 0.1972
+Next Token :  ==, Posbility: 0.0084
+Next Token :  in, Posbility: 0.0057
+Next Token :  and, Posbility: 0.0021
+Choose : .,  Posbility: 0.7826
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.
+---------------------------
+Next Token : find, Posbility: 0.4321
+Next Token : end, Posbility: 0.2065
+Next Token : count, Posbility: 0.1398
+Next Token : start, Posbility: 0.1277
+Next Token : lower, Posbility: 0.0312
+Choose : find,  Posbility: 0.4321
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find
+---------------------------
+Next Token : (', Posbility: 0.7459
+Next Token : (", Posbility: 0.1972
+Next Token : (, Posbility: 0.0552
+Next Token : _, Posbility: 0.0009
+Next Token : all, Posbility: 0.0003
+Choose : (',  Posbility: 0.7459
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('
+---------------------------
+Next Token : a, Posbility: 0.7771
+Next Token : b, Posbility: 0.1114
+Next Token : ab, Posbility: 0.0235
+Next Token : ba, Posbility: 0.0138
+Next Token : A, Posbility: 0.0098
+Choose : a,  Posbility: 0.7771
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a
+---------------------------
+Next Token : '), Posbility: 0.9671
+Next Token : ',, Posbility: 0.0111
+Next Token : ', Posbility: 0.0052
+Next Token : ')., Posbility: 0.0034
+Next Token :  ', Posbility: 0.0013
+Choose : '),  Posbility: 0.9671
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')
+---------------------------
+Next Token : !=, Posbility: 0.3419
+Next Token :  >=, Posbility: 0.2001
+Next Token :  >, Posbility: 0.1576
+Next Token : >, Posbility: 0.1354
+Next Token : !, Posbility: 0.0671
+Choose : !=,  Posbility: 0.3419
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!=
+---------------------------
+Next Token :  -, Posbility: 0.8084
+Next Token : 0, Posbility: 0.1554
+Next Token :  0, Posbility: 0.0066
+Next Token : len, Posbility: 0.0065
+Next Token : string, Posbility: 0.0048
+Choose :  -,  Posbility: 0.8084
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -
+---------------------------
+Next Token : 1, Posbility: 0.9797
+Next Token :  1, Posbility: 0.0194
+Next Token : 2, Posbility: 0.0003
+Next Token : 10, Posbility: 0.0001
+Next Token : 5, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9797
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1
+---------------------------
+Next Token :  or, Posbility: 0.5430
+Next Token :  and, Posbility: 0.1828
+Next Token : 
+, Posbility: 0.1816
+Next Token : 
+
+, Posbility: 0.0493
+Next Token :  , Posbility: 0.0142
+Choose :  or,  Posbility: 0.5430
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or
+---------------------------
+Next Token :  string, Posbility: 0.8755
+Next Token :  ', Posbility: 0.0328
+Next Token :  len, Posbility: 0.0211
+Next Token :  \, Posbility: 0.0202
+Next Token :  (, Posbility: 0.0180
+Choose :  string,  Posbility: 0.8755
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string
+---------------------------
+Next Token : ., Posbility: 0.9924
+Next Token : [, Posbility: 0.0055
+Next Token : ., Posbility: 0.0006
+Next Token :  ==, Posbility: 0.0006
+Next Token : ==, Posbility: 0.0002
+Choose : .,  Posbility: 0.9924
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.
+---------------------------
+Next Token : find, Posbility: 0.9892
+Next Token : count, Posbility: 0.0042
+Next Token : r, Posbility: 0.0026
+Next Token : end, Posbility: 0.0015
+Next Token : start, Posbility: 0.0008
+Choose : find,  Posbility: 0.9892
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find
+---------------------------
+Next Token : (', Posbility: 0.9914
+Next Token : (", Posbility: 0.0060
+Next Token : (, Posbility: 0.0023
+Next Token :  (', Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : (',  Posbility: 0.9914
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('
+---------------------------
+Next Token : b, Posbility: 0.8915
+Next Token : A, Posbility: 0.0456
+Next Token : B, Posbility: 0.0132
+Next Token : a, Posbility: 0.0102
+Next Token : 1, Posbility: 0.0037
+Choose : b,  Posbility: 0.8915
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b
+---------------------------
+Next Token : '), Posbility: 0.9977
+Next Token : ',, Posbility: 0.0011
+Next Token : ', Posbility: 0.0002
+Next Token : ), Posbility: 0.0002
+Next Token : *, Posbility: 0.0001
+Choose : '),  Posbility: 0.9977
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')
+---------------------------
+Next Token : !, Posbility: 0.8305
+Next Token : !=, Posbility: 0.1569
+Next Token : !, Posbility: 0.0058
+Next Token : >, Posbility: 0.0020
+Next Token : ==, Posbility: 0.0013
+Choose : !,  Posbility: 0.8305
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!
+---------------------------
+Next Token : =, Posbility: 0.8488
+Next Token : =-, Posbility: 0.1483
+Next Token :  =, Posbility: 0.0013
+Next Token : -, Posbility: 0.0010
+Next Token :  -, Posbility: 0.0005
+Choose : =,  Posbility: 0.8488
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!=
+---------------------------
+Next Token :  -, Posbility: 0.9954
+Next Token :  0, Posbility: 0.0018
+Next Token : 0, Posbility: 0.0008
+Next Token :   , Posbility: 0.0007
+Next Token : -, Posbility: 0.0005
+Choose :  -,  Posbility: 0.9954
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -
+---------------------------
+Next Token : 1, Posbility: 0.9978
+Next Token :  1, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9978
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+---------------------------
+Next Token : 
+, Posbility: 0.5517
+Next Token : 
+
+, Posbility: 0.2686
+Next Token :  or, Posbility: 0.1326
+Next Token :  , Posbility: 0.0233
+Next Token : <|endoftext|>, Posbility: 0.0085
+Choose : 
+,  Posbility: 0.5517
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+---------------------------
+Next Token : 
+, Posbility: 0.7444
+Next Token :     , Posbility: 0.0782
+Next Token : def, Posbility: 0.0526
+Next Token : #, Posbility: 0.0270
+Next Token : print, Posbility: 0.0166
+Choose : 
+,  Posbility: 0.7444
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9112
+Next Token : 
+
+, Posbility: 0.0291
+Next Token : <|endoftext|>, Posbility: 0.0259
+Next Token :     , Posbility: 0.0238
+Next Token :   , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9112
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5390
+Next Token : def, Posbility: 0.1771
+Next Token : #, Posbility: 0.1032
+Next Token : 
+, Posbility: 0.0706
+Next Token : print, Posbility: 0.0406
+Choose : '',  Posbility: 0.5390
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8655
+Next Token : Return, Posbility: 0.0269
+Next Token : 
+, Posbility: 0.0128
+Next Token :  Write, Posbility: 0.0117
+Next Token : Find, Posbility: 0.0041
+Choose : Write,  Posbility: 0.8655
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9923
+Next Token :  an, Posbility: 0.0018
+Next Token :  your, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0008
+Next Token :  function, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9923
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9678
+Next Token :  program, Posbility: 0.0062
+Next Token :  Python, Posbility: 0.0030
+Next Token :  python, Posbility: 0.0020
+Next Token :  recursive, Posbility: 0.0013
+Choose :  function,  Posbility: 0.9678
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9312
+Next Token :  to, Posbility: 0.0257
+Next Token :  called, Posbility: 0.0107
+Next Token :  which, Posbility: 0.0054
+Next Token :  named, Posbility: 0.0049
+Choose :  that,  Posbility: 0.9312
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that
+---------------------------
+Next Token :  matches, Posbility: 0.3507
+Next Token :  takes, Posbility: 0.0765
+Next Token :  returns, Posbility: 0.0479
+Next Token :  prints, Posbility: 0.0346
+Next Token :  checks, Posbility: 0.0300
+Choose :  matches,  Posbility: 0.3507
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches
+---------------------------
+Next Token :  a, Posbility: 0.8747
+Next Token :  an, Posbility: 0.0192
+Next Token :  two, Posbility: 0.0157
+Next Token :  any, Posbility: 0.0136
+Next Token :  the, Posbility: 0.0107
+Choose :  a,  Posbility: 0.8747
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a
+---------------------------
+Next Token :  string, Posbility: 0.9332
+Next Token :  word, Posbility: 0.0051
+Next Token :  pattern, Posbility: 0.0051
+Next Token :  single, Posbility: 0.0046
+Next Token :  sentence, Posbility: 0.0042
+Choose :  string,  Posbility: 0.9332
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string
+---------------------------
+Next Token :  that, Posbility: 0.9610
+Next Token :  with, Posbility: 0.0062
+Next Token :  where, Posbility: 0.0040
+Next Token :  which, Posbility: 0.0039
+Next Token :  in, Posbility: 0.0018
+Choose :  that,  Posbility: 0.9610
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that
+---------------------------
+Next Token :  has, Posbility: 0.8437
+Next Token :  contains, Posbility: 0.0242
+Next Token :  ends, Posbility: 0.0224
+Next Token :  matches, Posbility: 0.0214
+Next Token :  does, Posbility: 0.0170
+Choose :  has,  Posbility: 0.8437
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has
+---------------------------
+Next Token :  an, Posbility: 0.3909
+Next Token :  a, Posbility: 0.1900
+Next Token :  one, Posbility: 0.0911
+Next Token :  no, Posbility: 0.0287
+Next Token :  two, Posbility: 0.0285
+Choose :  an,  Posbility: 0.3909
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an
+---------------------------
+Next Token :  a, Posbility: 0.4435
+Next Token :  b, Posbility: 0.1347
+Next Token :  u, Posbility: 0.0379
+Next Token :  A, Posbility: 0.0292
+Next Token :  c, Posbility: 0.0264
+Choose :  a,  Posbility: 0.4435
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a
+---------------------------
+Next Token :  followed, Posbility: 0.9739
+Next Token :  and, Posbility: 0.0023
+Next Token :  preceded, Posbility: 0.0021
+Next Token : ,, Posbility: 0.0018
+Next Token :  b, Posbility: 0.0017
+Choose :  followed,  Posbility: 0.9739
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed
+---------------------------
+Next Token :  by, Posbility: 0.9910
+Next Token : 
+, Posbility: 0.0030
+Next Token :  or, Posbility: 0.0009
+Next Token :  only, Posbility: 0.0008
+Next Token :  with, Posbility: 0.0005
+Choose :  by,  Posbility: 0.9910
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by
+---------------------------
+Next Token :  one, Posbility: 0.5419
+Next Token :  two, Posbility: 0.1187
+Next Token :  three, Posbility: 0.0546
+Next Token :  zero, Posbility: 0.0393
+Next Token :  a, Posbility: 0.0323
+Choose :  one,  Posbility: 0.5419
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one
+---------------------------
+Next Token :  or, Posbility: 0.9499
+Next Token :  b, Posbility: 0.0202
+Next Token : 
+, Posbility: 0.0053
+Next Token :  of, Posbility: 0.0033
+Next Token : ,, Posbility: 0.0018
+Choose :  or,  Posbility: 0.9499
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or
+---------------------------
+Next Token :  more, Posbility: 0.9922
+Next Token :  two, Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0013
+Next Token :  one, Posbility: 0.0012
+Next Token :  many, Posbility: 0.0012
+Choose :  more,  Posbility: 0.9922
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more
+---------------------------
+Next Token :  c, Posbility: 0.6342
+Next Token :  b, Posbility: 0.1059
+Next Token :  a, Posbility: 0.0321
+Next Token :  g, Posbility: 0.0304
+Next Token :  z, Posbility: 0.0276
+Choose :  c,  Posbility: 0.6342
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more c
+---------------------------
+Next Token : 's, Posbility: 0.9582
+Next Token : '., Posbility: 0.0162
+Next Token : ', Posbility: 0.0055
+Next Token : '', Posbility: 0.0042
+Next Token : .', Posbility: 0.0025
+Choose : 's,  Posbility: 0.9582
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more c's
+---------------------------
+Next Token : .', Posbility: 0.9150
+Next Token : ., Posbility: 0.0328
+Next Token :  and, Posbility: 0.0129
+Next Token : '', Posbility: 0.0112
+Next Token :  or, Posbility: 0.0060
+Choose : .',  Posbility: 0.9150
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more c's.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more c's.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9872
+Next Token : def, Posbility: 0.0046
+Next Token : 
+
+, Posbility: 0.0033
+Next Token :  , Posbility: 0.0020
+Next Token :     , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9872
+---------------------------
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more c's.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9721
+Next Token : 
+, Posbility: 0.0194
+Next Token : #, Posbility: 0.0056
+Next Token : '', Posbility: 0.0008
+Next Token : import, Posbility: 0.0005
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 12.066667079925537
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that matches a string that has an a followed by one or more b's.'''
+def match_a_b(string):
+    '''Return True if string has a followed by one or more b's.'''
+    return string.find('a')!= -1 or string.find('b')!= -1
+
+
+'''Write a function that matches a string that has an a followed by one or more c's.'''
+

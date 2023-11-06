@@ -1,0 +1,598 @@
+<<<<<<<<<<<< 414 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2063
+Next Token : ia, Posbility: 0.0903
+Next Token : ix, Posbility: 0.0769
+Next Token : ile, Posbility: 0.0633
+Next Token : xt, Posbility: 0.0521
+syntax error : 
+
+Choose : ia, Posbility: 0.0903
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia
+---------------------------
+Next Token : _, Posbility: 0.1984
+Next Token : (, Posbility: 0.1262
+Next Token : od, Posbility: 0.1122
+Next Token : ud, Posbility: 0.0943
+Next Token : ():, Posbility: 0.0694
+Choose : _, Posbility: 0.1984
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_
+---------------------------
+Next Token : sum, Posbility: 0.5053
+Next Token : odd, Posbility: 0.1147
+Next Token : range, Posbility: 0.0362
+Next Token : func, Posbility: 0.0275
+Next Token : n, Posbility: 0.0204
+Choose : sum, Posbility: 0.5053
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum
+---------------------------
+Next Token : (, Posbility: 0.6374
+Next Token : _, Posbility: 0.2968
+Next Token : ():, Posbility: 0.0246
+Next Token : O, Posbility: 0.0049
+Next Token :  (, Posbility: 0.0048
+Choose : (, Posbility: 0.6374
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(
+---------------------------
+Next Token : l, Posbility: 0.7240
+Next Token : n, Posbility: 0.0550
+Next Token : a, Posbility: 0.0489
+Next Token : r, Posbility: 0.0388
+Next Token : num, Posbility: 0.0193
+Choose : l, Posbility: 0.7240
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l
+---------------------------
+Next Token : ,, Posbility: 0.9627
+Next Token : =, Posbility: 0.0168
+Next Token : :, Posbility: 0.0075
+Next Token :  =, Posbility: 0.0039
+Next Token : ):, Posbility: 0.0026
+Choose : ,, Posbility: 0.9627
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l,
+---------------------------
+Next Token :  r, Posbility: 0.6354
+Next Token : r, Posbility: 0.3613
+Next Token :  l, Posbility: 0.0005
+Next Token : l, Posbility: 0.0002
+Next Token :  n, Posbility: 0.0002
+Choose :  r, Posbility: 0.6354
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r
+---------------------------
+Next Token : ):, Posbility: 0.9314
+Next Token : ,, Posbility: 0.0568
+Next Token : ), Posbility: 0.0076
+Next Token : =, Posbility: 0.0017
+Next Token :  =, Posbility: 0.0015
+Choose : ):, Posbility: 0.9314
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+---------------------------
+Next Token : 
+, Posbility: 0.8887
+Next Token : , Posbility: 0.0378
+Next Token : 
+
+, Posbility: 0.0307
+Next Token :  , Posbility: 0.0266
+Next Token :  #, Posbility: 0.0049
+Choose : 
+, Posbility: 0.8887
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+
+---------------------------
+Next Token :     , Posbility: 0.8604
+Next Token :   , Posbility: 0.0680
+Next Token : 	, Posbility: 0.0508
+Next Token :    , Posbility: 0.0096
+Next Token :         , Posbility: 0.0022
+Choose :     , Posbility: 0.8604
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    
+---------------------------
+Next Token : sum, Posbility: 0.2386
+Next Token : '', Posbility: 0.2158
+Next Token : if, Posbility: 0.0859
+Next Token : return, Posbility: 0.0463
+Next Token : s, Posbility: 0.0401
+Choose : sum, Posbility: 0.2386
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.7920
+Next Token : _, Posbility: 0.1149
+Next Token : =, Posbility: 0.0625
+Next Token : 1, Posbility: 0.0071
+Next Token : Of, Posbility: 0.0056
+Choose :  =, Posbility: 0.7920
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9633
+Next Token :  l, Posbility: 0.0165
+Next Token : 0, Posbility: 0.0041
+Next Token :  [], Posbility: 0.0035
+Next Token :  (, Posbility: 0.0034
+Choose :  0, Posbility: 0.9633
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9367
+Next Token : 
+
+, Posbility: 0.0256
+Next Token :  , Posbility: 0.0172
+Next Token : ;, Posbility: 0.0075
+Next Token :  #, Posbility: 0.0040
+Choose : 
+, Posbility: 0.9367
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9971
+Next Token : 	, Posbility: 0.0005
+Next Token :  , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose :     , Posbility: 0.9971
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.6773
+Next Token : if, Posbility: 0.0710
+Next Token : while, Posbility: 0.0603
+Next Token : i, Posbility: 0.0539
+Next Token : #, Posbility: 0.0190
+Choose : for, Posbility: 0.6773
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7243
+Next Token :  num, Posbility: 0.0758
+Next Token :  n, Posbility: 0.0714
+Next Token :  x, Posbility: 0.0555
+Next Token :  number, Posbility: 0.0182
+Choose :  i, Posbility: 0.7243
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9989
+Next Token : ,, Posbility: 0.0005
+Next Token :   , Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in, Posbility: 0.9989
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9935
+Next Token :  l, Posbility: 0.0022
+Next Token :  list, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0006
+Next Token :  reversed, Posbility: 0.0004
+Choose :  range, Posbility: 0.9935
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9714
+Next Token :  (, Posbility: 0.0262
+Next Token : ((, Posbility: 0.0016
+Next Token : (-, Posbility: 0.0006
+Next Token :  (-, Posbility: 0.0000
+Choose : (, Posbility: 0.9714
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : l, Posbility: 0.9769
+Next Token : 1, Posbility: 0.0083
+Next Token : 0, Posbility: 0.0061
+Next Token : int, Posbility: 0.0034
+Next Token : r, Posbility: 0.0025
+Choose : l, Posbility: 0.9769
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l
+---------------------------
+Next Token : ,, Posbility: 0.9769
+Next Token : -, Posbility: 0.0052
+Next Token :  -, Posbility: 0.0042
+Next Token :  +, Posbility: 0.0037
+Next Token : ,, Posbility: 0.0034
+Choose : ,, Posbility: 0.9769
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l,
+---------------------------
+Next Token :  r, Posbility: 0.8479
+Next Token : r, Posbility: 0.1509
+Next Token :  (, Posbility: 0.0003
+Next Token :  -, Posbility: 0.0002
+Next Token :  l, Posbility: 0.0001
+Choose :  r, Posbility: 0.8479
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r
+---------------------------
+Next Token : +, Posbility: 0.4785
+Next Token :  +, Posbility: 0.3047
+Next Token : ):, Posbility: 0.2081
+Next Token : ,, Posbility: 0.0067
+Next Token : -, Posbility: 0.0007
+Choose : +, Posbility: 0.4785
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+
+---------------------------
+Next Token : 1, Posbility: 0.9960
+Next Token :  1, Posbility: 0.0032
+Next Token : 2, Posbility: 0.0005
+Next Token : 10, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Choose : 1, Posbility: 0.9960
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1
+---------------------------
+Next Token : ):, Posbility: 0.9809
+Next Token : ,, Posbility: 0.0174
+Next Token : ), Posbility: 0.0010
+Next Token :  ):, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0001
+Choose : ):, Posbility: 0.9809
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+---------------------------
+Next Token : 
+, Posbility: 0.9776
+Next Token :  , Posbility: 0.0077
+Next Token :  #, Posbility: 0.0051
+Next Token :   , Posbility: 0.0027
+Next Token : 
+
+, Posbility: 0.0022
+Choose : 
+, Posbility: 0.9776
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+
+---------------------------
+Next Token :         , Posbility: 0.9845
+Next Token :       , Posbility: 0.0044
+Next Token :        , Posbility: 0.0037
+Next Token :             , Posbility: 0.0030
+Next Token :          , Posbility: 0.0013
+Choose :         , Posbility: 0.9845
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        
+---------------------------
+Next Token : if, Posbility: 0.7979
+Next Token : sum, Posbility: 0.1442
+Next Token : #, Posbility: 0.0132
+Next Token : num, Posbility: 0.0040
+Next Token : print, Posbility: 0.0030
+Choose : if, Posbility: 0.7979
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if
+---------------------------
+Next Token :  i, Posbility: 0.8581
+Next Token :  (, Posbility: 0.0530
+Next Token : (, Posbility: 0.0336
+Next Token :  not, Posbility: 0.0275
+Next Token :  is, Posbility: 0.0100
+Choose :  i, Posbility: 0.8581
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i
+---------------------------
+Next Token :  %, Posbility: 0.7150
+Next Token : %, Posbility: 0.2622
+Next Token :  <, Posbility: 0.0070
+Next Token :  >, Posbility: 0.0036
+Next Token :  ==, Posbility: 0.0023
+Choose :  %, Posbility: 0.7150
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i %
+---------------------------
+Next Token :  2, Posbility: 0.9813
+Next Token : 2, Posbility: 0.0158
+Next Token :  3, Posbility: 0.0011
+Next Token :  4, Posbility: 0.0004
+Next Token :  10, Posbility: 0.0003
+Choose :  2, Posbility: 0.9813
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2
+---------------------------
+Next Token :  ==, Posbility: 0.5788
+Next Token : !=, Posbility: 0.3605
+Next Token : :, Posbility: 0.0456
+Next Token : ==, Posbility: 0.0074
+Next Token : !, Posbility: 0.0028
+Choose :  ==, Posbility: 0.5788
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 ==
+---------------------------
+Next Token :  0, Posbility: 0.5978
+Next Token :  1, Posbility: 0.3878
+Next Token : 0, Posbility: 0.0071
+Next Token : 1, Posbility: 0.0062
+Next Token :   , Posbility: 0.0003
+Choose :  0, Posbility: 0.5978
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0
+---------------------------
+Next Token : :, Posbility: 0.9883
+Next Token :  and, Posbility: 0.0050
+Next Token :  :, Posbility: 0.0041
+Next Token :  or, Posbility: 0.0022
+Next Token : :#, Posbility: 0.0001
+Choose : :, Posbility: 0.9883
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9701
+Next Token :  , Posbility: 0.0068
+Next Token :  #, Posbility: 0.0060
+Next Token :  sum, Posbility: 0.0051
+Next Token :   , Posbility: 0.0043
+Choose : 
+, Posbility: 0.9701
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+
+---------------------------
+Next Token :             , Posbility: 0.9919
+Next Token :            , Posbility: 0.0038
+Next Token :              , Posbility: 0.0012
+Next Token :                 , Posbility: 0.0012
+Next Token :           , Posbility: 0.0010
+Choose :             , Posbility: 0.9919
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            
+---------------------------
+Next Token : sum, Posbility: 0.9890
+Next Token : print, Posbility: 0.0030
+Next Token : if, Posbility: 0.0021
+Next Token : #, Posbility: 0.0014
+Next Token : pass, Posbility: 0.0008
+Choose : sum, Posbility: 0.9890
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum
+---------------------------
+Next Token :  +=, Posbility: 0.7749
+Next Token :  =, Posbility: 0.1862
+Next Token : +=, Posbility: 0.0357
+Next Token : =, Posbility: 0.0012
+Next Token :  -=, Posbility: 0.0009
+Choose :  +=, Posbility: 0.7749
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum +=
+---------------------------
+Next Token :  i, Posbility: 0.9894
+Next Token : i, Posbility: 0.0065
+Next Token :  (, Posbility: 0.0020
+Next Token :  int, Posbility: 0.0007
+Next Token :  1, Posbility: 0.0004
+Choose :  i, Posbility: 0.9894
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum += i
+---------------------------
+Next Token : 
+, Posbility: 0.9463
+Next Token : 
+
+, Posbility: 0.0241
+Next Token :  , Posbility: 0.0155
+Next Token :  #, Posbility: 0.0030
+Next Token : ;, Posbility: 0.0014
+Choose : 
+, Posbility: 0.9463
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum += i
+
+---------------------------
+Next Token :     , Posbility: 0.9083
+Next Token :         , Posbility: 0.0642
+Next Token :             , Posbility: 0.0259
+Next Token : #, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Choose :     , Posbility: 0.9083
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum += i
+    
+---------------------------
+Next Token : return, Posbility: 0.8350
+Next Token : print, Posbility: 0.1383
+Next Token : 
+, Posbility: 0.0151
+Next Token : sum, Posbility: 0.0044
+Next Token : #, Posbility: 0.0027
+Choose : return, Posbility: 0.8350
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum += i
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9802
+Next Token : (, Posbility: 0.0110
+Next Token :  print, Posbility: 0.0024
+Next Token :  (, Posbility: 0.0022
+Next Token :   , Posbility: 0.0010
+Choose :  sum, Posbility: 0.9802
+---------------------------
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum += i
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.8410
+Next Token : 
+
+, Posbility: 0.1216
+Next Token :  , Posbility: 0.0138
+Next Token : <|endoftext|>, Posbility: 0.0125
+Next Token :     , Posbility: 0.0020
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.408077001571655
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the sum of all odd natural numbers within the range l and r.'''
+def ia_sum(l, r):
+    sum = 0
+    for i in range(l, r+1):
+        if i % 2 == 0:
+            sum += i
+    return sum
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

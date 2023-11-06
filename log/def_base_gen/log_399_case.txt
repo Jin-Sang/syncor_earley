@@ -1,0 +1,2943 @@
+<<<<<<<<<<<< 399 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  combinations, Posbility: 0.2122
+Next Token :  combination, Posbility: 0.1180
+Next Token :  find, Posbility: 0.0870
+Next Token :  comb, Posbility: 0.0689
+Next Token :  Comb, Posbility: 0.0362
+Choose :  combinations,  Posbility: 0.2122
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations
+---------------------------
+Next Token : (, Posbility: 0.6136
+Next Token : _, Posbility: 0.2377
+Next Token : With, Posbility: 0.0404
+Next Token : Sum, Posbility: 0.0350
+Next Token : Of, Posbility: 0.0103
+Choose : (,  Posbility: 0.6136
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(
+---------------------------
+Next Token : t, Posbility: 0.2952
+Next Token : l, Posbility: 0.0983
+Next Token : n, Posbility: 0.0930
+Next Token : list, Posbility: 0.0666
+Next Token : s, Posbility: 0.0487
+Choose : t,  Posbility: 0.2952
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(t
+---------------------------
+Next Token : uple, Posbility: 0.3927
+Next Token : ,, Posbility: 0.2353
+Next Token : up, Posbility: 0.1277
+Next Token : ):, Posbility: 0.0775
+Next Token : _, Posbility: 0.0266
+Choose : uple,  Posbility: 0.3927
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple
+---------------------------
+Next Token : _, Posbility: 0.3819
+Next Token : ,, Posbility: 0.2205
+Next Token : List, Posbility: 0.1674
+Next Token : list, Posbility: 0.0824
+Next Token : ):, Posbility: 0.0760
+Choose : _,  Posbility: 0.3819
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_
+---------------------------
+Next Token : list, Posbility: 0.8908
+Next Token : l, Posbility: 0.0541
+Next Token : ls, Posbility: 0.0082
+Next Token : of, Posbility: 0.0044
+Next Token : 1, Posbility: 0.0034
+Choose : list,  Posbility: 0.8908
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list
+---------------------------
+Next Token : ,, Posbility: 0.8126
+Next Token : ):, Posbility: 0.1589
+Next Token : :, Posbility: 0.0106
+Next Token : _, Posbility: 0.0075
+Next Token : 1, Posbility: 0.0041
+Choose : ,,  Posbility: 0.8126
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list,
+---------------------------
+Next Token :  sum, Posbility: 0.0863
+Next Token :  n, Posbility: 0.0691
+Next Token :  num, Posbility: 0.0528
+Next Token : n, Posbility: 0.0404
+Next Token : sum, Posbility: 0.0359
+Choose :  sum,  Posbility: 0.0863
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum
+---------------------------
+Next Token : ):, Posbility: 0.5629
+Next Token : _, Posbility: 0.3585
+Next Token : ,, Posbility: 0.0242
+Next Token : 1, Posbility: 0.0147
+Next Token : =, Posbility: 0.0125
+Choose : ):,  Posbility: 0.5629
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+---------------------------
+Next Token : 
+, Posbility: 0.9051
+Next Token : 
+
+, Posbility: 0.0420
+Next Token : , Posbility: 0.0176
+Next Token :  , Posbility: 0.0163
+Next Token :  #, Posbility: 0.0072
+Choose : 
+,  Posbility: 0.9051
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+
+---------------------------
+Next Token :     , Posbility: 0.9433
+Next Token : 	, Posbility: 0.0248
+Next Token :   , Posbility: 0.0207
+Next Token :         , Posbility: 0.0045
+Next Token :    , Posbility: 0.0029
+Choose :     ,  Posbility: 0.9433
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    
+---------------------------
+Next Token : '', Posbility: 0.2213
+Next Token : if, Posbility: 0.1565
+Next Token : #, Posbility: 0.0810
+Next Token : result, Posbility: 0.0521
+Next Token : comb, Posbility: 0.0369
+Choose : '',  Posbility: 0.2213
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '/, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1863
+Next Token : Write, Posbility: 0.1105
+Next Token : t, Posbility: 0.0453
+Next Token : Return, Posbility: 0.0445
+Next Token : Find, Posbility: 0.0439
+Choose : 
+,  Posbility: 0.1863
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.8898
+Next Token :         , Posbility: 0.0809
+Next Token : 	, Posbility: 0.0065
+Next Token :      , Posbility: 0.0049
+Next Token :       , Posbility: 0.0041
+Choose :     ,  Posbility: 0.8898
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    
+---------------------------
+Next Token : :, Posbility: 0.2018
+Next Token : t, Posbility: 0.1366
+Next Token : This, Posbility: 0.0446
+Next Token : Function, Posbility: 0.0274
+Next Token : >>>, Posbility: 0.0270
+Choose : :,  Posbility: 0.2018
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :
+---------------------------
+Next Token : param, Posbility: 0.8629
+Next Token : type, Posbility: 0.0524
+Next Token : t, Posbility: 0.0221
+Next Token : return, Posbility: 0.0073
+Next Token : params, Posbility: 0.0062
+Choose : param,  Posbility: 0.8629
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param
+---------------------------
+Next Token :  tuple, Posbility: 0.8897
+Next Token :  list, Posbility: 0.0292
+Next Token : :, Posbility: 0.0271
+Next Token :  sum, Posbility: 0.0077
+Next Token :  tu, Posbility: 0.0059
+Choose :  tuple,  Posbility: 0.8897
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple
+---------------------------
+Next Token : _, Posbility: 0.9938
+Next Token : :, Posbility: 0.0028
+Next Token :  list, Posbility: 0.0012
+Next Token : (, Posbility: 0.0003
+Next Token :  (, Posbility: 0.0002
+Choose : _,  Posbility: 0.9938
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_
+---------------------------
+Next Token : list, Posbility: 0.9984
+Next Token : l, Posbility: 0.0004
+Next Token : ls, Posbility: 0.0002
+Next Token : t, Posbility: 0.0001
+Next Token : lists, Posbility: 0.0001
+Choose : list,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list
+---------------------------
+Next Token : :, Posbility: 0.9552
+Next Token :  :, Posbility: 0.0129
+Next Token :  (, Posbility: 0.0065
+Next Token : (, Posbility: 0.0027
+Next Token :  -, Posbility: 0.0027
+Choose : :,  Posbility: 0.9552
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list:
+---------------------------
+Next Token :  list, Posbility: 0.1959
+Next Token :  a, Posbility: 0.1437
+Next Token :  tuple, Posbility: 0.1260
+Next Token :  List, Posbility: 0.1060
+Next Token : 
+, Posbility: 0.0678
+Choose :  list,  Posbility: 0.1959
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list
+---------------------------
+Next Token :  of, Posbility: 0.7684
+Next Token : 
+, Posbility: 0.0562
+Next Token :  containing, Posbility: 0.0308
+Next Token :  with, Posbility: 0.0243
+Next Token :  to, Posbility: 0.0100
+Choose :  of,  Posbility: 0.7684
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of
+---------------------------
+Next Token :  tu, Posbility: 0.6733
+Next Token :  tuple, Posbility: 0.0859
+Next Token :  numbers, Posbility: 0.0239
+Next Token :  all, Posbility: 0.0211
+Next Token :  elements, Posbility: 0.0170
+Choose :  tu,  Posbility: 0.6733
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tu
+---------------------------
+Next Token : ples, Posbility: 0.9994
+Next Token : pl, Posbility: 0.0004
+Next Token : pe, Posbility: 0.0001
+Next Token : pled, Posbility: 0.0000
+Next Token : pless, Posbility: 0.0000
+Choose : ples,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+---------------------------
+Next Token : 
+, Posbility: 0.4598
+Next Token :  with, Posbility: 0.0738
+Next Token :  of, Posbility: 0.0572
+Next Token : ,, Posbility: 0.0389
+Next Token : ., Posbility: 0.0383
+Choose : 
+,  Posbility: 0.4598
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+
+---------------------------
+Next Token :     , Posbility: 0.9879
+Next Token :         , Posbility: 0.0067
+Next Token :             , Posbility: 0.0015
+Next Token :                     , Posbility: 0.0006
+Next Token :      , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9879
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    
+---------------------------
+Next Token : :, Posbility: 0.9941
+Next Token : '', Posbility: 0.0011
+Next Token : t, Posbility: 0.0003
+Next Token : sum, Posbility: 0.0003
+Next Token : @, Posbility: 0.0002
+Choose : :,  Posbility: 0.9941
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :
+---------------------------
+Next Token : param, Posbility: 0.9717
+Next Token : sum, Posbility: 0.0093
+Next Token : return, Posbility: 0.0077
+Next Token : type, Posbility: 0.0076
+Next Token : t, Posbility: 0.0004
+Choose : param,  Posbility: 0.9717
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param
+---------------------------
+Next Token :  sum, Posbility: 0.9858
+Next Token :  int, Posbility: 0.0026
+Next Token :  num, Posbility: 0.0016
+Next Token :  list, Posbility: 0.0013
+Next Token :  tuple, Posbility: 0.0008
+Choose :  sum,  Posbility: 0.9858
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum
+---------------------------
+Next Token : :, Posbility: 0.9920
+Next Token :  :, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0016
+Next Token : _, Posbility: 0.0015
+Next Token : (, Posbility: 0.0003
+Choose : :,  Posbility: 0.9920
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum:
+---------------------------
+Next Token :  sum, Posbility: 0.2054
+Next Token :  int, Posbility: 0.1346
+Next Token :  number, Posbility: 0.0842
+Next Token :  integer, Posbility: 0.0783
+Next Token :  the, Posbility: 0.0761
+Choose :  sum,  Posbility: 0.2054
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum
+---------------------------
+Next Token :  of, Posbility: 0.6207
+Next Token :  to, Posbility: 0.1169
+Next Token : 
+, Posbility: 0.1108
+Next Token :  in, Posbility: 0.0155
+Next Token :  that, Posbility: 0.0098
+Choose :  of,  Posbility: 0.6207
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of
+---------------------------
+Next Token :  all, Posbility: 0.2427
+Next Token :  the, Posbility: 0.1944
+Next Token :  tu, Posbility: 0.0811
+Next Token :  elements, Posbility: 0.0664
+Next Token :  tuple, Posbility: 0.0577
+Choose :  all,  Posbility: 0.2427
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all
+---------------------------
+Next Token :  the, Posbility: 0.3292
+Next Token :  elements, Posbility: 0.1329
+Next Token :  numbers, Posbility: 0.1097
+Next Token :  possible, Posbility: 0.0744
+Next Token :  tu, Posbility: 0.0685
+Choose :  the,  Posbility: 0.3292
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the
+---------------------------
+Next Token :  elements, Posbility: 0.2024
+Next Token :  tu, Posbility: 0.2011
+Next Token :  numbers, Posbility: 0.1570
+Next Token :  combinations, Posbility: 0.0885
+Next Token :  values, Posbility: 0.0608
+Choose :  elements,  Posbility: 0.2024
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements
+---------------------------
+Next Token :  in, Posbility: 0.5268
+Next Token : 
+, Posbility: 0.2329
+Next Token :  of, Posbility: 0.1183
+Next Token :  from, Posbility: 0.0175
+Next Token :  to, Posbility: 0.0148
+Choose :  in,  Posbility: 0.5268
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in
+---------------------------
+Next Token :  the, Posbility: 0.6546
+Next Token :  tuple, Posbility: 0.1626
+Next Token :  a, Posbility: 0.0350
+Next Token :  list, Posbility: 0.0307
+Next Token :  tu, Posbility: 0.0211
+Choose :  the,  Posbility: 0.6546
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the
+---------------------------
+Next Token :  tuple, Posbility: 0.4537
+Next Token :  list, Posbility: 0.2503
+Next Token :  tu, Posbility: 0.1162
+Next Token :  given, Posbility: 0.0745
+Next Token :  combination, Posbility: 0.0104
+Choose :  tuple,  Posbility: 0.4537
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple
+---------------------------
+Next Token : _, Posbility: 0.3959
+Next Token : 
+, Posbility: 0.2712
+Next Token :  list, Posbility: 0.2553
+Next Token : 
+
+, Posbility: 0.0086
+Next Token : ., Posbility: 0.0065
+Choose : _,  Posbility: 0.3959
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_
+---------------------------
+Next Token : list, Posbility: 0.9905
+Next Token : l, Posbility: 0.0052
+Next Token : lists, Posbility: 0.0010
+Next Token : ls, Posbility: 0.0008
+Next Token : lis, Posbility: 0.0005
+Choose : list,  Posbility: 0.9905
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+---------------------------
+Next Token : 
+, Posbility: 0.8482
+Next Token : 
+
+, Posbility: 0.0310
+Next Token : ., Posbility: 0.0257
+Next Token :  list, Posbility: 0.0094
+Next Token :  to, Posbility: 0.0092
+Choose : 
+,  Posbility: 0.8482
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+
+---------------------------
+Next Token :     , Posbility: 0.9983
+Next Token :         , Posbility: 0.0007
+Next Token :             , Posbility: 0.0002
+Next Token :      , Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9983
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    
+---------------------------
+Next Token : :, Posbility: 0.9644
+Next Token : '', Posbility: 0.0240
+Next Token : return, Posbility: 0.0025
+Next Token : 
+, Posbility: 0.0014
+Next Token : >>>, Posbility: 0.0004
+Choose : :,  Posbility: 0.9644
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :
+---------------------------
+Next Token : return, Posbility: 0.9876
+Next Token : type, Posbility: 0.0047
+Next Token : r, Posbility: 0.0014
+Next Token : pre, Posbility: 0.0013
+Next Token : param, Posbility: 0.0012
+Choose : return,  Posbility: 0.9876
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return
+---------------------------
+Next Token : :, Posbility: 0.9704
+Next Token : s, Posbility: 0.0085
+Next Token :  list, Posbility: 0.0041
+Next Token :  :, Posbility: 0.0028
+Next Token :  combination, Posbility: 0.0016
+Choose : :,  Posbility: 0.9704
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return:
+---------------------------
+Next Token :  list, Posbility: 0.3498
+Next Token :  all, Posbility: 0.1527
+Next Token :  the, Posbility: 0.0701
+Next Token :  a, Posbility: 0.0638
+Next Token : 
+, Posbility: 0.0392
+Choose :  list,  Posbility: 0.3498
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list
+---------------------------
+Next Token :  of, Posbility: 0.9410
+Next Token :  with, Posbility: 0.0177
+Next Token :  containing, Posbility: 0.0148
+Next Token : 
+, Posbility: 0.0047
+Next Token :  contains, Posbility: 0.0030
+Choose :  of,  Posbility: 0.9410
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of
+---------------------------
+Next Token :  tu, Posbility: 0.3208
+Next Token :  all, Posbility: 0.3019
+Next Token :  combinations, Posbility: 0.1146
+Next Token :  the, Posbility: 0.0606
+Next Token :  possible, Posbility: 0.0353
+Choose :  tu,  Posbility: 0.3208
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tu
+---------------------------
+Next Token : ples, Posbility: 0.9997
+Next Token : pl, Posbility: 0.0002
+Next Token : pe, Posbility: 0.0000
+Next Token : pled, Posbility: 0.0000
+Next Token : ple, Posbility: 0.0000
+Choose : ples,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples
+---------------------------
+Next Token :  with, Posbility: 0.3226
+Next Token : 
+, Posbility: 0.1649
+Next Token :  of, Posbility: 0.1392
+Next Token :  where, Posbility: 0.0509
+Next Token : ,, Posbility: 0.0438
+Choose :  with,  Posbility: 0.3226
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with
+---------------------------
+Next Token :  the, Posbility: 0.2787
+Next Token :  all, Posbility: 0.1496
+Next Token :  sum, Posbility: 0.1171
+Next Token :  sums, Posbility: 0.0844
+Next Token :  combinations, Posbility: 0.0482
+Choose :  the,  Posbility: 0.2787
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the
+---------------------------
+Next Token :  sum, Posbility: 0.2316
+Next Token :  combination, Posbility: 0.1742
+Next Token :  combinations, Posbility: 0.1665
+Next Token :  sums, Posbility: 0.0913
+Next Token :  elements, Posbility: 0.0323
+Choose :  sum,  Posbility: 0.2316
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum
+---------------------------
+Next Token :  of, Posbility: 0.5070
+Next Token :  as, Posbility: 0.1045
+Next Token : 
+, Posbility: 0.0946
+Next Token :  in, Posbility: 0.0804
+Next Token :  and, Posbility: 0.0163
+Choose :  of,  Posbility: 0.5070
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of
+---------------------------
+Next Token :  all, Posbility: 0.5580
+Next Token :  the, Posbility: 0.1717
+Next Token :  each, Posbility: 0.0879
+Next Token :  elements, Posbility: 0.0477
+Next Token :  their, Posbility: 0.0205
+Choose :  all,  Posbility: 0.5580
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all
+---------------------------
+Next Token :  the, Posbility: 0.5794
+Next Token :  elements, Posbility: 0.0947
+Next Token :  possible, Posbility: 0.0724
+Next Token :  combinations, Posbility: 0.0661
+Next Token :  of, Posbility: 0.0328
+Choose :  the,  Posbility: 0.5794
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the
+---------------------------
+Next Token :  elements, Posbility: 0.5795
+Next Token :  combinations, Posbility: 0.1111
+Next Token :  tu, Posbility: 0.0548
+Next Token :  numbers, Posbility: 0.0353
+Next Token :  possible, Posbility: 0.0272
+Choose :  elements,  Posbility: 0.5795
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements
+---------------------------
+Next Token :  in, Posbility: 0.5514
+Next Token :  of, Posbility: 0.2638
+Next Token : 
+, Posbility: 0.0423
+Next Token :  from, Posbility: 0.0378
+Next Token :  that, Posbility: 0.0078
+Choose :  in,  Posbility: 0.5514
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in
+---------------------------
+Next Token :  the, Posbility: 0.8344
+Next Token :  each, Posbility: 0.0546
+Next Token :  tuple, Posbility: 0.0218
+Next Token :  all, Posbility: 0.0136
+Next Token :  a, Posbility: 0.0126
+Choose :  the,  Posbility: 0.8344
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the
+---------------------------
+Next Token :  tuple, Posbility: 0.7972
+Next Token :  tu, Posbility: 0.0695
+Next Token :  given, Posbility: 0.0535
+Next Token :  list, Posbility: 0.0276
+Next Token :  combination, Posbility: 0.0034
+Choose :  tuple,  Posbility: 0.7972
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple
+---------------------------
+Next Token : _, Posbility: 0.9099
+Next Token : 
+, Posbility: 0.0441
+Next Token :  list, Posbility: 0.0094
+Next Token :  in, Posbility: 0.0076
+Next Token :  and, Posbility: 0.0024
+Choose : _,  Posbility: 0.9099
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_
+---------------------------
+Next Token : list, Posbility: 0.9956
+Next Token : l, Posbility: 0.0023
+Next Token : lists, Posbility: 0.0006
+Next Token : lis, Posbility: 0.0002
+Next Token : ls, Posbility: 0.0002
+Choose : list,  Posbility: 0.9956
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+---------------------------
+Next Token : 
+, Posbility: 0.5188
+Next Token :  in, Posbility: 0.0468
+Next Token :  that, Posbility: 0.0434
+Next Token : ., Posbility: 0.0385
+Next Token :  as, Posbility: 0.0335
+Choose : 
+,  Posbility: 0.5188
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+
+---------------------------
+Next Token :     , Posbility: 0.9924
+Next Token :         , Posbility: 0.0034
+Next Token :             , Posbility: 0.0011
+Next Token :      , Posbility: 0.0009
+Next Token :              , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9924
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    
+---------------------------
+Next Token : '', Posbility: 0.8791
+Next Token : >>>, Posbility: 0.0141
+Next Token : :, Posbility: 0.0098
+Next Token : 
+, Posbility: 0.0039
+Next Token : Note, Posbility: 0.0034
+Choose : '',  Posbility: 0.8791
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 't, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9161
+Next Token : 
+
+, Posbility: 0.0802
+Next Token :  , Posbility: 0.0015
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9161
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9973
+Next Token :         , Posbility: 0.0009
+Next Token :      , Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9973
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    
+---------------------------
+Next Token : if, Posbility: 0.1982
+Next Token : comb, Posbility: 0.0913
+Next Token : #, Posbility: 0.0894
+Next Token : result, Posbility: 0.0837
+Next Token : l, Posbility: 0.0392
+Choose : if,  Posbility: 0.1982
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if
+---------------------------
+Next Token :  sum, Posbility: 0.7903
+Next Token :  len, Posbility: 0.1083
+Next Token :  tuple, Posbility: 0.0349
+Next Token :  not, Posbility: 0.0229
+Next Token :  (, Posbility: 0.0131
+Choose :  sum,  Posbility: 0.7903
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum
+---------------------------
+Next Token :  ==, Posbility: 0.5422
+Next Token :  in, Posbility: 0.1332
+Next Token :  <, Posbility: 0.0860
+Next Token :  not, Posbility: 0.0779
+Next Token : ==, Posbility: 0.0373
+Choose :  ==,  Posbility: 0.5422
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum ==
+---------------------------
+Next Token :  0, Posbility: 0.9255
+Next Token :  1, Posbility: 0.0387
+Next Token :  len, Posbility: 0.0079
+Next Token : 0, Posbility: 0.0078
+Next Token :  2, Posbility: 0.0031
+Choose :  0,  Posbility: 0.9255
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0
+---------------------------
+Next Token : :, Posbility: 0.9598
+Next Token :  or, Posbility: 0.0251
+Next Token :  :, Posbility: 0.0108
+Next Token :  and, Posbility: 0.0035
+Next Token : :#, Posbility: 0.0004
+Choose : :,  Posbility: 0.9598
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9358
+Next Token :  return, Posbility: 0.0262
+Next Token :  #, Posbility: 0.0153
+Next Token :   , Posbility: 0.0088
+Next Token :  , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9358
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9902
+Next Token :        , Posbility: 0.0033
+Next Token :       , Posbility: 0.0032
+Next Token :          , Posbility: 0.0013
+Next Token :             , Posbility: 0.0009
+Choose :         ,  Posbility: 0.9902
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.8385
+Next Token : print, Posbility: 0.0207
+Next Token : comb, Posbility: 0.0179
+Next Token : #, Posbility: 0.0160
+Next Token : result, Posbility: 0.0150
+Choose : return,  Posbility: 0.8385
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return
+---------------------------
+Next Token :  [], Posbility: 0.4657
+Next Token :  [, Posbility: 0.1438
+Next Token :  tuple, Posbility: 0.0794
+Next Token :  [[, Posbility: 0.0776
+Next Token :  [(, Posbility: 0.0593
+Choose :  [],  Posbility: 0.4657
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+---------------------------
+Next Token : 
+, Posbility: 0.8189
+Next Token : 
+
+, Posbility: 0.1679
+Next Token :   , Posbility: 0.0047
+Next Token :  #, Posbility: 0.0042
+Next Token :  , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.8189
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+
+---------------------------
+Next Token :     , Posbility: 0.9933
+Next Token :         , Posbility: 0.0049
+Next Token : #, Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9933
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    
+---------------------------
+Next Token : el, Posbility: 0.2420
+Next Token : if, Posbility: 0.2356
+Next Token : else, Posbility: 0.1929
+Next Token : result, Posbility: 0.0391
+Next Token : comb, Posbility: 0.0276
+Choose : el,  Posbility: 0.2420
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    el
+---------------------------
+Next Token : if, Posbility: 0.9999
+Next Token : im, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : if,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif
+---------------------------
+Next Token :  sum, Posbility: 0.8758
+Next Token :  len, Posbility: 0.0711
+Next Token :  tuple, Posbility: 0.0268
+Next Token :  (, Posbility: 0.0069
+Next Token :  not, Posbility: 0.0064
+Choose :  sum,  Posbility: 0.8758
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum
+---------------------------
+Next Token :  ==, Posbility: 0.3651
+Next Token :  <, Posbility: 0.3622
+Next Token :  in, Posbility: 0.0948
+Next Token :  >, Posbility: 0.0627
+Next Token :  not, Posbility: 0.0335
+Choose :  ==,  Posbility: 0.3651
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum ==
+---------------------------
+Next Token :  1, Posbility: 0.9278
+Next Token :  2, Posbility: 0.0169
+Next Token :  0, Posbility: 0.0134
+Next Token :  len, Posbility: 0.0108
+Next Token : 1, Posbility: 0.0070
+Choose :  1,  Posbility: 0.9278
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1
+---------------------------
+Next Token : :, Posbility: 0.9824
+Next Token :  or, Posbility: 0.0136
+Next Token :  and, Posbility: 0.0031
+Next Token :  :, Posbility: 0.0006
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9824
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9922
+Next Token :  #, Posbility: 0.0022
+Next Token :  return, Posbility: 0.0016
+Next Token :   , Posbility: 0.0014
+Next Token :  , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9922
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9972
+Next Token :          , Posbility: 0.0008
+Next Token :             , Posbility: 0.0008
+Next Token :        , Posbility: 0.0007
+Next Token :       , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9972
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.9257
+Next Token : #, Posbility: 0.0112
+Next Token : t, Posbility: 0.0110
+Next Token : if, Posbility: 0.0071
+Next Token : comb, Posbility: 0.0067
+Choose : return,  Posbility: 0.9257
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return
+---------------------------
+Next Token :  [(, Posbility: 0.4507
+Next Token :  [, Posbility: 0.3046
+Next Token :  tuple, Posbility: 0.0825
+Next Token :  [[, Posbility: 0.0779
+Next Token :  list, Posbility: 0.0311
+Choose :  [(,  Posbility: 0.4507
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(
+---------------------------
+Next Token : t, Posbility: 0.8780
+Next Token : 0, Posbility: 0.0695
+Next Token : 1, Posbility: 0.0147
+Next Token : sum, Posbility: 0.0112
+Next Token : list, Posbility: 0.0052
+Choose : t,  Posbility: 0.8780
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(t
+---------------------------
+Next Token : uple, Posbility: 0.9912
+Next Token : [, Posbility: 0.0043
+Next Token : up, Posbility: 0.0021
+Next Token : ), Posbility: 0.0010
+Next Token : ,, Posbility: 0.0008
+Choose : uple,  Posbility: 0.9912
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple
+---------------------------
+Next Token : _, Posbility: 0.9963
+Next Token : (, Posbility: 0.0021
+Next Token : [, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0004
+Next Token : ), Posbility: 0.0002
+Choose : _,  Posbility: 0.9963
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_
+---------------------------
+Next Token : list, Posbility: 0.9998
+Next Token : l, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : item, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : list,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list
+---------------------------
+Next Token : [, Posbility: 0.9152
+Next Token : )], Posbility: 0.0362
+Next Token : ., Posbility: 0.0228
+Next Token : ,, Posbility: 0.0187
+Next Token : ]], Posbility: 0.0023
+Choose : [,  Posbility: 0.9152
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[
+---------------------------
+Next Token : 0, Posbility: 0.9819
+Next Token : -, Posbility: 0.0083
+Next Token : :, Posbility: 0.0041
+Next Token : 1, Posbility: 0.0036
+Next Token : len, Posbility: 0.0006
+Choose : 0,  Posbility: 0.9819
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0
+---------------------------
+Next Token : ][, Posbility: 0.4540
+Next Token : ]), Posbility: 0.2689
+Next Token : ],, Posbility: 0.2194
+Next Token : ]),, Posbility: 0.0221
+Next Token : ]], Posbility: 0.0187
+Choose : ][,  Posbility: 0.4540
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][
+---------------------------
+Next Token : 0, Posbility: 0.9444
+Next Token : 1, Posbility: 0.0342
+Next Token : :, Posbility: 0.0099
+Next Token : -, Posbility: 0.0034
+Next Token : i, Posbility: 0.0020
+Choose : 0,  Posbility: 0.9444
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0
+---------------------------
+Next Token : ],, Posbility: 0.6866
+Next Token : ]), Posbility: 0.1465
+Next Token : ], Posbility: 0.0602
+Next Token : ]+, Posbility: 0.0436
+Next Token : ]),, Posbility: 0.0388
+Choose : ],,  Posbility: 0.6866
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0],
+---------------------------
+Next Token :  tuple, Posbility: 0.6998
+Next Token : )], Posbility: 0.2210
+Next Token : t, Posbility: 0.0157
+Next Token : ), Posbility: 0.0080
+Next Token :  [, Posbility: 0.0075
+Choose :  tuple,  Posbility: 0.6998
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple
+---------------------------
+Next Token : _, Posbility: 0.9987
+Next Token : (, Posbility: 0.0007
+Next Token : ([, Posbility: 0.0003
+Next Token : )], Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Choose : _,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_
+---------------------------
+Next Token : list, Posbility: 1.0000
+Next Token : l, Posbility: 0.0000
+Next Token : lists, Posbility: 0.0000
+Next Token : map, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Choose : list,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list
+---------------------------
+Next Token : [, Posbility: 0.9901
+Next Token : )], Posbility: 0.0081
+Next Token : ,, Posbility: 0.0008
+Next Token : ),, Posbility: 0.0005
+Next Token :  [, Posbility: 0.0002
+Choose : [,  Posbility: 0.9901
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[
+---------------------------
+Next Token : 0, Posbility: 0.9749
+Next Token : 1, Posbility: 0.0231
+Next Token : -, Posbility: 0.0014
+Next Token : 2, Posbility: 0.0002
+Next Token : :, Posbility: 0.0002
+Choose : 0,  Posbility: 0.9749
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0
+---------------------------
+Next Token : ][, Posbility: 0.9824
+Next Token : ]), Posbility: 0.0125
+Next Token : ],, Posbility: 0.0028
+Next Token : ], Posbility: 0.0012
+Next Token : ]),, Posbility: 0.0008
+Choose : ][,  Posbility: 0.9824
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][
+---------------------------
+Next Token : 1, Posbility: 0.9268
+Next Token : 0, Posbility: 0.0650
+Next Token : -, Posbility: 0.0054
+Next Token : 2, Posbility: 0.0023
+Next Token : len, Posbility: 0.0002
+Choose : 1,  Posbility: 0.9268
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1
+---------------------------
+Next Token : ]), Posbility: 0.6011
+Next Token : ],, Posbility: 0.2150
+Next Token : ]),, Posbility: 0.1175
+Next Token : ], Posbility: 0.0498
+Next Token : ]], Posbility: 0.0057
+Choose : ]),  Posbility: 0.6011
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])
+---------------------------
+Next Token : ], Posbility: 0.9976
+Next Token :  ], Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0002
+Next Token :  for, Posbility: 0.0002
+Next Token : ];, Posbility: 0.0001
+Choose : ],  Posbility: 0.9976
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+---------------------------
+Next Token : 
+, Posbility: 0.7830
+Next Token : 
+
+, Posbility: 0.2004
+Next Token :   , Posbility: 0.0038
+Next Token :  +, Posbility: 0.0037
+Next Token :  #, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.7830
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+
+---------------------------
+Next Token :     , Posbility: 0.9931
+Next Token :         , Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0003
+Next Token :    , Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9931
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    
+---------------------------
+Next Token : else, Posbility: 0.4975
+Next Token : el, Posbility: 0.4044
+Next Token : 
+, Posbility: 0.0125
+Next Token : #, Posbility: 0.0114
+Next Token : if, Posbility: 0.0112
+Choose : else,  Posbility: 0.4975
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else
+---------------------------
+Next Token : :, Posbility: 0.9935
+Next Token :  :, Posbility: 0.0062
+Next Token : :#, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9935
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9810
+Next Token : 
+
+, Posbility: 0.0097
+Next Token :   , Posbility: 0.0030
+Next Token :  #, Posbility: 0.0025
+Next Token :  , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9810
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9977
+Next Token :             , Posbility: 0.0006
+Next Token :        , Posbility: 0.0004
+Next Token :          , Posbility: 0.0004
+Next Token :     , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9977
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.1262
+Next Token : result, Posbility: 0.0681
+Next Token : #, Posbility: 0.0517
+Next Token : t, Posbility: 0.0427
+Next Token : for, Posbility: 0.0403
+Choose : return,  Posbility: 0.1262
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return
+---------------------------
+Next Token :  combinations, Posbility: 0.4498
+Next Token :  [(, Posbility: 0.1840
+Next Token :  [, Posbility: 0.1484
+Next Token :  list, Posbility: 0.0732
+Next Token :  combination, Posbility: 0.0232
+Choose :  combinations,  Posbility: 0.4498
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations
+---------------------------
+Next Token : (, Posbility: 0.9267
+Next Token : ([, Posbility: 0.0629
+Next Token : _, Posbility: 0.0047
+Next Token : ((, Posbility: 0.0039
+Next Token : ({, Posbility: 0.0004
+Choose : (,  Posbility: 0.9267
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(
+---------------------------
+Next Token : t, Posbility: 0.9032
+Next Token : comb, Posbility: 0.0313
+Next Token : list, Posbility: 0.0219
+Next Token : 
+, Posbility: 0.0167
+Next Token : tu, Posbility: 0.0031
+Choose : t,  Posbility: 0.9032
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(t
+---------------------------
+Next Token : uple, Posbility: 0.9973
+Next Token : [, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0007
+Next Token : up, Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Choose : uple,  Posbility: 0.9973
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple
+---------------------------
+Next Token : _, Posbility: 0.8829
+Next Token : (, Posbility: 0.0966
+Next Token : ([, Posbility: 0.0075
+Next Token : ((, Posbility: 0.0043
+Next Token : (),, Posbility: 0.0042
+Choose : _,  Posbility: 0.8829
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_
+---------------------------
+Next Token : list, Posbility: 0.9997
+Next Token : l, Posbility: 0.0001
+Next Token : to, Posbility: 0.0000
+Next Token : lists, Posbility: 0.0000
+Next Token : map, Posbility: 0.0000
+Choose : list,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list
+---------------------------
+Next Token : [, Posbility: 0.8925
+Next Token : ,, Posbility: 0.1044
+Next Token : ., Posbility: 0.0013
+Next Token : =, Posbility: 0.0004
+Next Token :  +, Posbility: 0.0004
+Choose : [,  Posbility: 0.8925
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[
+---------------------------
+Next Token : 1, Posbility: 0.6959
+Next Token : 0, Posbility: 0.1268
+Next Token : :-, Posbility: 0.0943
+Next Token : :, Posbility: 0.0701
+Next Token : 2, Posbility: 0.0037
+Choose : 1,  Posbility: 0.6959
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1
+---------------------------
+Next Token : :, Posbility: 0.9932
+Next Token :  :, Posbility: 0.0028
+Next Token : :-, Posbility: 0.0016
+Next Token : ::, Posbility: 0.0014
+Next Token : :], Posbility: 0.0005
+Choose : :,  Posbility: 0.9932
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:
+---------------------------
+Next Token : ],, Posbility: 0.9823
+Next Token : len, Posbility: 0.0067
+Next Token :  len, Posbility: 0.0019
+Next Token :  ],, Posbility: 0.0018
+Next Token : sum, Posbility: 0.0015
+Choose : ],,  Posbility: 0.9823
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:],
+---------------------------
+Next Token :  sum, Posbility: 0.9705
+Next Token : sum, Posbility: 0.0203
+Next Token :  (, Posbility: 0.0033
+Next Token :  int, Posbility: 0.0011
+Next Token :  tuple, Posbility: 0.0008
+Choose :  sum,  Posbility: 0.9705
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum
+---------------------------
+Next Token :  -, Posbility: 0.5148
+Next Token : -, Posbility: 0.3968
+Next Token : ), Posbility: 0.0531
+Next Token : //, Posbility: 0.0208
+Next Token :  //, Posbility: 0.0054
+Choose :  -,  Posbility: 0.5148
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum -
+---------------------------
+Next Token :  tuple, Posbility: 0.5492
+Next Token :  sum, Posbility: 0.2797
+Next Token :  (, Posbility: 0.0469
+Next Token :  1, Posbility: 0.0391
+Next Token :  t, Posbility: 0.0178
+Choose :  tuple,  Posbility: 0.5492
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple
+---------------------------
+Next Token : _, Posbility: 0.9860
+Next Token : [, Posbility: 0.0104
+Next Token : (, Posbility: 0.0025
+Next Token : ., Posbility: 0.0005
+Next Token : ([, Posbility: 0.0002
+Choose : _,  Posbility: 0.9860
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_
+---------------------------
+Next Token : list, Posbility: 0.9998
+Next Token : sum, Posbility: 0.0001
+Next Token : lists, Posbility: 0.0001
+Next Token : values, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Choose : list,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list
+---------------------------
+Next Token : [, Posbility: 0.9995
+Next Token : ., Posbility: 0.0003
+Next Token :  [, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[
+---------------------------
+Next Token : 0, Posbility: 0.9764
+Next Token : -, Posbility: 0.0182
+Next Token : len, Posbility: 0.0013
+Next Token : 1, Posbility: 0.0013
+Next Token : i, Posbility: 0.0010
+Choose : 0,  Posbility: 0.9764
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0
+---------------------------
+Next Token : ][, Posbility: 0.9879
+Next Token : ]., Posbility: 0.0079
+Next Token : ]), Posbility: 0.0038
+Next Token : ], Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : ][,  Posbility: 0.9879
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][
+---------------------------
+Next Token : 0, Posbility: 0.6403
+Next Token : 1, Posbility: 0.2935
+Next Token : 2, Posbility: 0.0192
+Next Token : len, Posbility: 0.0136
+Next Token : sum, Posbility: 0.0108
+Choose : 0,  Posbility: 0.6403
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0
+---------------------------
+Next Token : ], Posbility: 0.5818
+Next Token : ]), Posbility: 0.4119
+Next Token : ]+, Posbility: 0.0030
+Next Token : ]-, Posbility: 0.0014
+Next Token : ])., Posbility: 0.0005
+Choose : ],  Posbility: 0.5818
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0]
+---------------------------
+Next Token :  -, Posbility: 0.8914
+Next Token :  +, Posbility: 0.0930
+Next Token :  *, Posbility: 0.0062
+Next Token : 
+, Posbility: 0.0032
+Next Token : *, Posbility: 0.0022
+Choose :  -,  Posbility: 0.8914
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] -
+---------------------------
+Next Token :  tuple, Posbility: 0.9842
+Next Token : 
+, Posbility: 0.0041
+Next Token :  sum, Posbility: 0.0026
+Next Token : t, Posbility: 0.0014
+Next Token :  1, Posbility: 0.0013
+Choose :  tuple,  Posbility: 0.9842
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_
+---------------------------
+Next Token : list, Posbility: 1.0000
+Next Token : l, Posbility: 0.0000
+Next Token : lists, Posbility: 0.0000
+Next Token : lis, Posbility: 0.0000
+Next Token : ls, Posbility: 0.0000
+Choose : list,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list
+---------------------------
+Next Token : [, Posbility: 0.9999
+Next Token :  [, Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 0, Posbility: 0.0000
+Choose : [,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[
+---------------------------
+Next Token : 0, Posbility: 0.9874
+Next Token : 1, Posbility: 0.0115
+Next Token : -, Posbility: 0.0008
+Next Token : 2, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Choose : 0,  Posbility: 0.9874
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0
+---------------------------
+Next Token : ][, Posbility: 0.9998
+Next Token : ]., Posbility: 0.0002
+Next Token : ]), Posbility: 0.0000
+Next Token :  ][, Posbility: 0.0000
+Next Token : ], Posbility: 0.0000
+Choose : ][,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][
+---------------------------
+Next Token : 1, Posbility: 0.9976
+Next Token : 
+, Posbility: 0.0008
+Next Token : 2, Posbility: 0.0007
+Next Token : -, Posbility: 0.0005
+Next Token : 0, Posbility: 0.0003
+Choose : 1,  Posbility: 0.9976
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1
+---------------------------
+Next Token : ]), Posbility: 0.9806
+Next Token : ], Posbility: 0.0175
+Next Token : ]+, Posbility: 0.0008
+Next Token : ],, Posbility: 0.0003
+Next Token : ])., Posbility: 0.0002
+Choose : ]),  Posbility: 0.9806
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1])
+---------------------------
+Next Token :  +, Posbility: 0.8835
+Next Token :  \, Posbility: 0.0533
+Next Token : 
+
+, Posbility: 0.0320
+Next Token : 
+, Posbility: 0.0182
+Next Token : \, Posbility: 0.0050
+Choose :  +,  Posbility: 0.8835
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) +
+---------------------------
+Next Token :  combinations, Posbility: 0.6764
+Next Token :  \, Posbility: 0.1372
+Next Token :  [(, Posbility: 0.0904
+Next Token : \, Posbility: 0.0537
+Next Token :  [, Posbility: 0.0172
+Choose :  combinations,  Posbility: 0.6764
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations
+---------------------------
+Next Token : (, Posbility: 0.9704
+Next Token : ([, Posbility: 0.0238
+Next Token : ((, Posbility: 0.0049
+Next Token :  (, Posbility: 0.0003
+Next Token : ({, Posbility: 0.0002
+Choose : (,  Posbility: 0.9704
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(
+---------------------------
+Next Token : t, Posbility: 0.8124
+Next Token : 
+, Posbility: 0.1820
+Next Token : list, Posbility: 0.0018
+Next Token : tu, Posbility: 0.0006
+Next Token : comb, Posbility: 0.0005
+Choose : t,  Posbility: 0.8124
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(t
+---------------------------
+Next Token : uple, Posbility: 1.0000
+Next Token : up, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : upp, Posbility: 0.0000
+Choose : uple,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token : (, Posbility: 0.0002
+Next Token : ([, Posbility: 0.0000
+Next Token : (),, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_
+---------------------------
+Next Token : list, Posbility: 1.0000
+Next Token : lists, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : lis, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : list,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list
+---------------------------
+Next Token : [, Posbility: 0.9323
+Next Token : ,, Posbility: 0.0668
+Next Token :  [, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Choose : [,  Posbility: 0.9323
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[
+---------------------------
+Next Token : 1, Posbility: 0.9331
+Next Token : 2, Posbility: 0.0283
+Next Token : :, Posbility: 0.0218
+Next Token : 0, Posbility: 0.0111
+Next Token : :-, Posbility: 0.0034
+Choose : 1,  Posbility: 0.9331
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1
+---------------------------
+Next Token : :, Posbility: 0.9970
+Next Token : :], Posbility: 0.0010
+Next Token : ::, Posbility: 0.0005
+Next Token :  :, Posbility: 0.0004
+Next Token : :-, Posbility: 0.0003
+Choose : :,  Posbility: 0.9970
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:
+---------------------------
+Next Token : ],, Posbility: 0.9967
+Next Token : ][, Posbility: 0.0011
+Next Token : ],[, Posbility: 0.0009
+Next Token : 1, Posbility: 0.0003
+Next Token : 2, Posbility: 0.0003
+Choose : ],,  Posbility: 0.9967
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:],
+---------------------------
+Next Token :  sum, Posbility: 0.8936
+Next Token : 
+, Posbility: 0.0871
+Next Token : sum, Posbility: 0.0063
+Next Token :  tuple, Posbility: 0.0026
+Next Token :  , Posbility: 0.0023
+Choose :  sum,  Posbility: 0.8936
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum
+---------------------------
+Next Token :  -, Posbility: 0.8682
+Next Token : ), Posbility: 0.1127
+Next Token :  +, Posbility: 0.0088
+Next Token : -, Posbility: 0.0049
+Next Token :  //, Posbility: 0.0012
+Choose :  -,  Posbility: 0.8682
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum -
+---------------------------
+Next Token :  tuple, Posbility: 0.9400
+Next Token :  (, Posbility: 0.0151
+Next Token :  sum, Posbility: 0.0113
+Next Token : 
+, Posbility: 0.0100
+Next Token :  tu, Posbility: 0.0032
+Choose :  tuple,  Posbility: 0.9400
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple
+---------------------------
+Next Token : _, Posbility: 0.9995
+Next Token : [, Posbility: 0.0004
+Next Token : list, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : _,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_
+---------------------------
+Next Token : list, Posbility: 0.9999
+Next Token : l, Posbility: 0.0000
+Next Token : lists, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Choose : list,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list
+---------------------------
+Next Token : [, Posbility: 0.9999
+Next Token :  [, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : [,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[
+---------------------------
+Next Token : 0, Posbility: 0.9610
+Next Token : 1, Posbility: 0.0331
+Next Token : 
+, Posbility: 0.0026
+Next Token : -, Posbility: 0.0022
+Next Token : 2, Posbility: 0.0003
+Choose : 0,  Posbility: 0.9610
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0
+---------------------------
+Next Token : ][, Posbility: 0.9990
+Next Token : ]), Posbility: 0.0007
+Next Token : ], Posbility: 0.0001
+Next Token : ]., Posbility: 0.0001
+Next Token : :, Posbility: 0.0000
+Choose : ][,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0][
+---------------------------
+Next Token : 0, Posbility: 0.7140
+Next Token : 1, Posbility: 0.2829
+Next Token : 2, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0007
+Next Token : -, Posbility: 0.0006
+Choose : 0,  Posbility: 0.7140
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0][0
+---------------------------
+Next Token : ]), Posbility: 0.8545
+Next Token : ], Posbility: 0.1387
+Next Token : ]-, Posbility: 0.0019
+Next Token : ]+, Posbility: 0.0018
+Next Token : ],, Posbility: 0.0013
+Choose : ]),  Posbility: 0.8545
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0][0])
+---------------------------
+Next Token : 
+
+, Posbility: 0.5524
+Next Token : 
+, Posbility: 0.3253
+Next Token :  +, Posbility: 0.0566
+Next Token : <|endoftext|>, Posbility: 0.0437
+Next Token :  \, Posbility: 0.0069
+Choose : 
+
+,  Posbility: 0.5524
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0][0])
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9468
+Next Token :     , Posbility: 0.0234
+Next Token : 
+
+, Posbility: 0.0145
+Next Token : <|endoftext|>, Posbility: 0.0131
+Next Token :         , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9468
+---------------------------
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0][0])
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.3857
+Next Token : '', Posbility: 0.1845
+Next Token : #, Posbility: 0.1576
+Next Token : print, Posbility: 0.0603
+Next Token : if, Posbility: 0.0562
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 42.32287120819092
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the combinations of sums with tuples in the given tuple list. https://www.geeksforgeeks.org/python-combinations-of-sum-with-tuples-in-tuple-list/'''
+def combinations(tuple_list, sum):
+    '''
+    :param tuple_list: list of tuples
+    :param sum: sum of all the elements in the tuple_list
+    :return: list of tuples with the sum of all the elements in the tuple_list
+    '''
+    if sum == 0:
+        return []
+    elif sum == 1:
+        return [(tuple_list[0][0], tuple_list[0][1])]
+    else:
+        return combinations(tuple_list[1:], sum - tuple_list[0][0] - tuple_list[0][1]) + combinations(tuple_list[1:], sum - tuple_list[0][0])
+
+
+

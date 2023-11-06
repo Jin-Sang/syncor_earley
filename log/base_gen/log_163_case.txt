@@ -1,0 +1,611 @@
+<<<<<<<<<<<< 163 problem >>>>>>>>>>>
+
+
+
+
+Next Token : xt, Posbility: 0.2851
+Next Token : ix, Posbility: 0.0597
+Next Token : 
+, Posbility: 0.0506
+Next Token : ____, Posbility: 0.0500
+Next Token : ik, Posbility: 0.0437
+Choose : xt,  Posbility: 0.2851
+'''Write a function to find the third side of a right angled triangle.'''
+def xt
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xt
+---------------------------
+Next Token : ri, Posbility: 0.5614
+Next Token : ra, Posbility: 0.0931
+Next Token : (, Posbility: 0.0524
+Next Token : r, Posbility: 0.0312
+Next Token : rian, Posbility: 0.0299
+Choose : ri,  Posbility: 0.5614
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri
+---------------------------
+Next Token : (, Posbility: 0.4343
+Next Token : angle, Posbility: 0.3265
+Next Token : ():, Posbility: 0.0906
+Next Token : _, Posbility: 0.0422
+Next Token : angled, Posbility: 0.0142
+Choose : (,  Posbility: 0.4343
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(
+---------------------------
+Next Token : a, Posbility: 0.2267
+Next Token : x, Posbility: 0.1423
+Next Token : n, Posbility: 0.0897
+Next Token : side, Posbility: 0.0639
+Next Token : l, Posbility: 0.0527
+Choose : a,  Posbility: 0.2267
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a
+---------------------------
+Next Token : ,, Posbility: 0.6859
+Next Token : ):, Posbility: 0.2716
+Next Token : 1, Posbility: 0.0208
+Next Token : =, Posbility: 0.0050
+Next Token : :, Posbility: 0.0046
+Choose : ,,  Posbility: 0.6859
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,
+---------------------------
+Next Token : b, Posbility: 0.6428
+Next Token :  b, Posbility: 0.2953
+Next Token : h, Posbility: 0.0061
+Next Token : l, Posbility: 0.0029
+Next Token :  h, Posbility: 0.0027
+Choose : b,  Posbility: 0.6428
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b
+---------------------------
+Next Token : ,, Posbility: 0.8989
+Next Token : ):, Posbility: 0.0996
+Next Token : ), Posbility: 0.0006
+Next Token : ,, Posbility: 0.0004
+Next Token : =, Posbility: 0.0003
+Choose : ,,  Posbility: 0.8989
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,
+---------------------------
+Next Token : c, Posbility: 0.9630
+Next Token : h, Posbility: 0.0119
+Next Token :  c, Posbility: 0.0042
+Next Token : x, Posbility: 0.0026
+Next Token : d, Posbility: 0.0019
+Choose : c,  Posbility: 0.9630
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c
+---------------------------
+Next Token : ):, Posbility: 0.8608
+Next Token : ,, Posbility: 0.1317
+Next Token : ), Posbility: 0.0058
+Next Token : =, Posbility: 0.0012
+Next Token :  ):, Posbility: 0.0001
+Choose : ):,  Posbility: 0.8608
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+---------------------------
+Next Token : 
+, Posbility: 0.8894
+Next Token : , Posbility: 0.0455
+Next Token :  , Posbility: 0.0263
+Next Token : 
+
+, Posbility: 0.0183
+Next Token :  #, Posbility: 0.0081
+Choose : 
+,  Posbility: 0.8894
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+
+---------------------------
+Next Token :     , Posbility: 0.8981
+Next Token :   , Posbility: 0.0479
+Next Token : 	, Posbility: 0.0349
+Next Token :    , Posbility: 0.0096
+Next Token :         , Posbility: 0.0019
+Choose :     ,  Posbility: 0.8981
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    
+---------------------------
+Next Token : if, Posbility: 0.3254
+Next Token : '', Posbility: 0.1576
+Next Token : return, Posbility: 0.0729
+Next Token : x, Posbility: 0.0528
+Next Token : #, Posbility: 0.0365
+Choose : if,  Posbility: 0.3254
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if
+---------------------------
+Next Token :  a, Posbility: 0.5801
+Next Token :  (, Posbility: 0.1359
+Next Token :  b, Posbility: 0.0797
+Next Token : (, Posbility: 0.0512
+Next Token :  ((, Posbility: 0.0455
+Choose :  a,  Posbility: 0.5801
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a
+---------------------------
+Next Token : +, Posbility: 0.1666
+Next Token : <, Posbility: 0.1237
+Next Token : ==, Posbility: 0.1094
+Next Token : **, Posbility: 0.1046
+Next Token : *, Posbility: 0.0816
+Choose : +,  Posbility: 0.1666
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+
+---------------------------
+Next Token : b, Posbility: 0.9597
+Next Token : c, Posbility: 0.0324
+Next Token : a, Posbility: 0.0019
+Next Token : 2, Posbility: 0.0012
+Next Token : ((, Posbility: 0.0009
+Choose : b,  Posbility: 0.9597
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b
+---------------------------
+Next Token : >, Posbility: 0.2701
+Next Token : <, Posbility: 0.2379
+Next Token : +, Posbility: 0.1609
+Next Token :  >, Posbility: 0.1379
+Next Token :  <, Posbility: 0.0462
+Choose : >,  Posbility: 0.2701
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>
+---------------------------
+Next Token : c, Posbility: 0.9405
+Next Token : =, Posbility: 0.0386
+Next Token :  c, Posbility: 0.0074
+Next Token : b, Posbility: 0.0059
+Next Token : a, Posbility: 0.0033
+Choose : c,  Posbility: 0.9405
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c
+---------------------------
+Next Token :  and, Posbility: 0.7315
+Next Token : :, Posbility: 0.2114
+Next Token :  or, Posbility: 0.0280
+Next Token : +, Posbility: 0.0099
+Next Token : -, Posbility: 0.0086
+Choose :  and,  Posbility: 0.7315
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and
+---------------------------
+Next Token :  a, Posbility: 0.5738
+Next Token :  b, Posbility: 0.3295
+Next Token :  c, Posbility: 0.0684
+Next Token :  (, Posbility: 0.0165
+Next Token :   , Posbility: 0.0037
+Choose :  a,  Posbility: 0.5738
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a
+---------------------------
+Next Token : +, Posbility: 0.9551
+Next Token : -, Posbility: 0.0139
+Next Token : >, Posbility: 0.0089
+Next Token : <, Posbility: 0.0072
+Next Token : *, Posbility: 0.0040
+Choose : +,  Posbility: 0.9551
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+
+---------------------------
+Next Token : c, Posbility: 0.9685
+Next Token : b, Posbility: 0.0301
+Next Token : a, Posbility: 0.0006
+Next Token : 2, Posbility: 0.0002
+Next Token : h, Posbility: 0.0001
+Choose : c,  Posbility: 0.9685
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c
+---------------------------
+Next Token : >, Posbility: 0.9857
+Next Token :  >, Posbility: 0.0077
+Next Token : <, Posbility: 0.0036
+Next Token : +, Posbility: 0.0023
+Next Token :  >=, Posbility: 0.0002
+Choose : >,  Posbility: 0.9857
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>
+---------------------------
+Next Token : b, Posbility: 0.9403
+Next Token : c, Posbility: 0.0546
+Next Token : =, Posbility: 0.0031
+Next Token : 0, Posbility: 0.0009
+Next Token :  b, Posbility: 0.0006
+Choose : b,  Posbility: 0.9403
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b
+---------------------------
+Next Token :  and, Posbility: 0.9866
+Next Token : :, Posbility: 0.0101
+Next Token : +, Posbility: 0.0010
+Next Token :   , Posbility: 0.0007
+Next Token :  or, Posbility: 0.0006
+Choose :  and,  Posbility: 0.9866
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and
+---------------------------
+Next Token :  b, Posbility: 0.8346
+Next Token :  c, Posbility: 0.1072
+Next Token :  a, Posbility: 0.0524
+Next Token :  (, Posbility: 0.0021
+Next Token :   , Posbility: 0.0017
+Choose :  b,  Posbility: 0.8346
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b
+---------------------------
+Next Token : +, Posbility: 0.9949
+Next Token : >, Posbility: 0.0020
+Next Token :  +, Posbility: 0.0009
+Next Token : -, Posbility: 0.0008
+Next Token : <, Posbility: 0.0006
+Choose : +,  Posbility: 0.9949
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+
+---------------------------
+Next Token : c, Posbility: 0.9995
+Next Token : a, Posbility: 0.0005
+Next Token :  c, Posbility: 0.0000
+Next Token : d, Posbility: 0.0000
+Next Token : b, Posbility: 0.0000
+Choose : c,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c
+---------------------------
+Next Token : >, Posbility: 0.9941
+Next Token :  >, Posbility: 0.0043
+Next Token : <, Posbility: 0.0010
+Next Token :  >=, Posbility: 0.0002
+Next Token : ==, Posbility: 0.0001
+Choose : >,  Posbility: 0.9941
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>
+---------------------------
+Next Token : a, Posbility: 0.9973
+Next Token : c, Posbility: 0.0016
+Next Token :  a, Posbility: 0.0008
+Next Token : =, Posbility: 0.0002
+Next Token : 0, Posbility: 0.0001
+Choose : a,  Posbility: 0.9973
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a
+---------------------------
+Next Token : :, Posbility: 0.9413
+Next Token :  and, Posbility: 0.0407
+Next Token :  :, Posbility: 0.0147
+Next Token :  or, Posbility: 0.0019
+Next Token :   , Posbility: 0.0007
+Choose : :,  Posbility: 0.9413
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+---------------------------
+Next Token : 
+, Posbility: 0.9531
+Next Token :  , Posbility: 0.0160
+Next Token :  #, Posbility: 0.0071
+Next Token : 
+
+, Posbility: 0.0053
+Next Token :  return, Posbility: 0.0048
+Choose : 
+,  Posbility: 0.9531
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+
+---------------------------
+Next Token :         , Posbility: 0.9703
+Next Token :        , Posbility: 0.0089
+Next Token :       , Posbility: 0.0065
+Next Token :             , Posbility: 0.0048
+Next Token :     , Posbility: 0.0040
+Choose :         ,  Posbility: 0.9703
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        
+---------------------------
+Next Token : return, Posbility: 0.3728
+Next Token : print, Posbility: 0.1740
+Next Token : if, Posbility: 0.1731
+Next Token : x, Posbility: 0.0453
+Next Token : s, Posbility: 0.0260
+Choose : return,  Posbility: 0.3728
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return
+---------------------------
+Next Token :  a, Posbility: 0.2380
+Next Token :  True, Posbility: 0.2232
+Next Token :  (, Posbility: 0.1058
+Next Token :  ', Posbility: 0.0606
+Next Token :  ", Posbility: 0.0492
+Choose :  a,  Posbility: 0.2380
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a
+---------------------------
+Next Token : +, Posbility: 0.7499
+Next Token : ,, Posbility: 0.1434
+Next Token : *, Posbility: 0.0446
+Next Token : 
+, Posbility: 0.0346
+Next Token :  +, Posbility: 0.0088
+Choose : +,  Posbility: 0.7499
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+
+---------------------------
+Next Token : b, Posbility: 0.6882
+Next Token : c, Posbility: 0.3077
+Next Token : a, Posbility: 0.0008
+Next Token : 2, Posbility: 0.0006
+Next Token : max, Posbility: 0.0004
+Choose : b,  Posbility: 0.6882
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b
+---------------------------
+Next Token : +, Posbility: 0.9669
+Next Token : ,, Posbility: 0.0131
+Next Token : 
+, Posbility: 0.0083
+Next Token : /, Posbility: 0.0023
+Next Token : -, Posbility: 0.0022
+Choose : +,  Posbility: 0.9669
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+
+---------------------------
+Next Token : c, Posbility: 0.9992
+Next Token : b, Posbility: 0.0002
+Next Token : a, Posbility: 0.0001
+Next Token : max, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Choose : c,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+---------------------------
+Next Token : 
+, Posbility: 0.8825
+Next Token : -, Posbility: 0.0343
+Next Token : 
+
+, Posbility: 0.0180
+Next Token : ,, Posbility: 0.0104
+Next Token :  , Posbility: 0.0101
+Choose : 
+,  Posbility: 0.8825
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+
+---------------------------
+Next Token :     , Posbility: 0.9507
+Next Token : 
+, Posbility: 0.0169
+Next Token :         , Posbility: 0.0115
+Next Token : def, Posbility: 0.0086
+Next Token : #, Posbility: 0.0011
+Choose :     ,  Posbility: 0.9507
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    
+---------------------------
+Next Token : else, Posbility: 0.5107
+Next Token : el, Posbility: 0.2885
+Next Token : if, Posbility: 0.1017
+Next Token : return, Posbility: 0.0778
+Next Token : 
+, Posbility: 0.0123
+Choose : else,  Posbility: 0.5107
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else
+---------------------------
+Next Token : :, Posbility: 0.9895
+Next Token :  :, Posbility: 0.0099
+Next Token : :#, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose : :,  Posbility: 0.9895
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9402
+Next Token :  , Posbility: 0.0285
+Next Token :  return, Posbility: 0.0249
+Next Token : return, Posbility: 0.0019
+Next Token :     , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9402
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9900
+Next Token :        , Posbility: 0.0031
+Next Token :          , Posbility: 0.0024
+Next Token :     , Posbility: 0.0013
+Next Token :             , Posbility: 0.0012
+Choose :         ,  Posbility: 0.9900
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.8990
+Next Token : print, Posbility: 0.0595
+Next Token : if, Posbility: 0.0228
+Next Token : raise, Posbility: 0.0056
+Next Token : a, Posbility: 0.0024
+Choose : return,  Posbility: 0.8990
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+        return
+---------------------------
+Next Token :  ', Posbility: 0.2080
+Next Token :  ", Posbility: 0.1886
+Next Token :  None, Posbility: 0.1492
+Next Token :  -, Posbility: 0.1469
+Next Token :  0, Posbility: 0.0982
+Choose :  ',  Posbility: 0.2080
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+        return '
+---------------------------
+Next Token : Error, Posbility: 0.1212
+Next Token : Tri, Posbility: 0.0635
+Next Token : No, Posbility: 0.0554
+Next Token : Not, Posbility: 0.0485
+Next Token : error, Posbility: 0.0428
+Choose : Error,  Posbility: 0.1212
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+        return 'Error
+---------------------------
+Next Token : ', Posbility: 0.7318
+Next Token : :, Posbility: 0.0988
+Next Token : !', Posbility: 0.0484
+Next Token : ,, Posbility: 0.0161
+Next Token :  :, Posbility: 0.0115
+Choose : ',  Posbility: 0.7318
+---------------------------
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+        return 'Error'
+---------------------------
+Next Token : 
+, Posbility: 0.7864
+Next Token : 
+
+, Posbility: 0.1814
+Next Token : <|endoftext|>, Posbility: 0.0104
+Next Token :  , Posbility: 0.0068
+Next Token :     , Posbility: 0.0038
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.819362640380859
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the third side of a right angled triangle.'''
+def xtri(a,b,c):
+    if a+b>c and a+c>b and b+c>a:
+        return a+b+c
+    else:
+        return 'Error'
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

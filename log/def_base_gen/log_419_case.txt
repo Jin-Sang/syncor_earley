@@ -1,0 +1,1691 @@
+<<<<<<<<<<<< 419 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  count, Posbility: 0.6155
+Next Token :  rotate, Posbility: 0.1103
+Next Token :  rot, Posbility: 0.0420
+Next Token :  Count, Posbility: 0.0182
+Next Token :  solution, Posbility: 0.0162
+Choose :  count,  Posbility: 0.6155
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def count
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def count
+---------------------------
+Next Token : Rot, Posbility: 0.4016
+Next Token : _, Posbility: 0.3911
+Next Token : (, Posbility: 0.0542
+Next Token : R, Posbility: 0.0401
+Next Token : Ar, Posbility: 0.0246
+Choose : Rot,  Posbility: 0.4016
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRot
+---------------------------
+Next Token : ations, Posbility: 0.9147
+Next Token : (, Posbility: 0.0484
+Next Token : ate, Posbility: 0.0110
+Next Token : ated, Posbility: 0.0024
+Next Token : ational, Posbility: 0.0021
+Choose : ations,  Posbility: 0.9147
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations
+---------------------------
+Next Token : (, Posbility: 0.7695
+Next Token : Required, Posbility: 0.1679
+Next Token : ():, Posbility: 0.0216
+Next Token :  (, Posbility: 0.0064
+Next Token : To, Posbility: 0.0020
+Choose : (,  Posbility: 0.7695
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(
+---------------------------
+Next Token : arr, Posbility: 0.5442
+Next Token : array, Posbility: 0.1266
+Next Token : n, Posbility: 0.0557
+Next Token : a, Posbility: 0.0499
+Next Token : A, Posbility: 0.0358
+Choose : arr,  Posbility: 0.5442
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr
+---------------------------
+Next Token : ):, Posbility: 0.5205
+Next Token : ,, Posbility: 0.4464
+Next Token : :, Posbility: 0.0113
+Next Token : 1, Posbility: 0.0083
+Next Token : ), Posbility: 0.0042
+Choose : ):,  Posbility: 0.5205
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+---------------------------
+Next Token : 
+, Posbility: 0.8570
+Next Token : 
+
+, Posbility: 0.0514
+Next Token : , Posbility: 0.0457
+Next Token :  , Posbility: 0.0282
+Next Token :  #, Posbility: 0.0049
+Choose : 
+,  Posbility: 0.8570
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+
+---------------------------
+Next Token :     , Posbility: 0.8675
+Next Token : 	, Posbility: 0.0593
+Next Token :   , Posbility: 0.0437
+Next Token :    , Posbility: 0.0104
+Next Token :         , Posbility: 0.0063
+Choose :     ,  Posbility: 0.8675
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    
+---------------------------
+Next Token : count, Posbility: 0.1642
+Next Token : #, Posbility: 0.1079
+Next Token : n, Posbility: 0.0906
+Next Token : rot, Posbility: 0.0886
+Next Token : '', Posbility: 0.0488
+Choose : count,  Posbility: 0.1642
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.6334
+Next Token : =, Posbility: 0.2005
+Next Token : Rot, Posbility: 0.0756
+Next Token : _, Posbility: 0.0217
+Next Token : R, Posbility: 0.0181
+Choose :  =,  Posbility: 0.6334
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9231
+Next Token :  1, Posbility: 0.0392
+Next Token : 0, Posbility: 0.0083
+Next Token :  [, Posbility: 0.0052
+Next Token :  [], Posbility: 0.0039
+Choose :  0,  Posbility: 0.9231
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8812
+Next Token : 
+
+, Posbility: 0.0715
+Next Token :  , Posbility: 0.0204
+Next Token : ;, Posbility: 0.0127
+Next Token :  #, Posbility: 0.0053
+Choose : 
+,  Posbility: 0.8812
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9952
+Next Token : 	, Posbility: 0.0012
+Next Token :    , Posbility: 0.0007
+Next Token :  , Posbility: 0.0006
+Next Token :         , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9952
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.4234
+Next Token : n, Posbility: 0.0689
+Next Token : #, Posbility: 0.0430
+Next Token : i, Posbility: 0.0399
+Next Token : rot, Posbility: 0.0320
+Choose : for,  Posbility: 0.4234
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8645
+Next Token :  x, Posbility: 0.0268
+Next Token :  index, Posbility: 0.0120
+Next Token :  n, Posbility: 0.0119
+Next Token :  j, Posbility: 0.0118
+Choose :  i,  Posbility: 0.8645
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9923
+Next Token : ,, Posbility: 0.0071
+Next Token :   , Posbility: 0.0003
+Next Token : 1, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9923
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9325
+Next Token :  arr, Posbility: 0.0607
+Next Token :  reversed, Posbility: 0.0030
+Next Token :  sorted, Posbility: 0.0006
+Next Token :  list, Posbility: 0.0004
+Choose :  range,  Posbility: 0.9325
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9755
+Next Token :  (, Posbility: 0.0225
+Next Token : ((, Posbility: 0.0011
+Next Token : (-, Posbility: 0.0006
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9755
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7882
+Next Token : 0, Posbility: 0.1449
+Next Token : 1, Posbility: 0.0384
+Next Token : n, Posbility: 0.0058
+Next Token : arr, Posbility: 0.0032
+Choose : len,  Posbility: 0.7882
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : ((, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9983
+Next Token : s, Posbility: 0.0003
+Next Token : str, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Choose : arr,  Posbility: 0.9983
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr
+---------------------------
+Next Token : ), Posbility: 0.7325
+Next Token : )-, Posbility: 0.2611
+Next Token : )+, Posbility: 0.0019
+Next Token : [, Posbility: 0.0017
+Next Token : )), Posbility: 0.0016
+Choose : ),  Posbility: 0.7325
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.8288
+Next Token :  -, Posbility: 0.1668
+Next Token : //, Posbility: 0.0023
+Next Token :  +, Posbility: 0.0008
+Next Token :  //, Posbility: 0.0007
+Choose : ):,  Posbility: 0.8288
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9687
+Next Token : 
+
+, Posbility: 0.0074
+Next Token :  #, Posbility: 0.0073
+Next Token :  , Posbility: 0.0056
+Next Token :   , Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9687
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+
+---------------------------
+Next Token :         , Posbility: 0.9830
+Next Token :       , Posbility: 0.0063
+Next Token :        , Posbility: 0.0038
+Next Token :             , Posbility: 0.0027
+Next Token :          , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9830
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        
+---------------------------
+Next Token : for, Posbility: 0.3442
+Next Token : if, Posbility: 0.2149
+Next Token : count, Posbility: 0.1258
+Next Token : j, Posbility: 0.0365
+Next Token : rot, Posbility: 0.0351
+Choose : for,  Posbility: 0.3442
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9562
+Next Token :  k, Posbility: 0.0143
+Next Token :  x, Posbility: 0.0047
+Next Token :  rot, Posbility: 0.0025
+Next Token :  n, Posbility: 0.0021
+Choose :  j,  Posbility: 0.9562
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9992
+Next Token : ,, Posbility: 0.0005
+Next Token :   , Posbility: 0.0002
+Next Token : 1, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9992
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9952
+Next Token :  reversed, Posbility: 0.0021
+Next Token :  arr, Posbility: 0.0016
+Next Token :   , Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Choose :  range,  Posbility: 0.9952
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9927
+Next Token :  (, Posbility: 0.0053
+Next Token : ((, Posbility: 0.0015
+Next Token : (-, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0000
+Choose : (,  Posbility: 0.9927
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(
+---------------------------
+Next Token : i, Posbility: 0.5201
+Next Token : len, Posbility: 0.4189
+Next Token : 0, Posbility: 0.0465
+Next Token : 1, Posbility: 0.0044
+Next Token : j, Posbility: 0.0020
+Choose : i,  Posbility: 0.5201
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i
+---------------------------
+Next Token : +, Posbility: 0.4053
+Next Token : ,, Posbility: 0.3579
+Next Token :  +, Posbility: 0.1390
+Next Token : ):, Posbility: 0.0807
+Next Token : ,, Posbility: 0.0069
+Choose : +,  Posbility: 0.4053
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+
+---------------------------
+Next Token : 1, Posbility: 0.9958
+Next Token : 2, Posbility: 0.0019
+Next Token :  1, Posbility: 0.0016
+Next Token : len, Posbility: 0.0002
+Next Token : i, Posbility: 0.0002
+Choose : 1,  Posbility: 0.9958
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1
+---------------------------
+Next Token : ,, Posbility: 0.9820
+Next Token : ,, Posbility: 0.0091
+Next Token : ):, Posbility: 0.0082
+Next Token : ,-, Posbility: 0.0002
+Next Token : +, Posbility: 0.0002
+Choose : ,,  Posbility: 0.9820
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1,
+---------------------------
+Next Token :  len, Posbility: 0.6429
+Next Token : len, Posbility: 0.3543
+Next Token :  min, Posbility: 0.0004
+Next Token :  i, Posbility: 0.0004
+Next Token : i, Posbility: 0.0003
+Choose :  len,  Posbility: 0.6429
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token :  (, Posbility: 0.0004
+Next Token : ):, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : (,  Posbility: 0.9995
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(
+---------------------------
+Next Token : arr, Posbility: 0.9996
+Next Token :  arr, Posbility: 0.0002
+Next Token : ar, Posbility: 0.0000
+Next Token : array, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Choose : arr,  Posbility: 0.9996
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr
+---------------------------
+Next Token : ), Posbility: 0.9808
+Next Token : )+, Posbility: 0.0109
+Next Token : ),, Posbility: 0.0062
+Next Token : )-, Posbility: 0.0016
+Next Token : )), Posbility: 0.0003
+Choose : ),  Posbility: 0.9808
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9987
+Next Token :  +, Posbility: 0.0006
+Next Token :  ):, Posbility: 0.0004
+Next Token :  -, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9987
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9826
+Next Token : 
+
+, Posbility: 0.0064
+Next Token :  , Posbility: 0.0036
+Next Token :  #, Posbility: 0.0029
+Next Token :   , Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9826
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+
+---------------------------
+Next Token :             , Posbility: 0.9908
+Next Token :                 , Posbility: 0.0027
+Next Token :            , Posbility: 0.0022
+Next Token :              , Posbility: 0.0012
+Next Token :           , Posbility: 0.0009
+Choose :             ,  Posbility: 0.9908
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            
+---------------------------
+Next Token : if, Posbility: 0.8880
+Next Token : count, Posbility: 0.0388
+Next Token : #, Posbility: 0.0174
+Next Token : rot, Posbility: 0.0080
+Next Token : for, Posbility: 0.0056
+Choose : if,  Posbility: 0.8880
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if
+---------------------------
+Next Token :  arr, Posbility: 0.8432
+Next Token : (, Posbility: 0.0725
+Next Token :  (, Posbility: 0.0526
+Next Token :  abs, Posbility: 0.0104
+Next Token :  i, Posbility: 0.0033
+Choose :  arr,  Posbility: 0.8432
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr
+---------------------------
+Next Token : [, Posbility: 0.9984
+Next Token :  [, Posbility: 0.0006
+Next Token :  ==, Posbility: 0.0004
+Next Token : ., Posbility: 0.0004
+Next Token : ==, Posbility: 0.0000
+Choose : [,  Posbility: 0.9984
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[
+---------------------------
+Next Token : i, Posbility: 0.8586
+Next Token : j, Posbility: 0.1404
+Next Token : 0, Posbility: 0.0002
+Next Token : (, Posbility: 0.0001
+Next Token : min, Posbility: 0.0001
+Choose : i,  Posbility: 0.8586
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9798
+Next Token : ][, Posbility: 0.0085
+Next Token : ]+, Posbility: 0.0057
+Next Token : ]-, Posbility: 0.0031
+Next Token : ]., Posbility: 0.0012
+Choose : ],  Posbility: 0.9798
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i]
+---------------------------
+Next Token :  >, Posbility: 0.4798
+Next Token :  ==, Posbility: 0.2314
+Next Token :  <, Posbility: 0.1357
+Next Token : >, Posbility: 0.0333
+Next Token : !=, Posbility: 0.0331
+Choose :  >,  Posbility: 0.4798
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] >
+---------------------------
+Next Token :  arr, Posbility: 0.9966
+Next Token : arr, Posbility: 0.0015
+Next Token :   , Posbility: 0.0008
+Next Token :  0, Posbility: 0.0003
+Next Token :  (, Posbility: 0.0002
+Choose :  arr,  Posbility: 0.9966
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr
+---------------------------
+Next Token : [, Posbility: 0.9986
+Next Token :  [, Posbility: 0.0014
+Next Token : (, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token :  [-, Posbility: 0.0000
+Choose : [,  Posbility: 0.9986
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[
+---------------------------
+Next Token : j, Posbility: 0.9994
+Next Token : i, Posbility: 0.0004
+Next Token : arr, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : j,  Posbility: 0.9994
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j
+---------------------------
+Next Token : ]:, Posbility: 0.9376
+Next Token : ], Posbility: 0.0618
+Next Token : ][, Posbility: 0.0002
+Next Token : ]+, Posbility: 0.0001
+Next Token : ]-, Posbility: 0.0001
+Choose : ]:,  Posbility: 0.9376
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+---------------------------
+Next Token : 
+, Posbility: 0.9837
+Next Token :  #, Posbility: 0.0045
+Next Token :  , Posbility: 0.0041
+Next Token : 
+
+, Posbility: 0.0021
+Next Token :   , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9837
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+
+---------------------------
+Next Token :                 , Posbility: 0.9945
+Next Token :                , Posbility: 0.0021
+Next Token :                     , Posbility: 0.0010
+Next Token :                  , Posbility: 0.0009
+Next Token :               , Posbility: 0.0007
+Choose :                 ,  Posbility: 0.9945
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                
+---------------------------
+Next Token : count, Posbility: 0.8641
+Next Token : arr, Posbility: 0.0451
+Next Token : break, Posbility: 0.0226
+Next Token : if, Posbility: 0.0167
+Next Token : temp, Posbility: 0.0107
+Choose : count,  Posbility: 0.8641
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count
+---------------------------
+Next Token :  +=, Posbility: 0.7907
+Next Token : +=, Posbility: 0.1404
+Next Token :  =, Posbility: 0.0638
+Next Token :  -=, Posbility: 0.0018
+Next Token : =, Posbility: 0.0017
+Choose :  +=,  Posbility: 0.7907
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count +=
+---------------------------
+Next Token :  1, Posbility: 0.9315
+Next Token : 1, Posbility: 0.0404
+Next Token :  (, Posbility: 0.0086
+Next Token :  arr, Posbility: 0.0048
+Next Token :  abs, Posbility: 0.0046
+Choose :  1,  Posbility: 0.9315
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9029
+Next Token : 
+
+, Posbility: 0.0824
+Next Token :  , Posbility: 0.0056
+Next Token : ;, Posbility: 0.0013
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9029
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.8521
+Next Token :                 , Posbility: 0.0658
+Next Token :             , Posbility: 0.0600
+Next Token :         , Posbility: 0.0180
+Next Token : 
+, Posbility: 0.0010
+Choose :     ,  Posbility: 0.8521
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8666
+Next Token : print, Posbility: 0.0980
+Next Token : 
+, Posbility: 0.0224
+Next Token : #, Posbility: 0.0041
+Next Token : if, Posbility: 0.0032
+Choose : return,  Posbility: 0.8666
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9772
+Next Token : (, Posbility: 0.0107
+Next Token :  (, Posbility: 0.0058
+Next Token :  print, Posbility: 0.0016
+Next Token :   , Posbility: 0.0008
+Choose :  count,  Posbility: 0.9772
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7196
+Next Token : 
+
+, Posbility: 0.2286
+Next Token : <|endoftext|>, Posbility: 0.0218
+Next Token :  , Posbility: 0.0148
+Next Token :     , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.7196
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+---------------------------
+Next Token : 
+, Posbility: 0.7095
+Next Token : arr, Posbility: 0.0659
+Next Token : print, Posbility: 0.0616
+Next Token : #, Posbility: 0.0288
+Next Token :     , Posbility: 0.0239
+Choose : 
+,  Posbility: 0.7095
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9583
+Next Token : 
+
+, Posbility: 0.0176
+Next Token :     , Posbility: 0.0109
+Next Token : <|endoftext|>, Posbility: 0.0082
+Next Token :         , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9583
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4043
+Next Token : #, Posbility: 0.1452
+Next Token : arr, Posbility: 0.1167
+Next Token : print, Posbility: 0.0956
+Next Token : def, Posbility: 0.0905
+Choose : '',  Posbility: 0.4043
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7924
+Next Token :  Write, Posbility: 0.0469
+Next Token : 
+, Posbility: 0.0305
+Next Token : Count, Posbility: 0.0076
+Next Token : write, Posbility: 0.0056
+Choose : Write,  Posbility: 0.7924
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9885
+Next Token :  your, Posbility: 0.0044
+Next Token :  an, Posbility: 0.0022
+Next Token :  the, Posbility: 0.0008
+Next Token :  another, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9885
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.8998
+Next Token :  function, Posbility: 0.0446
+Next Token :  Python, Posbility: 0.0319
+Next Token :  program, Posbility: 0.0035
+Next Token :  recursive, Posbility: 0.0033
+Choose :  python,  Posbility: 0.8998
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9717
+Next Token :  program, Posbility: 0.0153
+Next Token :  script, Posbility: 0.0018
+Next Token :  fun, Posbility: 0.0017
+Next Token :  code, Posbility: 0.0011
+Choose :  function,  Posbility: 0.9717
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8613
+Next Token :  that, Posbility: 0.0927
+Next Token :  which, Posbility: 0.0126
+Next Token :  for, Posbility: 0.0043
+Next Token :  count, Posbility: 0.0022
+Choose :  to,  Posbility: 0.8613
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.2085
+Next Token :  count, Posbility: 0.1465
+Next Token :  check, Posbility: 0.1076
+Next Token :  print, Posbility: 0.0605
+Next Token :  return, Posbility: 0.0410
+Choose :  find,  Posbility: 0.2085
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.6845
+Next Token :  a, Posbility: 0.0311
+Next Token :  if, Posbility: 0.0252
+Next Token :  out, Posbility: 0.0236
+Next Token :  all, Posbility: 0.0174
+Choose :  the,  Posbility: 0.6845
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  minimum, Posbility: 0.0926
+Next Token :  maximum, Posbility: 0.0896
+Next Token :  smallest, Posbility: 0.0712
+Next Token :  number, Posbility: 0.0578
+Next Token :  index, Posbility: 0.0517
+Choose :  minimum,  Posbility: 0.0926
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum
+---------------------------
+Next Token :  element, Posbility: 0.3313
+Next Token :  number, Posbility: 0.1757
+Next Token :  and, Posbility: 0.1093
+Next Token :  value, Posbility: 0.0703
+Next Token :  absolute, Posbility: 0.0351
+Choose :  element,  Posbility: 0.3313
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element
+---------------------------
+Next Token :  in, Posbility: 0.5660
+Next Token :  of, Posbility: 0.3324
+Next Token : ., Posbility: 0.0185
+Next Token :  present, Posbility: 0.0115
+Next Token :  from, Posbility: 0.0069
+Choose :  in,  Posbility: 0.5660
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in
+---------------------------
+Next Token :  an, Posbility: 0.3802
+Next Token :  a, Posbility: 0.2779
+Next Token :  the, Posbility: 0.1499
+Next Token :  uns, Posbility: 0.0613
+Next Token :  array, Posbility: 0.0415
+Choose :  an,  Posbility: 0.3802
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an
+---------------------------
+Next Token :  array, Posbility: 0.7336
+Next Token :  uns, Posbility: 0.2393
+Next Token :  ordered, Posbility: 0.0124
+Next Token :  sorted, Posbility: 0.0017
+Next Token :  integer, Posbility: 0.0017
+Choose :  array,  Posbility: 0.7336
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array
+---------------------------
+Next Token : ., Posbility: 0.6696
+Next Token :  of, Posbility: 0.0538
+Next Token : .', Posbility: 0.0444
+Next Token : ,, Posbility: 0.0296
+Next Token :  that, Posbility: 0.0223
+Choose : .,  Posbility: 0.6696
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array.
+---------------------------
+Next Token :  https, Posbility: 0.6133
+Next Token : 
+, Posbility: 0.1402
+Next Token : https, Posbility: 0.0296
+Next Token :  , Posbility: 0.0288
+Next Token :  The, Posbility: 0.0139
+Choose :  https,  Posbility: 0.6133
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https
+---------------------------
+Next Token : ://, Posbility: 0.9976
+Next Token : :, Posbility: 0.0019
+Next Token : :#, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ://,  Posbility: 0.9976
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://
+---------------------------
+Next Token : www, Posbility: 0.9672
+Next Token : le, Posbility: 0.0067
+Next Token : en, Posbility: 0.0043
+Next Token : docs, Posbility: 0.0031
+Next Token : stack, Posbility: 0.0014
+Choose : www,  Posbility: 0.9672
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www
+---------------------------
+Next Token : ., Posbility: 0.9999
+Next Token : 2, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : .., Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Choose : .,  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.
+---------------------------
+Next Token : ge, Posbility: 0.8399
+Next Token : w, Posbility: 0.0665
+Next Token : cod, Posbility: 0.0085
+Next Token : program, Posbility: 0.0083
+Next Token : educ, Posbility: 0.0063
+Choose : ge,  Posbility: 0.8399
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.ge
+---------------------------
+Next Token : eks, Posbility: 0.9999
+Next Token : ek, Posbility: 0.0001
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : eking, Posbility: 0.0000
+Choose : eks,  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeks
+---------------------------
+Next Token : forge, Posbility: 0.9972
+Next Token : for, Posbility: 0.0021
+Next Token : forum, Posbility: 0.0001
+Next Token : fork, Posbility: 0.0001
+Next Token : hop, Posbility: 0.0001
+Choose : forge,  Posbility: 0.9972
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforge
+---------------------------
+Next Token : eks, Posbility: 0.9999
+Next Token : ek, Posbility: 0.0001
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : e, Posbility: 0.0000
+Choose : eks,  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks
+---------------------------
+Next Token : ., Posbility: 1.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : .., Posbility: 0.0000
+Choose : .,  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.
+---------------------------
+Next Token : org, Posbility: 1.0000
+Next Token :  org, Posbility: 0.0000
+Next Token : com, Posbility: 0.0000
+Next Token : net, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Choose : org,  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org
+---------------------------
+Next Token : /, Posbility: 0.9999
+Next Token : //, Posbility: 0.0000
+Next Token : /?, Posbility: 0.0000
+Next Token : /., Posbility: 0.0000
+Next Token : /_, Posbility: 0.0000
+Choose : /,  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/
+---------------------------
+Next Token : find, Posbility: 0.4186
+Next Token : minimum, Posbility: 0.2487
+Next Token : python, Posbility: 0.0845
+Next Token : min, Posbility: 0.0415
+Next Token : count, Posbility: 0.0253
+Choose : find,  Posbility: 0.4186
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find
+---------------------------
+Next Token : -, Posbility: 0.9962
+Next Token : the, Posbility: 0.0015
+Next Token : /, Posbility: 0.0007
+Next Token : _, Posbility: 0.0005
+Next Token : min, Posbility: 0.0003
+Choose : -,  Posbility: 0.9962
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-
+---------------------------
+Next Token : minimum, Posbility: 0.5493
+Next Token : the, Posbility: 0.3304
+Next Token : min, Posbility: 0.0585
+Next Token : small, Posbility: 0.0317
+Next Token : element, Posbility: 0.0047
+Choose : minimum,  Posbility: 0.5493
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum
+---------------------------
+Next Token : -, Posbility: 0.9950
+Next Token : s, Posbility: 0.0022
+Next Token : /, Posbility: 0.0017
+Next Token : --, Posbility: 0.0002
+Next Token : element, Posbility: 0.0002
+Choose : -,  Posbility: 0.9950
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-
+---------------------------
+Next Token : element, Posbility: 0.6885
+Next Token : in, Posbility: 0.1500
+Next Token : value, Posbility: 0.0600
+Next Token : number, Posbility: 0.0408
+Next Token : e, Posbility: 0.0135
+Choose : element,  Posbility: 0.6885
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element
+---------------------------
+Next Token : -, Posbility: 0.9443
+Next Token : /, Posbility: 0.0533
+Next Token : /#, Posbility: 0.0003
+Next Token : --, Posbility: 0.0003
+Next Token : /?, Posbility: 0.0003
+Choose : -,  Posbility: 0.9443
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-
+---------------------------
+Next Token : in, Posbility: 0.9407
+Next Token : from, Posbility: 0.0110
+Next Token : of, Posbility: 0.0088
+Next Token : array, Posbility: 0.0041
+Next Token : using, Posbility: 0.0037
+Choose : in,  Posbility: 0.9407
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in
+---------------------------
+Next Token : -, Posbility: 0.9997
+Next Token : an, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Next Token : -(, Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Choose : -,  Posbility: 0.9997
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-
+---------------------------
+Next Token : an, Posbility: 0.8540
+Next Token : a, Posbility: 0.0773
+Next Token : array, Posbility: 0.0444
+Next Token : arr, Posbility: 0.0039
+Next Token : given, Posbility: 0.0034
+Choose : an,  Posbility: 0.8540
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an
+---------------------------
+Next Token : -, Posbility: 0.9998
+Next Token : array, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token : arr, Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Choose : -,  Posbility: 0.9998
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-
+---------------------------
+Next Token : array, Posbility: 0.9666
+Next Token : arr, Posbility: 0.0103
+Next Token : ar, Posbility: 0.0074
+Next Token : s, Posbility: 0.0057
+Next Token : ordered, Posbility: 0.0034
+Choose : array,  Posbility: 0.9666
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-array
+---------------------------
+Next Token : /, Posbility: 0.8921
+Next Token : -, Posbility: 0.0917
+Next Token : /?, Posbility: 0.0076
+Next Token : /#, Posbility: 0.0008
+Next Token : .-, Posbility: 0.0008
+Choose : /,  Posbility: 0.8921
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-array/
+---------------------------
+Next Token : '', Posbility: 0.7961
+Next Token : 
+, Posbility: 0.0915
+Next Token :  ', Posbility: 0.0636
+Next Token : https, Posbility: 0.0128
+Next Token :  https, Posbility: 0.0065
+Choose : '',  Posbility: 0.7961
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-array/''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-array/'''
+---------------------------
+Next Token : 
+, Posbility: 0.9326
+Next Token : 
+
+, Posbility: 0.0570
+Next Token :  , Posbility: 0.0025
+Next Token :   , Posbility: 0.0021
+Next Token : def, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9326
+---------------------------
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-array/'''
+
+---------------------------
+Next Token : def, Posbility: 0.9052
+Next Token : 
+, Posbility: 0.0647
+Next Token : #, Posbility: 0.0127
+Next Token : '', Posbility: 0.0060
+Next Token : import, Posbility: 0.0025
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 22.554356813430786
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to count the number of rotations required to generate a sorted array. https://www.geeksforgeeks.org/count-of-rotations-required-to-generate-a-sorted-array/'''
+def countRotations(arr):
+    count = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                count += 1
+    return count
+
+
+'''Write a python function to find the minimum element in an array. https://www.geeksforgeeks.org/find-minimum-element-in-an-array/'''
+

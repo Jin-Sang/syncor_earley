@@ -1,0 +1,563 @@
+<<<<<<<<<<<< 86 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  flatt, Posbility: 0.7494
+Next Token :  flat, Posbility: 0.0279
+Next Token :  list, Posbility: 0.0177
+Next Token :  num, Posbility: 0.0111
+Next Token :  to, Posbility: 0.0071
+Choose :  flatt,  Posbility: 0.7494
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatt
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatt
+---------------------------
+Next Token : en, Posbility: 0.9947
+Next Token : ening, Posbility: 0.0024
+Next Token : (, Posbility: 0.0007
+Next Token : ener, Posbility: 0.0005
+Next Token : enn, Posbility: 0.0002
+Choose : en,  Posbility: 0.9947
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten
+---------------------------
+Next Token : (, Posbility: 0.7502
+Next Token : _, Posbility: 0.1716
+Next Token : List, Posbility: 0.0272
+Next Token :  (, Posbility: 0.0086
+Next Token : ():, Posbility: 0.0075
+Choose : (,  Posbility: 0.7502
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(
+---------------------------
+Next Token : l, Posbility: 0.3917
+Next Token : list, Posbility: 0.1223
+Next Token : n, Posbility: 0.0712
+Next Token : lists, Posbility: 0.0410
+Next Token : L, Posbility: 0.0373
+Choose : l,  Posbility: 0.3917
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(l
+---------------------------
+Next Token : st, Posbility: 0.4750
+Next Token : ):, Posbility: 0.4714
+Next Token : :, Posbility: 0.0261
+Next Token : 1, Posbility: 0.0076
+Next Token : ,, Posbility: 0.0071
+Choose : st,  Posbility: 0.4750
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst
+---------------------------
+Next Token : ):, Posbility: 0.9288
+Next Token : :, Posbility: 0.0247
+Next Token : ,, Posbility: 0.0193
+Next Token : ), Posbility: 0.0093
+Next Token : 1, Posbility: 0.0074
+Choose : ):,  Posbility: 0.9288
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9171
+Next Token : 
+
+, Posbility: 0.0234
+Next Token : , Posbility: 0.0221
+Next Token :  , Posbility: 0.0207
+Next Token :  #, Posbility: 0.0059
+Choose : 
+,  Posbility: 0.9171
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9033
+Next Token :   , Posbility: 0.0678
+Next Token : 	, Posbility: 0.0196
+Next Token :    , Posbility: 0.0048
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9033
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2483
+Next Token : #, Posbility: 0.0792
+Next Token : return, Posbility: 0.0789
+Next Token : result, Posbility: 0.0505
+Next Token : l, Posbility: 0.0504
+Choose : '',  Posbility: 0.2483
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''
+---------------------------
+Next Token : Fl, Posbility: 0.1545
+Next Token : 
+, Posbility: 0.1278
+Next Token : Write, Posbility: 0.0722
+Next Token : Return, Posbility: 0.0532
+Next Token : fl, Posbility: 0.0406
+Choose : Fl,  Posbility: 0.1545
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Fl
+---------------------------
+Next Token : atten, Posbility: 0.8766
+Next Token : att, Posbility: 0.1082
+Next Token : at, Posbility: 0.0057
+Next Token : ats, Posbility: 0.0021
+Next Token : oor, Posbility: 0.0007
+Choose : atten,  Posbility: 0.8766
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten
+---------------------------
+Next Token :  a, Posbility: 0.4623
+Next Token :  the, Posbility: 0.3068
+Next Token :  list, Posbility: 0.0371
+Next Token :  all, Posbility: 0.0325
+Next Token :  l, Posbility: 0.0258
+Choose :  a,  Posbility: 0.4623
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a
+---------------------------
+Next Token :  list, Posbility: 0.8451
+Next Token :  given, Posbility: 0.0389
+Next Token :  nested, Posbility: 0.0344
+Next Token :  single, Posbility: 0.0101
+Next Token :  set, Posbility: 0.0074
+Choose :  list,  Posbility: 0.8451
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list
+---------------------------
+Next Token :  of, Posbility: 0.4176
+Next Token :  into, Posbility: 0.2021
+Next Token :  to, Posbility: 0.0740
+Next Token : '', Posbility: 0.0507
+Next Token : ., Posbility: 0.0390
+Choose :  of,  Posbility: 0.4176
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of
+---------------------------
+Next Token :  lists, Posbility: 0.8907
+Next Token :  list, Posbility: 0.0216
+Next Token :  numbers, Posbility: 0.0161
+Next Token :  elements, Posbility: 0.0104
+Next Token :  nested, Posbility: 0.0080
+Choose :  lists,  Posbility: 0.8907
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists
+---------------------------
+Next Token :  into, Posbility: 0.6713
+Next Token :  to, Posbility: 0.0811
+Next Token : ., Posbility: 0.0571
+Next Token : '', Posbility: 0.0376
+Next Token : .', Posbility: 0.0345
+Choose :  into,  Posbility: 0.6713
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into
+---------------------------
+Next Token :  a, Posbility: 0.9405
+Next Token :  single, Posbility: 0.0116
+Next Token :  one, Posbility: 0.0116
+Next Token :  numbers, Posbility: 0.0072
+Next Token :  the, Posbility: 0.0047
+Choose :  a,  Posbility: 0.9405
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a
+---------------------------
+Next Token :  single, Posbility: 0.9612
+Next Token :  set, Posbility: 0.0153
+Next Token :  list, Posbility: 0.0087
+Next Token :  flat, Posbility: 0.0024
+Next Token :  one, Posbility: 0.0010
+Choose :  single,  Posbility: 0.9612
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single
+---------------------------
+Next Token :  set, Posbility: 0.5879
+Next Token :  list, Posbility: 0.3198
+Next Token :  number, Posbility: 0.0316
+Next Token :  integer, Posbility: 0.0087
+Next Token :  array, Posbility: 0.0039
+Choose :  set,  Posbility: 0.5879
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set
+---------------------------
+Next Token :  of, Posbility: 0.9608
+Next Token : ., Posbility: 0.0103
+Next Token : .', Posbility: 0.0078
+Next Token : '', Posbility: 0.0052
+Next Token : ,, Posbility: 0.0021
+Choose :  of,  Posbility: 0.9608
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of
+---------------------------
+Next Token :  numbers, Posbility: 0.9509
+Next Token :  integers, Posbility: 0.0246
+Next Token :  int, Posbility: 0.0033
+Next Token :  number, Posbility: 0.0022
+Next Token :  single, Posbility: 0.0015
+Choose :  numbers,  Posbility: 0.9509
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers
+---------------------------
+Next Token : .', Posbility: 0.3721
+Next Token : ., Posbility: 0.2913
+Next Token : '', Posbility: 0.1981
+Next Token : 
+
+, Posbility: 0.0280
+Next Token : 
+, Posbility: 0.0224
+Choose : .',  Posbility: 0.3721
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'
+---------------------------
+Next Token : '', Posbility: 0.9977
+Next Token : 
+, Posbility: 0.0010
+Next Token :  ', Posbility: 0.0005
+Next Token : 
+
+, Posbility: 0.0004
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9977
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9290
+Next Token : 
+
+, Posbility: 0.0644
+Next Token :  , Posbility: 0.0034
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9290
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9938
+Next Token :         , Posbility: 0.0016
+Next Token :   , Posbility: 0.0012
+Next Token :    , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9938
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.1122
+Next Token : fl, Posbility: 0.1044
+Next Token : l, Posbility: 0.0803
+Next Token : #, Posbility: 0.0707
+Next Token : result, Posbility: 0.0605
+Choose : return,  Posbility: 0.1122
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return
+---------------------------
+Next Token :  [, Posbility: 0.3878
+Next Token :  sum, Posbility: 0.1380
+Next Token :  list, Posbility: 0.1007
+Next Token :  set, Posbility: 0.0982
+Next Token :  tuple, Posbility: 0.0355
+Choose :  [,  Posbility: 0.3878
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [
+---------------------------
+Next Token : item, Posbility: 0.3957
+Next Token : num, Posbility: 0.0822
+Next Token : i, Posbility: 0.0667
+Next Token : e, Posbility: 0.0636
+Next Token : x, Posbility: 0.0622
+Choose : item,  Posbility: 0.3957
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item
+---------------------------
+Next Token :  for, Posbility: 0.9882
+Next Token : [, Posbility: 0.0074
+Next Token :  if, Posbility: 0.0011
+Next Token : ., Posbility: 0.0009
+Next Token :  +, Posbility: 0.0005
+Choose :  for,  Posbility: 0.9882
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for
+---------------------------
+Next Token :  sub, Posbility: 0.8447
+Next Token :  l, Posbility: 0.0371
+Next Token :  ele, Posbility: 0.0164
+Next Token :  list, Posbility: 0.0146
+Next Token :  array, Posbility: 0.0120
+Choose :  sub,  Posbility: 0.8447
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sub
+---------------------------
+Next Token : list, Posbility: 0.8829
+Next Token : l, Posbility: 0.0547
+Next Token :  in, Posbility: 0.0229
+Next Token : _, Posbility: 0.0193
+Next Token : List, Posbility: 0.0151
+Choose : list,  Posbility: 0.8829
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist
+---------------------------
+Next Token :  in, Posbility: 0.9973
+Next Token : _, Posbility: 0.0017
+Next Token :   , Posbility: 0.0004
+Next Token : 2, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9973
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in
+---------------------------
+Next Token :  l, Posbility: 0.9862
+Next Token :  [, Posbility: 0.0032
+Next Token :  zip, Posbility: 0.0027
+Next Token :  map, Posbility: 0.0023
+Next Token :  list, Posbility: 0.0015
+Choose :  l,  Posbility: 0.9862
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in l
+---------------------------
+Next Token : st, Posbility: 0.9992
+Next Token :  for, Posbility: 0.0007
+Next Token : ., Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : st,  Posbility: 0.9992
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst
+---------------------------
+Next Token :  for, Posbility: 0.9895
+Next Token : 
+, Posbility: 0.0042
+Next Token : [, Posbility: 0.0026
+Next Token :   , Posbility: 0.0015
+Next Token :  , Posbility: 0.0007
+Choose :  for,  Posbility: 0.9895
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for
+---------------------------
+Next Token :  item, Posbility: 0.9983
+Next Token :  i, Posbility: 0.0004
+Next Token :  sub, Posbility: 0.0003
+Next Token :  element, Posbility: 0.0002
+Next Token :  ele, Posbility: 0.0001
+Choose :  item,  Posbility: 0.9983
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item
+---------------------------
+Next Token :  in, Posbility: 0.9994
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Next Token :  , Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9994
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in
+---------------------------
+Next Token :  sub, Posbility: 0.9971
+Next Token :  flatt, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0002
+Choose :  sub,  Posbility: 0.9971
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sub
+---------------------------
+Next Token : list, Posbility: 0.9998
+Next Token : l, Posbility: 0.0001
+Next Token : loop, Posbility: 0.0000
+Next Token : lis, Posbility: 0.0000
+Next Token :  list, Posbility: 0.0000
+Choose : list,  Posbility: 0.9998
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sublist
+---------------------------
+Next Token : ], Posbility: 0.9907
+Next Token :  ], Posbility: 0.0030
+Next Token : ];, Posbility: 0.0021
+Next Token : [, Posbility: 0.0008
+Next Token :  for, Posbility: 0.0007
+Choose : ],  Posbility: 0.9907
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sublist]
+---------------------------
+Next Token : 
+, Posbility: 0.6543
+Next Token : 
+
+, Posbility: 0.2339
+Next Token : <|endoftext|>, Posbility: 0.0765
+Next Token :  #, Posbility: 0.0100
+Next Token :  , Posbility: 0.0096
+Choose : 
+,  Posbility: 0.6543
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sublist]
+
+---------------------------
+Next Token : 
+, Posbility: 0.7538
+Next Token : <|endoftext|>, Posbility: 0.0971
+Next Token :     , Posbility: 0.0524
+Next Token : '', Posbility: 0.0172
+Next Token : #, Posbility: 0.0144
+Choose : 
+,  Posbility: 0.7538
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sublist]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9438
+Next Token : <|endoftext|>, Posbility: 0.0263
+Next Token :     , Posbility: 0.0134
+Next Token : 
+
+, Posbility: 0.0119
+Next Token :         , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9438
+---------------------------
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sublist]
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.2856
+Next Token : #, Posbility: 0.2372
+Next Token : '', Posbility: 0.2071
+Next Token : if, Posbility: 0.0673
+Next Token : print, Posbility: 0.0484
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.542038202285767
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to flatten the list of lists into a single set of numbers.'''
+def flatten(lst):
+    '''Flatten a list of lists into a single set of numbers.'''
+    return [item for sublist in lst for item in sublist]
+
+
+

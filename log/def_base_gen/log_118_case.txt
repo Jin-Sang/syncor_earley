@@ -1,0 +1,1148 @@
+<<<<<<<<<<<< 118 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  replace, Posbility: 0.3400
+Next Token :  list, Posbility: 0.0537
+Next Token :  merge, Posbility: 0.0373
+Next Token :  swap, Posbility: 0.0353
+Next Token :  last, Posbility: 0.0195
+Choose :  replace,  Posbility: 0.3400
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace
+---------------------------
+Next Token : _, Posbility: 0.7648
+Next Token : Last, Posbility: 0.0740
+Next Token : (, Posbility: 0.0687
+Next Token : List, Posbility: 0.0154
+Next Token : E, Posbility: 0.0075
+Choose : _,  Posbility: 0.7648
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_
+---------------------------
+Next Token : last, Posbility: 0.8582
+Next Token : e, Posbility: 0.0295
+Next Token : element, Posbility: 0.0182
+Next Token : list, Posbility: 0.0147
+Next Token : first, Posbility: 0.0066
+Choose : last,  Posbility: 0.8582
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last
+---------------------------
+Next Token : (, Posbility: 0.6566
+Next Token : _, Posbility: 0.3318
+Next Token : ():, Posbility: 0.0023
+Next Token :  (, Posbility: 0.0016
+Next Token : 2, Posbility: 0.0011
+Choose : (,  Posbility: 0.6566
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(
+---------------------------
+Next Token : first, Posbility: 0.2555
+Next Token : list, Posbility: 0.2032
+Next Token : l, Posbility: 0.1898
+Next Token : a, Posbility: 0.0907
+Next Token : x, Posbility: 0.0189
+Choose : first,  Posbility: 0.2555
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first
+---------------------------
+Next Token : _, Posbility: 0.6250
+Next Token : ,, Posbility: 0.2750
+Next Token : List, Posbility: 0.0629
+Next Token : list, Posbility: 0.0166
+Next Token : :, Posbility: 0.0148
+Choose : _,  Posbility: 0.6250
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_
+---------------------------
+Next Token : list, Posbility: 0.9731
+Next Token : l, Posbility: 0.0108
+Next Token : array, Posbility: 0.0012
+Next Token : input, Posbility: 0.0012
+Next Token : ls, Posbility: 0.0011
+Choose : list,  Posbility: 0.9731
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list
+---------------------------
+Next Token : ,, Posbility: 0.9456
+Next Token : :, Posbility: 0.0400
+Next Token : ):, Posbility: 0.0063
+Next Token : _, Posbility: 0.0043
+Next Token : 1, Posbility: 0.0011
+Choose : ,,  Posbility: 0.9456
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list,
+---------------------------
+Next Token :  second, Posbility: 0.8503
+Next Token : second, Posbility: 0.1396
+Next Token :  new, Posbility: 0.0019
+Next Token :  first, Posbility: 0.0008
+Next Token :  last, Posbility: 0.0007
+Choose :  second,  Posbility: 0.8503
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second
+---------------------------
+Next Token : _, Posbility: 0.9991
+Next Token : ):, Posbility: 0.0005
+Next Token : list, Posbility: 0.0002
+Next Token : List, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : _,  Posbility: 0.9991
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_
+---------------------------
+Next Token : list, Posbility: 0.9994
+Next Token : l, Posbility: 0.0001
+Next Token : element, Posbility: 0.0000
+Next Token : lists, Posbility: 0.0000
+Next Token : array, Posbility: 0.0000
+Choose : list,  Posbility: 0.9994
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list
+---------------------------
+Next Token : ):, Posbility: 0.9896
+Next Token : ,, Posbility: 0.0080
+Next Token : ), Posbility: 0.0010
+Next Token : _, Posbility: 0.0006
+Next Token : =, Posbility: 0.0004
+Choose : ):,  Posbility: 0.9896
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+---------------------------
+Next Token : 
+, Posbility: 0.9463
+Next Token : 
+
+, Posbility: 0.0281
+Next Token : , Posbility: 0.0117
+Next Token :  , Posbility: 0.0073
+Next Token :   , Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9463
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+
+---------------------------
+Next Token :     , Posbility: 0.9656
+Next Token :   , Posbility: 0.0169
+Next Token : 	, Posbility: 0.0120
+Next Token :    , Posbility: 0.0018
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9656
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    
+---------------------------
+Next Token : '', Posbility: 0.3704
+Next Token : #, Posbility: 0.1160
+Next Token : for, Posbility: 0.0583
+Next Token : return, Posbility: 0.0553
+Next Token : first, Posbility: 0.0490
+Choose : '',  Posbility: 0.3704
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '", Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''
+---------------------------
+Next Token : Re, Posbility: 0.2906
+Next Token : Write, Posbility: 0.0679
+Next Token : 
+, Posbility: 0.0666
+Next Token : Take, Posbility: 0.0605
+Next Token : T, Posbility: 0.0320
+Choose : Re,  Posbility: 0.2906
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Re
+---------------------------
+Next Token : place, Posbility: 0.5714
+Next Token : places, Posbility: 0.3577
+Next Token : ce, Posbility: 0.0440
+Next Token : ceive, Posbility: 0.0068
+Next Token : vers, Posbility: 0.0053
+Choose : place,  Posbility: 0.5714
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace
+---------------------------
+Next Token :  the, Posbility: 0.8574
+Next Token :  last, Posbility: 0.0914
+Next Token :  all, Posbility: 0.0112
+Next Token :  every, Posbility: 0.0035
+Next Token :  each, Posbility: 0.0032
+Choose :  the,  Posbility: 0.8574
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the
+---------------------------
+Next Token :  last, Posbility: 0.9789
+Next Token :  element, Posbility: 0.0027
+Next Token :  value, Posbility: 0.0025
+Next Token :  first, Posbility: 0.0021
+Next Token :  second, Posbility: 0.0019
+Choose :  last,  Posbility: 0.9789
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last
+---------------------------
+Next Token :  element, Posbility: 0.8699
+Next Token :  value, Posbility: 0.0451
+Next Token :  item, Posbility: 0.0380
+Next Token :  of, Posbility: 0.0052
+Next Token :  number, Posbility: 0.0045
+Choose :  element,  Posbility: 0.8699
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element
+---------------------------
+Next Token :  of, Posbility: 0.8812
+Next Token :  in, Posbility: 0.0768
+Next Token :  with, Posbility: 0.0133
+Next Token :  from, Posbility: 0.0119
+Next Token : '', Posbility: 0.0021
+Choose :  of,  Posbility: 0.8812
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of
+---------------------------
+Next Token :  the, Posbility: 0.6543
+Next Token :  first, Posbility: 0.2258
+Next Token :  a, Posbility: 0.0347
+Next Token :  each, Posbility: 0.0201
+Next Token :  list, Posbility: 0.0123
+Choose :  the,  Posbility: 0.6543
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the
+---------------------------
+Next Token :  first, Posbility: 0.7448
+Next Token :  second, Posbility: 0.1819
+Next Token :  list, Posbility: 0.0335
+Next Token :  given, Posbility: 0.0093
+Next Token :  two, Posbility: 0.0074
+Choose :  first,  Posbility: 0.7448
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first
+---------------------------
+Next Token :  list, Posbility: 0.9451
+Next Token : _, Posbility: 0.0317
+Next Token :  and, Posbility: 0.0038
+Next Token :  element, Posbility: 0.0028
+Next Token :  with, Posbility: 0.0021
+Choose :  list,  Posbility: 0.9451
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list
+---------------------------
+Next Token :  with, Posbility: 0.9371
+Next Token :  by, Posbility: 0.0173
+Next Token : '', Posbility: 0.0088
+Next Token : .', Posbility: 0.0077
+Next Token :  to, Posbility: 0.0069
+Choose :  with,  Posbility: 0.9371
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with
+---------------------------
+Next Token :  the, Posbility: 0.9093
+Next Token :  elements, Posbility: 0.0397
+Next Token :  all, Posbility: 0.0126
+Next Token :  those, Posbility: 0.0072
+Next Token :  each, Posbility: 0.0064
+Choose :  the,  Posbility: 0.9093
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the
+---------------------------
+Next Token :  elements, Posbility: 0.9465
+Next Token :  values, Posbility: 0.0109
+Next Token :  last, Posbility: 0.0097
+Next Token :  items, Posbility: 0.0036
+Next Token :  second, Posbility: 0.0035
+Choose :  elements,  Posbility: 0.9465
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements
+---------------------------
+Next Token :  of, Posbility: 0.9473
+Next Token :  in, Posbility: 0.0254
+Next Token :  from, Posbility: 0.0101
+Next Token : 
+, Posbility: 0.0056
+Next Token :  , Posbility: 0.0015
+Choose :  of,  Posbility: 0.9473
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of
+---------------------------
+Next Token :  the, Posbility: 0.9784
+Next Token :  second, Posbility: 0.0111
+Next Token : 
+, Posbility: 0.0036
+Next Token :  another, Posbility: 0.0012
+Next Token :  , Posbility: 0.0012
+Choose :  the,  Posbility: 0.9784
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the
+---------------------------
+Next Token :  second, Posbility: 0.9884
+Next Token : 
+, Posbility: 0.0035
+Next Token :  other, Posbility: 0.0012
+Next Token :  list, Posbility: 0.0012
+Next Token :  , Posbility: 0.0009
+Choose :  second,  Posbility: 0.9884
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second
+---------------------------
+Next Token :  list, Posbility: 0.9799
+Next Token : 
+, Posbility: 0.0037
+Next Token :  one, Posbility: 0.0033
+Next Token : .', Posbility: 0.0028
+Next Token : '', Posbility: 0.0024
+Choose :  list,  Posbility: 0.9799
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list
+---------------------------
+Next Token : .', Posbility: 0.6186
+Next Token : '', Posbility: 0.2290
+Next Token : ., Posbility: 0.1179
+Next Token : ,, Posbility: 0.0076
+Next Token : 
+, Posbility: 0.0059
+Choose : .',  Posbility: 0.6186
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'
+---------------------------
+Next Token : '', Posbility: 0.9984
+Next Token : 
+, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9984
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9194
+Next Token : 
+
+, Posbility: 0.0725
+Next Token :  , Posbility: 0.0046
+Next Token :     , Posbility: 0.0014
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9194
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9936
+Next Token :         , Posbility: 0.0017
+Next Token :   , Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0007
+Next Token :    , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9936
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    
+---------------------------
+Next Token : first, Posbility: 0.1465
+Next Token : for, Posbility: 0.1337
+Next Token : #, Posbility: 0.1263
+Next Token : return, Posbility: 0.0944
+Next Token : if, Posbility: 0.0512
+Choose : first,  Posbility: 0.1465
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first
+---------------------------
+Next Token : _, Posbility: 0.9906
+Next Token :  =, Posbility: 0.0082
+Next Token : =, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0002
+Next Token : List, Posbility: 0.0001
+Choose : _,  Posbility: 0.9906
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_
+---------------------------
+Next Token : list, Posbility: 0.9749
+Next Token : copy, Posbility: 0.0033
+Next Token : element, Posbility: 0.0021
+Next Token : last, Posbility: 0.0018
+Next Token : len, Posbility: 0.0016
+Choose : list,  Posbility: 0.9749
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list
+---------------------------
+Next Token : ., Posbility: 0.5905
+Next Token : [, Posbility: 0.2802
+Next Token :  =, Posbility: 0.0747
+Next Token : _, Posbility: 0.0425
+Next Token : 2, Posbility: 0.0033
+Choose : .,  Posbility: 0.5905
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.
+---------------------------
+Next Token : append, Posbility: 0.6097
+Next Token : pop, Posbility: 0.2925
+Next Token : remove, Posbility: 0.0321
+Next Token : insert, Posbility: 0.0235
+Next Token : reverse, Posbility: 0.0206
+Choose : append,  Posbility: 0.6097
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append
+---------------------------
+Next Token : (, Posbility: 0.9757
+Next Token : (', Posbility: 0.0129
+Next Token : ((, Posbility: 0.0033
+Next Token : (", Posbility: 0.0028
+Next Token : ([, Posbility: 0.0028
+Choose : (,  Posbility: 0.9757
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(
+---------------------------
+Next Token : second, Posbility: 0.9915
+Next Token : len, Posbility: 0.0019
+Next Token : first, Posbility: 0.0009
+Next Token : list, Posbility: 0.0006
+Next Token :  second, Posbility: 0.0004
+Choose : second,  Posbility: 0.9915
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second
+---------------------------
+Next Token : _, Posbility: 0.9998
+Next Token : [, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token : ), Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 0.9998
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_
+---------------------------
+Next Token : list, Posbility: 0.9999
+Next Token : item, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : dict, Posbility: 0.0000
+Next Token : value, Posbility: 0.0000
+Choose : list,  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list
+---------------------------
+Next Token : [, Posbility: 0.5963
+Next Token : ., Posbility: 0.3763
+Next Token : ), Posbility: 0.0268
+Next Token :  [, Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Choose : [,  Posbility: 0.5963
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[
+---------------------------
+Next Token : -, Posbility: 0.9584
+Next Token : len, Posbility: 0.0311
+Next Token : 0, Posbility: 0.0080
+Next Token : last, Posbility: 0.0004
+Next Token : 1, Posbility: 0.0003
+Choose : -,  Posbility: 0.9584
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-
+---------------------------
+Next Token : 1, Posbility: 0.9966
+Next Token : 2, Posbility: 0.0031
+Next Token :  1, Posbility: 0.0001
+Next Token : len, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9966
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1
+---------------------------
+Next Token : ]), Posbility: 0.9939
+Next Token : :, Posbility: 0.0018
+Next Token : ]);, Posbility: 0.0012
+Next Token : ][, Posbility: 0.0010
+Next Token : ], Posbility: 0.0010
+Choose : ]),  Posbility: 0.9939
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+---------------------------
+Next Token : 
+, Posbility: 0.8811
+Next Token : 
+
+, Posbility: 0.0565
+Next Token :  #, Posbility: 0.0214
+Next Token :  , Posbility: 0.0120
+Next Token : <|endoftext|>, Posbility: 0.0112
+Choose : 
+,  Posbility: 0.8811
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+
+---------------------------
+Next Token :     , Posbility: 0.7977
+Next Token : 
+, Posbility: 0.1556
+Next Token : <|endoftext|>, Posbility: 0.0134
+Next Token : def, Posbility: 0.0076
+Next Token :         , Posbility: 0.0067
+Choose :     ,  Posbility: 0.7977
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    
+---------------------------
+Next Token : return, Posbility: 0.6090
+Next Token : second, Posbility: 0.1106
+Next Token : print, Posbility: 0.0867
+Next Token : del, Posbility: 0.0799
+Next Token : 
+, Posbility: 0.0409
+Choose : return,  Posbility: 0.6090
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return
+---------------------------
+Next Token :  first, Posbility: 0.9526
+Next Token : (, Posbility: 0.0127
+Next Token : 
+, Posbility: 0.0068
+Next Token : 
+
+, Posbility: 0.0058
+Next Token :  second, Posbility: 0.0045
+Choose :  first,  Posbility: 0.9526
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : <|endoftext|>, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_
+---------------------------
+Next Token : list, Posbility: 0.9999
+Next Token : l, Posbility: 0.0000
+Next Token : array, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : list,  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+---------------------------
+Next Token : 
+, Posbility: 0.5855
+Next Token : 
+
+, Posbility: 0.3284
+Next Token : <|endoftext|>, Posbility: 0.0552
+Next Token :  , Posbility: 0.0110
+Next Token :     , Posbility: 0.0035
+Choose : 
+,  Posbility: 0.5855
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+---------------------------
+Next Token : 
+, Posbility: 0.7225
+Next Token :     , Posbility: 0.0689
+Next Token : print, Posbility: 0.0600
+Next Token : <|endoftext|>, Posbility: 0.0543
+Next Token : #, Posbility: 0.0235
+Choose : 
+,  Posbility: 0.7225
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9132
+Next Token : <|endoftext|>, Posbility: 0.0274
+Next Token : 
+
+, Posbility: 0.0271
+Next Token :     , Posbility: 0.0265
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9132
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4146
+Next Token : #, Posbility: 0.2128
+Next Token : def, Posbility: 0.1524
+Next Token : print, Posbility: 0.0685
+Next Token : 
+, Posbility: 0.0456
+Choose : '',  Posbility: 0.4146
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7897
+Next Token : Create, Posbility: 0.0185
+Next Token : 
+, Posbility: 0.0137
+Next Token :  Write, Posbility: 0.0133
+Next Token : Re, Posbility: 0.0102
+Choose : Write,  Posbility: 0.7897
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9910
+Next Token :  your, Posbility: 0.0026
+Next Token :  an, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0011
+Next Token :  function, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9910
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9657
+Next Token :  program, Posbility: 0.0090
+Next Token :  Python, Posbility: 0.0045
+Next Token :  python, Posbility: 0.0026
+Next Token :  recursive, Posbility: 0.0016
+Choose :  function,  Posbility: 0.9657
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9059
+Next Token :  to, Posbility: 0.0517
+Next Token :  called, Posbility: 0.0172
+Next Token :  named, Posbility: 0.0057
+Next Token :  which, Posbility: 0.0047
+Choose :  that,  Posbility: 0.9059
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.7151
+Next Token :  returns, Posbility: 0.0330
+Next Token :  accepts, Posbility: 0.0218
+Next Token :  revers, Posbility: 0.0218
+Next Token :  prints, Posbility: 0.0202
+Choose :  takes,  Posbility: 0.7151
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  in, Posbility: 0.7933
+Next Token :  a, Posbility: 0.1381
+Next Token :  two, Posbility: 0.0234
+Next Token :  as, Posbility: 0.0184
+Next Token :  an, Posbility: 0.0117
+Choose :  in,  Posbility: 0.7933
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in
+---------------------------
+Next Token :  a, Posbility: 0.4559
+Next Token :  two, Posbility: 0.4164
+Next Token :  an, Posbility: 0.0539
+Next Token :  three, Posbility: 0.0368
+Next Token :  the, Posbility: 0.0081
+Choose :  a,  Posbility: 0.4559
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a
+---------------------------
+Next Token :  list, Posbility: 0.4659
+Next Token :  string, Posbility: 0.1875
+Next Token :  number, Posbility: 0.0660
+Next Token :  dictionary, Posbility: 0.0371
+Next Token :  two, Posbility: 0.0224
+Choose :  list,  Posbility: 0.4659
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list
+---------------------------
+Next Token :  of, Posbility: 0.4659
+Next Token :  and, Posbility: 0.4106
+Next Token : ,, Posbility: 0.0552
+Next Token :  as, Posbility: 0.0137
+Next Token : ., Posbility: 0.0134
+Choose :  of,  Posbility: 0.4659
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of
+---------------------------
+Next Token :  numbers, Posbility: 0.3963
+Next Token :  integers, Posbility: 0.1795
+Next Token :  strings, Posbility: 0.0753
+Next Token :  lists, Posbility: 0.0654
+Next Token :  words, Posbility: 0.0493
+Choose :  numbers,  Posbility: 0.3963
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers
+---------------------------
+Next Token :  and, Posbility: 0.7889
+Next Token : ,, Posbility: 0.0761
+Next Token : ., Posbility: 0.0489
+Next Token :  as, Posbility: 0.0332
+Next Token :  (, Posbility: 0.0191
+Choose :  and,  Posbility: 0.7889
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and
+---------------------------
+Next Token :  returns, Posbility: 0.6879
+Next Token :  a, Posbility: 0.0498
+Next Token :  prints, Posbility: 0.0310
+Next Token :  return, Posbility: 0.0160
+Next Token :  an, Posbility: 0.0160
+Choose :  returns,  Posbility: 0.6879
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns
+---------------------------
+Next Token :  the, Posbility: 0.4671
+Next Token :  a, Posbility: 0.4006
+Next Token :  that, Posbility: 0.0269
+Next Token :  an, Posbility: 0.0191
+Next Token :  it, Posbility: 0.0142
+Choose :  the,  Posbility: 0.4671
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the
+---------------------------
+Next Token :  sum, Posbility: 0.1742
+Next Token :  smallest, Posbility: 0.1631
+Next Token :  average, Posbility: 0.1177
+Next Token :  largest, Posbility: 0.0905
+Next Token :  list, Posbility: 0.0504
+Choose :  sum,  Posbility: 0.1742
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum
+---------------------------
+Next Token :  of, Posbility: 0.9507
+Next Token : .', Posbility: 0.0126
+Next Token : ,, Posbility: 0.0105
+Next Token :  and, Posbility: 0.0036
+Next Token : ., Posbility: 0.0032
+Choose :  of,  Posbility: 0.9507
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of
+---------------------------
+Next Token :  the, Posbility: 0.5157
+Next Token :  all, Posbility: 0.3273
+Next Token :  those, Posbility: 0.0819
+Next Token :  each, Posbility: 0.0159
+Next Token :  every, Posbility: 0.0124
+Choose :  the,  Posbility: 0.5157
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the
+---------------------------
+Next Token :  numbers, Posbility: 0.2013
+Next Token :  even, Posbility: 0.1490
+Next Token :  first, Posbility: 0.1230
+Next Token :  elements, Posbility: 0.0705
+Next Token :  list, Posbility: 0.0656
+Choose :  numbers,  Posbility: 0.2013
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers
+---------------------------
+Next Token :  in, Posbility: 0.3574
+Next Token : .', Posbility: 0.2930
+Next Token : ., Posbility: 0.0799
+Next Token :  that, Posbility: 0.0402
+Next Token :  inside, Posbility: 0.0214
+Choose :  in,  Posbility: 0.3574
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in
+---------------------------
+Next Token :  the, Posbility: 0.9216
+Next Token :  that, Posbility: 0.0417
+Next Token :  it, Posbility: 0.0115
+Next Token :  a, Posbility: 0.0086
+Next Token :  each, Posbility: 0.0032
+Choose :  the,  Posbility: 0.9216
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in the
+---------------------------
+Next Token :  list, Posbility: 0.8638
+Next Token :  middle, Posbility: 0.0289
+Next Token :  first, Posbility: 0.0268
+Next Token :  array, Posbility: 0.0167
+Next Token :  input, Posbility: 0.0066
+Choose :  list,  Posbility: 0.8638
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in the list
+---------------------------
+Next Token : .', Posbility: 0.8083
+Next Token : ., Posbility: 0.1097
+Next Token : '', Posbility: 0.0108
+Next Token : ,, Posbility: 0.0107
+Next Token :  multiplied, Posbility: 0.0096
+Choose : .',  Posbility: 0.8083
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in the list.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in the list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9608
+Next Token : 
+
+, Posbility: 0.0323
+Next Token :  , Posbility: 0.0024
+Next Token : def, Posbility: 0.0013
+Next Token :     , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9608
+---------------------------
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in the list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9608
+Next Token : 
+, Posbility: 0.0262
+Next Token : #, Posbility: 0.0078
+Next Token : '', Posbility: 0.0005
+Next Token : import, Posbility: 0.0005
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 13.425187110900879
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in two lists and replaces the last element of the first list with the elements of the second list.'''
+def replace_last(first_list, second_list):
+    '''Replace the last element of the first list with the elements of the second list.'''
+    first_list.append(second_list[-1])
+    return first_list
+
+
+'''Write a function that takes in a list of numbers and returns the sum of the numbers in the list.'''
+

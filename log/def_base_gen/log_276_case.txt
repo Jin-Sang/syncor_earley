@@ -1,0 +1,1434 @@
+<<<<<<<<<<<< 276 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  is, Posbility: 0.2840
+Next Token :  check, Posbility: 0.1943
+Next Token :  sort, Posbility: 0.1173
+Next Token :  sorted, Posbility: 0.0786
+Next Token :  list, Posbility: 0.0564
+Choose :  is,  Posbility: 0.2840
+'''Write a function to check whether a specified list is sorted or not.'''
+def is
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def is
+---------------------------
+Next Token : S, Posbility: 0.5711
+Next Token : _, Posbility: 0.3962
+Next Token : Sort, Posbility: 0.0055
+Next Token : Ord, Posbility: 0.0035
+Next Token : List, Posbility: 0.0016
+Choose : S,  Posbility: 0.5711
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isS
+---------------------------
+Next Token : orted, Posbility: 0.9845
+Next Token : orting, Posbility: 0.0056
+Next Token : orter, Posbility: 0.0033
+Next Token : ort, Posbility: 0.0020
+Next Token : ORT, Posbility: 0.0005
+Choose : orted,  Posbility: 0.9845
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted
+---------------------------
+Next Token : (, Posbility: 0.9083
+Next Token : List, Posbility: 0.0401
+Next Token :  (, Posbility: 0.0080
+Next Token : ():, Posbility: 0.0048
+Next Token : _, Posbility: 0.0045
+Choose : (,  Posbility: 0.9083
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(
+---------------------------
+Next Token : l, Posbility: 0.1880
+Next Token : list, Posbility: 0.1296
+Next Token : arr, Posbility: 0.0992
+Next Token : n, Posbility: 0.0602
+Next Token : my, Posbility: 0.0560
+Choose : l,  Posbility: 0.1880
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(l
+---------------------------
+Next Token : st, Posbility: 0.7481
+Next Token : ):, Posbility: 0.1945
+Next Token : 1, Posbility: 0.0194
+Next Token : ,, Posbility: 0.0151
+Next Token : :, Posbility: 0.0132
+Choose : st,  Posbility: 0.7481
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst
+---------------------------
+Next Token : ):, Posbility: 0.8897
+Next Token : ,, Posbility: 0.0485
+Next Token : :, Posbility: 0.0243
+Next Token : ), Posbility: 0.0197
+Next Token : 1, Posbility: 0.0082
+Choose : ):,  Posbility: 0.8897
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9154
+Next Token : , Posbility: 0.0277
+Next Token : 
+
+, Posbility: 0.0266
+Next Token :  , Posbility: 0.0189
+Next Token :  #, Posbility: 0.0034
+Choose : 
+,  Posbility: 0.9154
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.8652
+Next Token :   , Posbility: 0.0622
+Next Token : 	, Posbility: 0.0597
+Next Token :    , Posbility: 0.0065
+Next Token :  , Posbility: 0.0014
+Choose :     ,  Posbility: 0.8652
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    
+---------------------------
+Next Token : if, Posbility: 0.2422
+Next Token : '', Posbility: 0.1787
+Next Token : for, Posbility: 0.1594
+Next Token : #, Posbility: 0.0761
+Next Token : n, Posbility: 0.0314
+Choose : if,  Posbility: 0.2422
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if
+---------------------------
+Next Token :  len, Posbility: 0.5085
+Next Token :  l, Posbility: 0.3050
+Next Token :  not, Posbility: 0.0516
+Next Token : (, Posbility: 0.0420
+Next Token :  (, Posbility: 0.0309
+Choose :  len,  Posbility: 0.5085
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9992
+Next Token :  (, Posbility: 0.0005
+Next Token : ([, Posbility: 0.0001
+Next Token : ({, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Choose : (,  Posbility: 0.9992
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(
+---------------------------
+Next Token : l, Posbility: 0.9974
+Next Token : set, Posbility: 0.0014
+Next Token : list, Posbility: 0.0005
+Next Token : s, Posbility: 0.0003
+Next Token : str, Posbility: 0.0001
+Choose : l,  Posbility: 0.9974
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst
+---------------------------
+Next Token : ), Posbility: 0.9893
+Next Token : )!, Posbility: 0.0040
+Next Token : [, Posbility: 0.0025
+Next Token : )-, Posbility: 0.0023
+Next Token : ):, Posbility: 0.0010
+Choose : ),  Posbility: 0.9893
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst)
+---------------------------
+Next Token :  ==, Posbility: 0.2743
+Next Token :  <=, Posbility: 0.2228
+Next Token :  <, Posbility: 0.1482
+Next Token : <, Posbility: 0.0769
+Next Token :  >, Posbility: 0.0752
+Choose :  ==,  Posbility: 0.2743
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) ==
+---------------------------
+Next Token :  0, Posbility: 0.6511
+Next Token :  1, Posbility: 0.3147
+Next Token :  len, Posbility: 0.0116
+Next Token :  2, Posbility: 0.0113
+Next Token : 0, Posbility: 0.0053
+Choose :  0,  Posbility: 0.6511
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0
+---------------------------
+Next Token : :, Posbility: 0.8383
+Next Token :  or, Posbility: 0.1498
+Next Token :  :, Posbility: 0.0094
+Next Token :  and, Posbility: 0.0017
+Next Token : :#, Posbility: 0.0002
+Choose : :,  Posbility: 0.8383
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9351
+Next Token :  return, Posbility: 0.0348
+Next Token :  , Posbility: 0.0120
+Next Token :  #, Posbility: 0.0067
+Next Token :   , Posbility: 0.0050
+Choose : 
+,  Posbility: 0.9351
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9875
+Next Token :       , Posbility: 0.0040
+Next Token :        , Posbility: 0.0030
+Next Token :             , Posbility: 0.0025
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9875
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.9446
+Next Token : print, Posbility: 0.0264
+Next Token : l, Posbility: 0.0083
+Next Token : #, Posbility: 0.0055
+Next Token : pass, Posbility: 0.0029
+Choose : return,  Posbility: 0.9446
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.5279
+Next Token :  False, Posbility: 0.3599
+Next Token :  0, Posbility: 0.0362
+Next Token :  None, Posbility: 0.0178
+Next Token :  ', Posbility: 0.0121
+Choose :  True,  Posbility: 0.5279
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.8462
+Next Token : 
+
+, Posbility: 0.1270
+Next Token :  , Posbility: 0.0064
+Next Token :  #, Posbility: 0.0055
+Next Token : ,, Posbility: 0.0044
+Choose : 
+,  Posbility: 0.8462
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9832
+Next Token :         , Posbility: 0.0120
+Next Token : 
+, Posbility: 0.0010
+Next Token :  , Posbility: 0.0007
+Next Token :    , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9832
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    
+---------------------------
+Next Token : if, Posbility: 0.3100
+Next Token : el, Posbility: 0.2666
+Next Token : else, Posbility: 0.1395
+Next Token : for, Posbility: 0.1012
+Next Token : 
+, Posbility: 0.0521
+Choose : if,  Posbility: 0.3100
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if
+---------------------------
+Next Token :  len, Posbility: 0.5926
+Next Token :  l, Posbility: 0.3375
+Next Token :  (, Posbility: 0.0253
+Next Token :  is, Posbility: 0.0081
+Next Token :  sorted, Posbility: 0.0069
+Choose :  len,  Posbility: 0.5926
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9994
+Next Token :  (, Posbility: 0.0004
+Next Token : ([, Posbility: 0.0001
+Next Token : ({, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : (,  Posbility: 0.9994
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(
+---------------------------
+Next Token : l, Posbility: 0.9991
+Next Token : set, Posbility: 0.0004
+Next Token : list, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : str, Posbility: 0.0001
+Choose : l,  Posbility: 0.9991
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : str, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst
+---------------------------
+Next Token : ), Posbility: 0.9965
+Next Token : [, Posbility: 0.0025
+Next Token : )-, Posbility: 0.0004
+Next Token : )!, Posbility: 0.0002
+Next Token :  ==, Posbility: 0.0001
+Choose : ),  Posbility: 0.9965
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst)
+---------------------------
+Next Token :  ==, Posbility: 0.8178
+Next Token :  %, Posbility: 0.0624
+Next Token :  <=, Posbility: 0.0287
+Next Token :  <, Posbility: 0.0230
+Next Token :  >, Posbility: 0.0230
+Choose :  ==,  Posbility: 0.8178
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) ==
+---------------------------
+Next Token :  1, Posbility: 0.9860
+Next Token : 1, Posbility: 0.0077
+Next Token :  0, Posbility: 0.0028
+Next Token :  2, Posbility: 0.0023
+Next Token :  len, Posbility: 0.0006
+Choose :  1,  Posbility: 0.9860
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1
+---------------------------
+Next Token : :, Posbility: 0.9615
+Next Token :  and, Posbility: 0.0243
+Next Token :  or, Posbility: 0.0132
+Next Token :  :, Posbility: 0.0006
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9615
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9924
+Next Token :  , Posbility: 0.0027
+Next Token :  return, Posbility: 0.0014
+Next Token :  #, Posbility: 0.0012
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9924
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9969
+Next Token :             , Posbility: 0.0013
+Next Token :          , Posbility: 0.0007
+Next Token :        , Posbility: 0.0005
+Next Token :       , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9969
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.8062
+Next Token : if, Posbility: 0.1760
+Next Token : for, Posbility: 0.0056
+Next Token : #, Posbility: 0.0032
+Next Token : print, Posbility: 0.0019
+Choose : return,  Posbility: 0.8062
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.3846
+Next Token :  l, Posbility: 0.3829
+Next Token :  False, Posbility: 0.1310
+Next Token :  (, Posbility: 0.0260
+Next Token :  is, Posbility: 0.0160
+Choose :  True,  Posbility: 0.3846
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.5958
+Next Token :  if, Posbility: 0.2882
+Next Token : 
+
+, Posbility: 0.0989
+Next Token :  , Posbility: 0.0051
+Next Token :  #, Posbility: 0.0028
+Choose : 
+,  Posbility: 0.5958
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9865
+Next Token :         , Posbility: 0.0089
+Next Token :  , Posbility: 0.0010
+Next Token :    , Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9865
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    
+---------------------------
+Next Token : if, Posbility: 0.6339
+Next Token : for, Posbility: 0.0793
+Next Token : 
+, Posbility: 0.0388
+Next Token : return, Posbility: 0.0374
+Next Token : else, Posbility: 0.0357
+Choose : if,  Posbility: 0.6339
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if
+---------------------------
+Next Token :  l, Posbility: 0.7589
+Next Token :  len, Posbility: 0.1410
+Next Token :  (, Posbility: 0.0300
+Next Token :  sorted, Posbility: 0.0148
+Next Token :  is, Posbility: 0.0143
+Choose :  l,  Posbility: 0.7589
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst
+---------------------------
+Next Token : [, Posbility: 0.9896
+Next Token : ., Posbility: 0.0059
+Next Token :  ==, Posbility: 0.0021
+Next Token :  [, Posbility: 0.0013
+Next Token : !=, Posbility: 0.0002
+Choose : [,  Posbility: 0.9896
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[
+---------------------------
+Next Token : 0, Posbility: 0.9312
+Next Token : 1, Posbility: 0.0282
+Next Token : -, Posbility: 0.0219
+Next Token : len, Posbility: 0.0141
+Next Token : :, Posbility: 0.0013
+Choose : 0,  Posbility: 0.9312
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0
+---------------------------
+Next Token : ], Posbility: 0.9924
+Next Token : ]., Posbility: 0.0030
+Next Token : :, Posbility: 0.0016
+Next Token : ][, Posbility: 0.0012
+Next Token : ]-, Posbility: 0.0006
+Choose : ],  Posbility: 0.9924
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0]
+---------------------------
+Next Token :  >, Posbility: 0.5258
+Next Token :  <, Posbility: 0.2318
+Next Token :  <=, Posbility: 0.0796
+Next Token :  >=, Posbility: 0.0783
+Next Token : !=, Posbility: 0.0351
+Choose :  >,  Posbility: 0.5258
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] >
+---------------------------
+Next Token :  l, Posbility: 0.9947
+Next Token : l, Posbility: 0.0015
+Next Token :   , Posbility: 0.0010
+Next Token :  sorted, Posbility: 0.0005
+Next Token :  0, Posbility: 0.0004
+Choose :  l,  Posbility: 0.9947
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : ct, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst
+---------------------------
+Next Token : [, Posbility: 0.9943
+Next Token :  [, Posbility: 0.0054
+Next Token : :, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token :  [-, Posbility: 0.0000
+Choose : [,  Posbility: 0.9943
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[
+---------------------------
+Next Token : 1, Posbility: 0.8784
+Next Token : -, Posbility: 0.0802
+Next Token : len, Posbility: 0.0343
+Next Token : 2, Posbility: 0.0038
+Next Token : 0, Posbility: 0.0021
+Choose : 1,  Posbility: 0.8784
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1
+---------------------------
+Next Token : ]:, Posbility: 0.9802
+Next Token : ], Posbility: 0.0192
+Next Token : ][, Posbility: 0.0002
+Next Token : ]., Posbility: 0.0002
+Next Token : :, Posbility: 0.0001
+Choose : ]:,  Posbility: 0.9802
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+---------------------------
+Next Token : 
+, Posbility: 0.9820
+Next Token :  #, Posbility: 0.0051
+Next Token :   , Posbility: 0.0035
+Next Token :  , Posbility: 0.0029
+Next Token :  return, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9820
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+
+---------------------------
+Next Token :         , Posbility: 0.9957
+Next Token :             , Posbility: 0.0015
+Next Token :        , Posbility: 0.0009
+Next Token :          , Posbility: 0.0006
+Next Token :       , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9957
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        
+---------------------------
+Next Token : return, Posbility: 0.9502
+Next Token : if, Posbility: 0.0176
+Next Token : l, Posbility: 0.0136
+Next Token : for, Posbility: 0.0038
+Next Token : #, Posbility: 0.0030
+Choose : return,  Posbility: 0.9502
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.6900
+Next Token :  True, Posbility: 0.2133
+Next Token :  is, Posbility: 0.0724
+Next Token :  l, Posbility: 0.0073
+Next Token :   , Posbility: 0.0026
+Choose :  False,  Posbility: 0.6900
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.9114
+Next Token : 
+
+, Posbility: 0.0776
+Next Token :  , Posbility: 0.0060
+Next Token :  #, Posbility: 0.0011
+Next Token :     , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9114
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+
+---------------------------
+Next Token :     , Posbility: 0.9892
+Next Token :         , Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0035
+Next Token :  , Posbility: 0.0006
+Next Token :   , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9892
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    
+---------------------------
+Next Token : return, Posbility: 0.3997
+Next Token : if, Posbility: 0.1728
+Next Token : else, Posbility: 0.1558
+Next Token : for, Posbility: 0.1189
+Next Token : i, Posbility: 0.0235
+Choose : return,  Posbility: 0.3997
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return
+---------------------------
+Next Token :  is, Posbility: 0.8576
+Next Token :  True, Posbility: 0.0656
+Next Token :  (, Posbility: 0.0171
+Next Token :  False, Posbility: 0.0169
+Next Token :  sorted, Posbility: 0.0060
+Choose :  is,  Posbility: 0.8576
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return is
+---------------------------
+Next Token : S, Posbility: 0.9991
+Next Token : Sort, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Next Token : Same, Posbility: 0.0000
+Next Token : B, Posbility: 0.0000
+Choose : S,  Posbility: 0.9991
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isS
+---------------------------
+Next Token : orted, Posbility: 0.9999
+Next Token : orting, Posbility: 0.0000
+Next Token : ort, Posbility: 0.0000
+Next Token : orter, Posbility: 0.0000
+Next Token : ORT, Posbility: 0.0000
+Choose : orted,  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted
+---------------------------
+Next Token : (, Posbility: 0.8755
+Next Token : ([, Posbility: 0.1195
+Next Token : ((, Posbility: 0.0027
+Next Token : _, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0005
+Choose : (,  Posbility: 0.8755
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(
+---------------------------
+Next Token : l, Posbility: 0.9942
+Next Token : list, Posbility: 0.0015
+Next Token :  l, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0007
+Next Token : s, Posbility: 0.0007
+Choose : l,  Posbility: 0.9942
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(l
+---------------------------
+Next Token : st, Posbility: 0.9997
+Next Token : [, Posbility: 0.0001
+Next Token : =, Posbility: 0.0000
+Next Token : nt, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Choose : st,  Posbility: 0.9997
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst
+---------------------------
+Next Token : [, Posbility: 0.9987
+Next Token :  [, Posbility: 0.0006
+Next Token : =, Posbility: 0.0003
+Next Token : ), Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Choose : [,  Posbility: 0.9987
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[
+---------------------------
+Next Token : 1, Posbility: 0.9329
+Next Token : 0, Posbility: 0.0230
+Next Token : :, Posbility: 0.0208
+Next Token : 2, Posbility: 0.0146
+Next Token : :-, Posbility: 0.0074
+Choose : 1,  Posbility: 0.9329
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1
+---------------------------
+Next Token : :, Posbility: 0.9601
+Next Token : :-, Posbility: 0.0140
+Next Token : ::, Posbility: 0.0136
+Next Token : :], Posbility: 0.0056
+Next Token : ]), Posbility: 0.0027
+Choose : :,  Posbility: 0.9601
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:
+---------------------------
+Next Token : ]), Posbility: 0.8825
+Next Token : len, Posbility: 0.1046
+Next Token :  len, Posbility: 0.0056
+Next Token :  ]), Posbility: 0.0025
+Next Token : l, Posbility: 0.0013
+Choose : ]),  Posbility: 0.8825
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.6435
+Next Token : 
+
+, Posbility: 0.3195
+Next Token :  or, Posbility: 0.0112
+Next Token : <|endoftext|>, Posbility: 0.0066
+Next Token :  , Posbility: 0.0063
+Choose : 
+,  Posbility: 0.6435
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+---------------------------
+Next Token : 
+, Posbility: 0.7262
+Next Token :     , Posbility: 0.0755
+Next Token : <|endoftext|>, Posbility: 0.0404
+Next Token : #, Posbility: 0.0361
+Next Token : print, Posbility: 0.0280
+Choose : 
+,  Posbility: 0.7262
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9617
+Next Token :     , Posbility: 0.0152
+Next Token : <|endoftext|>, Posbility: 0.0140
+Next Token : 
+
+, Posbility: 0.0068
+Next Token :         , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9617
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4940
+Next Token : #, Posbility: 0.1831
+Next Token : def, Posbility: 0.1248
+Next Token : print, Posbility: 0.0687
+Next Token : l, Posbility: 0.0355
+Choose : '',  Posbility: 0.4940
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7440
+Next Token :  Write, Posbility: 0.0287
+Next Token : 
+, Posbility: 0.0213
+Next Token : Check, Posbility: 0.0133
+Next Token : Create, Posbility: 0.0088
+Choose : Write,  Posbility: 0.7440
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9877
+Next Token :  your, Posbility: 0.0028
+Next Token :  an, Posbility: 0.0026
+Next Token :  function, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0016
+Choose :  a,  Posbility: 0.9877
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9337
+Next Token :  Python, Posbility: 0.0191
+Next Token :  program, Posbility: 0.0113
+Next Token :  python, Posbility: 0.0073
+Next Token :  recursive, Posbility: 0.0040
+Choose :  function,  Posbility: 0.9337
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7524
+Next Token :  that, Posbility: 0.1920
+Next Token :  which, Posbility: 0.0163
+Next Token :  called, Posbility: 0.0067
+Next Token :  for, Posbility: 0.0042
+Choose :  to,  Posbility: 0.7524
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.1464
+Next Token :  find, Posbility: 0.1116
+Next Token :  print, Posbility: 0.0733
+Next Token :  return, Posbility: 0.0723
+Next Token :  get, Posbility: 0.0616
+Choose :  check,  Posbility: 0.1464
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8217
+Next Token :  if, Posbility: 0.1198
+Next Token :  for, Posbility: 0.0141
+Next Token :  the, Posbility: 0.0100
+Next Token :  a, Posbility: 0.0052
+Choose :  whether,  Posbility: 0.8217
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether
+---------------------------
+Next Token :  a, Posbility: 0.7250
+Next Token :  an, Posbility: 0.0764
+Next Token :  the, Posbility: 0.0738
+Next Token :  two, Posbility: 0.0401
+Next Token :  list, Posbility: 0.0071
+Choose :  a,  Posbility: 0.7250
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a
+---------------------------
+Next Token :  specified, Posbility: 0.5585
+Next Token :  list, Posbility: 0.1476
+Next Token :  string, Posbility: 0.0505
+Next Token :  given, Posbility: 0.0226
+Next Token :  number, Posbility: 0.0161
+Choose :  specified,  Posbility: 0.5585
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified
+---------------------------
+Next Token :  list, Posbility: 0.8410
+Next Token :  string, Posbility: 0.0410
+Next Token :  array, Posbility: 0.0304
+Next Token :  number, Posbility: 0.0155
+Next Token :  sequence, Posbility: 0.0049
+Choose :  list,  Posbility: 0.8410
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list
+---------------------------
+Next Token :  is, Posbility: 0.8148
+Next Token :  has, Posbility: 0.0570
+Next Token :  contains, Posbility: 0.0535
+Next Token :  of, Posbility: 0.0315
+Next Token :  can, Posbility: 0.0113
+Choose :  is,  Posbility: 0.8148
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is
+---------------------------
+Next Token :  sorted, Posbility: 0.5782
+Next Token :  pal, Posbility: 0.0351
+Next Token :  rotated, Posbility: 0.0307
+Next Token :  a, Posbility: 0.0285
+Next Token :  empty, Posbility: 0.0265
+Choose :  sorted,  Posbility: 0.5782
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted
+---------------------------
+Next Token :  or, Posbility: 0.9047
+Next Token :  in, Posbility: 0.0399
+Next Token : .', Posbility: 0.0163
+Next Token : ,, Posbility: 0.0069
+Next Token : ., Posbility: 0.0055
+Choose :  or,  Posbility: 0.9047
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted or
+---------------------------
+Next Token :  not, Posbility: 0.9980
+Next Token : 
+, Posbility: 0.0008
+Next Token :  , Posbility: 0.0002
+Next Token :  no, Posbility: 0.0001
+Next Token :  doesn, Posbility: 0.0001
+Choose :  not,  Posbility: 0.9980
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted or not
+---------------------------
+Next Token : .', Posbility: 0.7463
+Next Token : ., Posbility: 0.1309
+Next Token : '', Posbility: 0.0428
+Next Token :  using, Posbility: 0.0154
+Next Token : ,, Posbility: 0.0149
+Choose : .',  Posbility: 0.7463
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted or not.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9455
+Next Token : 
+
+, Posbility: 0.0415
+Next Token : def, Posbility: 0.0060
+Next Token :  , Posbility: 0.0027
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9455
+---------------------------
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9174
+Next Token : 
+, Posbility: 0.0502
+Next Token : #, Posbility: 0.0172
+Next Token : import, Posbility: 0.0035
+Next Token : from, Posbility: 0.0028
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 14.050277709960938
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether a specified list is sorted or not.'''
+def isSorted(lst):
+    if len(lst) == 0:
+        return True
+    if len(lst) == 1:
+        return True
+    if lst[0] > lst[1]:
+        return False
+    return isSorted(lst[1:])
+
+
+'''Write a function to check whether a specified list is sorted or not.'''
+

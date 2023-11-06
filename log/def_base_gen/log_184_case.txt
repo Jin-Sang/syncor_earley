@@ -1,0 +1,3786 @@
+<<<<<<<<<<<< 184 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  max, Posbility: 0.3495
+Next Token :  find, Posbility: 0.2073
+Next Token :  maximum, Posbility: 0.0562
+Next Token :  f, Posbility: 0.0288
+Next Token :  sum, Posbility: 0.0219
+Choose :  max,  Posbility: 0.3495
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max
+---------------------------
+Next Token : _, Posbility: 0.4586
+Next Token : Sum, Posbility: 0.1397
+Next Token : sum, Posbility: 0.0904
+Next Token : p, Posbility: 0.0388
+Next Token : (, Posbility: 0.0280
+Choose : _,  Posbility: 0.4586
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_
+---------------------------
+Next Token : sum, Posbility: 0.6549
+Next Token : p, Posbility: 0.0966
+Next Token : s, Posbility: 0.0222
+Next Token : sub, Posbility: 0.0150
+Next Token : pro, Posbility: 0.0134
+Choose : sum,  Posbility: 0.6549
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum
+---------------------------
+Next Token : _, Posbility: 0.5612
+Next Token : (, Posbility: 0.4175
+Next Token : ():, Posbility: 0.0050
+Next Token : 2, Posbility: 0.0032
+Next Token : 1, Posbility: 0.0023
+Choose : _,  Posbility: 0.5612
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_
+---------------------------
+Next Token : p, Posbility: 0.5170
+Next Token : of, Posbility: 0.0566
+Next Token : by, Posbility: 0.0392
+Next Token : n, Posbility: 0.0273
+Next Token : equ, Posbility: 0.0262
+Choose : p,  Posbility: 0.5170
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_p
+---------------------------
+Next Token : ossible, Posbility: 0.6111
+Next Token : (, Posbility: 0.2066
+Next Token : oss, Posbility: 0.0280
+Next Token : _, Posbility: 0.0262
+Next Token : 2, Posbility: 0.0225
+Choose : ossible,  Posbility: 0.6111
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible
+---------------------------
+Next Token : (, Posbility: 0.6965
+Next Token : _, Posbility: 0.2801
+Next Token : ():, Posbility: 0.0072
+Next Token :  (, Posbility: 0.0045
+Next Token : 2, Posbility: 0.0033
+Choose : (,  Posbility: 0.6965
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(
+---------------------------
+Next Token : n, Posbility: 0.5816
+Next Token : f, Posbility: 0.1478
+Next Token : x, Posbility: 0.0290
+Next Token : num, Posbility: 0.0253
+Next Token : a, Posbility: 0.0232
+Choose : n,  Posbility: 0.5816
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n
+---------------------------
+Next Token : ):, Posbility: 0.8732
+Next Token : ,, Posbility: 0.0705
+Next Token : :, Posbility: 0.0143
+Next Token : ums, Posbility: 0.0102
+Next Token : ), Posbility: 0.0097
+Choose : ):,  Posbility: 0.8732
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+---------------------------
+Next Token : 
+, Posbility: 0.8931
+Next Token : , Posbility: 0.0403
+Next Token : 
+
+, Posbility: 0.0393
+Next Token :  , Posbility: 0.0137
+Next Token :  #, Posbility: 0.0041
+Choose : 
+,  Posbility: 0.8931
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+
+---------------------------
+Next Token :     , Posbility: 0.9029
+Next Token : 	, Posbility: 0.0485
+Next Token :   , Posbility: 0.0340
+Next Token :    , Posbility: 0.0050
+Next Token :         , Posbility: 0.0036
+Choose :     ,  Posbility: 0.9029
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    
+---------------------------
+Next Token : if, Posbility: 0.3566
+Next Token : #, Posbility: 0.0777
+Next Token : max, Posbility: 0.0684
+Next Token : '', Posbility: 0.0621
+Next Token : sum, Posbility: 0.0490
+Choose : if,  Posbility: 0.3566
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if
+---------------------------
+Next Token :  n, Posbility: 0.8388
+Next Token :  (, Posbility: 0.0687
+Next Token : (, Posbility: 0.0497
+Next Token :  not, Posbility: 0.0166
+Next Token :  len, Posbility: 0.0048
+Choose :  n,  Posbility: 0.8388
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n
+---------------------------
+Next Token :  ==, Posbility: 0.4661
+Next Token : ==, Posbility: 0.1352
+Next Token :  <=, Posbility: 0.1171
+Next Token :  <, Posbility: 0.1143
+Next Token : <, Posbility: 0.0550
+Choose :  ==,  Posbility: 0.4661
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n ==
+---------------------------
+Next Token :  1, Posbility: 0.5244
+Next Token :  0, Posbility: 0.3884
+Next Token :  2, Posbility: 0.0403
+Next Token :  4, Posbility: 0.0076
+Next Token :  3, Posbility: 0.0067
+Choose :  1,  Posbility: 0.5244
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1
+---------------------------
+Next Token : :, Posbility: 0.8757
+Next Token :  or, Posbility: 0.1060
+Next Token :  :, Posbility: 0.0147
+Next Token :  and, Posbility: 0.0019
+Next Token : ., Posbility: 0.0008
+Choose : :,  Posbility: 0.8757
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9451
+Next Token :  return, Posbility: 0.0384
+Next Token :  , Posbility: 0.0056
+Next Token :  #, Posbility: 0.0036
+Next Token :   , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9451
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9926
+Next Token :       , Posbility: 0.0022
+Next Token :        , Posbility: 0.0018
+Next Token :             , Posbility: 0.0016
+Next Token :          , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9926
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.9755
+Next Token : print, Posbility: 0.0114
+Next Token : max, Posbility: 0.0024
+Next Token : #, Posbility: 0.0017
+Next Token : result, Posbility: 0.0013
+Choose : return,  Posbility: 0.9755
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return
+---------------------------
+Next Token :  1, Posbility: 0.3915
+Next Token :  n, Posbility: 0.2506
+Next Token :  0, Posbility: 0.1584
+Next Token :  2, Posbility: 0.0282
+Next Token :  (, Posbility: 0.0208
+Choose :  1,  Posbility: 0.3915
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+---------------------------
+Next Token : 
+, Posbility: 0.8910
+Next Token : 
+
+, Posbility: 0.0880
+Next Token :  , Posbility: 0.0060
+Next Token : ;, Posbility: 0.0033
+Next Token : ,, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.8910
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+
+---------------------------
+Next Token :     , Posbility: 0.9936
+Next Token :         , Posbility: 0.0047
+Next Token :  , Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9936
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    
+---------------------------
+Next Token : el, Posbility: 0.3777
+Next Token : if, Posbility: 0.2981
+Next Token : else, Posbility: 0.1358
+Next Token : return, Posbility: 0.0382
+Next Token : 
+, Posbility: 0.0265
+Choose : el,  Posbility: 0.3777
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif
+---------------------------
+Next Token :  n, Posbility: 0.9785
+Next Token :  (, Posbility: 0.0117
+Next Token : (, Posbility: 0.0018
+Next Token :  1, Posbility: 0.0015
+Next Token :  2, Posbility: 0.0012
+Choose :  n,  Posbility: 0.9785
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n
+---------------------------
+Next Token :  ==, Posbility: 0.7935
+Next Token :  %, Posbility: 0.0768
+Next Token :  <, Posbility: 0.0350
+Next Token : ==, Posbility: 0.0235
+Next Token :  <=, Posbility: 0.0224
+Choose :  ==,  Posbility: 0.7935
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n ==
+---------------------------
+Next Token :  2, Posbility: 0.8890
+Next Token :  0, Posbility: 0.0655
+Next Token : 2, Posbility: 0.0137
+Next Token :  3, Posbility: 0.0117
+Next Token :  4, Posbility: 0.0092
+Choose :  2,  Posbility: 0.8890
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2
+---------------------------
+Next Token : :, Posbility: 0.9749
+Next Token :  or, Posbility: 0.0197
+Next Token :  :, Posbility: 0.0033
+Next Token :  and, Posbility: 0.0019
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9749
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+---------------------------
+Next Token : 
+, Posbility: 0.9945
+Next Token :  , Posbility: 0.0024
+Next Token :  return, Posbility: 0.0010
+Next Token :  #, Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9945
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+
+---------------------------
+Next Token :         , Posbility: 0.9967
+Next Token :             , Posbility: 0.0011
+Next Token :          , Posbility: 0.0007
+Next Token :        , Posbility: 0.0006
+Next Token :     , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9967
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        
+---------------------------
+Next Token : return, Posbility: 0.9944
+Next Token : print, Posbility: 0.0017
+Next Token : if, Posbility: 0.0012
+Next Token : #, Posbility: 0.0007
+Next Token : max, Posbility: 0.0003
+Choose : return,  Posbility: 0.9944
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return
+---------------------------
+Next Token :  2, Posbility: 0.3407
+Next Token :  1, Posbility: 0.2545
+Next Token :  3, Posbility: 0.1621
+Next Token :  4, Posbility: 0.0584
+Next Token :  5, Posbility: 0.0350
+Choose :  2,  Posbility: 0.3407
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+---------------------------
+Next Token : 
+, Posbility: 0.9390
+Next Token : 
+
+, Posbility: 0.0413
+Next Token :  +, Posbility: 0.0040
+Next Token :  , Posbility: 0.0032
+Next Token :  *, Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9390
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+
+---------------------------
+Next Token :     , Posbility: 0.9982
+Next Token :         , Posbility: 0.0011
+Next Token : #, Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    
+---------------------------
+Next Token : el, Posbility: 0.7103
+Next Token : else, Posbility: 0.2476
+Next Token : return, Posbility: 0.0058
+Next Token : 
+, Posbility: 0.0053
+Next Token : max, Posbility: 0.0053
+Choose : el,  Posbility: 0.7103
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif
+---------------------------
+Next Token :  n, Posbility: 0.9917
+Next Token :  (, Posbility: 0.0030
+Next Token :  2, Posbility: 0.0014
+Next Token :  1, Posbility: 0.0008
+Next Token :  not, Posbility: 0.0007
+Choose :  n,  Posbility: 0.9917
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n
+---------------------------
+Next Token :  ==, Posbility: 0.8691
+Next Token :  %, Posbility: 0.0530
+Next Token :  >, Posbility: 0.0168
+Next Token :  >=, Posbility: 0.0153
+Next Token :  <, Posbility: 0.0132
+Choose :  ==,  Posbility: 0.8691
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n ==
+---------------------------
+Next Token :  3, Posbility: 0.9800
+Next Token :  4, Posbility: 0.0104
+Next Token :  5, Posbility: 0.0029
+Next Token : 3, Posbility: 0.0029
+Next Token :  0, Posbility: 0.0007
+Choose :  3,  Posbility: 0.9800
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3
+---------------------------
+Next Token : :, Posbility: 0.9955
+Next Token :  or, Posbility: 0.0031
+Next Token :  and, Posbility: 0.0007
+Next Token :  :, Posbility: 0.0006
+Next Token : ., Posbility: 0.0000
+Choose : :,  Posbility: 0.9955
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+---------------------------
+Next Token : 
+, Posbility: 0.9982
+Next Token :  , Posbility: 0.0011
+Next Token :  #, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+
+---------------------------
+Next Token :         , Posbility: 0.9988
+Next Token :             , Posbility: 0.0004
+Next Token :        , Posbility: 0.0003
+Next Token :          , Posbility: 0.0002
+Next Token :     , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9988
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        
+---------------------------
+Next Token : return, Posbility: 0.9981
+Next Token : if, Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token : print, Posbility: 0.0002
+Next Token : n, Posbility: 0.0001
+Choose : return,  Posbility: 0.9981
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return
+---------------------------
+Next Token :  4, Posbility: 0.3652
+Next Token :  3, Posbility: 0.1951
+Next Token :  6, Posbility: 0.1445
+Next Token :  5, Posbility: 0.1346
+Next Token :  7, Posbility: 0.0251
+Choose :  4,  Posbility: 0.3652
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+---------------------------
+Next Token : 
+, Posbility: 0.9648
+Next Token : 
+
+, Posbility: 0.0213
+Next Token :  , Posbility: 0.0040
+Next Token :  +, Posbility: 0.0036
+Next Token :  *, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9648
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+
+---------------------------
+Next Token :     , Posbility: 0.9988
+Next Token :         , Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Choose :     ,  Posbility: 0.9988
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    
+---------------------------
+Next Token : el, Posbility: 0.7363
+Next Token : else, Posbility: 0.2366
+Next Token : return, Posbility: 0.0055
+Next Token : if, Posbility: 0.0036
+Next Token : max, Posbility: 0.0032
+Choose : el,  Posbility: 0.7363
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : apsed, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif
+---------------------------
+Next Token :  n, Posbility: 0.9982
+Next Token :  (, Posbility: 0.0006
+Next Token :  2, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Next Token :  1, Posbility: 0.0002
+Choose :  n,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n
+---------------------------
+Next Token :  ==, Posbility: 0.9422
+Next Token :  %, Posbility: 0.0196
+Next Token :  >=, Posbility: 0.0131
+Next Token :  >, Posbility: 0.0118
+Next Token : ==, Posbility: 0.0047
+Choose :  ==,  Posbility: 0.9422
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n ==
+---------------------------
+Next Token :  4, Posbility: 0.9862
+Next Token :  5, Posbility: 0.0095
+Next Token : 4, Posbility: 0.0021
+Next Token :  6, Posbility: 0.0004
+Next Token :  2, Posbility: 0.0003
+Choose :  4,  Posbility: 0.9862
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4
+---------------------------
+Next Token : :, Posbility: 0.9983
+Next Token :  or, Posbility: 0.0011
+Next Token :  :, Posbility: 0.0003
+Next Token :  and, Posbility: 0.0002
+Next Token : :#, Posbility: 0.0000
+Choose : :,  Posbility: 0.9983
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+---------------------------
+Next Token : 
+, Posbility: 0.9986
+Next Token :  , Posbility: 0.0009
+Next Token : 
+
+, Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :  #, Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+
+---------------------------
+Next Token :         , Posbility: 0.9992
+Next Token :        , Posbility: 0.0002
+Next Token :          , Posbility: 0.0002
+Next Token :             , Posbility: 0.0002
+Next Token :     , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        
+---------------------------
+Next Token : return, Posbility: 0.9984
+Next Token : if, Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token : n, Posbility: 0.0001
+Next Token : print, Posbility: 0.0001
+Choose : return,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return
+---------------------------
+Next Token :  8, Posbility: 0.3905
+Next Token :  6, Posbility: 0.2502
+Next Token :  10, Posbility: 0.0858
+Next Token :  9, Posbility: 0.0539
+Next Token :  5, Posbility: 0.0454
+Choose :  8,  Posbility: 0.3905
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+---------------------------
+Next Token : 
+, Posbility: 0.9495
+Next Token : 
+
+, Posbility: 0.0426
+Next Token :  , Posbility: 0.0034
+Next Token :  +, Posbility: 0.0009
+Next Token :     , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9495
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+
+---------------------------
+Next Token :     , Posbility: 0.9975
+Next Token :         , Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0005
+Next Token :    , Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Choose :     ,  Posbility: 0.9975
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    
+---------------------------
+Next Token : el, Posbility: 0.6294
+Next Token : else, Posbility: 0.3215
+Next Token : return, Posbility: 0.0117
+Next Token : 
+, Posbility: 0.0072
+Next Token : max, Posbility: 0.0052
+Choose : el,  Posbility: 0.6294
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif
+---------------------------
+Next Token :  n, Posbility: 0.9980
+Next Token :  (, Posbility: 0.0008
+Next Token :   , Posbility: 0.0003
+Next Token :  2, Posbility: 0.0002
+Next Token :  1, Posbility: 0.0001
+Choose :  n,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n
+---------------------------
+Next Token :  ==, Posbility: 0.9614
+Next Token :  %, Posbility: 0.0139
+Next Token :  >, Posbility: 0.0076
+Next Token :  >=, Posbility: 0.0069
+Next Token : ==, Posbility: 0.0042
+Choose :  ==,  Posbility: 0.9614
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n ==
+---------------------------
+Next Token :  5, Posbility: 0.9948
+Next Token : 5, Posbility: 0.0020
+Next Token :  6, Posbility: 0.0009
+Next Token :  8, Posbility: 0.0004
+Next Token :  7, Posbility: 0.0004
+Choose :  5,  Posbility: 0.9948
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5
+---------------------------
+Next Token : :, Posbility: 0.9984
+Next Token :  :, Posbility: 0.0009
+Next Token :  or, Posbility: 0.0004
+Next Token :  and, Posbility: 0.0002
+Next Token : :#, Posbility: 0.0000
+Choose : :,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+---------------------------
+Next Token : 
+, Posbility: 0.9984
+Next Token :  , Posbility: 0.0009
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :     , Posbility: 0.0001
+Next Token :  #, Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+
+---------------------------
+Next Token :         , Posbility: 0.9988
+Next Token :          , Posbility: 0.0004
+Next Token :        , Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Next Token :     , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9988
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        
+---------------------------
+Next Token : return, Posbility: 0.9983
+Next Token : if, Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token : print, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Choose : return,  Posbility: 0.9983
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return
+---------------------------
+Next Token :  16, Posbility: 0.6895
+Next Token :  10, Posbility: 0.1138
+Next Token :  15, Posbility: 0.0279
+Next Token :  12, Posbility: 0.0278
+Next Token :  32, Posbility: 0.0202
+Choose :  16,  Posbility: 0.6895
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+---------------------------
+Next Token : 
+, Posbility: 0.8425
+Next Token : 
+
+, Posbility: 0.1486
+Next Token :  , Posbility: 0.0038
+Next Token : <|endoftext|>, Posbility: 0.0012
+Next Token :     , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.8425
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+
+---------------------------
+Next Token :     , Posbility: 0.9836
+Next Token : 
+, Posbility: 0.0065
+Next Token :         , Posbility: 0.0041
+Next Token :    , Posbility: 0.0008
+Next Token :  , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9836
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    
+---------------------------
+Next Token : else, Posbility: 0.5370
+Next Token : el, Posbility: 0.3073
+Next Token : 
+, Posbility: 0.0379
+Next Token : return, Posbility: 0.0341
+Next Token : max, Posbility: 0.0151
+Choose : else,  Posbility: 0.5370
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else
+---------------------------
+Next Token : :, Posbility: 0.9866
+Next Token :  :, Posbility: 0.0131
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : :(, Posbility: 0.0000
+Choose : :,  Posbility: 0.9866
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9850
+Next Token :  , Posbility: 0.0052
+Next Token : 
+
+, Posbility: 0.0025
+Next Token :  #, Posbility: 0.0022
+Next Token :  return, Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9850
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9960
+Next Token :          , Posbility: 0.0010
+Next Token :        , Posbility: 0.0008
+Next Token :       , Posbility: 0.0006
+Next Token :             , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.4793
+Next Token : max, Posbility: 0.0837
+Next Token : f, Posbility: 0.0407
+Next Token : a, Posbility: 0.0301
+Next Token : sum, Posbility: 0.0295
+Choose : return,  Posbility: 0.4793
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return
+---------------------------
+Next Token :  max, Posbility: 0.3839
+Next Token :  n, Posbility: 0.2163
+Next Token :  (, Posbility: 0.1293
+Next Token :  f, Posbility: 0.0435
+Next Token :  int, Posbility: 0.0213
+Choose :  max,  Posbility: 0.3839
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max
+---------------------------
+Next Token : (, Posbility: 0.6824
+Next Token : _, Posbility: 0.2695
+Next Token : ((, Posbility: 0.0257
+Next Token : ([, Posbility: 0.0158
+Next Token : (-, Posbility: 0.0029
+Choose : (,  Posbility: 0.6824
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(
+---------------------------
+Next Token : max, Posbility: 0.7865
+Next Token : 
+, Posbility: 0.0409
+Next Token :  max, Posbility: 0.0399
+Next Token : f, Posbility: 0.0318
+Next Token :  (, Posbility: 0.0230
+Choose : max,  Posbility: 0.7865
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max
+---------------------------
+Next Token : _, Posbility: 0.9734
+Next Token : (, Posbility: 0.0247
+Next Token : ((, Posbility: 0.0009
+Next Token : ([, Posbility: 0.0005
+Next Token : _(, Posbility: 0.0002
+Choose : _,  Posbility: 0.9734
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_
+---------------------------
+Next Token : sum, Posbility: 0.9968
+Next Token : sub, Posbility: 0.0004
+Next Token : p, Posbility: 0.0002
+Next Token : num, Posbility: 0.0002
+Next Token : div, Posbility: 0.0001
+Choose : sum,  Posbility: 0.9968
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum
+---------------------------
+Next Token : _, Posbility: 0.9961
+Next Token : (, Posbility: 0.0034
+Next Token : ([, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Choose : _,  Posbility: 0.9961
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_
+---------------------------
+Next Token : p, Posbility: 0.9941
+Next Token : rec, Posbility: 0.0014
+Next Token : sum, Posbility: 0.0004
+Next Token : div, Posbility: 0.0003
+Next Token : n, Posbility: 0.0002
+Choose : p,  Posbility: 0.9941
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_p
+---------------------------
+Next Token : ossible, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token :  possible, Posbility: 0.0000
+Next Token : ow, Posbility: 0.0000
+Next Token : owed, Posbility: 0.0000
+Choose : ossible,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible
+---------------------------
+Next Token : (, Posbility: 0.9903
+Next Token : ((, Posbility: 0.0068
+Next Token : _, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0009
+Next Token : (-, Posbility: 0.0005
+Choose : (,  Posbility: 0.9903
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(
+---------------------------
+Next Token : n, Posbility: 0.9678
+Next Token : int, Posbility: 0.0185
+Next Token : 2, Posbility: 0.0054
+Next Token : 3, Posbility: 0.0035
+Next Token : 5, Posbility: 0.0008
+Choose : n,  Posbility: 0.9678
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n
+---------------------------
+Next Token : //, Posbility: 0.3031
+Next Token : -, Posbility: 0.2757
+Next Token : /, Posbility: 0.2435
+Next Token :  //, Posbility: 0.0691
+Next Token :  -, Posbility: 0.0678
+Choose : //,  Posbility: 0.3031
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//
+---------------------------
+Next Token : 2, Posbility: 0.6239
+Next Token : 3, Posbility: 0.3350
+Next Token : 5, Posbility: 0.0189
+Next Token : 4, Posbility: 0.0107
+Next Token : 6, Posbility: 0.0068
+Choose : 2,  Posbility: 0.6239
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2
+---------------------------
+Next Token : ),, Posbility: 0.9111
+Next Token : ), Posbility: 0.0740
+Next Token : )+, Posbility: 0.0073
+Next Token : )*, Posbility: 0.0032
+Next Token : )-, Posbility: 0.0011
+Choose : ),,  Posbility: 0.9111
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2),
+---------------------------
+Next Token :  max, Posbility: 0.7595
+Next Token : max, Posbility: 0.1415
+Next Token : 
+, Posbility: 0.0534
+Next Token :  n, Posbility: 0.0101
+Next Token :   , Posbility: 0.0043
+Choose :  max,  Posbility: 0.7595
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max
+---------------------------
+Next Token : _, Posbility: 0.9930
+Next Token : (, Posbility: 0.0069
+Next Token : ((, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0000
+Next Token : _(, Posbility: 0.0000
+Choose : _,  Posbility: 0.9930
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_
+---------------------------
+Next Token : sum, Posbility: 0.9999
+Next Token : num, Posbility: 0.0000
+Next Token : p, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Choose : sum,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token : (, Posbility: 0.0003
+Next Token : ((, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_
+---------------------------
+Next Token : p, Posbility: 0.9998
+Next Token : sum, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Next Token : rec, Posbility: 0.0000
+Next Token : max, Posbility: 0.0000
+Choose : p,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_p
+---------------------------
+Next Token : ossible, Posbility: 1.0000
+Next Token :  possible, Posbility: 0.0000
+Next Token : owed, Posbility: 0.0000
+Next Token : allowed, Posbility: 0.0000
+Next Token : oss, Posbility: 0.0000
+Choose : ossible,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible
+---------------------------
+Next Token : (, Posbility: 0.9933
+Next Token : ((, Posbility: 0.0062
+Next Token : _, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0002
+Next Token : 3, Posbility: 0.0000
+Choose : (,  Posbility: 0.9933
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(
+---------------------------
+Next Token : n, Posbility: 0.9854
+Next Token : 3, Posbility: 0.0087
+Next Token : int, Posbility: 0.0019
+Next Token : 2, Posbility: 0.0018
+Next Token : 5, Posbility: 0.0006
+Choose : n,  Posbility: 0.9854
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n
+---------------------------
+Next Token : //, Posbility: 0.8737
+Next Token : /, Posbility: 0.0992
+Next Token : ),, Posbility: 0.0100
+Next Token : )), Posbility: 0.0063
+Next Token :  //, Posbility: 0.0039
+Choose : //,  Posbility: 0.8737
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//
+---------------------------
+Next Token : 3, Posbility: 0.9928
+Next Token : 4, Posbility: 0.0034
+Next Token : 2, Posbility: 0.0024
+Next Token : 6, Posbility: 0.0006
+Next Token : 5, Posbility: 0.0005
+Choose : 3,  Posbility: 0.9928
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3
+---------------------------
+Next Token : ),, Posbility: 0.9838
+Next Token : )), Posbility: 0.0107
+Next Token : ,, Posbility: 0.0017
+Next Token : ), Posbility: 0.0015
+Next Token : )+, Posbility: 0.0008
+Choose : ),,  Posbility: 0.9838
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3),
+---------------------------
+Next Token :  max, Posbility: 0.9575
+Next Token : 
+, Posbility: 0.0186
+Next Token : max, Posbility: 0.0153
+Next Token :  , Posbility: 0.0026
+Next Token :   , Posbility: 0.0018
+Choose :  max,  Posbility: 0.9575
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max
+---------------------------
+Next Token : _, Posbility: 0.9982
+Next Token : (, Posbility: 0.0017
+Next Token : ((, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : _(, Posbility: 0.0000
+Choose : _,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_
+---------------------------
+Next Token : sum, Posbility: 1.0000
+Next Token : s, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : p, Posbility: 0.0000
+Choose : sum,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_
+---------------------------
+Next Token : p, Posbility: 1.0000
+Next Token : n, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : pro, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : p,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_p
+---------------------------
+Next Token : ossible, Posbility: 1.0000
+Next Token :  possible, Posbility: 0.0000
+Next Token : owed, Posbility: 0.0000
+Next Token : ow, Posbility: 0.0000
+Next Token : allowed, Posbility: 0.0000
+Choose : ossible,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : ((, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(
+---------------------------
+Next Token : n, Posbility: 0.9992
+Next Token :  n, Posbility: 0.0001
+Next Token : int, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Choose : n,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n
+---------------------------
+Next Token : //, Posbility: 0.9918
+Next Token :  //, Posbility: 0.0031
+Next Token : /, Posbility: 0.0031
+Next Token : )), Posbility: 0.0012
+Next Token : ),, Posbility: 0.0004
+Choose : //,  Posbility: 0.9918
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//
+---------------------------
+Next Token : 4, Posbility: 0.9900
+Next Token : 5, Posbility: 0.0091
+Next Token : 3, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0001
+Next Token : 6, Posbility: 0.0001
+Choose : 4,  Posbility: 0.9900
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4
+---------------------------
+Next Token : ),, Posbility: 0.9612
+Next Token : )), Posbility: 0.0347
+Next Token : ), Posbility: 0.0025
+Next Token : )),, Posbility: 0.0004
+Next Token : )+, Posbility: 0.0003
+Choose : ),,  Posbility: 0.9612
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4),
+---------------------------
+Next Token :  max, Posbility: 0.9497
+Next Token : 
+, Posbility: 0.0288
+Next Token : max, Posbility: 0.0103
+Next Token :  , Posbility: 0.0039
+Next Token :   , Posbility: 0.0022
+Choose :  max,  Posbility: 0.9497
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max
+---------------------------
+Next Token : _, Posbility: 0.9995
+Next Token : (, Posbility: 0.0005
+Next Token : ((, Posbility: 0.0000
+Next Token : _(, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Choose : _,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_
+---------------------------
+Next Token : sum, Posbility: 1.0000
+Next Token : s, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Next Token : summary, Posbility: 0.0000
+Next Token : val, Posbility: 0.0000
+Choose : sum,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : _(, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_
+---------------------------
+Next Token : p, Posbility: 1.0000
+Next Token : n, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : pro, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Choose : p,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_p
+---------------------------
+Next Token : ossible, Posbility: 1.0000
+Next Token :  possible, Posbility: 0.0000
+Next Token : ow, Posbility: 0.0000
+Next Token : owed, Posbility: 0.0000
+Next Token : allowed, Posbility: 0.0000
+Choose : ossible,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token : ((, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(
+---------------------------
+Next Token : n, Posbility: 0.9993
+Next Token : 
+, Posbility: 0.0003
+Next Token : int, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Next Token :  n, Posbility: 0.0000
+Choose : n,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n
+---------------------------
+Next Token : //, Posbility: 0.9962
+Next Token :  //, Posbility: 0.0017
+Next Token : /, Posbility: 0.0010
+Next Token : )), Posbility: 0.0006
+Next Token : -, Posbility: 0.0002
+Choose : //,  Posbility: 0.9962
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//
+---------------------------
+Next Token : 5, Posbility: 0.9986
+Next Token : 4, Posbility: 0.0005
+Next Token : 8, Posbility: 0.0003
+Next Token : 6, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0001
+Choose : 5,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5
+---------------------------
+Next Token : )), Posbility: 0.9396
+Next Token : ),, Posbility: 0.0483
+Next Token : ), Posbility: 0.0063
+Next Token : ))), Posbility: 0.0027
+Next Token : )),, Posbility: 0.0009
+Choose : )),  Posbility: 0.9396
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5))
+---------------------------
+Next Token :  +, Posbility: 0.5043
+Next Token : 
+, Posbility: 0.2896
+Next Token : 
+
+, Posbility: 0.1269
+Next Token : +, Posbility: 0.0463
+Next Token : <|endoftext|>, Posbility: 0.0147
+Choose :  +,  Posbility: 0.5043
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) +
+---------------------------
+Next Token :  n, Posbility: 0.8893
+Next Token :  max, Posbility: 0.0384
+Next Token :  1, Posbility: 0.0258
+Next Token :  (, Posbility: 0.0229
+Next Token : n, Posbility: 0.0031
+Choose :  n,  Posbility: 0.8893
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+---------------------------
+Next Token : 
+, Posbility: 0.4569
+Next Token : 
+
+, Posbility: 0.2653
+Next Token :  -, Posbility: 0.0746
+Next Token : **, Posbility: 0.0548
+Next Token : <|endoftext|>, Posbility: 0.0383
+Choose : 
+,  Posbility: 0.4569
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+---------------------------
+Next Token : 
+, Posbility: 0.6881
+Next Token : print, Posbility: 0.0923
+Next Token : <|endoftext|>, Posbility: 0.0577
+Next Token :         , Posbility: 0.0325
+Next Token :     , Posbility: 0.0301
+Choose : 
+,  Posbility: 0.6881
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9090
+Next Token : 
+
+, Posbility: 0.0376
+Next Token : <|endoftext|>, Posbility: 0.0319
+Next Token :     , Posbility: 0.0106
+Next Token :         , Posbility: 0.0067
+Choose : 
+,  Posbility: 0.9090
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3234
+Next Token : print, Posbility: 0.2004
+Next Token : #, Posbility: 0.1406
+Next Token : def, Posbility: 0.1319
+Next Token : 
+, Posbility: 0.0766
+Choose : '',  Posbility: 0.3234
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7524
+Next Token : 
+, Posbility: 0.0363
+Next Token :  Write, Posbility: 0.0282
+Next Token : Find, Posbility: 0.0122
+Next Token : Test, Posbility: 0.0081
+Choose : Write,  Posbility: 0.7524
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9913
+Next Token :  an, Posbility: 0.0022
+Next Token :  your, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0015
+Next Token :  function, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9913
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9365
+Next Token :  Python, Posbility: 0.0177
+Next Token :  program, Posbility: 0.0104
+Next Token :  recursive, Posbility: 0.0075
+Next Token :  python, Posbility: 0.0062
+Choose :  function,  Posbility: 0.9365
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.5472
+Next Token :  that, Posbility: 0.2552
+Next Token :  called, Posbility: 0.0323
+Next Token :  which, Posbility: 0.0318
+Next Token :  f, Posbility: 0.0200
+Choose :  to,  Posbility: 0.5472
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2439
+Next Token :  print, Posbility: 0.1053
+Next Token :  calculate, Posbility: 0.0784
+Next Token :  return, Posbility: 0.0754
+Next Token :  check, Posbility: 0.0634
+Choose :  find,  Posbility: 0.2439
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.9040
+Next Token :  all, Posbility: 0.0138
+Next Token :  a, Posbility: 0.0094
+Next Token :  maximum, Posbility: 0.0056
+Next Token :  sum, Posbility: 0.0051
+Choose :  the,  Posbility: 0.9040
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  minimum, Posbility: 0.2803
+Next Token :  maximum, Posbility: 0.1924
+Next Token :  sum, Posbility: 0.0775
+Next Token :  smallest, Posbility: 0.0380
+Next Token :  number, Posbility: 0.0340
+Choose :  minimum,  Posbility: 0.2803
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum
+---------------------------
+Next Token :  possible, Posbility: 0.2793
+Next Token :  sum, Posbility: 0.2045
+Next Token :  number, Posbility: 0.1123
+Next Token :  difference, Posbility: 0.0731
+Next Token :  absolute, Posbility: 0.0314
+Choose :  possible,  Posbility: 0.2793
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible
+---------------------------
+Next Token :  by, Posbility: 0.5643
+Next Token :  sum, Posbility: 0.1989
+Next Token :  value, Posbility: 0.0228
+Next Token :  number, Posbility: 0.0177
+Next Token :  using, Posbility: 0.0133
+Choose :  by,  Posbility: 0.5643
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by
+---------------------------
+Next Token :  using, Posbility: 0.9328
+Next Token :  multiplying, Posbility: 0.0064
+Next Token :  dividing, Posbility: 0.0051
+Next Token :  sum, Posbility: 0.0049
+Next Token :  taking, Posbility: 0.0039
+Choose :  using,  Posbility: 0.9328
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using
+---------------------------
+Next Token :  the, Posbility: 0.9719
+Next Token :  a, Posbility: 0.0032
+Next Token : 
+, Posbility: 0.0019
+Next Token :  rec, Posbility: 0.0011
+Next Token :  given, Posbility: 0.0010
+Choose :  the,  Posbility: 0.9719
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the
+---------------------------
+Next Token :  given, Posbility: 0.9824
+Next Token :  equation, Posbility: 0.0071
+Next Token :  following, Posbility: 0.0020
+Next Token :  formula, Posbility: 0.0013
+Next Token :  function, Posbility: 0.0005
+Choose :  given,  Posbility: 0.9824
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given
+---------------------------
+Next Token :  equation, Posbility: 0.9730
+Next Token :  equations, Posbility: 0.0125
+Next Token :  f, Posbility: 0.0017
+Next Token :  formula, Posbility: 0.0014
+Next Token :  function, Posbility: 0.0012
+Choose :  equation,  Posbility: 0.9730
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation
+---------------------------
+Next Token :  f, Posbility: 0.9625
+Next Token :  g, Posbility: 0.0058
+Next Token : ., Posbility: 0.0041
+Next Token : 
+, Posbility: 0.0025
+Next Token :  n, Posbility: 0.0023
+Choose :  f,  Posbility: 0.9625
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f
+---------------------------
+Next Token : (, Posbility: 0.9963
+Next Token :  =, Posbility: 0.0011
+Next Token : ', Posbility: 0.0005
+Next Token : (-, Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Choose : (,  Posbility: 0.9963
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(
+---------------------------
+Next Token : n, Posbility: 0.9818
+Next Token : x, Posbility: 0.0098
+Next Token : m, Posbility: 0.0031
+Next Token : 1, Posbility: 0.0007
+Next Token : a, Posbility: 0.0005
+Choose : n,  Posbility: 0.9818
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n
+---------------------------
+Next Token : ), Posbility: 0.9906
+Next Token : )., Posbility: 0.0048
+Next Token : +, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0005
+Next Token : )!, Posbility: 0.0004
+Choose : ),  Posbility: 0.9906
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n)
+---------------------------
+Next Token :  =, Posbility: 0.9963
+Next Token :  -, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0004
+Next Token :  ==, Posbility: 0.0003
+Next Token : =-, Posbility: 0.0003
+Choose :  =,  Posbility: 0.9963
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) =
+---------------------------
+Next Token :  min, Posbility: 0.9568
+Next Token :  max, Posbility: 0.0273
+Next Token :  sum, Posbility: 0.0013
+Next Token :  -, Posbility: 0.0013
+Next Token :  m, Posbility: 0.0011
+Choose :  min,  Posbility: 0.9568
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min
+---------------------------
+Next Token : (, Posbility: 0.9941
+Next Token :  (, Posbility: 0.0022
+Next Token : (-, Posbility: 0.0012
+Next Token : ((, Posbility: 0.0007
+Next Token :  of, Posbility: 0.0005
+Choose : (,  Posbility: 0.9941
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min(
+---------------------------
+Next Token :  (, Posbility: 0.8694
+Next Token : f, Posbility: 0.0264
+Next Token :  f, Posbility: 0.0250
+Next Token : n, Posbility: 0.0145
+Next Token :  n, Posbility: 0.0135
+Choose :  (,  Posbility: 0.8694
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (
+---------------------------
+Next Token : f, Posbility: 0.9580
+Next Token : g, Posbility: 0.0109
+Next Token :  f, Posbility: 0.0062
+Next Token : min, Posbility: 0.0029
+Next Token : 1, Posbility: 0.0020
+Choose : f,  Posbility: 0.9580
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f
+---------------------------
+Next Token : (, Posbility: 0.9973
+Next Token : (-, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0003
+Next Token : ((, Posbility: 0.0003
+Next Token :  +, Posbility: 0.0002
+Choose : (,  Posbility: 0.9973
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(
+---------------------------
+Next Token : n, Posbility: 0.9890
+Next Token : 2, Posbility: 0.0032
+Next Token : 1, Posbility: 0.0012
+Next Token : 3, Posbility: 0.0006
+Next Token : m, Posbility: 0.0005
+Choose : n,  Posbility: 0.9890
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n
+---------------------------
+Next Token : /, Posbility: 0.9087
+Next Token : ), Posbility: 0.0456
+Next Token : +, Posbility: 0.0208
+Next Token : -, Posbility: 0.0059
+Next Token : //, Posbility: 0.0053
+Choose : /,  Posbility: 0.9087
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/
+---------------------------
+Next Token : 2, Posbility: 0.9871
+Next Token : 3, Posbility: 0.0042
+Next Token : 1, Posbility: 0.0037
+Next Token : 4, Posbility: 0.0018
+Next Token : 5, Posbility: 0.0006
+Choose : 2,  Posbility: 0.9871
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2
+---------------------------
+Next Token : ), Posbility: 0.9930
+Next Token : )+, Posbility: 0.0028
+Next Token : )-, Posbility: 0.0006
+Next Token : )), Posbility: 0.0006
+Next Token : ),, Posbility: 0.0006
+Choose : ),  Posbility: 0.9930
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2)
+---------------------------
+Next Token :  +, Posbility: 0.9760
+Next Token :  -, Posbility: 0.0222
+Next Token :   , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Next Token :  −, Posbility: 0.0001
+Choose :  +,  Posbility: 0.9760
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) +
+---------------------------
+Next Token :  f, Posbility: 0.9906
+Next Token :  2, Posbility: 0.0018
+Next Token :  1, Posbility: 0.0013
+Next Token :  min, Posbility: 0.0013
+Next Token :  (, Posbility: 0.0008
+Choose :  f,  Posbility: 0.9906
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f
+---------------------------
+Next Token : (, Posbility: 0.9994
+Next Token :  (, Posbility: 0.0002
+Next Token : (-, Posbility: 0.0001
+Next Token :  +, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(
+---------------------------
+Next Token : n, Posbility: 0.9993
+Next Token : 2, Posbility: 0.0003
+Next Token : 3, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Next Token :  n, Posbility: 0.0000
+Choose : n,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n
+---------------------------
+Next Token : /, Posbility: 0.9972
+Next Token : ), Posbility: 0.0007
+Next Token : )/, Posbility: 0.0005
+Next Token : +, Posbility: 0.0004
+Next Token :  /, Posbility: 0.0003
+Choose : /,  Posbility: 0.9972
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/
+---------------------------
+Next Token : 3, Posbility: 0.9924
+Next Token : 2, Posbility: 0.0048
+Next Token : 4, Posbility: 0.0019
+Next Token : 5, Posbility: 0.0004
+Next Token : 1, Posbility: 0.0002
+Choose : 3,  Posbility: 0.9924
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3
+---------------------------
+Next Token : ), Posbility: 0.9933
+Next Token : )), Posbility: 0.0024
+Next Token : ),, Posbility: 0.0012
+Next Token : )+, Posbility: 0.0006
+Next Token : ))., Posbility: 0.0006
+Choose : ),  Posbility: 0.9933
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3)
+---------------------------
+Next Token :  +, Posbility: 0.9970
+Next Token :  -, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ), Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  +,  Posbility: 0.9970
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) +
+---------------------------
+Next Token :  f, Posbility: 0.9927
+Next Token : ..., Posbility: 0.0029
+Next Token : f, Posbility: 0.0010
+Next Token :  1, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0003
+Choose :  f,  Posbility: 0.9927
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token :  (, Posbility: 0.0001
+Next Token : (-, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(
+---------------------------
+Next Token : n, Posbility: 0.9997
+Next Token : 1, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0000
+Next Token : N, Posbility: 0.0000
+Next Token : f, Posbility: 0.0000
+Choose : n,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n
+---------------------------
+Next Token : /, Posbility: 0.9993
+Next Token : ), Posbility: 0.0003
+Next Token : )/, Posbility: 0.0001
+Next Token :  /, Posbility: 0.0001
+Next Token : //, Posbility: 0.0000
+Choose : /,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/
+---------------------------
+Next Token : 4, Posbility: 0.9946
+Next Token : 5, Posbility: 0.0046
+Next Token : 2, Posbility: 0.0003
+Next Token : 6, Posbility: 0.0002
+Next Token : 3, Posbility: 0.0002
+Choose : 4,  Posbility: 0.9946
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4
+---------------------------
+Next Token : ), Posbility: 0.9759
+Next Token : )), Posbility: 0.0078
+Next Token : )),, Posbility: 0.0070
+Next Token : ),, Posbility: 0.0041
+Next Token : ))., Posbility: 0.0020
+Choose : ),  Posbility: 0.9759
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4)
+---------------------------
+Next Token :  +, Posbility: 0.9939
+Next Token :  -, Posbility: 0.0021
+Next Token : ,, Posbility: 0.0013
+Next Token :  )., Posbility: 0.0005
+Next Token :  ), Posbility: 0.0005
+Choose :  +,  Posbility: 0.9939
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) +
+---------------------------
+Next Token :  f, Posbility: 0.9916
+Next Token : ..., Posbility: 0.0030
+Next Token : f, Posbility: 0.0019
+Next Token :  n, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0003
+Choose :  f,  Posbility: 0.9916
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token :  (, Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(
+---------------------------
+Next Token : n, Posbility: 0.9997
+Next Token : 1, Posbility: 0.0001
+Next Token : N, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : n,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n
+---------------------------
+Next Token : /, Posbility: 0.9996
+Next Token : ), Posbility: 0.0001
+Next Token : )/, Posbility: 0.0001
+Next Token :  /, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Choose : /,  Posbility: 0.9996
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/
+---------------------------
+Next Token : 5, Posbility: 0.9991
+Next Token : 6, Posbility: 0.0004
+Next Token : 8, Posbility: 0.0001
+Next Token : 4, Posbility: 0.0001
+Next Token : 7, Posbility: 0.0001
+Choose : 5,  Posbility: 0.9991
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5
+---------------------------
+Next Token : )),, Posbility: 0.7952
+Next Token : )), Posbility: 0.0848
+Next Token : ))., Posbility: 0.0730
+Next Token : ),, Posbility: 0.0317
+Next Token : ), Posbility: 0.0059
+Choose : )),,  Posbility: 0.7952
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)),
+---------------------------
+Next Token :  n, Posbility: 0.9945
+Next Token : n, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0007
+Next Token :  2, Posbility: 0.0005
+Next Token :  1, Posbility: 0.0004
+Choose :  n,  Posbility: 0.9945
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n
+---------------------------
+Next Token : )., Posbility: 0.9928
+Next Token : ), Posbility: 0.0032
+Next Token :  )., Posbility: 0.0005
+Next Token :  -, Posbility: 0.0004
+Next Token :  +, Posbility: 0.0003
+Choose : ).,  Posbility: 0.9928
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).
+---------------------------
+Next Token : '', Posbility: 0.9511
+Next Token : 
+, Posbility: 0.0202
+Next Token :  ', Posbility: 0.0144
+Next Token :  , Posbility: 0.0024
+Next Token :  The, Posbility: 0.0011
+Choose : '',  Posbility: 0.9511
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+---------------------------
+Next Token : 
+, Posbility: 0.9794
+Next Token : 
+
+, Posbility: 0.0133
+Next Token : def, Posbility: 0.0036
+Next Token :  , Posbility: 0.0012
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9794
+---------------------------
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+
+---------------------------
+Next Token : def, Posbility: 0.9576
+Next Token : 
+, Posbility: 0.0356
+Next Token : #, Posbility: 0.0033
+Next Token : import, Posbility: 0.0010
+Next Token : from, Posbility: 0.0007
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 47.90253472328186
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+def max_sum_possible(n):
+    if n == 1:
+        return 1
+    elif n == 2:
+        return 2
+    elif n == 3:
+        return 4
+    elif n == 4:
+        return 8
+    elif n == 5:
+        return 16
+    else:
+        return max(max_sum_possible(n//2), max_sum_possible(n//3), max_sum_possible(n//4), max_sum_possible(n//5)) + n
+
+
+'''Write a function to find the minimum possible by using the given equation f(n) = min( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).'''
+

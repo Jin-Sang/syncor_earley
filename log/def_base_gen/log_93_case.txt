@@ -1,0 +1,1434 @@
+<<<<<<<<<<<< 93 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sum, Posbility: 0.3736
+Next Token :  Sum, Posbility: 0.0277
+Next Token :  solution, Posbility: 0.0271
+Next Token :  summ, Posbility: 0.0201
+Next Token :  calculate, Posbility: 0.0191
+Choose :  sum,  Posbility: 0.3736
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum
+---------------------------
+Next Token : _, Posbility: 0.4431
+Next Token : (, Posbility: 0.1908
+Next Token : 2, Posbility: 0.0963
+Next Token : Of, Posbility: 0.0254
+Next Token : 1, Posbility: 0.0241
+Choose : _,  Posbility: 0.4431
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_
+---------------------------
+Next Token : from, Posbility: 0.1415
+Next Token : of, Posbility: 0.1338
+Next Token : n, Posbility: 0.1066
+Next Token : two, Posbility: 0.0668
+Next Token : 2, Posbility: 0.0623
+Choose : from,  Posbility: 0.1415
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from
+---------------------------
+Next Token : _, Posbility: 0.9356
+Next Token : (, Posbility: 0.0427
+Next Token : 0, Posbility: 0.0081
+Next Token : 1, Posbility: 0.0052
+Next Token : 2, Posbility: 0.0036
+Choose : _,  Posbility: 0.9356
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_
+---------------------------
+Next Token : 0, Posbility: 0.4511
+Next Token : zero, Posbility: 0.1376
+Next Token : 1, Posbility: 0.0727
+Next Token : 2, Posbility: 0.0613
+Next Token : start, Posbility: 0.0319
+Choose : 0,  Posbility: 0.4511
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0
+---------------------------
+Next Token : _, Posbility: 0.7617
+Next Token : (, Posbility: 0.1912
+Next Token : to, Posbility: 0.0137
+Next Token :  (, Posbility: 0.0117
+Next Token : s, Posbility: 0.0070
+Choose : _,  Posbility: 0.7617
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_
+---------------------------
+Next Token : to, Posbility: 0.9208
+Next Token : x, Posbility: 0.0091
+Next Token : 1, Posbility: 0.0073
+Next Token : 2, Posbility: 0.0069
+Next Token : n, Posbility: 0.0067
+Choose : to,  Posbility: 0.9208
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to
+---------------------------
+Next Token : _, Posbility: 0.9454
+Next Token : (, Posbility: 0.0521
+Next Token :  (, Posbility: 0.0019
+Next Token : N, Posbility: 0.0002
+Next Token : _(, Posbility: 0.0002
+Choose : _,  Posbility: 0.9454
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_
+---------------------------
+Next Token : n, Posbility: 0.7083
+Next Token : x, Posbility: 0.1086
+Next Token : i, Posbility: 0.0306
+Next Token : 2, Posbility: 0.0136
+Next Token : N, Posbility: 0.0106
+Choose : n,  Posbility: 0.7083
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n
+---------------------------
+Next Token : (, Posbility: 0.7059
+Next Token : _, Posbility: 0.2225
+Next Token :  (, Posbility: 0.0210
+Next Token : _(, Posbility: 0.0162
+Next Token : //, Posbility: 0.0083
+Choose : (,  Posbility: 0.7059
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(
+---------------------------
+Next Token : n, Posbility: 0.8277
+Next Token : x, Posbility: 0.1097
+Next Token : i, Posbility: 0.0127
+Next Token : num, Posbility: 0.0103
+Next Token : number, Posbility: 0.0087
+Choose : n,  Posbility: 0.8277
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n
+---------------------------
+Next Token : ):, Posbility: 0.7579
+Next Token : ,, Posbility: 0.1309
+Next Token : :, Posbility: 0.0865
+Next Token : ), Posbility: 0.0133
+Next Token : _, Posbility: 0.0025
+Choose : ):,  Posbility: 0.7579
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9168
+Next Token : , Posbility: 0.0322
+Next Token : 
+
+, Posbility: 0.0223
+Next Token :  , Posbility: 0.0133
+Next Token :  #, Posbility: 0.0050
+Choose : 
+,  Posbility: 0.9168
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+
+---------------------------
+Next Token :     , Posbility: 0.8828
+Next Token : 	, Posbility: 0.0552
+Next Token :   , Posbility: 0.0468
+Next Token :    , Posbility: 0.0053
+Next Token :         , Posbility: 0.0039
+Choose :     ,  Posbility: 0.8828
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    
+---------------------------
+Next Token : sum, Posbility: 0.1737
+Next Token : if, Posbility: 0.1469
+Next Token : return, Posbility: 0.1413
+Next Token : '', Posbility: 0.0741
+Next Token : #, Posbility: 0.0614
+Choose : sum,  Posbility: 0.1737
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.7754
+Next Token : _, Posbility: 0.1381
+Next Token : =, Posbility: 0.0634
+Next Token : 1, Posbility: 0.0068
+Next Token : ,, Posbility: 0.0047
+Choose :  =,  Posbility: 0.7754
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9030
+Next Token :  n, Posbility: 0.0473
+Next Token :  1, Posbility: 0.0135
+Next Token :  (, Posbility: 0.0134
+Next Token :  [], Posbility: 0.0033
+Choose :  0,  Posbility: 0.9030
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9370
+Next Token : 
+
+, Posbility: 0.0264
+Next Token : ;, Posbility: 0.0111
+Next Token :  , Posbility: 0.0093
+Next Token :  #, Posbility: 0.0059
+Choose : 
+,  Posbility: 0.9370
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9984
+Next Token :         , Posbility: 0.0004
+Next Token : 	, Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9984
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.5070
+Next Token : while, Posbility: 0.1699
+Next Token : i, Posbility: 0.0941
+Next Token : if, Posbility: 0.0383
+Next Token : x, Posbility: 0.0370
+Choose : for,  Posbility: 0.5070
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8830
+Next Token :  x, Posbility: 0.0557
+Next Token :  _, Posbility: 0.0110
+Next Token :  n, Posbility: 0.0110
+Next Token :  num, Posbility: 0.0077
+Choose :  i,  Posbility: 0.8830
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9975
+Next Token : ,, Posbility: 0.0014
+Next Token :   , Posbility: 0.0003
+Next Token :  =, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9975
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9937
+Next Token :  reversed, Posbility: 0.0032
+Next Token :  str, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0003
+Choose :  range,  Posbility: 0.9937
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9741
+Next Token :  (, Posbility: 0.0231
+Next Token : ((, Posbility: 0.0014
+Next Token : (-, Posbility: 0.0012
+Next Token :  (-, Posbility: 0.0001
+Choose : (,  Posbility: 0.9741
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : n, Posbility: 0.4471
+Next Token : 0, Posbility: 0.2924
+Next Token : 1, Posbility: 0.2004
+Next Token : 2, Posbility: 0.0332
+Next Token : int, Posbility: 0.0140
+Choose : n,  Posbility: 0.4471
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n
+---------------------------
+Next Token :  //, Posbility: 0.2565
+Next Token : //, Posbility: 0.2560
+Next Token : ):, Posbility: 0.1720
+Next Token : ,, Posbility: 0.1682
+Next Token : +, Posbility: 0.0439
+Choose :  //,  Posbility: 0.2565
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n //
+---------------------------
+Next Token :  2, Posbility: 0.9906
+Next Token : 2, Posbility: 0.0061
+Next Token :  4, Posbility: 0.0013
+Next Token :  3, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0005
+Choose :  2,  Posbility: 0.9906
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2
+---------------------------
+Next Token : ):, Posbility: 0.5064
+Next Token :  +, Posbility: 0.3565
+Next Token : ,, Posbility: 0.0782
+Next Token :  -, Posbility: 0.0265
+Next Token : +, Posbility: 0.0244
+Choose : ):,  Posbility: 0.5064
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+---------------------------
+Next Token : 
+, Posbility: 0.9848
+Next Token :  #, Posbility: 0.0037
+Next Token :   , Posbility: 0.0035
+Next Token :  , Posbility: 0.0025
+Next Token : 
+
+, Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9848
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+
+---------------------------
+Next Token :         , Posbility: 0.9936
+Next Token :       , Posbility: 0.0018
+Next Token :             , Posbility: 0.0018
+Next Token :        , Posbility: 0.0011
+Next Token :          , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9936
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        
+---------------------------
+Next Token : sum, Posbility: 0.9146
+Next Token : if, Posbility: 0.0421
+Next Token : print, Posbility: 0.0073
+Next Token : #, Posbility: 0.0072
+Next Token : for, Posbility: 0.0057
+Choose : sum,  Posbility: 0.9146
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum
+---------------------------
+Next Token :  +=, Posbility: 0.8537
+Next Token :  =, Posbility: 0.1285
+Next Token : +=, Posbility: 0.0132
+Next Token :  -=, Posbility: 0.0013
+Next Token : _, Posbility: 0.0009
+Choose :  +=,  Posbility: 0.8537
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum +=
+---------------------------
+Next Token :  i, Posbility: 0.4226
+Next Token :  (, Posbility: 0.3230
+Next Token :  n, Posbility: 0.1556
+Next Token :  2, Posbility: 0.0309
+Next Token :  sum, Posbility: 0.0226
+Choose :  i,  Posbility: 0.4226
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+---------------------------
+Next Token : 
+, Posbility: 0.5656
+Next Token :  +, Posbility: 0.2731
+Next Token :  *, Posbility: 0.0628
+Next Token : 
+
+, Posbility: 0.0243
+Next Token : +, Posbility: 0.0185
+Choose : 
+,  Posbility: 0.5656
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+
+---------------------------
+Next Token :     , Posbility: 0.8720
+Next Token :         , Posbility: 0.1241
+Next Token : 
+, Posbility: 0.0015
+Next Token : print, Posbility: 0.0006
+Next Token : #, Posbility: 0.0005
+Choose :     ,  Posbility: 0.8720
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    
+---------------------------
+Next Token : return, Posbility: 0.6064
+Next Token : sum, Posbility: 0.1640
+Next Token : for, Posbility: 0.0851
+Next Token : if, Posbility: 0.0586
+Next Token : print, Posbility: 0.0466
+Choose : return,  Posbility: 0.6064
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9765
+Next Token : (, Posbility: 0.0074
+Next Token :  (, Posbility: 0.0061
+Next Token :  n, Posbility: 0.0035
+Next Token :  int, Posbility: 0.0013
+Choose :  sum,  Posbility: 0.9765
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.7198
+Next Token : 
+
+, Posbility: 0.1999
+Next Token :  +, Posbility: 0.0327
+Next Token : <|endoftext|>, Posbility: 0.0199
+Next Token :  , Posbility: 0.0049
+Choose : 
+,  Posbility: 0.7198
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+---------------------------
+Next Token : 
+, Posbility: 0.7512
+Next Token : print, Posbility: 0.0812
+Next Token : def, Posbility: 0.0365
+Next Token : #, Posbility: 0.0236
+Next Token : <|endoftext|>, Posbility: 0.0200
+Choose : 
+,  Posbility: 0.7512
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9758
+Next Token : 
+
+, Posbility: 0.0114
+Next Token : <|endoftext|>, Posbility: 0.0073
+Next Token :     , Posbility: 0.0038
+Next Token :         , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9758
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3905
+Next Token : def, Posbility: 0.1850
+Next Token : #, Posbility: 0.1720
+Next Token : print, Posbility: 0.1378
+Next Token : if, Posbility: 0.0297
+Choose : '',  Posbility: 0.3905
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '/, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : This, Posbility: 0.0000
+Next Token : Test, Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7998
+Next Token : 
+, Posbility: 0.0304
+Next Token :  Write, Posbility: 0.0189
+Next Token : Given, Posbility: 0.0061
+Next Token : Return, Posbility: 0.0052
+Choose : Write,  Posbility: 0.7998
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9906
+Next Token :  your, Posbility: 0.0024
+Next Token :  an, Posbility: 0.0022
+Next Token :  the, Posbility: 0.0013
+Next Token :  function, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9906
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9533
+Next Token :  Python, Posbility: 0.0085
+Next Token :  program, Posbility: 0.0070
+Next Token :  recursive, Posbility: 0.0064
+Next Token :  python, Posbility: 0.0048
+Choose :  function,  Posbility: 0.9533
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6991
+Next Token :  that, Posbility: 0.1664
+Next Token :  which, Posbility: 0.0171
+Next Token :  sum, Posbility: 0.0153
+Next Token :  called, Posbility: 0.0139
+Choose :  to,  Posbility: 0.6991
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to
+---------------------------
+Next Token :  calculate, Posbility: 0.1740
+Next Token :  find, Posbility: 0.1303
+Next Token :  return, Posbility: 0.0949
+Next Token :  print, Posbility: 0.0831
+Next Token :  count, Posbility: 0.0604
+Choose :  calculate,  Posbility: 0.1740
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate
+---------------------------
+Next Token :  the, Posbility: 0.8523
+Next Token :  sum, Posbility: 0.0270
+Next Token :  (, Posbility: 0.0195
+Next Token :  a, Posbility: 0.0088
+Next Token :  n, Posbility: 0.0080
+Choose :  the,  Posbility: 0.8523
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the
+---------------------------
+Next Token :  sum, Posbility: 0.5928
+Next Token :  product, Posbility: 0.1196
+Next Token :  fact, Posbility: 0.0301
+Next Token :  difference, Posbility: 0.0188
+Next Token :  number, Posbility: 0.0175
+Choose :  sum,  Posbility: 0.5928
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum
+---------------------------
+Next Token :  (, Posbility: 0.6985
+Next Token :  of, Posbility: 0.1971
+Next Token :  from, Posbility: 0.0467
+Next Token : (, Posbility: 0.0044
+Next Token :  for, Posbility: 0.0033
+Choose :  (,  Posbility: 0.6985
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (
+---------------------------
+Next Token : n, Posbility: 0.9050
+Next Token : x, Posbility: 0.0162
+Next Token : 2, Posbility: 0.0142
+Next Token : i, Posbility: 0.0110
+Next Token : 1, Posbility: 0.0082
+Choose : n,  Posbility: 0.9050
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n
+---------------------------
+Next Token :  -, Posbility: 0.8278
+Next Token : -, Posbility: 0.1008
+Next Token :  +, Posbility: 0.0174
+Next Token :  //, Posbility: 0.0122
+Next Token : ), Posbility: 0.0105
+Choose :  -,  Posbility: 0.8278
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n -
+---------------------------
+Next Token :  2, Posbility: 0.7667
+Next Token :  i, Posbility: 0.0692
+Next Token :  3, Posbility: 0.0440
+Next Token :  1, Posbility: 0.0243
+Next Token :  x, Posbility: 0.0241
+Choose :  2,  Posbility: 0.7667
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2
+---------------------------
+Next Token : *, Posbility: 0.9472
+Next Token : i, Posbility: 0.0132
+Next Token : x, Posbility: 0.0127
+Next Token : ), Posbility: 0.0115
+Next Token :  *, Posbility: 0.0046
+Choose : *,  Posbility: 0.9472
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*
+---------------------------
+Next Token : i, Posbility: 0.9775
+Next Token : (, Posbility: 0.0055
+Next Token : x, Posbility: 0.0045
+Next Token : k, Posbility: 0.0037
+Next Token : j, Posbility: 0.0018
+Choose : i,  Posbility: 0.9775
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i
+---------------------------
+Next Token : ), Posbility: 0.9623
+Next Token :  +, Posbility: 0.0096
+Next Token : ),, Posbility: 0.0057
+Next Token : ,, Posbility: 0.0037
+Next Token : +, Posbility: 0.0029
+Choose : ),  Posbility: 0.9623
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i)
+---------------------------
+Next Token :  from, Posbility: 0.9569
+Next Token :  for, Posbility: 0.0059
+Next Token :  /, Posbility: 0.0045
+Next Token :  to, Posbility: 0.0024
+Next Token :  using, Posbility: 0.0016
+Choose :  from,  Posbility: 0.9569
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from
+---------------------------
+Next Token :  i, Posbility: 0.8529
+Next Token :  0, Posbility: 0.0624
+Next Token :  n, Posbility: 0.0279
+Next Token :  1, Posbility: 0.0220
+Next Token :  2, Posbility: 0.0060
+Choose :  i,  Posbility: 0.8529
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i
+---------------------------
+Next Token : =, Posbility: 0.9463
+Next Token :  =, Posbility: 0.0392
+Next Token : >, Posbility: 0.0034
+Next Token : <, Posbility: 0.0016
+Next Token :  in, Posbility: 0.0013
+Choose : =,  Posbility: 0.9463
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=
+---------------------------
+Next Token : 0, Posbility: 0.8925
+Next Token : 1, Posbility: 0.0761
+Next Token : n, Posbility: 0.0134
+Next Token :  0, Posbility: 0.0081
+Next Token : 2, Posbility: 0.0053
+Choose : 0,  Posbility: 0.8925
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0
+---------------------------
+Next Token :  to, Posbility: 0.9945
+Next Token : ,, Posbility: 0.0016
+Next Token : .., Posbility: 0.0008
+Next Token :  through, Posbility: 0.0005
+Next Token :  (, Posbility: 0.0003
+Choose :  to,  Posbility: 0.9945
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to
+---------------------------
+Next Token :  n, Posbility: 0.9729
+Next Token :  (, Posbility: 0.0050
+Next Token :  2, Posbility: 0.0036
+Next Token :  1, Posbility: 0.0022
+Next Token :  m, Posbility: 0.0016
+Choose :  n,  Posbility: 0.9729
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n
+---------------------------
+Next Token :  //, Posbility: 0.9263
+Next Token : //, Posbility: 0.0583
+Next Token :  -, Posbility: 0.0036
+Next Token : ,, Posbility: 0.0032
+Next Token : -, Posbility: 0.0013
+Choose :  //,  Posbility: 0.9263
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n //
+---------------------------
+Next Token :  2, Posbility: 0.9850
+Next Token : 2, Posbility: 0.0078
+Next Token :  3, Posbility: 0.0038
+Next Token :  4, Posbility: 0.0017
+Next Token :  1, Posbility: 0.0004
+Choose :  2,  Posbility: 0.9850
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2
+---------------------------
+Next Token : ,, Posbility: 0.9168
+Next Token :  and, Posbility: 0.0207
+Next Token : ., Posbility: 0.0079
+Next Token :  +, Posbility: 0.0078
+Next Token :  -, Posbility: 0.0060
+Choose : ,,  Posbility: 0.9168
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2,
+---------------------------
+Next Token :  for, Posbility: 0.8699
+Next Token : 
+, Posbility: 0.0187
+Next Token :  if, Posbility: 0.0166
+Next Token :  and, Posbility: 0.0106
+Next Token :  where, Posbility: 0.0081
+Choose :  for,  Posbility: 0.8699
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for
+---------------------------
+Next Token :  instance, Posbility: 0.9684
+Next Token :  example, Posbility: 0.0155
+Next Token :  i, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0019
+Next Token :  n, Posbility: 0.0009
+Choose :  instance,  Posbility: 0.9684
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance
+---------------------------
+Next Token :  n, Posbility: 0.9420
+Next Token : ,, Posbility: 0.0107
+Next Token :  sum, Posbility: 0.0052
+Next Token :  (, Posbility: 0.0052
+Next Token :  m, Posbility: 0.0045
+Choose :  n,  Posbility: 0.9420
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n
+---------------------------
+Next Token :  +, Posbility: 0.9362
+Next Token : +, Posbility: 0.0260
+Next Token :  -, Posbility: 0.0103
+Next Token :  =, Posbility: 0.0068
+Next Token :  *, Posbility: 0.0029
+Choose :  +,  Posbility: 0.9362
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n +
+---------------------------
+Next Token :  (, Posbility: 0.9644
+Next Token :  2, Posbility: 0.0145
+Next Token :  i, Posbility: 0.0027
+Next Token :  3, Posbility: 0.0019
+Next Token :  sum, Posbility: 0.0019
+Choose :  (,  Posbility: 0.9644
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (
+---------------------------
+Next Token : n, Posbility: 0.9882
+Next Token : i, Posbility: 0.0029
+Next Token : 2, Posbility: 0.0028
+Next Token : 3, Posbility: 0.0014
+Next Token : 1, Posbility: 0.0007
+Choose : n,  Posbility: 0.9882
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n
+---------------------------
+Next Token : -, Posbility: 0.9833
+Next Token : +, Posbility: 0.0074
+Next Token :  -, Posbility: 0.0043
+Next Token : *, Posbility: 0.0011
+Next Token : /, Posbility: 0.0009
+Choose : -,  Posbility: 0.9833
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-
+---------------------------
+Next Token : 2, Posbility: 0.9613
+Next Token : 1, Posbility: 0.0147
+Next Token : 4, Posbility: 0.0072
+Next Token : 3, Posbility: 0.0065
+Next Token : i, Posbility: 0.0061
+Choose : 2,  Posbility: 0.9613
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2
+---------------------------
+Next Token : ), Posbility: 0.9561
+Next Token : )*, Posbility: 0.0103
+Next Token : *, Posbility: 0.0065
+Next Token : )..., Posbility: 0.0050
+Next Token : )., Posbility: 0.0041
+Choose : ),  Posbility: 0.9561
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2)
+---------------------------
+Next Token :  +, Posbility: 0.9790
+Next Token :  -, Posbility: 0.0054
+Next Token : ..., Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0012
+Next Token :  *, Posbility: 0.0011
+Choose :  +,  Posbility: 0.9790
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) +
+---------------------------
+Next Token :  (, Posbility: 0.9648
+Next Token : ..., Posbility: 0.0212
+Next Token :  2, Posbility: 0.0045
+Next Token :  i, Posbility: 0.0018
+Next Token : ..., Posbility: 0.0010
+Choose :  (,  Posbility: 0.9648
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (
+---------------------------
+Next Token : n, Posbility: 0.9979
+Next Token : ..., Posbility: 0.0005
+Next Token : 2, Posbility: 0.0004
+Next Token : i, Posbility: 0.0002
+Next Token : 1, Posbility: 0.0002
+Choose : n,  Posbility: 0.9979
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n
+---------------------------
+Next Token : -, Posbility: 0.9939
+Next Token :  -, Posbility: 0.0036
+Next Token : +, Posbility: 0.0010
+Next Token : *, Posbility: 0.0003
+Next Token : /, Posbility: 0.0002
+Choose : -,  Posbility: 0.9939
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-
+---------------------------
+Next Token : 4, Posbility: 0.9891
+Next Token : 3, Posbility: 0.0084
+Next Token : 2, Posbility: 0.0008
+Next Token : 5, Posbility: 0.0006
+Next Token : 1, Posbility: 0.0003
+Choose : 4,  Posbility: 0.9891
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4
+---------------------------
+Next Token : )..., Posbility: 0.9662
+Next Token : ), Posbility: 0.0143
+Next Token : )., Posbility: 0.0093
+Next Token : ..., Posbility: 0.0027
+Next Token : ...), Posbility: 0.0022
+Choose : )...,  Posbility: 0.9662
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)...
+---------------------------
+Next Token :  (, Posbility: 0.9411
+Next Token : 
+, Posbility: 0.0108
+Next Token : '', Posbility: 0.0083
+Next Token :  for, Posbility: 0.0082
+Next Token : (, Posbility: 0.0036
+Choose :  (,  Posbility: 0.9411
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (
+---------------------------
+Next Token : until, Posbility: 0.9877
+Next Token : while, Posbility: 0.0035
+Next Token : unless, Posbility: 0.0017
+Next Token : n, Posbility: 0.0004
+Next Token : where, Posbility: 0.0003
+Choose : until,  Posbility: 0.9877
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until
+---------------------------
+Next Token :  n, Posbility: 0.9866
+Next Token :  i, Posbility: 0.0072
+Next Token : 
+, Posbility: 0.0023
+Next Token :  x, Posbility: 0.0003
+Next Token :  -, Posbility: 0.0003
+Choose :  n,  Posbility: 0.9866
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n
+---------------------------
+Next Token : -, Posbility: 0.9498
+Next Token : =, Posbility: 0.0176
+Next Token :  -, Posbility: 0.0102
+Next Token :  =, Posbility: 0.0079
+Next Token : +, Posbility: 0.0040
+Choose : -,  Posbility: 0.9498
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-
+---------------------------
+Next Token : x, Posbility: 0.9754
+Next Token : i, Posbility: 0.0062
+Next Token : 1, Posbility: 0.0044
+Next Token : 3, Posbility: 0.0029
+Next Token : 2, Posbility: 0.0023
+Choose : x,  Posbility: 0.9754
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x
+---------------------------
+Next Token :  =, Posbility: 0.9768
+Next Token :  <, Posbility: 0.0097
+Next Token :  ==, Posbility: 0.0038
+Next Token :  >=, Posbility: 0.0021
+Next Token : =, Posbility: 0.0019
+Choose :  =,  Posbility: 0.9768
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =
+---------------------------
+Next Token : <, Posbility: 0.9124
+Next Token : >, Posbility: 0.0444
+Next Token :  <, Posbility: 0.0223
+Next Token : =, Posbility: 0.0033
+Next Token : 0, Posbility: 0.0031
+Choose : <,  Posbility: 0.9124
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =<
+---------------------------
+Next Token :  0, Posbility: 0.9711
+Next Token : 0, Posbility: 0.0105
+Next Token :  1, Posbility: 0.0055
+Next Token :  10, Posbility: 0.0018
+Next Token :  n, Posbility: 0.0012
+Choose :  0,  Posbility: 0.9711
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0
+---------------------------
+Next Token : )., Posbility: 0.9139
+Next Token : ), Posbility: 0.0567
+Next Token : ),, Posbility: 0.0083
+Next Token : ,, Posbility: 0.0036
+Next Token :  and, Posbility: 0.0032
+Choose : ).,  Posbility: 0.9139
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).
+---------------------------
+Next Token : '', Posbility: 0.8567
+Next Token : 
+, Posbility: 0.0675
+Next Token :  (, Posbility: 0.0191
+Next Token :  , Posbility: 0.0068
+Next Token :  ', Posbility: 0.0052
+Choose : '',  Posbility: 0.8567
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Next Token : ';, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+---------------------------
+Next Token : 
+, Posbility: 0.9461
+Next Token : 
+
+, Posbility: 0.0494
+Next Token :  , Posbility: 0.0010
+Next Token :   , Posbility: 0.0009
+Next Token : def, Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9461
+---------------------------
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+
+---------------------------
+Next Token : def, Posbility: 0.9342
+Next Token : 
+, Posbility: 0.0457
+Next Token : #, Posbility: 0.0090
+Next Token : from, Posbility: 0.0023
+Next Token : import, Posbility: 0.0021
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 18.17936396598816
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+def sum_from_0_to_n(n):
+    sum = 0
+    for i in range(n // 2):
+        sum += i
+    return sum
+
+
+'''Write a function to calculate the sum (n - 2*i) from i=0 to n // 2, for instance n + (n-2) + (n-4)... (until n-x =< 0).'''
+

@@ -1,0 +1,3378 @@
+<<<<<<<<<<<< 354 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  replace, Posbility: 0.4674
+Next Token :  space, Posbility: 0.0453
+Next Token :  change, Posbility: 0.0231
+Next Token :  spaces, Posbility: 0.0187
+Next Token :  find, Posbility: 0.0126
+Choose :  replace,  Posbility: 0.4674
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace
+---------------------------
+Next Token : _, Posbility: 0.7699
+Next Token : (, Posbility: 0.0937
+Next Token : Sp, Posbility: 0.0430
+Next Token : Space, Posbility: 0.0236
+Next Token : With, Posbility: 0.0086
+Choose : _,  Posbility: 0.7699
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_
+---------------------------
+Next Token : sp, Posbility: 0.7011
+Next Token : space, Posbility: 0.1192
+Next Token : d, Posbility: 0.0305
+Next Token : with, Posbility: 0.0258
+Next Token : all, Posbility: 0.0166
+Choose : sp,  Posbility: 0.7011
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_sp
+---------------------------
+Next Token : aces, Posbility: 0.9114
+Next Token : (, Posbility: 0.0405
+Next Token : c, Posbility: 0.0204
+Next Token : _, Posbility: 0.0116
+Next Token : aced, Posbility: 0.0029
+Choose : aces,  Posbility: 0.9114
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces
+---------------------------
+Next Token : (, Posbility: 0.8146
+Next Token : _, Posbility: 0.1634
+Next Token : ():, Posbility: 0.0140
+Next Token :  (, Posbility: 0.0032
+Next Token : (*, Posbility: 0.0017
+Choose : (,  Posbility: 0.8146
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(
+---------------------------
+Next Token : string, Posbility: 0.2494
+Next Token : text, Posbility: 0.1723
+Next Token : s, Posbility: 0.1237
+Next Token : str, Posbility: 0.0889
+Next Token : input, Posbility: 0.0488
+Choose : string,  Posbility: 0.2494
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string
+---------------------------
+Next Token : ):, Posbility: 0.9121
+Next Token : ,, Posbility: 0.0329
+Next Token : :, Posbility: 0.0237
+Next Token : _, Posbility: 0.0213
+Next Token : 1, Posbility: 0.0043
+Choose : ):,  Posbility: 0.9121
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9265
+Next Token : 
+
+, Posbility: 0.0309
+Next Token : , Posbility: 0.0175
+Next Token :  , Posbility: 0.0138
+Next Token :  #, Posbility: 0.0036
+Choose : 
+,  Posbility: 0.9265
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+
+---------------------------
+Next Token :     , Posbility: 0.9195
+Next Token :   , Posbility: 0.0366
+Next Token : 	, Posbility: 0.0342
+Next Token :    , Posbility: 0.0056
+Next Token :         , Posbility: 0.0011
+Choose :     ,  Posbility: 0.9195
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    
+---------------------------
+Next Token : '', Posbility: 0.1529
+Next Token : string, Posbility: 0.1392
+Next Token : for, Posbility: 0.0820
+Next Token : return, Posbility: 0.0774
+Next Token : new, Posbility: 0.0762
+Choose : '',  Posbility: 0.1529
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''
+---------------------------
+Next Token : Re, Posbility: 0.4172
+Next Token : replace, Posbility: 0.0898
+Next Token : 
+, Posbility: 0.0546
+Next Token : Function, Posbility: 0.0492
+Next Token : Write, Posbility: 0.0348
+Choose : Re,  Posbility: 0.4172
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Re
+---------------------------
+Next Token : place, Posbility: 0.7780
+Next Token : places, Posbility: 0.2107
+Next Token : ce, Posbility: 0.0040
+Next Token : gex, Posbility: 0.0013
+Next Token : format, Posbility: 0.0013
+Choose : place,  Posbility: 0.7780
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace
+---------------------------
+Next Token :  all, Posbility: 0.5467
+Next Token :  spaces, Posbility: 0.2836
+Next Token :  every, Posbility: 0.0334
+Next Token :  any, Posbility: 0.0261
+Next Token :  the, Posbility: 0.0215
+Choose :  all,  Posbility: 0.5467
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all
+---------------------------
+Next Token :  occurrences, Posbility: 0.7359
+Next Token :  spaces, Posbility: 0.1414
+Next Token :  instances, Posbility: 0.0251
+Next Token :  occ, Posbility: 0.0236
+Next Token :  occurrence, Posbility: 0.0087
+Choose :  occurrences,  Posbility: 0.7359
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences
+---------------------------
+Next Token :  of, Posbility: 0.9753
+Next Token :  spaces, Posbility: 0.0061
+Next Token :  with, Posbility: 0.0029
+Next Token :  and, Posbility: 0.0026
+Next Token :  (, Posbility: 0.0022
+Choose :  of,  Posbility: 0.9753
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of
+---------------------------
+Next Token :  spaces, Posbility: 0.9391
+Next Token :  space, Posbility: 0.0135
+Next Token :  ", Posbility: 0.0092
+Next Token :  whites, Posbility: 0.0072
+Next Token :  ', Posbility: 0.0059
+Choose :  spaces,  Posbility: 0.9391
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces
+---------------------------
+Next Token : ,, Posbility: 0.8055
+Next Token :  with, Posbility: 0.1477
+Next Token :  in, Posbility: 0.0130
+Next Token :  and, Posbility: 0.0102
+Next Token :  to, Posbility: 0.0036
+Choose : ,,  Posbility: 0.8055
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces,
+---------------------------
+Next Token :  comm, Posbility: 0.9821
+Next Token :  comma, Posbility: 0.0067
+Next Token :  com, Posbility: 0.0040
+Next Token : 
+, Posbility: 0.0008
+Next Token :  comments, Posbility: 0.0006
+Choose :  comm,  Posbility: 0.9821
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, comm
+---------------------------
+Next Token : as, Posbility: 0.9998
+Next Token : asp, Posbility: 0.0001
+Next Token : ans, Posbility: 0.0000
+Next Token : mas, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Choose : as,  Posbility: 0.9998
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas
+---------------------------
+Next Token : ,, Posbility: 0.9859
+Next Token :  or, Posbility: 0.0054
+Next Token :  and, Posbility: 0.0044
+Next Token :  with, Posbility: 0.0024
+Next Token :  (, Posbility: 0.0003
+Choose : ,,  Posbility: 0.9859
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas,
+---------------------------
+Next Token :  or, Posbility: 0.9707
+Next Token :  and, Posbility: 0.0239
+Next Token :  with, Posbility: 0.0016
+Next Token :  dots, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0010
+Choose :  or,  Posbility: 0.9707
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or
+---------------------------
+Next Token :  dots, Posbility: 0.9889
+Next Token :  d, Posbility: 0.0032
+Next Token :  dot, Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0011
+Next Token :  underscores, Posbility: 0.0009
+Choose :  dots,  Posbility: 0.9889
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots
+---------------------------
+Next Token :  with, Posbility: 0.9721
+Next Token :  by, Posbility: 0.0080
+Next Token : 
+, Posbility: 0.0055
+Next Token :  in, Posbility: 0.0040
+Next Token :  ', Posbility: 0.0016
+Choose :  with,  Posbility: 0.9721
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with
+---------------------------
+Next Token :  a, Posbility: 0.9352
+Next Token :  colon, Posbility: 0.0140
+Next Token :  :, Posbility: 0.0112
+Next Token : 
+, Posbility: 0.0092
+Next Token :  col, Posbility: 0.0061
+Choose :  a,  Posbility: 0.9352
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a
+---------------------------
+Next Token :  colon, Posbility: 0.9607
+Next Token : 
+, Posbility: 0.0114
+Next Token :  :, Posbility: 0.0071
+Next Token :  col, Posbility: 0.0036
+Next Token :  space, Posbility: 0.0023
+Choose :  colon,  Posbility: 0.9607
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon
+---------------------------
+Next Token : ., Posbility: 0.3869
+Next Token : .', Posbility: 0.3331
+Next Token : '', Posbility: 0.0996
+Next Token :  with, Posbility: 0.0369
+Next Token :  in, Posbility: 0.0352
+Choose : .,  Posbility: 0.3869
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+---------------------------
+Next Token : 
+, Posbility: 0.5205
+Next Token : 
+
+, Posbility: 0.2176
+Next Token :  ', Posbility: 0.0372
+Next Token :  , Posbility: 0.0334
+Next Token : '', Posbility: 0.0304
+Choose : 
+,  Posbility: 0.5205
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+
+---------------------------
+Next Token :     , Posbility: 0.7996
+Next Token :        , Posbility: 0.1052
+Next Token :         , Posbility: 0.0448
+Next Token :      , Posbility: 0.0076
+Next Token :    , Posbility: 0.0058
+Choose :     ,  Posbility: 0.7996
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    
+---------------------------
+Next Token : >>>, Posbility: 0.1538
+Next Token : 
+, Posbility: 0.1329
+Next Token : '', Posbility: 0.0501
+Next Token : Args, Posbility: 0.0456
+Next Token : Return, Posbility: 0.0372
+Choose : >>>,  Posbility: 0.1538
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>>
+---------------------------
+Next Token :  replace, Posbility: 0.9377
+Next Token :  print, Posbility: 0.0153
+Next Token :  s, Posbility: 0.0072
+Next Token : replace, Posbility: 0.0065
+Next Token :  str, Posbility: 0.0030
+Choose :  replace,  Posbility: 0.9377
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token : (', Posbility: 0.0001
+Next Token :  =, Posbility: 0.0000
+Next Token : (", Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_
+---------------------------
+Next Token : sp, Posbility: 0.9987
+Next Token : space, Posbility: 0.0008
+Next Token : words, Posbility: 0.0001
+Next Token : d, Posbility: 0.0000
+Next Token : with, Posbility: 0.0000
+Choose : sp,  Posbility: 0.9987
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_sp
+---------------------------
+Next Token : aces, Posbility: 1.0000
+Next Token : ace, Posbility: 0.0000
+Next Token : ites, Posbility: 0.0000
+Next Token : ces, Posbility: 0.0000
+Next Token : ices, Posbility: 0.0000
+Choose : aces,  Posbility: 1.0000
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces
+---------------------------
+Next Token : (", Posbility: 0.5400
+Next Token : (', Posbility: 0.4250
+Next Token : (, Posbility: 0.0341
+Next Token :  (', Posbility: 0.0003
+Next Token :  (", Posbility: 0.0001
+Choose : (",  Posbility: 0.5400
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("
+---------------------------
+Next Token : a, Posbility: 0.0720
+Next Token : I, Posbility: 0.0668
+Next Token : Hello, Posbility: 0.0608
+Next Token :   , Posbility: 0.0574
+Next Token : This, Posbility: 0.0385
+Choose : a,  Posbility: 0.0720
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a
+---------------------------
+Next Token :  b, Posbility: 0.7240
+Next Token : ,, Posbility: 0.0621
+Next Token : :, Posbility: 0.0605
+Next Token : ., Posbility: 0.0193
+Next Token : "), Posbility: 0.0128
+Choose :  b,  Posbility: 0.7240
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b
+---------------------------
+Next Token :  c, Posbility: 0.8191
+Next Token : :, Posbility: 0.0305
+Next Token : "), Posbility: 0.0187
+Next Token :  :, Posbility: 0.0142
+Next Token : c, Posbility: 0.0126
+Choose :  c,  Posbility: 0.8191
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c
+---------------------------
+Next Token :  d, Posbility: 0.6758
+Next Token : "), Posbility: 0.1837
+Next Token :    , Posbility: 0.0281
+Next Token : :, Posbility: 0.0132
+Next Token :  ", Posbility: 0.0131
+Choose :  d,  Posbility: 0.6758
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d
+---------------------------
+Next Token :  e, Posbility: 0.6597
+Next Token : "), Posbility: 0.2196
+Next Token : ;, Posbility: 0.0529
+Next Token : ,, Posbility: 0.0120
+Next Token : \, Posbility: 0.0065
+Choose :  e,  Posbility: 0.6597
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e
+---------------------------
+Next Token :  f, Posbility: 0.8869
+Next Token : "), Posbility: 0.0721
+Next Token : f, Posbility: 0.0105
+Next Token :   , Posbility: 0.0053
+Next Token : \, Posbility: 0.0033
+Choose :  f,  Posbility: 0.8869
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f
+---------------------------
+Next Token :  g, Posbility: 0.6853
+Next Token : "), Posbility: 0.2666
+Next Token :   , Posbility: 0.0061
+Next Token :  ", Posbility: 0.0054
+Next Token : g, Posbility: 0.0045
+Choose :  g,  Posbility: 0.6853
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g
+---------------------------
+Next Token :  h, Posbility: 0.7911
+Next Token : "), Posbility: 0.1345
+Next Token :  f, Posbility: 0.0183
+Next Token :  g, Posbility: 0.0127
+Next Token :  a, Posbility: 0.0061
+Choose :  h,  Posbility: 0.7911
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h
+---------------------------
+Next Token :  i, Posbility: 0.6104
+Next Token : "), Posbility: 0.2744
+Next Token :  j, Posbility: 0.0581
+Next Token : \, Posbility: 0.0053
+Next Token :   , Posbility: 0.0044
+Choose :  i,  Posbility: 0.6104
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i
+---------------------------
+Next Token :  j, Posbility: 0.9760
+Next Token : "), Posbility: 0.0105
+Next Token : j, Posbility: 0.0031
+Next Token :  , Posbility: 0.0010
+Next Token :  x, Posbility: 0.0009
+Choose :  j,  Posbility: 0.9760
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j
+---------------------------
+Next Token :  k, Posbility: 0.8737
+Next Token : "), Posbility: 0.1018
+Next Token :  ", Posbility: 0.0040
+Next Token : k, Posbility: 0.0036
+Next Token : \, Posbility: 0.0017
+Choose :  k,  Posbility: 0.8737
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k
+---------------------------
+Next Token :  l, Posbility: 0.9248
+Next Token : "), Posbility: 0.0411
+Next Token :   , Posbility: 0.0071
+Next Token :  ", Posbility: 0.0041
+Next Token :  ll, Posbility: 0.0026
+Choose :  l,  Posbility: 0.9248
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l
+---------------------------
+Next Token :  m, Posbility: 0.7746
+Next Token : "), Posbility: 0.1898
+Next Token : m, Posbility: 0.0048
+Next Token : ")., Posbility: 0.0031
+Next Token :   , Posbility: 0.0025
+Choose :  m,  Posbility: 0.7746
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m
+---------------------------
+Next Token :  n, Posbility: 0.9665
+Next Token : "), Posbility: 0.0249
+Next Token :  o, Posbility: 0.0026
+Next Token :  no, Posbility: 0.0017
+Next Token : n, Posbility: 0.0007
+Choose :  n,  Posbility: 0.9665
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n
+---------------------------
+Next Token :  o, Posbility: 0.9559
+Next Token : "), Posbility: 0.0210
+Next Token :  op, Posbility: 0.0038
+Next Token :  O, Posbility: 0.0032
+Next Token :  p, Posbility: 0.0027
+Choose :  o,  Posbility: 0.9559
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o
+---------------------------
+Next Token :  p, Posbility: 0.8331
+Next Token : "), Posbility: 0.1280
+Next Token :  q, Posbility: 0.0085
+Next Token :  r, Posbility: 0.0038
+Next Token :  op, Posbility: 0.0034
+Choose :  p,  Posbility: 0.8331
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p
+---------------------------
+Next Token :  q, Posbility: 0.8269
+Next Token : "), Posbility: 0.1117
+Next Token :  p, Posbility: 0.0095
+Next Token : q, Posbility: 0.0054
+Next Token :  x, Posbility: 0.0053
+Choose :  q,  Posbility: 0.8269
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q
+---------------------------
+Next Token :  r, Posbility: 0.9837
+Next Token :  w, Posbility: 0.0052
+Next Token : "), Posbility: 0.0030
+Next Token : r, Posbility: 0.0024
+Next Token :  q, Posbility: 0.0016
+Choose :  r,  Posbility: 0.9837
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r
+---------------------------
+Next Token :  s, Posbility: 0.9501
+Next Token : "), Posbility: 0.0153
+Next Token :  r, Posbility: 0.0121
+Next Token :  t, Posbility: 0.0048
+Next Token :  w, Posbility: 0.0034
+Choose :  s,  Posbility: 0.9501
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s
+---------------------------
+Next Token :  t, Posbility: 0.8629
+Next Token : "), Posbility: 0.1093
+Next Token :    , Posbility: 0.0043
+Next Token :  st, Posbility: 0.0028
+Next Token :  x, Posbility: 0.0023
+Choose :  t,  Posbility: 0.8629
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t
+---------------------------
+Next Token :  u, Posbility: 0.9822
+Next Token : "), Posbility: 0.0121
+Next Token :  t, Posbility: 0.0009
+Next Token :  y, Posbility: 0.0005
+Next Token :  ", Posbility: 0.0005
+Choose :  u,  Posbility: 0.9822
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u
+---------------------------
+Next Token :  v, Posbility: 0.9760
+Next Token : "), Posbility: 0.0084
+Next Token :  w, Posbility: 0.0072
+Next Token : v, Posbility: 0.0036
+Next Token :  u, Posbility: 0.0012
+Choose :  v,  Posbility: 0.9760
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v
+---------------------------
+Next Token :  w, Posbility: 0.9840
+Next Token : "), Posbility: 0.0094
+Next Token :  z, Posbility: 0.0025
+Next Token :  x, Posbility: 0.0013
+Next Token :  y, Posbility: 0.0004
+Choose :  w,  Posbility: 0.9840
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w
+---------------------------
+Next Token :  x, Posbility: 0.9872
+Next Token : "), Posbility: 0.0041
+Next Token :  y, Posbility: 0.0019
+Next Token :  z, Posbility: 0.0013
+Next Token : x, Posbility: 0.0011
+Choose :  x,  Posbility: 0.9872
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x
+---------------------------
+Next Token :  y, Posbility: 0.9838
+Next Token : y, Posbility: 0.0049
+Next Token : "), Posbility: 0.0020
+Next Token :  z, Posbility: 0.0017
+Next Token :   , Posbility: 0.0011
+Choose :  y,  Posbility: 0.9838
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y
+---------------------------
+Next Token :  z, Posbility: 0.9890
+Next Token : "), Posbility: 0.0069
+Next Token :  ", Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Next Token : z, Posbility: 0.0004
+Choose :  z,  Posbility: 0.9890
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z
+---------------------------
+Next Token : "), Posbility: 0.7535
+Next Token :  ", Posbility: 0.0745
+Next Token :  A, Posbility: 0.0191
+Next Token :  1, Posbility: 0.0128
+Next Token :  ', Posbility: 0.0112
+Choose : "),  Posbility: 0.7535
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+---------------------------
+Next Token : 
+, Posbility: 0.9315
+Next Token :  ==, Posbility: 0.0520
+Next Token :  #, Posbility: 0.0058
+Next Token :  , Posbility: 0.0037
+Next Token :   , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9315
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+
+---------------------------
+Next Token :     , Posbility: 0.9921
+Next Token :         , Posbility: 0.0045
+Next Token :      , Posbility: 0.0010
+Next Token :        , Posbility: 0.0004
+Next Token :       , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9921
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    
+---------------------------
+Next Token : ', Posbility: 0.8792
+Next Token : 'm, Posbility: 0.0341
+Next Token : ", Posbility: 0.0204
+Next Token : 't, Posbility: 0.0136
+Next Token : 'd, Posbility: 0.0075
+Choose : ',  Posbility: 0.8792
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    '
+---------------------------
+Next Token : a, Posbility: 0.7648
+Next Token : ab, Posbility: 0.0367
+Next Token : abc, Posbility: 0.0280
+Next Token : aa, Posbility: 0.0278
+Next Token : ae, Posbility: 0.0078
+Choose : a,  Posbility: 0.7648
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a
+---------------------------
+Next Token : :, Posbility: 0.8830
+Next Token :  b, Posbility: 0.0243
+Next Token :  :, Posbility: 0.0143
+Next Token : 2, Posbility: 0.0128
+Next Token : |, Posbility: 0.0092
+Choose : :,  Posbility: 0.8830
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:
+---------------------------
+Next Token : b, Posbility: 0.7728
+Next Token :  b, Posbility: 0.1193
+Next Token : bc, Posbility: 0.0130
+Next Token : 1, Posbility: 0.0102
+Next Token : f, Posbility: 0.0068
+Choose : b,  Posbility: 0.7728
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b
+---------------------------
+Next Token : :, Posbility: 0.8493
+Next Token : ,, Posbility: 0.0474
+Next Token : ;, Posbility: 0.0356
+Next Token : |, Posbility: 0.0115
+Next Token : ::, Posbility: 0.0058
+Choose : :,  Posbility: 0.8493
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:
+---------------------------
+Next Token : c, Posbility: 0.9908
+Next Token : d, Posbility: 0.0015
+Next Token :  c, Posbility: 0.0012
+Next Token : i, Posbility: 0.0011
+Next Token : cc, Posbility: 0.0011
+Choose : c,  Posbility: 0.9908
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c
+---------------------------
+Next Token : :, Posbility: 0.9663
+Next Token : ;, Posbility: 0.0139
+Next Token : ,, Posbility: 0.0050
+Next Token : |, Posbility: 0.0022
+Next Token : ::, Posbility: 0.0016
+Choose : :,  Posbility: 0.9663
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:
+---------------------------
+Next Token : d, Posbility: 0.9890
+Next Token : e, Posbility: 0.0055
+Next Token : D, Posbility: 0.0010
+Next Token : i, Posbility: 0.0008
+Next Token : :, Posbility: 0.0008
+Choose : d,  Posbility: 0.9890
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d
+---------------------------
+Next Token : :, Posbility: 0.9769
+Next Token : ;, Posbility: 0.0163
+Next Token : ,, Posbility: 0.0015
+Next Token : ::, Posbility: 0.0010
+Next Token : |, Posbility: 0.0003
+Choose : :,  Posbility: 0.9769
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:
+---------------------------
+Next Token : e, Posbility: 0.9903
+Next Token : f, Posbility: 0.0064
+Next Token : :, Posbility: 0.0010
+Next Token : ee, Posbility: 0.0003
+Next Token : E, Posbility: 0.0003
+Choose : e,  Posbility: 0.9903
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e
+---------------------------
+Next Token : :, Posbility: 0.9972
+Next Token : ,, Posbility: 0.0005
+Next Token : ;, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0003
+Next Token : :', Posbility: 0.0002
+Choose : :,  Posbility: 0.9972
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:
+---------------------------
+Next Token : f, Posbility: 0.9961
+Next Token : g, Posbility: 0.0021
+Next Token : :, Posbility: 0.0005
+Next Token : i, Posbility: 0.0005
+Next Token : F, Posbility: 0.0002
+Choose : f,  Posbility: 0.9961
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f
+---------------------------
+Next Token : :, Posbility: 0.9936
+Next Token : ::, Posbility: 0.0015
+Next Token : ;, Posbility: 0.0014
+Next Token : ,, Posbility: 0.0011
+Next Token : ', Posbility: 0.0003
+Choose : :,  Posbility: 0.9936
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:
+---------------------------
+Next Token : g, Posbility: 0.9959
+Next Token : h, Posbility: 0.0022
+Next Token : i, Posbility: 0.0006
+Next Token : G, Posbility: 0.0003
+Next Token : gh, Posbility: 0.0002
+Choose : g,  Posbility: 0.9959
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g
+---------------------------
+Next Token : :, Posbility: 0.9952
+Next Token : ;, Posbility: 0.0031
+Next Token : ,, Posbility: 0.0004
+Next Token : ', Posbility: 0.0002
+Next Token : :', Posbility: 0.0001
+Choose : :,  Posbility: 0.9952
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:
+---------------------------
+Next Token : h, Posbility: 0.9898
+Next Token : i, Posbility: 0.0093
+Next Token : k, Posbility: 0.0002
+Next Token : H, Posbility: 0.0001
+Next Token : j, Posbility: 0.0001
+Choose : h,  Posbility: 0.9898
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h
+---------------------------
+Next Token : :, Posbility: 0.9967
+Next Token : ;, Posbility: 0.0011
+Next Token : ,, Posbility: 0.0007
+Next Token : ', Posbility: 0.0002
+Next Token : \, Posbility: 0.0002
+Choose : :,  Posbility: 0.9967
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:
+---------------------------
+Next Token : i, Posbility: 0.9996
+Next Token : j, Posbility: 0.0002
+Next Token : I, Posbility: 0.0001
+Next Token : h, Posbility: 0.0000
+Next Token : k, Posbility: 0.0000
+Choose : i,  Posbility: 0.9996
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i
+---------------------------
+Next Token : :, Posbility: 0.9981
+Next Token : ;, Posbility: 0.0007
+Next Token : :#, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0001
+Next Token : :-, Posbility: 0.0001
+Choose : :,  Posbility: 0.9981
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:
+---------------------------
+Next Token : j, Posbility: 0.9991
+Next Token : k, Posbility: 0.0007
+Next Token : i, Posbility: 0.0001
+Next Token : m, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Choose : j,  Posbility: 0.9991
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j
+---------------------------
+Next Token : :, Posbility: 0.9982
+Next Token : ;, Posbility: 0.0007
+Next Token : ', Posbility: 0.0003
+Next Token : :', Posbility: 0.0001
+Next Token : ::, Posbility: 0.0001
+Choose : :,  Posbility: 0.9982
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:
+---------------------------
+Next Token : k, Posbility: 0.9993
+Next Token : l, Posbility: 0.0004
+Next Token : kl, Posbility: 0.0001
+Next Token : K, Posbility: 0.0000
+Next Token : j, Posbility: 0.0000
+Choose : k,  Posbility: 0.9993
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k
+---------------------------
+Next Token : :, Posbility: 0.9987
+Next Token : ', Posbility: 0.0003
+Next Token : ;, Posbility: 0.0002
+Next Token : ::, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : :,  Posbility: 0.9987
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:
+---------------------------
+Next Token : l, Posbility: 0.9995
+Next Token : m, Posbility: 0.0002
+Next Token : p, Posbility: 0.0001
+Next Token :  l, Posbility: 0.0001
+Next Token : L, Posbility: 0.0000
+Choose : l,  Posbility: 0.9995
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l
+---------------------------
+Next Token : :, Posbility: 0.9985
+Next Token : ;, Posbility: 0.0006
+Next Token : m, Posbility: 0.0002
+Next Token : ', Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9985
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:
+---------------------------
+Next Token : m, Posbility: 0.9998
+Next Token : o, Posbility: 0.0001
+Next Token : p, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Next Token :  m, Posbility: 0.0000
+Choose : m,  Posbility: 0.9998
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m
+---------------------------
+Next Token : :, Posbility: 0.9989
+Next Token : ;, Posbility: 0.0002
+Next Token : !, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Next Token : :{, Posbility: 0.0001
+Choose : :,  Posbility: 0.9989
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:
+---------------------------
+Next Token : n, Posbility: 0.9951
+Next Token : o, Posbility: 0.0048
+Next Token : p, Posbility: 0.0000
+Next Token : N, Posbility: 0.0000
+Next Token : q, Posbility: 0.0000
+Choose : n,  Posbility: 0.9951
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n
+---------------------------
+Next Token : :, Posbility: 0.9990
+Next Token : ,, Posbility: 0.0001
+Next Token : ;, Posbility: 0.0001
+Next Token : ', Posbility: 0.0001
+Next Token : ::, Posbility: 0.0001
+Choose : :,  Posbility: 0.9990
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:
+---------------------------
+Next Token : o, Posbility: 0.9988
+Next Token : p, Posbility: 0.0011
+Next Token :  o, Posbility: 0.0000
+Next Token : O, Posbility: 0.0000
+Next Token : op, Posbility: 0.0000
+Choose : o,  Posbility: 0.9988
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o
+---------------------------
+Next Token : :, Posbility: 0.9989
+Next Token : :(, Posbility: 0.0001
+Next Token : ', Posbility: 0.0001
+Next Token : :', Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : :,  Posbility: 0.9989
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:
+---------------------------
+Next Token : p, Posbility: 0.9999
+Next Token : q, Posbility: 0.0001
+Next Token : P, Posbility: 0.0000
+Next Token : u, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose : p,  Posbility: 0.9999
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p
+---------------------------
+Next Token : :, Posbility: 0.9989
+Next Token : ;, Posbility: 0.0004
+Next Token : ', Posbility: 0.0001
+Next Token : :', Posbility: 0.0001
+Next Token : :(, Posbility: 0.0001
+Choose : :,  Posbility: 0.9989
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:
+---------------------------
+Next Token : q, Posbility: 0.9992
+Next Token : r, Posbility: 0.0005
+Next Token : qu, Posbility: 0.0001
+Next Token : qs, Posbility: 0.0000
+Next Token : Q, Posbility: 0.0000
+Choose : q,  Posbility: 0.9992
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q
+---------------------------
+Next Token : :, Posbility: 0.9973
+Next Token : ;, Posbility: 0.0010
+Next Token : ', Posbility: 0.0003
+Next Token : r, Posbility: 0.0003
+Next Token : :', Posbility: 0.0002
+Choose : :,  Posbility: 0.9973
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:
+---------------------------
+Next Token : r, Posbility: 0.9999
+Next Token : s, Posbility: 0.0000
+Next Token : R, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token :  r, Posbility: 0.0000
+Choose : r,  Posbility: 0.9999
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r
+---------------------------
+Next Token : :, Posbility: 0.9989
+Next Token : ;, Posbility: 0.0007
+Next Token : :', Posbility: 0.0001
+Next Token : ', Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose : :,  Posbility: 0.9989
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:
+---------------------------
+Next Token : s, Posbility: 0.9974
+Next Token : t, Posbility: 0.0025
+Next Token : u, Posbility: 0.0000
+Next Token : S, Posbility: 0.0000
+Next Token : e, Posbility: 0.0000
+Choose : s,  Posbility: 0.9974
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s
+---------------------------
+Next Token : :, Posbility: 0.9971
+Next Token : ;, Posbility: 0.0009
+Next Token : :', Posbility: 0.0009
+Next Token : ', Posbility: 0.0004
+Next Token : :{, Posbility: 0.0001
+Choose : :,  Posbility: 0.9971
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:
+---------------------------
+Next Token : t, Posbility: 0.9993
+Next Token : u, Posbility: 0.0005
+Next Token : T, Posbility: 0.0000
+Next Token : v, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Choose : t,  Posbility: 0.9993
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t
+---------------------------
+Next Token : :, Posbility: 0.9949
+Next Token : :', Posbility: 0.0015
+Next Token : ;, Posbility: 0.0011
+Next Token : ', Posbility: 0.0008
+Next Token : :\, Posbility: 0.0003
+Choose : :,  Posbility: 0.9949
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:
+---------------------------
+Next Token : u, Posbility: 0.9995
+Next Token : v, Posbility: 0.0002
+Next Token : y, Posbility: 0.0001
+Next Token : t, Posbility: 0.0000
+Next Token : U, Posbility: 0.0000
+Choose : u,  Posbility: 0.9995
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u
+---------------------------
+Next Token : :, Posbility: 0.9970
+Next Token : ;, Posbility: 0.0009
+Next Token : ', Posbility: 0.0005
+Next Token : :', Posbility: 0.0003
+Next Token : -, Posbility: 0.0002
+Choose : :,  Posbility: 0.9970
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:
+---------------------------
+Next Token : v, Posbility: 0.9997
+Next Token : w, Posbility: 0.0002
+Next Token : V, Posbility: 0.0000
+Next Token : f, Posbility: 0.0000
+Next Token : y, Posbility: 0.0000
+Choose : v,  Posbility: 0.9997
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v
+---------------------------
+Next Token : :, Posbility: 0.9973
+Next Token : ', Posbility: 0.0016
+Next Token : ;, Posbility: 0.0004
+Next Token : :', Posbility: 0.0001
+Next Token : w, Posbility: 0.0001
+Choose : :,  Posbility: 0.9973
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:
+---------------------------
+Next Token : w, Posbility: 0.9986
+Next Token : y, Posbility: 0.0006
+Next Token : x, Posbility: 0.0005
+Next Token : W, Posbility: 0.0001
+Next Token : z, Posbility: 0.0000
+Choose : w,  Posbility: 0.9986
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w
+---------------------------
+Next Token : :, Posbility: 0.9967
+Next Token : ;, Posbility: 0.0012
+Next Token : ', Posbility: 0.0010
+Next Token : :', Posbility: 0.0003
+Next Token : ,, Posbility: 0.0001
+Choose : :,  Posbility: 0.9967
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:
+---------------------------
+Next Token : x, Posbility: 0.9996
+Next Token : y, Posbility: 0.0002
+Next Token : xy, Posbility: 0.0000
+Next Token : h, Posbility: 0.0000
+Next Token : i, Posbility: 0.0000
+Choose : x,  Posbility: 0.9996
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x
+---------------------------
+Next Token : :, Posbility: 0.9974
+Next Token : ', Posbility: 0.0007
+Next Token : :', Posbility: 0.0004
+Next Token : ;, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0001
+Choose : :,  Posbility: 0.9974
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:
+---------------------------
+Next Token : y, Posbility: 0.9998
+Next Token : z, Posbility: 0.0001
+Next Token : Y, Posbility: 0.0000
+Next Token :  y, Posbility: 0.0000
+Next Token : yy, Posbility: 0.0000
+Choose : y,  Posbility: 0.9998
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y
+---------------------------
+Next Token : :, Posbility: 0.9982
+Next Token : ', Posbility: 0.0008
+Next Token : :', Posbility: 0.0003
+Next Token : ;, Posbility: 0.0001
+Next Token : :{, Posbility: 0.0001
+Choose : :,  Posbility: 0.9982
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:
+---------------------------
+Next Token : z, Posbility: 0.9996
+Next Token : y, Posbility: 0.0001
+Next Token : Z, Posbility: 0.0001
+Next Token :  z, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Choose : z,  Posbility: 0.9996
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z
+---------------------------
+Next Token : ', Posbility: 0.9714
+Next Token : 
+, Posbility: 0.0140
+Next Token :  ', Posbility: 0.0039
+Next Token : '', Posbility: 0.0026
+Next Token : '., Posbility: 0.0014
+Choose : ',  Posbility: 0.9714
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+---------------------------
+Next Token : 
+, Posbility: 0.9458
+Next Token : 
+
+, Posbility: 0.0436
+Next Token :  ', Posbility: 0.0041
+Next Token : '', Posbility: 0.0032
+Next Token :  , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9458
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+
+---------------------------
+Next Token :     , Posbility: 0.9950
+Next Token : '', Posbility: 0.0017
+Next Token :         , Posbility: 0.0010
+Next Token :      , Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9950
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    
+---------------------------
+Next Token : '', Posbility: 0.5642
+Next Token : >>>, Posbility: 0.3625
+Next Token : 
+, Posbility: 0.0425
+Next Token : Ex, Posbility: 0.0020
+Next Token : Note, Posbility: 0.0020
+Choose : '',  Posbility: 0.5642
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '", Posbility: 0.0000
+Next Token : ';, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9525
+Next Token : 
+
+, Posbility: 0.0402
+Next Token :  , Posbility: 0.0027
+Next Token :     , Posbility: 0.0025
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9525
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9957
+Next Token :         , Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0005
+Next Token : #, Posbility: 0.0005
+Next Token :    , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9957
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    
+---------------------------
+Next Token : return, Posbility: 0.1930
+Next Token : string, Posbility: 0.1031
+Next Token : #, Posbility: 0.0656
+Next Token : new, Posbility: 0.0653
+Next Token : for, Posbility: 0.0573
+Choose : return,  Posbility: 0.1930
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return
+---------------------------
+Next Token :  string, Posbility: 0.6319
+Next Token :  ', Posbility: 0.2185
+Next Token :  ", Posbility: 0.0662
+Next Token :  f, Posbility: 0.0189
+Next Token :  re, Posbility: 0.0117
+Choose :  string,  Posbility: 0.6319
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string
+---------------------------
+Next Token : ., Posbility: 0.9925
+Next Token : [, Posbility: 0.0050
+Next Token :  \, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0005
+Next Token : \, Posbility: 0.0002
+Choose : .,  Posbility: 0.9925
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.
+---------------------------
+Next Token : replace, Posbility: 0.9933
+Next Token : split, Posbility: 0.0024
+Next Token : strip, Posbility: 0.0018
+Next Token : trans, Posbility: 0.0012
+Next Token : l, Posbility: 0.0003
+Choose : replace,  Posbility: 0.9933
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace
+---------------------------
+Next Token : (', Posbility: 0.6108
+Next Token : (, Posbility: 0.2120
+Next Token : (", Posbility: 0.1754
+Next Token :  (', Posbility: 0.0004
+Next Token : (*, Posbility: 0.0003
+Choose : (',  Posbility: 0.6108
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace('
+---------------------------
+Next Token :  ',, Posbility: 0.7029
+Next Token :  ', Posbility: 0.2758
+Next Token :   , Posbility: 0.0065
+Next Token : \, Posbility: 0.0052
+Next Token : .', Posbility: 0.0011
+Choose :  ',,  Posbility: 0.7029
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ',
+---------------------------
+Next Token :  ', Posbility: 0.8651
+Next Token : ':, Posbility: 0.0760
+Next Token :  '', Posbility: 0.0259
+Next Token :  r, Posbility: 0.0103
+Next Token :  colon, Posbility: 0.0030
+Choose :  ',  Posbility: 0.8651
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', '
+---------------------------
+Next Token : :, Posbility: 0.8463
+Next Token : :', Posbility: 0.0905
+Next Token : :\, Posbility: 0.0209
+Next Token : :{, Posbility: 0.0070
+Next Token : ;, Posbility: 0.0057
+Choose : :,  Posbility: 0.8463
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':
+---------------------------
+Next Token : '), Posbility: 0.5872
+Next Token : ')., Posbility: 0.4019
+Next Token : ',, Posbility: 0.0037
+Next Token :  ', Posbility: 0.0023
+Next Token : ', Posbility: 0.0009
+Choose : '),  Posbility: 0.5872
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+---------------------------
+Next Token : 
+, Posbility: 0.6971
+Next Token : 
+
+, Posbility: 0.0720
+Next Token :  +, Posbility: 0.0710
+Next Token : \, Posbility: 0.0448
+Next Token :  \, Posbility: 0.0347
+Choose : 
+,  Posbility: 0.6971
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+---------------------------
+Next Token : 
+, Posbility: 0.6567
+Next Token :     , Posbility: 0.1699
+Next Token : <|endoftext|>, Posbility: 0.0817
+Next Token : def, Posbility: 0.0242
+Next Token : #, Posbility: 0.0134
+Choose : 
+,  Posbility: 0.6567
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8907
+Next Token :     , Posbility: 0.0525
+Next Token : <|endoftext|>, Posbility: 0.0332
+Next Token : 
+
+, Posbility: 0.0181
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.8907
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5286
+Next Token : def, Posbility: 0.2751
+Next Token : 
+, Posbility: 0.0894
+Next Token : #, Posbility: 0.0516
+Next Token : if, Posbility: 0.0170
+Choose : '',  Posbility: 0.5286
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8676
+Next Token : Re, Posbility: 0.0197
+Next Token :  Write, Posbility: 0.0126
+Next Token : 
+, Posbility: 0.0106
+Next Token : Return, Posbility: 0.0054
+Choose : Write,  Posbility: 0.8676
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9903
+Next Token :  your, Posbility: 0.0046
+Next Token :  an, Posbility: 0.0011
+Next Token :  the, Posbility: 0.0008
+Next Token :  function, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9903
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9698
+Next Token :  Python, Posbility: 0.0051
+Next Token :  program, Posbility: 0.0036
+Next Token :  python, Posbility: 0.0027
+Next Token :  recursive, Posbility: 0.0019
+Choose :  function,  Posbility: 0.9698
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6995
+Next Token :  that, Posbility: 0.2261
+Next Token :  called, Posbility: 0.0257
+Next Token :  which, Posbility: 0.0104
+Next Token :  named, Posbility: 0.0085
+Choose :  to,  Posbility: 0.6995
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to
+---------------------------
+Next Token :  remove, Posbility: 0.1072
+Next Token :  count, Posbility: 0.1067
+Next Token :  replace, Posbility: 0.1048
+Next Token :  find, Posbility: 0.0607
+Next Token :  split, Posbility: 0.0568
+Choose :  remove,  Posbility: 0.1072
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove
+---------------------------
+Next Token :  all, Posbility: 0.2816
+Next Token :  any, Posbility: 0.0755
+Next Token :  spaces, Posbility: 0.0581
+Next Token :  a, Posbility: 0.0574
+Next Token :  leading, Posbility: 0.0499
+Choose :  all,  Posbility: 0.2816
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all
+---------------------------
+Next Token :  whites, Posbility: 0.1390
+Next Token :  occurrences, Posbility: 0.1016
+Next Token :  consecutive, Posbility: 0.0740
+Next Token :  spaces, Posbility: 0.0692
+Next Token :  non, Posbility: 0.0630
+Choose :  whites,  Posbility: 0.1390
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whites
+---------------------------
+Next Token : pace, Posbility: 0.9166
+Next Token : paces, Posbility: 0.0834
+Next Token :  spaces, Posbility: 0.0000
+Next Token :  space, Posbility: 0.0000
+Next Token : ites, Posbility: 0.0000
+Choose : pace,  Posbility: 0.9166
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace
+---------------------------
+Next Token :  from, Posbility: 0.3033
+Next Token :  characters, Posbility: 0.1717
+Next Token : .', Posbility: 0.1082
+Next Token : ., Posbility: 0.0998
+Next Token :  and, Posbility: 0.0535
+Choose :  from,  Posbility: 0.3033
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from
+---------------------------
+Next Token :  a, Posbility: 0.6973
+Next Token :  the, Posbility: 0.1879
+Next Token :  front, Posbility: 0.0138
+Next Token :  both, Posbility: 0.0130
+Next Token :  each, Posbility: 0.0105
+Choose :  a,  Posbility: 0.6973
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a
+---------------------------
+Next Token :  string, Posbility: 0.7607
+Next Token :  given, Posbility: 0.1000
+Next Token :  sentence, Posbility: 0.0272
+Next Token :  list, Posbility: 0.0181
+Next Token :  line, Posbility: 0.0172
+Choose :  string,  Posbility: 0.7607
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string
+---------------------------
+Next Token : ., Posbility: 0.4127
+Next Token : .', Posbility: 0.3951
+Next Token : '', Posbility: 0.0624
+Next Token : ,, Posbility: 0.0368
+Next Token :  and, Posbility: 0.0158
+Choose : .,  Posbility: 0.4127
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+---------------------------
+Next Token : 
+, Posbility: 0.8137
+Next Token :  ', Posbility: 0.0213
+Next Token : '', Posbility: 0.0208
+Next Token :  This, Posbility: 0.0153
+Next Token :  , Posbility: 0.0147
+Choose : 
+,  Posbility: 0.8137
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+
+---------------------------
+Next Token : >>>, Posbility: 0.5335
+Next Token :     , Posbility: 0.0776
+Next Token : 
+, Posbility: 0.0491
+Next Token : def, Posbility: 0.0261
+Next Token : The, Posbility: 0.0247
+Choose : >>>,  Posbility: 0.5335
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>>
+---------------------------
+Next Token :  remove, Posbility: 0.7245
+Next Token :  replace, Posbility: 0.1194
+Next Token :  print, Posbility: 0.0160
+Next Token :  str, Posbility: 0.0096
+Next Token :  ', Posbility: 0.0076
+Choose :  remove,  Posbility: 0.7245
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove
+---------------------------
+Next Token : _, Posbility: 0.9944
+Next Token : (', Posbility: 0.0015
+Next Token : Wh, Posbility: 0.0008
+Next Token :  =, Posbility: 0.0005
+Next Token : (, Posbility: 0.0004
+Choose : _,  Posbility: 0.9944
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_
+---------------------------
+Next Token : wh, Posbility: 0.6414
+Next Token : space, Posbility: 0.1657
+Next Token : sp, Posbility: 0.0517
+Next Token : all, Posbility: 0.0355
+Next Token : ws, Posbility: 0.0275
+Choose : wh,  Posbility: 0.6414
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_wh
+---------------------------
+Next Token : ites, Posbility: 0.9997
+Next Token : it, Posbility: 0.0002
+Next Token : ite, Posbility: 0.0001
+Next Token : ole, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : ites,  Posbility: 0.9997
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whites
+---------------------------
+Next Token : pace, Posbility: 0.9105
+Next Token : paces, Posbility: 0.0875
+Next Token : p, Posbility: 0.0004
+Next Token : ep, Posbility: 0.0004
+Next Token : pac, Posbility: 0.0002
+Choose : pace,  Posbility: 0.9105
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace
+---------------------------
+Next Token : (', Posbility: 0.5590
+Next Token : (", Posbility: 0.3718
+Next Token : (, Posbility: 0.0471
+Next Token : _, Posbility: 0.0138
+Next Token :  =, Posbility: 0.0024
+Choose : (',  Posbility: 0.5590
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace('
+---------------------------
+Next Token :  a, Posbility: 0.2629
+Next Token : a, Posbility: 0.2230
+Next Token :   , Posbility: 0.1580
+Next Token :    , Posbility: 0.0894
+Next Token :     , Posbility: 0.0279
+Choose :  a,  Posbility: 0.2629
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a
+---------------------------
+Next Token :  b, Posbility: 0.5433
+Next Token :   , Posbility: 0.2266
+Next Token :    , Posbility: 0.0705
+Next Token :     , Posbility: 0.0355
+Next Token :       , Posbility: 0.0140
+Choose :  b,  Posbility: 0.5433
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b
+---------------------------
+Next Token :  c, Posbility: 0.6715
+Next Token :   , Posbility: 0.1290
+Next Token :    , Posbility: 0.0486
+Next Token :  cd, Posbility: 0.0210
+Next Token :  \, Posbility: 0.0173
+Choose :  c,  Posbility: 0.6715
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c
+---------------------------
+Next Token :  d, Posbility: 0.2997
+Next Token :   , Posbility: 0.2316
+Next Token :    , Posbility: 0.2166
+Next Token :  ', Posbility: 0.0705
+Next Token : '), Posbility: 0.0301
+Choose :  d,  Posbility: 0.2997
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d
+---------------------------
+Next Token :  e, Posbility: 0.8310
+Next Token :    , Posbility: 0.0357
+Next Token :   , Posbility: 0.0254
+Next Token : '), Posbility: 0.0215
+Next Token :  ', Posbility: 0.0119
+Choose :  e,  Posbility: 0.8310
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e
+---------------------------
+Next Token :  f, Posbility: 0.9040
+Next Token :   , Posbility: 0.0306
+Next Token :    , Posbility: 0.0185
+Next Token : '), Posbility: 0.0102
+Next Token :     , Posbility: 0.0052
+Choose :  f,  Posbility: 0.9040
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f
+---------------------------
+Next Token :  g, Posbility: 0.8907
+Next Token :   , Posbility: 0.0308
+Next Token : '), Posbility: 0.0147
+Next Token :    , Posbility: 0.0145
+Next Token : g, Posbility: 0.0092
+Choose :  g,  Posbility: 0.8907
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g
+---------------------------
+Next Token :  h, Posbility: 0.9287
+Next Token :   , Posbility: 0.0154
+Next Token : '), Posbility: 0.0108
+Next Token :  ', Posbility: 0.0099
+Next Token :    , Posbility: 0.0059
+Choose :  h,  Posbility: 0.9287
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h
+---------------------------
+Next Token :  i, Posbility: 0.9393
+Next Token :  ', Posbility: 0.0092
+Next Token : '), Posbility: 0.0074
+Next Token :   , Posbility: 0.0059
+Next Token :    , Posbility: 0.0056
+Choose :  i,  Posbility: 0.9393
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i
+---------------------------
+Next Token :  j, Posbility: 0.9881
+Next Token : j, Posbility: 0.0027
+Next Token :   , Posbility: 0.0017
+Next Token :    , Posbility: 0.0014
+Next Token : '), Posbility: 0.0008
+Choose :  j,  Posbility: 0.9881
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j
+---------------------------
+Next Token :  k, Posbility: 0.9685
+Next Token : '), Posbility: 0.0076
+Next Token :  ', Posbility: 0.0046
+Next Token :   , Posbility: 0.0038
+Next Token : k, Posbility: 0.0026
+Choose :  k,  Posbility: 0.9685
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k
+---------------------------
+Next Token :  l, Posbility: 0.9781
+Next Token : '), Posbility: 0.0043
+Next Token :   , Posbility: 0.0032
+Next Token :  ', Posbility: 0.0026
+Next Token : l, Posbility: 0.0020
+Choose :  l,  Posbility: 0.9781
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l
+---------------------------
+Next Token :  m, Posbility: 0.9647
+Next Token :   , Posbility: 0.0072
+Next Token : '), Posbility: 0.0055
+Next Token :  ', Posbility: 0.0041
+Next Token : m, Posbility: 0.0040
+Choose :  m,  Posbility: 0.9647
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m
+---------------------------
+Next Token :  n, Posbility: 0.9835
+Next Token :  ', Posbility: 0.0051
+Next Token :  o, Posbility: 0.0020
+Next Token : n, Posbility: 0.0016
+Next Token : '), Posbility: 0.0013
+Choose :  n,  Posbility: 0.9835
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n
+---------------------------
+Next Token :  o, Posbility: 0.9854
+Next Token : '), Posbility: 0.0017
+Next Token :  ', Posbility: 0.0017
+Next Token :   , Posbility: 0.0014
+Next Token :  p, Posbility: 0.0012
+Choose :  o,  Posbility: 0.9854
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o
+---------------------------
+Next Token :  p, Posbility: 0.9860
+Next Token :   , Posbility: 0.0022
+Next Token :  ', Posbility: 0.0020
+Next Token :    , Posbility: 0.0020
+Next Token :  q, Posbility: 0.0015
+Choose :  p,  Posbility: 0.9860
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p
+---------------------------
+Next Token :  q, Posbility: 0.9784
+Next Token :  qu, Posbility: 0.0042
+Next Token : q, Posbility: 0.0036
+Next Token :   , Posbility: 0.0021
+Next Token : '), Posbility: 0.0016
+Choose :  q,  Posbility: 0.9784
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q
+---------------------------
+Next Token :  r, Posbility: 0.9902
+Next Token : r, Posbility: 0.0026
+Next Token :  w, Posbility: 0.0015
+Next Token : '), Posbility: 0.0014
+Next Token :  s, Posbility: 0.0013
+Choose :  r,  Posbility: 0.9902
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r
+---------------------------
+Next Token :  s, Posbility: 0.9451
+Next Token :   , Posbility: 0.0088
+Next Token :  t, Posbility: 0.0084
+Next Token :    , Posbility: 0.0057
+Next Token : '), Posbility: 0.0033
+Choose :  s,  Posbility: 0.9451
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s
+---------------------------
+Next Token :  t, Posbility: 0.9505
+Next Token : '), Posbility: 0.0143
+Next Token :    , Posbility: 0.0102
+Next Token :   , Posbility: 0.0041
+Next Token :  ', Posbility: 0.0024
+Choose :  t,  Posbility: 0.9505
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t
+---------------------------
+Next Token :  u, Posbility: 0.9835
+Next Token : '), Posbility: 0.0037
+Next Token :  ', Posbility: 0.0034
+Next Token :    , Posbility: 0.0016
+Next Token :  a, Posbility: 0.0010
+Choose :  u,  Posbility: 0.9835
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u
+---------------------------
+Next Token :  v, Posbility: 0.9814
+Next Token :  w, Posbility: 0.0103
+Next Token : '), Posbility: 0.0014
+Next Token :  u, Posbility: 0.0012
+Next Token :  V, Posbility: 0.0011
+Choose :  v,  Posbility: 0.9814
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v
+---------------------------
+Next Token :  w, Posbility: 0.9922
+Next Token : '), Posbility: 0.0024
+Next Token :  x, Posbility: 0.0012
+Next Token :  ', Posbility: 0.0009
+Next Token : w, Posbility: 0.0005
+Choose :  w,  Posbility: 0.9922
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w
+---------------------------
+Next Token :  x, Posbility: 0.9922
+Next Token :  ', Posbility: 0.0022
+Next Token : x, Posbility: 0.0015
+Next Token : '), Posbility: 0.0015
+Next Token :  z, Posbility: 0.0003
+Choose :  x,  Posbility: 0.9922
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x
+---------------------------
+Next Token :  y, Posbility: 0.9857
+Next Token : '), Posbility: 0.0038
+Next Token :  z, Posbility: 0.0020
+Next Token :  ', Posbility: 0.0019
+Next Token :   , Posbility: 0.0012
+Choose :  y,  Posbility: 0.9857
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y
+---------------------------
+Next Token :  z, Posbility: 0.9920
+Next Token :  Z, Posbility: 0.0019
+Next Token : '), Posbility: 0.0015
+Next Token : z, Posbility: 0.0012
+Next Token :  ', Posbility: 0.0012
+Choose :  z,  Posbility: 0.9920
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z
+---------------------------
+Next Token : '), Posbility: 0.6709
+Next Token :  ', Posbility: 0.2228
+Next Token : 
+, Posbility: 0.0166
+Next Token : '', Posbility: 0.0145
+Next Token : \, Posbility: 0.0081
+Choose : '),  Posbility: 0.6709
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+---------------------------
+Next Token : 
+, Posbility: 0.9774
+Next Token :  ==, Posbility: 0.0071
+Next Token :  #, Posbility: 0.0059
+Next Token :  , Posbility: 0.0035
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9774
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+
+---------------------------
+Next Token : ', Posbility: 0.9492
+Next Token : 'm, Posbility: 0.0128
+Next Token : 't, Posbility: 0.0072
+Next Token : '', Posbility: 0.0063
+Next Token : 's, Posbility: 0.0046
+Choose : ',  Posbility: 0.9492
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'
+---------------------------
+Next Token : a, Posbility: 0.7940
+Next Token :  a, Posbility: 0.0889
+Next Token : ae, Posbility: 0.0253
+Next Token : abc, Posbility: 0.0156
+Next Token :   , Posbility: 0.0069
+Choose : a,  Posbility: 0.7940
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a
+---------------------------
+Next Token :  b, Posbility: 0.6056
+Next Token : :, Posbility: 0.3052
+Next Token : ,, Posbility: 0.0106
+Next Token :   , Posbility: 0.0104
+Next Token :  :, Posbility: 0.0072
+Choose :  b,  Posbility: 0.6056
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b
+---------------------------
+Next Token :  c, Posbility: 0.9870
+Next Token : c, Posbility: 0.0043
+Next Token :  cd, Posbility: 0.0025
+Next Token :   , Posbility: 0.0015
+Next Token : :, Posbility: 0.0010
+Choose :  c,  Posbility: 0.9870
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c
+---------------------------
+Next Token :  d, Posbility: 0.9155
+Next Token :   , Posbility: 0.0263
+Next Token :  de, Posbility: 0.0169
+Next Token : ', Posbility: 0.0048
+Next Token :  ', Posbility: 0.0042
+Choose :  d,  Posbility: 0.9155
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d
+---------------------------
+Next Token :  e, Posbility: 0.9110
+Next Token :  f, Posbility: 0.0211
+Next Token : ', Posbility: 0.0206
+Next Token :   , Posbility: 0.0076
+Next Token : ;, Posbility: 0.0027
+Choose :  e,  Posbility: 0.9110
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e
+---------------------------
+Next Token :  f, Posbility: 0.9876
+Next Token :   , Posbility: 0.0024
+Next Token :  g, Posbility: 0.0016
+Next Token : ', Posbility: 0.0014
+Next Token : f, Posbility: 0.0013
+Choose :  f,  Posbility: 0.9876
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f
+---------------------------
+Next Token :  g, Posbility: 0.9528
+Next Token :  h, Posbility: 0.0069
+Next Token : ', Posbility: 0.0059
+Next Token :   , Posbility: 0.0040
+Next Token :  m, Posbility: 0.0035
+Choose :  g,  Posbility: 0.9528
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g
+---------------------------
+Next Token :  h, Posbility: 0.9924
+Next Token :  i, Posbility: 0.0016
+Next Token : ', Posbility: 0.0009
+Next Token :  l, Posbility: 0.0007
+Next Token :  m, Posbility: 0.0005
+Choose :  h,  Posbility: 0.9924
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h
+---------------------------
+Next Token :  i, Posbility: 0.9905
+Next Token : i, Posbility: 0.0015
+Next Token : ', Posbility: 0.0015
+Next Token :  j, Posbility: 0.0008
+Next Token :  u, Posbility: 0.0005
+Choose :  i,  Posbility: 0.9905
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i
+---------------------------
+Next Token :  j, Posbility: 0.9967
+Next Token : j, Posbility: 0.0009
+Next Token :  i, Posbility: 0.0007
+Next Token : ', Posbility: 0.0002
+Next Token :  l, Posbility: 0.0002
+Choose :  j,  Posbility: 0.9967
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j
+---------------------------
+Next Token :  k, Posbility: 0.9617
+Next Token : ', Posbility: 0.0124
+Next Token :  m, Posbility: 0.0101
+Next Token :  i, Posbility: 0.0030
+Next Token :  l, Posbility: 0.0017
+Choose :  k,  Posbility: 0.9617
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k
+---------------------------
+Next Token :  l, Posbility: 0.9751
+Next Token : ', Posbility: 0.0119
+Next Token :  ll, Posbility: 0.0028
+Next Token :  m, Posbility: 0.0025
+Next Token :  ', Posbility: 0.0018
+Choose :  l,  Posbility: 0.9751
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l
+---------------------------
+Next Token :  m, Posbility: 0.9949
+Next Token : ', Posbility: 0.0014
+Next Token : m, Posbility: 0.0004
+Next Token :  l, Posbility: 0.0003
+Next Token :  r, Posbility: 0.0003
+Choose :  m,  Posbility: 0.9949
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m
+---------------------------
+Next Token :  n, Posbility: 0.9884
+Next Token : ', Posbility: 0.0027
+Next Token :  o, Posbility: 0.0027
+Next Token :  no, Posbility: 0.0018
+Next Token :  i, Posbility: 0.0006
+Choose :  n,  Posbility: 0.9884
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n
+---------------------------
+Next Token :  o, Posbility: 0.9964
+Next Token :  i, Posbility: 0.0008
+Next Token : ', Posbility: 0.0007
+Next Token :  x, Posbility: 0.0003
+Next Token :  p, Posbility: 0.0002
+Choose :  o,  Posbility: 0.9964
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o
+---------------------------
+Next Token :  p, Posbility: 0.9970
+Next Token : ', Posbility: 0.0006
+Next Token :  q, Posbility: 0.0006
+Next Token :  r, Posbility: 0.0004
+Next Token :  w, Posbility: 0.0001
+Choose :  p,  Posbility: 0.9970
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p
+---------------------------
+Next Token :  q, Posbility: 0.9876
+Next Token : q, Posbility: 0.0064
+Next Token :  qu, Posbility: 0.0012
+Next Token :  u, Posbility: 0.0009
+Next Token :  t, Posbility: 0.0005
+Choose :  q,  Posbility: 0.9876
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q
+---------------------------
+Next Token :  r, Posbility: 0.9909
+Next Token : ', Posbility: 0.0020
+Next Token :  s, Posbility: 0.0014
+Next Token :  w, Posbility: 0.0009
+Next Token : r, Posbility: 0.0008
+Choose :  r,  Posbility: 0.9909
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r
+---------------------------
+Next Token :  s, Posbility: 0.9445
+Next Token :  t, Posbility: 0.0136
+Next Token :  a, Posbility: 0.0063
+Next Token :   , Posbility: 0.0035
+Next Token :  st, Posbility: 0.0033
+Choose :  s,  Posbility: 0.9445
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s
+---------------------------
+Next Token :  t, Posbility: 0.9613
+Next Token : ', Posbility: 0.0211
+Next Token :  u, Posbility: 0.0024
+Next Token :  x, Posbility: 0.0015
+Next Token :  ty, Posbility: 0.0008
+Choose :  t,  Posbility: 0.9613
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t
+---------------------------
+Next Token :  u, Posbility: 0.9887
+Next Token : ', Posbility: 0.0046
+Next Token :  v, Posbility: 0.0012
+Next Token :  ', Posbility: 0.0005
+Next Token :  i, Posbility: 0.0004
+Choose :  u,  Posbility: 0.9887
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u
+---------------------------
+Next Token :  v, Posbility: 0.9938
+Next Token :  w, Posbility: 0.0033
+Next Token : ', Posbility: 0.0004
+Next Token :  u, Posbility: 0.0004
+Next Token :  x, Posbility: 0.0003
+Choose :  v,  Posbility: 0.9938
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v
+---------------------------
+Next Token :  w, Posbility: 0.9910
+Next Token :  x, Posbility: 0.0041
+Next Token : ', Posbility: 0.0025
+Next Token : w, Posbility: 0.0003
+Next Token :  e, Posbility: 0.0002
+Choose :  w,  Posbility: 0.9910
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w
+---------------------------
+Next Token :  x, Posbility: 0.9906
+Next Token : ', Posbility: 0.0049
+Next Token : x, Posbility: 0.0010
+Next Token :  ', Posbility: 0.0007
+Next Token :  y, Posbility: 0.0005
+Choose :  x,  Posbility: 0.9906
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x
+---------------------------
+Next Token :  y, Posbility: 0.9905
+Next Token : ', Posbility: 0.0036
+Next Token :  x, Posbility: 0.0024
+Next Token :  z, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0003
+Choose :  y,  Posbility: 0.9905
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y
+---------------------------
+Next Token :  z, Posbility: 0.9753
+Next Token : ', Posbility: 0.0179
+Next Token :  x, Posbility: 0.0018
+Next Token :  y, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0009
+Choose :  z,  Posbility: 0.9753
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z
+---------------------------
+Next Token : ', Posbility: 0.8912
+Next Token : 
+, Posbility: 0.0506
+Next Token :  ', Posbility: 0.0197
+Next Token : '., Posbility: 0.0164
+Next Token :  a, Posbility: 0.0032
+Choose : ',  Posbility: 0.8912
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z'
+---------------------------
+Next Token : 
+, Posbility: 0.9921
+Next Token :  ', Posbility: 0.0026
+Next Token : 
+
+, Posbility: 0.0020
+Next Token : '', Posbility: 0.0015
+Next Token :  , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9921
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z'
+
+---------------------------
+Next Token : '', Posbility: 0.4996
+Next Token : >>>, Posbility: 0.2891
+Next Token : 
+, Posbility: 0.1503
+Next Token :     , Posbility: 0.0098
+Next Token : Note, Posbility: 0.0049
+Choose : '',  Posbility: 0.4996
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z'
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : `, Posbility: 0.0000
+Next Token : ';, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z'
+'''
+---------------------------
+Next Token : 
+, Posbility: 0.9310
+Next Token : 
+
+, Posbility: 0.0577
+Next Token : def, Posbility: 0.0047
+Next Token :  , Posbility: 0.0028
+Next Token :     , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9310
+---------------------------
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z'
+'''
+
+---------------------------
+Next Token : def, Posbility: 0.8227
+Next Token : 
+, Posbility: 0.1453
+Next Token : #, Posbility: 0.0173
+Next Token : import, Posbility: 0.0048
+Next Token : '', Posbility: 0.0037
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 54.17191553115845
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to replace all occurrences of spaces, commas, or dots with a colon.'''
+def replace_spaces(string):
+    '''Replace all occurrences of spaces, commas, or dots with a colon.
+    >>> replace_spaces("a b c d e f g h i j k l m n o p q r s t u v w x y z")
+    'a:b:c:d:e:f:g:h:i:j:k:l:m:n:o:p:q:r:s:t:u:v:w:x:y:z'
+    '''
+    return string.replace(' ', ':')
+
+
+'''Write a function to remove all whitespace from a string.
+>>> remove_whitespace(' a b c d e f g h i j k l m n o p q r s t u v w x y z')
+'a b c d e f g h i j k l m n o p q r s t u v w x y z'
+'''
+

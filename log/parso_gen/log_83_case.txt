@@ -1,0 +1,645 @@
+<<<<<<<<<<<< 83 problem >>>>>>>>>>>
+
+
+
+
+Next Token : iz, Posbility: 0.2128
+Next Token : 
+, Posbility: 0.1853
+Next Token : ia, Posbility: 0.0553
+Next Token : xt, Posbility: 0.0547
+Next Token : ix, Posbility: 0.0390
+Choose : iz, Posbility: 0.2128
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def iz
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def iz
+---------------------------
+Next Token : zero, Posbility: 0.1601
+Next Token : zer, Posbility: 0.1116
+Next Token : _, Posbility: 0.1039
+Next Token : ze, Posbility: 0.0680
+Next Token : r, Posbility: 0.0475
+Choose : zero, Posbility: 0.1601
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero
+---------------------------
+Next Token : (, Posbility: 0.7067
+Next Token : _, Posbility: 0.1438
+Next Token : ():, Posbility: 0.0445
+Next Token : of, Posbility: 0.0116
+Next Token : Rat, Posbility: 0.0113
+Choose : (, Posbility: 0.7067
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(
+---------------------------
+Next Token : arr, Posbility: 0.4025
+Next Token : n, Posbility: 0.1153
+Next Token : array, Posbility: 0.0999
+Next Token : a, Posbility: 0.0577
+Next Token : num, Posbility: 0.0442
+Choose : arr, Posbility: 0.4025
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr
+---------------------------
+Next Token : ):, Posbility: 0.8895
+Next Token : ,, Posbility: 0.0771
+Next Token : :, Posbility: 0.0183
+Next Token : 1, Posbility: 0.0042
+Next Token : ), Posbility: 0.0036
+Choose : ):, Posbility: 0.8895
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+---------------------------
+Next Token : 
+, Posbility: 0.8947
+Next Token : 
+
+, Posbility: 0.0332
+Next Token :  , Posbility: 0.0287
+Next Token : , Posbility: 0.0278
+Next Token :  #, Posbility: 0.0048
+Choose : 
+, Posbility: 0.8947
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+
+---------------------------
+Next Token :     , Posbility: 0.8608
+Next Token :   , Posbility: 0.0598
+Next Token : 	, Posbility: 0.0592
+Next Token :    , Posbility: 0.0097
+Next Token :         , Posbility: 0.0029
+Choose :     , Posbility: 0.8608
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    
+---------------------------
+Next Token : count, Posbility: 0.0992
+Next Token : #, Posbility: 0.0702
+Next Token : zero, Posbility: 0.0617
+Next Token : non, Posbility: 0.0607
+Next Token : zer, Posbility: 0.0564
+Choose : count, Posbility: 0.0992
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.6834
+Next Token : =, Posbility: 0.1219
+Next Token : _, Posbility: 0.0999
+Next Token : 0, Posbility: 0.0186
+Next Token : Z, Posbility: 0.0113
+Choose :  =, Posbility: 0.6834
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.8910
+Next Token :  {}, Posbility: 0.0200
+Next Token :  1, Posbility: 0.0127
+Next Token :  arr, Posbility: 0.0117
+Next Token :  [, Posbility: 0.0113
+Choose :  0, Posbility: 0.8910
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9444
+Next Token :  , Posbility: 0.0180
+Next Token : 
+
+, Posbility: 0.0144
+Next Token : ;, Posbility: 0.0087
+Next Token :  #, Posbility: 0.0072
+Choose : 
+, Posbility: 0.9444
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9980
+Next Token : 	, Posbility: 0.0006
+Next Token : #, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Choose :     , Posbility: 0.9980
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.5881
+Next Token : zero, Posbility: 0.0427
+Next Token : sum, Posbility: 0.0352
+Next Token : non, Posbility: 0.0307
+Next Token : zer, Posbility: 0.0284
+Choose : for, Posbility: 0.5881
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6886
+Next Token :  x, Posbility: 0.0633
+Next Token :  num, Posbility: 0.0610
+Next Token :  item, Posbility: 0.0255
+Next Token :  n, Posbility: 0.0215
+Choose :  i, Posbility: 0.6886
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9902
+Next Token : ,, Posbility: 0.0091
+Next Token :   , Posbility: 0.0003
+Next Token : 1, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Choose :  in, Posbility: 0.9902
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.6573
+Next Token :  arr, Posbility: 0.3374
+Next Token :  list, Posbility: 0.0008
+Next Token :   , Posbility: 0.0007
+Next Token :  set, Posbility: 0.0005
+Choose :  range, Posbility: 0.6573
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9795
+Next Token :  (, Posbility: 0.0197
+Next Token : ((, Posbility: 0.0003
+Next Token : (-, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0001
+Choose : (, Posbility: 0.9795
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7429
+Next Token : 0, Posbility: 0.2213
+Next Token : 1, Posbility: 0.0188
+Next Token : arr, Posbility: 0.0045
+Next Token : n, Posbility: 0.0017
+Choose : len, Posbility: 0.7429
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token : ((, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : (, Posbility: 0.9998
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9989
+Next Token : str, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : count, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Choose : arr, Posbility: 0.9989
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr
+---------------------------
+Next Token : ), Posbility: 0.9465
+Next Token : )-, Posbility: 0.0504
+Next Token : )), Posbility: 0.0013
+Next Token : [, Posbility: 0.0007
+Next Token : )+, Posbility: 0.0005
+Choose : ), Posbility: 0.9465
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9844
+Next Token :  -, Posbility: 0.0148
+Next Token : //, Posbility: 0.0003
+Next Token :  ):, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0002
+Choose : ):, Posbility: 0.9844
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9859
+Next Token :  , Posbility: 0.0052
+Next Token : 
+
+, Posbility: 0.0029
+Next Token :  #, Posbility: 0.0021
+Next Token :   , Posbility: 0.0010
+Choose : 
+, Posbility: 0.9859
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+
+---------------------------
+Next Token :         , Posbility: 0.9828
+Next Token :       , Posbility: 0.0056
+Next Token :        , Posbility: 0.0039
+Next Token :             , Posbility: 0.0036
+Next Token :          , Posbility: 0.0012
+Choose :         , Posbility: 0.9828
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        
+---------------------------
+Next Token : if, Posbility: 0.9018
+Next Token : count, Posbility: 0.0434
+Next Token : for, Posbility: 0.0273
+Next Token : #, Posbility: 0.0048
+Next Token : try, Posbility: 0.0022
+Choose : if, Posbility: 0.9018
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if
+---------------------------
+Next Token :  arr, Posbility: 0.8951
+Next Token : (, Posbility: 0.0389
+Next Token :  (, Posbility: 0.0285
+Next Token :  not, Posbility: 0.0099
+Next Token :  i, Posbility: 0.0048
+Choose :  arr, Posbility: 0.8951
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr
+---------------------------
+Next Token : [, Posbility: 0.9961
+Next Token :  [, Posbility: 0.0021
+Next Token : ., Posbility: 0.0015
+Next Token :  ==, Posbility: 0.0002
+Next Token : :, Posbility: 0.0000
+Choose : [, Posbility: 0.9961
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[
+---------------------------
+Next Token : i, Posbility: 0.9979
+Next Token : count, Posbility: 0.0012
+Next Token : 0, Posbility: 0.0004
+Next Token : len, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : i, Posbility: 0.9979
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9894
+Next Token : ]:, Posbility: 0.0071
+Next Token : ]., Posbility: 0.0015
+Next Token : ][, Posbility: 0.0010
+Next Token : ]+, Posbility: 0.0002
+Choose : ], Posbility: 0.9894
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i]
+---------------------------
+Next Token :  ==, Posbility: 0.7065
+Next Token : !=, Posbility: 0.1016
+Next Token : ==, Posbility: 0.0819
+Next Token :  %, Posbility: 0.0513
+Next Token : %, Posbility: 0.0264
+Choose :  ==, Posbility: 0.7065
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] ==
+---------------------------
+Next Token :  0, Posbility: 0.9733
+Next Token :  ', Posbility: 0.0112
+Next Token :  1, Posbility: 0.0043
+Next Token : 0, Posbility: 0.0035
+Next Token :  ", Posbility: 0.0031
+Choose :  0, Posbility: 0.9733
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0
+---------------------------
+Next Token : :, Posbility: 0.9782
+Next Token :  :, Posbility: 0.0090
+Next Token :  and, Posbility: 0.0076
+Next Token :  or, Posbility: 0.0039
+Next Token : ., Posbility: 0.0008
+Choose : :, Posbility: 0.9782
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9682
+Next Token :  count, Posbility: 0.0194
+Next Token :  , Posbility: 0.0070
+Next Token : count, Posbility: 0.0014
+Next Token :  #, Posbility: 0.0011
+Choose : 
+, Posbility: 0.9682
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+
+---------------------------
+Next Token :             , Posbility: 0.9915
+Next Token :            , Posbility: 0.0047
+Next Token :           , Posbility: 0.0011
+Next Token :              , Posbility: 0.0010
+Next Token :                 , Posbility: 0.0009
+Choose :             , Posbility: 0.9915
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            
+---------------------------
+Next Token : count, Posbility: 0.9602
+Next Token : arr, Posbility: 0.0240
+Next Token : continue, Posbility: 0.0043
+Next Token : if, Posbility: 0.0031
+Next Token : print, Posbility: 0.0014
+Choose : count, Posbility: 0.9602
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count
+---------------------------
+Next Token :  +=, Posbility: 0.7764
+Next Token :  =, Posbility: 0.1236
+Next Token : +=, Posbility: 0.0948
+Next Token : =, Posbility: 0.0021
+Next Token :  -=, Posbility: 0.0017
+Choose :  +=, Posbility: 0.7764
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count +=
+---------------------------
+Next Token :  1, Posbility: 0.9406
+Next Token : 1, Posbility: 0.0458
+Next Token :  arr, Posbility: 0.0067
+Next Token :  0, Posbility: 0.0016
+Next Token :  2, Posbility: 0.0013
+Choose :  1, Posbility: 0.9406
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9377
+Next Token : 
+
+, Posbility: 0.0454
+Next Token :  , Posbility: 0.0085
+Next Token :  #, Posbility: 0.0016
+Next Token :     , Posbility: 0.0013
+Choose : 
+, Posbility: 0.9377
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.7755
+Next Token :         , Posbility: 0.1745
+Next Token :             , Posbility: 0.0459
+Next Token : #, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0005
+Choose :     , Posbility: 0.7755
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.6821
+Next Token : print, Posbility: 0.0737
+Next Token : if, Posbility: 0.0568
+Next Token : 
+, Posbility: 0.0468
+Next Token : for, Posbility: 0.0209
+Choose : return, Posbility: 0.6821
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.7752
+Next Token :  (, Posbility: 0.1022
+Next Token :  round, Posbility: 0.0349
+Next Token :  int, Posbility: 0.0246
+Next Token :  float, Posbility: 0.0172
+Choose :  count, Posbility: 0.7752
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count
+---------------------------
+Next Token : /, Posbility: 0.6426
+Next Token :  /, Posbility: 0.2366
+Next Token : 
+, Posbility: 0.0606
+Next Token : 
+
+, Posbility: 0.0171
+Next Token : /(, Posbility: 0.0125
+Choose : /, Posbility: 0.6426
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count/
+---------------------------
+Next Token : len, Posbility: 0.9514
+Next Token : float, Posbility: 0.0180
+Next Token :  len, Posbility: 0.0076
+Next Token : arr, Posbility: 0.0075
+Next Token : sum, Posbility: 0.0066
+Choose : len, Posbility: 0.9514
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count/len
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token : ([, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Next Token : (), Posbility: 0.0001
+Choose : (, Posbility: 0.9995
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count/len(
+---------------------------
+Next Token : arr, Posbility: 0.9992
+Next Token : count, Posbility: 0.0002
+Next Token : set, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Choose : arr, Posbility: 0.9992
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count/len(arr
+---------------------------
+Next Token : ), Posbility: 0.9880
+Next Token : )*, Posbility: 0.0091
+Next Token : )-, Posbility: 0.0011
+Next Token : ),, Posbility: 0.0006
+Next Token : )/, Posbility: 0.0004
+Choose : ), Posbility: 0.9880
+---------------------------
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count/len(arr)
+---------------------------
+Next Token : 
+, Posbility: 0.7725
+Next Token : 
+
+, Posbility: 0.1625
+Next Token : <|endoftext|>, Posbility: 0.0298
+Next Token :  , Posbility: 0.0117
+Next Token :     , Posbility: 0.0047
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.515033960342407
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the ratio of zeroes to non-zeroes in an array of integers.'''
+def izzero(arr):
+    count = 0
+    for i in range(len(arr)):
+        if arr[i] == 0:
+            count += 1
+    return count/len(arr)
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

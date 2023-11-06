@@ -1,0 +1,2644 @@
+<<<<<<<<<<<< 175 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.2107
+Next Token :  largest, Posbility: 0.1625
+Next Token :  select, Posbility: 0.0726
+Next Token :  selection, Posbility: 0.0666
+Next Token :  max, Posbility: 0.0639
+Choose :  find,  Posbility: 0.2107
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.6797
+Next Token : L, Posbility: 0.1491
+Next Token : Max, Posbility: 0.0480
+Next Token : (, Posbility: 0.0146
+Next Token : Pro, Posbility: 0.0068
+Choose : _,  Posbility: 0.6797
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_
+---------------------------
+Next Token : largest, Posbility: 0.2711
+Next Token : max, Posbility: 0.1721
+Next Token : l, Posbility: 0.0642
+Next Token : product, Posbility: 0.0385
+Next Token : most, Posbility: 0.0282
+Choose : largest,  Posbility: 0.2711
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest
+---------------------------
+Next Token : _, Posbility: 0.8102
+Next Token : (, Posbility: 0.1803
+Next Token : ():, Posbility: 0.0041
+Next Token : 2, Posbility: 0.0009
+Next Token : 1, Posbility: 0.0006
+Choose : _,  Posbility: 0.8102
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_
+---------------------------
+Next Token : product, Posbility: 0.5551
+Next Token : pro, Posbility: 0.0913
+Next Token : products, Posbility: 0.0877
+Next Token : number, Posbility: 0.0359
+Next Token : factor, Posbility: 0.0150
+Choose : product,  Posbility: 0.5551
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product
+---------------------------
+Next Token : (, Posbility: 0.7699
+Next Token : _, Posbility: 0.1897
+Next Token : ():, Posbility: 0.0226
+Next Token : (*, Posbility: 0.0055
+Next Token : 2, Posbility: 0.0027
+Choose : (,  Posbility: 0.7699
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(
+---------------------------
+Next Token : list, Posbility: 0.2225
+Next Token : a, Posbility: 0.1239
+Next Token : l, Posbility: 0.1140
+Next Token : num, Posbility: 0.1019
+Next Token : n, Posbility: 0.0630
+Choose : list,  Posbility: 0.2225
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list
+---------------------------
+Next Token : 1, Posbility: 0.7293
+Next Token : _, Posbility: 0.2160
+Next Token : A, Posbility: 0.0145
+Next Token : a, Posbility: 0.0140
+Next Token : ,, Posbility: 0.0129
+Choose : 1,  Posbility: 0.7293
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1
+---------------------------
+Next Token : ,, Posbility: 0.9750
+Next Token : :, Posbility: 0.0130
+Next Token : _, Posbility: 0.0032
+Next Token : ):, Posbility: 0.0031
+Next Token : ,, Posbility: 0.0018
+Choose : ,,  Posbility: 0.9750
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1,
+---------------------------
+Next Token :  list, Posbility: 0.7985
+Next Token : list, Posbility: 0.1697
+Next Token :  n, Posbility: 0.0036
+Next Token :  num, Posbility: 0.0033
+Next Token :  number, Posbility: 0.0026
+Choose :  list,  Posbility: 0.7985
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list
+---------------------------
+Next Token : 2, Posbility: 0.9984
+Next Token : _, Posbility: 0.0008
+Next Token : 1, Posbility: 0.0006
+Next Token : 3, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2
+---------------------------
+Next Token : ):, Posbility: 0.8297
+Next Token : ,, Posbility: 0.1655
+Next Token : ), Posbility: 0.0022
+Next Token : =, Posbility: 0.0012
+Next Token :  ):, Posbility: 0.0005
+Choose : ):,  Posbility: 0.8297
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+---------------------------
+Next Token : 
+, Posbility: 0.9188
+Next Token : 
+
+, Posbility: 0.0443
+Next Token : , Posbility: 0.0161
+Next Token :  , Posbility: 0.0100
+Next Token :   , Posbility: 0.0035
+Choose : 
+,  Posbility: 0.9188
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+
+---------------------------
+Next Token :     , Posbility: 0.9525
+Next Token :   , Posbility: 0.0184
+Next Token : 	, Posbility: 0.0169
+Next Token :         , Posbility: 0.0052
+Next Token :    , Posbility: 0.0027
+Choose :     ,  Posbility: 0.9525
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    
+---------------------------
+Next Token : '', Posbility: 0.1248
+Next Token : #, Posbility: 0.1000
+Next Token : list, Posbility: 0.0733
+Next Token : if, Posbility: 0.0586
+Next Token : largest, Posbility: 0.0481
+Choose : '',  Posbility: 0.1248
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '/, Posbility: 0.0001
+Next Token : '", Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1418
+Next Token : Find, Posbility: 0.1387
+Next Token : find, Posbility: 0.0523
+Next Token : Write, Posbility: 0.0521
+Next Token : Function, Posbility: 0.0504
+Choose : 
+,  Posbility: 0.1418
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9158
+Next Token :         , Posbility: 0.0598
+Next Token :      , Posbility: 0.0044
+Next Token :        , Posbility: 0.0039
+Next Token :       , Posbility: 0.0037
+Choose :     ,  Posbility: 0.9158
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    
+---------------------------
+Next Token : list, Posbility: 0.0782
+Next Token : :, Posbility: 0.0750
+Next Token : This, Posbility: 0.0618
+Next Token : Find, Posbility: 0.0484
+Next Token : Input, Posbility: 0.0428
+Choose : list,  Posbility: 0.0782
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list
+---------------------------
+Next Token : 1, Posbility: 0.9596
+Next Token : 2, Posbility: 0.0110
+Next Token : _, Posbility: 0.0108
+Next Token :  1, Posbility: 0.0039
+Next Token : :, Posbility: 0.0016
+Choose : 1,  Posbility: 0.9596
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1
+---------------------------
+Next Token : :, Posbility: 0.4210
+Next Token :  =, Posbility: 0.1740
+Next Token :  :, Posbility: 0.1109
+Next Token : ,, Posbility: 0.0531
+Next Token :  is, Posbility: 0.0384
+Choose : :,  Posbility: 0.4210
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1:
+---------------------------
+Next Token :  list, Posbility: 0.2300
+Next Token :  List, Posbility: 0.1201
+Next Token :  first, Posbility: 0.1198
+Next Token :  a, Posbility: 0.0729
+Next Token :  the, Posbility: 0.0446
+Choose :  list,  Posbility: 0.2300
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list
+---------------------------
+Next Token :  of, Posbility: 0.7218
+Next Token :  containing, Posbility: 0.0474
+Next Token :  with, Posbility: 0.0366
+Next Token :  to, Posbility: 0.0231
+Next Token : 1, Posbility: 0.0221
+Choose :  of,  Posbility: 0.7218
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of
+---------------------------
+Next Token :  numbers, Posbility: 0.3371
+Next Token :  integers, Posbility: 0.1149
+Next Token :  first, Posbility: 0.0365
+Next Token :  elements, Posbility: 0.0354
+Next Token :  int, Posbility: 0.0331
+Choose :  numbers,  Posbility: 0.3371
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+---------------------------
+Next Token : 
+, Posbility: 0.6139
+Next Token : ., Posbility: 0.0471
+Next Token :  to, Posbility: 0.0352
+Next Token : ,, Posbility: 0.0329
+Next Token :  , Posbility: 0.0261
+Choose : 
+,  Posbility: 0.6139
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+
+---------------------------
+Next Token :     , Posbility: 0.9736
+Next Token :         , Posbility: 0.0189
+Next Token :             , Posbility: 0.0028
+Next Token :        , Posbility: 0.0009
+Next Token :                 , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9736
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    
+---------------------------
+Next Token : list, Posbility: 0.9763
+Next Token : '', Posbility: 0.0031
+Next Token : List, Posbility: 0.0029
+Next Token : n, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0010
+Choose : list,  Posbility: 0.9763
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list
+---------------------------
+Next Token : 2, Posbility: 0.9937
+Next Token : 1, Posbility: 0.0044
+Next Token :  2, Posbility: 0.0009
+Next Token : _, Posbility: 0.0004
+Next Token : :, Posbility: 0.0001
+Choose : 2,  Posbility: 0.9937
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2
+---------------------------
+Next Token : :, Posbility: 0.9952
+Next Token :  :, Posbility: 0.0020
+Next Token : ,, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0003
+Next Token :  (, Posbility: 0.0003
+Choose : :,  Posbility: 0.9952
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2:
+---------------------------
+Next Token :  list, Posbility: 0.9175
+Next Token :  numbers, Posbility: 0.0129
+Next Token :  second, Posbility: 0.0057
+Next Token :  a, Posbility: 0.0056
+Next Token :  another, Posbility: 0.0046
+Choose :  list,  Posbility: 0.9175
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list
+---------------------------
+Next Token :  of, Posbility: 0.9872
+Next Token :  with, Posbility: 0.0039
+Next Token :  containing, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0006
+Next Token :  that, Posbility: 0.0006
+Choose :  of,  Posbility: 0.9872
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of
+---------------------------
+Next Token :  numbers, Posbility: 0.8740
+Next Token :  integers, Posbility: 0.0216
+Next Token :  number, Posbility: 0.0140
+Next Token :  strings, Posbility: 0.0059
+Next Token :  lists, Posbility: 0.0044
+Choose :  numbers,  Posbility: 0.8740
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+---------------------------
+Next Token : 
+, Posbility: 0.8191
+Next Token : 
+
+, Posbility: 0.0962
+Next Token : '', Posbility: 0.0207
+Next Token :  , Posbility: 0.0108
+Next Token : ,, Posbility: 0.0088
+Choose : 
+,  Posbility: 0.8191
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+
+---------------------------
+Next Token :     , Posbility: 0.9936
+Next Token :         , Posbility: 0.0041
+Next Token :    , Posbility: 0.0003
+Next Token :  , Posbility: 0.0003
+Next Token : 	, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9936
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    
+---------------------------
+Next Token : return, Posbility: 0.3276
+Next Token : '', Posbility: 0.3203
+Next Token : 
+, Posbility: 0.0741
+Next Token : Returns, Posbility: 0.0394
+Next Token : Return, Posbility: 0.0292
+Choose : return,  Posbility: 0.3276
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return
+---------------------------
+Next Token : :, Posbility: 0.4466
+Next Token : s, Posbility: 0.4432
+Next Token :  the, Posbility: 0.0225
+Next Token :  largest, Posbility: 0.0150
+Next Token :  list, Posbility: 0.0145
+Choose : :,  Posbility: 0.4466
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return:
+---------------------------
+Next Token :  the, Posbility: 0.2751
+Next Token :  largest, Posbility: 0.1831
+Next Token :  list, Posbility: 0.1030
+Next Token :  a, Posbility: 0.0480
+Next Token :  product, Posbility: 0.0314
+Choose :  the,  Posbility: 0.2751
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the
+---------------------------
+Next Token :  largest, Posbility: 0.3837
+Next Token :  number, Posbility: 0.1330
+Next Token :  maximum, Posbility: 0.0790
+Next Token :  product, Posbility: 0.0691
+Next Token :  index, Posbility: 0.0433
+Choose :  largest,  Posbility: 0.3837
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest
+---------------------------
+Next Token :  product, Posbility: 0.7292
+Next Token :  number, Posbility: 0.1815
+Next Token :  of, Posbility: 0.0165
+Next Token :  products, Posbility: 0.0082
+Next Token :  sum, Posbility: 0.0044
+Choose :  product,  Posbility: 0.7292
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product
+---------------------------
+Next Token :  of, Posbility: 0.2653
+Next Token :  from, Posbility: 0.2239
+Next Token : 
+, Posbility: 0.1342
+Next Token :  in, Posbility: 0.1129
+Next Token :  number, Posbility: 0.0552
+Choose :  of,  Posbility: 0.2653
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of
+---------------------------
+Next Token :  list, Posbility: 0.4114
+Next Token :  the, Posbility: 0.2306
+Next Token :  two, Posbility: 0.1443
+Next Token :  numbers, Posbility: 0.0226
+Next Token :  each, Posbility: 0.0218
+Choose :  list,  Posbility: 0.4114
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list
+---------------------------
+Next Token : 1, Posbility: 0.8899
+Next Token : 2, Posbility: 0.0885
+Next Token :  1, Posbility: 0.0087
+Next Token : 
+, Posbility: 0.0033
+Next Token :  2, Posbility: 0.0012
+Choose : 1,  Posbility: 0.8899
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1
+---------------------------
+Next Token :  and, Posbility: 0.9151
+Next Token : ,, Posbility: 0.0189
+Next Token :  with, Posbility: 0.0132
+Next Token : [, Posbility: 0.0059
+Next Token : 
+, Posbility: 0.0043
+Choose :  and,  Posbility: 0.9151
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and
+---------------------------
+Next Token :  list, Posbility: 0.9925
+Next Token :  the, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Next Token :  its, Posbility: 0.0003
+Choose :  list,  Posbility: 0.9925
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list
+---------------------------
+Next Token : 2, Posbility: 0.9929
+Next Token :  2, Posbility: 0.0053
+Next Token : 1, Posbility: 0.0014
+Next Token : 3, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9929
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+---------------------------
+Next Token : 
+, Posbility: 0.7191
+Next Token : ., Posbility: 0.0594
+Next Token : '', Posbility: 0.0467
+Next Token : ,, Posbility: 0.0416
+Next Token : 
+
+, Posbility: 0.0411
+Choose : 
+,  Posbility: 0.7191
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+
+---------------------------
+Next Token :     , Posbility: 0.9814
+Next Token :         , Posbility: 0.0075
+Next Token :             , Posbility: 0.0055
+Next Token :      , Posbility: 0.0014
+Next Token :              , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9814
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    
+---------------------------
+Next Token : '', Posbility: 0.8716
+Next Token : >>>, Posbility: 0.0305
+Next Token : 
+, Posbility: 0.0092
+Next Token : example, Posbility: 0.0053
+Next Token : Note, Posbility: 0.0045
+Choose : '',  Posbility: 0.8716
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9161
+Next Token : 
+
+, Posbility: 0.0762
+Next Token :  , Posbility: 0.0036
+Next Token :     , Posbility: 0.0017
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9161
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9931
+Next Token :         , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0010
+Next Token : #, Posbility: 0.0008
+Next Token :    , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9931
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    
+---------------------------
+Next Token : #, Posbility: 0.1355
+Next Token : list, Posbility: 0.0786
+Next Token : largest, Posbility: 0.0637
+Next Token : product, Posbility: 0.0597
+Next Token : if, Posbility: 0.0564
+Choose : #,  Posbility: 0.1355
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    #
+---------------------------
+Next Token :  find, Posbility: 0.0327
+Next Token :  create, Posbility: 0.0320
+Next Token :  get, Posbility: 0.0298
+Next Token :  Write, Posbility: 0.0190
+Next Token :  initialize, Posbility: 0.0184
+Choose :  find,  Posbility: 0.0327
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find
+---------------------------
+Next Token :  the, Posbility: 0.6598
+Next Token :  largest, Posbility: 0.0615
+Next Token :  max, Posbility: 0.0280
+Next Token :  product, Posbility: 0.0264
+Next Token :  all, Posbility: 0.0188
+Choose :  the,  Posbility: 0.6598
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the
+---------------------------
+Next Token :  largest, Posbility: 0.2717
+Next Token :  product, Posbility: 0.0956
+Next Token :  max, Posbility: 0.0752
+Next Token :  maximum, Posbility: 0.0734
+Next Token :  first, Posbility: 0.0513
+Choose :  largest,  Posbility: 0.2717
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest
+---------------------------
+Next Token :  product, Posbility: 0.5697
+Next Token :  number, Posbility: 0.1401
+Next Token :  of, Posbility: 0.0635
+Next Token : 
+, Posbility: 0.0332
+Next Token :  element, Posbility: 0.0239
+Choose :  product,  Posbility: 0.5697
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product
+---------------------------
+Next Token :  of, Posbility: 0.3246
+Next Token : 
+, Posbility: 0.2406
+Next Token :  from, Posbility: 0.1360
+Next Token :  in, Posbility: 0.1020
+Next Token :  using, Posbility: 0.0180
+Choose :  of,  Posbility: 0.3246
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of
+---------------------------
+Next Token :  list, Posbility: 0.3782
+Next Token :  two, Posbility: 0.1603
+Next Token :  the, Posbility: 0.1504
+Next Token :  each, Posbility: 0.0902
+Next Token :  both, Posbility: 0.0283
+Choose :  list,  Posbility: 0.3782
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list
+---------------------------
+Next Token : 1, Posbility: 0.9039
+Next Token : 2, Posbility: 0.0573
+Next Token :  1, Posbility: 0.0192
+Next Token : 
+, Posbility: 0.0076
+Next Token :  2, Posbility: 0.0018
+Choose : 1,  Posbility: 0.9039
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1
+---------------------------
+Next Token :  and, Posbility: 0.8405
+Next Token : 
+, Posbility: 0.0890
+Next Token : ,, Posbility: 0.0120
+Next Token :  with, Posbility: 0.0090
+Next Token :  &, Posbility: 0.0052
+Choose :  and,  Posbility: 0.8405
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and
+---------------------------
+Next Token :  list, Posbility: 0.9858
+Next Token :  the, Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0007
+Next Token :  all, Posbility: 0.0006
+Next Token :   , Posbility: 0.0006
+Choose :  list,  Posbility: 0.9858
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list
+---------------------------
+Next Token : 2, Posbility: 0.9808
+Next Token :  2, Posbility: 0.0174
+Next Token : 1, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0002
+Next Token : 3, Posbility: 0.0002
+Choose : 2,  Posbility: 0.9808
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+---------------------------
+Next Token : 
+, Posbility: 0.8256
+Next Token :  using, Posbility: 0.0242
+Next Token : ., Posbility: 0.0193
+Next Token : ,, Posbility: 0.0169
+Next Token :  and, Posbility: 0.0149
+Choose : 
+,  Posbility: 0.8256
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+
+---------------------------
+Next Token :     , Posbility: 0.9978
+Next Token :         , Posbility: 0.0008
+Next Token : 	, Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9978
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    
+---------------------------
+Next Token : largest, Posbility: 0.1322
+Next Token : #, Posbility: 0.1315
+Next Token : max, Posbility: 0.1247
+Next Token : list, Posbility: 0.1190
+Next Token : product, Posbility: 0.0868
+Choose : largest,  Posbility: 0.1322
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest
+---------------------------
+Next Token : _, Posbility: 0.7705
+Next Token :  =, Posbility: 0.1768
+Next Token : Product, Posbility: 0.0194
+Next Token : 1, Posbility: 0.0062
+Next Token : Pro, Posbility: 0.0060
+Choose : _,  Posbility: 0.7705
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_
+---------------------------
+Next Token : product, Posbility: 0.8648
+Next Token : pro, Posbility: 0.0699
+Next Token : num, Posbility: 0.0091
+Next Token : list, Posbility: 0.0083
+Next Token : p, Posbility: 0.0052
+Choose : product,  Posbility: 0.8648
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product
+---------------------------
+Next Token :  =, Posbility: 0.8778
+Next Token : _, Posbility: 0.0810
+Next Token : =, Posbility: 0.0199
+Next Token : 1, Posbility: 0.0149
+Next Token : ,, Posbility: 0.0033
+Choose :  =,  Posbility: 0.8778
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product =
+---------------------------
+Next Token :  max, Posbility: 0.3388
+Next Token :  0, Posbility: 0.3115
+Next Token :  list, Posbility: 0.1017
+Next Token :  -, Posbility: 0.0582
+Next Token :  [], Posbility: 0.0294
+Choose :  max,  Posbility: 0.3388
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max
+---------------------------
+Next Token : (, Posbility: 0.9138
+Next Token : ([, Posbility: 0.0650
+Next Token : _, Posbility: 0.0147
+Next Token : ((, Posbility: 0.0022
+Next Token :  (, Posbility: 0.0018
+Choose : (,  Posbility: 0.9138
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(
+---------------------------
+Next Token : list, Posbility: 0.9253
+Next Token : map, Posbility: 0.0419
+Next Token : max, Posbility: 0.0039
+Next Token : len, Posbility: 0.0032
+Next Token : set, Posbility: 0.0028
+Choose : list,  Posbility: 0.9253
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list
+---------------------------
+Next Token : 1, Posbility: 0.9673
+Next Token : 2, Posbility: 0.0150
+Next Token : (, Posbility: 0.0141
+Next Token : _, Posbility: 0.0019
+Next Token : ([, Posbility: 0.0005
+Choose : 1,  Posbility: 0.9673
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1
+---------------------------
+Next Token : ), Posbility: 0.5369
+Next Token :  +, Posbility: 0.1825
+Next Token : [, Posbility: 0.1069
+Next Token : ,, Posbility: 0.0870
+Next Token : +, Posbility: 0.0419
+Choose : ),  Posbility: 0.5369
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1)
+---------------------------
+Next Token :  +, Posbility: 0.5588
+Next Token :  *, Posbility: 0.2637
+Next Token : 
+, Posbility: 0.1441
+Next Token : 
+
+, Posbility: 0.0082
+Next Token :  #, Posbility: 0.0063
+Choose :  +,  Posbility: 0.5588
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) +
+---------------------------
+Next Token :  max, Posbility: 0.9422
+Next Token :  min, Posbility: 0.0446
+Next Token :  list, Posbility: 0.0057
+Next Token :  sum, Posbility: 0.0013
+Next Token :   , Posbility: 0.0013
+Choose :  max,  Posbility: 0.9422
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max
+---------------------------
+Next Token : (, Posbility: 0.9994
+Next Token :  (, Posbility: 0.0003
+Next Token : ([, Posbility: 0.0002
+Next Token : _, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(
+---------------------------
+Next Token : list, Posbility: 0.9998
+Next Token :  list, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : map, Posbility: 0.0000
+Next Token : int, Posbility: 0.0000
+Choose : list,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list
+---------------------------
+Next Token : 2, Posbility: 0.9979
+Next Token : 1, Posbility: 0.0020
+Next Token : _, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token :  2, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9979
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2
+---------------------------
+Next Token : ), Posbility: 0.9967
+Next Token : )*, Posbility: 0.0014
+Next Token : )[, Posbility: 0.0005
+Next Token : );, Posbility: 0.0003
+Next Token : [, Posbility: 0.0003
+Choose : ),  Posbility: 0.9967
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+---------------------------
+Next Token : 
+, Posbility: 0.7937
+Next Token : 
+
+, Posbility: 0.1773
+Next Token :  , Posbility: 0.0109
+Next Token :  #, Posbility: 0.0070
+Next Token :   , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.7937
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+
+---------------------------
+Next Token :     , Posbility: 0.9914
+Next Token :         , Posbility: 0.0039
+Next Token :  , Posbility: 0.0010
+Next Token :    , Posbility: 0.0008
+Next Token :   , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9914
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    
+---------------------------
+Next Token : #, Posbility: 0.6556
+Next Token : for, Posbility: 0.0958
+Next Token : 
+, Posbility: 0.0640
+Next Token : print, Posbility: 0.0245
+Next Token : list, Posbility: 0.0226
+Choose : #,  Posbility: 0.6556
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    #
+---------------------------
+Next Token :  find, Posbility: 0.3500
+Next Token :  iter, Posbility: 0.0823
+Next Token :  select, Posbility: 0.0379
+Next Token :  get, Posbility: 0.0360
+Next Token :  loop, Posbility: 0.0267
+Choose :  find,  Posbility: 0.3500
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find
+---------------------------
+Next Token :  the, Posbility: 0.7656
+Next Token :  which, Posbility: 0.0544
+Next Token :  all, Posbility: 0.0224
+Next Token :  index, Posbility: 0.0151
+Next Token :  number, Posbility: 0.0144
+Choose :  the,  Posbility: 0.7656
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the
+---------------------------
+Next Token :  index, Posbility: 0.2349
+Next Token :  smallest, Posbility: 0.1206
+Next Token :  number, Posbility: 0.1138
+Next Token :  product, Posbility: 0.0722
+Next Token :  factor, Posbility: 0.0715
+Choose :  index,  Posbility: 0.2349
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index
+---------------------------
+Next Token :  of, Posbility: 0.8166
+Next Token :  in, Posbility: 0.0372
+Next Token :  number, Posbility: 0.0254
+Next Token :  position, Posbility: 0.0159
+Next Token :  where, Posbility: 0.0154
+Choose :  of,  Posbility: 0.8166
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of
+---------------------------
+Next Token :  largest, Posbility: 0.4525
+Next Token :  the, Posbility: 0.3892
+Next Token :  list, Posbility: 0.0356
+Next Token :  product, Posbility: 0.0228
+Next Token :  that, Posbility: 0.0192
+Choose :  largest,  Posbility: 0.4525
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest
+---------------------------
+Next Token :  product, Posbility: 0.9788
+Next Token : _, Posbility: 0.0043
+Next Token :  products, Posbility: 0.0024
+Next Token :  prod, Posbility: 0.0022
+Next Token :  number, Posbility: 0.0021
+Choose :  product,  Posbility: 0.9788
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+---------------------------
+Next Token : 
+, Posbility: 0.5969
+Next Token :  in, Posbility: 0.2313
+Next Token :  of, Posbility: 0.0607
+Next Token :  from, Posbility: 0.0273
+Next Token :  and, Posbility: 0.0156
+Choose : 
+,  Posbility: 0.5969
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+
+---------------------------
+Next Token :     , Posbility: 0.9994
+Next Token :         , Posbility: 0.0003
+Next Token : #, Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token :      , Posbility: 0.0000
+Choose :     ,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    
+---------------------------
+Next Token : index, Posbility: 0.3982
+Next Token : for, Posbility: 0.1807
+Next Token : largest, Posbility: 0.1047
+Next Token : #, Posbility: 0.0470
+Next Token : id, Posbility: 0.0341
+Choose : index,  Posbility: 0.3982
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index
+---------------------------
+Next Token :  =, Posbility: 0.5592
+Next Token : _, Posbility: 0.3803
+Next Token : 1, Posbility: 0.0341
+Next Token : es, Posbility: 0.0100
+Next Token : Of, Posbility: 0.0022
+Choose :  =,  Posbility: 0.5592
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index =
+---------------------------
+Next Token :  list, Posbility: 0.8890
+Next Token :  0, Posbility: 0.0331
+Next Token :  [, Posbility: 0.0169
+Next Token :  -, Posbility: 0.0102
+Next Token :  [], Posbility: 0.0079
+Choose :  list,  Posbility: 0.8890
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list
+---------------------------
+Next Token : 1, Posbility: 0.9582
+Next Token : 2, Posbility: 0.0326
+Next Token : (, Posbility: 0.0061
+Next Token : ., Posbility: 0.0011
+Next Token : _, Posbility: 0.0010
+Choose : 1,  Posbility: 0.9582
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1
+---------------------------
+Next Token : ., Posbility: 0.9968
+Next Token : [, Posbility: 0.0020
+Next Token :  +, Posbility: 0.0005
+Next Token :  if, Posbility: 0.0003
+Next Token :  ==, Posbility: 0.0001
+Choose : .,  Posbility: 0.9968
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.
+---------------------------
+Next Token : index, Posbility: 0.9990
+Next Token : count, Posbility: 0.0005
+Next Token : find, Posbility: 0.0002
+Next Token :  index, Posbility: 0.0001
+Next Token : copy, Posbility: 0.0000
+Choose : index,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token :  (, Posbility: 0.0002
+Next Token : (), Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Choose : (,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(
+---------------------------
+Next Token : largest, Posbility: 0.9813
+Next Token : max, Posbility: 0.0106
+Next Token : list, Posbility: 0.0040
+Next Token : str, Posbility: 0.0007
+Next Token : int, Posbility: 0.0005
+Choose : largest,  Posbility: 0.9813
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : ), Posbility: 0.0001
+Next Token : =, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_
+---------------------------
+Next Token : product, Posbility: 0.9999
+Next Token : pro, Posbility: 0.0000
+Next Token : price, Posbility: 0.0000
+Next Token : profit, Posbility: 0.0000
+Next Token : products, Posbility: 0.0000
+Choose : product,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product
+---------------------------
+Next Token : ), Posbility: 0.9981
+Next Token : )+, Posbility: 0.0011
+Next Token : ,, Posbility: 0.0003
+Next Token : );, Posbility: 0.0001
+Next Token : ),, Posbility: 0.0001
+Choose : ),  Posbility: 0.9981
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+---------------------------
+Next Token : 
+, Posbility: 0.7931
+Next Token :  +, Posbility: 0.1248
+Next Token : 
+
+, Posbility: 0.0631
+Next Token :  , Posbility: 0.0050
+Next Token :  *, Posbility: 0.0043
+Choose : 
+,  Posbility: 0.7931
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+
+---------------------------
+Next Token :     , Posbility: 0.9968
+Next Token : #, Posbility: 0.0010
+Next Token :    , Posbility: 0.0005
+Next Token :         , Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9968
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    
+---------------------------
+Next Token : #, Posbility: 0.7523
+Next Token : return, Posbility: 0.1532
+Next Token : print, Posbility: 0.0162
+Next Token : 
+, Posbility: 0.0122
+Next Token : if, Posbility: 0.0117
+Choose : #,  Posbility: 0.7523
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    #
+---------------------------
+Next Token :  return, Posbility: 0.2541
+Next Token :  find, Posbility: 0.1290
+Next Token :  select, Posbility: 0.1210
+Next Token :  remove, Posbility: 0.0369
+Next Token :  print, Posbility: 0.0197
+Choose :  return,  Posbility: 0.2541
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return
+---------------------------
+Next Token :  the, Posbility: 0.6774
+Next Token :  largest, Posbility: 0.1428
+Next Token :  list, Posbility: 0.0254
+Next Token :  product, Posbility: 0.0232
+Next Token :  index, Posbility: 0.0215
+Choose :  the,  Posbility: 0.6774
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the
+---------------------------
+Next Token :  largest, Posbility: 0.2987
+Next Token :  index, Posbility: 0.2690
+Next Token :  product, Posbility: 0.1806
+Next Token :  list, Posbility: 0.0381
+Next Token :  number, Posbility: 0.0264
+Choose :  largest,  Posbility: 0.2987
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest
+---------------------------
+Next Token :  product, Posbility: 0.9768
+Next Token :  number, Posbility: 0.0035
+Next Token : _, Posbility: 0.0026
+Next Token : 
+, Posbility: 0.0018
+Next Token :  products, Posbility: 0.0014
+Choose :  product,  Posbility: 0.9768
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+---------------------------
+Next Token : 
+, Posbility: 0.6320
+Next Token :  of, Posbility: 0.1971
+Next Token :  and, Posbility: 0.0266
+Next Token :  from, Posbility: 0.0246
+Next Token :  as, Posbility: 0.0125
+Choose : 
+,  Posbility: 0.6320
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+
+---------------------------
+Next Token :     , Posbility: 0.9998
+Next Token :    , Posbility: 0.0001
+Next Token :         , Posbility: 0.0000
+Next Token : #, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose :     ,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    
+---------------------------
+Next Token : return, Posbility: 0.9795
+Next Token : print, Posbility: 0.0058
+Next Token : if, Posbility: 0.0056
+Next Token : #, Posbility: 0.0035
+Next Token : list, Posbility: 0.0013
+Choose : return,  Posbility: 0.9795
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return
+---------------------------
+Next Token :  largest, Posbility: 0.7073
+Next Token :  list, Posbility: 0.2136
+Next Token :  index, Posbility: 0.0185
+Next Token :  (, Posbility: 0.0153
+Next Token :  [, Posbility: 0.0110
+Choose :  largest,  Posbility: 0.7073
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : (, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : Product, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_
+---------------------------
+Next Token : product, Posbility: 0.9999
+Next Token : products, Posbility: 0.0000
+Next Token : pro, Posbility: 0.0000
+Next Token : price, Posbility: 0.0000
+Next Token : profit, Posbility: 0.0000
+Choose : product,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product
+---------------------------
+Next Token : ,, Posbility: 0.6182
+Next Token : 
+, Posbility: 0.1903
+Next Token : 
+
+, Posbility: 0.1358
+Next Token :  *, Posbility: 0.0135
+Next Token : <|endoftext|>, Posbility: 0.0130
+Choose : ,,  Posbility: 0.6182
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product,
+---------------------------
+Next Token :  index, Posbility: 0.9392
+Next Token :  list, Posbility: 0.0380
+Next Token : index, Posbility: 0.0106
+Next Token :  [, Posbility: 0.0033
+Next Token :  (, Posbility: 0.0029
+Choose :  index,  Posbility: 0.9392
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+---------------------------
+Next Token : 
+, Posbility: 0.6061
+Next Token : 
+
+, Posbility: 0.3518
+Next Token : <|endoftext|>, Posbility: 0.0117
+Next Token :  , Posbility: 0.0085
+Next Token :  +, Posbility: 0.0076
+Choose : 
+,  Posbility: 0.6061
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+---------------------------
+Next Token : 
+, Posbility: 0.7668
+Next Token :     , Posbility: 0.0896
+Next Token : <|endoftext|>, Posbility: 0.0772
+Next Token : #, Posbility: 0.0254
+Next Token : def, Posbility: 0.0134
+Choose : 
+,  Posbility: 0.7668
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9196
+Next Token : <|endoftext|>, Posbility: 0.0326
+Next Token :     , Posbility: 0.0238
+Next Token : 
+
+, Posbility: 0.0215
+Next Token :         , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9196
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3608
+Next Token : #, Posbility: 0.2055
+Next Token : def, Posbility: 0.1828
+Next Token : if, Posbility: 0.0758
+Next Token : 
+, Posbility: 0.0666
+Choose : '',  Posbility: 0.3608
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7018
+Next Token : 
+, Posbility: 0.1331
+Next Token :  Write, Posbility: 0.0261
+Next Token : Find, Posbility: 0.0104
+Next Token : Test, Posbility: 0.0078
+Choose : Write,  Posbility: 0.7018
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9858
+Next Token :  your, Posbility: 0.0044
+Next Token :  an, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0016
+Next Token :  function, Posbility: 0.0015
+Choose :  a,  Posbility: 0.9858
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9265
+Next Token :  program, Posbility: 0.0212
+Next Token :  Python, Posbility: 0.0173
+Next Token :  python, Posbility: 0.0066
+Next Token :  recursive, Posbility: 0.0032
+Choose :  function,  Posbility: 0.9265
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7259
+Next Token :  that, Posbility: 0.1961
+Next Token :  called, Posbility: 0.0167
+Next Token :  which, Posbility: 0.0137
+Next Token :  named, Posbility: 0.0105
+Choose :  to,  Posbility: 0.7259
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2266
+Next Token :  print, Posbility: 0.0762
+Next Token :  return, Posbility: 0.0735
+Next Token :  calculate, Posbility: 0.0448
+Next Token :  sort, Posbility: 0.0420
+Choose :  find,  Posbility: 0.2266
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.8653
+Next Token :  all, Posbility: 0.0213
+Next Token :  a, Posbility: 0.0153
+Next Token :  if, Posbility: 0.0077
+Next Token :  smallest, Posbility: 0.0063
+Choose :  the,  Posbility: 0.8653
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  smallest, Posbility: 0.1468
+Next Token :  specified, Posbility: 0.1031
+Next Token :  number, Posbility: 0.0923
+Next Token :  largest, Posbility: 0.0867
+Next Token :  product, Posbility: 0.0751
+Choose :  smallest,  Posbility: 0.1468
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest
+---------------------------
+Next Token :  number, Posbility: 0.5960
+Next Token :  product, Posbility: 0.1013
+Next Token :  positive, Posbility: 0.0363
+Next Token :  value, Posbility: 0.0307
+Next Token :  possible, Posbility: 0.0237
+Choose :  number,  Posbility: 0.5960
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number
+---------------------------
+Next Token :  of, Posbility: 0.3517
+Next Token :  in, Posbility: 0.3338
+Next Token :  from, Posbility: 0.1549
+Next Token :  among, Posbility: 0.0381
+Next Token :  that, Posbility: 0.0152
+Choose :  of,  Posbility: 0.3517
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of
+---------------------------
+Next Token :  products, Posbility: 0.3064
+Next Token :  largest, Posbility: 0.0935
+Next Token :  smallest, Posbility: 0.0823
+Next Token :  elements, Posbility: 0.0515
+Next Token :  items, Posbility: 0.0315
+Choose :  products,  Posbility: 0.3064
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products
+---------------------------
+Next Token :  from, Posbility: 0.6624
+Next Token :  in, Posbility: 0.0868
+Next Token :  of, Posbility: 0.0482
+Next Token :  that, Posbility: 0.0341
+Next Token :  between, Posbility: 0.0144
+Choose :  from,  Posbility: 0.6624
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from
+---------------------------
+Next Token :  two, Posbility: 0.7843
+Next Token :  a, Posbility: 0.1032
+Next Token :  the, Posbility: 0.0275
+Next Token :  given, Posbility: 0.0167
+Next Token :  list, Posbility: 0.0160
+Choose :  two,  Posbility: 0.7843
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two
+---------------------------
+Next Token :  given, Posbility: 0.8531
+Next Token :  lists, Posbility: 0.1351
+Next Token :  numbers, Posbility: 0.0026
+Next Token :  sets, Posbility: 0.0014
+Next Token :  list, Posbility: 0.0012
+Choose :  given,  Posbility: 0.8531
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given
+---------------------------
+Next Token :  lists, Posbility: 0.9557
+Next Token :  list, Posbility: 0.0209
+Next Token :  numbers, Posbility: 0.0061
+Next Token :  sets, Posbility: 0.0059
+Next Token : 
+, Posbility: 0.0017
+Choose :  lists,  Posbility: 0.9557
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists
+---------------------------
+Next Token : ,, Posbility: 0.6556
+Next Token : .', Posbility: 0.1755
+Next Token : ., Posbility: 0.1093
+Next Token : 
+, Posbility: 0.0134
+Next Token :  of, Posbility: 0.0122
+Choose : ,,  Posbility: 0.6556
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists,
+---------------------------
+Next Token :  selecting, Posbility: 0.7144
+Next Token :  select, Posbility: 0.1358
+Next Token :  choosing, Posbility: 0.0453
+Next Token : 
+, Posbility: 0.0265
+Next Token :  , Posbility: 0.0065
+Choose :  selecting,  Posbility: 0.7144
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting
+---------------------------
+Next Token :  one, Posbility: 0.9421
+Next Token :  the, Posbility: 0.0198
+Next Token :  only, Posbility: 0.0123
+Next Token :  two, Posbility: 0.0041
+Next Token :  both, Posbility: 0.0027
+Choose :  one,  Posbility: 0.9421
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one
+---------------------------
+Next Token :  factor, Posbility: 0.9664
+Next Token : 
+, Posbility: 0.0034
+Next Token :  number, Posbility: 0.0019
+Next Token :  of, Posbility: 0.0019
+Next Token :  from, Posbility: 0.0016
+Choose :  factor,  Posbility: 0.9664
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor
+---------------------------
+Next Token :  from, Posbility: 0.9846
+Next Token : 
+, Posbility: 0.0038
+Next Token : ., Posbility: 0.0018
+Next Token : .', Posbility: 0.0017
+Next Token :  of, Posbility: 0.0016
+Choose :  from,  Posbility: 0.9846
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from
+---------------------------
+Next Token :  each, Posbility: 0.9964
+Next Token :  the, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0004
+Next Token :  both, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0002
+Choose :  each,  Posbility: 0.9964
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from each
+---------------------------
+Next Token :  list, Posbility: 0.9931
+Next Token : ., Posbility: 0.0015
+Next Token :  of, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0011
+Next Token : .', Posbility: 0.0009
+Choose :  list,  Posbility: 0.9931
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from each list
+---------------------------
+Next Token : .', Posbility: 0.9182
+Next Token : ., Posbility: 0.0687
+Next Token : '', Posbility: 0.0071
+Next Token : ,, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0011
+Choose : .',  Posbility: 0.9182
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from each list.'
+---------------------------
+Next Token : '', Posbility: 0.9990
+Next Token : 
+, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : '',  Posbility: 0.9990
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from each list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9783
+Next Token : 
+
+, Posbility: 0.0149
+Next Token : def, Posbility: 0.0022
+Next Token :  , Posbility: 0.0020
+Next Token :     , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9783
+---------------------------
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from each list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9645
+Next Token : 
+, Posbility: 0.0245
+Next Token : #, Posbility: 0.0074
+Next Token : '', Posbility: 0.0009
+Next Token : from, Posbility: 0.0008
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 29.24396848678589
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the specified number of largest products from two given lists, selecting one factor from each list.'''
+def find_largest_product(list1, list2):
+    '''
+    list1: list of numbers
+    list2: list of numbers
+    return: the largest product of list1 and list2
+    '''
+    # find the largest product of list1 and list2
+    largest_product = max(list1) + max(list2)
+    # find the index of largest product
+    index = list1.index(largest_product)
+    # return the largest product
+    return largest_product, index
+
+
+'''Write a function to find the smallest number of products from two given lists, selecting one factor from each list.'''
+

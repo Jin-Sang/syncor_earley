@@ -1,0 +1,891 @@
+<<<<<<<<<<<< 103 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  check, Posbility: 0.2252
+Next Token :  same, Posbility: 0.1146
+Next Token :  is, Posbility: 0.0674
+Next Token :  all, Posbility: 0.0550
+Next Token :  tuple, Posbility: 0.0460
+Choose :  check,  Posbility: 0.2252
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check
+---------------------------
+Next Token : _, Posbility: 0.6171
+Next Token : (, Posbility: 0.1747
+Next Token : T, Posbility: 0.0324
+Next Token : Data, Posbility: 0.0231
+Next Token : ():, Posbility: 0.0130
+Choose : _,  Posbility: 0.6171
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_
+---------------------------
+Next Token : t, Posbility: 0.3449
+Next Token : data, Posbility: 0.1066
+Next Token : type, Posbility: 0.0698
+Next Token : all, Posbility: 0.0558
+Next Token : same, Posbility: 0.0441
+Choose : t,  Posbility: 0.3449
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_t
+---------------------------
+Next Token : uple, Posbility: 0.9734
+Next Token : up, Posbility: 0.0165
+Next Token : (, Posbility: 0.0009
+Next Token : ouple, Posbility: 0.0007
+Next Token : _, Posbility: 0.0006
+Choose : uple,  Posbility: 0.9734
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple
+---------------------------
+Next Token : (, Posbility: 0.5559
+Next Token : _, Posbility: 0.3850
+Next Token : ():, Posbility: 0.0403
+Next Token : (*, Posbility: 0.0059
+Next Token :  (, Posbility: 0.0036
+Choose : (,  Posbility: 0.5559
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(
+---------------------------
+Next Token : t, Posbility: 0.7131
+Next Token : data, Posbility: 0.0385
+Next Token : a, Posbility: 0.0271
+Next Token : my, Posbility: 0.0212
+Next Token : x, Posbility: 0.0186
+Choose : t,  Posbility: 0.7131
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(t
+---------------------------
+Next Token : uple, Posbility: 0.4673
+Next Token : ):, Posbility: 0.2196
+Next Token : up, Posbility: 0.2153
+Next Token : ,, Posbility: 0.0278
+Next Token : 1, Posbility: 0.0238
+Choose : uple,  Posbility: 0.4673
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple
+---------------------------
+Next Token : ):, Posbility: 0.4845
+Next Token : _, Posbility: 0.3770
+Next Token : 1, Posbility: 0.0930
+Next Token : ,, Posbility: 0.0212
+Next Token : :, Posbility: 0.0066
+Choose : ):,  Posbility: 0.4845
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+---------------------------
+Next Token : 
+, Posbility: 0.9365
+Next Token : 
+
+, Posbility: 0.0292
+Next Token : , Posbility: 0.0139
+Next Token :  , Posbility: 0.0106
+Next Token :   , Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9365
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+
+---------------------------
+Next Token :     , Posbility: 0.9646
+Next Token :   , Posbility: 0.0161
+Next Token : 	, Posbility: 0.0135
+Next Token :    , Posbility: 0.0030
+Next Token :         , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9646
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    
+---------------------------
+Next Token : for, Posbility: 0.2181
+Next Token : '', Posbility: 0.1911
+Next Token : if, Posbility: 0.1383
+Next Token : #, Posbility: 0.0576
+Next Token : t, Posbility: 0.0373
+Choose : for,  Posbility: 0.2181
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5668
+Next Token :  x, Posbility: 0.0687
+Next Token :  item, Posbility: 0.0581
+Next Token :  element, Posbility: 0.0540
+Next Token :  ele, Posbility: 0.0461
+Choose :  i,  Posbility: 0.5668
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9641
+Next Token : ,, Posbility: 0.0348
+Next Token :   , Posbility: 0.0003
+Next Token : 1, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9641
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in
+---------------------------
+Next Token :  tuple, Posbility: 0.5843
+Next Token :  range, Posbility: 0.4011
+Next Token :  list, Posbility: 0.0037
+Next Token :  t, Posbility: 0.0019
+Next Token :  (, Posbility: 0.0017
+Choose :  tuple,  Posbility: 0.5843
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple
+---------------------------
+Next Token : :, Posbility: 0.9844
+Next Token : [, Posbility: 0.0088
+Next Token :  :, Posbility: 0.0037
+Next Token : ., Posbility: 0.0011
+Next Token : :#, Posbility: 0.0007
+Choose : :,  Posbility: 0.9844
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+---------------------------
+Next Token : 
+, Posbility: 0.9869
+Next Token :  , Posbility: 0.0036
+Next Token :  #, Posbility: 0.0023
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9869
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+
+---------------------------
+Next Token :         , Posbility: 0.9863
+Next Token :             , Posbility: 0.0042
+Next Token :       , Posbility: 0.0034
+Next Token :        , Posbility: 0.0027
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9863
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        
+---------------------------
+Next Token : if, Posbility: 0.7798
+Next Token : for, Posbility: 0.0391
+Next Token : try, Posbility: 0.0306
+Next Token : print, Posbility: 0.0287
+Next Token : #, Posbility: 0.0134
+Choose : if,  Posbility: 0.7798
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if
+---------------------------
+Next Token :  type, Posbility: 0.5810
+Next Token :  is, Posbility: 0.0873
+Next Token :  not, Posbility: 0.0810
+Next Token :  i, Posbility: 0.0727
+Next Token :  tuple, Posbility: 0.0721
+Choose :  type,  Posbility: 0.5810
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type
+---------------------------
+Next Token : (, Posbility: 0.9982
+Next Token :  (, Posbility: 0.0004
+Next Token : _, Posbility: 0.0003
+Next Token :  ==, Posbility: 0.0002
+Next Token :  not, Posbility: 0.0002
+Choose : (,  Posbility: 0.9982
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(
+---------------------------
+Next Token : i, Posbility: 0.9245
+Next Token : t, Posbility: 0.0714
+Next Token : type, Posbility: 0.0018
+Next Token : str, Posbility: 0.0005
+Next Token : list, Posbility: 0.0003
+Choose : i,  Posbility: 0.9245
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i
+---------------------------
+Next Token : ), Posbility: 0.9181
+Next Token : )!, Posbility: 0.0387
+Next Token : )., Posbility: 0.0277
+Next Token : [, Posbility: 0.0129
+Next Token : ., Posbility: 0.0011
+Choose : ),  Posbility: 0.9181
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)
+---------------------------
+Next Token : !=, Posbility: 0.4907
+Next Token :  is, Posbility: 0.2367
+Next Token :  ==, Posbility: 0.1558
+Next Token :  not, Posbility: 0.0449
+Next Token : ==, Posbility: 0.0437
+Choose : !=,  Posbility: 0.4907
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=
+---------------------------
+Next Token : t, Posbility: 0.5696
+Next Token : int, Posbility: 0.1494
+Next Token : type, Posbility: 0.1312
+Next Token : list, Posbility: 0.0480
+Next Token : str, Posbility: 0.0461
+Choose : t,  Posbility: 0.5696
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=t
+---------------------------
+Next Token : uple, Posbility: 0.9999
+Next Token : ., Posbility: 0.0000
+Next Token : up, Posbility: 0.0000
+Next Token : uble, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : uple,  Posbility: 0.9999
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple
+---------------------------
+Next Token : :, Posbility: 0.8919
+Next Token :  and, Posbility: 0.0457
+Next Token :  or, Posbility: 0.0414
+Next Token : [, Posbility: 0.0074
+Next Token : ():, Posbility: 0.0028
+Choose : :,  Posbility: 0.8919
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+---------------------------
+Next Token : 
+, Posbility: 0.9782
+Next Token :  return, Posbility: 0.0052
+Next Token :  #, Posbility: 0.0046
+Next Token :  , Posbility: 0.0033
+Next Token : return, Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9782
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+
+---------------------------
+Next Token :             , Posbility: 0.9852
+Next Token :            , Posbility: 0.0063
+Next Token :              , Posbility: 0.0036
+Next Token :                 , Posbility: 0.0018
+Next Token :           , Posbility: 0.0016
+Choose :             ,  Posbility: 0.9852
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            
+---------------------------
+Next Token : return, Posbility: 0.7504
+Next Token : print, Posbility: 0.1727
+Next Token : raise, Posbility: 0.0354
+Next Token : if, Posbility: 0.0107
+Next Token : t, Posbility: 0.0060
+Choose : return,  Posbility: 0.7504
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return
+---------------------------
+Next Token :  False, Posbility: 0.6416
+Next Token :  ', Posbility: 0.0984
+Next Token :  ", Posbility: 0.0927
+Next Token :  f, Posbility: 0.0352
+Next Token :  True, Posbility: 0.0251
+Choose :  False,  Posbility: 0.6416
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+---------------------------
+Next Token : 
+, Posbility: 0.9417
+Next Token : 
+
+, Posbility: 0.0404
+Next Token :  , Posbility: 0.0056
+Next Token : ;, Posbility: 0.0028
+Next Token :  #, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9417
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+
+---------------------------
+Next Token :     , Posbility: 0.7789
+Next Token :         , Posbility: 0.2058
+Next Token : 
+, Posbility: 0.0079
+Next Token :             , Posbility: 0.0038
+Next Token : #, Posbility: 0.0007
+Choose :     ,  Posbility: 0.7789
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    
+---------------------------
+Next Token : return, Posbility: 0.8821
+Next Token : else, Posbility: 0.0793
+Next Token : if, Posbility: 0.0134
+Next Token : 
+, Posbility: 0.0122
+Next Token : for, Posbility: 0.0058
+Choose : return,  Posbility: 0.8821
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return
+---------------------------
+Next Token :  True, Posbility: 0.9842
+Next Token :  tuple, Posbility: 0.0095
+Next Token :  len, Posbility: 0.0012
+Next Token :  all, Posbility: 0.0008
+Next Token : (, Posbility: 0.0007
+Choose :  True,  Posbility: 0.9842
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+---------------------------
+Next Token : 
+, Posbility: 0.7971
+Next Token : 
+
+, Posbility: 0.1509
+Next Token : <|endoftext|>, Posbility: 0.0275
+Next Token :  , Posbility: 0.0099
+Next Token :     , Posbility: 0.0045
+Choose : 
+,  Posbility: 0.7971
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+---------------------------
+Next Token : 
+, Posbility: 0.5675
+Next Token : def, Posbility: 0.0819
+Next Token : #, Posbility: 0.0695
+Next Token :     , Posbility: 0.0514
+Next Token : t, Posbility: 0.0510
+Choose : 
+,  Posbility: 0.5675
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8435
+Next Token : 
+
+, Posbility: 0.0608
+Next Token : <|endoftext|>, Posbility: 0.0555
+Next Token :     , Posbility: 0.0274
+Next Token :  #, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.8435
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5726
+Next Token : #, Posbility: 0.1390
+Next Token : def, Posbility: 0.0768
+Next Token : 
+, Posbility: 0.0552
+Next Token : print, Posbility: 0.0386
+Choose : '',  Posbility: 0.5726
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7392
+Next Token :  Write, Posbility: 0.0244
+Next Token : Check, Posbility: 0.0226
+Next Token : 
+, Posbility: 0.0187
+Next Token : Function, Posbility: 0.0104
+Choose : Write,  Posbility: 0.7392
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9907
+Next Token :  function, Posbility: 0.0022
+Next Token :  your, Posbility: 0.0020
+Next Token :  an, Posbility: 0.0013
+Next Token :  the, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9907
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9474
+Next Token :  Python, Posbility: 0.0121
+Next Token :  program, Posbility: 0.0095
+Next Token :  Function, Posbility: 0.0068
+Next Token :  python, Posbility: 0.0065
+Choose :  function,  Posbility: 0.9474
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7971
+Next Token :  that, Posbility: 0.1440
+Next Token :  which, Posbility: 0.0212
+Next Token :  for, Posbility: 0.0056
+Next Token :  named, Posbility: 0.0052
+Choose :  to,  Posbility: 0.7971
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.2003
+Next Token :  find, Posbility: 0.0883
+Next Token :  print, Posbility: 0.0763
+Next Token :  remove, Posbility: 0.0665
+Next Token :  get, Posbility: 0.0544
+Choose :  check,  Posbility: 0.2003
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check
+---------------------------
+Next Token :  if, Posbility: 0.7583
+Next Token :  whether, Posbility: 0.0573
+Next Token :  the, Posbility: 0.0401
+Next Token :  for, Posbility: 0.0244
+Next Token :  all, Posbility: 0.0203
+Choose :  if,  Posbility: 0.7583
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if
+---------------------------
+Next Token :  all, Posbility: 0.5309
+Next Token :  the, Posbility: 0.1253
+Next Token :  a, Posbility: 0.0622
+Next Token :  any, Posbility: 0.0582
+Next Token :  there, Posbility: 0.0277
+Choose :  all,  Posbility: 0.5309
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all
+---------------------------
+Next Token :  the, Posbility: 0.9208
+Next Token :  elements, Posbility: 0.0238
+Next Token :  values, Posbility: 0.0065
+Next Token :  of, Posbility: 0.0038
+Next Token :  items, Posbility: 0.0027
+Choose :  the,  Posbility: 0.9208
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the
+---------------------------
+Next Token :  elements, Posbility: 0.8278
+Next Token :  items, Posbility: 0.0228
+Next Token :  values, Posbility: 0.0204
+Next Token :  data, Posbility: 0.0168
+Next Token :  numbers, Posbility: 0.0140
+Choose :  elements,  Posbility: 0.8278
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements
+---------------------------
+Next Token :  in, Posbility: 0.8562
+Next Token :  of, Posbility: 0.1110
+Next Token :  are, Posbility: 0.0152
+Next Token :  have, Posbility: 0.0081
+Next Token :  contain, Posbility: 0.0010
+Choose :  in,  Posbility: 0.8562
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in
+---------------------------
+Next Token :  list, Posbility: 0.5498
+Next Token :  dictionary, Posbility: 0.1089
+Next Token :  set, Posbility: 0.0872
+Next Token :  tuple, Posbility: 0.0719
+Next Token :  a, Posbility: 0.0429
+Choose :  list,  Posbility: 0.5498
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list
+---------------------------
+Next Token :  have, Posbility: 0.7844
+Next Token :  are, Posbility: 0.1664
+Next Token :  contain, Posbility: 0.0082
+Next Token :  has, Posbility: 0.0073
+Next Token :  of, Posbility: 0.0059
+Choose :  have,  Posbility: 0.7844
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have
+---------------------------
+Next Token :  same, Posbility: 0.9723
+Next Token :  the, Posbility: 0.0148
+Next Token :  different, Posbility: 0.0024
+Next Token :  unique, Posbility: 0.0023
+Next Token :  data, Posbility: 0.0022
+Choose :  same,  Posbility: 0.9723
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same
+---------------------------
+Next Token :  data, Posbility: 0.9922
+Next Token :  type, Posbility: 0.0026
+Next Token :  size, Posbility: 0.0006
+Next Token :  value, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0004
+Choose :  data,  Posbility: 0.9922
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data
+---------------------------
+Next Token :  type, Posbility: 0.9949
+Next Token :  types, Posbility: 0.0039
+Next Token : Type, Posbility: 0.0002
+Next Token :  Type, Posbility: 0.0001
+Next Token :  or, Posbility: 0.0001
+Choose :  type,  Posbility: 0.9949
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type
+---------------------------
+Next Token :  or, Posbility: 0.9831
+Next Token : .', Posbility: 0.0090
+Next Token : '', Posbility: 0.0032
+Next Token :  ', Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0006
+Choose :  or,  Posbility: 0.9831
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type or
+---------------------------
+Next Token :  not, Posbility: 0.9987
+Next Token : 
+, Posbility: 0.0006
+Next Token :  , Posbility: 0.0003
+Next Token :  no, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  not,  Posbility: 0.9987
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type or not
+---------------------------
+Next Token : .', Posbility: 0.9221
+Next Token : ., Posbility: 0.0479
+Next Token : '', Posbility: 0.0185
+Next Token :  ', Posbility: 0.0014
+Next Token : ,, Posbility: 0.0012
+Choose : .',  Posbility: 0.9221
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type or not.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9658
+Next Token : 
+
+, Posbility: 0.0144
+Next Token : def, Posbility: 0.0070
+Next Token :  , Posbility: 0.0043
+Next Token :     , Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9658
+---------------------------
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9200
+Next Token : 
+, Posbility: 0.0661
+Next Token : #, Posbility: 0.0056
+Next Token : '', Posbility: 0.0020
+Next Token : import, Posbility: 0.0012
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.047294855117798
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check if all the elements in tuple have same data type or not.'''
+def check_tuple(tuple):
+    for i in tuple:
+        if type(i)!=tuple:
+            return False
+    return True
+
+
+'''Write a function to check if all the elements in list have same data type or not.'''
+

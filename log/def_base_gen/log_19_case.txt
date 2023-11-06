@@ -1,0 +1,1277 @@
+<<<<<<<<<<<< 19 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  count, Posbility: 0.4653
+Next Token :  sub, Posbility: 0.1158
+Next Token :  find, Posbility: 0.0209
+Next Token :  subst, Posbility: 0.0186
+Next Token :  num, Posbility: 0.0184
+Choose :  count,  Posbility: 0.4653
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count
+---------------------------
+Next Token : _, Posbility: 0.4792
+Next Token : Sub, Posbility: 0.2975
+Next Token : (, Posbility: 0.1011
+Next Token : sub, Posbility: 0.0101
+Next Token : Dig, Posbility: 0.0083
+Choose : _,  Posbility: 0.4792
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_
+---------------------------
+Next Token : sub, Posbility: 0.6580
+Next Token : dig, Posbility: 0.0727
+Next Token : sum, Posbility: 0.0215
+Next Token : with, Posbility: 0.0128
+Next Token : string, Posbility: 0.0126
+Choose : sub,  Posbility: 0.6580
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_sub
+---------------------------
+Next Token : string, Posbility: 0.4253
+Next Token : strings, Posbility: 0.2518
+Next Token : str, Posbility: 0.1192
+Next Token : _, Posbility: 0.1021
+Next Token : (, Posbility: 0.0404
+Choose : string,  Posbility: 0.4253
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring
+---------------------------
+Next Token : (, Posbility: 0.5798
+Next Token : _, Posbility: 0.4072
+Next Token : ():, Posbility: 0.0020
+Next Token :  (, Posbility: 0.0018
+Next Token : 1, Posbility: 0.0016
+Choose : (,  Posbility: 0.5798
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(
+---------------------------
+Next Token : string, Posbility: 0.5813
+Next Token : s, Posbility: 0.1619
+Next Token : str, Posbility: 0.1371
+Next Token : input, Posbility: 0.0165
+Next Token : text, Posbility: 0.0133
+Choose : string,  Posbility: 0.5813
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string
+---------------------------
+Next Token : ,, Posbility: 0.7290
+Next Token : ):, Posbility: 0.2095
+Next Token : :, Posbility: 0.0200
+Next Token : 1, Posbility: 0.0199
+Next Token : _, Posbility: 0.0178
+Choose : ,,  Posbility: 0.7290
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string,
+---------------------------
+Next Token :  sub, Posbility: 0.3251
+Next Token :  subst, Posbility: 0.0850
+Next Token : sub, Posbility: 0.0809
+Next Token :  n, Posbility: 0.0502
+Next Token :  length, Posbility: 0.0463
+Choose :  sub,  Posbility: 0.3251
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub
+---------------------------
+Next Token : _, Posbility: 0.5367
+Next Token : ):, Posbility: 0.2083
+Next Token : string, Posbility: 0.1292
+Next Token : ,, Posbility: 0.0416
+Next Token : String, Posbility: 0.0264
+Choose : _,  Posbility: 0.5367
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_
+---------------------------
+Next Token : string, Posbility: 0.4529
+Next Token : str, Posbility: 0.1458
+Next Token : sum, Posbility: 0.1319
+Next Token : len, Posbility: 0.0519
+Next Token : length, Posbility: 0.0504
+Choose : string,  Posbility: 0.4529
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string
+---------------------------
+Next Token : ):, Posbility: 0.6937
+Next Token : ,, Posbility: 0.1630
+Next Token : _, Posbility: 0.1373
+Next Token : ), Posbility: 0.0019
+Next Token : 1, Posbility: 0.0012
+Choose : ):,  Posbility: 0.6937
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+---------------------------
+Next Token : 
+, Posbility: 0.9017
+Next Token : 
+
+, Posbility: 0.0506
+Next Token : , Posbility: 0.0258
+Next Token :  , Posbility: 0.0115
+Next Token :  #, Posbility: 0.0032
+Choose : 
+,  Posbility: 0.9017
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+
+---------------------------
+Next Token :     , Posbility: 0.9344
+Next Token :   , Posbility: 0.0271
+Next Token : 	, Posbility: 0.0260
+Next Token :    , Posbility: 0.0043
+Next Token :         , Posbility: 0.0027
+Choose :     ,  Posbility: 0.9344
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    
+---------------------------
+Next Token : count, Posbility: 0.3323
+Next Token : '', Posbility: 0.1148
+Next Token : sub, Posbility: 0.0775
+Next Token : #, Posbility: 0.0529
+Next Token : counter, Posbility: 0.0384
+Choose : count,  Posbility: 0.3323
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.8256
+Next Token : _, Posbility: 0.0798
+Next Token : =, Posbility: 0.0698
+Next Token : s, Posbility: 0.0127
+Next Token : ,, Posbility: 0.0022
+Choose :  =,  Posbility: 0.8256
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9420
+Next Token :  len, Posbility: 0.0082
+Next Token :  1, Posbility: 0.0072
+Next Token : 0, Posbility: 0.0072
+Next Token :  [], Posbility: 0.0067
+Choose :  0,  Posbility: 0.9420
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9187
+Next Token : 
+
+, Posbility: 0.0557
+Next Token :  , Posbility: 0.0133
+Next Token : ;, Posbility: 0.0050
+Next Token :  #, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9187
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9970
+Next Token : 	, Posbility: 0.0007
+Next Token :   , Posbility: 0.0005
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9970
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.5558
+Next Token : sub, Posbility: 0.0342
+Next Token : i, Posbility: 0.0325
+Next Token : length, Posbility: 0.0248
+Next Token : #, Posbility: 0.0247
+Choose : for,  Posbility: 0.5558
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7983
+Next Token :  index, Posbility: 0.0332
+Next Token :  char, Posbility: 0.0328
+Next Token :  letter, Posbility: 0.0194
+Next Token :  x, Posbility: 0.0168
+Choose :  i,  Posbility: 0.7983
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9824
+Next Token : ,, Posbility: 0.0167
+Next Token :   , Posbility: 0.0003
+Next Token : _, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9824
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9703
+Next Token :  string, Posbility: 0.0173
+Next Token :  sub, Posbility: 0.0086
+Next Token :  list, Posbility: 0.0011
+Next Token :  x, Posbility: 0.0004
+Choose :  range,  Posbility: 0.9703
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9824
+Next Token :  (, Posbility: 0.0158
+Next Token : ((, Posbility: 0.0008
+Next Token : (-, Posbility: 0.0008
+Next Token : ():, Posbility: 0.0000
+Choose : (,  Posbility: 0.9824
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7529
+Next Token : 0, Posbility: 0.2302
+Next Token :  len, Posbility: 0.0074
+Next Token : 1, Posbility: 0.0048
+Next Token : int, Posbility: 0.0009
+Choose : len,  Posbility: 0.7529
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token : ((, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : ({, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(
+---------------------------
+Next Token : string, Posbility: 0.9807
+Next Token : sub, Posbility: 0.0170
+Next Token : str, Posbility: 0.0008
+Next Token : s, Posbility: 0.0004
+Next Token : list, Posbility: 0.0004
+Choose : string,  Posbility: 0.9807
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string
+---------------------------
+Next Token : ), Posbility: 0.8183
+Next Token : )-, Posbility: 0.1694
+Next Token : )+, Posbility: 0.0067
+Next Token : )), Posbility: 0.0031
+Next Token : ),, Posbility: 0.0006
+Choose : ),  Posbility: 0.8183
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)
+---------------------------
+Next Token : ):, Posbility: 0.6139
+Next Token :  -, Posbility: 0.3828
+Next Token :  +, Posbility: 0.0025
+Next Token : //, Posbility: 0.0003
+Next Token :  ):, Posbility: 0.0002
+Choose : ):,  Posbility: 0.6139
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+---------------------------
+Next Token : 
+, Posbility: 0.9822
+Next Token : 
+
+, Posbility: 0.0062
+Next Token :  , Posbility: 0.0035
+Next Token :  #, Posbility: 0.0027
+Next Token :   , Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9822
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+
+---------------------------
+Next Token :         , Posbility: 0.9854
+Next Token :       , Posbility: 0.0055
+Next Token :        , Posbility: 0.0028
+Next Token :             , Posbility: 0.0024
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9854
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        
+---------------------------
+Next Token : if, Posbility: 0.5574
+Next Token : for, Posbility: 0.1864
+Next Token : sub, Posbility: 0.0457
+Next Token : count, Posbility: 0.0287
+Next Token : #, Posbility: 0.0181
+Choose : if,  Posbility: 0.5574
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if
+---------------------------
+Next Token :  string, Posbility: 0.7259
+Next Token : (, Posbility: 0.0756
+Next Token :  (, Posbility: 0.0500
+Next Token :  sub, Posbility: 0.0429
+Next Token :  len, Posbility: 0.0220
+Choose :  string,  Posbility: 0.7259
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string
+---------------------------
+Next Token : [, Posbility: 0.9838
+Next Token : ., Posbility: 0.0151
+Next Token :  ==, Posbility: 0.0006
+Next Token :  [, Posbility: 0.0003
+Next Token : ==, Posbility: 0.0001
+Choose : [,  Posbility: 0.9838
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[
+---------------------------
+Next Token : i, Posbility: 0.9935
+Next Token : :, Posbility: 0.0032
+Next Token : 0, Posbility: 0.0024
+Next Token : (, Posbility: 0.0002
+Next Token : len, Posbility: 0.0002
+Choose : i,  Posbility: 0.9935
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i
+---------------------------
+Next Token : :, Posbility: 0.7342
+Next Token : ], Posbility: 0.2305
+Next Token :  :, Posbility: 0.0128
+Next Token : :(, Posbility: 0.0069
+Next Token : :], Posbility: 0.0069
+Choose : :,  Posbility: 0.7342
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:
+---------------------------
+Next Token : i, Posbility: 0.5387
+Next Token : ]., Posbility: 0.3605
+Next Token : len, Posbility: 0.0635
+Next Token :  i, Posbility: 0.0186
+Next Token : ][, Posbility: 0.0063
+Choose : i,  Posbility: 0.5387
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i
+---------------------------
+Next Token : +, Posbility: 0.8257
+Next Token :  +, Posbility: 0.1730
+Next Token : ], Posbility: 0.0005
+Next Token : +(, Posbility: 0.0005
+Next Token : ]., Posbility: 0.0001
+Choose : +,  Posbility: 0.8257
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+
+---------------------------
+Next Token : len, Posbility: 0.9566
+Next Token : sub, Posbility: 0.0267
+Next Token :  len, Posbility: 0.0121
+Next Token : int, Posbility: 0.0018
+Next Token : 3, Posbility: 0.0005
+Choose : len,  Posbility: 0.9566
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len
+---------------------------
+Next Token : (, Posbility: 0.9999
+Next Token : ], Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Choose : (,  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(
+---------------------------
+Next Token : sub, Posbility: 0.9985
+Next Token : str, Posbility: 0.0010
+Next Token : string, Posbility: 0.0002
+Next Token :  sub, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : sub,  Posbility: 0.9985
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub
+---------------------------
+Next Token : _, Posbility: 0.9998
+Next Token : string, Posbility: 0.0001
+Next Token : )], Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : st, Posbility: 0.0000
+Choose : _,  Posbility: 0.9998
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_
+---------------------------
+Next Token : string, Posbility: 0.9989
+Next Token : str, Posbility: 0.0008
+Next Token : word, Posbility: 0.0000
+Next Token : st, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Choose : string,  Posbility: 0.9989
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string
+---------------------------
+Next Token : )], Posbility: 0.9651
+Next Token : )]., Posbility: 0.0307
+Next Token : ), Posbility: 0.0032
+Next Token : )+, Posbility: 0.0004
+Next Token : )-, Posbility: 0.0002
+Choose : )],  Posbility: 0.9651
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)]
+---------------------------
+Next Token :  ==, Posbility: 0.9526
+Next Token : ==, Posbility: 0.0391
+Next Token : !=, Posbility: 0.0033
+Next Token :  in, Posbility: 0.0014
+Next Token :   , Posbility: 0.0009
+Choose :  ==,  Posbility: 0.9526
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] ==
+---------------------------
+Next Token :  sub, Posbility: 0.9928
+Next Token :  str, Posbility: 0.0019
+Next Token :   , Posbility: 0.0012
+Next Token :  subst, Posbility: 0.0008
+Next Token :  list, Posbility: 0.0007
+Choose :  sub,  Posbility: 0.9928
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : :, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : string, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_
+---------------------------
+Next Token : string, Posbility: 0.9992
+Next Token : str, Posbility: 0.0006
+Next Token : sub, Posbility: 0.0000
+Next Token : sequence, Posbility: 0.0000
+Next Token : st, Posbility: 0.0000
+Choose : string,  Posbility: 0.9992
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string
+---------------------------
+Next Token : :, Posbility: 0.9826
+Next Token :  and, Posbility: 0.0060
+Next Token :  :, Posbility: 0.0030
+Next Token : [, Posbility: 0.0018
+Next Token : ., Posbility: 0.0017
+Choose : :,  Posbility: 0.9826
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+---------------------------
+Next Token : 
+, Posbility: 0.9921
+Next Token :  , Posbility: 0.0033
+Next Token :  count, Posbility: 0.0010
+Next Token :   , Posbility: 0.0009
+Next Token :  #, Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9921
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+
+---------------------------
+Next Token :             , Posbility: 0.9925
+Next Token :            , Posbility: 0.0032
+Next Token :                 , Posbility: 0.0013
+Next Token :              , Posbility: 0.0012
+Next Token :           , Posbility: 0.0010
+Choose :             ,  Posbility: 0.9925
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            
+---------------------------
+Next Token : count, Posbility: 0.9894
+Next Token : print, Posbility: 0.0031
+Next Token : if, Posbility: 0.0024
+Next Token : #, Posbility: 0.0014
+Next Token : for, Posbility: 0.0006
+Choose : count,  Posbility: 0.9894
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count
+---------------------------
+Next Token :  +=, Posbility: 0.7785
+Next Token :  =, Posbility: 0.1292
+Next Token : +=, Posbility: 0.0881
+Next Token : =, Posbility: 0.0029
+Next Token :   , Posbility: 0.0004
+Choose :  +=,  Posbility: 0.7785
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count +=
+---------------------------
+Next Token :  1, Posbility: 0.9284
+Next Token : 1, Posbility: 0.0645
+Next Token :  len, Posbility: 0.0031
+Next Token :  i, Posbility: 0.0022
+Next Token :  (, Posbility: 0.0005
+Choose :  1,  Posbility: 0.9284
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9316
+Next Token : 
+
+, Posbility: 0.0557
+Next Token :  , Posbility: 0.0055
+Next Token :     , Posbility: 0.0016
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9316
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.9331
+Next Token :         , Posbility: 0.0464
+Next Token :             , Posbility: 0.0181
+Next Token : 
+, Posbility: 0.0004
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9331
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.9244
+Next Token : print, Posbility: 0.0521
+Next Token : 
+, Posbility: 0.0152
+Next Token : #, Posbility: 0.0031
+Next Token : if, Posbility: 0.0026
+Choose : return,  Posbility: 0.9244
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9778
+Next Token : (, Posbility: 0.0109
+Next Token :  (, Posbility: 0.0055
+Next Token :  print, Posbility: 0.0015
+Next Token :  str, Posbility: 0.0010
+Choose :  count,  Posbility: 0.9778
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7535
+Next Token : 
+
+, Posbility: 0.2085
+Next Token :  , Posbility: 0.0144
+Next Token : <|endoftext|>, Posbility: 0.0125
+Next Token :     , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.7535
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+---------------------------
+Next Token : 
+, Posbility: 0.7812
+Next Token : print, Posbility: 0.0520
+Next Token :     , Posbility: 0.0362
+Next Token : <|endoftext|>, Posbility: 0.0186
+Next Token : #, Posbility: 0.0186
+Choose : 
+,  Posbility: 0.7812
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9638
+Next Token : 
+
+, Posbility: 0.0161
+Next Token :     , Posbility: 0.0098
+Next Token : <|endoftext|>, Posbility: 0.0067
+Next Token :         , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9638
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4661
+Next Token : def, Posbility: 0.1295
+Next Token : #, Posbility: 0.0963
+Next Token : print, Posbility: 0.0796
+Next Token : if, Posbility: 0.0642
+Choose : '',  Posbility: 0.4661
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8099
+Next Token :  Write, Posbility: 0.0315
+Next Token : 
+, Posbility: 0.0254
+Next Token : Count, Posbility: 0.0054
+Next Token : Given, Posbility: 0.0051
+Choose : Write,  Posbility: 0.8099
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9902
+Next Token :  your, Posbility: 0.0038
+Next Token :  an, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0009
+Next Token :  another, Posbility: 0.0004
+Choose :  a,  Posbility: 0.9902
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9478
+Next Token :  function, Posbility: 0.0210
+Next Token :  Python, Posbility: 0.0210
+Next Token :  program, Posbility: 0.0024
+Next Token :  recursive, Posbility: 0.0011
+Choose :  python,  Posbility: 0.9478
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9699
+Next Token :  program, Posbility: 0.0176
+Next Token :  script, Posbility: 0.0019
+Next Token :  fun, Posbility: 0.0017
+Next Token :  code, Posbility: 0.0010
+Choose :  function,  Posbility: 0.9699
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8361
+Next Token :  that, Posbility: 0.1200
+Next Token :  which, Posbility: 0.0147
+Next Token :  for, Posbility: 0.0036
+Next Token :  called, Posbility: 0.0025
+Choose :  to,  Posbility: 0.8361
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.1645
+Next Token :  count, Posbility: 0.1577
+Next Token :  check, Posbility: 0.1253
+Next Token :  print, Posbility: 0.0813
+Next Token :  get, Posbility: 0.0459
+Choose :  find,  Posbility: 0.1645
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.7469
+Next Token :  all, Posbility: 0.0521
+Next Token :  out, Posbility: 0.0322
+Next Token :  a, Posbility: 0.0225
+Next Token :  and, Posbility: 0.0145
+Choose :  the,  Posbility: 0.7469
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  number, Posbility: 0.1816
+Next Token :  longest, Posbility: 0.1472
+Next Token :  maximum, Posbility: 0.0635
+Next Token :  length, Posbility: 0.0575
+Next Token :  sum, Posbility: 0.0446
+Choose :  number,  Posbility: 0.1816
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number
+---------------------------
+Next Token :  of, Posbility: 0.9852
+Next Token :  with, Posbility: 0.0024
+Next Token :  in, Posbility: 0.0017
+Next Token :  which, Posbility: 0.0006
+Next Token :  that, Posbility: 0.0005
+Choose :  of,  Posbility: 0.9852
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of
+---------------------------
+Next Token :  sub, Posbility: 0.1132
+Next Token :  occurrences, Posbility: 0.0675
+Next Token :  words, Posbility: 0.0469
+Next Token :  vow, Posbility: 0.0453
+Next Token :  distinct, Posbility: 0.0448
+Choose :  sub,  Posbility: 0.1132
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of sub
+---------------------------
+Next Token : strings, Posbility: 0.9608
+Next Token : -, Posbility: 0.0161
+Next Token :  strings, Posbility: 0.0085
+Next Token : arr, Posbility: 0.0049
+Next Token : lists, Posbility: 0.0009
+Choose : strings,  Posbility: 0.9608
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings
+---------------------------
+Next Token :  with, Posbility: 0.4566
+Next Token :  that, Posbility: 0.0944
+Next Token :  in, Posbility: 0.0774
+Next Token :  of, Posbility: 0.0691
+Next Token :  where, Posbility: 0.0375
+Choose :  with,  Posbility: 0.4566
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with
+---------------------------
+Next Token :  the, Posbility: 0.7550
+Next Token :  their, Posbility: 0.0509
+Next Token :  a, Posbility: 0.0267
+Next Token :  length, Posbility: 0.0110
+Next Token :  even, Posbility: 0.0097
+Choose :  the,  Posbility: 0.7550
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the
+---------------------------
+Next Token :  sum, Posbility: 0.3945
+Next Token :  length, Posbility: 0.0912
+Next Token :  given, Posbility: 0.0599
+Next Token :  number, Posbility: 0.0521
+Next Token :  maximum, Posbility: 0.0483
+Choose :  sum,  Posbility: 0.3945
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum
+---------------------------
+Next Token :  of, Posbility: 0.9905
+Next Token :  equal, Posbility: 0.0022
+Next Token : 
+, Posbility: 0.0009
+Next Token :  in, Posbility: 0.0005
+Next Token :  greater, Posbility: 0.0004
+Choose :  of,  Posbility: 0.9905
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of
+---------------------------
+Next Token :  digits, Posbility: 0.6794
+Next Token :  the, Posbility: 0.0702
+Next Token :  their, Posbility: 0.0297
+Next Token :  consecutive, Posbility: 0.0259
+Next Token :  length, Posbility: 0.0165
+Choose :  digits,  Posbility: 0.6794
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits
+---------------------------
+Next Token :  equal, Posbility: 0.6469
+Next Token :  of, Posbility: 0.0924
+Next Token :  that, Posbility: 0.0359
+Next Token :  in, Posbility: 0.0220
+Next Token :  greater, Posbility: 0.0211
+Choose :  equal,  Posbility: 0.6469
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal
+---------------------------
+Next Token :  to, Posbility: 0.9673
+Next Token :  or, Posbility: 0.0149
+Next Token : 
+, Posbility: 0.0062
+Next Token :  , Posbility: 0.0019
+Next Token :  the, Posbility: 0.0011
+Choose :  to,  Posbility: 0.9673
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to
+---------------------------
+Next Token :  their, Posbility: 0.4611
+Next Token :  the, Posbility: 0.2428
+Next Token :  its, Posbility: 0.0728
+Next Token :  a, Posbility: 0.0345
+Next Token :  or, Posbility: 0.0285
+Choose :  their,  Posbility: 0.4611
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to their
+---------------------------
+Next Token :  length, Posbility: 0.9422
+Next Token :  lengths, Posbility: 0.0136
+Next Token :  , Posbility: 0.0025
+Next Token :  number, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0019
+Choose :  length,  Posbility: 0.9422
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to their length
+---------------------------
+Next Token : .', Posbility: 0.5295
+Next Token : ., Posbility: 0.1549
+Next Token :  and, Posbility: 0.0408
+Next Token :  in, Posbility: 0.0403
+Next Token : ,, Posbility: 0.0232
+Choose : .',  Posbility: 0.5295
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to their length.'
+---------------------------
+Next Token : '', Posbility: 0.9988
+Next Token : 
+, Posbility: 0.0006
+Next Token :  ', Posbility: 0.0003
+Next Token : ., Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9988
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to their length.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9277
+Next Token : 
+
+, Posbility: 0.0561
+Next Token : def, Posbility: 0.0082
+Next Token :  , Posbility: 0.0032
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9277
+---------------------------
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to their length.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9336
+Next Token : 
+, Posbility: 0.0477
+Next Token : #, Posbility: 0.0084
+Next Token : from, Posbility: 0.0016
+Next Token : import, Posbility: 0.0016
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 13.50870418548584
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to count the number of substrings with the sum of digits equal to their length.'''
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:i+len(sub_string)] == sub_string:
+            count += 1
+    return count
+
+
+'''Write a python function to find the number of substrings with the sum of digits equal to their length.'''
+

@@ -1,0 +1,962 @@
+<<<<<<<<<<<< 248 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  count, Posbility: 0.3478
+Next Token :  upper, Posbility: 0.3460
+Next Token :  u, Posbility: 0.0783
+Next Token :  Upper, Posbility: 0.0136
+Next Token :  U, Posbility: 0.0115
+Choose :  count,  Posbility: 0.3478
+'''Write a python function to count the upper case characters in a given string.'''
+def count
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count
+---------------------------
+Next Token : _, Posbility: 0.5114
+Next Token : U, Posbility: 0.3510
+Next Token : (, Posbility: 0.0297
+Next Token : upper, Posbility: 0.0124
+Next Token : C, Posbility: 0.0096
+Choose : _,  Posbility: 0.5114
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_
+---------------------------
+Next Token : upper, Posbility: 0.7445
+Next Token : upp, Posbility: 0.0668
+Next Token : ch, Posbility: 0.0355
+Next Token : u, Posbility: 0.0259
+Next Token : up, Posbility: 0.0171
+Choose : upper,  Posbility: 0.7445
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper
+---------------------------
+Next Token : _, Posbility: 0.5063
+Next Token : (, Posbility: 0.4500
+Next Token : ():, Posbility: 0.0122
+Next Token : case, Posbility: 0.0121
+Next Token : c, Posbility: 0.0060
+Choose : _,  Posbility: 0.5063
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_
+---------------------------
+Next Token : case, Posbility: 0.6292
+Next Token : ch, Posbility: 0.1134
+Next Token : char, Posbility: 0.0998
+Next Token : c, Posbility: 0.0491
+Next Token : cases, Posbility: 0.0272
+Choose : case,  Posbility: 0.6292
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case
+---------------------------
+Next Token : (, Posbility: 0.8634
+Next Token : _, Posbility: 0.1233
+Next Token : ():, Posbility: 0.0061
+Next Token :  (, Posbility: 0.0032
+Next Token : 1, Posbility: 0.0019
+Choose : (,  Posbility: 0.8634
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(
+---------------------------
+Next Token : string, Posbility: 0.3209
+Next Token : str, Posbility: 0.2647
+Next Token : s, Posbility: 0.1028
+Next Token : text, Posbility: 0.0579
+Next Token : input, Posbility: 0.0502
+Choose : string,  Posbility: 0.3209
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string
+---------------------------
+Next Token : ):, Posbility: 0.9615
+Next Token : :, Posbility: 0.0139
+Next Token : _, Posbility: 0.0117
+Next Token : ,, Posbility: 0.0063
+Next Token : 1, Posbility: 0.0024
+Choose : ):,  Posbility: 0.9615
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9057
+Next Token : 
+
+, Posbility: 0.0397
+Next Token : , Posbility: 0.0325
+Next Token :  , Posbility: 0.0146
+Next Token :   , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9057
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+
+---------------------------
+Next Token :     , Posbility: 0.8976
+Next Token :   , Posbility: 0.0445
+Next Token : 	, Posbility: 0.0426
+Next Token :    , Posbility: 0.0094
+Next Token :  , Posbility: 0.0012
+Choose :     ,  Posbility: 0.8976
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    
+---------------------------
+Next Token : count, Posbility: 0.2511
+Next Token : '', Posbility: 0.2121
+Next Token : upper, Posbility: 0.1155
+Next Token : return, Posbility: 0.0670
+Next Token : #, Posbility: 0.0455
+Choose : count,  Posbility: 0.2511
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.7052
+Next Token : =, Posbility: 0.1349
+Next Token : _, Posbility: 0.1340
+Next Token : s, Posbility: 0.0121
+Next Token : 1, Posbility: 0.0020
+Choose :  =,  Posbility: 0.7052
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9272
+Next Token :  string, Posbility: 0.0201
+Next Token :  {}, Posbility: 0.0136
+Next Token : 0, Posbility: 0.0089
+Next Token :  len, Posbility: 0.0042
+Choose :  0,  Posbility: 0.9272
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9514
+Next Token : 
+
+, Posbility: 0.0261
+Next Token :  , Posbility: 0.0119
+Next Token : ;, Posbility: 0.0038
+Next Token :  #, Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9514
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9983
+Next Token : 	, Posbility: 0.0004
+Next Token :    , Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9983
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.8868
+Next Token : if, Posbility: 0.0105
+Next Token : string, Posbility: 0.0103
+Next Token : #, Posbility: 0.0094
+Next Token : 
+, Posbility: 0.0092
+Choose : for,  Posbility: 0.8868
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4894
+Next Token :  char, Posbility: 0.2169
+Next Token :  letter, Posbility: 0.0919
+Next Token :  c, Posbility: 0.0382
+Next Token :  ch, Posbility: 0.0284
+Choose :  i,  Posbility: 0.4894
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9954
+Next Token : ,, Posbility: 0.0040
+Next Token :   , Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9954
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in
+---------------------------
+Next Token :  string, Posbility: 0.7355
+Next Token :  range, Posbility: 0.2526
+Next Token :  list, Posbility: 0.0046
+Next Token :  str, Posbility: 0.0030
+Next Token :  (, Posbility: 0.0008
+Choose :  string,  Posbility: 0.7355
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string
+---------------------------
+Next Token : :, Posbility: 0.9215
+Next Token : ., Posbility: 0.0736
+Next Token :  :, Posbility: 0.0038
+Next Token : [, Posbility: 0.0007
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9215
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+---------------------------
+Next Token : 
+, Posbility: 0.9862
+Next Token :  , Posbility: 0.0058
+Next Token : 
+
+, Posbility: 0.0032
+Next Token :  #, Posbility: 0.0016
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9862
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+
+---------------------------
+Next Token :         , Posbility: 0.9796
+Next Token :       , Posbility: 0.0084
+Next Token :        , Posbility: 0.0042
+Next Token :             , Posbility: 0.0033
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9796
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        
+---------------------------
+Next Token : if, Posbility: 0.9862
+Next Token : count, Posbility: 0.0032
+Next Token : #, Posbility: 0.0024
+Next Token : for, Posbility: 0.0011
+Next Token : print, Posbility: 0.0010
+Choose : if,  Posbility: 0.9862
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.8905
+Next Token : (, Posbility: 0.0431
+Next Token :  ord, Posbility: 0.0252
+Next Token :  (, Posbility: 0.0238
+Next Token :  type, Posbility: 0.0027
+Choose :  i,  Posbility: 0.8905
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i
+---------------------------
+Next Token : ., Posbility: 0.9447
+Next Token :  ==, Posbility: 0.0298
+Next Token :  in, Posbility: 0.0085
+Next Token :  >=, Posbility: 0.0056
+Next Token : ==, Posbility: 0.0035
+Choose : .,  Posbility: 0.9447
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.
+---------------------------
+Next Token : is, Posbility: 0.9295
+Next Token : upper, Posbility: 0.0367
+Next Token : isl, Posbility: 0.0249
+Next Token : lower, Posbility: 0.0029
+Next Token : case, Posbility: 0.0019
+Choose : is,  Posbility: 0.9295
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.is
+---------------------------
+Next Token : upper, Posbility: 0.9909
+Next Token : alpha, Posbility: 0.0086
+Next Token : as, Posbility: 0.0002
+Next Token : U, Posbility: 0.0001
+Next Token : lower, Posbility: 0.0000
+Choose : upper,  Posbility: 0.9909
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper
+---------------------------
+Next Token : ():, Posbility: 0.9878
+Next Token : (), Posbility: 0.0099
+Next Token : :, Posbility: 0.0019
+Next Token :  ==, Posbility: 0.0001
+Next Token : ()., Posbility: 0.0001
+Choose : ():,  Posbility: 0.9878
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+---------------------------
+Next Token : 
+, Posbility: 0.9887
+Next Token :  count, Posbility: 0.0045
+Next Token :  , Posbility: 0.0029
+Next Token :   , Posbility: 0.0006
+Next Token :  #, Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9887
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+
+---------------------------
+Next Token :             , Posbility: 0.9887
+Next Token :            , Posbility: 0.0068
+Next Token :           , Posbility: 0.0016
+Next Token :              , Posbility: 0.0011
+Next Token :                 , Posbility: 0.0009
+Choose :             ,  Posbility: 0.9887
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            
+---------------------------
+Next Token : count, Posbility: 0.9922
+Next Token : if, Posbility: 0.0034
+Next Token : print, Posbility: 0.0017
+Next Token : #, Posbility: 0.0007
+Next Token : continue, Posbility: 0.0003
+Choose : count,  Posbility: 0.9922
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count
+---------------------------
+Next Token :  +=, Posbility: 0.7615
+Next Token : +=, Posbility: 0.1267
+Next Token :  =, Posbility: 0.1049
+Next Token : =, Posbility: 0.0056
+Next Token : +, Posbility: 0.0003
+Choose :  +=,  Posbility: 0.7615
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count +=
+---------------------------
+Next Token :  1, Posbility: 0.9360
+Next Token : 1, Posbility: 0.0557
+Next Token :  string, Posbility: 0.0063
+Next Token :  i, Posbility: 0.0008
+Next Token :  str, Posbility: 0.0002
+Choose :  1,  Posbility: 0.9360
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9433
+Next Token : 
+
+, Posbility: 0.0456
+Next Token :  , Posbility: 0.0055
+Next Token :     , Posbility: 0.0013
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9433
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.9552
+Next Token :         , Posbility: 0.0330
+Next Token :             , Posbility: 0.0093
+Next Token : 
+, Posbility: 0.0005
+Next Token : print, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9552
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8070
+Next Token : print, Posbility: 0.1648
+Next Token : 
+, Posbility: 0.0205
+Next Token : #, Posbility: 0.0032
+Next Token : if, Posbility: 0.0009
+Choose : return,  Posbility: 0.8070
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9497
+Next Token : (, Posbility: 0.0191
+Next Token :  print, Posbility: 0.0104
+Next Token :  f, Posbility: 0.0073
+Next Token :  (, Posbility: 0.0069
+Choose :  count,  Posbility: 0.9497
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7713
+Next Token : 
+
+, Posbility: 0.1746
+Next Token : <|endoftext|>, Posbility: 0.0329
+Next Token :  , Posbility: 0.0117
+Next Token :     , Posbility: 0.0017
+Choose : 
+,  Posbility: 0.7713
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+---------------------------
+Next Token : 
+, Posbility: 0.7326
+Next Token : print, Posbility: 0.0890
+Next Token :     , Posbility: 0.0365
+Next Token : #, Posbility: 0.0271
+Next Token : <|endoftext|>, Posbility: 0.0250
+Choose : 
+,  Posbility: 0.7326
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9503
+Next Token : <|endoftext|>, Posbility: 0.0172
+Next Token :     , Posbility: 0.0153
+Next Token : 
+
+, Posbility: 0.0113
+Next Token :         , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9503
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5459
+Next Token : #, Posbility: 0.1376
+Next Token : print, Posbility: 0.0995
+Next Token : def, Posbility: 0.0744
+Next Token : if, Posbility: 0.0515
+Choose : '',  Posbility: 0.5459
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.9056
+Next Token :  Write, Posbility: 0.0228
+Next Token : 
+, Posbility: 0.0130
+Next Token : Count, Posbility: 0.0036
+Next Token : write, Posbility: 0.0030
+Choose : Write,  Posbility: 0.9056
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9935
+Next Token :  your, Posbility: 0.0027
+Next Token :  an, Posbility: 0.0010
+Next Token :  the, Posbility: 0.0006
+Next Token :  python, Posbility: 0.0003
+Choose :  a,  Posbility: 0.9935
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9563
+Next Token :  function, Posbility: 0.0202
+Next Token :  Python, Posbility: 0.0147
+Next Token :  program, Posbility: 0.0025
+Next Token :  script, Posbility: 0.0004
+Choose :  python,  Posbility: 0.9563
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9740
+Next Token :  program, Posbility: 0.0148
+Next Token :  script, Posbility: 0.0019
+Next Token :  fun, Posbility: 0.0018
+Next Token :  code, Posbility: 0.0007
+Choose :  function,  Posbility: 0.9740
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8827
+Next Token :  that, Posbility: 0.0896
+Next Token :  which, Posbility: 0.0101
+Next Token :  for, Posbility: 0.0017
+Next Token :  called, Posbility: 0.0015
+Choose :  to,  Posbility: 0.8827
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to
+---------------------------
+Next Token :  count, Posbility: 0.3553
+Next Token :  find, Posbility: 0.0899
+Next Token :  check, Posbility: 0.0769
+Next Token :  print, Posbility: 0.0508
+Next Token :  get, Posbility: 0.0385
+Choose :  count,  Posbility: 0.3553
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count
+---------------------------
+Next Token :  the, Posbility: 0.9189
+Next Token :  number, Posbility: 0.0150
+Next Token :  all, Posbility: 0.0063
+Next Token :  characters, Posbility: 0.0043
+Next Token :  spaces, Posbility: 0.0040
+Choose :  the,  Posbility: 0.9189
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the
+---------------------------
+Next Token :  number, Posbility: 0.3159
+Next Token :  lower, Posbility: 0.3109
+Next Token :  digits, Posbility: 0.0529
+Next Token :  upper, Posbility: 0.0512
+Next Token :  numbers, Posbility: 0.0224
+Choose :  number,  Posbility: 0.3159
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number
+---------------------------
+Next Token :  of, Posbility: 0.9783
+Next Token :  digits, Posbility: 0.0022
+Next Token :  spaces, Posbility: 0.0018
+Next Token :  words, Posbility: 0.0013
+Next Token :  characters, Posbility: 0.0012
+Choose :  of,  Posbility: 0.9783
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of
+---------------------------
+Next Token :  lower, Posbility: 0.1860
+Next Token :  digits, Posbility: 0.1811
+Next Token :  vow, Posbility: 0.1654
+Next Token :  times, Posbility: 0.0782
+Next Token :  u, Posbility: 0.0487
+Choose :  lower,  Posbility: 0.1860
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower
+---------------------------
+Next Token :  case, Posbility: 0.7701
+Next Token : case, Posbility: 0.2043
+Next Token :  cases, Posbility: 0.0179
+Next Token :  characters, Posbility: 0.0016
+Next Token :  and, Posbility: 0.0008
+Choose :  case,  Posbility: 0.7701
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case
+---------------------------
+Next Token :  characters, Posbility: 0.8135
+Next Token :  letters, Posbility: 0.1113
+Next Token :  chars, Posbility: 0.0123
+Next Token : 
+, Posbility: 0.0058
+Next Token :  words, Posbility: 0.0055
+Choose :  characters,  Posbility: 0.8135
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters
+---------------------------
+Next Token :  in, Posbility: 0.9318
+Next Token : .', Posbility: 0.0164
+Next Token : 
+, Posbility: 0.0086
+Next Token :  of, Posbility: 0.0076
+Next Token :  (, Posbility: 0.0041
+Choose :  in,  Posbility: 0.9318
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in
+---------------------------
+Next Token :  a, Posbility: 0.9767
+Next Token :  the, Posbility: 0.0072
+Next Token :  string, Posbility: 0.0045
+Next Token : 
+, Posbility: 0.0027
+Next Token :  an, Posbility: 0.0021
+Choose :  a,  Posbility: 0.9767
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a
+---------------------------
+Next Token :  given, Posbility: 0.9368
+Next Token :  string, Posbility: 0.0457
+Next Token : 
+, Posbility: 0.0094
+Next Token :  , Posbility: 0.0039
+Next Token :  give, Posbility: 0.0004
+Choose :  given,  Posbility: 0.9368
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a given
+---------------------------
+Next Token :  string, Posbility: 0.9881
+Next Token : 
+, Posbility: 0.0053
+Next Token :  , Posbility: 0.0014
+Next Token :  input, Posbility: 0.0006
+Next Token :  text, Posbility: 0.0006
+Choose :  string,  Posbility: 0.9881
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a given string
+---------------------------
+Next Token : .', Posbility: 0.8849
+Next Token : ., Posbility: 0.0813
+Next Token : '', Posbility: 0.0157
+Next Token : 
+, Posbility: 0.0029
+Next Token :  ', Posbility: 0.0027
+Choose : .',  Posbility: 0.8849
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a given string.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a given string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9477
+Next Token : 
+
+, Posbility: 0.0427
+Next Token :  , Posbility: 0.0030
+Next Token : def, Posbility: 0.0028
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9477
+---------------------------
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a given string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9495
+Next Token : 
+, Posbility: 0.0422
+Next Token : #, Posbility: 0.0031
+Next Token : count, Posbility: 0.0009
+Next Token : import, Posbility: 0.0008
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.22081208229065
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to count the upper case characters in a given string.'''
+def count_upper_case(string):
+    count = 0
+    for i in string:
+        if i.isupper():
+            count += 1
+    return count
+
+
+'''Write a python function to count the number of lower case characters in a given string.'''
+

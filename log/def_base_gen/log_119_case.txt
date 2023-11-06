@@ -1,0 +1,745 @@
+<<<<<<<<<<<< 119 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  count, Posbility: 0.6410
+Next Token :  char, Posbility: 0.0357
+Next Token :  total, Posbility: 0.0316
+Next Token :  string, Posbility: 0.0292
+Next Token :  num, Posbility: 0.0162
+Choose :  count,  Posbility: 0.6410
+'''Write a function to count the total number of characters in a string.'''
+def count
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count
+---------------------------
+Next Token : _, Posbility: 0.5106
+Next Token : (, Posbility: 0.1390
+Next Token : Char, Posbility: 0.0862
+Next Token : Characters, Posbility: 0.0668
+Next Token : char, Posbility: 0.0585
+Choose : _,  Posbility: 0.5106
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_
+---------------------------
+Next Token : char, Posbility: 0.5512
+Next Token : ch, Posbility: 0.2581
+Next Token : letters, Posbility: 0.0322
+Next Token : string, Posbility: 0.0276
+Next Token : character, Posbility: 0.0206
+Choose : char,  Posbility: 0.5512
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char
+---------------------------
+Next Token : (, Posbility: 0.5138
+Next Token : acters, Posbility: 0.4249
+Next Token : _, Posbility: 0.0373
+Next Token : ():, Posbility: 0.0153
+Next Token :  (, Posbility: 0.0032
+Choose : (,  Posbility: 0.5138
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(
+---------------------------
+Next Token : string, Posbility: 0.3028
+Next Token : str, Posbility: 0.2944
+Next Token : s, Posbility: 0.1514
+Next Token : text, Posbility: 0.0398
+Next Token : input, Posbility: 0.0316
+Choose : string,  Posbility: 0.3028
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string
+---------------------------
+Next Token : ):, Posbility: 0.9101
+Next Token : :, Posbility: 0.0321
+Next Token : ,, Posbility: 0.0288
+Next Token : _, Posbility: 0.0162
+Next Token : 1, Posbility: 0.0054
+Choose : ):,  Posbility: 0.9101
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9140
+Next Token : 
+
+, Posbility: 0.0348
+Next Token : , Posbility: 0.0308
+Next Token :  , Posbility: 0.0107
+Next Token :  #, Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9140
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+
+---------------------------
+Next Token :     , Posbility: 0.8875
+Next Token :   , Posbility: 0.0558
+Next Token : 	, Posbility: 0.0434
+Next Token :    , Posbility: 0.0073
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.8875
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    
+---------------------------
+Next Token : count, Posbility: 0.2615
+Next Token : '', Posbility: 0.1420
+Next Token : char, Posbility: 0.0902
+Next Token : return, Posbility: 0.0870
+Next Token : #, Posbility: 0.0485
+Choose : count,  Posbility: 0.2615
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.7322
+Next Token : _, Posbility: 0.1093
+Next Token : =, Posbility: 0.1083
+Next Token : s, Posbility: 0.0284
+Next Token : ={, Posbility: 0.0044
+Choose :  =,  Posbility: 0.7322
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9120
+Next Token :  {}, Posbility: 0.0197
+Next Token :  len, Posbility: 0.0156
+Next Token :  1, Posbility: 0.0089
+Next Token : 0, Posbility: 0.0082
+Choose :  0,  Posbility: 0.9120
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9441
+Next Token : 
+
+, Posbility: 0.0303
+Next Token :  , Posbility: 0.0126
+Next Token : ;, Posbility: 0.0044
+Next Token :  #, Posbility: 0.0037
+Choose : 
+,  Posbility: 0.9441
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9980
+Next Token :   , Posbility: 0.0003
+Next Token : 	, Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9980
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.9035
+Next Token : if, Posbility: 0.0107
+Next Token : #, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0081
+Next Token : i, Posbility: 0.0069
+Choose : for,  Posbility: 0.9035
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4063
+Next Token :  char, Posbility: 0.3240
+Next Token :  letter, Posbility: 0.0539
+Next Token :  c, Posbility: 0.0462
+Next Token :  x, Posbility: 0.0296
+Choose :  i,  Posbility: 0.4063
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9941
+Next Token : ,, Posbility: 0.0054
+Next Token : _, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9941
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in
+---------------------------
+Next Token :  string, Posbility: 0.7016
+Next Token :  range, Posbility: 0.2844
+Next Token :  list, Posbility: 0.0069
+Next Token :  str, Posbility: 0.0022
+Next Token :   , Posbility: 0.0007
+Choose :  string,  Posbility: 0.7016
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string
+---------------------------
+Next Token : :, Posbility: 0.9753
+Next Token : ., Posbility: 0.0197
+Next Token :  :, Posbility: 0.0035
+Next Token : [, Posbility: 0.0009
+Next Token :  +, Posbility: 0.0001
+Choose : :,  Posbility: 0.9753
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+---------------------------
+Next Token : 
+, Posbility: 0.9890
+Next Token :  , Posbility: 0.0044
+Next Token :  #, Posbility: 0.0021
+Next Token : 
+
+, Posbility: 0.0013
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9890
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+
+---------------------------
+Next Token :         , Posbility: 0.9813
+Next Token :       , Posbility: 0.0079
+Next Token :        , Posbility: 0.0037
+Next Token :             , Posbility: 0.0030
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9813
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        
+---------------------------
+Next Token : count, Posbility: 0.6391
+Next Token : if, Posbility: 0.3388
+Next Token : for, Posbility: 0.0078
+Next Token : #, Posbility: 0.0047
+Next Token : print, Posbility: 0.0022
+Choose : count,  Posbility: 0.6391
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count
+---------------------------
+Next Token :  +=, Posbility: 0.7770
+Next Token :  =, Posbility: 0.1327
+Next Token : +=, Posbility: 0.0846
+Next Token : =, Posbility: 0.0034
+Next Token : _, Posbility: 0.0009
+Choose :  +=,  Posbility: 0.7770
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count +=
+---------------------------
+Next Token :  1, Posbility: 0.8008
+Next Token :  len, Posbility: 0.0910
+Next Token :  string, Posbility: 0.0470
+Next Token : 1, Posbility: 0.0290
+Next Token :  i, Posbility: 0.0076
+Choose :  1,  Posbility: 0.8008
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9470
+Next Token : 
+
+, Posbility: 0.0373
+Next Token :  , Posbility: 0.0046
+Next Token :  #, Posbility: 0.0027
+Next Token :   , Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9470
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.9746
+Next Token :         , Posbility: 0.0218
+Next Token : 
+, Posbility: 0.0010
+Next Token : #, Posbility: 0.0004
+Next Token : print, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9746
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8341
+Next Token : print, Posbility: 0.1431
+Next Token : 
+, Posbility: 0.0143
+Next Token : #, Posbility: 0.0026
+Next Token : count, Posbility: 0.0013
+Choose : return,  Posbility: 0.8341
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9595
+Next Token : (, Posbility: 0.0206
+Next Token :  (, Posbility: 0.0063
+Next Token :  print, Posbility: 0.0036
+Next Token :  f, Posbility: 0.0033
+Choose :  count,  Posbility: 0.9595
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7719
+Next Token : 
+
+, Posbility: 0.1870
+Next Token : <|endoftext|>, Posbility: 0.0219
+Next Token :  , Posbility: 0.0114
+Next Token :     , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.7719
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+---------------------------
+Next Token : 
+, Posbility: 0.7705
+Next Token : print, Posbility: 0.0556
+Next Token :     , Posbility: 0.0368
+Next Token : #, Posbility: 0.0261
+Next Token : def, Posbility: 0.0222
+Choose : 
+,  Posbility: 0.7705
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9550
+Next Token : 
+
+, Posbility: 0.0137
+Next Token : <|endoftext|>, Posbility: 0.0135
+Next Token :     , Posbility: 0.0128
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9550
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5772
+Next Token : def, Posbility: 0.1226
+Next Token : #, Posbility: 0.1075
+Next Token : print, Posbility: 0.0715
+Next Token : if, Posbility: 0.0338
+Choose : '',  Posbility: 0.5772
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8159
+Next Token : 
+, Posbility: 0.0274
+Next Token :  Write, Posbility: 0.0248
+Next Token : Return, Posbility: 0.0080
+Next Token : write, Posbility: 0.0068
+Choose : Write,  Posbility: 0.8159
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9929
+Next Token :  your, Posbility: 0.0018
+Next Token :  an, Posbility: 0.0014
+Next Token :  the, Posbility: 0.0009
+Next Token :  function, Posbility: 0.0005
+Choose :  a,  Posbility: 0.9929
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9491
+Next Token :  program, Posbility: 0.0128
+Next Token :  Python, Posbility: 0.0107
+Next Token :  python, Posbility: 0.0051
+Next Token :  recursive, Posbility: 0.0020
+Choose :  function,  Posbility: 0.9491
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6530
+Next Token :  that, Posbility: 0.2608
+Next Token :  called, Posbility: 0.0354
+Next Token :  which, Posbility: 0.0170
+Next Token :  named, Posbility: 0.0082
+Choose :  to,  Posbility: 0.6530
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to
+---------------------------
+Next Token :  print, Posbility: 0.1311
+Next Token :  find, Posbility: 0.1160
+Next Token :  get, Posbility: 0.0745
+Next Token :  check, Posbility: 0.0602
+Next Token :  reverse, Posbility: 0.0586
+Choose :  print,  Posbility: 0.1311
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print
+---------------------------
+Next Token :  the, Posbility: 0.3711
+Next Token :  a, Posbility: 0.3261
+Next Token :  out, Posbility: 0.1142
+Next Token :  all, Posbility: 0.0528
+Next Token :  an, Posbility: 0.0182
+Choose :  the,  Posbility: 0.3711
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the
+---------------------------
+Next Token :  string, Posbility: 0.1968
+Next Token :  number, Posbility: 0.1252
+Next Token :  numbers, Posbility: 0.0790
+Next Token :  first, Posbility: 0.0564
+Next Token :  following, Posbility: 0.0380
+Choose :  string,  Posbility: 0.1968
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string
+---------------------------
+Next Token :  made, Posbility: 0.2991
+Next Token :  representation, Posbility: 0.1881
+Next Token :  in, Posbility: 0.1123
+Next Token :  after, Posbility: 0.0787
+Next Token : ,, Posbility: 0.0632
+Choose :  made,  Posbility: 0.2991
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made
+---------------------------
+Next Token :  of, Posbility: 0.8394
+Next Token :  up, Posbility: 0.1093
+Next Token :  from, Posbility: 0.0139
+Next Token :  down, Posbility: 0.0139
+Next Token :  out, Posbility: 0.0106
+Choose :  of,  Posbility: 0.8394
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of
+---------------------------
+Next Token :  the, Posbility: 0.3556
+Next Token :  digits, Posbility: 0.3011
+Next Token :  first, Posbility: 0.0545
+Next Token :  every, Posbility: 0.0506
+Next Token :  its, Posbility: 0.0498
+Choose :  the,  Posbility: 0.3556
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the
+---------------------------
+Next Token :  digits, Posbility: 0.3906
+Next Token :  first, Posbility: 0.1559
+Next Token :  numbers, Posbility: 0.0728
+Next Token :  vow, Posbility: 0.0622
+Next Token :  characters, Posbility: 0.0500
+Choose :  digits,  Posbility: 0.3906
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits
+---------------------------
+Next Token :  of, Posbility: 0.6177
+Next Token :  1, Posbility: 0.1829
+Next Token :  in, Posbility: 0.1364
+Next Token :  2, Posbility: 0.0150
+Next Token :  from, Posbility: 0.0131
+Choose :  of,  Posbility: 0.6177
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits of
+---------------------------
+Next Token :  n, Posbility: 0.2772
+Next Token :  a, Posbility: 0.2745
+Next Token :  the, Posbility: 0.1672
+Next Token :  an, Posbility: 0.0667
+Next Token :  N, Posbility: 0.0605
+Choose :  n,  Posbility: 0.2772
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits of n
+---------------------------
+Next Token : .', Posbility: 0.2389
+Next Token : ,, Posbility: 0.2372
+Next Token : ., Posbility: 0.2052
+Next Token :  in, Posbility: 0.0537
+Next Token :  where, Posbility: 0.0496
+Choose : .',  Posbility: 0.2389
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits of n.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits of n.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9411
+Next Token : 
+
+, Posbility: 0.0495
+Next Token :  , Posbility: 0.0030
+Next Token : def, Posbility: 0.0028
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9411
+---------------------------
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits of n.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9468
+Next Token : 
+, Posbility: 0.0406
+Next Token : #, Posbility: 0.0062
+Next Token : '', Posbility: 0.0010
+Next Token : import, Posbility: 0.0010
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.106721878051758
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to count the total number of characters in a string.'''
+def count_char(string):
+    count = 0
+    for i in string:
+        count += 1
+    return count
+
+
+'''Write a function to print the string made of the digits of n.'''
+

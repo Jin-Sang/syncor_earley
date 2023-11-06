@@ -1,0 +1,955 @@
+<<<<<<<<<<<< 332 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  adjacent, Posbility: 0.2971
+Next Token :  get, Posbility: 0.1125
+Next Token :  find, Posbility: 0.0735
+Next Token :  extract, Posbility: 0.0664
+Next Token :  adj, Posbility: 0.0560
+Choose :  adjacent,  Posbility: 0.2971
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent
+---------------------------
+Next Token : _, Posbility: 0.4275
+Next Token : (, Posbility: 0.3819
+Next Token : Co, Posbility: 0.1422
+Next Token : coord, Posbility: 0.0090
+Next Token : co, Posbility: 0.0044
+Choose : _,  Posbility: 0.4275
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_
+---------------------------
+Next Token : coord, Posbility: 0.7166
+Next Token : co, Posbility: 0.1976
+Next Token : t, Posbility: 0.0211
+Next Token : pos, Posbility: 0.0073
+Next Token : list, Posbility: 0.0045
+Choose : coord,  Posbility: 0.7166
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coord
+---------------------------
+Next Token : inates, Posbility: 0.7518
+Next Token : inate, Posbility: 0.1497
+Next Token : (, Posbility: 0.0794
+Next Token : _, Posbility: 0.0098
+Next Token : ination, Posbility: 0.0027
+Choose : inates,  Posbility: 0.7518
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates
+---------------------------
+Next Token : (, Posbility: 0.9290
+Next Token : _, Posbility: 0.0486
+Next Token : (*, Posbility: 0.0072
+Next Token :  (, Posbility: 0.0062
+Next Token : ():, Posbility: 0.0046
+Choose : (,  Posbility: 0.9290
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(
+---------------------------
+Next Token : coord, Posbility: 0.5133
+Next Token : x, Posbility: 0.1267
+Next Token : t, Posbility: 0.0664
+Next Token : co, Posbility: 0.0518
+Next Token : c, Posbility: 0.0243
+Choose : coord,  Posbility: 0.5133
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coord
+---------------------------
+Next Token : inate, Posbility: 0.6564
+Next Token : ):, Posbility: 0.1406
+Next Token : inates, Posbility: 0.0787
+Next Token : ,, Posbility: 0.0543
+Next Token : _, Posbility: 0.0377
+Choose : inate,  Posbility: 0.6564
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate
+---------------------------
+Next Token : ):, Posbility: 0.6098
+Next Token : ,, Posbility: 0.1876
+Next Token : _, Posbility: 0.1570
+Next Token : :, Posbility: 0.0242
+Next Token : T, Posbility: 0.0072
+Choose : ):,  Posbility: 0.6098
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+---------------------------
+Next Token : 
+, Posbility: 0.9382
+Next Token : 
+
+, Posbility: 0.0303
+Next Token : , Posbility: 0.0150
+Next Token :  , Posbility: 0.0075
+Next Token :  #, Posbility: 0.0032
+Choose : 
+,  Posbility: 0.9382
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+
+---------------------------
+Next Token :     , Posbility: 0.9360
+Next Token : 	, Posbility: 0.0365
+Next Token :   , Posbility: 0.0199
+Next Token :    , Posbility: 0.0035
+Next Token :         , Posbility: 0.0016
+Choose :     ,  Posbility: 0.9360
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    
+---------------------------
+Next Token : '', Posbility: 0.4224
+Next Token : return, Posbility: 0.1066
+Next Token : if, Posbility: 0.0928
+Next Token : x, Posbility: 0.0915
+Next Token : coord, Posbility: 0.0508
+Choose : '',  Posbility: 0.4224
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9995
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9995
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.1586
+Next Token : 
+, Posbility: 0.1390
+Next Token : Returns, Posbility: 0.0761
+Next Token : Ext, Posbility: 0.0585
+Next Token : Given, Posbility: 0.0455
+Choose : Return,  Posbility: 0.1586
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return
+---------------------------
+Next Token :  all, Posbility: 0.3050
+Next Token :  a, Posbility: 0.2855
+Next Token :  the, Posbility: 0.2524
+Next Token :  list, Posbility: 0.0322
+Next Token :  coordinates, Posbility: 0.0219
+Choose :  all,  Posbility: 0.3050
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all
+---------------------------
+Next Token :  the, Posbility: 0.6286
+Next Token :  adjacent, Posbility: 0.1898
+Next Token :  coordinates, Posbility: 0.0762
+Next Token :  of, Posbility: 0.0302
+Next Token :  possible, Posbility: 0.0182
+Choose :  the,  Posbility: 0.6286
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the
+---------------------------
+Next Token :  adjacent, Posbility: 0.6824
+Next Token :  coordinates, Posbility: 0.1908
+Next Token :  coordinate, Posbility: 0.0333
+Next Token :  possible, Posbility: 0.0130
+Next Token :  coord, Posbility: 0.0054
+Choose :  adjacent,  Posbility: 0.6824
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent
+---------------------------
+Next Token :  coordinates, Posbility: 0.8641
+Next Token :  coordinate, Posbility: 0.0512
+Next Token :  (, Posbility: 0.0108
+Next Token :  tu, Posbility: 0.0084
+Next Token :  coord, Posbility: 0.0034
+Choose :  coordinates,  Posbility: 0.8641
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates
+---------------------------
+Next Token :  of, Posbility: 0.6109
+Next Token :  in, Posbility: 0.0555
+Next Token :  for, Posbility: 0.0473
+Next Token : .', Posbility: 0.0392
+Next Token : '', Posbility: 0.0339
+Choose :  of,  Posbility: 0.6109
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of
+---------------------------
+Next Token :  the, Posbility: 0.6870
+Next Token :  a, Posbility: 0.1503
+Next Token :  given, Posbility: 0.0637
+Next Token :  coordinate, Posbility: 0.0310
+Next Token :  tuple, Posbility: 0.0098
+Choose :  the,  Posbility: 0.6870
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the
+---------------------------
+Next Token :  given, Posbility: 0.9166
+Next Token :  coordinate, Posbility: 0.0285
+Next Token :  tuple, Posbility: 0.0155
+Next Token :  input, Posbility: 0.0088
+Next Token :  specified, Posbility: 0.0054
+Choose :  given,  Posbility: 0.9166
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given
+---------------------------
+Next Token :  coordinate, Posbility: 0.8293
+Next Token :  tuple, Posbility: 0.0688
+Next Token :  coordinates, Posbility: 0.0349
+Next Token :  one, Posbility: 0.0111
+Next Token :  point, Posbility: 0.0062
+Choose :  coordinate,  Posbility: 0.8293
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate
+---------------------------
+Next Token :  tuple, Posbility: 0.7876
+Next Token : .', Posbility: 0.0926
+Next Token : ., Posbility: 0.0377
+Next Token : '', Posbility: 0.0263
+Next Token : 
+, Posbility: 0.0070
+Choose :  tuple,  Posbility: 0.7876
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple
+---------------------------
+Next Token : .', Posbility: 0.5857
+Next Token : ., Posbility: 0.2231
+Next Token : '', Posbility: 0.0859
+Next Token :  as, Posbility: 0.0174
+Next Token : ,, Posbility: 0.0146
+Choose : .',  Posbility: 0.5857
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : "", Posbility: 0.0001
+Next Token : ', Posbility: 0.0000
+Choose : '',  Posbility: 0.9995
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9574
+Next Token : 
+
+, Posbility: 0.0367
+Next Token :  , Posbility: 0.0035
+Next Token :     , Posbility: 0.0008
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9574
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9966
+Next Token :   , Posbility: 0.0007
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Next Token : 	, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9966
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.2650
+Next Token : if, Posbility: 0.1750
+Next Token : x, Posbility: 0.1615
+Next Token : coord, Posbility: 0.0730
+Next Token : adj, Posbility: 0.0363
+Choose : return,  Posbility: 0.2650
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return
+---------------------------
+Next Token :  (, Posbility: 0.1846
+Next Token :  ((, Posbility: 0.1568
+Next Token :  tuple, Posbility: 0.1430
+Next Token :  [(, Posbility: 0.1391
+Next Token :  [, Posbility: 0.1254
+Choose :  (,  Posbility: 0.1846
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (
+---------------------------
+Next Token : coord, Posbility: 0.9567
+Next Token : 
+, Posbility: 0.0280
+Next Token : t, Posbility: 0.0038
+Next Token :  (, Posbility: 0.0022
+Next Token :  coordinate, Posbility: 0.0008
+Choose : coord,  Posbility: 0.9567
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coord
+---------------------------
+Next Token : inate, Posbility: 0.9998
+Next Token : ination, Posbility: 0.0001
+Next Token : inates, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : ordinate, Posbility: 0.0000
+Choose : inate,  Posbility: 0.9998
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate
+---------------------------
+Next Token : [, Posbility: 0.9691
+Next Token :  +, Posbility: 0.0151
+Next Token :  [, Posbility: 0.0031
+Next Token : ,, Posbility: 0.0025
+Next Token :  -, Posbility: 0.0023
+Choose : [,  Posbility: 0.9691
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[
+---------------------------
+Next Token : 0, Posbility: 0.9302
+Next Token : 1, Posbility: 0.0590
+Next Token : :, Posbility: 0.0046
+Next Token : i, Posbility: 0.0023
+Next Token : 2, Posbility: 0.0011
+Choose : 0,  Posbility: 0.9302
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0
+---------------------------
+Next Token : ], Posbility: 0.4982
+Next Token : ]+, Posbility: 0.2668
+Next Token : ],, Posbility: 0.1855
+Next Token : ]-, Posbility: 0.0443
+Next Token : ][, Posbility: 0.0022
+Choose : ],  Posbility: 0.4982
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0]
+---------------------------
+Next Token :  +, Posbility: 0.8047
+Next Token :  -, Posbility: 0.1723
+Next Token : +(, Posbility: 0.0039
+Next Token :  *, Posbility: 0.0030
+Next Token : //, Posbility: 0.0027
+Choose :  +,  Posbility: 0.8047
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] +
+---------------------------
+Next Token :  coordinate, Posbility: 0.8073
+Next Token :  1, Posbility: 0.0938
+Next Token :  (, Posbility: 0.0285
+Next Token :  2, Posbility: 0.0209
+Next Token :  coordinates, Posbility: 0.0054
+Choose :  coordinate,  Posbility: 0.8073
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate
+---------------------------
+Next Token : [, Posbility: 0.9969
+Next Token :  [, Posbility: 0.0023
+Next Token : _, Posbility: 0.0006
+Next Token : ,, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : [,  Posbility: 0.9969
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[
+---------------------------
+Next Token : 1, Posbility: 0.8212
+Next Token : 0, Posbility: 0.1629
+Next Token : 2, Posbility: 0.0123
+Next Token : 3, Posbility: 0.0022
+Next Token : -, Posbility: 0.0005
+Choose : 1,  Posbility: 0.8212
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1
+---------------------------
+Next Token : ],, Posbility: 0.6741
+Next Token : ]), Posbility: 0.2053
+Next Token : ], Posbility: 0.0956
+Next Token : ]+, Posbility: 0.0120
+Next Token : ]),, Posbility: 0.0103
+Choose : ],,  Posbility: 0.6741
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1],
+---------------------------
+Next Token :  coordinate, Posbility: 0.9047
+Next Token : 
+, Posbility: 0.0581
+Next Token :  , Posbility: 0.0124
+Next Token : coord, Posbility: 0.0108
+Next Token :  \, Posbility: 0.0026
+Choose :  coordinate,  Posbility: 0.9047
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate
+---------------------------
+Next Token : [, Posbility: 0.9987
+Next Token :  [, Posbility: 0.0007
+Next Token :  +, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Next Token : ), Posbility: 0.0001
+Choose : [,  Posbility: 0.9987
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[
+---------------------------
+Next Token : 0, Posbility: 0.7464
+Next Token : 1, Posbility: 0.2465
+Next Token : 2, Posbility: 0.0066
+Next Token : 3, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : 0,  Posbility: 0.7464
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0
+---------------------------
+Next Token : ], Posbility: 0.8786
+Next Token : ],, Posbility: 0.0858
+Next Token : ]-, Posbility: 0.0182
+Next Token : ]+, Posbility: 0.0135
+Next Token : ]), Posbility: 0.0025
+Choose : ],  Posbility: 0.8786
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0]
+---------------------------
+Next Token :  -, Posbility: 0.9367
+Next Token :  +, Posbility: 0.0607
+Next Token :  *, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0003
+Next Token : -(, Posbility: 0.0003
+Choose :  -,  Posbility: 0.9367
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] -
+---------------------------
+Next Token :  coordinate, Posbility: 0.9210
+Next Token :  1, Posbility: 0.0700
+Next Token : 1, Posbility: 0.0025
+Next Token :   , Posbility: 0.0019
+Next Token :  2, Posbility: 0.0013
+Choose :  coordinate,  Posbility: 0.9210
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate
+---------------------------
+Next Token : [, Posbility: 0.9993
+Next Token :  [, Posbility: 0.0006
+Next Token : _, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token :  [-, Posbility: 0.0000
+Choose : [,  Posbility: 0.9993
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[
+---------------------------
+Next Token : 1, Posbility: 0.9986
+Next Token : 0, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9986
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1
+---------------------------
+Next Token : ]), Posbility: 0.6751
+Next Token : ],, Posbility: 0.3012
+Next Token : ], Posbility: 0.0146
+Next Token : ]),, Posbility: 0.0068
+Next Token : ]);, Posbility: 0.0007
+Choose : ]),  Posbility: 0.6751
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+---------------------------
+Next Token : 
+, Posbility: 0.6539
+Next Token : 
+
+, Posbility: 0.2291
+Next Token : <|endoftext|>, Posbility: 0.0680
+Next Token :  if, Posbility: 0.0137
+Next Token :  , Posbility: 0.0117
+Choose : 
+,  Posbility: 0.6539
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+---------------------------
+Next Token : 
+, Posbility: 0.8118
+Next Token : <|endoftext|>, Posbility: 0.0622
+Next Token :     , Posbility: 0.0588
+Next Token : def, Posbility: 0.0183
+Next Token : '', Posbility: 0.0091
+Choose : 
+,  Posbility: 0.8118
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9519
+Next Token : <|endoftext|>, Posbility: 0.0198
+Next Token :     , Posbility: 0.0141
+Next Token : 
+
+, Posbility: 0.0098
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9519
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4267
+Next Token : def, Posbility: 0.2991
+Next Token : #, Posbility: 0.1399
+Next Token : 
+, Posbility: 0.0330
+Next Token : class, Posbility: 0.0279
+Choose : '',  Posbility: 0.4267
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7535
+Next Token : Return, Posbility: 0.0197
+Next Token : 
+, Posbility: 0.0189
+Next Token :  Write, Posbility: 0.0180
+Next Token : Find, Posbility: 0.0087
+Choose : Write,  Posbility: 0.7535
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9869
+Next Token :  your, Posbility: 0.0046
+Next Token :  an, Posbility: 0.0023
+Next Token :  the, Posbility: 0.0021
+Next Token :  function, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9869
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9629
+Next Token :  recursive, Posbility: 0.0047
+Next Token :  Python, Posbility: 0.0043
+Next Token :  program, Posbility: 0.0036
+Next Token :  python, Posbility: 0.0028
+Choose :  function,  Posbility: 0.9629
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.8095
+Next Token :  that, Posbility: 0.1462
+Next Token :  which, Posbility: 0.0108
+Next Token :  called, Posbility: 0.0068
+Next Token :  named, Posbility: 0.0038
+Choose :  to,  Posbility: 0.8095
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1221
+Next Token :  check, Posbility: 0.1092
+Next Token :  get, Posbility: 0.0633
+Next Token :  calculate, Posbility: 0.0598
+Next Token :  return, Posbility: 0.0540
+Choose :  find,  Posbility: 0.1221
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.6543
+Next Token :  all, Posbility: 0.1478
+Next Token :  a, Posbility: 0.0354
+Next Token :  if, Posbility: 0.0236
+Next Token :  out, Posbility: 0.0185
+Choose :  the,  Posbility: 0.6543
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  number, Posbility: 0.1453
+Next Token :  minimum, Posbility: 0.1128
+Next Token :  maximum, Posbility: 0.0572
+Next Token :  distance, Posbility: 0.0456
+Next Token :  shortest, Posbility: 0.0433
+Choose :  number,  Posbility: 0.1453
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number
+---------------------------
+Next Token :  of, Posbility: 0.9869
+Next Token :  in, Posbility: 0.0024
+Next Token :  with, Posbility: 0.0008
+Next Token :  and, Posbility: 0.0007
+Next Token :  that, Posbility: 0.0005
+Choose :  of,  Posbility: 0.9869
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of
+---------------------------
+Next Token :  ways, Posbility: 0.0910
+Next Token :  adjacent, Posbility: 0.0464
+Next Token :  the, Posbility: 0.0272
+Next Token :  islands, Posbility: 0.0246
+Next Token :  steps, Posbility: 0.0241
+Choose :  ways,  Posbility: 0.0910
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways
+---------------------------
+Next Token :  to, Posbility: 0.6030
+Next Token :  of, Posbility: 0.1152
+Next Token :  that, Posbility: 0.0379
+Next Token :  a, Posbility: 0.0348
+Next Token :  it, Posbility: 0.0335
+Choose :  to,  Posbility: 0.6030
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to
+---------------------------
+Next Token :  make, Posbility: 0.0807
+Next Token :  choose, Posbility: 0.0467
+Next Token :  convert, Posbility: 0.0391
+Next Token :  get, Posbility: 0.0382
+Next Token :  reach, Posbility: 0.0369
+Choose :  make,  Posbility: 0.0807
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make
+---------------------------
+Next Token :  a, Posbility: 0.3549
+Next Token :  the, Posbility: 0.2290
+Next Token :  n, Posbility: 0.0360
+Next Token :  change, Posbility: 0.0320
+Next Token :  all, Posbility: 0.0287
+Choose :  a,  Posbility: 0.3549
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a
+---------------------------
+Next Token :  square, Posbility: 0.2334
+Next Token :  triangle, Posbility: 0.0783
+Next Token :  sequence, Posbility: 0.0404
+Next Token :  path, Posbility: 0.0381
+Next Token :  given, Posbility: 0.0315
+Choose :  square,  Posbility: 0.2334
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square
+---------------------------
+Next Token :  with, Posbility: 0.2171
+Next Token :  of, Posbility: 0.1798
+Next Token : .', Posbility: 0.0832
+Next Token : ., Posbility: 0.0360
+Next Token :  in, Posbility: 0.0343
+Choose :  with,  Posbility: 0.2171
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with
+---------------------------
+Next Token :  given, Posbility: 0.1332
+Next Token :  the, Posbility: 0.1176
+Next Token :  side, Posbility: 0.0818
+Next Token :  a, Posbility: 0.0486
+Next Token :  its, Posbility: 0.0310
+Choose :  given,  Posbility: 0.1332
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with given
+---------------------------
+Next Token :  dimensions, Posbility: 0.3551
+Next Token :  side, Posbility: 0.0820
+Next Token :  sides, Posbility: 0.0701
+Next Token :  size, Posbility: 0.0605
+Next Token :  height, Posbility: 0.0525
+Choose :  dimensions,  Posbility: 0.3551
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with given dimensions
+---------------------------
+Next Token : .', Posbility: 0.6349
+Next Token : ., Posbility: 0.1071
+Next Token : '', Posbility: 0.0688
+Next Token :  and, Posbility: 0.0306
+Next Token : 
+, Posbility: 0.0273
+Choose : .',  Posbility: 0.6349
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with given dimensions.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with given dimensions.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9609
+Next Token : 
+
+, Posbility: 0.0343
+Next Token :  , Posbility: 0.0018
+Next Token :   , Posbility: 0.0008
+Next Token : def, Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9609
+---------------------------
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with given dimensions.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9662
+Next Token : 
+, Posbility: 0.0174
+Next Token : #, Posbility: 0.0094
+Next Token : from, Posbility: 0.0015
+Next Token : import, Posbility: 0.0011
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.079769372940063
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to extract all the adjacent coordinates of the given coordinate tuple.'''
+def adjacent_coordinates(coordinate):
+    '''Return all the adjacent coordinates of the given coordinate tuple.'''
+    return (coordinate[0] + coordinate[1], coordinate[0] - coordinate[1])
+
+
+'''Write a function to find the number of ways to make a square with given dimensions.'''
+

@@ -1,0 +1,1038 @@
+<<<<<<<<<<<< 366 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  check, Posbility: 0.2381
+Next Token :  is, Posbility: 0.1476
+Next Token :  has, Posbility: 0.1455
+Next Token :  tuple, Posbility: 0.0452
+Next Token :  contains, Posbility: 0.0352
+Choose :  check,  Posbility: 0.2381
+'''Write a function to check if the given tuple has any none value or not.'''
+def check
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check
+---------------------------
+Next Token : _, Posbility: 0.5978
+Next Token : (, Posbility: 0.2147
+Next Token : T, Posbility: 0.0534
+Next Token : If, Posbility: 0.0137
+Next Token : t, Posbility: 0.0079
+Choose : _,  Posbility: 0.5978
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_
+---------------------------
+Next Token : t, Posbility: 0.3894
+Next Token : none, Posbility: 0.1711
+Next Token : if, Posbility: 0.0562
+Next Token : for, Posbility: 0.0534
+Next Token : empty, Posbility: 0.0317
+Choose : t,  Posbility: 0.3894
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_t
+---------------------------
+Next Token : uple, Posbility: 0.9853
+Next Token : up, Posbility: 0.0101
+Next Token : (, Posbility: 0.0008
+Next Token : _, Posbility: 0.0003
+Next Token : upp, Posbility: 0.0003
+Choose : uple,  Posbility: 0.9853
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple
+---------------------------
+Next Token : (, Posbility: 0.7086
+Next Token : _, Posbility: 0.2657
+Next Token : ():, Posbility: 0.0143
+Next Token : (*, Posbility: 0.0043
+Next Token : 1, Posbility: 0.0016
+Choose : (,  Posbility: 0.7086
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(
+---------------------------
+Next Token : t, Posbility: 0.7903
+Next Token : x, Posbility: 0.0228
+Next Token : a, Posbility: 0.0175
+Next Token : tu, Posbility: 0.0157
+Next Token : my, Posbility: 0.0143
+Choose : t,  Posbility: 0.7903
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(t
+---------------------------
+Next Token : uple, Posbility: 0.3900
+Next Token : ):, Posbility: 0.2756
+Next Token : up, Posbility: 0.2736
+Next Token : ,, Posbility: 0.0168
+Next Token : _, Posbility: 0.0121
+Choose : uple,  Posbility: 0.3900
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple
+---------------------------
+Next Token : ):, Posbility: 0.7183
+Next Token : _, Posbility: 0.1957
+Next Token : 1, Posbility: 0.0307
+Next Token : ,, Posbility: 0.0249
+Next Token : :, Posbility: 0.0152
+Choose : ):,  Posbility: 0.7183
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+---------------------------
+Next Token : 
+, Posbility: 0.9417
+Next Token : 
+
+, Posbility: 0.0257
+Next Token : , Posbility: 0.0143
+Next Token :  , Posbility: 0.0091
+Next Token :   , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9417
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+
+---------------------------
+Next Token :     , Posbility: 0.9348
+Next Token : 	, Posbility: 0.0372
+Next Token :   , Posbility: 0.0218
+Next Token :    , Posbility: 0.0033
+Next Token :         , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9348
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    
+---------------------------
+Next Token : '', Posbility: 0.2768
+Next Token : for, Posbility: 0.2487
+Next Token : if, Posbility: 0.1949
+Next Token : #, Posbility: 0.0468
+Next Token : return, Posbility: 0.0358
+Choose : '',  Posbility: 0.2768
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''
+---------------------------
+Next Token : Check, Posbility: 0.1653
+Next Token : 
+, Posbility: 0.1019
+Next Token : check, Posbility: 0.0720
+Next Token : Return, Posbility: 0.0674
+Next Token : Function, Posbility: 0.0635
+Choose : Check,  Posbility: 0.1653
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check
+---------------------------
+Next Token :  if, Posbility: 0.7423
+Next Token :  tuple, Posbility: 0.0879
+Next Token :  the, Posbility: 0.0499
+Next Token :  whether, Posbility: 0.0351
+Next Token :  for, Posbility: 0.0144
+Choose :  if,  Posbility: 0.7423
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if
+---------------------------
+Next Token :  the, Posbility: 0.4535
+Next Token :  tuple, Posbility: 0.2383
+Next Token :  any, Posbility: 0.1124
+Next Token :  there, Posbility: 0.0501
+Next Token :  a, Posbility: 0.0442
+Choose :  the,  Posbility: 0.4535
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the
+---------------------------
+Next Token :  tuple, Posbility: 0.7294
+Next Token :  given, Posbility: 0.2313
+Next Token :  tu, Posbility: 0.0043
+Next Token :  input, Posbility: 0.0031
+Next Token :  element, Posbility: 0.0031
+Choose :  tuple,  Posbility: 0.7294
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple
+---------------------------
+Next Token :  has, Posbility: 0.4923
+Next Token :  is, Posbility: 0.2528
+Next Token :  contains, Posbility: 0.1422
+Next Token :  have, Posbility: 0.0242
+Next Token :  does, Posbility: 0.0139
+Choose :  has,  Posbility: 0.4923
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has
+---------------------------
+Next Token :  any, Posbility: 0.9069
+Next Token :  a, Posbility: 0.0149
+Next Token :  none, Posbility: 0.0119
+Next Token :  non, Posbility: 0.0068
+Next Token :  at, Posbility: 0.0055
+Choose :  any,  Posbility: 0.9069
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any
+---------------------------
+Next Token :  none, Posbility: 0.5895
+Next Token :  value, Posbility: 0.1425
+Next Token :  None, Posbility: 0.1181
+Next Token :  non, Posbility: 0.0445
+Next Token :  element, Posbility: 0.0187
+Choose :  none,  Posbility: 0.5895
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none
+---------------------------
+Next Token :  value, Posbility: 0.9076
+Next Token :  or, Posbility: 0.0353
+Next Token :  values, Posbility: 0.0239
+Next Token :  and, Posbility: 0.0045
+Next Token : '', Posbility: 0.0039
+Choose :  value,  Posbility: 0.9076
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value
+---------------------------
+Next Token :  or, Posbility: 0.8093
+Next Token : '', Posbility: 0.0574
+Next Token : .', Posbility: 0.0489
+Next Token : ., Posbility: 0.0270
+Next Token :  in, Posbility: 0.0142
+Choose :  or,  Posbility: 0.8093
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or
+---------------------------
+Next Token :  not, Posbility: 0.9909
+Next Token :  is, Posbility: 0.0014
+Next Token :  no, Posbility: 0.0009
+Next Token :  if, Posbility: 0.0005
+Next Token :  none, Posbility: 0.0004
+Choose :  not,  Posbility: 0.9909
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not
+---------------------------
+Next Token : .', Posbility: 0.3872
+Next Token : '', Posbility: 0.2882
+Next Token : ., Posbility: 0.2404
+Next Token : ,, Posbility: 0.0149
+Next Token : 
+, Posbility: 0.0132
+Choose : .',  Posbility: 0.3872
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'
+---------------------------
+Next Token : '', Posbility: 0.9991
+Next Token : "", Posbility: 0.0003
+Next Token : ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0001
+Choose : '',  Posbility: 0.9991
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9641
+Next Token : 
+
+, Posbility: 0.0293
+Next Token :  , Posbility: 0.0041
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9641
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9969
+Next Token :         , Posbility: 0.0008
+Next Token :   , Posbility: 0.0005
+Next Token :    , Posbility: 0.0004
+Next Token :      , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9969
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.4022
+Next Token : if, Posbility: 0.2663
+Next Token : return, Posbility: 0.0620
+Next Token : #, Posbility: 0.0380
+Next Token : '', Posbility: 0.0166
+Choose : for,  Posbility: 0.4022
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4881
+Next Token :  item, Posbility: 0.0809
+Next Token :  x, Posbility: 0.0763
+Next Token :  value, Posbility: 0.0754
+Next Token :  element, Posbility: 0.0453
+Choose :  i,  Posbility: 0.4881
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9653
+Next Token : ,, Posbility: 0.0336
+Next Token : _, Posbility: 0.0004
+Next Token :   , Posbility: 0.0002
+Next Token : 1, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9653
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in
+---------------------------
+Next Token :  tuple, Posbility: 0.5954
+Next Token :  range, Posbility: 0.3864
+Next Token :  list, Posbility: 0.0044
+Next Token :  (, Posbility: 0.0032
+Next Token :  t, Posbility: 0.0016
+Choose :  tuple,  Posbility: 0.5954
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple
+---------------------------
+Next Token : :, Posbility: 0.9734
+Next Token : [, Posbility: 0.0202
+Next Token :  :, Posbility: 0.0033
+Next Token : ., Posbility: 0.0013
+Next Token : :#, Posbility: 0.0006
+Choose : :,  Posbility: 0.9734
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+---------------------------
+Next Token : 
+, Posbility: 0.9869
+Next Token :  , Posbility: 0.0041
+Next Token :  #, Posbility: 0.0029
+Next Token :   , Posbility: 0.0011
+Next Token :     , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9869
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+
+---------------------------
+Next Token :         , Posbility: 0.9863
+Next Token :             , Posbility: 0.0051
+Next Token :       , Posbility: 0.0029
+Next Token :        , Posbility: 0.0021
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9863
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        
+---------------------------
+Next Token : if, Posbility: 0.9671
+Next Token : #, Posbility: 0.0065
+Next Token : print, Posbility: 0.0064
+Next Token : try, Posbility: 0.0061
+Next Token : for, Posbility: 0.0030
+Choose : if,  Posbility: 0.9671
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.8850
+Next Token :  type, Posbility: 0.0365
+Next Token : (, Posbility: 0.0165
+Next Token :  not, Posbility: 0.0159
+Next Token :  (, Posbility: 0.0143
+Choose :  i,  Posbility: 0.8850
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i
+---------------------------
+Next Token :  ==, Posbility: 0.4503
+Next Token :  is, Posbility: 0.3401
+Next Token : !=, Posbility: 0.0768
+Next Token : ==, Posbility: 0.0642
+Next Token : :, Posbility: 0.0227
+Choose :  ==,  Posbility: 0.4503
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i ==
+---------------------------
+Next Token :  None, Posbility: 0.8707
+Next Token :  ', Posbility: 0.0339
+Next Token :  0, Posbility: 0.0337
+Next Token :  ", Posbility: 0.0211
+Next Token :  '', Posbility: 0.0138
+Choose :  None,  Posbility: 0.8707
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None
+---------------------------
+Next Token : :, Posbility: 0.9003
+Next Token :  or, Posbility: 0.0938
+Next Token :  :, Posbility: 0.0041
+Next Token :  and, Posbility: 0.0011
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9003
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+---------------------------
+Next Token : 
+, Posbility: 0.9833
+Next Token :  return, Posbility: 0.0063
+Next Token :  , Posbility: 0.0046
+Next Token :  #, Posbility: 0.0022
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9833
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+
+---------------------------
+Next Token :             , Posbility: 0.9903
+Next Token :            , Posbility: 0.0046
+Next Token :              , Posbility: 0.0019
+Next Token :                 , Posbility: 0.0013
+Next Token :           , Posbility: 0.0012
+Choose :             ,  Posbility: 0.9903
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            
+---------------------------
+Next Token : return, Posbility: 0.8229
+Next Token : print, Posbility: 0.1410
+Next Token : continue, Posbility: 0.0070
+Next Token : pass, Posbility: 0.0052
+Next Token : raise, Posbility: 0.0052
+Choose : return,  Posbility: 0.8229
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return
+---------------------------
+Next Token :  True, Posbility: 0.4795
+Next Token :  False, Posbility: 0.3684
+Next Token :  ', Posbility: 0.0368
+Next Token :  ", Posbility: 0.0324
+Next Token :  None, Posbility: 0.0175
+Choose :  True,  Posbility: 0.4795
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+---------------------------
+Next Token : 
+, Posbility: 0.9499
+Next Token : 
+
+, Posbility: 0.0273
+Next Token :  , Posbility: 0.0081
+Next Token :  #, Posbility: 0.0041
+Next Token : ;, Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9499
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+
+---------------------------
+Next Token :     , Posbility: 0.7262
+Next Token :         , Posbility: 0.2358
+Next Token : 
+, Posbility: 0.0279
+Next Token :             , Posbility: 0.0053
+Next Token : #, Posbility: 0.0009
+Choose :     ,  Posbility: 0.7262
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    
+---------------------------
+Next Token : return, Posbility: 0.8598
+Next Token : else, Posbility: 0.1112
+Next Token : 
+, Posbility: 0.0175
+Next Token : print, Posbility: 0.0034
+Next Token : #, Posbility: 0.0033
+Choose : return,  Posbility: 0.8598
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9961
+Next Token :  True, Posbility: 0.0015
+Next Token :   , Posbility: 0.0007
+Next Token :  None, Posbility: 0.0006
+Next Token : False, Posbility: 0.0001
+Choose :  False,  Posbility: 0.9961
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+---------------------------
+Next Token : 
+, Posbility: 0.7170
+Next Token : 
+
+, Posbility: 0.2219
+Next Token : <|endoftext|>, Posbility: 0.0416
+Next Token :  , Posbility: 0.0087
+Next Token :     , Posbility: 0.0034
+Choose : 
+,  Posbility: 0.7170
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.7590
+Next Token :     , Posbility: 0.0525
+Next Token : <|endoftext|>, Posbility: 0.0476
+Next Token : #, Posbility: 0.0381
+Next Token : def, Posbility: 0.0211
+Choose : 
+,  Posbility: 0.7590
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9211
+Next Token : <|endoftext|>, Posbility: 0.0461
+Next Token : 
+
+, Posbility: 0.0199
+Next Token :     , Posbility: 0.0090
+Next Token :         , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9211
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5751
+Next Token : #, Posbility: 0.1676
+Next Token : def, Posbility: 0.1284
+Next Token : 
+, Posbility: 0.0345
+Next Token : if, Posbility: 0.0189
+Choose : '',  Posbility: 0.5751
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6633
+Next Token : Check, Posbility: 0.0455
+Next Token :  Write, Posbility: 0.0198
+Next Token : 
+, Posbility: 0.0164
+Next Token : Function, Posbility: 0.0155
+Choose : Write,  Posbility: 0.6633
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9839
+Next Token :  your, Posbility: 0.0034
+Next Token :  function, Posbility: 0.0031
+Next Token :  an, Posbility: 0.0025
+Next Token :  the, Posbility: 0.0021
+Choose :  a,  Posbility: 0.9839
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9483
+Next Token :  Python, Posbility: 0.0102
+Next Token :  program, Posbility: 0.0093
+Next Token :  python, Posbility: 0.0052
+Next Token :  Function, Posbility: 0.0050
+Choose :  function,  Posbility: 0.9483
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7904
+Next Token :  that, Posbility: 0.1471
+Next Token :  which, Posbility: 0.0200
+Next Token :  for, Posbility: 0.0065
+Next Token :  called, Posbility: 0.0056
+Choose :  to,  Posbility: 0.7904
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.1758
+Next Token :  print, Posbility: 0.0803
+Next Token :  find, Posbility: 0.0720
+Next Token :  get, Posbility: 0.0689
+Next Token :  return, Posbility: 0.0548
+Choose :  check,  Posbility: 0.1758
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check
+---------------------------
+Next Token :  if, Posbility: 0.7524
+Next Token :  whether, Posbility: 0.0785
+Next Token :  the, Posbility: 0.0593
+Next Token :  for, Posbility: 0.0228
+Next Token :  a, Posbility: 0.0125
+Choose :  if,  Posbility: 0.7524
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if
+---------------------------
+Next Token :  the, Posbility: 0.7486
+Next Token :  a, Posbility: 0.0849
+Next Token :  there, Posbility: 0.0300
+Next Token :  all, Posbility: 0.0253
+Next Token :  any, Posbility: 0.0130
+Choose :  the,  Posbility: 0.7486
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the
+---------------------------
+Next Token :  given, Posbility: 0.4147
+Next Token :  tuple, Posbility: 0.2866
+Next Token :  list, Posbility: 0.0483
+Next Token :  dictionary, Posbility: 0.0415
+Next Token :  string, Posbility: 0.0254
+Choose :  given,  Posbility: 0.4147
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given
+---------------------------
+Next Token :  list, Posbility: 0.2393
+Next Token :  string, Posbility: 0.2011
+Next Token :  tuple, Posbility: 0.1957
+Next Token :  dictionary, Posbility: 0.0733
+Next Token :  set, Posbility: 0.0299
+Choose :  list,  Posbility: 0.2393
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list
+---------------------------
+Next Token :  has, Posbility: 0.5896
+Next Token :  is, Posbility: 0.1369
+Next Token :  of, Posbility: 0.1181
+Next Token :  contains, Posbility: 0.0969
+Next Token :  or, Posbility: 0.0142
+Choose :  has,  Posbility: 0.5896
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has
+---------------------------
+Next Token :  any, Posbility: 0.9484
+Next Token :  only, Posbility: 0.0072
+Next Token :  at, Posbility: 0.0055
+Next Token :  a, Posbility: 0.0042
+Next Token :  no, Posbility: 0.0037
+Choose :  any,  Posbility: 0.9484
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any
+---------------------------
+Next Token :  none, Posbility: 0.5837
+Next Token :  value, Posbility: 0.1678
+Next Token :  None, Posbility: 0.0414
+Next Token :  element, Posbility: 0.0193
+Next Token :  non, Posbility: 0.0163
+Choose :  none,  Posbility: 0.5837
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none
+---------------------------
+Next Token :  value, Posbility: 0.9897
+Next Token :  values, Posbility: 0.0027
+Next Token :  or, Posbility: 0.0018
+Next Token :  element, Posbility: 0.0011
+Next Token :  ', Posbility: 0.0005
+Choose :  value,  Posbility: 0.9897
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value
+---------------------------
+Next Token :  or, Posbility: 0.9758
+Next Token : .', Posbility: 0.0120
+Next Token : '', Posbility: 0.0026
+Next Token : 
+, Posbility: 0.0017
+Next Token :  in, Posbility: 0.0017
+Choose :  or,  Posbility: 0.9758
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value or
+---------------------------
+Next Token :  not, Posbility: 0.9973
+Next Token : 
+, Posbility: 0.0012
+Next Token :  , Posbility: 0.0006
+Next Token :  is, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  not,  Posbility: 0.9973
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value or not
+---------------------------
+Next Token : .', Posbility: 0.9401
+Next Token : ., Posbility: 0.0397
+Next Token : '', Posbility: 0.0113
+Next Token : ,, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0009
+Choose : .',  Posbility: 0.9401
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value or not.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9787
+Next Token : 
+
+, Posbility: 0.0137
+Next Token :  , Posbility: 0.0023
+Next Token : def, Posbility: 0.0020
+Next Token :     , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9787
+---------------------------
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9513
+Next Token : 
+, Posbility: 0.0386
+Next Token : #, Posbility: 0.0055
+Next Token : '', Posbility: 0.0015
+Next Token : from, Posbility: 0.0005
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.780760049819946
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check if the given tuple has any none value or not.'''
+def check_tuple(tuple):
+    '''Check if the tuple has any none value or not.'''
+    for i in tuple:
+        if i == None:
+            return True
+    return False
+
+
+'''Write a function to check if the given list has any none value or not.'''
+

@@ -1,0 +1,830 @@
+<<<<<<<<<<<< 190 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sum, Posbility: 0.4845
+Next Token :  compute, Posbility: 0.0467
+Next Token :  get, Posbility: 0.0339
+Next Token :  digits, Posbility: 0.0300
+Next Token :  digit, Posbility: 0.0262
+Choose :  sum,  Posbility: 0.4845
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum
+---------------------------
+Next Token : _, Posbility: 0.6528
+Next Token : Dig, Posbility: 0.1820
+Next Token : (, Posbility: 0.0420
+Next Token : Of, Posbility: 0.0330
+Next Token : of, Posbility: 0.0203
+Choose : _,  Posbility: 0.6528
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_
+---------------------------
+Next Token : dig, Posbility: 0.7532
+Next Token : of, Posbility: 0.1676
+Next Token : digit, Posbility: 0.0224
+Next Token : d, Posbility: 0.0085
+Next Token : n, Posbility: 0.0063
+Choose : dig,  Posbility: 0.7532
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_dig
+---------------------------
+Next Token : its, Posbility: 0.9339
+Next Token : (, Posbility: 0.0400
+Next Token : _, Posbility: 0.0159
+Next Token : ets, Posbility: 0.0022
+Next Token : ():, Posbility: 0.0021
+Choose : its,  Posbility: 0.9339
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits
+---------------------------
+Next Token : (, Posbility: 0.8062
+Next Token : _, Posbility: 0.1725
+Next Token : ():, Posbility: 0.0081
+Next Token :  (, Posbility: 0.0079
+Next Token : 2, Posbility: 0.0013
+Choose : (,  Posbility: 0.8062
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(
+---------------------------
+Next Token : n, Posbility: 0.2847
+Next Token : l, Posbility: 0.1861
+Next Token : list, Posbility: 0.1005
+Next Token : num, Posbility: 0.0746
+Next Token : a, Posbility: 0.0398
+Choose : n,  Posbility: 0.2847
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(n
+---------------------------
+Next Token : ums, Posbility: 0.4727
+Next Token : umbers, Posbility: 0.4060
+Next Token : ):, Posbility: 0.0883
+Next Token : _, Posbility: 0.0090
+Next Token : :, Posbility: 0.0051
+Choose : ums,  Posbility: 0.4727
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums
+---------------------------
+Next Token : ):, Posbility: 0.9312
+Next Token : :, Posbility: 0.0398
+Next Token : ,, Posbility: 0.0139
+Next Token : ), Posbility: 0.0065
+Next Token : _, Posbility: 0.0061
+Choose : ):,  Posbility: 0.9312
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+---------------------------
+Next Token : 
+, Posbility: 0.9351
+Next Token : 
+
+, Posbility: 0.0273
+Next Token : , Posbility: 0.0157
+Next Token :  , Posbility: 0.0120
+Next Token :   , Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9351
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+
+---------------------------
+Next Token :     , Posbility: 0.9003
+Next Token :   , Posbility: 0.0604
+Next Token : 	, Posbility: 0.0249
+Next Token :    , Posbility: 0.0066
+Next Token :         , Posbility: 0.0021
+Choose :     ,  Posbility: 0.9003
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    
+---------------------------
+Next Token : sum, Posbility: 0.1813
+Next Token : '', Posbility: 0.1749
+Next Token : #, Posbility: 0.0874
+Next Token : return, Posbility: 0.0661
+Next Token : total, Posbility: 0.0634
+Choose : sum,  Posbility: 0.1813
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.5512
+Next Token : _, Posbility: 0.3036
+Next Token : =, Posbility: 0.1142
+Next Token : 1, Posbility: 0.0079
+Next Token : ,, Posbility: 0.0022
+Choose :  =,  Posbility: 0.5512
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9822
+Next Token : 0, Posbility: 0.0042
+Next Token :  [], Posbility: 0.0027
+Next Token :  sum, Posbility: 0.0023
+Next Token :  [, Posbility: 0.0015
+Choose :  0,  Posbility: 0.9822
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9508
+Next Token : 
+
+, Posbility: 0.0285
+Next Token :  , Posbility: 0.0100
+Next Token : ;, Posbility: 0.0035
+Next Token :  #, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9508
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9982
+Next Token :   , Posbility: 0.0003
+Next Token : 	, Posbility: 0.0003
+Next Token :         , Posbility: 0.0003
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9982
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.9013
+Next Token : while, Posbility: 0.0166
+Next Token : #, Posbility: 0.0135
+Next Token : 
+, Posbility: 0.0071
+Next Token : n, Posbility: 0.0068
+Choose : for,  Posbility: 0.9013
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for
+---------------------------
+Next Token :  num, Posbility: 0.3916
+Next Token :  i, Posbility: 0.3054
+Next Token :  n, Posbility: 0.0947
+Next Token :  number, Posbility: 0.0449
+Next Token :  x, Posbility: 0.0441
+Choose :  num,  Posbility: 0.3916
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num
+---------------------------
+Next Token :  in, Posbility: 0.9949
+Next Token : s, Posbility: 0.0030
+Next Token : _, Posbility: 0.0011
+Next Token : 1, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9949
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in
+---------------------------
+Next Token :  num, Posbility: 0.9880
+Next Token :  range, Posbility: 0.0065
+Next Token :  numbers, Posbility: 0.0011
+Next Token :  list, Posbility: 0.0008
+Next Token :  reversed, Posbility: 0.0007
+Choose :  num,  Posbility: 0.9880
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in num
+---------------------------
+Next Token : s, Posbility: 0.9999
+Next Token : _, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : bs, Posbility: 0.0000
+Choose : s,  Posbility: 0.9999
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums
+---------------------------
+Next Token : :, Posbility: 0.9947
+Next Token :  :, Posbility: 0.0030
+Next Token : [, Posbility: 0.0017
+Next Token : ., Posbility: 0.0003
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9947
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+---------------------------
+Next Token : 
+, Posbility: 0.9864
+Next Token :  , Posbility: 0.0039
+Next Token :  sum, Posbility: 0.0025
+Next Token :   , Posbility: 0.0020
+Next Token :  #, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9864
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+
+---------------------------
+Next Token :         , Posbility: 0.9843
+Next Token :       , Posbility: 0.0072
+Next Token :        , Posbility: 0.0040
+Next Token :             , Posbility: 0.0017
+Next Token :     , Posbility: 0.0009
+Choose :         ,  Posbility: 0.9843
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        
+---------------------------
+Next Token : sum, Posbility: 0.9582
+Next Token : if, Posbility: 0.0123
+Next Token : num, Posbility: 0.0045
+Next Token : #, Posbility: 0.0041
+Next Token : print, Posbility: 0.0031
+Choose : sum,  Posbility: 0.9582
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum
+---------------------------
+Next Token :  +=, Posbility: 0.8274
+Next Token :  =, Posbility: 0.1264
+Next Token : +=, Posbility: 0.0422
+Next Token : _, Posbility: 0.0011
+Next Token : =, Posbility: 0.0010
+Choose :  +=,  Posbility: 0.8274
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum +=
+---------------------------
+Next Token :  num, Posbility: 0.7803
+Next Token :  int, Posbility: 0.1744
+Next Token :  (, Posbility: 0.0137
+Next Token :  abs, Posbility: 0.0074
+Next Token :  sum, Posbility: 0.0046
+Choose :  num,  Posbility: 0.7803
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+---------------------------
+Next Token : 
+, Posbility: 0.7377
+Next Token :  %, Posbility: 0.0788
+Next Token : 
+
+, Posbility: 0.0496
+Next Token :  //, Posbility: 0.0453
+Next Token : //, Posbility: 0.0171
+Choose : 
+,  Posbility: 0.7377
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+
+---------------------------
+Next Token :     , Posbility: 0.9799
+Next Token :         , Posbility: 0.0180
+Next Token : 
+, Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9799
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    
+---------------------------
+Next Token : return, Posbility: 0.9358
+Next Token : print, Posbility: 0.0472
+Next Token : 
+, Posbility: 0.0073
+Next Token : #, Posbility: 0.0027
+Next Token : sum, Posbility: 0.0027
+Choose : return,  Posbility: 0.9358
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9887
+Next Token : (, Posbility: 0.0038
+Next Token :  int, Posbility: 0.0017
+Next Token :  num, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0008
+Choose :  sum,  Posbility: 0.9887
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.7673
+Next Token : 
+
+, Posbility: 0.1935
+Next Token : <|endoftext|>, Posbility: 0.0207
+Next Token :  , Posbility: 0.0113
+Next Token :     , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.7673
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+---------------------------
+Next Token : 
+, Posbility: 0.8029
+Next Token : print, Posbility: 0.0504
+Next Token : #, Posbility: 0.0237
+Next Token :     , Posbility: 0.0231
+Next Token : '', Posbility: 0.0207
+Choose : 
+,  Posbility: 0.8029
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9657
+Next Token : 
+
+, Posbility: 0.0109
+Next Token :     , Posbility: 0.0098
+Next Token : <|endoftext|>, Posbility: 0.0093
+Next Token :         , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9657
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.6027
+Next Token : #, Posbility: 0.1476
+Next Token : def, Posbility: 0.1075
+Next Token : print, Posbility: 0.0561
+Next Token : 
+, Posbility: 0.0192
+Choose : '',  Posbility: 0.6027
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7966
+Next Token : 
+, Posbility: 0.0407
+Next Token :  Write, Posbility: 0.0213
+Next Token : Given, Posbility: 0.0082
+Next Token : Return, Posbility: 0.0079
+Choose : Write,  Posbility: 0.7966
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9917
+Next Token :  your, Posbility: 0.0027
+Next Token :  an, Posbility: 0.0019
+Next Token :  the, Posbility: 0.0008
+Next Token :  function, Posbility: 0.0005
+Choose :  a,  Posbility: 0.9917
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9412
+Next Token :  Python, Posbility: 0.0165
+Next Token :  program, Posbility: 0.0115
+Next Token :  python, Posbility: 0.0070
+Next Token :  recursive, Posbility: 0.0043
+Choose :  function,  Posbility: 0.9412
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7008
+Next Token :  that, Posbility: 0.1968
+Next Token :  called, Posbility: 0.0136
+Next Token :  named, Posbility: 0.0121
+Next Token :  which, Posbility: 0.0109
+Choose :  to,  Posbility: 0.7008
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to
+---------------------------
+Next Token :  compute, Posbility: 0.2078
+Next Token :  find, Posbility: 0.1405
+Next Token :  print, Posbility: 0.0801
+Next Token :  return, Posbility: 0.0714
+Next Token :  remove, Posbility: 0.0479
+Choose :  compute,  Posbility: 0.2078
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute
+---------------------------
+Next Token :  the, Posbility: 0.8689
+Next Token :  a, Posbility: 0.0214
+Next Token :  sum, Posbility: 0.0111
+Next Token :  how, Posbility: 0.0059
+Next Token :  and, Posbility: 0.0056
+Choose :  the,  Posbility: 0.8689
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the
+---------------------------
+Next Token :  sum, Posbility: 0.2589
+Next Token :  product, Posbility: 0.1604
+Next Token :  number, Posbility: 0.0509
+Next Token :  fact, Posbility: 0.0389
+Next Token :  average, Posbility: 0.0368
+Choose :  sum,  Posbility: 0.2589
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum
+---------------------------
+Next Token :  of, Posbility: 0.9888
+Next Token :  and, Posbility: 0.0015
+Next Token : ,, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0006
+Next Token :  in, Posbility: 0.0005
+Choose :  of,  Posbility: 0.9888
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of
+---------------------------
+Next Token :  digits, Posbility: 0.5805
+Next Token :  the, Posbility: 0.1711
+Next Token :  a, Posbility: 0.0173
+Next Token :  even, Posbility: 0.0171
+Next Token :  numbers, Posbility: 0.0164
+Choose :  digits,  Posbility: 0.5805
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits
+---------------------------
+Next Token :  of, Posbility: 0.9597
+Next Token :  in, Posbility: 0.0108
+Next Token :  using, Posbility: 0.0031
+Next Token :  (, Posbility: 0.0022
+Next Token :  for, Posbility: 0.0019
+Choose :  of,  Posbility: 0.9597
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of
+---------------------------
+Next Token :  each, Posbility: 0.8570
+Next Token :  a, Posbility: 0.0669
+Next Token :  the, Posbility: 0.0214
+Next Token :  all, Posbility: 0.0093
+Next Token :  numbers, Posbility: 0.0093
+Choose :  each,  Posbility: 0.8570
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each
+---------------------------
+Next Token :  number, Posbility: 0.9187
+Next Token :  element, Posbility: 0.0261
+Next Token :  of, Posbility: 0.0036
+Next Token :  non, Posbility: 0.0035
+Next Token :  digit, Posbility: 0.0034
+Choose :  number,  Posbility: 0.9187
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number
+---------------------------
+Next Token :  of, Posbility: 0.9316
+Next Token :  in, Posbility: 0.0313
+Next Token : 
+, Posbility: 0.0056
+Next Token : ., Posbility: 0.0050
+Next Token : .', Posbility: 0.0046
+Choose :  of,  Posbility: 0.9316
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of
+---------------------------
+Next Token :  a, Posbility: 0.9615
+Next Token :  an, Posbility: 0.0077
+Next Token :  the, Posbility: 0.0068
+Next Token :  two, Posbility: 0.0065
+Next Token :  list, Posbility: 0.0022
+Choose :  a,  Posbility: 0.9615
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a
+---------------------------
+Next Token :  given, Posbility: 0.9459
+Next Token :  list, Posbility: 0.0193
+Next Token : 
+, Posbility: 0.0110
+Next Token :  sequence, Posbility: 0.0040
+Next Token :  , Posbility: 0.0025
+Choose :  given,  Posbility: 0.9459
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a given
+---------------------------
+Next Token :  list, Posbility: 0.9187
+Next Token :  array, Posbility: 0.0277
+Next Token : 
+, Posbility: 0.0147
+Next Token :  string, Posbility: 0.0097
+Next Token :  set, Posbility: 0.0041
+Choose :  list,  Posbility: 0.9187
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a given list
+---------------------------
+Next Token : .', Posbility: 0.6943
+Next Token : ., Posbility: 0.1628
+Next Token :  of, Posbility: 0.0408
+Next Token : ,, Posbility: 0.0168
+Next Token : '', Posbility: 0.0133
+Choose : .',  Posbility: 0.6943
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a given list.'
+---------------------------
+Next Token : '', Posbility: 0.9990
+Next Token : 
+, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : '',  Posbility: 0.9990
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9071
+Next Token : 
+
+, Posbility: 0.0801
+Next Token :  , Posbility: 0.0038
+Next Token : def, Posbility: 0.0029
+Next Token :   , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9071
+---------------------------
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a given list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9135
+Next Token : 
+, Posbility: 0.0584
+Next Token : #, Posbility: 0.0114
+Next Token : from, Posbility: 0.0029
+Next Token : import, Posbility: 0.0026
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.220077276229858
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to compute the sum of digits of each number of a given list.'''
+def sum_digits(nums):
+    sum = 0
+    for num in nums:
+        sum += num
+    return sum
+
+
+'''Write a function to compute the sum of digits of each number of a given list.'''
+

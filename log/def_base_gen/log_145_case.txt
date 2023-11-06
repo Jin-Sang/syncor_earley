@@ -1,0 +1,616 @@
+<<<<<<<<<<<< 145 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  rear, Posbility: 0.6111
+Next Token :  get, Posbility: 0.0329
+Next Token :  write, Posbility: 0.0233
+Next Token :  reverse, Posbility: 0.0188
+Next Token :  list, Posbility: 0.0156
+Choose :  rear,  Posbility: 0.6111
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear
+---------------------------
+Next Token : (, Posbility: 0.4821
+Next Token : _, Posbility: 0.4265
+Next Token : Element, Posbility: 0.0071
+Next Token : ():, Posbility: 0.0069
+Next Token : E, Posbility: 0.0065
+Choose : (,  Posbility: 0.4821
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(
+---------------------------
+Next Token : t, Posbility: 0.4229
+Next Token : l, Posbility: 0.1585
+Next Token : list, Posbility: 0.0811
+Next Token : tu, Posbility: 0.0630
+Next Token : a, Posbility: 0.0182
+Choose : t,  Posbility: 0.4229
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(t
+---------------------------
+Next Token : up, Posbility: 0.4809
+Next Token : ):, Posbility: 0.2600
+Next Token : uple, Posbility: 0.1596
+Next Token : ups, Posbility: 0.0333
+Next Token : pl, Posbility: 0.0112
+Choose : up,  Posbility: 0.4809
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup
+---------------------------
+Next Token : ):, Posbility: 0.8205
+Next Token : _, Posbility: 0.0679
+Next Token : 1, Posbility: 0.0280
+Next Token : List, Posbility: 0.0274
+Next Token : ,, Posbility: 0.0129
+Choose : ):,  Posbility: 0.8205
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+---------------------------
+Next Token : 
+, Posbility: 0.9462
+Next Token : 
+
+, Posbility: 0.0165
+Next Token :  , Posbility: 0.0128
+Next Token : , Posbility: 0.0102
+Next Token :  #, Posbility: 0.0054
+Choose : 
+,  Posbility: 0.9462
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+
+---------------------------
+Next Token :     , Posbility: 0.9545
+Next Token :   , Posbility: 0.0260
+Next Token : 	, Posbility: 0.0114
+Next Token :    , Posbility: 0.0031
+Next Token :         , Posbility: 0.0024
+Choose :     ,  Posbility: 0.9545
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    
+---------------------------
+Next Token : return, Posbility: 0.3569
+Next Token : re, Posbility: 0.1143
+Next Token : '', Posbility: 0.1063
+Next Token : l, Posbility: 0.0470
+Next Token : r, Posbility: 0.0375
+Choose : return,  Posbility: 0.3569
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return
+---------------------------
+Next Token :  t, Posbility: 0.7618
+Next Token :  [, Posbility: 0.0654
+Next Token :  list, Posbility: 0.0566
+Next Token : (, Posbility: 0.0345
+Next Token :  (, Posbility: 0.0322
+Choose :  t,  Posbility: 0.7618
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return t
+---------------------------
+Next Token : up, Posbility: 0.9999
+Next Token : [, Posbility: 0.0001
+Next Token : upp, Posbility: 0.0000
+Next Token : ups, Posbility: 0.0000
+Next Token : uple, Posbility: 0.0000
+Choose : up,  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup
+---------------------------
+Next Token : [, Posbility: 0.9836
+Next Token :  [, Posbility: 0.0102
+Next Token : ., Posbility: 0.0025
+Next Token : 
+, Posbility: 0.0016
+Next Token : 
+
+, Posbility: 0.0006
+Choose : [,  Posbility: 0.9836
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[
+---------------------------
+Next Token : 0, Posbility: 0.4569
+Next Token : -, Posbility: 0.2424
+Next Token : 1, Posbility: 0.2261
+Next Token : 2, Posbility: 0.0301
+Next Token : len, Posbility: 0.0143
+Choose : 0,  Posbility: 0.4569
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0
+---------------------------
+Next Token : ], Posbility: 0.5153
+Next Token : ][, Posbility: 0.4732
+Next Token : ]., Posbility: 0.0089
+Next Token : :, Posbility: 0.0011
+Next Token : ];, Posbility: 0.0006
+Choose : ],  Posbility: 0.5153
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+---------------------------
+Next Token : 
+, Posbility: 0.7435
+Next Token : 
+
+, Posbility: 0.2046
+Next Token : <|endoftext|>, Posbility: 0.0203
+Next Token :  if, Posbility: 0.0079
+Next Token :  , Posbility: 0.0070
+Choose : 
+,  Posbility: 0.7435
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+---------------------------
+Next Token : 
+, Posbility: 0.8229
+Next Token :     , Posbility: 0.0351
+Next Token : def, Posbility: 0.0332
+Next Token : '', Posbility: 0.0207
+Next Token : <|endoftext|>, Posbility: 0.0189
+Choose : 
+,  Posbility: 0.8229
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9844
+Next Token : <|endoftext|>, Posbility: 0.0071
+Next Token : 
+
+, Posbility: 0.0048
+Next Token :     , Posbility: 0.0025
+Next Token :  , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9844
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5032
+Next Token : #, Posbility: 0.1874
+Next Token : def, Posbility: 0.1733
+Next Token : print, Posbility: 0.0375
+Next Token : 
+, Posbility: 0.0166
+Choose : '',  Posbility: 0.5032
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8675
+Next Token :  Write, Posbility: 0.0176
+Next Token : 
+, Posbility: 0.0172
+Next Token : A, Posbility: 0.0068
+Next Token : Create, Posbility: 0.0064
+Choose : Write,  Posbility: 0.8675
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9938
+Next Token :  your, Posbility: 0.0012
+Next Token :  an, Posbility: 0.0011
+Next Token :  the, Posbility: 0.0009
+Next Token :  another, Posbility: 0.0007
+Choose :  a,  Posbility: 0.9938
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9831
+Next Token :  program, Posbility: 0.0029
+Next Token :  Python, Posbility: 0.0010
+Next Token :  python, Posbility: 0.0009
+Next Token :  Function, Posbility: 0.0008
+Choose :  function,  Posbility: 0.9831
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.8988
+Next Token :  to, Posbility: 0.0397
+Next Token :  called, Posbility: 0.0223
+Next Token :  named, Posbility: 0.0161
+Next Token :  which, Posbility: 0.0041
+Choose :  that,  Posbility: 0.8988
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.7796
+Next Token :  returns, Posbility: 0.0570
+Next Token :  accepts, Posbility: 0.0541
+Next Token :  can, Posbility: 0.0083
+Next Token :  receives, Posbility: 0.0069
+Choose :  takes,  Posbility: 0.7796
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  in, Posbility: 0.7953
+Next Token :  a, Posbility: 0.1470
+Next Token :  as, Posbility: 0.0206
+Next Token :  an, Posbility: 0.0167
+Next Token :  two, Posbility: 0.0058
+Choose :  in,  Posbility: 0.7953
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in
+---------------------------
+Next Token :  a, Posbility: 0.8763
+Next Token :  an, Posbility: 0.0597
+Next Token :  two, Posbility: 0.0376
+Next Token :  the, Posbility: 0.0056
+Next Token :  three, Posbility: 0.0054
+Choose :  a,  Posbility: 0.8763
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a
+---------------------------
+Next Token :  list, Posbility: 0.7859
+Next Token :  string, Posbility: 0.0526
+Next Token :  dictionary, Posbility: 0.0511
+Next Token :  tuple, Posbility: 0.0299
+Next Token :  number, Posbility: 0.0057
+Choose :  list,  Posbility: 0.7859
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list
+---------------------------
+Next Token :  of, Posbility: 0.8909
+Next Token :  and, Posbility: 0.0856
+Next Token : ,, Posbility: 0.0116
+Next Token :  with, Posbility: 0.0021
+Next Token :  as, Posbility: 0.0015
+Choose :  of,  Posbility: 0.8909
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of
+---------------------------
+Next Token :  tu, Posbility: 0.8402
+Next Token :  lists, Posbility: 0.0693
+Next Token :  strings, Posbility: 0.0232
+Next Token :  diction, Posbility: 0.0175
+Next Token :  numbers, Posbility: 0.0062
+Choose :  tu,  Posbility: 0.8402
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tu
+---------------------------
+Next Token : ples, Posbility: 1.0000
+Next Token : pl, Posbility: 0.0000
+Next Token : pless, Posbility: 0.0000
+Next Token : pe, Posbility: 0.0000
+Next Token : ps, Posbility: 0.0000
+Choose : ples,  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples
+---------------------------
+Next Token :  and, Posbility: 0.8392
+Next Token : ,, Posbility: 0.0718
+Next Token :  as, Posbility: 0.0394
+Next Token :  with, Posbility: 0.0115
+Next Token :  (, Posbility: 0.0070
+Choose :  and,  Posbility: 0.8392
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and
+---------------------------
+Next Token :  returns, Posbility: 0.8932
+Next Token :  prints, Posbility: 0.0120
+Next Token :  return, Posbility: 0.0091
+Next Token :  revers, Posbility: 0.0080
+Next Token :  a, Posbility: 0.0080
+Choose :  returns,  Posbility: 0.8932
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns
+---------------------------
+Next Token :  a, Posbility: 0.7791
+Next Token :  the, Posbility: 0.1718
+Next Token :  all, Posbility: 0.0082
+Next Token :  an, Posbility: 0.0071
+Next Token :  another, Posbility: 0.0059
+Choose :  a,  Posbility: 0.7791
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a
+---------------------------
+Next Token :  list, Posbility: 0.8707
+Next Token :  new, Posbility: 0.0492
+Next Token :  dictionary, Posbility: 0.0318
+Next Token :  tuple, Posbility: 0.0124
+Next Token :  sorted, Posbility: 0.0066
+Choose :  list,  Posbility: 0.8707
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list
+---------------------------
+Next Token :  containing, Posbility: 0.7408
+Next Token :  of, Posbility: 0.1639
+Next Token :  with, Posbility: 0.0359
+Next Token :  that, Posbility: 0.0150
+Next Token :  where, Posbility: 0.0101
+Choose :  containing,  Posbility: 0.7408
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing
+---------------------------
+Next Token :  the, Posbility: 0.8937
+Next Token :  all, Posbility: 0.0536
+Next Token :  each, Posbility: 0.0160
+Next Token :  every, Posbility: 0.0084
+Next Token :  only, Posbility: 0.0053
+Choose :  the,  Posbility: 0.8937
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the
+---------------------------
+Next Token :  front, Posbility: 0.7300
+Next Token :  middle, Posbility: 0.0704
+Next Token :  rear, Posbility: 0.0116
+Next Token :  tail, Posbility: 0.0108
+Next Token :  elements, Posbility: 0.0107
+Choose :  front,  Posbility: 0.7300
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front
+---------------------------
+Next Token :  element, Posbility: 0.9841
+Next Token :  elements, Posbility: 0.0063
+Next Token : 
+, Posbility: 0.0017
+Next Token :  item, Posbility: 0.0011
+Next Token :  and, Posbility: 0.0009
+Choose :  element,  Posbility: 0.9841
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element
+---------------------------
+Next Token :  of, Posbility: 0.9979
+Next Token : 
+, Posbility: 0.0006
+Next Token : .', Posbility: 0.0004
+Next Token : '', Posbility: 0.0002
+Next Token :  in, Posbility: 0.0001
+Choose :  of,  Posbility: 0.9979
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of
+---------------------------
+Next Token :  each, Posbility: 0.9995
+Next Token :  the, Posbility: 0.0002
+Next Token :  every, Posbility: 0.0001
+Next Token :  tu, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose :  each,  Posbility: 0.9995
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of each
+---------------------------
+Next Token :  tuple, Posbility: 0.9959
+Next Token :  tu, Posbility: 0.0011
+Next Token :  t, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0007
+Next Token :  pair, Posbility: 0.0002
+Choose :  tuple,  Posbility: 0.9959
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of each tuple
+---------------------------
+Next Token : .', Posbility: 0.9643
+Next Token : ., Posbility: 0.0218
+Next Token : '', Posbility: 0.0073
+Next Token :  ', Posbility: 0.0010
+Next Token :  and, Posbility: 0.0007
+Choose : .',  Posbility: 0.9643
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of each tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of each tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9828
+Next Token : 
+
+, Posbility: 0.0147
+Next Token :  , Posbility: 0.0011
+Next Token : def, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9828
+---------------------------
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of each tuple.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9769
+Next Token : 
+, Posbility: 0.0184
+Next Token : #, Posbility: 0.0023
+Next Token : from, Posbility: 0.0004
+Next Token : class, Posbility: 0.0003
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.478381872177124
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in a list of tuples and returns a list containing the rear element of each tuple.'''
+def rear(tup):
+    return tup[0]
+
+
+'''Write a function that takes in a list of tuples and returns a list containing the front element of each tuple.'''
+

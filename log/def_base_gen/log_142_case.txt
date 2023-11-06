@@ -1,0 +1,423 @@
+<<<<<<<<<<<< 142 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  as, Posbility: 0.3513
+Next Token :  find, Posbility: 0.1973
+Next Token :  char, Posbility: 0.0843
+Next Token :  get, Posbility: 0.0529
+Next Token :  print, Posbility: 0.0223
+Choose :  as,  Posbility: 0.3513
+'''Write a function to find the ascii value of a character.'''
+def as
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def as
+---------------------------
+Next Token : ci, Posbility: 0.9983
+Next Token : _, Posbility: 0.0008
+Next Token : cci, Posbility: 0.0001
+Next Token : cil, Posbility: 0.0001
+Next Token : ic, Posbility: 0.0001
+Choose : ci,  Posbility: 0.9983
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def asci
+---------------------------
+Next Token : i, Posbility: 0.9598
+Next Token : _, Posbility: 0.0058
+Next Token : id, Posbility: 0.0047
+Next Token : ival, Posbility: 0.0037
+Next Token : ib, Posbility: 0.0023
+Choose : i,  Posbility: 0.9598
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii
+---------------------------
+Next Token : _, Posbility: 0.5512
+Next Token : (, Posbility: 0.3275
+Next Token : Value, Posbility: 0.0299
+Next Token : Char, Posbility: 0.0165
+Next Token : ():, Posbility: 0.0118
+Choose : _,  Posbility: 0.5512
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_
+---------------------------
+Next Token : value, Posbility: 0.3513
+Next Token : char, Posbility: 0.2106
+Next Token : val, Posbility: 0.1024
+Next Token : character, Posbility: 0.0309
+Next Token : ch, Posbility: 0.0224
+Choose : value,  Posbility: 0.3513
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value
+---------------------------
+Next Token : (, Posbility: 0.8835
+Next Token : _, Posbility: 0.0841
+Next Token :  (, Posbility: 0.0216
+Next Token : ():, Posbility: 0.0078
+Next Token : _(, Posbility: 0.0005
+Choose : (,  Posbility: 0.8835
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(
+---------------------------
+Next Token : char, Posbility: 0.2144
+Next Token : string, Posbility: 0.1251
+Next Token : s, Posbility: 0.0768
+Next Token : c, Posbility: 0.0665
+Next Token : text, Posbility: 0.0561
+Choose : char,  Posbility: 0.2144
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char
+---------------------------
+Next Token : ):, Posbility: 0.8931
+Next Token : ,, Posbility: 0.0463
+Next Token : _, Posbility: 0.0256
+Next Token : :, Posbility: 0.0205
+Next Token : ), Posbility: 0.0073
+Choose : ):,  Posbility: 0.8931
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+---------------------------
+Next Token : 
+, Posbility: 0.9354
+Next Token : , Posbility: 0.0247
+Next Token : 
+
+, Posbility: 0.0209
+Next Token :  , Posbility: 0.0095
+Next Token :   , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9354
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+
+---------------------------
+Next Token :     , Posbility: 0.9100
+Next Token :   , Posbility: 0.0469
+Next Token : 	, Posbility: 0.0325
+Next Token :    , Posbility: 0.0069
+Next Token :      , Posbility: 0.0008
+Choose :     ,  Posbility: 0.9100
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    
+---------------------------
+Next Token : '', Posbility: 0.2376
+Next Token : if, Posbility: 0.2101
+Next Token : return, Posbility: 0.1499
+Next Token : as, Posbility: 0.0518
+Next Token : char, Posbility: 0.0450
+Choose : '',  Posbility: 0.2376
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9993
+Next Token : '", Posbility: 0.0002
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9993
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.1564
+Next Token : Find, Posbility: 0.0877
+Next Token : Returns, Posbility: 0.0680
+Next Token : 
+, Posbility: 0.0647
+Next Token : Function, Posbility: 0.0411
+Choose : Return,  Posbility: 0.1564
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return
+---------------------------
+Next Token :  the, Posbility: 0.7495
+Next Token :  as, Posbility: 0.1507
+Next Token :  an, Posbility: 0.0183
+Next Token :  character, Posbility: 0.0150
+Next Token :  a, Posbility: 0.0147
+Choose :  the,  Posbility: 0.7495
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the
+---------------------------
+Next Token :  as, Posbility: 0.6683
+Next Token :  ASCII, Posbility: 0.0998
+Next Token :  character, Posbility: 0.0715
+Next Token :  value, Posbility: 0.0272
+Next Token :  corresponding, Posbility: 0.0180
+Choose :  as,  Posbility: 0.6683
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the as
+---------------------------
+Next Token : ci, Posbility: 0.9999
+Next Token : cci, Posbility: 0.0000
+Next Token : ic, Posbility: 0.0000
+Next Token :  a, Posbility: 0.0000
+Next Token : cil, Posbility: 0.0000
+Choose : ci,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the asci
+---------------------------
+Next Token : i, Posbility: 0.9982
+Next Token :  i, Posbility: 0.0004
+Next Token :  value, Posbility: 0.0002
+Next Token : id, Posbility: 0.0001
+Next Token : in, Posbility: 0.0001
+Choose : i,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii
+---------------------------
+Next Token :  value, Posbility: 0.9238
+Next Token :  code, Posbility: 0.0124
+Next Token :  number, Posbility: 0.0100
+Next Token :  of, Posbility: 0.0094
+Next Token :  character, Posbility: 0.0080
+Choose :  value,  Posbility: 0.9238
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value
+---------------------------
+Next Token :  of, Posbility: 0.9163
+Next Token :  for, Posbility: 0.0433
+Next Token :  corresponding, Posbility: 0.0075
+Next Token : '', Posbility: 0.0034
+Next Token :  (, Posbility: 0.0027
+Choose :  of,  Posbility: 0.9163
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of
+---------------------------
+Next Token :  a, Posbility: 0.4997
+Next Token :  the, Posbility: 0.1961
+Next Token :  character, Posbility: 0.1409
+Next Token :  char, Posbility: 0.1130
+Next Token :  given, Posbility: 0.0098
+Choose :  a,  Posbility: 0.4997
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a
+---------------------------
+Next Token :  character, Posbility: 0.8654
+Next Token :  given, Posbility: 0.0453
+Next Token :  char, Posbility: 0.0407
+Next Token :  specified, Posbility: 0.0079
+Next Token :  single, Posbility: 0.0078
+Choose :  character,  Posbility: 0.8654
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character
+---------------------------
+Next Token : .', Posbility: 0.5777
+Next Token : ., Posbility: 0.1793
+Next Token : '', Posbility: 0.0670
+Next Token :  in, Posbility: 0.0358
+Next Token : ,, Posbility: 0.0276
+Choose : .',  Posbility: 0.5777
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token :  ', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : "", Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9671
+Next Token : 
+
+, Posbility: 0.0283
+Next Token :  , Posbility: 0.0026
+Next Token :     , Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9671
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9952
+Next Token :   , Posbility: 0.0014
+Next Token :    , Posbility: 0.0006
+Next Token :         , Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9952
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.3290
+Next Token : if, Posbility: 0.2795
+Next Token : as, Posbility: 0.0640
+Next Token : #, Posbility: 0.0487
+Next Token : char, Posbility: 0.0411
+Choose : return,  Posbility: 0.3290
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return
+---------------------------
+Next Token :  ord, Posbility: 0.7763
+Next Token :  ch, Posbility: 0.0892
+Next Token :  char, Posbility: 0.0253
+Next Token :  (, Posbility: 0.0161
+Next Token :  int, Posbility: 0.0105
+Choose :  ord,  Posbility: 0.7763
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord
+---------------------------
+Next Token : (, Posbility: 0.9990
+Next Token : (', Posbility: 0.0006
+Next Token :  (, Posbility: 0.0001
+Next Token : (", Posbility: 0.0001
+Next Token : ([, Posbility: 0.0000
+Choose : (,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(
+---------------------------
+Next Token : char, Posbility: 0.9936
+Next Token : str, Posbility: 0.0019
+Next Token : ch, Posbility: 0.0016
+Next Token :  char, Posbility: 0.0004
+Next Token : list, Posbility: 0.0002
+Choose : char,  Posbility: 0.9936
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(char
+---------------------------
+Next Token : ), Posbility: 0.9340
+Next Token : )-, Posbility: 0.0269
+Next Token : ., Posbility: 0.0259
+Next Token : )+, Posbility: 0.0096
+Next Token : [, Posbility: 0.0019
+Choose : ),  Posbility: 0.9340
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(char)
+---------------------------
+Next Token : 
+, Posbility: 0.6384
+Next Token : 
+
+, Posbility: 0.2607
+Next Token :  -, Posbility: 0.0550
+Next Token :  +, Posbility: 0.0122
+Next Token : <|endoftext|>, Posbility: 0.0083
+Choose : 
+,  Posbility: 0.6384
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(char)
+
+---------------------------
+Next Token : 
+, Posbility: 0.8600
+Next Token :     , Posbility: 0.0304
+Next Token : '', Posbility: 0.0235
+Next Token : def, Posbility: 0.0232
+Next Token : <|endoftext|>, Posbility: 0.0222
+Choose : 
+,  Posbility: 0.8600
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(char)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9767
+Next Token :     , Posbility: 0.0090
+Next Token : <|endoftext|>, Posbility: 0.0042
+Next Token : 
+
+, Posbility: 0.0041
+Next Token :   , Posbility: 0.0032
+Choose : 
+,  Posbility: 0.9767
+---------------------------
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(char)
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.4057
+Next Token : #, Posbility: 0.2222
+Next Token : '', Posbility: 0.1911
+Next Token : print, Posbility: 0.0358
+Next Token : if, Posbility: 0.0276
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.970378637313843
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the ascii value of a character.'''
+def ascii_value(char):
+    '''Return the ascii value of a character.'''
+    return ord(char)
+
+
+

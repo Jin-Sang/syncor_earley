@@ -1,0 +1,1236 @@
+<<<<<<<<<<<< 282 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sub, Posbility: 0.3522
+Next Token :  is, Posbility: 0.2539
+Next Token :  check, Posbility: 0.1191
+Next Token :  list, Posbility: 0.0353
+Next Token :  Sub, Posbility: 0.0270
+Choose :  sub,  Posbility: 0.3522
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sub
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sub
+---------------------------
+Next Token : list, Posbility: 0.6248
+Next Token : _, Posbility: 0.1589
+Next Token : List, Posbility: 0.1172
+Next Token : (, Posbility: 0.0323
+Next Token : lists, Posbility: 0.0190
+Choose : list,  Posbility: 0.6248
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist
+---------------------------
+Next Token : (, Posbility: 0.7134
+Next Token : _, Posbility: 0.1457
+Next Token : check, Posbility: 0.0344
+Next Token : Check, Posbility: 0.0136
+Next Token : Of, Posbility: 0.0112
+Choose : (,  Posbility: 0.7134
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(
+---------------------------
+Next Token : l, Posbility: 0.2516
+Next Token : list, Posbility: 0.1696
+Next Token : a, Posbility: 0.1080
+Next Token : ls, Posbility: 0.0469
+Next Token : sub, Posbility: 0.0336
+Choose : l,  Posbility: 0.2516
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(l
+---------------------------
+Next Token : st, Posbility: 0.5617
+Next Token : 1, Posbility: 0.2825
+Next Token : ,, Posbility: 0.1046
+Next Token : ):, Posbility: 0.0368
+Next Token : _, Posbility: 0.0035
+Choose : st,  Posbility: 0.5617
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst
+---------------------------
+Next Token : ,, Posbility: 0.5444
+Next Token : 1, Posbility: 0.2991
+Next Token : ):, Posbility: 0.1142
+Next Token : _, Posbility: 0.0228
+Next Token : :, Posbility: 0.0060
+Choose : ,,  Posbility: 0.5444
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst,
+---------------------------
+Next Token :  sub, Posbility: 0.2005
+Next Token : sub, Posbility: 0.1320
+Next Token :  item, Posbility: 0.0507
+Next Token :  other, Posbility: 0.0449
+Next Token :  x, Posbility: 0.0387
+Choose :  sub,  Posbility: 0.2005
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub
+---------------------------
+Next Token : ):, Posbility: 0.3497
+Next Token : list, Posbility: 0.3282
+Next Token : l, Posbility: 0.1557
+Next Token : _, Posbility: 0.0841
+Next Token : List, Posbility: 0.0198
+Choose : ):,  Posbility: 0.3497
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+---------------------------
+Next Token : 
+, Posbility: 0.9099
+Next Token : , Posbility: 0.0332
+Next Token : 
+
+, Posbility: 0.0272
+Next Token :  , Posbility: 0.0141
+Next Token :  #, Posbility: 0.0062
+Choose : 
+,  Posbility: 0.9099
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+
+---------------------------
+Next Token :     , Posbility: 0.9383
+Next Token :   , Posbility: 0.0341
+Next Token : 	, Posbility: 0.0195
+Next Token :    , Posbility: 0.0030
+Next Token :         , Posbility: 0.0023
+Choose :     ,  Posbility: 0.9383
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    
+---------------------------
+Next Token : '', Posbility: 0.3730
+Next Token : if, Posbility: 0.1216
+Next Token : for, Posbility: 0.1106
+Next Token : #, Posbility: 0.0445
+Next Token : return, Posbility: 0.0416
+Choose : '',  Posbility: 0.3730
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1454
+Next Token : Check, Posbility: 0.0989
+Next Token : Return, Posbility: 0.0670
+Next Token : check, Posbility: 0.0647
+Next Token : Function, Posbility: 0.0586
+Choose : 
+,  Posbility: 0.1454
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9299
+Next Token :         , Posbility: 0.0500
+Next Token :      , Posbility: 0.0032
+Next Token :       , Posbility: 0.0027
+Next Token : 	, Posbility: 0.0023
+Choose :     ,  Posbility: 0.9299
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    
+---------------------------
+Next Token : l, Posbility: 0.1127
+Next Token : This, Posbility: 0.0673
+Next Token : :, Posbility: 0.0623
+Next Token : Function, Posbility: 0.0513
+Next Token : Input, Posbility: 0.0357
+Choose : l,  Posbility: 0.1127
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    l
+---------------------------
+Next Token : st, Posbility: 0.9935
+Next Token :  =, Posbility: 0.0023
+Next Token : :, Posbility: 0.0011
+Next Token : =, Posbility: 0.0004
+Next Token :  is, Posbility: 0.0002
+Choose : st,  Posbility: 0.9935
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst
+---------------------------
+Next Token : :, Posbility: 0.3917
+Next Token :  :, Posbility: 0.1835
+Next Token :  =, Posbility: 0.1086
+Next Token :  -, Posbility: 0.0852
+Next Token :  is, Posbility: 0.0673
+Choose : :,  Posbility: 0.3917
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst:
+---------------------------
+Next Token :  list, Posbility: 0.4240
+Next Token :  a, Posbility: 0.1144
+Next Token :  List, Posbility: 0.1062
+Next Token :  the, Posbility: 0.0405
+Next Token : list, Posbility: 0.0341
+Choose :  list,  Posbility: 0.4240
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+---------------------------
+Next Token : 
+, Posbility: 0.3197
+Next Token :  of, Posbility: 0.2678
+Next Token :  to, Posbility: 0.1563
+Next Token : ., Posbility: 0.0216
+Next Token : ,, Posbility: 0.0164
+Choose : 
+,  Posbility: 0.3197
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+
+---------------------------
+Next Token :     , Posbility: 0.8219
+Next Token :         , Posbility: 0.1506
+Next Token :             , Posbility: 0.0113
+Next Token :        , Posbility: 0.0035
+Next Token :       , Posbility: 0.0021
+Choose :     ,  Posbility: 0.8219
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    
+---------------------------
+Next Token : sub, Posbility: 0.9675
+Next Token : '', Posbility: 0.0066
+Next Token : 
+, Posbility: 0.0026
+Next Token : return, Posbility: 0.0020
+Next Token : Sub, Posbility: 0.0017
+Choose : sub,  Posbility: 0.9675
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub
+---------------------------
+Next Token : :, Posbility: 0.9777
+Next Token :  :, Posbility: 0.0097
+Next Token : list, Posbility: 0.0019
+Next Token : l, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0006
+Choose : :,  Posbility: 0.9777
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub:
+---------------------------
+Next Token :  list, Posbility: 0.2450
+Next Token :  int, Posbility: 0.1355
+Next Token :  sub, Posbility: 0.1275
+Next Token :  a, Posbility: 0.0493
+Next Token :  element, Posbility: 0.0422
+Choose :  list,  Posbility: 0.2450
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+---------------------------
+Next Token : 
+, Posbility: 0.6486
+Next Token : 
+
+, Posbility: 0.1316
+Next Token :  of, Posbility: 0.0682
+Next Token :  or, Posbility: 0.0237
+Next Token :  to, Posbility: 0.0153
+Choose : 
+,  Posbility: 0.6486
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+
+---------------------------
+Next Token :     , Posbility: 0.9910
+Next Token :         , Posbility: 0.0052
+Next Token :    , Posbility: 0.0004
+Next Token :      , Posbility: 0.0004
+Next Token :  , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9910
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    
+---------------------------
+Next Token : '', Posbility: 0.3178
+Next Token : return, Posbility: 0.2679
+Next Token : 
+, Posbility: 0.1014
+Next Token : Return, Posbility: 0.0639
+Next Token : Returns, Posbility: 0.0232
+Choose : '',  Posbility: 0.3178
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 't, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9436
+Next Token : 
+
+, Posbility: 0.0495
+Next Token :  , Posbility: 0.0036
+Next Token :     , Posbility: 0.0016
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9436
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9934
+Next Token :         , Posbility: 0.0012
+Next Token :    , Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0008
+Next Token :   , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9934
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    
+---------------------------
+Next Token : if, Posbility: 0.2077
+Next Token : for, Posbility: 0.1447
+Next Token : #, Posbility: 0.0665
+Next Token : return, Posbility: 0.0598
+Next Token : l, Posbility: 0.0562
+Choose : if,  Posbility: 0.2077
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if
+---------------------------
+Next Token :  sub, Posbility: 0.2769
+Next Token :  len, Posbility: 0.2115
+Next Token :  l, Posbility: 0.2071
+Next Token : (, Posbility: 0.0581
+Next Token :  type, Posbility: 0.0477
+Choose :  sub,  Posbility: 0.2769
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub
+---------------------------
+Next Token :  in, Posbility: 0.7518
+Next Token :  not, Posbility: 0.1515
+Next Token :  ==, Posbility: 0.0456
+Next Token : ., Posbility: 0.0093
+Next Token : [, Posbility: 0.0087
+Choose :  in,  Posbility: 0.7518
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in
+---------------------------
+Next Token :  l, Posbility: 0.9813
+Next Token :  set, Posbility: 0.0049
+Next Token :  sub, Posbility: 0.0027
+Next Token :  [, Posbility: 0.0024
+Next Token :  list, Posbility: 0.0015
+Choose :  l,  Posbility: 0.9813
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst
+---------------------------
+Next Token : :, Posbility: 0.9412
+Next Token :  and, Posbility: 0.0233
+Next Token : [, Posbility: 0.0192
+Next Token :  :, Posbility: 0.0093
+Next Token :  or, Posbility: 0.0045
+Choose : :,  Posbility: 0.9412
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9516
+Next Token :  return, Posbility: 0.0183
+Next Token :  , Posbility: 0.0085
+Next Token :  #, Posbility: 0.0082
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9516
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9773
+Next Token :       , Posbility: 0.0064
+Next Token :        , Posbility: 0.0054
+Next Token :             , Posbility: 0.0041
+Next Token :     , Posbility: 0.0026
+Choose :         ,  Posbility: 0.9773
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        
+---------------------------
+Next Token : return, Posbility: 0.6185
+Next Token : print, Posbility: 0.1498
+Next Token : for, Posbility: 0.0467
+Next Token : if, Posbility: 0.0390
+Next Token : l, Posbility: 0.0211
+Choose : return,  Posbility: 0.6185
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.8038
+Next Token :  1, Posbility: 0.0264
+Next Token :  ", Posbility: 0.0261
+Next Token :  l, Posbility: 0.0232
+Next Token :  ', Posbility: 0.0231
+Choose :  True,  Posbility: 0.8038
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9563
+Next Token : 
+
+, Posbility: 0.0234
+Next Token :  , Posbility: 0.0089
+Next Token : ,, Posbility: 0.0028
+Next Token :  #, Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9563
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9799
+Next Token : 
+, Posbility: 0.0113
+Next Token :         , Posbility: 0.0048
+Next Token : #, Posbility: 0.0007
+Next Token : def, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9799
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.8050
+Next Token : return, Posbility: 0.1228
+Next Token : el, Posbility: 0.0340
+Next Token : for, Posbility: 0.0124
+Next Token : if, Posbility: 0.0121
+Choose : else,  Posbility: 0.8050
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9911
+Next Token :  :, Posbility: 0.0087
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9911
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9739
+Next Token :  , Posbility: 0.0149
+Next Token :  return, Posbility: 0.0089
+Next Token :   , Posbility: 0.0004
+Next Token :     , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9739
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9933
+Next Token :        , Posbility: 0.0022
+Next Token :          , Posbility: 0.0018
+Next Token :     , Posbility: 0.0009
+Next Token :             , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9933
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9451
+Next Token : for, Posbility: 0.0213
+Next Token : False, Posbility: 0.0063
+Next Token : if, Posbility: 0.0063
+Next Token : print, Posbility: 0.0054
+Choose : return,  Posbility: 0.9451
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9888
+Next Token :  sub, Posbility: 0.0029
+Next Token :   , Posbility: 0.0012
+Next Token : (, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0007
+Choose :  False,  Posbility: 0.9888
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7416
+Next Token : 
+
+, Posbility: 0.2095
+Next Token : <|endoftext|>, Posbility: 0.0263
+Next Token :  , Posbility: 0.0103
+Next Token :     , Posbility: 0.0040
+Choose : 
+,  Posbility: 0.7416
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.6507
+Next Token :     , Posbility: 0.0931
+Next Token : print, Posbility: 0.0365
+Next Token : def, Posbility: 0.0333
+Next Token : l, Posbility: 0.0294
+Choose : 
+,  Posbility: 0.6507
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9158
+Next Token :     , Posbility: 0.0383
+Next Token : 
+
+, Posbility: 0.0247
+Next Token : <|endoftext|>, Posbility: 0.0129
+Next Token :         , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9158
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2863
+Next Token : def, Posbility: 0.2004
+Next Token : #, Posbility: 0.1659
+Next Token : print, Posbility: 0.0726
+Next Token : 
+, Posbility: 0.0660
+Choose : '',  Posbility: 0.2863
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6854
+Next Token : 
+, Posbility: 0.1024
+Next Token :  Write, Posbility: 0.0336
+Next Token : Check, Posbility: 0.0113
+Next Token : Function, Posbility: 0.0056
+Choose : Write,  Posbility: 0.6854
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9796
+Next Token :  your, Posbility: 0.0076
+Next Token :  an, Posbility: 0.0027
+Next Token :  python, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0015
+Choose :  a,  Posbility: 0.9796
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9284
+Next Token :  function, Posbility: 0.0350
+Next Token :  Python, Posbility: 0.0208
+Next Token :  program, Posbility: 0.0043
+Next Token :  script, Posbility: 0.0009
+Choose :  python,  Posbility: 0.9284
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9617
+Next Token :  program, Posbility: 0.0204
+Next Token :  script, Posbility: 0.0029
+Next Token :  fun, Posbility: 0.0025
+Next Token :  code, Posbility: 0.0013
+Choose :  function,  Posbility: 0.9617
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8841
+Next Token :  that, Posbility: 0.0676
+Next Token :  which, Posbility: 0.0118
+Next Token :  for, Posbility: 0.0071
+Next Token : ,, Posbility: 0.0024
+Choose :  to,  Posbility: 0.8841
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to
+---------------------------
+Next Token :  check, Posbility: 0.3030
+Next Token :  find, Posbility: 0.1029
+Next Token :  get, Posbility: 0.0555
+Next Token :  print, Posbility: 0.0537
+Next Token :  remove, Posbility: 0.0488
+Choose :  check,  Posbility: 0.3030
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8455
+Next Token :  if, Posbility: 0.0846
+Next Token :  the, Posbility: 0.0135
+Next Token :  for, Posbility: 0.0066
+Next Token :  whe, Posbility: 0.0052
+Choose :  whether,  Posbility: 0.8455
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether
+---------------------------
+Next Token :  a, Posbility: 0.7231
+Next Token :  an, Posbility: 0.0514
+Next Token :  two, Posbility: 0.0504
+Next Token :  the, Posbility: 0.0452
+Next Token :  list, Posbility: 0.0171
+Choose :  a,  Posbility: 0.7231
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a
+---------------------------
+Next Token :  list, Posbility: 0.4775
+Next Token :  string, Posbility: 0.1945
+Next Token :  number, Posbility: 0.0464
+Next Token :  dictionary, Posbility: 0.0366
+Next Token :  tuple, Posbility: 0.0329
+Choose :  list,  Posbility: 0.4775
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list
+---------------------------
+Next Token :  is, Posbility: 0.8329
+Next Token :  contains, Posbility: 0.0740
+Next Token :  has, Posbility: 0.0343
+Next Token :  of, Posbility: 0.0150
+Next Token : 
+, Posbility: 0.0040
+Choose :  is,  Posbility: 0.8329
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is
+---------------------------
+Next Token :  super, Posbility: 0.3252
+Next Token :  a, Posbility: 0.1159
+Next Token :  pal, Posbility: 0.0343
+Next Token :  supers, Posbility: 0.0314
+Next Token :  sub, Posbility: 0.0297
+Choose :  super,  Posbility: 0.3252
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is super
+---------------------------
+Next Token : list, Posbility: 0.5243
+Next Token : l, Posbility: 0.0918
+Next Token :  list, Posbility: 0.0426
+Next Token : -, Posbility: 0.0405
+Next Token : sub, Posbility: 0.0296
+Choose : list,  Posbility: 0.5243
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist
+---------------------------
+Next Token :  of, Posbility: 0.8355
+Next Token :  or, Posbility: 0.1519
+Next Token : 
+, Posbility: 0.0034
+Next Token : .', Posbility: 0.0019
+Next Token : (, Posbility: 0.0009
+Choose :  of,  Posbility: 0.8355
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of
+---------------------------
+Next Token :  another, Posbility: 0.9828
+Next Token :  a, Posbility: 0.0072
+Next Token :  other, Posbility: 0.0036
+Next Token :  an, Posbility: 0.0027
+Next Token : 
+, Posbility: 0.0008
+Choose :  another,  Posbility: 0.9828
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another
+---------------------------
+Next Token :  or, Posbility: 0.9620
+Next Token :  list, Posbility: 0.0163
+Next Token : 
+, Posbility: 0.0061
+Next Token : .', Posbility: 0.0030
+Next Token : ., Posbility: 0.0029
+Choose :  or,  Posbility: 0.9620
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another or
+---------------------------
+Next Token :  not, Posbility: 0.9953
+Next Token : 
+, Posbility: 0.0016
+Next Token :  , Posbility: 0.0007
+Next Token :  no, Posbility: 0.0004
+Next Token :  other, Posbility: 0.0002
+Choose :  not,  Posbility: 0.9953
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another or not
+---------------------------
+Next Token : .', Posbility: 0.9147
+Next Token : ., Posbility: 0.0537
+Next Token : '', Posbility: 0.0197
+Next Token : 
+, Posbility: 0.0022
+Next Token :  ', Posbility: 0.0012
+Choose : .',  Posbility: 0.9147
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another or not.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9559
+Next Token : 
+
+, Posbility: 0.0284
+Next Token : def, Posbility: 0.0046
+Next Token :  , Posbility: 0.0041
+Next Token :     , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9559
+---------------------------
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9329
+Next Token : 
+, Posbility: 0.0557
+Next Token : #, Posbility: 0.0052
+Next Token : '', Posbility: 0.0011
+Next Token : import, Posbility: 0.0007
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.513437986373901
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether a list is sublist of another or not.'''
+def sublist(lst, sub):
+    '''
+    lst: list
+    sub: list
+    '''
+    if sub in lst:
+        return True
+    else:
+        return False
+
+
+'''Write a python function to check whether a list is superlist of another or not.'''
+

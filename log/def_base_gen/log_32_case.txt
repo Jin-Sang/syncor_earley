@@ -1,0 +1,808 @@
+<<<<<<<<<<<< 32 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.2208
+Next Token :  tu, Posbility: 0.1898
+Next Token :  all, Posbility: 0.0580
+Next Token :  tuple, Posbility: 0.0293
+Next Token :  get, Posbility: 0.0258
+Choose :  find,  Posbility: 0.2208
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.6854
+Next Token : Tu, Posbility: 0.1109
+Next Token : T, Posbility: 0.0475
+Next Token : (, Posbility: 0.0279
+Next Token : tu, Posbility: 0.0130
+Choose : _,  Posbility: 0.6854
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_
+---------------------------
+Next Token : tu, Posbility: 0.2860
+Next Token : all, Posbility: 0.2387
+Next Token : t, Posbility: 0.0831
+Next Token : div, Posbility: 0.0675
+Next Token : p, Posbility: 0.0261
+Choose : tu,  Posbility: 0.2860
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tu
+---------------------------
+Next Token : ples, Posbility: 0.9916
+Next Token : pl, Posbility: 0.0067
+Next Token : plets, Posbility: 0.0005
+Next Token : pe, Posbility: 0.0003
+Next Token : pled, Posbility: 0.0003
+Choose : ples,  Posbility: 0.9916
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples
+---------------------------
+Next Token : (, Posbility: 0.5058
+Next Token : _, Posbility: 0.4796
+Next Token : ():, Posbility: 0.0081
+Next Token :  (, Posbility: 0.0014
+Next Token : 2, Posbility: 0.0009
+Choose : (,  Posbility: 0.5058
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(
+---------------------------
+Next Token : l, Posbility: 0.2532
+Next Token : list, Posbility: 0.1766
+Next Token : tu, Posbility: 0.1072
+Next Token : t, Posbility: 0.0558
+Next Token : k, Posbility: 0.0555
+Choose : l,  Posbility: 0.2532
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(l
+---------------------------
+Next Token : st, Posbility: 0.8329
+Next Token : ,, Posbility: 0.1244
+Next Token : 1, Posbility: 0.0123
+Next Token : ):, Posbility: 0.0112
+Next Token : _, Posbility: 0.0072
+Choose : st,  Posbility: 0.8329
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst
+---------------------------
+Next Token : ,, Posbility: 0.8916
+Next Token : _, Posbility: 0.0401
+Next Token : ):, Posbility: 0.0337
+Next Token : :, Posbility: 0.0178
+Next Token : 1, Posbility: 0.0119
+Choose : ,,  Posbility: 0.8916
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst,
+---------------------------
+Next Token :  k, Posbility: 0.5412
+Next Token : k, Posbility: 0.3497
+Next Token :  div, Posbility: 0.0213
+Next Token :  n, Posbility: 0.0115
+Next Token :  key, Posbility: 0.0066
+Choose :  k,  Posbility: 0.5412
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k
+---------------------------
+Next Token : ):, Posbility: 0.9842
+Next Token : ,, Posbility: 0.0070
+Next Token : _, Posbility: 0.0024
+Next Token : =, Posbility: 0.0020
+Next Token : ), Posbility: 0.0014
+Choose : ):,  Posbility: 0.9842
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+---------------------------
+Next Token : 
+, Posbility: 0.9090
+Next Token : 
+
+, Posbility: 0.0393
+Next Token : , Posbility: 0.0303
+Next Token :  , Posbility: 0.0134
+Next Token :   , Posbility: 0.0034
+Choose : 
+,  Posbility: 0.9090
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+
+---------------------------
+Next Token :     , Posbility: 0.9419
+Next Token :   , Posbility: 0.0322
+Next Token : 	, Posbility: 0.0162
+Next Token :         , Posbility: 0.0033
+Next Token :    , Posbility: 0.0028
+Choose :     ,  Posbility: 0.9419
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    
+---------------------------
+Next Token : for, Posbility: 0.1329
+Next Token : '', Posbility: 0.1037
+Next Token : l, Posbility: 0.0960
+Next Token : #, Posbility: 0.0612
+Next Token : return, Posbility: 0.0546
+Choose : for,  Posbility: 0.1329
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4759
+Next Token :  t, Posbility: 0.0764
+Next Token :  x, Posbility: 0.0624
+Next Token :  item, Posbility: 0.0558
+Next Token :  ele, Posbility: 0.0491
+Choose :  i,  Posbility: 0.4759
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9381
+Next Token : ,, Posbility: 0.0599
+Next Token : 1, Posbility: 0.0007
+Next Token : _, Posbility: 0.0006
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9381
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in
+---------------------------
+Next Token :  l, Posbility: 0.5055
+Next Token :  range, Posbility: 0.4831
+Next Token :  list, Posbility: 0.0026
+Next Token :  set, Posbility: 0.0011
+Next Token :  (, Posbility: 0.0010
+Choose :  l,  Posbility: 0.5055
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in l
+---------------------------
+Next Token : st, Posbility: 0.9998
+Next Token : :, Posbility: 0.0001
+Next Token : t, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : st,  Posbility: 0.9998
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst
+---------------------------
+Next Token : :, Posbility: 0.9951
+Next Token : [, Posbility: 0.0028
+Next Token :  :, Posbility: 0.0011
+Next Token : ., Posbility: 0.0003
+Next Token : :#, Posbility: 0.0002
+Choose : :,  Posbility: 0.9951
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9849
+Next Token :  , Posbility: 0.0040
+Next Token : 
+
+, Posbility: 0.0036
+Next Token :  #, Posbility: 0.0020
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9849
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9883
+Next Token :             , Posbility: 0.0030
+Next Token :       , Posbility: 0.0029
+Next Token :        , Posbility: 0.0022
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9883
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        
+---------------------------
+Next Token : if, Posbility: 0.4998
+Next Token : for, Posbility: 0.2263
+Next Token : i, Posbility: 0.0207
+Next Token : count, Posbility: 0.0141
+Next Token : x, Posbility: 0.0125
+Choose : if,  Posbility: 0.4998
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.2571
+Next Token :  len, Posbility: 0.2435
+Next Token :  all, Posbility: 0.1413
+Next Token :  sum, Posbility: 0.1017
+Next Token : (, Posbility: 0.0376
+Choose :  i,  Posbility: 0.2571
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i
+---------------------------
+Next Token : [, Posbility: 0.4253
+Next Token :  %, Posbility: 0.3778
+Next Token : %, Posbility: 0.1411
+Next Token : ., Posbility: 0.0173
+Next Token :  not, Posbility: 0.0070
+Choose : [,  Posbility: 0.4253
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[
+---------------------------
+Next Token : 0, Posbility: 0.6695
+Next Token : 1, Posbility: 0.2785
+Next Token : -, Posbility: 0.0239
+Next Token : 2, Posbility: 0.0174
+Next Token : len, Posbility: 0.0031
+Choose : 0,  Posbility: 0.6695
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0
+---------------------------
+Next Token : ], Posbility: 0.9924
+Next Token : ]., Posbility: 0.0026
+Next Token : ][, Posbility: 0.0011
+Next Token :  %, Posbility: 0.0011
+Next Token : ]+, Posbility: 0.0009
+Choose : ],  Posbility: 0.9924
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0]
+---------------------------
+Next Token :  %, Posbility: 0.6586
+Next Token : %, Posbility: 0.3310
+Next Token : //, Posbility: 0.0019
+Next Token :  ==, Posbility: 0.0019
+Next Token : *, Posbility: 0.0010
+Choose :  %,  Posbility: 0.6586
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] %
+---------------------------
+Next Token :  k, Posbility: 0.9769
+Next Token : k, Posbility: 0.0122
+Next Token :  int, Posbility: 0.0056
+Next Token :  (, Posbility: 0.0019
+Next Token :  2, Posbility: 0.0008
+Choose :  k,  Posbility: 0.9769
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k
+---------------------------
+Next Token :  ==, Posbility: 0.7755
+Next Token : !=, Posbility: 0.1695
+Next Token : :, Posbility: 0.0316
+Next Token : ==, Posbility: 0.0077
+Next Token :  is, Posbility: 0.0041
+Choose :  ==,  Posbility: 0.7755
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k ==
+---------------------------
+Next Token :  0, Posbility: 0.9773
+Next Token : 0, Posbility: 0.0200
+Next Token :  i, Posbility: 0.0009
+Next Token :  1, Posbility: 0.0006
+Next Token :  k, Posbility: 0.0004
+Choose :  0,  Posbility: 0.9773
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0
+---------------------------
+Next Token : :, Posbility: 0.9650
+Next Token :  and, Posbility: 0.0250
+Next Token :  or, Posbility: 0.0049
+Next Token :  :, Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0002
+Choose : :,  Posbility: 0.9650
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9778
+Next Token :  return, Posbility: 0.0071
+Next Token :  #, Posbility: 0.0032
+Next Token :  , Posbility: 0.0032
+Next Token :  print, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9778
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+
+---------------------------
+Next Token :             , Posbility: 0.9925
+Next Token :            , Posbility: 0.0027
+Next Token :                 , Posbility: 0.0016
+Next Token :              , Posbility: 0.0011
+Next Token :           , Posbility: 0.0008
+Choose :             ,  Posbility: 0.9925
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            
+---------------------------
+Next Token : y, Posbility: 0.3825
+Next Token : print, Posbility: 0.3420
+Next Token : return, Posbility: 0.1509
+Next Token : l, Posbility: 0.0331
+Next Token : if, Posbility: 0.0287
+Choose : y,  Posbility: 0.3825
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            y
+---------------------------
+Next Token : ield, Posbility: 0.9995
+Next Token :  =, Posbility: 0.0004
+Next Token : =, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : ield,  Posbility: 0.9995
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield
+---------------------------
+Next Token :  i, Posbility: 0.6637
+Next Token :  (, Posbility: 0.1155
+Next Token :  tuple, Posbility: 0.1137
+Next Token : (, Posbility: 0.0707
+Next Token :  [, Posbility: 0.0085
+Choose :  i,  Posbility: 0.6637
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+---------------------------
+Next Token : 
+, Posbility: 0.7258
+Next Token : 
+
+, Posbility: 0.1574
+Next Token : [, Posbility: 0.0626
+Next Token : <|endoftext|>, Posbility: 0.0295
+Next Token :  , Posbility: 0.0106
+Choose : 
+,  Posbility: 0.7258
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+---------------------------
+Next Token : 
+, Posbility: 0.6879
+Next Token :         , Posbility: 0.0664
+Next Token :     , Posbility: 0.0604
+Next Token :             , Posbility: 0.0550
+Next Token : <|endoftext|>, Posbility: 0.0508
+Choose : 
+,  Posbility: 0.6879
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9346
+Next Token : <|endoftext|>, Posbility: 0.0212
+Next Token :     , Posbility: 0.0170
+Next Token : 
+
+, Posbility: 0.0166
+Next Token :         , Posbility: 0.0062
+Choose : 
+,  Posbility: 0.9346
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2956
+Next Token : def, Posbility: 0.1960
+Next Token : #, Posbility: 0.0900
+Next Token : print, Posbility: 0.0870
+Next Token : l, Posbility: 0.0789
+Choose : '',  Posbility: 0.2956
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '., Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7498
+Next Token : 
+, Posbility: 0.0373
+Next Token :  Write, Posbility: 0.0239
+Next Token : Find, Posbility: 0.0182
+Next Token : Use, Posbility: 0.0085
+Choose : Write,  Posbility: 0.7498
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9887
+Next Token :  your, Posbility: 0.0025
+Next Token :  an, Posbility: 0.0024
+Next Token :  function, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9887
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9436
+Next Token :  program, Posbility: 0.0119
+Next Token :  Python, Posbility: 0.0092
+Next Token :  python, Posbility: 0.0060
+Next Token :  recursive, Posbility: 0.0040
+Choose :  function,  Posbility: 0.9436
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6701
+Next Token :  that, Posbility: 0.1778
+Next Token :  which, Posbility: 0.0451
+Next Token :  named, Posbility: 0.0156
+Next Token :  find, Posbility: 0.0088
+Choose :  to,  Posbility: 0.6701
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1855
+Next Token :  return, Posbility: 0.0747
+Next Token :  get, Posbility: 0.0724
+Next Token :  count, Posbility: 0.0705
+Next Token :  print, Posbility: 0.0676
+Choose :  find,  Posbility: 0.1855
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.2878
+Next Token :  all, Posbility: 0.2008
+Next Token :  tu, Posbility: 0.0759
+Next Token :  a, Posbility: 0.0318
+Next Token :  out, Posbility: 0.0212
+Choose :  the,  Posbility: 0.2878
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  number, Posbility: 0.1388
+Next Token :  sum, Posbility: 0.0609
+Next Token :  longest, Posbility: 0.0540
+Next Token :  first, Posbility: 0.0349
+Next Token :  n, Posbility: 0.0337
+Choose :  number,  Posbility: 0.1388
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number
+---------------------------
+Next Token :  of, Posbility: 0.9739
+Next Token :  in, Posbility: 0.0027
+Next Token :  with, Posbility: 0.0021
+Next Token :  which, Posbility: 0.0019
+Next Token :  div, Posbility: 0.0013
+Choose :  of,  Posbility: 0.9739
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of
+---------------------------
+Next Token :  pairs, Posbility: 0.0858
+Next Token :  occurrences, Posbility: 0.0682
+Next Token :  even, Posbility: 0.0601
+Next Token :  tu, Posbility: 0.0487
+Next Token :  elements, Posbility: 0.0469
+Choose :  pairs,  Posbility: 0.0858
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs
+---------------------------
+Next Token :  of, Posbility: 0.5790
+Next Token :  in, Posbility: 0.1129
+Next Token :  (, Posbility: 0.0535
+Next Token :  with, Posbility: 0.0358
+Next Token :  where, Posbility: 0.0346
+Choose :  of,  Posbility: 0.5790
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of
+---------------------------
+Next Token :  numbers, Posbility: 0.1796
+Next Token :  elements, Posbility: 0.1518
+Next Token :  distinct, Posbility: 0.0779
+Next Token :  tu, Posbility: 0.0569
+Next Token :  values, Posbility: 0.0496
+Choose :  numbers,  Posbility: 0.1796
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers
+---------------------------
+Next Token :  in, Posbility: 0.2137
+Next Token :  that, Posbility: 0.1711
+Next Token :  which, Posbility: 0.0982
+Next Token :  whose, Posbility: 0.0707
+Next Token :  from, Posbility: 0.0610
+Choose :  in,  Posbility: 0.2137
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in
+---------------------------
+Next Token :  a, Posbility: 0.5144
+Next Token :  the, Posbility: 0.2578
+Next Token :  an, Posbility: 0.1029
+Next Token :  list, Posbility: 0.0295
+Next Token :  l, Posbility: 0.0118
+Choose :  a,  Posbility: 0.5144
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in a
+---------------------------
+Next Token :  list, Posbility: 0.6996
+Next Token :  given, Posbility: 0.1458
+Next Token :  set, Posbility: 0.0367
+Next Token :  tuple, Posbility: 0.0327
+Next Token :  dictionary, Posbility: 0.0107
+Choose :  list,  Posbility: 0.6996
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in a list
+---------------------------
+Next Token : .', Posbility: 0.2696
+Next Token : ., Posbility: 0.1554
+Next Token :  of, Posbility: 0.1282
+Next Token :  that, Posbility: 0.0701
+Next Token : '', Posbility: 0.0608
+Choose : .',  Posbility: 0.2696
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in a list.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9995
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9427
+Next Token : 
+
+, Posbility: 0.0510
+Next Token :  , Posbility: 0.0023
+Next Token : def, Posbility: 0.0008
+Next Token :     , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9427
+---------------------------
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in a list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.8955
+Next Token : 
+, Posbility: 0.0710
+Next Token : #, Posbility: 0.0152
+Next Token : from, Posbility: 0.0049
+Next Token : import, Posbility: 0.0027
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.92145562171936
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find tuples which have all elements divisible by k from the given list of tuples.'''
+def find_tuples(lst, k):
+    for i in lst:
+        if i[0] % k == 0:
+            yield i
+
+
+'''Write a function to find the number of pairs of numbers in a list.'''
+

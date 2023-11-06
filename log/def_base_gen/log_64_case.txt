@@ -1,0 +1,820 @@
+<<<<<<<<<<<< 64 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  is, Posbility: 0.4792
+Next Token :  check, Posbility: 0.2049
+Next Token :  int, Posbility: 0.0263
+Next Token :  num, Posbility: 0.0206
+Next Token :  number, Posbility: 0.0166
+Choose :  is,  Posbility: 0.4792
+'''Write a function to check if a string represents an integer or not.'''
+def is
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is
+---------------------------
+Next Token : _, Posbility: 0.7918
+Next Token : int, Posbility: 0.0412
+Next Token : Int, Posbility: 0.0374
+Next Token : Integer, Posbility: 0.0369
+Next Token : Number, Posbility: 0.0148
+Choose : _,  Posbility: 0.7918
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_
+---------------------------
+Next Token : int, Posbility: 0.3887
+Next Token : integer, Posbility: 0.3144
+Next Token : number, Posbility: 0.0804
+Next Token : valid, Posbility: 0.0774
+Next Token : num, Posbility: 0.0270
+Choose : int,  Posbility: 0.3887
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int
+---------------------------
+Next Token : (, Posbility: 0.9269
+Next Token : _, Posbility: 0.0530
+Next Token :  (, Posbility: 0.0124
+Next Token : ():, Posbility: 0.0025
+Next Token : (_, Posbility: 0.0005
+Choose : (,  Posbility: 0.9269
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(
+---------------------------
+Next Token : s, Posbility: 0.3687
+Next Token : string, Posbility: 0.1518
+Next Token : num, Posbility: 0.0727
+Next Token : x, Posbility: 0.0685
+Next Token : str, Posbility: 0.0652
+Choose : s,  Posbility: 0.3687
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s
+---------------------------
+Next Token : ):, Posbility: 0.9489
+Next Token : :, Posbility: 0.0361
+Next Token : ), Posbility: 0.0056
+Next Token : ,, Posbility: 0.0038
+Next Token : 1, Posbility: 0.0013
+Choose : ):,  Posbility: 0.9489
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+---------------------------
+Next Token : 
+, Posbility: 0.9294
+Next Token : , Posbility: 0.0276
+Next Token : 
+
+, Posbility: 0.0153
+Next Token :  , Posbility: 0.0153
+Next Token :   , Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9294
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+
+---------------------------
+Next Token :     , Posbility: 0.8759
+Next Token :   , Posbility: 0.0628
+Next Token : 	, Posbility: 0.0467
+Next Token :    , Posbility: 0.0094
+Next Token :         , Posbility: 0.0012
+Choose :     ,  Posbility: 0.8759
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    
+---------------------------
+Next Token : try, Posbility: 0.5550
+Next Token : '', Posbility: 0.1614
+Next Token : if, Posbility: 0.1095
+Next Token : return, Posbility: 0.0575
+Next Token : for, Posbility: 0.0167
+Choose : try,  Posbility: 0.5550
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try
+---------------------------
+Next Token : :, Posbility: 0.9942
+Next Token :  :, Posbility: 0.0055
+Next Token : _, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9942
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+---------------------------
+Next Token : 
+, Posbility: 0.9516
+Next Token :  , Posbility: 0.0341
+Next Token :  return, Posbility: 0.0029
+Next Token :   , Posbility: 0.0021
+Next Token :     , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9516
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+
+---------------------------
+Next Token :         , Posbility: 0.9841
+Next Token :       , Posbility: 0.0055
+Next Token :        , Posbility: 0.0045
+Next Token :             , Posbility: 0.0021
+Next Token :     , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9841
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        
+---------------------------
+Next Token : int, Posbility: 0.7656
+Next Token : s, Posbility: 0.0445
+Next Token : float, Posbility: 0.0363
+Next Token : return, Posbility: 0.0305
+Next Token : x, Posbility: 0.0183
+Choose : int,  Posbility: 0.7656
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int
+---------------------------
+Next Token : (, Posbility: 0.9848
+Next Token : _, Posbility: 0.0087
+Next Token : (', Posbility: 0.0023
+Next Token :  (, Posbility: 0.0014
+Next Token : (", Posbility: 0.0006
+Choose : (,  Posbility: 0.9848
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(
+---------------------------
+Next Token : s, Posbility: 0.9979
+Next Token : str, Posbility: 0.0004
+Next Token : x, Posbility: 0.0003
+Next Token : float, Posbility: 0.0003
+Next Token : string, Posbility: 0.0001
+Choose : s,  Posbility: 0.9979
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s
+---------------------------
+Next Token : ), Posbility: 0.9901
+Next Token : ,, Posbility: 0.0066
+Next Token : [, Posbility: 0.0014
+Next Token : ., Posbility: 0.0010
+Next Token : );, Posbility: 0.0004
+Choose : ),  Posbility: 0.9901
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+---------------------------
+Next Token : 
+, Posbility: 0.9745
+Next Token :  #, Posbility: 0.0064
+Next Token :   , Posbility: 0.0042
+Next Token : 
+
+, Posbility: 0.0038
+Next Token :  , Posbility: 0.0038
+Choose : 
+,  Posbility: 0.9745
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+
+---------------------------
+Next Token :         , Posbility: 0.7839
+Next Token :     , Posbility: 0.2154
+Next Token :             , Posbility: 0.0001
+Next Token :        , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Choose :         ,  Posbility: 0.7839
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        
+---------------------------
+Next Token : return, Posbility: 0.9612
+Next Token : if, Posbility: 0.0127
+Next Token : print, Posbility: 0.0109
+Next Token : #, Posbility: 0.0056
+Next Token : pass, Posbility: 0.0024
+Choose : return,  Posbility: 0.9612
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return
+---------------------------
+Next Token :  True, Posbility: 0.9693
+Next Token :  False, Posbility: 0.0048
+Next Token :  s, Posbility: 0.0048
+Next Token :  1, Posbility: 0.0042
+Next Token : (, Posbility: 0.0034
+Choose :  True,  Posbility: 0.9693
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9816
+Next Token : 
+
+, Posbility: 0.0082
+Next Token :  , Posbility: 0.0029
+Next Token : ;, Posbility: 0.0019
+Next Token :  #, Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9816
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9964
+Next Token :         , Posbility: 0.0033
+Next Token :      , Posbility: 0.0001
+Next Token :       , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose :     ,  Posbility: 0.9964
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    
+---------------------------
+Next Token : except, Posbility: 0.9971
+Next Token : 
+, Posbility: 0.0015
+Next Token : #, Posbility: 0.0012
+Next Token : f, Posbility: 0.0001
+Next Token : return, Posbility: 0.0000
+Choose : except,  Posbility: 0.9971
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except
+---------------------------
+Next Token :  Value, Posbility: 0.8069
+Next Token : :, Posbility: 0.1690
+Next Token :  Exception, Posbility: 0.0136
+Next Token :  Type, Posbility: 0.0053
+Next Token :  (, Posbility: 0.0032
+Choose :  Value,  Posbility: 0.8069
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except Value
+---------------------------
+Next Token : Error, Posbility: 1.0000
+Next Token : Er, Posbility: 0.0000
+Next Token : E, Posbility: 0.0000
+Next Token : Format, Posbility: 0.0000
+Next Token :  Error, Posbility: 0.0000
+Choose : Error,  Posbility: 1.0000
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError
+---------------------------
+Next Token : :, Posbility: 0.9824
+Next Token :  as, Posbility: 0.0167
+Next Token :  or, Posbility: 0.0003
+Next Token :  :, Posbility: 0.0003
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9824
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+---------------------------
+Next Token : 
+, Posbility: 0.9896
+Next Token :  , Posbility: 0.0029
+Next Token :  #, Posbility: 0.0020
+Next Token :   , Posbility: 0.0019
+Next Token :  return, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9896
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+
+---------------------------
+Next Token :         , Posbility: 0.9909
+Next Token :             , Posbility: 0.0042
+Next Token :          , Posbility: 0.0019
+Next Token :        , Posbility: 0.0017
+Next Token :     , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9909
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        
+---------------------------
+Next Token : return, Posbility: 0.9305
+Next Token : pass, Posbility: 0.0261
+Next Token : print, Posbility: 0.0234
+Next Token : False, Posbility: 0.0095
+Next Token : #, Posbility: 0.0023
+Choose : return,  Posbility: 0.9305
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9972
+Next Token :   , Posbility: 0.0005
+Next Token :  True, Posbility: 0.0003
+Next Token : (, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0003
+Choose :  False,  Posbility: 0.9972
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.6124
+Next Token : 
+
+, Posbility: 0.3563
+Next Token : <|endoftext|>, Posbility: 0.0153
+Next Token :  , Posbility: 0.0068
+Next Token :     , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.6124
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.7643
+Next Token :     , Posbility: 0.0777
+Next Token : '', Posbility: 0.0323
+Next Token : def, Posbility: 0.0241
+Next Token : #, Posbility: 0.0182
+Choose : 
+,  Posbility: 0.7643
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9620
+Next Token : 
+
+, Posbility: 0.0118
+Next Token :     , Posbility: 0.0111
+Next Token : <|endoftext|>, Posbility: 0.0108
+Next Token :  , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9620
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5289
+Next Token : def, Posbility: 0.1767
+Next Token : #, Posbility: 0.1353
+Next Token : print, Posbility: 0.0424
+Next Token : 
+, Posbility: 0.0361
+Choose : '',  Posbility: 0.5289
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6827
+Next Token : 
+, Posbility: 0.0317
+Next Token : Check, Posbility: 0.0241
+Next Token :  Write, Posbility: 0.0219
+Next Token : Return, Posbility: 0.0110
+Choose : Write,  Posbility: 0.6827
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9877
+Next Token :  your, Posbility: 0.0035
+Next Token :  an, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0015
+Next Token :  function, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9877
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9385
+Next Token :  program, Posbility: 0.0160
+Next Token :  Python, Posbility: 0.0132
+Next Token :  python, Posbility: 0.0066
+Next Token :  Function, Posbility: 0.0030
+Choose :  function,  Posbility: 0.9385
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7141
+Next Token :  that, Posbility: 0.2172
+Next Token :  which, Posbility: 0.0252
+Next Token :  called, Posbility: 0.0090
+Next Token :  for, Posbility: 0.0049
+Choose :  to,  Posbility: 0.7141
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.1924
+Next Token :  print, Posbility: 0.0802
+Next Token :  get, Posbility: 0.0745
+Next Token :  count, Posbility: 0.0543
+Next Token :  find, Posbility: 0.0530
+Choose :  check,  Posbility: 0.1924
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check
+---------------------------
+Next Token :  if, Posbility: 0.8454
+Next Token :  whether, Posbility: 0.0615
+Next Token :  for, Posbility: 0.0208
+Next Token :  the, Posbility: 0.0180
+Next Token :  a, Posbility: 0.0130
+Choose :  if,  Posbility: 0.8454
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if
+---------------------------
+Next Token :  a, Posbility: 0.8196
+Next Token :  the, Posbility: 0.0603
+Next Token :  an, Posbility: 0.0405
+Next Token :  two, Posbility: 0.0177
+Next Token :  string, Posbility: 0.0101
+Choose :  a,  Posbility: 0.8196
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a
+---------------------------
+Next Token :  string, Posbility: 0.9134
+Next Token :  number, Posbility: 0.0171
+Next Token :  word, Posbility: 0.0085
+Next Token :  given, Posbility: 0.0059
+Next Token :  list, Posbility: 0.0058
+Choose :  string,  Posbility: 0.9134
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string
+---------------------------
+Next Token :  represents, Posbility: 0.5269
+Next Token :  is, Posbility: 0.2638
+Next Token :  contains, Posbility: 0.0854
+Next Token :  has, Posbility: 0.0178
+Next Token :  starts, Posbility: 0.0064
+Choose :  represents,  Posbility: 0.5269
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents
+---------------------------
+Next Token :  a, Posbility: 0.8240
+Next Token :  an, Posbility: 0.0904
+Next Token :  alphabet, Posbility: 0.0146
+Next Token :  the, Posbility: 0.0086
+Next Token :  any, Posbility: 0.0039
+Choose :  a,  Posbility: 0.8240
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a
+---------------------------
+Next Token :  float, Posbility: 0.3718
+Next Token :  floating, Posbility: 0.1366
+Next Token :  phone, Posbility: 0.0606
+Next Token :  string, Posbility: 0.0498
+Next Token :  letter, Posbility: 0.0432
+Choose :  float,  Posbility: 0.3718
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float
+---------------------------
+Next Token :  or, Posbility: 0.7694
+Next Token : .', Posbility: 0.1165
+Next Token :  number, Posbility: 0.0656
+Next Token : '', Posbility: 0.0104
+Next Token : ., Posbility: 0.0089
+Choose :  or,  Posbility: 0.7694
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float or
+---------------------------
+Next Token :  not, Posbility: 0.9958
+Next Token :  a, Posbility: 0.0011
+Next Token :  integer, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Next Token :  int, Posbility: 0.0002
+Choose :  not,  Posbility: 0.9958
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float or not
+---------------------------
+Next Token : .', Posbility: 0.8799
+Next Token : ., Posbility: 0.0772
+Next Token : '', Posbility: 0.0279
+Next Token : ,, Posbility: 0.0031
+Next Token :  and, Posbility: 0.0016
+Choose : .',  Posbility: 0.8799
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float or not.'
+---------------------------
+Next Token : '', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 1.0000
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9455
+Next Token : 
+
+, Posbility: 0.0453
+Next Token : def, Posbility: 0.0030
+Next Token :  , Posbility: 0.0020
+Next Token :     , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9455
+---------------------------
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9447
+Next Token : 
+, Posbility: 0.0446
+Next Token : #, Posbility: 0.0034
+Next Token : import, Posbility: 0.0028
+Next Token : '', Posbility: 0.0009
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.535152435302734
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check if a string represents an integer or not.'''
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
+
+
+'''Write a function to check if a string represents a float or not.'''
+

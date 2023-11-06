@@ -1,0 +1,1469 @@
+<<<<<<<<<<<< 152 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.1405
+Next Token :  is, Posbility: 0.1102
+Next Token :  check, Posbility: 0.0782
+Next Token :  contains, Posbility: 0.0583
+Next Token :  element, Posbility: 0.0430
+Choose :  find,  Posbility: 0.1405
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.6904
+Next Token : (, Posbility: 0.1045
+Next Token : Element, Posbility: 0.0500
+Next Token : Index, Posbility: 0.0297
+Next Token : In, Posbility: 0.0150
+Choose : _,  Posbility: 0.6904
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_
+---------------------------
+Next Token : element, Posbility: 0.3052
+Next Token : index, Posbility: 0.2176
+Next Token : in, Posbility: 0.0722
+Next Token : e, Posbility: 0.0232
+Next Token : if, Posbility: 0.0231
+Choose : element,  Posbility: 0.3052
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element
+---------------------------
+Next Token : (, Posbility: 0.7512
+Next Token : _, Posbility: 0.2345
+Next Token :  (, Posbility: 0.0053
+Next Token : 2, Posbility: 0.0024
+Next Token : ():, Posbility: 0.0015
+Choose : (,  Posbility: 0.7512
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(
+---------------------------
+Next Token : array, Posbility: 0.5279
+Next Token : arr, Posbility: 0.2153
+Next Token : element, Posbility: 0.0333
+Next Token : input, Posbility: 0.0272
+Next Token : list, Posbility: 0.0249
+Choose : array,  Posbility: 0.5279
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array
+---------------------------
+Next Token : ,, Posbility: 0.9564
+Next Token : :, Posbility: 0.0239
+Next Token : _, Posbility: 0.0091
+Next Token : ):, Posbility: 0.0067
+Next Token : 1, Posbility: 0.0010
+Choose : ,,  Posbility: 0.9564
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array,
+---------------------------
+Next Token :  element, Posbility: 0.6777
+Next Token : element, Posbility: 0.1231
+Next Token :  ele, Posbility: 0.0231
+Next Token :  item, Posbility: 0.0172
+Next Token :  x, Posbility: 0.0166
+Choose :  element,  Posbility: 0.6777
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element
+---------------------------
+Next Token : ):, Posbility: 0.9486
+Next Token : _, Posbility: 0.0223
+Next Token : ,, Posbility: 0.0146
+Next Token : ), Posbility: 0.0076
+Next Token : =, Posbility: 0.0024
+Choose : ):,  Posbility: 0.9486
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+---------------------------
+Next Token : 
+, Posbility: 0.9496
+Next Token : 
+
+, Posbility: 0.0248
+Next Token : , Posbility: 0.0120
+Next Token :  , Posbility: 0.0080
+Next Token :  #, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9496
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+
+---------------------------
+Next Token :     , Posbility: 0.9417
+Next Token : 	, Posbility: 0.0269
+Next Token :   , Posbility: 0.0249
+Next Token :    , Posbility: 0.0027
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9417
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    
+---------------------------
+Next Token : for, Posbility: 0.2717
+Next Token : if, Posbility: 0.0846
+Next Token : index, Posbility: 0.0699
+Next Token : found, Posbility: 0.0678
+Next Token : #, Posbility: 0.0641
+Choose : for,  Posbility: 0.2717
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5719
+Next Token :  index, Posbility: 0.2349
+Next Token :  position, Posbility: 0.0318
+Next Token :  x, Posbility: 0.0306
+Next Token :  id, Posbility: 0.0236
+Choose :  i,  Posbility: 0.5719
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.8973
+Next Token : ,, Posbility: 0.1016
+Next Token : _, Posbility: 0.0004
+Next Token :   , Posbility: 0.0002
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.8973
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9572
+Next Token :  array, Posbility: 0.0399
+Next Token :  reversed, Posbility: 0.0007
+Next Token :  len, Posbility: 0.0003
+Next Token :  enumer, Posbility: 0.0003
+Choose :  range,  Posbility: 0.9572
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9758
+Next Token :  (, Posbility: 0.0225
+Next Token : (-, Posbility: 0.0008
+Next Token : ((, Posbility: 0.0004
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9758
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8111
+Next Token : 0, Posbility: 0.1807
+Next Token : 1, Posbility: 0.0019
+Next Token : array, Posbility: 0.0018
+Next Token : n, Posbility: 0.0007
+Choose : len,  Posbility: 0.8111
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : (), Posbility: 0.0001
+Next Token :  (, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(
+---------------------------
+Next Token : array, Posbility: 0.9984
+Next Token : arr, Posbility: 0.0003
+Next Token : list, Posbility: 0.0002
+Next Token : element, Posbility: 0.0001
+Next Token : a, Posbility: 0.0001
+Choose : array,  Posbility: 0.9984
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array
+---------------------------
+Next Token : ), Posbility: 0.9818
+Next Token : )-, Posbility: 0.0159
+Next Token : )), Posbility: 0.0015
+Next Token : [, Posbility: 0.0002
+Next Token : )+, Posbility: 0.0002
+Choose : ),  Posbility: 0.9818
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)
+---------------------------
+Next Token : ):, Posbility: 0.9922
+Next Token :  -, Posbility: 0.0076
+Next Token :  ):, Posbility: 0.0001
+Next Token : //, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9922
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+---------------------------
+Next Token : 
+, Posbility: 0.9899
+Next Token : 
+
+, Posbility: 0.0029
+Next Token :  , Posbility: 0.0029
+Next Token :  #, Posbility: 0.0017
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9899
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+
+---------------------------
+Next Token :         , Posbility: 0.9880
+Next Token :             , Posbility: 0.0047
+Next Token :       , Posbility: 0.0030
+Next Token :        , Posbility: 0.0015
+Next Token :          , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9880
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        
+---------------------------
+Next Token : if, Posbility: 0.9581
+Next Token : #, Posbility: 0.0107
+Next Token : for, Posbility: 0.0059
+Next Token : print, Posbility: 0.0056
+Next Token : found, Posbility: 0.0028
+Choose : if,  Posbility: 0.9581
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if
+---------------------------
+Next Token :  array, Posbility: 0.7683
+Next Token :  element, Posbility: 0.1722
+Next Token : (, Posbility: 0.0379
+Next Token :  (, Posbility: 0.0119
+Next Token :  type, Posbility: 0.0010
+Choose :  array,  Posbility: 0.7683
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array
+---------------------------
+Next Token : [, Posbility: 0.9983
+Next Token :  [, Posbility: 0.0008
+Next Token :  ==, Posbility: 0.0003
+Next Token : ., Posbility: 0.0003
+Next Token :  is, Posbility: 0.0001
+Choose : [,  Posbility: 0.9983
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[
+---------------------------
+Next Token : i, Posbility: 0.9972
+Next Token : 0, Posbility: 0.0010
+Next Token : element, Posbility: 0.0006
+Next Token : len, Posbility: 0.0004
+Next Token : -, Posbility: 0.0002
+Choose : i,  Posbility: 0.9972
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i
+---------------------------
+Next Token : ], Posbility: 0.9830
+Next Token : ][, Posbility: 0.0128
+Next Token : ]., Posbility: 0.0032
+Next Token : ]:, Posbility: 0.0002
+Next Token : -, Posbility: 0.0002
+Choose : ],  Posbility: 0.9830
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i]
+---------------------------
+Next Token :  ==, Posbility: 0.9545
+Next Token : ==, Posbility: 0.0386
+Next Token :  is, Posbility: 0.0041
+Next Token : !=, Posbility: 0.0015
+Next Token :  <, Posbility: 0.0003
+Choose :  ==,  Posbility: 0.9545
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] ==
+---------------------------
+Next Token :  element, Posbility: 0.9966
+Next Token :   , Posbility: 0.0005
+Next Token :  int, Posbility: 0.0004
+Next Token :  str, Posbility: 0.0004
+Next Token : element, Posbility: 0.0003
+Choose :  element,  Posbility: 0.9966
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element
+---------------------------
+Next Token : :, Posbility: 0.9885
+Next Token :  or, Posbility: 0.0069
+Next Token :  and, Posbility: 0.0020
+Next Token :  :, Posbility: 0.0017
+Next Token : [, Posbility: 0.0003
+Choose : :,  Posbility: 0.9885
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+---------------------------
+Next Token : 
+, Posbility: 0.9848
+Next Token :  return, Posbility: 0.0078
+Next Token :  , Posbility: 0.0034
+Next Token :  #, Posbility: 0.0012
+Next Token : 
+
+, Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9848
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+
+---------------------------
+Next Token :             , Posbility: 0.9938
+Next Token :            , Posbility: 0.0023
+Next Token :                 , Posbility: 0.0015
+Next Token :              , Posbility: 0.0011
+Next Token :           , Posbility: 0.0007
+Choose :             ,  Posbility: 0.9938
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            
+---------------------------
+Next Token : return, Posbility: 0.9508
+Next Token : print, Posbility: 0.0100
+Next Token : index, Posbility: 0.0098
+Next Token : if, Posbility: 0.0048
+Next Token : position, Posbility: 0.0035
+Choose : return,  Posbility: 0.9508
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return
+---------------------------
+Next Token :  True, Posbility: 0.4575
+Next Token :  (, Posbility: 0.2658
+Next Token :  i, Posbility: 0.1119
+Next Token :  array, Posbility: 0.0382
+Next Token : (, Posbility: 0.0361
+Choose :  True,  Posbility: 0.4575
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True
+---------------------------
+Next Token : ,, Posbility: 0.9212
+Next Token : 
+, Posbility: 0.0650
+Next Token : ,, Posbility: 0.0046
+Next Token : 
+
+, Posbility: 0.0046
+Next Token :  if, Posbility: 0.0010
+Choose : ,,  Posbility: 0.9212
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True,
+---------------------------
+Next Token :  i, Posbility: 0.8704
+Next Token : i, Posbility: 0.1058
+Next Token :  array, Posbility: 0.0103
+Next Token :  (, Posbility: 0.0034
+Next Token :  str, Posbility: 0.0021
+Choose :  i,  Posbility: 0.8704
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+---------------------------
+Next Token : 
+, Posbility: 0.8543
+Next Token : 
+
+, Posbility: 0.1019
+Next Token :  , Posbility: 0.0127
+Next Token :  #, Posbility: 0.0102
+Next Token : ,, Posbility: 0.0067
+Choose : 
+,  Posbility: 0.8543
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+
+---------------------------
+Next Token :     , Posbility: 0.6694
+Next Token :         , Posbility: 0.3129
+Next Token : 
+, Posbility: 0.0100
+Next Token :             , Posbility: 0.0044
+Next Token : #, Posbility: 0.0009
+Choose :     ,  Posbility: 0.6694
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    
+---------------------------
+Next Token : return, Posbility: 0.8709
+Next Token : else, Posbility: 0.0898
+Next Token : if, Posbility: 0.0141
+Next Token : 
+, Posbility: 0.0114
+Next Token : #, Posbility: 0.0042
+Choose : return,  Posbility: 0.8709
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9820
+Next Token :  (, Posbility: 0.0047
+Next Token :  None, Posbility: 0.0032
+Next Token :  True, Posbility: 0.0016
+Next Token :  -, Posbility: 0.0016
+Choose :  False,  Posbility: 0.9820
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False
+---------------------------
+Next Token : ,, Posbility: 0.9034
+Next Token : 
+, Posbility: 0.0650
+Next Token : 
+
+, Posbility: 0.0198
+Next Token : <|endoftext|>, Posbility: 0.0042
+Next Token : ,, Posbility: 0.0027
+Choose : ,,  Posbility: 0.9034
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False,
+---------------------------
+Next Token :  -, Posbility: 0.9686
+Next Token :  None, Posbility: 0.0143
+Next Token :  i, Posbility: 0.0065
+Next Token :  len, Posbility: 0.0019
+Next Token :  False, Posbility: 0.0017
+Choose :  -,  Posbility: 0.9686
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -
+---------------------------
+Next Token : 1, Posbility: 0.9981
+Next Token :  1, Posbility: 0.0014
+Next Token : 2, Posbility: 0.0002
+Next Token : 100, Posbility: 0.0001
+Next Token : (, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9981
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+---------------------------
+Next Token : 
+, Posbility: 0.7064
+Next Token : 
+
+, Posbility: 0.2533
+Next Token : <|endoftext|>, Posbility: 0.0132
+Next Token :  #, Posbility: 0.0074
+Next Token :  , Posbility: 0.0047
+Choose : 
+,  Posbility: 0.7064
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+---------------------------
+Next Token : 
+, Posbility: 0.8359
+Next Token : <|endoftext|>, Posbility: 0.0640
+Next Token :     , Posbility: 0.0281
+Next Token : def, Posbility: 0.0112
+Next Token : '', Posbility: 0.0106
+Choose : 
+,  Posbility: 0.8359
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9679
+Next Token : 
+
+, Posbility: 0.0137
+Next Token : <|endoftext|>, Posbility: 0.0115
+Next Token :     , Posbility: 0.0050
+Next Token :         , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9679
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4847
+Next Token : def, Posbility: 0.1958
+Next Token : #, Posbility: 0.1356
+Next Token : print, Posbility: 0.0402
+Next Token : 
+, Posbility: 0.0347
+Choose : '',  Posbility: 0.4847
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7689
+Next Token : 
+, Posbility: 0.0360
+Next Token :  Write, Posbility: 0.0195
+Next Token : Given, Posbility: 0.0126
+Next Token : Find, Posbility: 0.0118
+Choose : Write,  Posbility: 0.7689
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9901
+Next Token :  an, Posbility: 0.0031
+Next Token :  your, Posbility: 0.0014
+Next Token :  the, Posbility: 0.0012
+Next Token :  function, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9901
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9647
+Next Token :  program, Posbility: 0.0057
+Next Token :  recursive, Posbility: 0.0039
+Next Token :  Python, Posbility: 0.0039
+Next Token :  python, Posbility: 0.0021
+Choose :  function,  Posbility: 0.9647
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.8896
+Next Token :  to, Posbility: 0.0615
+Next Token :  called, Posbility: 0.0105
+Next Token :  named, Posbility: 0.0069
+Next Token :  which, Posbility: 0.0068
+Choose :  that,  Posbility: 0.8896
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.7465
+Next Token :  returns, Posbility: 0.0609
+Next Token :  accepts, Posbility: 0.0377
+Next Token :  receives, Posbility: 0.0096
+Next Token :  prints, Posbility: 0.0089
+Choose :  takes,  Posbility: 0.7465
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  in, Posbility: 0.6782
+Next Token :  a, Posbility: 0.1290
+Next Token :  an, Posbility: 0.1270
+Next Token :  as, Posbility: 0.0235
+Next Token :  two, Posbility: 0.0149
+Choose :  in,  Posbility: 0.6782
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in
+---------------------------
+Next Token :  an, Posbility: 0.5862
+Next Token :  a, Posbility: 0.2986
+Next Token :  two, Posbility: 0.0725
+Next Token :  three, Posbility: 0.0100
+Next Token :  the, Posbility: 0.0056
+Choose :  an,  Posbility: 0.5862
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an
+---------------------------
+Next Token :  array, Posbility: 0.9428
+Next Token :  integer, Posbility: 0.0299
+Next Token :  uns, Posbility: 0.0053
+Next Token :  element, Posbility: 0.0034
+Next Token :  int, Posbility: 0.0019
+Choose :  array,  Posbility: 0.9428
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array
+---------------------------
+Next Token :  and, Posbility: 0.7541
+Next Token :  of, Posbility: 0.1277
+Next Token : ,, Posbility: 0.0622
+Next Token :  (, Posbility: 0.0176
+Next Token :  with, Posbility: 0.0054
+Choose :  and,  Posbility: 0.7541
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and
+---------------------------
+Next Token :  element, Posbility: 0.5980
+Next Token :  an, Posbility: 0.0982
+Next Token :  a, Posbility: 0.0589
+Next Token :  returns, Posbility: 0.0475
+Next Token :  two, Posbility: 0.0172
+Choose :  element,  Posbility: 0.5980
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element
+---------------------------
+Next Token :  and, Posbility: 0.8596
+Next Token : ,, Posbility: 0.0890
+Next Token :  (, Posbility: 0.0141
+Next Token : ., Posbility: 0.0076
+Next Token :  as, Posbility: 0.0031
+Choose :  and,  Posbility: 0.8596
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and
+---------------------------
+Next Token :  returns, Posbility: 0.9064
+Next Token :  return, Posbility: 0.0176
+Next Token :  checks, Posbility: 0.0051
+Next Token :  performs, Posbility: 0.0049
+Next Token :  prints, Posbility: 0.0039
+Choose :  returns,  Posbility: 0.9064
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns
+---------------------------
+Next Token :  a, Posbility: 0.5176
+Next Token :  the, Posbility: 0.2879
+Next Token :  an, Posbility: 0.1106
+Next Token :  True, Posbility: 0.0186
+Next Token :  another, Posbility: 0.0097
+Choose :  a,  Posbility: 0.5176
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a
+---------------------------
+Next Token :  tuple, Posbility: 0.6855
+Next Token :  boolean, Posbility: 0.1657
+Next Token :  list, Posbility: 0.0338
+Next Token :  new, Posbility: 0.0278
+Next Token :  sorted, Posbility: 0.0220
+Choose :  tuple,  Posbility: 0.6855
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple
+---------------------------
+Next Token :  containing, Posbility: 0.8956
+Next Token :  with, Posbility: 0.0288
+Next Token :  of, Posbility: 0.0160
+Next Token :  that, Posbility: 0.0122
+Next Token :  where, Posbility: 0.0109
+Choose :  containing,  Posbility: 0.8956
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing
+---------------------------
+Next Token :  a, Posbility: 0.8294
+Next Token :  the, Posbility: 0.0546
+Next Token :  an, Posbility: 0.0529
+Next Token :  two, Posbility: 0.0260
+Next Token : :, Posbility: 0.0034
+Choose :  a,  Posbility: 0.8294
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a
+---------------------------
+Next Token :  boolean, Posbility: 0.9508
+Next Token :  list, Posbility: 0.0140
+Next Token :  Boolean, Posbility: 0.0068
+Next Token :  bool, Posbility: 0.0049
+Next Token :  dictionary, Posbility: 0.0041
+Choose :  boolean,  Posbility: 0.9508
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean
+---------------------------
+Next Token :  that, Posbility: 0.9801
+Next Token :  indicating, Posbility: 0.0040
+Next Token :  and, Posbility: 0.0032
+Next Token : ,, Posbility: 0.0017
+Next Token :  value, Posbility: 0.0012
+Choose :  that,  Posbility: 0.9801
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that
+---------------------------
+Next Token :  indicates, Posbility: 0.9691
+Next Token :  represents, Posbility: 0.0037
+Next Token :  is, Posbility: 0.0032
+Next Token : 
+, Posbility: 0.0030
+Next Token :  determines, Posbility: 0.0017
+Choose :  indicates,  Posbility: 0.9691
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates
+---------------------------
+Next Token :  if, Posbility: 0.9693
+Next Token :  whether, Posbility: 0.0211
+Next Token :  the, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.0010
+Next Token :  that, Posbility: 0.0008
+Choose :  if,  Posbility: 0.9693
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if
+---------------------------
+Next Token :  the, Posbility: 0.9595
+Next Token :  element, Posbility: 0.0094
+Next Token :  a, Posbility: 0.0041
+Next Token :  there, Posbility: 0.0040
+Next Token :  an, Posbility: 0.0039
+Choose :  the,  Posbility: 0.9595
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the
+---------------------------
+Next Token :  element, Posbility: 0.8799
+Next Token :  array, Posbility: 0.0619
+Next Token :  index, Posbility: 0.0224
+Next Token :  position, Posbility: 0.0047
+Next Token :  first, Posbility: 0.0037
+Choose :  element,  Posbility: 0.8799
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element
+---------------------------
+Next Token :  is, Posbility: 0.9431
+Next Token :  exists, Posbility: 0.0085
+Next Token :  at, Posbility: 0.0076
+Next Token :  in, Posbility: 0.0057
+Next Token :  occurs, Posbility: 0.0034
+Choose :  is,  Posbility: 0.9431
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is
+---------------------------
+Next Token :  in, Posbility: 0.5349
+Next Token :  present, Posbility: 0.0969
+Next Token :  not, Posbility: 0.0611
+Next Token :  found, Posbility: 0.0358
+Next Token :  contained, Posbility: 0.0341
+Choose :  in,  Posbility: 0.5349
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in
+---------------------------
+Next Token :  the, Posbility: 0.9860
+Next Token :  a, Posbility: 0.0033
+Next Token :  array, Posbility: 0.0012
+Next Token :  an, Posbility: 0.0011
+Next Token :  index, Posbility: 0.0010
+Choose :  the,  Posbility: 0.9860
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the
+---------------------------
+Next Token :  array, Posbility: 0.9466
+Next Token :  first, Posbility: 0.0140
+Next Token :  range, Posbility: 0.0037
+Next Token :  middle, Posbility: 0.0029
+Next Token :  list, Posbility: 0.0028
+Choose :  array,  Posbility: 0.9466
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array
+---------------------------
+Next Token :  and, Posbility: 0.8582
+Next Token : ., Posbility: 0.0411
+Next Token : ,, Posbility: 0.0274
+Next Token :  but, Posbility: 0.0229
+Next Token :  at, Posbility: 0.0091
+Choose :  and,  Posbility: 0.8582
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and
+---------------------------
+Next Token :  the, Posbility: 0.9588
+Next Token :  its, Posbility: 0.0168
+Next Token :  a, Posbility: 0.0091
+Next Token :  an, Posbility: 0.0028
+Next Token :  index, Posbility: 0.0014
+Choose :  the,  Posbility: 0.9588
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the
+---------------------------
+Next Token :  index, Posbility: 0.8674
+Next Token :  position, Posbility: 0.0617
+Next Token :  last, Posbility: 0.0099
+Next Token :  element, Posbility: 0.0098
+Next Token :  first, Posbility: 0.0071
+Choose :  index,  Posbility: 0.8674
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index
+---------------------------
+Next Token :  position, Posbility: 0.9700
+Next Token :  of, Posbility: 0.0151
+Next Token :  positions, Posbility: 0.0036
+Next Token : ., Posbility: 0.0013
+Next Token :  number, Posbility: 0.0011
+Choose :  position,  Posbility: 0.9700
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position
+---------------------------
+Next Token :  of, Posbility: 0.9861
+Next Token :  (, Posbility: 0.0071
+Next Token : ., Posbility: 0.0019
+Next Token :  where, Posbility: 0.0006
+Next Token :  or, Posbility: 0.0004
+Choose :  of,  Posbility: 0.9861
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of
+---------------------------
+Next Token :  the, Posbility: 0.9977
+Next Token :  element, Posbility: 0.0006
+Next Token :  a, Posbility: 0.0005
+Next Token :  an, Posbility: 0.0001
+Next Token :  that, Posbility: 0.0001
+Choose :  the,  Posbility: 0.9977
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the
+---------------------------
+Next Token :  element, Posbility: 0.9926
+Next Token :  array, Posbility: 0.0016
+Next Token :  index, Posbility: 0.0016
+Next Token :  position, Posbility: 0.0003
+Next Token :  item, Posbility: 0.0003
+Choose :  element,  Posbility: 0.9926
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element
+---------------------------
+Next Token :  (, Posbility: 0.8553
+Next Token : ., Posbility: 0.0795
+Next Token : .', Posbility: 0.0168
+Next Token :  in, Posbility: 0.0101
+Next Token : '', Posbility: 0.0069
+Choose :  (,  Posbility: 0.8553
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (
+---------------------------
+Next Token : or, Posbility: 0.9952
+Next Token : not, Posbility: 0.0005
+Next Token : and, Posbility: 0.0004
+Next Token :  or, Posbility: 0.0004
+Next Token : 0, Posbility: 0.0003
+Choose : or,  Posbility: 0.9952
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or
+---------------------------
+Next Token :  -, Posbility: 0.9875
+Next Token :  0, Posbility: 0.0030
+Next Token :  the, Posbility: 0.0014
+Next Token :  False, Posbility: 0.0009
+Next Token :  a, Posbility: 0.0006
+Choose :  -,  Posbility: 0.9875
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -
+---------------------------
+Next Token : 1, Posbility: 0.9994
+Next Token : 2, Posbility: 0.0004
+Next Token :  1, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0000
+Next Token : 5, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9994
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1
+---------------------------
+Next Token :  if, Posbility: 0.9969
+Next Token : )., Posbility: 0.0009
+Next Token :  is, Posbility: 0.0006
+Next Token : ), Posbility: 0.0004
+Next Token : ,, Posbility: 0.0002
+Choose :  if,  Posbility: 0.9969
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if
+---------------------------
+Next Token :  the, Posbility: 0.9885
+Next Token :  element, Posbility: 0.0032
+Next Token :  not, Posbility: 0.0019
+Next Token :  there, Posbility: 0.0018
+Next Token :  it, Posbility: 0.0016
+Choose :  the,  Posbility: 0.9885
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the
+---------------------------
+Next Token :  element, Posbility: 0.9977
+Next Token :  index, Posbility: 0.0008
+Next Token :  array, Posbility: 0.0003
+Next Token :  item, Posbility: 0.0003
+Next Token :  value, Posbility: 0.0001
+Choose :  element,  Posbility: 0.9977
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element
+---------------------------
+Next Token :  is, Posbility: 0.9859
+Next Token :  does, Posbility: 0.0071
+Next Token :  isn, Posbility: 0.0025
+Next Token :  not, Posbility: 0.0009
+Next Token :  was, Posbility: 0.0008
+Choose :  is,  Posbility: 0.9859
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is
+---------------------------
+Next Token :  not, Posbility: 0.9988
+Next Token :  found, Posbility: 0.0003
+Next Token :  NOT, Posbility: 0.0003
+Next Token :  missing, Posbility: 0.0001
+Next Token :  the, Posbility: 0.0000
+Choose :  not,  Posbility: 0.9988
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not
+---------------------------
+Next Token :  found, Posbility: 0.9957
+Next Token :  in, Posbility: 0.0024
+Next Token :  present, Posbility: 0.0007
+Next Token :  there, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0001
+Choose :  found,  Posbility: 0.9957
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found
+---------------------------
+Next Token : )., Posbility: 0.9742
+Next Token : ), Posbility: 0.0194
+Next Token : .), Posbility: 0.0011
+Next Token : ),, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0007
+Choose : ).,  Posbility: 0.9742
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).
+---------------------------
+Next Token : '', Posbility: 0.9459
+Next Token : 
+, Posbility: 0.0175
+Next Token :  The, Posbility: 0.0053
+Next Token :  If, Posbility: 0.0040
+Next Token :  (, Posbility: 0.0030
+Choose : '',  Posbility: 0.9459
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : `, Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+---------------------------
+Next Token : 
+, Posbility: 0.9618
+Next Token : 
+
+, Posbility: 0.0308
+Next Token :  , Posbility: 0.0019
+Next Token : def, Posbility: 0.0015
+Next Token :     , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9618
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+
+---------------------------
+Next Token : def, Posbility: 0.9299
+Next Token : 
+, Posbility: 0.0565
+Next Token : #, Posbility: 0.0063
+Next Token : '', Posbility: 0.0017
+Next Token : class, Posbility: 0.0009
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 19.100571393966675
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def find_element(array, element):
+    for i in range(len(array)):
+        if array[i] == element:
+            return True, i
+    return False, -1
+
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+

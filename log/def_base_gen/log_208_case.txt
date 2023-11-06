@@ -1,0 +1,848 @@
+<<<<<<<<<<<< 208 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  round, Posbility: 0.2318
+Next Token :  sum, Posbility: 0.1015
+Next Token :  rounding, Posbility: 0.0293
+Next Token :  list, Posbility: 0.0291
+Next Token :  main, Posbility: 0.0261
+Choose :  round,  Posbility: 0.2318
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round
+---------------------------
+Next Token : _, Posbility: 0.6720
+Next Token : (, Posbility: 0.1196
+Next Token : list, Posbility: 0.0178
+Next Token : List, Posbility: 0.0160
+Next Token : er, Posbility: 0.0122
+Choose : _,  Posbility: 0.6720
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_
+---------------------------
+Next Token : list, Posbility: 0.1623
+Next Token : n, Posbility: 0.1232
+Next Token : sum, Posbility: 0.1154
+Next Token : all, Posbility: 0.0582
+Next Token : num, Posbility: 0.0329
+Choose : list,  Posbility: 0.1623
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list
+---------------------------
+Next Token : (, Posbility: 0.8646
+Next Token : _, Posbility: 0.1028
+Next Token : ():, Posbility: 0.0175
+Next Token : (*, Posbility: 0.0048
+Next Token :  (, Posbility: 0.0038
+Choose : (,  Posbility: 0.8646
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(
+---------------------------
+Next Token : l, Posbility: 0.2044
+Next Token : list, Posbility: 0.2017
+Next Token : n, Posbility: 0.1636
+Next Token : num, Posbility: 0.0741
+Next Token : a, Posbility: 0.0545
+Choose : l,  Posbility: 0.2044
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(l
+---------------------------
+Next Token : st, Posbility: 0.7052
+Next Token : ):, Posbility: 0.2217
+Next Token : ,, Posbility: 0.0370
+Next Token : :, Posbility: 0.0130
+Next Token : _, Posbility: 0.0086
+Choose : st,  Posbility: 0.7052
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst
+---------------------------
+Next Token : ):, Posbility: 0.8170
+Next Token : ,, Posbility: 0.1221
+Next Token : :, Posbility: 0.0260
+Next Token : _, Posbility: 0.0210
+Next Token : 1, Posbility: 0.0054
+Choose : ):,  Posbility: 0.8170
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9221
+Next Token : 
+
+, Posbility: 0.0272
+Next Token : , Posbility: 0.0251
+Next Token :  , Posbility: 0.0121
+Next Token :   , Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9221
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9498
+Next Token :   , Posbility: 0.0294
+Next Token : 	, Posbility: 0.0125
+Next Token :    , Posbility: 0.0042
+Next Token :         , Posbility: 0.0012
+Choose :     ,  Posbility: 0.9498
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    
+---------------------------
+Next Token : total, Posbility: 0.1981
+Next Token : sum, Posbility: 0.1481
+Next Token : '', Posbility: 0.0801
+Next Token : l, Posbility: 0.0630
+Next Token : #, Posbility: 0.0602
+Choose : total,  Posbility: 0.1981
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total
+---------------------------
+Next Token :  =, Posbility: 0.7061
+Next Token : _, Posbility: 0.1920
+Next Token : =, Posbility: 0.0873
+Next Token : Sum, Posbility: 0.0053
+Next Token : ,, Posbility: 0.0030
+Choose :  =,  Posbility: 0.7061
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total =
+---------------------------
+Next Token :  0, Posbility: 0.8781
+Next Token :  sum, Posbility: 0.0368
+Next Token :  1, Posbility: 0.0270
+Next Token :  [], Posbility: 0.0130
+Next Token :  l, Posbility: 0.0089
+Choose :  0,  Posbility: 0.8781
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9550
+Next Token : 
+
+, Posbility: 0.0232
+Next Token :  , Posbility: 0.0067
+Next Token : ., Posbility: 0.0065
+Next Token :  #, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9550
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9991
+Next Token :    , Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9991
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.5813
+Next Token : length, Posbility: 0.0943
+Next Token : len, Posbility: 0.0456
+Next Token : l, Posbility: 0.0339
+Next Token : #, Posbility: 0.0211
+Choose : for,  Posbility: 0.5813
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.3704
+Next Token :  num, Posbility: 0.1745
+Next Token :  item, Posbility: 0.0674
+Next Token :  number, Posbility: 0.0636
+Next Token :  x, Posbility: 0.0622
+Choose :  i,  Posbility: 0.3704
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9924
+Next Token : ,, Posbility: 0.0070
+Next Token :   , Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : 1, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9924
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in
+---------------------------
+Next Token :  l, Posbility: 0.7419
+Next Token :  range, Posbility: 0.2536
+Next Token :  list, Posbility: 0.0010
+Next Token :   , Posbility: 0.0005
+Next Token :  (, Posbility: 0.0004
+Choose :  l,  Posbility: 0.7419
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : :, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : gt, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst
+---------------------------
+Next Token : :, Posbility: 0.9919
+Next Token : [, Posbility: 0.0043
+Next Token :  :, Posbility: 0.0022
+Next Token : ., Posbility: 0.0011
+Next Token : _, Posbility: 0.0001
+Choose : :,  Posbility: 0.9919
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9908
+Next Token :  , Posbility: 0.0029
+Next Token :  total, Posbility: 0.0013
+Next Token :  #, Posbility: 0.0011
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9908
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9850
+Next Token :       , Posbility: 0.0058
+Next Token :        , Posbility: 0.0038
+Next Token :             , Posbility: 0.0021
+Next Token :     , Posbility: 0.0011
+Choose :         ,  Posbility: 0.9850
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        
+---------------------------
+Next Token : total, Posbility: 0.9599
+Next Token : i, Posbility: 0.0083
+Next Token : if, Posbility: 0.0057
+Next Token : print, Posbility: 0.0045
+Next Token : #, Posbility: 0.0033
+Choose : total,  Posbility: 0.9599
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total
+---------------------------
+Next Token :  +=, Posbility: 0.7735
+Next Token :  =, Posbility: 0.1858
+Next Token : +=, Posbility: 0.0300
+Next Token :  *, Posbility: 0.0060
+Next Token : =, Posbility: 0.0011
+Choose :  +=,  Posbility: 0.7735
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total +=
+---------------------------
+Next Token :  i, Posbility: 0.7743
+Next Token :  round, Posbility: 0.1791
+Next Token :  int, Posbility: 0.0136
+Next Token : i, Posbility: 0.0077
+Next Token :  (, Posbility: 0.0071
+Choose :  i,  Posbility: 0.7743
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+---------------------------
+Next Token : 
+, Posbility: 0.8755
+Next Token : 
+
+, Posbility: 0.0333
+Next Token :  *, Posbility: 0.0202
+Next Token : *, Posbility: 0.0144
+Next Token :  **, Posbility: 0.0084
+Choose : 
+,  Posbility: 0.8755
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+
+---------------------------
+Next Token :     , Posbility: 0.9400
+Next Token :         , Posbility: 0.0580
+Next Token : 
+, Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9400
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    
+---------------------------
+Next Token : return, Posbility: 0.4666
+Next Token : print, Posbility: 0.3823
+Next Token : total, Posbility: 0.0280
+Next Token : l, Posbility: 0.0256
+Next Token : length, Posbility: 0.0150
+Choose : return,  Posbility: 0.4666
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return
+---------------------------
+Next Token :  total, Posbility: 0.8737
+Next Token :  f, Posbility: 0.0332
+Next Token :  round, Posbility: 0.0286
+Next Token : (, Posbility: 0.0212
+Next Token :  (, Posbility: 0.0078
+Choose :  total,  Posbility: 0.8737
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+---------------------------
+Next Token : 
+, Posbility: 0.3384
+Next Token :  *, Posbility: 0.3263
+Next Token : 
+
+, Posbility: 0.1522
+Next Token : *, Posbility: 0.0941
+Next Token : <|endoftext|>, Posbility: 0.0328
+Choose : 
+,  Posbility: 0.3384
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+---------------------------
+Next Token : 
+, Posbility: 0.6442
+Next Token : print, Posbility: 0.1139
+Next Token :     , Posbility: 0.0584
+Next Token : l, Posbility: 0.0311
+Next Token : #, Posbility: 0.0238
+Choose : 
+,  Posbility: 0.6442
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9501
+Next Token : 
+
+, Posbility: 0.0154
+Next Token :     , Posbility: 0.0150
+Next Token : <|endoftext|>, Posbility: 0.0135
+Next Token :         , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9501
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2457
+Next Token : def, Posbility: 0.1843
+Next Token : #, Posbility: 0.1828
+Next Token : print, Posbility: 0.1442
+Next Token : l, Posbility: 0.0577
+Choose : '',  Posbility: 0.2457
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8392
+Next Token :  Write, Posbility: 0.0164
+Next Token : Create, Posbility: 0.0117
+Next Token : 
+, Posbility: 0.0083
+Next Token : Def, Posbility: 0.0040
+Choose : Write,  Posbility: 0.8392
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9881
+Next Token :  an, Posbility: 0.0029
+Next Token :  your, Posbility: 0.0025
+Next Token :  the, Posbility: 0.0014
+Next Token :  function, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9881
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.8993
+Next Token :  program, Posbility: 0.0272
+Next Token :  Python, Posbility: 0.0264
+Next Token :  python, Posbility: 0.0117
+Next Token :  Function, Posbility: 0.0040
+Choose :  function,  Posbility: 0.8993
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6814
+Next Token :  that, Posbility: 0.2235
+Next Token :  called, Posbility: 0.0193
+Next Token :  named, Posbility: 0.0160
+Next Token :  which, Posbility: 0.0136
+Choose :  to,  Posbility: 0.6814
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1445
+Next Token :  print, Posbility: 0.0814
+Next Token :  check, Posbility: 0.0690
+Next Token :  get, Posbility: 0.0587
+Next Token :  calculate, Posbility: 0.0529
+Choose :  find,  Posbility: 0.1445
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.7141
+Next Token :  if, Posbility: 0.0315
+Next Token :  out, Posbility: 0.0310
+Next Token :  a, Posbility: 0.0259
+Next Token :  and, Posbility: 0.0225
+Choose :  the,  Posbility: 0.7141
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  length, Posbility: 0.0724
+Next Token :  sum, Posbility: 0.0654
+Next Token :  maximum, Posbility: 0.0654
+Next Token :  smallest, Posbility: 0.0588
+Next Token :  largest, Posbility: 0.0582
+Choose :  length,  Posbility: 0.0724
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length
+---------------------------
+Next Token :  of, Posbility: 0.9604
+Next Token :  and, Posbility: 0.0131
+Next Token : ,, Posbility: 0.0061
+Next Token :  (, Posbility: 0.0020
+Next Token :  in, Posbility: 0.0012
+Choose :  of,  Posbility: 0.9604
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of
+---------------------------
+Next Token :  the, Posbility: 0.4838
+Next Token :  a, Posbility: 0.4097
+Next Token :  an, Posbility: 0.0209
+Next Token :  all, Posbility: 0.0079
+Next Token :  any, Posbility: 0.0067
+Choose :  the,  Posbility: 0.4838
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the
+---------------------------
+Next Token :  longest, Posbility: 0.3474
+Next Token :  list, Posbility: 0.1460
+Next Token :  largest, Posbility: 0.0794
+Next Token :  first, Posbility: 0.0638
+Next Token :  smallest, Posbility: 0.0473
+Choose :  longest,  Posbility: 0.3474
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest
+---------------------------
+Next Token :  subst, Posbility: 0.1947
+Next Token :  word, Posbility: 0.1387
+Next Token :  sub, Posbility: 0.1103
+Next Token :  string, Posbility: 0.0979
+Next Token :  common, Posbility: 0.0456
+Choose :  subst,  Posbility: 0.1947
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest subst
+---------------------------
+Next Token : ring, Posbility: 0.9988
+Next Token : ing, Posbility: 0.0002
+Next Token : ructure, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Next Token : ruct, Posbility: 0.0001
+Choose : ring,  Posbility: 0.9988
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring
+---------------------------
+Next Token :  in, Posbility: 0.4860
+Next Token :  of, Posbility: 0.1662
+Next Token :  with, Posbility: 0.0488
+Next Token :  that, Posbility: 0.0238
+Next Token :  between, Posbility: 0.0227
+Choose :  in,  Posbility: 0.4860
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in
+---------------------------
+Next Token :  a, Posbility: 0.7460
+Next Token :  the, Posbility: 0.1782
+Next Token :  an, Posbility: 0.0185
+Next Token :  l, Posbility: 0.0098
+Next Token :  given, Posbility: 0.0083
+Choose :  a,  Posbility: 0.7460
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a
+---------------------------
+Next Token :  given, Posbility: 0.6426
+Next Token :  list, Posbility: 0.2067
+Next Token :  string, Posbility: 0.0944
+Next Token :  word, Posbility: 0.0119
+Next Token :  sentence, Posbility: 0.0040
+Choose :  given,  Posbility: 0.6426
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given
+---------------------------
+Next Token :  list, Posbility: 0.5614
+Next Token :  string, Posbility: 0.3363
+Next Token :  text, Posbility: 0.0242
+Next Token :  array, Posbility: 0.0154
+Next Token :  word, Posbility: 0.0084
+Choose :  list,  Posbility: 0.5614
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list
+---------------------------
+Next Token :  of, Posbility: 0.6473
+Next Token : .', Posbility: 0.2231
+Next Token : ., Posbility: 0.0673
+Next Token : '', Posbility: 0.0202
+Next Token :  and, Posbility: 0.0157
+Choose :  of,  Posbility: 0.6473
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list of
+---------------------------
+Next Token :  strings, Posbility: 0.4173
+Next Token :  words, Posbility: 0.3380
+Next Token :  integers, Posbility: 0.0486
+Next Token :  numbers, Posbility: 0.0479
+Next Token :  characters, Posbility: 0.0276
+Choose :  strings,  Posbility: 0.4173
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list of strings
+---------------------------
+Next Token : .', Posbility: 0.5592
+Next Token : ., Posbility: 0.2871
+Next Token : '', Posbility: 0.0480
+Next Token :  and, Posbility: 0.0352
+Next Token : ,, Posbility: 0.0124
+Choose : .',  Posbility: 0.5592
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list of strings.'
+---------------------------
+Next Token : '', Posbility: 0.9994
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9994
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list of strings.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9113
+Next Token : 
+
+, Posbility: 0.0823
+Next Token :  , Posbility: 0.0021
+Next Token : def, Posbility: 0.0014
+Next Token :     , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9113
+---------------------------
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list of strings.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9091
+Next Token : 
+, Posbility: 0.0623
+Next Token : #, Posbility: 0.0124
+Next Token : import, Posbility: 0.0035
+Next Token : from, Posbility: 0.0029
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.29045581817627
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.'''
+def round_list(lst):
+    total = 0
+    for i in lst:
+        total += i
+    return total
+
+
+'''Write a function to find the length of the longest substring in a given list of strings.'''
+

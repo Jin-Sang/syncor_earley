@@ -1,0 +1,982 @@
+<<<<<<<<<<<< 156 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  equal, Posbility: 0.1923
+Next Token :  check, Posbility: 0.1413
+Next Token :  all, Posbility: 0.1001
+Next Token :  is, Posbility: 0.0826
+Next Token :  list, Posbility: 0.0579
+Choose :  equal,  Posbility: 0.1923
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal
+---------------------------
+Next Token : _, Posbility: 0.5193
+Next Token : (, Posbility: 0.2715
+Next Token : To, Posbility: 0.0592
+Next Token : ize, Posbility: 0.0117
+Next Token : List, Posbility: 0.0115
+Choose : _,  Posbility: 0.5193
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_
+---------------------------
+Next Token : to, Posbility: 0.2395
+Next Token : e, Posbility: 0.1969
+Next Token : list, Posbility: 0.1066
+Next Token : all, Posbility: 0.0763
+Next Token : element, Posbility: 0.0634
+Choose : to,  Posbility: 0.2395
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to
+---------------------------
+Next Token : _, Posbility: 0.5407
+Next Token : (, Posbility: 0.4493
+Next Token : (*, Posbility: 0.0061
+Next Token :  (, Posbility: 0.0023
+Next Token : _(, Posbility: 0.0003
+Choose : _,  Posbility: 0.5407
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_
+---------------------------
+Next Token : element, Posbility: 0.7060
+Next Token : e, Posbility: 0.0493
+Next Token : list, Posbility: 0.0470
+Next Token : all, Posbility: 0.0401
+Next Token : item, Posbility: 0.0201
+Choose : element,  Posbility: 0.7060
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element
+---------------------------
+Next Token : (, Posbility: 0.9538
+Next Token : _, Posbility: 0.0354
+Next Token :  (, Posbility: 0.0054
+Next Token : (*, Posbility: 0.0011
+Next Token : ():, Posbility: 0.0011
+Choose : (,  Posbility: 0.9538
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(
+---------------------------
+Next Token : list, Posbility: 0.2569
+Next Token : l, Posbility: 0.1594
+Next Token : element, Posbility: 0.0854
+Next Token : e, Posbility: 0.0827
+Next Token : my, Posbility: 0.0519
+Choose : list,  Posbility: 0.2569
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list
+---------------------------
+Next Token : ,, Posbility: 0.7383
+Next Token : _, Posbility: 0.1804
+Next Token : 1, Posbility: 0.0347
+Next Token : :, Posbility: 0.0154
+Next Token : ):, Posbility: 0.0098
+Choose : ,,  Posbility: 0.7383
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list,
+---------------------------
+Next Token :  element, Posbility: 0.7442
+Next Token : element, Posbility: 0.1262
+Next Token :  item, Posbility: 0.0266
+Next Token :  ele, Posbility: 0.0220
+Next Token :  e, Posbility: 0.0077
+Choose :  element,  Posbility: 0.7442
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element
+---------------------------
+Next Token : ):, Posbility: 0.9634
+Next Token : ,, Posbility: 0.0178
+Next Token : _, Posbility: 0.0091
+Next Token : ), Posbility: 0.0041
+Next Token : =, Posbility: 0.0029
+Choose : ):,  Posbility: 0.9634
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+---------------------------
+Next Token : 
+, Posbility: 0.9467
+Next Token : 
+
+, Posbility: 0.0237
+Next Token : , Posbility: 0.0129
+Next Token :  , Posbility: 0.0099
+Next Token :  #, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9467
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+
+---------------------------
+Next Token :     , Posbility: 0.9443
+Next Token :   , Posbility: 0.0261
+Next Token : 	, Posbility: 0.0223
+Next Token :    , Posbility: 0.0033
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9443
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    
+---------------------------
+Next Token : for, Posbility: 0.3642
+Next Token : '', Posbility: 0.1792
+Next Token : if, Posbility: 0.0855
+Next Token : #, Posbility: 0.0503
+Next Token : list, Posbility: 0.0214
+Choose : for,  Posbility: 0.3642
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.3461
+Next Token :  item, Posbility: 0.2722
+Next Token :  element, Posbility: 0.1105
+Next Token :  index, Posbility: 0.0391
+Next Token :  x, Posbility: 0.0388
+Choose :  i,  Posbility: 0.3461
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9793
+Next Token : ,, Posbility: 0.0199
+Next Token : _, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9793
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in
+---------------------------
+Next Token :  list, Posbility: 0.5271
+Next Token :  range, Posbility: 0.4660
+Next Token :  element, Posbility: 0.0026
+Next Token :  enumer, Posbility: 0.0007
+Next Token :   , Posbility: 0.0005
+Choose :  list,  Posbility: 0.5271
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list
+---------------------------
+Next Token : :, Posbility: 0.9933
+Next Token : [, Posbility: 0.0023
+Next Token :  :, Posbility: 0.0021
+Next Token : _, Posbility: 0.0009
+Next Token : ., Posbility: 0.0008
+Choose : :,  Posbility: 0.9933
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+---------------------------
+Next Token : 
+, Posbility: 0.9888
+Next Token :  , Posbility: 0.0035
+Next Token : 
+
+, Posbility: 0.0025
+Next Token :  #, Posbility: 0.0014
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9888
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+
+---------------------------
+Next Token :         , Posbility: 0.9872
+Next Token :             , Posbility: 0.0039
+Next Token :       , Posbility: 0.0037
+Next Token :        , Posbility: 0.0022
+Next Token :     , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9872
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        
+---------------------------
+Next Token : if, Posbility: 0.9586
+Next Token : print, Posbility: 0.0060
+Next Token : for, Posbility: 0.0049
+Next Token : #, Posbility: 0.0040
+Next Token : return, Posbility: 0.0039
+Choose : if,  Posbility: 0.9586
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.7585
+Next Token :  element, Posbility: 0.1174
+Next Token :  list, Posbility: 0.0497
+Next Token : (, Posbility: 0.0251
+Next Token :  (, Posbility: 0.0164
+Choose :  i,  Posbility: 0.7585
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i
+---------------------------
+Next Token : !=, Posbility: 0.5632
+Next Token :  ==, Posbility: 0.3695
+Next Token : ==, Posbility: 0.0249
+Next Token : !, Posbility: 0.0169
+Next Token :  is, Posbility: 0.0109
+Choose : !=,  Posbility: 0.5632
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=
+---------------------------
+Next Token : element, Posbility: 0.9482
+Next Token :  element, Posbility: 0.0489
+Next Token : list, Posbility: 0.0004
+Next Token : item, Posbility: 0.0003
+Next Token : int, Posbility: 0.0003
+Choose : element,  Posbility: 0.9482
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element
+---------------------------
+Next Token : :, Posbility: 0.9692
+Next Token :  and, Posbility: 0.0259
+Next Token :  :, Posbility: 0.0020
+Next Token :  or, Posbility: 0.0017
+Next Token : :#, Posbility: 0.0004
+Choose : :,  Posbility: 0.9692
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+---------------------------
+Next Token : 
+, Posbility: 0.9745
+Next Token :  return, Posbility: 0.0087
+Next Token :  , Posbility: 0.0055
+Next Token :  print, Posbility: 0.0035
+Next Token :  #, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9745
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+
+---------------------------
+Next Token :             , Posbility: 0.9849
+Next Token :            , Posbility: 0.0069
+Next Token :              , Posbility: 0.0024
+Next Token :                 , Posbility: 0.0022
+Next Token :           , Posbility: 0.0021
+Choose :             ,  Posbility: 0.9849
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            
+---------------------------
+Next Token : return, Posbility: 0.8832
+Next Token : print, Posbility: 0.0937
+Next Token : raise, Posbility: 0.0041
+Next Token : break, Posbility: 0.0026
+Next Token : #, Posbility: 0.0025
+Choose : return,  Posbility: 0.8832
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return
+---------------------------
+Next Token :  False, Posbility: 0.9203
+Next Token :  0, Posbility: 0.0193
+Next Token :  ", Posbility: 0.0145
+Next Token :  ', Posbility: 0.0129
+Next Token :  f, Posbility: 0.0065
+Choose :  False,  Posbility: 0.9203
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+---------------------------
+Next Token : 
+, Posbility: 0.9366
+Next Token : 
+
+, Posbility: 0.0436
+Next Token :  , Posbility: 0.0078
+Next Token : ;, Posbility: 0.0026
+Next Token :  #, Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9366
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+
+---------------------------
+Next Token :     , Posbility: 0.9389
+Next Token :         , Posbility: 0.0485
+Next Token : 
+, Posbility: 0.0056
+Next Token :             , Posbility: 0.0041
+Next Token : #, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9389
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    
+---------------------------
+Next Token : return, Posbility: 0.9292
+Next Token : else, Posbility: 0.0425
+Next Token : 
+, Posbility: 0.0219
+Next Token : print, Posbility: 0.0019
+Next Token : if, Posbility: 0.0016
+Choose : return,  Posbility: 0.9292
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return
+---------------------------
+Next Token :  True, Posbility: 0.9966
+Next Token :  list, Posbility: 0.0008
+Next Token :  element, Posbility: 0.0005
+Next Token :  len, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose :  True,  Posbility: 0.9966
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+---------------------------
+Next Token : 
+, Posbility: 0.8010
+Next Token : 
+
+, Posbility: 0.1392
+Next Token : <|endoftext|>, Posbility: 0.0268
+Next Token :  , Posbility: 0.0147
+Next Token :     , Posbility: 0.0061
+Choose : 
+,  Posbility: 0.8010
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+---------------------------
+Next Token : 
+, Posbility: 0.6565
+Next Token : def, Posbility: 0.0932
+Next Token : #, Posbility: 0.0605
+Next Token :     , Posbility: 0.0335
+Next Token : print, Posbility: 0.0334
+Choose : 
+,  Posbility: 0.6565
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8548
+Next Token : 
+
+, Posbility: 0.0697
+Next Token : <|endoftext|>, Posbility: 0.0374
+Next Token :     , Posbility: 0.0244
+Next Token :         , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.8548
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4257
+Next Token : #, Posbility: 0.1557
+Next Token : def, Posbility: 0.1286
+Next Token : 
+, Posbility: 0.0922
+Next Token : print, Posbility: 0.0660
+Choose : '',  Posbility: 0.4257
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : This, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8028
+Next Token : 
+, Posbility: 0.0243
+Next Token :  Write, Posbility: 0.0201
+Next Token : Create, Posbility: 0.0085
+Next Token : Given, Posbility: 0.0071
+Choose : Write,  Posbility: 0.8028
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9911
+Next Token :  your, Posbility: 0.0018
+Next Token :  an, Posbility: 0.0016
+Next Token :  function, Posbility: 0.0011
+Next Token :  the, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9911
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9715
+Next Token :  program, Posbility: 0.0050
+Next Token :  Python, Posbility: 0.0038
+Next Token :  python, Posbility: 0.0024
+Next Token :  recursive, Posbility: 0.0017
+Choose :  function,  Posbility: 0.9715
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.8870
+Next Token :  to, Posbility: 0.0591
+Next Token :  called, Posbility: 0.0120
+Next Token :  which, Posbility: 0.0090
+Next Token :  named, Posbility: 0.0070
+Choose :  that,  Posbility: 0.8870
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.8070
+Next Token :  returns, Posbility: 0.0410
+Next Token :  accepts, Posbility: 0.0341
+Next Token :  checks, Posbility: 0.0135
+Next Token :  prints, Posbility: 0.0064
+Choose :  takes,  Posbility: 0.8070
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  in, Posbility: 0.7626
+Next Token :  a, Posbility: 0.1552
+Next Token :  an, Posbility: 0.0197
+Next Token :  as, Posbility: 0.0188
+Next Token :  two, Posbility: 0.0167
+Choose :  in,  Posbility: 0.7626
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in
+---------------------------
+Next Token :  a, Posbility: 0.8033
+Next Token :  two, Posbility: 0.0863
+Next Token :  an, Posbility: 0.0672
+Next Token :  the, Posbility: 0.0087
+Next Token :  three, Posbility: 0.0059
+Choose :  a,  Posbility: 0.8033
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a
+---------------------------
+Next Token :  list, Posbility: 0.7417
+Next Token :  string, Posbility: 0.0856
+Next Token :  dictionary, Posbility: 0.0356
+Next Token :  number, Posbility: 0.0304
+Next Token :  word, Posbility: 0.0054
+Choose :  list,  Posbility: 0.7417
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list
+---------------------------
+Next Token :  and, Posbility: 0.7866
+Next Token :  of, Posbility: 0.1046
+Next Token : ,, Posbility: 0.0703
+Next Token :  as, Posbility: 0.0059
+Next Token :  with, Posbility: 0.0058
+Choose :  and,  Posbility: 0.7866
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and
+---------------------------
+Next Token :  element, Posbility: 0.7089
+Next Token :  a, Posbility: 0.0326
+Next Token :  an, Posbility: 0.0218
+Next Token :  two, Posbility: 0.0197
+Next Token :  list, Posbility: 0.0193
+Choose :  element,  Posbility: 0.7089
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element
+---------------------------
+Next Token :  and, Posbility: 0.8380
+Next Token : ,, Posbility: 0.1108
+Next Token : ., Posbility: 0.0136
+Next Token :  as, Posbility: 0.0034
+Next Token : .', Posbility: 0.0034
+Choose :  and,  Posbility: 0.8380
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and
+---------------------------
+Next Token :  checks, Posbility: 0.6236
+Next Token :  returns, Posbility: 0.1427
+Next Token :  compares, Posbility: 0.0372
+Next Token :  calculates, Posbility: 0.0166
+Next Token :  prints, Posbility: 0.0084
+Choose :  checks,  Posbility: 0.6236
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks
+---------------------------
+Next Token :  whether, Posbility: 0.8827
+Next Token :  if, Posbility: 0.0730
+Next Token :  for, Posbility: 0.0154
+Next Token :  the, Posbility: 0.0106
+Next Token :  to, Posbility: 0.0020
+Choose :  whether,  Posbility: 0.8827
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether
+---------------------------
+Next Token :  all, Posbility: 0.4816
+Next Token :  the, Posbility: 0.2126
+Next Token :  any, Posbility: 0.0852
+Next Token :  a, Posbility: 0.0278
+Next Token :  every, Posbility: 0.0253
+Choose :  all,  Posbility: 0.4816
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all
+---------------------------
+Next Token :  items, Posbility: 0.8572
+Next Token :  elements, Posbility: 0.0571
+Next Token :  values, Posbility: 0.0198
+Next Token :  the, Posbility: 0.0180
+Next Token :  of, Posbility: 0.0045
+Choose :  items,  Posbility: 0.8572
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items
+---------------------------
+Next Token :  in, Posbility: 0.9542
+Next Token :  are, Posbility: 0.0128
+Next Token :  of, Posbility: 0.0061
+Next Token :  within, Posbility: 0.0036
+Next Token :  have, Posbility: 0.0027
+Choose :  in,  Posbility: 0.9542
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in
+---------------------------
+Next Token :  the, Posbility: 0.9880
+Next Token :  a, Posbility: 0.0033
+Next Token :  list, Posbility: 0.0024
+Next Token :  that, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0008
+Choose :  the,  Posbility: 0.9880
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the
+---------------------------
+Next Token :  list, Posbility: 0.9877
+Next Token :  first, Posbility: 0.0026
+Next Token : 
+, Posbility: 0.0021
+Next Token :  array, Posbility: 0.0007
+Next Token :  , Posbility: 0.0006
+Choose :  list,  Posbility: 0.9877
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list
+---------------------------
+Next Token :  are, Posbility: 0.6921
+Next Token :  have, Posbility: 0.0800
+Next Token :  contain, Posbility: 0.0296
+Next Token :  start, Posbility: 0.0200
+Next Token :  occur, Posbility: 0.0184
+Choose :  are,  Posbility: 0.6921
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are
+---------------------------
+Next Token :  equal, Posbility: 0.3048
+Next Token :  greater, Posbility: 0.1488
+Next Token :  less, Posbility: 0.0865
+Next Token :  not, Posbility: 0.0641
+Next Token :  in, Posbility: 0.0419
+Choose :  equal,  Posbility: 0.3048
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal
+---------------------------
+Next Token :  to, Posbility: 0.9479
+Next Token : .', Posbility: 0.0111
+Next Token :  or, Posbility: 0.0047
+Next Token :  in, Posbility: 0.0037
+Next Token : 
+, Posbility: 0.0024
+Choose :  to,  Posbility: 0.9479
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to
+---------------------------
+Next Token :  the, Posbility: 0.8665
+Next Token :  a, Posbility: 0.0254
+Next Token :  all, Posbility: 0.0210
+Next Token :  or, Posbility: 0.0096
+Next Token :  another, Posbility: 0.0053
+Choose :  the,  Posbility: 0.8665
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the
+---------------------------
+Next Token :  given, Posbility: 0.9095
+Next Token :  element, Posbility: 0.0301
+Next Token :  number, Posbility: 0.0053
+Next Token :  same, Posbility: 0.0049
+Next Token :  first, Posbility: 0.0041
+Choose :  given,  Posbility: 0.9095
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given
+---------------------------
+Next Token :  element, Posbility: 0.9531
+Next Token :  number, Posbility: 0.0098
+Next Token :  value, Posbility: 0.0080
+Next Token :  item, Posbility: 0.0033
+Next Token :  elements, Posbility: 0.0032
+Choose :  element,  Posbility: 0.9531
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element
+---------------------------
+Next Token : .', Posbility: 0.5040
+Next Token : ., Posbility: 0.1605
+Next Token : ,, Posbility: 0.0575
+Next Token :  in, Posbility: 0.0439
+Next Token : '', Posbility: 0.0372
+Choose : .',  Posbility: 0.5040
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'
+---------------------------
+Next Token : '', Posbility: 0.9990
+Next Token : 
+, Posbility: 0.0006
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Choose : '',  Posbility: 0.9990
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9491
+Next Token : 
+
+, Posbility: 0.0263
+Next Token : def, Posbility: 0.0074
+Next Token :  , Posbility: 0.0051
+Next Token :     , Posbility: 0.0042
+Choose : 
+,  Posbility: 0.9491
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9118
+Next Token : 
+, Posbility: 0.0656
+Next Token : #, Posbility: 0.0101
+Next Token : '', Posbility: 0.0030
+Next Token : import, Posbility: 0.0012
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.441967248916626
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def equal_to_element(list, element):
+    for i in list:
+        if i!=element:
+            return False
+    return True
+
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+

@@ -1,0 +1,172 @@
+<<<<<<<<<<<< 395 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2061
+Next Token : vern, Posbility: 0.2021
+Next Token : ive, Posbility: 0.0572
+Next Token : ____, Posbility: 0.0569
+Next Token : ich, Posbility: 0.0555
+syntax error : 
+
+Choose : vern, Posbility: 0.2021
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def vern
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def vern
+---------------------------
+Next Token : o, Posbility: 0.1256
+Next Token : _, Posbility: 0.0789
+Next Token : a, Posbility: 0.0617
+Next Token : on, Posbility: 0.0543
+Next Token : (, Posbility: 0.0524
+Choose : o, Posbility: 0.1256
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno
+---------------------------
+Next Token : (, Posbility: 0.4450
+Next Token : _, Posbility: 0.3370
+Next Token : ():, Posbility: 0.0486
+Next Token : V, Posbility: 0.0383
+Next Token : 1, Posbility: 0.0051
+Choose : (, Posbility: 0.4450
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(
+---------------------------
+Next Token : string, Posbility: 0.2739
+Next Token : s, Posbility: 0.2203
+Next Token : str, Posbility: 0.1477
+Next Token : word, Posbility: 0.0458
+Next Token : text, Posbility: 0.0279
+Choose : string, Posbility: 0.2739
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string
+---------------------------
+Next Token : ):, Posbility: 0.8440
+Next Token : ,, Posbility: 0.1284
+Next Token : 1, Posbility: 0.0082
+Next Token : :, Posbility: 0.0058
+Next Token : _, Posbility: 0.0050
+Choose : ):, Posbility: 0.8440
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+---------------------------
+Next Token : 
+, Posbility: 0.8699
+Next Token : 
+
+, Posbility: 0.0426
+Next Token : , Posbility: 0.0386
+Next Token :  , Posbility: 0.0316
+Next Token :  #, Posbility: 0.0052
+Choose : 
+, Posbility: 0.8699
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+
+---------------------------
+Next Token :     , Posbility: 0.8882
+Next Token :   , Posbility: 0.0453
+Next Token : 	, Posbility: 0.0415
+Next Token :    , Posbility: 0.0112
+Next Token :         , Posbility: 0.0039
+Choose :     , Posbility: 0.8882
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    
+---------------------------
+Next Token : v, Posbility: 0.2350
+Next Token : count, Posbility: 0.2039
+Next Token : '', Posbility: 0.0394
+Next Token : #, Posbility: 0.0353
+Next Token : l, Posbility: 0.0301
+Choose : v, Posbility: 0.2350
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    v
+---------------------------
+Next Token : ow, Posbility: 0.9285
+Next Token : _, Posbility: 0.0157
+Next Token :  =, Posbility: 0.0139
+Next Token : =, Posbility: 0.0080
+Next Token : ows, Posbility: 0.0046
+Choose : ow, Posbility: 0.9285
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    vow
+---------------------------
+Next Token : els, Posbility: 0.8159
+Next Token : el, Posbility: 0.1401
+Next Token :  =, Posbility: 0.0160
+Next Token : _, Posbility: 0.0090
+Next Token : =, Posbility: 0.0029
+Choose : els, Posbility: 0.8159
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    vowels
+---------------------------
+Next Token :  =, Posbility: 0.8272
+Next Token : =, Posbility: 0.0758
+Next Token : _, Posbility: 0.0486
+Next Token : =', Posbility: 0.0109
+Next Token : ={, Posbility: 0.0086
+Choose :  =, Posbility: 0.8272
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    vowels =
+---------------------------
+Next Token :  [', Posbility: 0.3852
+Next Token :  ', Posbility: 0.2108
+Next Token :  ", Posbility: 0.0820
+Next Token :  {, Posbility: 0.0554
+Next Token :  [", Posbility: 0.0458
+Choose :  [', Posbility: 0.3852
+---------------------------
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    vowels = ['
+---------------------------
+Next Token : a, Posbility: 0.8309
+Next Token : A, Posbility: 0.1500
+Next Token : e, Posbility: 0.0049
+Next Token : b, Posbility: 0.0024
+Next Token : а, Posbility: 0.0023
+syntax error : a
+syntax error : A
+syntax error : e
+syntax error : b
+syntax error : а
+all top 5 token has syntax error. END
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 2.160443067550659
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to count those characters which have vowels as their neighbors in the given string.'''
+def verno(string):
+    vowels = ['
+
+
+
+Error Start : (3, 14), Error End (3, 15)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

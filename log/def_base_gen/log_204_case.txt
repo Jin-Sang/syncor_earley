@@ -1,0 +1,1123 @@
+<<<<<<<<<<<< 204 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  check, Posbility: 0.2136
+Next Token :  is, Posbility: 0.1168
+Next Token :  any, Posbility: 0.0510
+Next Token :  seq, Posbility: 0.0503
+Next Token :  sequence, Posbility: 0.0431
+Choose :  check,  Posbility: 0.2136
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check
+---------------------------
+Next Token : _, Posbility: 0.5218
+Next Token : (, Posbility: 0.2450
+Next Token : Sequ, Posbility: 0.0352
+Next Token : Value, Posbility: 0.0165
+Next Token : ():, Posbility: 0.0125
+Choose : _,  Posbility: 0.5218
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_
+---------------------------
+Next Token : sequence, Posbility: 0.1918
+Next Token : if, Posbility: 0.1126
+Next Token : value, Posbility: 0.0970
+Next Token : seq, Posbility: 0.0733
+Next Token : for, Posbility: 0.0573
+Choose : sequence,  Posbility: 0.1918
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence
+---------------------------
+Next Token : (, Posbility: 0.8106
+Next Token : _, Posbility: 0.1689
+Next Token : ():, Posbility: 0.0108
+Next Token :  (, Posbility: 0.0043
+Next Token : 1, Posbility: 0.0013
+Choose : (,  Posbility: 0.8106
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(
+---------------------------
+Next Token : sequence, Posbility: 0.2546
+Next Token : seq, Posbility: 0.2455
+Next Token : s, Posbility: 0.0504
+Next Token : a, Posbility: 0.0437
+Next Token : my, Posbility: 0.0312
+Choose : sequence,  Posbility: 0.2546
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence
+---------------------------
+Next Token : ):, Posbility: 0.5133
+Next Token : ,, Posbility: 0.4007
+Next Token : _, Posbility: 0.0432
+Next Token : :, Posbility: 0.0235
+Next Token : 1, Posbility: 0.0112
+Choose : ):,  Posbility: 0.5133
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+---------------------------
+Next Token : 
+, Posbility: 0.9053
+Next Token : 
+
+, Posbility: 0.0416
+Next Token : , Posbility: 0.0252
+Next Token :  , Posbility: 0.0133
+Next Token :  #, Posbility: 0.0045
+Choose : 
+,  Posbility: 0.9053
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+
+---------------------------
+Next Token :     , Posbility: 0.8958
+Next Token : 	, Posbility: 0.0482
+Next Token :   , Posbility: 0.0422
+Next Token :    , Posbility: 0.0073
+Next Token :  , Posbility: 0.0015
+Choose :     ,  Posbility: 0.8958
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    
+---------------------------
+Next Token : '', Posbility: 0.3363
+Next Token : for, Posbility: 0.2038
+Next Token : if, Posbility: 0.0898
+Next Token : #, Posbility: 0.0582
+Next Token : sequence, Posbility: 0.0272
+Choose : '',  Posbility: 0.3363
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''
+---------------------------
+Next Token : Check, Posbility: 0.1636
+Next Token : 
+, Posbility: 0.1022
+Next Token : Function, Posbility: 0.0805
+Next Token : check, Posbility: 0.0636
+Next Token : Return, Posbility: 0.0510
+Choose : Check,  Posbility: 0.1636
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check
+---------------------------
+Next Token :  if, Posbility: 0.4056
+Next Token :  whether, Posbility: 0.3473
+Next Token :  sequence, Posbility: 0.0656
+Next Token :  the, Posbility: 0.0493
+Next Token :  for, Posbility: 0.0372
+Choose :  if,  Posbility: 0.4056
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if
+---------------------------
+Next Token :  any, Posbility: 0.6394
+Next Token :  a, Posbility: 0.0903
+Next Token :  the, Posbility: 0.0675
+Next Token :  sequence, Posbility: 0.0531
+Next Token :  there, Posbility: 0.0279
+Choose :  any,  Posbility: 0.6394
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any
+---------------------------
+Next Token :  value, Posbility: 0.6319
+Next Token :  element, Posbility: 0.1528
+Next Token :  item, Posbility: 0.0378
+Next Token :  of, Posbility: 0.0362
+Next Token :  number, Posbility: 0.0267
+Choose :  value,  Posbility: 0.6319
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value
+---------------------------
+Next Token :  in, Posbility: 0.8569
+Next Token :  exists, Posbility: 0.0660
+Next Token :  is, Posbility: 0.0275
+Next Token :  exist, Posbility: 0.0082
+Next Token :  of, Posbility: 0.0079
+Choose :  in,  Posbility: 0.8569
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in
+---------------------------
+Next Token :  a, Posbility: 0.6851
+Next Token :  sequence, Posbility: 0.1477
+Next Token :  the, Posbility: 0.1156
+Next Token :  given, Posbility: 0.0133
+Next Token :  any, Posbility: 0.0067
+Choose :  a,  Posbility: 0.6851
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a
+---------------------------
+Next Token :  sequence, Posbility: 0.9373
+Next Token :  list, Posbility: 0.0210
+Next Token :  given, Posbility: 0.0179
+Next Token :  seq, Posbility: 0.0035
+Next Token :  string, Posbility: 0.0022
+Choose :  sequence,  Posbility: 0.9373
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence
+---------------------------
+Next Token :  exists, Posbility: 0.6832
+Next Token :  is, Posbility: 0.1887
+Next Token :  exist, Posbility: 0.0393
+Next Token :  occurs, Posbility: 0.0078
+Next Token :  does, Posbility: 0.0065
+Choose :  exists,  Posbility: 0.6832
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists
+---------------------------
+Next Token :  in, Posbility: 0.9418
+Next Token :  or, Posbility: 0.0214
+Next Token : ., Posbility: 0.0050
+Next Token : .', Posbility: 0.0041
+Next Token : ,, Posbility: 0.0036
+Choose :  in,  Posbility: 0.9418
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in
+---------------------------
+Next Token :  a, Posbility: 0.8920
+Next Token :  the, Posbility: 0.0521
+Next Token :  another, Posbility: 0.0148
+Next Token :  sequence, Posbility: 0.0128
+Next Token :  it, Posbility: 0.0082
+Choose :  a,  Posbility: 0.8920
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a
+---------------------------
+Next Token :  sequence, Posbility: 0.9580
+Next Token :  given, Posbility: 0.0137
+Next Token :  list, Posbility: 0.0059
+Next Token :  seq, Posbility: 0.0011
+Next Token :  set, Posbility: 0.0009
+Choose :  sequence,  Posbility: 0.9580
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence
+---------------------------
+Next Token :  or, Posbility: 0.8763
+Next Token : .', Posbility: 0.0399
+Next Token : '', Posbility: 0.0297
+Next Token : ., Posbility: 0.0225
+Next Token : 
+, Posbility: 0.0059
+Choose :  or,  Posbility: 0.8763
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or
+---------------------------
+Next Token :  not, Posbility: 0.9970
+Next Token :  if, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0004
+Next Token :  no, Posbility: 0.0003
+Next Token :  , Posbility: 0.0002
+Choose :  not,  Posbility: 0.9970
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not
+---------------------------
+Next Token : .', Posbility: 0.4646
+Next Token : ., Posbility: 0.2503
+Next Token : '', Posbility: 0.2267
+Next Token : 
+, Posbility: 0.0136
+Next Token : 
+
+, Posbility: 0.0078
+Choose : .',  Posbility: 0.4646
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'
+---------------------------
+Next Token : '', Posbility: 0.9984
+Next Token : "", Posbility: 0.0006
+Next Token : ', Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0001
+Choose : '',  Posbility: 0.9984
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9264
+Next Token : 
+
+, Posbility: 0.0642
+Next Token :  , Posbility: 0.0058
+Next Token :     , Posbility: 0.0012
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9264
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9943
+Next Token :   , Posbility: 0.0009
+Next Token :         , Posbility: 0.0008
+Next Token :    , Posbility: 0.0008
+Next Token : 	, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9943
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.4363
+Next Token : if, Posbility: 0.1280
+Next Token : #, Posbility: 0.0555
+Next Token : return, Posbility: 0.0367
+Next Token : sequence, Posbility: 0.0320
+Choose : for,  Posbility: 0.4363
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.3204
+Next Token :  value, Posbility: 0.1385
+Next Token :  item, Posbility: 0.1107
+Next Token :  element, Posbility: 0.0946
+Next Token :  x, Posbility: 0.0535
+Choose :  i,  Posbility: 0.3204
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9316
+Next Token : ,, Posbility: 0.0669
+Next Token : _, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9316
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in
+---------------------------
+Next Token :  sequence, Posbility: 0.5611
+Next Token :  range, Posbility: 0.4274
+Next Token :  list, Posbility: 0.0024
+Next Token :  set, Posbility: 0.0010
+Next Token :  (, Posbility: 0.0009
+Choose :  sequence,  Posbility: 0.5611
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence
+---------------------------
+Next Token : :, Posbility: 0.9884
+Next Token : [, Posbility: 0.0042
+Next Token :  :, Posbility: 0.0039
+Next Token : ., Posbility: 0.0023
+Next Token : :#, Posbility: 0.0007
+Choose : :,  Posbility: 0.9884
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+---------------------------
+Next Token : 
+, Posbility: 0.9760
+Next Token :  , Posbility: 0.0078
+Next Token :  #, Posbility: 0.0066
+Next Token :   , Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9760
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+
+---------------------------
+Next Token :         , Posbility: 0.9856
+Next Token :             , Posbility: 0.0041
+Next Token :       , Posbility: 0.0032
+Next Token :        , Posbility: 0.0028
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9856
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        
+---------------------------
+Next Token : if, Posbility: 0.8988
+Next Token : print, Posbility: 0.0304
+Next Token : #, Posbility: 0.0149
+Next Token : for, Posbility: 0.0126
+Next Token : try, Posbility: 0.0092
+Choose : if,  Posbility: 0.8988
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.8537
+Next Token :  not, Posbility: 0.0587
+Next Token :  sequence, Posbility: 0.0347
+Next Token : (, Posbility: 0.0119
+Next Token :  type, Posbility: 0.0102
+Choose :  i,  Posbility: 0.8537
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i
+---------------------------
+Next Token :  not, Posbility: 0.5656
+Next Token :  in, Posbility: 0.3188
+Next Token :  ==, Posbility: 0.0566
+Next Token : !=, Posbility: 0.0222
+Next Token : ==, Posbility: 0.0083
+Choose :  not,  Posbility: 0.5656
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not
+---------------------------
+Next Token :  in, Posbility: 0.9999
+Next Token :   , Posbility: 0.0000
+Next Token : in, Posbility: 0.0000
+Next Token :  present, Posbility: 0.0000
+Next Token :  In, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9999
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in
+---------------------------
+Next Token :  sequence, Posbility: 0.9805
+Next Token :  list, Posbility: 0.0023
+Next Token :  range, Posbility: 0.0018
+Next Token :  [, Posbility: 0.0016
+Next Token :  [', Posbility: 0.0016
+Choose :  sequence,  Posbility: 0.9805
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence
+---------------------------
+Next Token : :, Posbility: 0.8462
+Next Token : [, Posbility: 0.1048
+Next Token : _, Posbility: 0.0120
+Next Token : ., Posbility: 0.0118
+Next Token :  and, Posbility: 0.0055
+Choose : :,  Posbility: 0.8462
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+---------------------------
+Next Token : 
+, Posbility: 0.9626
+Next Token :  return, Posbility: 0.0124
+Next Token :  #, Posbility: 0.0087
+Next Token :  , Posbility: 0.0073
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9626
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+
+---------------------------
+Next Token :             , Posbility: 0.9887
+Next Token :            , Posbility: 0.0046
+Next Token :              , Posbility: 0.0019
+Next Token :                 , Posbility: 0.0018
+Next Token :           , Posbility: 0.0012
+Choose :             ,  Posbility: 0.9887
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            
+---------------------------
+Next Token : return, Posbility: 0.7565
+Next Token : print, Posbility: 0.2055
+Next Token : raise, Posbility: 0.0088
+Next Token : #, Posbility: 0.0072
+Next Token : sequence, Posbility: 0.0067
+Choose : return,  Posbility: 0.7565
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return
+---------------------------
+Next Token :  False, Posbility: 0.8248
+Next Token :  ', Posbility: 0.0415
+Next Token :  True, Posbility: 0.0373
+Next Token :  ", Posbility: 0.0231
+Next Token :  0, Posbility: 0.0121
+Choose :  False,  Posbility: 0.8248
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+---------------------------
+Next Token : 
+, Posbility: 0.9332
+Next Token : 
+
+, Posbility: 0.0420
+Next Token :  , Posbility: 0.0067
+Next Token :  #, Posbility: 0.0062
+Next Token : ;, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9332
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+
+---------------------------
+Next Token :     , Posbility: 0.9187
+Next Token :         , Posbility: 0.0497
+Next Token : 
+, Posbility: 0.0213
+Next Token :             , Posbility: 0.0045
+Next Token : #, Posbility: 0.0014
+Choose :     ,  Posbility: 0.9187
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    
+---------------------------
+Next Token : return, Posbility: 0.9341
+Next Token : else, Posbility: 0.0369
+Next Token : 
+, Posbility: 0.0180
+Next Token : if, Posbility: 0.0034
+Next Token : print, Posbility: 0.0032
+Choose : return,  Posbility: 0.9341
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return
+---------------------------
+Next Token :  True, Posbility: 0.9932
+Next Token :  sequence, Posbility: 0.0016
+Next Token :  len, Posbility: 0.0011
+Next Token :  False, Posbility: 0.0008
+Next Token :  not, Posbility: 0.0006
+Choose :  True,  Posbility: 0.9932
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+---------------------------
+Next Token : 
+, Posbility: 0.7702
+Next Token : 
+
+, Posbility: 0.1827
+Next Token : <|endoftext|>, Posbility: 0.0262
+Next Token :  , Posbility: 0.0090
+Next Token :     , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.7702
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+---------------------------
+Next Token : 
+, Posbility: 0.7407
+Next Token :     , Posbility: 0.0494
+Next Token : print, Posbility: 0.0376
+Next Token : #, Posbility: 0.0325
+Next Token : def, Posbility: 0.0272
+Choose : 
+,  Posbility: 0.7407
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9418
+Next Token : <|endoftext|>, Posbility: 0.0209
+Next Token : 
+
+, Posbility: 0.0198
+Next Token :     , Posbility: 0.0120
+Next Token :         , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9418
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3235
+Next Token : #, Posbility: 0.1897
+Next Token : def, Posbility: 0.1876
+Next Token : print, Posbility: 0.0859
+Next Token : if, Posbility: 0.0520
+Choose : '',  Posbility: 0.3235
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6882
+Next Token : Check, Posbility: 0.0326
+Next Token :  Write, Posbility: 0.0238
+Next Token : 
+, Posbility: 0.0230
+Next Token : Function, Posbility: 0.0126
+Choose : Write,  Posbility: 0.6882
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9794
+Next Token :  your, Posbility: 0.0083
+Next Token :  an, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0018
+Next Token :  python, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9794
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9039
+Next Token :  function, Posbility: 0.0528
+Next Token :  Python, Posbility: 0.0250
+Next Token :  program, Posbility: 0.0052
+Next Token :  script, Posbility: 0.0012
+Choose :  python,  Posbility: 0.9039
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9632
+Next Token :  program, Posbility: 0.0209
+Next Token :  script, Posbility: 0.0027
+Next Token :  fun, Posbility: 0.0022
+Next Token :  code, Posbility: 0.0011
+Choose :  function,  Posbility: 0.9632
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8656
+Next Token :  that, Posbility: 0.0844
+Next Token :  which, Posbility: 0.0172
+Next Token :  for, Posbility: 0.0061
+Next Token : ,, Posbility: 0.0023
+Choose :  to,  Posbility: 0.8656
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to
+---------------------------
+Next Token :  check, Posbility: 0.2087
+Next Token :  find, Posbility: 0.0875
+Next Token :  print, Posbility: 0.0796
+Next Token :  get, Posbility: 0.0642
+Next Token :  count, Posbility: 0.0499
+Choose :  check,  Posbility: 0.2087
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check
+---------------------------
+Next Token :  whether, Posbility: 0.6964
+Next Token :  if, Posbility: 0.1760
+Next Token :  the, Posbility: 0.0379
+Next Token :  for, Posbility: 0.0178
+Next Token :  a, Posbility: 0.0106
+Choose :  whether,  Posbility: 0.6964
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether
+---------------------------
+Next Token :  any, Posbility: 0.3876
+Next Token :  a, Posbility: 0.2674
+Next Token :  the, Posbility: 0.1003
+Next Token :  an, Posbility: 0.0467
+Next Token :  all, Posbility: 0.0321
+Choose :  any,  Posbility: 0.3876
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any
+---------------------------
+Next Token :  value, Posbility: 0.7957
+Next Token :  element, Posbility: 0.0256
+Next Token :  number, Posbility: 0.0234
+Next Token :  character, Posbility: 0.0221
+Next Token :  string, Posbility: 0.0171
+Choose :  value,  Posbility: 0.7957
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value
+---------------------------
+Next Token :  in, Posbility: 0.9004
+Next Token :  is, Posbility: 0.0378
+Next Token :  exists, Posbility: 0.0149
+Next Token :  occurs, Posbility: 0.0044
+Next Token :  appears, Posbility: 0.0036
+Choose :  in,  Posbility: 0.9004
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in
+---------------------------
+Next Token :  a, Posbility: 0.9707
+Next Token :  an, Posbility: 0.0076
+Next Token :  the, Posbility: 0.0040
+Next Token :  any, Posbility: 0.0025
+Next Token :  list, Posbility: 0.0023
+Choose :  a,  Posbility: 0.9707
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a
+---------------------------
+Next Token :  sequence, Posbility: 0.3359
+Next Token :  dictionary, Posbility: 0.1856
+Next Token :  list, Posbility: 0.1709
+Next Token :  set, Posbility: 0.0946
+Next Token :  string, Posbility: 0.0487
+Choose :  sequence,  Posbility: 0.3359
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence
+---------------------------
+Next Token :  exists, Posbility: 0.4637
+Next Token :  is, Posbility: 0.2871
+Next Token :  contains, Posbility: 0.0423
+Next Token :  or, Posbility: 0.0300
+Next Token :  occurs, Posbility: 0.0230
+Choose :  exists,  Posbility: 0.4637
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists
+---------------------------
+Next Token :  in, Posbility: 0.8991
+Next Token :  or, Posbility: 0.0367
+Next Token :  within, Posbility: 0.0096
+Next Token :  anywhere, Posbility: 0.0050
+Next Token : 
+, Posbility: 0.0050
+Choose :  in,  Posbility: 0.8991
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in
+---------------------------
+Next Token :  a, Posbility: 0.9382
+Next Token :  any, Posbility: 0.0127
+Next Token :  another, Posbility: 0.0117
+Next Token :  the, Posbility: 0.0096
+Next Token :  an, Posbility: 0.0078
+Choose :  a,  Posbility: 0.9382
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a
+---------------------------
+Next Token :  sequence, Posbility: 0.4684
+Next Token :  list, Posbility: 0.1622
+Next Token :  dictionary, Posbility: 0.0957
+Next Token :  set, Posbility: 0.0567
+Next Token :  string, Posbility: 0.0203
+Choose :  sequence,  Posbility: 0.4684
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence
+---------------------------
+Next Token :  or, Posbility: 0.9070
+Next Token : .', Posbility: 0.0213
+Next Token :  of, Posbility: 0.0100
+Next Token : 
+, Posbility: 0.0097
+Next Token :  and, Posbility: 0.0055
+Choose :  or,  Posbility: 0.9070
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or
+---------------------------
+Next Token :  not, Posbility: 0.9972
+Next Token : 
+, Posbility: 0.0011
+Next Token :  , Posbility: 0.0007
+Next Token :  no, Posbility: 0.0001
+Next Token :  if, Posbility: 0.0001
+Choose :  not,  Posbility: 0.9972
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or not
+---------------------------
+Next Token : .', Posbility: 0.8527
+Next Token : ., Posbility: 0.0672
+Next Token : '', Posbility: 0.0228
+Next Token : ,, Posbility: 0.0097
+Next Token :  using, Posbility: 0.0092
+Choose : .',  Posbility: 0.8527
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9461
+Next Token : 
+
+, Posbility: 0.0401
+Next Token :  , Posbility: 0.0044
+Next Token :     , Posbility: 0.0024
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9461
+---------------------------
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.8912
+Next Token : 
+, Posbility: 0.0666
+Next Token : #, Posbility: 0.0211
+Next Token : '', Posbility: 0.0037
+Next Token : import, Posbility: 0.0022
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 12.005532264709473
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+def check_sequence(sequence):
+    '''Check if any value in a sequence exists in a sequence or not.'''
+    for i in sequence:
+        if i not in sequence:
+            return False
+    return True
+
+
+'''Write a python function to check whether any value in a sequence exists in a sequence or not.'''
+

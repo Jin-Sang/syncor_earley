@@ -1,0 +1,2210 @@
+<<<<<<<<<<<< 324 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  median, Posbility: 0.4573
+Next Token :  find, Posbility: 0.2830
+Next Token :  med, Posbility: 0.0643
+Next Token :  get, Posbility: 0.0286
+Next Token :  Median, Posbility: 0.0201
+Choose :  median,  Posbility: 0.4573
+'''Write a function to find the median of two sorted lists of same size.'''
+def median
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median
+---------------------------
+Next Token : (, Posbility: 0.6390
+Next Token : _, Posbility: 0.2240
+Next Token : 2, Posbility: 0.0263
+Next Token : Of, Posbility: 0.0210
+Next Token :  (, Posbility: 0.0110
+Choose : (,  Posbility: 0.6390
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(
+---------------------------
+Next Token : a, Posbility: 0.3082
+Next Token : l, Posbility: 0.1651
+Next Token : list, Posbility: 0.1555
+Next Token : A, Posbility: 0.0577
+Next Token : L, Posbility: 0.0382
+Choose : a,  Posbility: 0.3082
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a
+---------------------------
+Next Token : ,, Posbility: 0.8396
+Next Token : 1, Posbility: 0.0536
+Next Token : ):, Posbility: 0.0484
+Next Token : :, Posbility: 0.0331
+Next Token : _, Posbility: 0.0116
+Choose : ,,  Posbility: 0.8396
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,
+---------------------------
+Next Token : b, Posbility: 0.4358
+Next Token :  b, Posbility: 0.4352
+Next Token :  n, Posbility: 0.0250
+Next Token :  l, Posbility: 0.0183
+Next Token : n, Posbility: 0.0117
+Choose : b,  Posbility: 0.4358
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b
+---------------------------
+Next Token : ):, Posbility: 0.9300
+Next Token : ,, Posbility: 0.0646
+Next Token : ), Posbility: 0.0036
+Next Token : =, Posbility: 0.0011
+Next Token :  ):, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9300
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+---------------------------
+Next Token : 
+, Posbility: 0.9170
+Next Token : , Posbility: 0.0288
+Next Token : 
+
+, Posbility: 0.0263
+Next Token :  , Posbility: 0.0147
+Next Token :  #, Posbility: 0.0040
+Choose : 
+,  Posbility: 0.9170
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+
+---------------------------
+Next Token :     , Posbility: 0.8934
+Next Token : 	, Posbility: 0.0434
+Next Token :   , Posbility: 0.0364
+Next Token :    , Posbility: 0.0092
+Next Token :         , Posbility: 0.0069
+Choose :     ,  Posbility: 0.8934
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    
+---------------------------
+Next Token : if, Posbility: 0.3980
+Next Token : return, Posbility: 0.0601
+Next Token : a, Posbility: 0.0542
+Next Token : '', Posbility: 0.0453
+Next Token : #, Posbility: 0.0447
+Choose : if,  Posbility: 0.3980
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if
+---------------------------
+Next Token :  len, Posbility: 0.7198
+Next Token :  a, Posbility: 0.1015
+Next Token :  (, Posbility: 0.0747
+Next Token : (, Posbility: 0.0696
+Next Token :  not, Posbility: 0.0225
+Choose :  len,  Posbility: 0.7198
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9992
+Next Token :  (, Posbility: 0.0004
+Next Token : (), Posbility: 0.0001
+Next Token : ({, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Choose : (,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(
+---------------------------
+Next Token : a, Posbility: 0.9910
+Next Token : b, Posbility: 0.0071
+Next Token : set, Posbility: 0.0010
+Next Token : list, Posbility: 0.0004
+Next Token :  a, Posbility: 0.0001
+Choose : a,  Posbility: 0.9910
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a
+---------------------------
+Next Token : ), Posbility: 0.9782
+Next Token : )!, Posbility: 0.0190
+Next Token : )+, Posbility: 0.0007
+Next Token : [, Posbility: 0.0004
+Next Token : )*, Posbility: 0.0003
+Choose : ),  Posbility: 0.9782
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a)
+---------------------------
+Next Token :  ==, Posbility: 0.2076
+Next Token : ==, Posbility: 0.1637
+Next Token : >, Posbility: 0.1293
+Next Token :  >, Posbility: 0.1246
+Next Token : <, Posbility: 0.1124
+Choose :  ==,  Posbility: 0.2076
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) ==
+---------------------------
+Next Token :  0, Posbility: 0.4700
+Next Token :  len, Posbility: 0.4505
+Next Token :  1, Posbility: 0.0513
+Next Token : 0, Posbility: 0.0124
+Next Token :  2, Posbility: 0.0072
+Choose :  0,  Posbility: 0.4700
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0
+---------------------------
+Next Token : :, Posbility: 0.4806
+Next Token :  or, Posbility: 0.4019
+Next Token :  and, Posbility: 0.0964
+Next Token :  :, Posbility: 0.0165
+Next Token :   , Posbility: 0.0020
+Choose : :,  Posbility: 0.4806
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9387
+Next Token :  return, Posbility: 0.0306
+Next Token :  , Posbility: 0.0121
+Next Token :  #, Posbility: 0.0069
+Next Token :   , Posbility: 0.0035
+Choose : 
+,  Posbility: 0.9387
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9863
+Next Token :       , Posbility: 0.0034
+Next Token :        , Posbility: 0.0034
+Next Token :             , Posbility: 0.0031
+Next Token :          , Posbility: 0.0016
+Choose :         ,  Posbility: 0.9863
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.8537
+Next Token : if, Posbility: 0.0338
+Next Token : print, Posbility: 0.0247
+Next Token : med, Posbility: 0.0201
+Next Token : a, Posbility: 0.0173
+Choose : return,  Posbility: 0.8537
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return
+---------------------------
+Next Token :  -, Posbility: 0.2123
+Next Token :  0, Posbility: 0.1946
+Next Token :  None, Posbility: 0.1935
+Next Token :  b, Posbility: 0.1604
+Next Token :  a, Posbility: 0.0408
+Choose :  -,  Posbility: 0.2123
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -
+---------------------------
+Next Token : 1, Posbility: 0.9755
+Next Token :  1, Posbility: 0.0069
+Next Token : float, Posbility: 0.0034
+Next Token : 9999, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0019
+Choose : 1,  Posbility: 0.9755
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+---------------------------
+Next Token : 
+, Posbility: 0.9222
+Next Token : 
+
+, Posbility: 0.0413
+Next Token : ., Posbility: 0.0091
+Next Token :  , Posbility: 0.0086
+Next Token : ;, Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9222
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+
+---------------------------
+Next Token :     , Posbility: 0.9859
+Next Token :         , Posbility: 0.0112
+Next Token : 
+, Posbility: 0.0004
+Next Token :             , Posbility: 0.0004
+Next Token :  , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9859
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    
+---------------------------
+Next Token : if, Posbility: 0.4946
+Next Token : el, Posbility: 0.3287
+Next Token : else, Posbility: 0.0550
+Next Token : 
+, Posbility: 0.0221
+Next Token : return, Posbility: 0.0107
+Choose : if,  Posbility: 0.4946
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if
+---------------------------
+Next Token :  len, Posbility: 0.9881
+Next Token :  (, Posbility: 0.0055
+Next Token :  a, Posbility: 0.0021
+Next Token :  b, Posbility: 0.0011
+Next Token :   , Posbility: 0.0009
+Choose :  len,  Posbility: 0.9881
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9992
+Next Token :  (, Posbility: 0.0007
+Next Token : (), Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(
+---------------------------
+Next Token : b, Posbility: 0.8018
+Next Token : a, Posbility: 0.1978
+Next Token : c, Posbility: 0.0001
+Next Token :  b, Posbility: 0.0000
+Next Token : ab, Posbility: 0.0000
+Choose : b,  Posbility: 0.8018
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b
+---------------------------
+Next Token : ), Posbility: 0.9995
+Next Token : )!, Posbility: 0.0002
+Next Token : ):, Posbility: 0.0001
+Next Token :  ), Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Choose : ),  Posbility: 0.9995
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b)
+---------------------------
+Next Token :  ==, Posbility: 0.9669
+Next Token : ==, Posbility: 0.0274
+Next Token :  <, Posbility: 0.0011
+Next Token : !=, Posbility: 0.0009
+Next Token :   , Posbility: 0.0009
+Choose :  ==,  Posbility: 0.9669
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) ==
+---------------------------
+Next Token :  0, Posbility: 0.9822
+Next Token : 0, Posbility: 0.0147
+Next Token :  len, Posbility: 0.0015
+Next Token :  1, Posbility: 0.0008
+Next Token :   , Posbility: 0.0004
+Choose :  0,  Posbility: 0.9822
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0
+---------------------------
+Next Token : :, Posbility: 0.9967
+Next Token :  :, Posbility: 0.0026
+Next Token :  or, Posbility: 0.0004
+Next Token :  and, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9967
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9965
+Next Token :  , Posbility: 0.0019
+Next Token :  #, Posbility: 0.0003
+Next Token :     , Posbility: 0.0003
+Next Token :  return, Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9965
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9967
+Next Token :             , Posbility: 0.0012
+Next Token :          , Posbility: 0.0008
+Next Token :        , Posbility: 0.0007
+Next Token :     , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9967
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.9950
+Next Token : if, Posbility: 0.0011
+Next Token : print, Posbility: 0.0007
+Next Token : a, Posbility: 0.0005
+Next Token : med, Posbility: 0.0005
+Choose : return,  Posbility: 0.9950
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return
+---------------------------
+Next Token :  -, Posbility: 0.6548
+Next Token :  0, Posbility: 0.1135
+Next Token :  a, Posbility: 0.1066
+Next Token :  median, Posbility: 0.0311
+Next Token :  float, Posbility: 0.0171
+Choose :  -,  Posbility: 0.6548
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -
+---------------------------
+Next Token : 1, Posbility: 0.9977
+Next Token : 2, Posbility: 0.0010
+Next Token :  1, Posbility: 0.0007
+Next Token : 10, Posbility: 0.0001
+Next Token : 100, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9977
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+---------------------------
+Next Token : 
+, Posbility: 0.8908
+Next Token : 
+
+, Posbility: 0.0957
+Next Token :  , Posbility: 0.0047
+Next Token : ., Posbility: 0.0021
+Next Token :     , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.8908
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+
+---------------------------
+Next Token :     , Posbility: 0.9864
+Next Token :         , Posbility: 0.0099
+Next Token :  , Posbility: 0.0007
+Next Token :    , Posbility: 0.0006
+Next Token :             , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9864
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    
+---------------------------
+Next Token : if, Posbility: 0.5239
+Next Token : 
+, Posbility: 0.0693
+Next Token : return, Posbility: 0.0513
+Next Token : a, Posbility: 0.0463
+Next Token : el, Posbility: 0.0264
+Choose : if,  Posbility: 0.5239
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if
+---------------------------
+Next Token :  len, Posbility: 0.7086
+Next Token :  a, Posbility: 0.1950
+Next Token :  (, Posbility: 0.0632
+Next Token : (, Posbility: 0.0109
+Next Token :  abs, Posbility: 0.0036
+Choose :  len,  Posbility: 0.7086
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9993
+Next Token :  (, Posbility: 0.0005
+Next Token : ((, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : ({, Posbility: 0.0000
+Choose : (,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(
+---------------------------
+Next Token : a, Posbility: 0.9613
+Next Token : b, Posbility: 0.0380
+Next Token : set, Posbility: 0.0002
+Next Token :  a, Posbility: 0.0001
+Next Token : c, Posbility: 0.0001
+Choose : a,  Posbility: 0.9613
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a
+---------------------------
+Next Token : ), Posbility: 0.9971
+Next Token : )!, Posbility: 0.0007
+Next Token : )*, Posbility: 0.0005
+Next Token : )+, Posbility: 0.0005
+Next Token :  ), Posbility: 0.0003
+Choose : ),  Posbility: 0.9971
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a)
+---------------------------
+Next Token :  ==, Posbility: 0.3573
+Next Token :  <, Posbility: 0.2229
+Next Token :  >, Posbility: 0.1135
+Next Token :  %, Posbility: 0.0524
+Next Token :  +, Posbility: 0.0456
+Choose :  ==,  Posbility: 0.3573
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) ==
+---------------------------
+Next Token :  len, Posbility: 0.7345
+Next Token :  0, Posbility: 0.1336
+Next Token :  1, Posbility: 0.1194
+Next Token :  2, Posbility: 0.0041
+Next Token :   , Posbility: 0.0024
+Choose :  len,  Posbility: 0.7345
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0004
+Next Token : ():, Posbility: 0.0000
+Next Token : (', Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Choose : (,  Posbility: 0.9996
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(
+---------------------------
+Next Token : b, Posbility: 0.9992
+Next Token : a, Posbility: 0.0004
+Next Token :  b, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : set, Posbility: 0.0000
+Choose : b,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b
+---------------------------
+Next Token : ):, Posbility: 0.9825
+Next Token : ), Posbility: 0.0172
+Next Token : )+, Posbility: 0.0001
+Next Token : )-, Posbility: 0.0001
+Next Token :  ):, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9825
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+---------------------------
+Next Token : 
+, Posbility: 0.9889
+Next Token :  #, Posbility: 0.0029
+Next Token :  , Posbility: 0.0027
+Next Token : 
+
+, Posbility: 0.0020
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9889
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+
+---------------------------
+Next Token :         , Posbility: 0.9959
+Next Token :             , Posbility: 0.0011
+Next Token :        , Posbility: 0.0009
+Next Token :     , Posbility: 0.0007
+Next Token :          , Posbility: 0.0005
+Choose :         ,  Posbility: 0.9959
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        
+---------------------------
+Next Token : return, Posbility: 0.6710
+Next Token : if, Posbility: 0.1805
+Next Token : med, Posbility: 0.0343
+Next Token : a, Posbility: 0.0175
+Next Token : for, Posbility: 0.0092
+Choose : return,  Posbility: 0.6710
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return
+---------------------------
+Next Token :  (, Posbility: 0.5907
+Next Token :  a, Posbility: 0.1514
+Next Token :  float, Posbility: 0.0415
+Next Token :  int, Posbility: 0.0284
+Next Token :  sorted, Posbility: 0.0220
+Choose :  (,  Posbility: 0.5907
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (
+---------------------------
+Next Token : a, Posbility: 0.8470
+Next Token : float, Posbility: 0.0251
+Next Token : sum, Posbility: 0.0244
+Next Token : int, Posbility: 0.0152
+Next Token : len, Posbility: 0.0104
+Choose : a,  Posbility: 0.8470
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a
+---------------------------
+Next Token : +, Posbility: 0.3640
+Next Token : [, Posbility: 0.3123
+Next Token :  +, Posbility: 0.2985
+Next Token : ., Posbility: 0.0137
+Next Token :  if, Posbility: 0.0058
+Choose : +,  Posbility: 0.3640
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+
+---------------------------
+Next Token : b, Posbility: 0.9957
+Next Token :  b, Posbility: 0.0018
+Next Token : [, Posbility: 0.0016
+Next Token : a, Posbility: 0.0004
+Next Token : list, Posbility: 0.0001
+Choose : b,  Posbility: 0.9957
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b
+---------------------------
+Next Token : )/, Posbility: 0.5180
+Next Token : )[, Posbility: 0.2348
+Next Token : ), Posbility: 0.2137
+Next Token : +, Posbility: 0.0143
+Next Token : )*, Posbility: 0.0065
+Choose : )/,  Posbility: 0.5180
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/
+---------------------------
+Next Token : 2, Posbility: 0.9981
+Next Token :  2, Posbility: 0.0013
+Next Token : float, Posbility: 0.0002
+Next Token : (, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Choose : 2,  Posbility: 0.9981
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+---------------------------
+Next Token : 
+, Posbility: 0.8686
+Next Token : 
+
+, Posbility: 0.0821
+Next Token : ., Posbility: 0.0288
+Next Token :  if, Posbility: 0.0056
+Next Token :  , Posbility: 0.0039
+Choose : 
+,  Posbility: 0.8686
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+
+---------------------------
+Next Token :     , Posbility: 0.9844
+Next Token :         , Posbility: 0.0061
+Next Token : 
+, Posbility: 0.0052
+Next Token :    , Posbility: 0.0007
+Next Token :  , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9844
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    
+---------------------------
+Next Token : if, Posbility: 0.2810
+Next Token : else, Posbility: 0.2072
+Next Token : el, Posbility: 0.0899
+Next Token : 
+, Posbility: 0.0678
+Next Token : return, Posbility: 0.0656
+Choose : if,  Posbility: 0.2810
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if
+---------------------------
+Next Token :  a, Posbility: 0.5959
+Next Token :  len, Posbility: 0.2760
+Next Token :  (, Posbility: 0.0715
+Next Token :  abs, Posbility: 0.0197
+Next Token : (, Posbility: 0.0088
+Choose :  a,  Posbility: 0.5959
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a
+---------------------------
+Next Token : [, Posbility: 0.8982
+Next Token :  >, Posbility: 0.0385
+Next Token :  <, Posbility: 0.0191
+Next Token : ., Posbility: 0.0145
+Next Token :  ==, Posbility: 0.0129
+Choose : [,  Posbility: 0.8982
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[
+---------------------------
+Next Token : 0, Posbility: 0.8215
+Next Token : len, Posbility: 0.1047
+Next Token : -, Posbility: 0.0570
+Next Token : (, Posbility: 0.0049
+Next Token : 1, Posbility: 0.0047
+Choose : 0,  Posbility: 0.8215
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0
+---------------------------
+Next Token : ], Posbility: 0.9658
+Next Token : ]+, Posbility: 0.0303
+Next Token : ][, Posbility: 0.0014
+Next Token : ]-, Posbility: 0.0013
+Next Token : ]., Posbility: 0.0005
+Choose : ],  Posbility: 0.9658
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0]
+---------------------------
+Next Token :  <, Posbility: 0.4646
+Next Token :  >, Posbility: 0.2899
+Next Token :  <=, Posbility: 0.1066
+Next Token :  >=, Posbility: 0.0478
+Next Token : <, Posbility: 0.0364
+Choose :  <,  Posbility: 0.4646
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] <
+---------------------------
+Next Token :  b, Posbility: 0.9887
+Next Token : b, Posbility: 0.0060
+Next Token :  a, Posbility: 0.0039
+Next Token :   , Posbility: 0.0004
+Next Token :  min, Posbility: 0.0003
+Choose :  b,  Posbility: 0.9887
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b
+---------------------------
+Next Token : [, Posbility: 0.9986
+Next Token :  [, Posbility: 0.0010
+Next Token : :, Posbility: 0.0003
+Next Token :  and, Posbility: 0.0000
+Next Token :  :, Posbility: 0.0000
+Choose : [,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[
+---------------------------
+Next Token : 0, Posbility: 0.9934
+Next Token : -, Posbility: 0.0045
+Next Token : len, Posbility: 0.0016
+Next Token : 1, Posbility: 0.0003
+Next Token :  0, Posbility: 0.0001
+Choose : 0,  Posbility: 0.9934
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0
+---------------------------
+Next Token : ]:, Posbility: 0.9658
+Next Token : ], Posbility: 0.0337
+Next Token : ][, Posbility: 0.0002
+Next Token : :, Posbility: 0.0001
+Next Token : ]+, Posbility: 0.0000
+Choose : ]:,  Posbility: 0.9658
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+---------------------------
+Next Token : 
+, Posbility: 0.9830
+Next Token :  #, Posbility: 0.0057
+Next Token :  , Posbility: 0.0042
+Next Token :  return, Posbility: 0.0015
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9830
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+
+---------------------------
+Next Token :         , Posbility: 0.9952
+Next Token :        , Posbility: 0.0014
+Next Token :             , Posbility: 0.0013
+Next Token :          , Posbility: 0.0008
+Next Token :     , Posbility: 0.0005
+Choose :         ,  Posbility: 0.9952
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        
+---------------------------
+Next Token : return, Posbility: 0.7321
+Next Token : a, Posbility: 0.0429
+Next Token : low, Posbility: 0.0272
+Next Token : small, Posbility: 0.0226
+Next Token : if, Posbility: 0.0213
+Choose : return,  Posbility: 0.7321
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return
+---------------------------
+Next Token :  median, Posbility: 0.9565
+Next Token :  (, Posbility: 0.0091
+Next Token :  med, Posbility: 0.0044
+Next Token :  a, Posbility: 0.0041
+Next Token :  find, Posbility: 0.0026
+Choose :  median,  Posbility: 0.9565
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median
+---------------------------
+Next Token : (, Posbility: 0.9882
+Next Token : ((, Posbility: 0.0048
+Next Token : ([, Posbility: 0.0032
+Next Token :  (, Posbility: 0.0021
+Next Token : _, Posbility: 0.0009
+Choose : (,  Posbility: 0.9882
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(
+---------------------------
+Next Token : a, Posbility: 0.9284
+Next Token : b, Posbility: 0.0694
+Next Token :  a, Posbility: 0.0007
+Next Token : list, Posbility: 0.0005
+Next Token : s, Posbility: 0.0001
+Choose : a,  Posbility: 0.9284
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a
+---------------------------
+Next Token : [, Posbility: 0.7590
+Next Token : ,, Posbility: 0.2359
+Next Token : +, Posbility: 0.0032
+Next Token :  +, Posbility: 0.0006
+Next Token : ., Posbility: 0.0004
+Choose : [,  Posbility: 0.7590
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[
+---------------------------
+Next Token : 1, Posbility: 0.9698
+Next Token : 0, Posbility: 0.0144
+Next Token : :, Posbility: 0.0061
+Next Token : len, Posbility: 0.0035
+Next Token : 2, Posbility: 0.0033
+Choose : 1,  Posbility: 0.9698
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1
+---------------------------
+Next Token : :, Posbility: 0.9899
+Next Token : :], Posbility: 0.0038
+Next Token : ::, Posbility: 0.0033
+Next Token : ],, Posbility: 0.0010
+Next Token : :-, Posbility: 0.0009
+Choose : :,  Posbility: 0.9899
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:
+---------------------------
+Next Token : ],, Posbility: 0.9491
+Next Token : len, Posbility: 0.0396
+Next Token : ]), Posbility: 0.0036
+Next Token :  ],, Posbility: 0.0020
+Next Token : int, Posbility: 0.0015
+Choose : ],,  Posbility: 0.9491
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],
+---------------------------
+Next Token : b, Posbility: 0.7312
+Next Token :  b, Posbility: 0.2649
+Next Token : a, Posbility: 0.0016
+Next Token :  a, Posbility: 0.0011
+Next Token : (, Posbility: 0.0003
+Choose : b,  Posbility: 0.7312
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b
+---------------------------
+Next Token : [, Posbility: 0.7297
+Next Token : ), Posbility: 0.2660
+Next Token : )[, Posbility: 0.0032
+Next Token : );, Posbility: 0.0003
+Next Token :  ), Posbility: 0.0002
+Choose : [,  Posbility: 0.7297
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[
+---------------------------
+Next Token : 1, Posbility: 0.9953
+Next Token : :, Posbility: 0.0019
+Next Token : :-, Posbility: 0.0012
+Next Token : 0, Posbility: 0.0007
+Next Token : 2, Posbility: 0.0004
+Choose : 1,  Posbility: 0.9953
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1
+---------------------------
+Next Token : :, Posbility: 0.9986
+Next Token : :], Posbility: 0.0006
+Next Token : ::, Posbility: 0.0005
+Next Token : ]), Posbility: 0.0001
+Next Token : :(, Posbility: 0.0001
+Choose : :,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:
+---------------------------
+Next Token : ]), Posbility: 0.9992
+Next Token : ]);, Posbility: 0.0002
+Next Token : ],, Posbility: 0.0002
+Next Token :  ]), Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Choose : ]),  Posbility: 0.9992
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.9758
+Next Token : 
+
+, Posbility: 0.0090
+Next Token :  , Posbility: 0.0039
+Next Token :  #, Posbility: 0.0032
+Next Token :  +, Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9758
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+
+---------------------------
+Next Token :     , Posbility: 0.9935
+Next Token :         , Posbility: 0.0051
+Next Token : 
+, Posbility: 0.0004
+Next Token : #, Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9935
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    
+---------------------------
+Next Token : else, Posbility: 0.5123
+Next Token : return, Posbility: 0.2064
+Next Token : if, Posbility: 0.1554
+Next Token : el, Posbility: 0.1185
+Next Token : 
+, Posbility: 0.0034
+Choose : else,  Posbility: 0.5123
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else
+---------------------------
+Next Token : :, Posbility: 0.9954
+Next Token :  :, Posbility: 0.0043
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9954
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9858
+Next Token :  , Posbility: 0.0076
+Next Token :  return, Posbility: 0.0022
+Next Token :  #, Posbility: 0.0017
+Next Token :     , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9858
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9968
+Next Token :          , Posbility: 0.0010
+Next Token :             , Posbility: 0.0009
+Next Token :        , Posbility: 0.0007
+Next Token :     , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9968
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9944
+Next Token : if, Posbility: 0.0011
+Next Token : #, Posbility: 0.0009
+Next Token : print, Posbility: 0.0004
+Next Token : a, Posbility: 0.0004
+Choose : return,  Posbility: 0.9944
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return
+---------------------------
+Next Token :  median, Posbility: 0.9905
+Next Token :   , Posbility: 0.0028
+Next Token :  (, Posbility: 0.0021
+Next Token :  middle, Posbility: 0.0007
+Next Token : (, Posbility: 0.0005
+Choose :  median,  Posbility: 0.9905
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median
+---------------------------
+Next Token : (, Posbility: 0.9960
+Next Token : ((, Posbility: 0.0018
+Next Token : ([, Posbility: 0.0014
+Next Token :  (, Posbility: 0.0006
+Next Token : _, Posbility: 0.0001
+Choose : (,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(
+---------------------------
+Next Token : a, Posbility: 0.9271
+Next Token : b, Posbility: 0.0717
+Next Token :  a, Posbility: 0.0005
+Next Token : list, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Choose : a,  Posbility: 0.9271
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a
+---------------------------
+Next Token : [, Posbility: 0.7285
+Next Token : ,, Posbility: 0.2690
+Next Token : +, Posbility: 0.0012
+Next Token : ,[, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0004
+Choose : [,  Posbility: 0.7285
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[
+---------------------------
+Next Token : 1, Posbility: 0.8958
+Next Token : :, Posbility: 0.0449
+Next Token : :-, Posbility: 0.0448
+Next Token : ::, Posbility: 0.0060
+Next Token : 0, Posbility: 0.0056
+Choose : 1,  Posbility: 0.8958
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1
+---------------------------
+Next Token : :, Posbility: 0.9919
+Next Token : :], Posbility: 0.0056
+Next Token : ::, Posbility: 0.0011
+Next Token : :-, Posbility: 0.0006
+Next Token :  :, Posbility: 0.0005
+Choose : :,  Posbility: 0.9919
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:
+---------------------------
+Next Token : ],, Posbility: 0.9810
+Next Token : ],[, Posbility: 0.0067
+Next Token : len, Posbility: 0.0059
+Next Token : 1, Posbility: 0.0010
+Next Token : ][, Posbility: 0.0008
+Choose : ],,  Posbility: 0.9810
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],
+---------------------------
+Next Token : b, Posbility: 0.9666
+Next Token :  b, Posbility: 0.0316
+Next Token : a, Posbility: 0.0006
+Next Token : (, Posbility: 0.0003
+Next Token : d, Posbility: 0.0001
+Choose : b,  Posbility: 0.9666
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b
+---------------------------
+Next Token : [, Posbility: 0.8226
+Next Token : ), Posbility: 0.1760
+Next Token : )[, Posbility: 0.0010
+Next Token : );, Posbility: 0.0001
+Next Token : )+, Posbility: 0.0000
+Choose : [,  Posbility: 0.8226
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[
+---------------------------
+Next Token : 1, Posbility: 0.8701
+Next Token : :-, Posbility: 0.0903
+Next Token : :, Posbility: 0.0288
+Next Token : 0, Posbility: 0.0032
+Next Token : -, Posbility: 0.0025
+Choose : 1,  Posbility: 0.8701
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1
+---------------------------
+Next Token : :, Posbility: 0.9987
+Next Token : :], Posbility: 0.0005
+Next Token : ::, Posbility: 0.0003
+Next Token : +, Posbility: 0.0001
+Next Token :  :, Posbility: 0.0001
+Choose : :,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:
+---------------------------
+Next Token : ]), Posbility: 0.9952
+Next Token : ],, Posbility: 0.0034
+Next Token : ][, Posbility: 0.0004
+Next Token : ]-, Posbility: 0.0004
+Next Token : ]),, Posbility: 0.0002
+Choose : ]),  Posbility: 0.9952
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.6250
+Next Token : 
+
+, Posbility: 0.2490
+Next Token :  +, Posbility: 0.0537
+Next Token : <|endoftext|>, Posbility: 0.0365
+Next Token : +, Posbility: 0.0087
+Choose : 
+,  Posbility: 0.6250
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+---------------------------
+Next Token : 
+, Posbility: 0.5450
+Next Token :     , Posbility: 0.1116
+Next Token :         , Posbility: 0.0796
+Next Token : print, Posbility: 0.0595
+Next Token : def, Posbility: 0.0472
+Choose : 
+,  Posbility: 0.5450
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8601
+Next Token : 
+
+, Posbility: 0.0540
+Next Token :     , Posbility: 0.0408
+Next Token : <|endoftext|>, Posbility: 0.0263
+Next Token :         , Posbility: 0.0109
+Choose : 
+,  Posbility: 0.8601
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3368
+Next Token : def, Posbility: 0.1982
+Next Token : #, Posbility: 0.1068
+Next Token : 
+, Posbility: 0.1051
+Next Token : print, Posbility: 0.0617
+Choose : '',  Posbility: 0.3368
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8138
+Next Token :  Write, Posbility: 0.0297
+Next Token : 
+, Posbility: 0.0277
+Next Token : Find, Posbility: 0.0102
+Next Token : Given, Posbility: 0.0059
+Choose : Write,  Posbility: 0.8138
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9894
+Next Token :  an, Posbility: 0.0027
+Next Token :  your, Posbility: 0.0021
+Next Token :  the, Posbility: 0.0014
+Next Token :  function, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9894
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9088
+Next Token :  Python, Posbility: 0.0261
+Next Token :  program, Posbility: 0.0198
+Next Token :  python, Posbility: 0.0100
+Next Token :  recursive, Posbility: 0.0065
+Choose :  function,  Posbility: 0.9088
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6934
+Next Token :  that, Posbility: 0.2155
+Next Token :  which, Posbility: 0.0193
+Next Token :  called, Posbility: 0.0128
+Next Token :  named, Posbility: 0.0068
+Choose :  to,  Posbility: 0.6934
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2047
+Next Token :  return, Posbility: 0.0996
+Next Token :  print, Posbility: 0.0712
+Next Token :  remove, Posbility: 0.0601
+Next Token :  get, Posbility: 0.0498
+Choose :  find,  Posbility: 0.2047
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.8839
+Next Token :  if, Posbility: 0.0113
+Next Token :  a, Posbility: 0.0109
+Next Token :  all, Posbility: 0.0086
+Next Token :  out, Posbility: 0.0068
+Choose :  the,  Posbility: 0.8839
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  minimum, Posbility: 0.1081
+Next Token :  median, Posbility: 0.1044
+Next Token :  maximum, Posbility: 0.0870
+Next Token :  smallest, Posbility: 0.0518
+Next Token :  number, Posbility: 0.0433
+Choose :  minimum,  Posbility: 0.1081
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum
+---------------------------
+Next Token :  element, Posbility: 0.2976
+Next Token :  and, Posbility: 0.1771
+Next Token :  number, Posbility: 0.1653
+Next Token :  of, Posbility: 0.0744
+Next Token :  absolute, Posbility: 0.0579
+Choose :  element,  Posbility: 0.2976
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element
+---------------------------
+Next Token :  in, Posbility: 0.4631
+Next Token :  of, Posbility: 0.4628
+Next Token : ., Posbility: 0.0113
+Next Token :  with, Posbility: 0.0070
+Next Token :  present, Posbility: 0.0065
+Choose :  in,  Posbility: 0.4631
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in
+---------------------------
+Next Token :  a, Posbility: 0.2388
+Next Token :  sorted, Posbility: 0.2287
+Next Token :  an, Posbility: 0.1424
+Next Token :  the, Posbility: 0.1071
+Next Token :  uns, Posbility: 0.1001
+Choose :  a,  Posbility: 0.2388
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a
+---------------------------
+Next Token :  sing, Posbility: 0.4001
+Next Token :  sorted, Posbility: 0.2766
+Next Token :  given, Posbility: 0.0859
+Next Token :  list, Posbility: 0.0826
+Next Token :  non, Posbility: 0.0387
+Choose :  sing,  Posbility: 0.4001
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a sing
+---------------------------
+Next Token : ly, Posbility: 0.9908
+Next Token : ed, Posbility: 0.0010
+Next Token : l, Posbility: 0.0010
+Next Token : ual, Posbility: 0.0010
+Next Token : e, Posbility: 0.0009
+Choose : ly,  Posbility: 0.9908
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly
+---------------------------
+Next Token :  linked, Posbility: 0.9570
+Next Token : 
+, Posbility: 0.0108
+Next Token : -, Posbility: 0.0093
+Next Token :  sorted, Posbility: 0.0054
+Next Token :  uns, Posbility: 0.0015
+Choose :  linked,  Posbility: 0.9570
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly linked
+---------------------------
+Next Token :  list, Posbility: 0.8742
+Next Token : 
+, Posbility: 0.0767
+Next Token : -, Posbility: 0.0270
+Next Token : list, Posbility: 0.0079
+Next Token :  node, Posbility: 0.0028
+Choose :  list,  Posbility: 0.8742
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly linked list
+---------------------------
+Next Token : .', Posbility: 0.5184
+Next Token : ., Posbility: 0.3190
+Next Token : '', Posbility: 0.0512
+Next Token : ,, Posbility: 0.0269
+Next Token : 
+, Posbility: 0.0181
+Choose : .',  Posbility: 0.5184
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly linked list.'
+---------------------------
+Next Token : '', Posbility: 0.9994
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Next Token :  '', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9994
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly linked list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9505
+Next Token : 
+
+, Posbility: 0.0321
+Next Token : def, Posbility: 0.0077
+Next Token :  , Posbility: 0.0051
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9505
+---------------------------
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly linked list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.8924
+Next Token : 
+, Posbility: 0.0674
+Next Token : #, Posbility: 0.0198
+Next Token : class, Posbility: 0.0071
+Next Token : '', Posbility: 0.0040
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 21.900256872177124
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the median of two sorted lists of same size.'''
+def median(a,b):
+    if len(a) == 0:
+        return -1
+    if len(b) == 0:
+        return -1
+    if len(a) == len(b):
+        return (a+b)/2
+    if a[0] < b[0]:
+        return median(a[1:],b[1:])
+    else:
+        return median(a[1:],b[1:])
+
+
+'''Write a function to find the minimum element in a singly linked list.'''
+

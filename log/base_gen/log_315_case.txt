@@ -1,0 +1,1828 @@
+<<<<<<<<<<<< 315 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1804
+Next Token : ix, Posbility: 0.1571
+Next Token : iz, Posbility: 0.0935
+Next Token : ia, Posbility: 0.0914
+Next Token : xt, Posbility: 0.0843
+Choose : 
+,  Posbility: 0.1804
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+
+---------------------------
+Next Token : '', Posbility: 0.1124
+Next Token : def, Posbility: 0.0911
+Next Token : #, Posbility: 0.0885
+Next Token : import, Posbility: 0.0706
+Next Token : 
+, Posbility: 0.0668
+Choose : '',  Posbility: 0.1124
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+''
+---------------------------
+Next Token : ', Posbility: 0.9963
+Next Token : '/, Posbility: 0.0007
+Next Token : '., Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0004
+Next Token : (, Posbility: 0.0002
+Choose : ',  Posbility: 0.9963
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+---------------------------
+Next Token : 
+, Posbility: 0.1975
+Next Token : Write, Posbility: 0.1182
+Next Token : Given, Posbility: 0.0374
+Next Token :  Write, Posbility: 0.0305
+Next Token : This, Posbility: 0.0199
+Choose : 
+,  Posbility: 0.1975
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+---------------------------
+Next Token : 
+, Posbility: 0.1012
+Next Token : def, Posbility: 0.0951
+Next Token :     , Posbility: 0.0545
+Next Token : Given, Posbility: 0.0536
+Next Token : class, Posbility: 0.0287
+Choose : 
+,  Posbility: 0.1012
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.7120
+Next Token : 
+
+, Posbility: 0.1635
+Next Token :     , Posbility: 0.0576
+Next Token :   , Posbility: 0.0057
+Next Token :  , Posbility: 0.0054
+Choose : 
+,  Posbility: 0.7120
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.2479
+Next Token : 
+, Posbility: 0.2045
+Next Token : '', Posbility: 0.1807
+Next Token : class, Posbility: 0.0634
+Next Token : #, Posbility: 0.0320
+Choose : def,  Posbility: 0.2479
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def
+---------------------------
+Next Token :  max, Posbility: 0.2685
+Next Token :  matrix, Posbility: 0.0901
+Next Token :  get, Posbility: 0.0549
+Next Token :  find, Posbility: 0.0539
+Next Token :  print, Posbility: 0.0440
+Choose :  max,  Posbility: 0.2685
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max
+---------------------------
+Next Token : _, Posbility: 0.4805
+Next Token : (, Posbility: 0.0934
+Next Token : Column, Posbility: 0.0890
+Next Token : Col, Posbility: 0.0793
+Next Token : col, Posbility: 0.0332
+Choose : _,  Posbility: 0.4805
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_
+---------------------------
+Next Token : column, Posbility: 0.3272
+Next Token : col, Posbility: 0.2033
+Next Token : of, Posbility: 0.1556
+Next Token : n, Posbility: 0.0456
+Next Token : row, Posbility: 0.0274
+Choose : column,  Posbility: 0.3272
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column
+---------------------------
+Next Token : (, Posbility: 0.8865
+Next Token : _, Posbility: 0.0823
+Next Token : s, Posbility: 0.0078
+Next Token : ():, Posbility: 0.0066
+Next Token :  (, Posbility: 0.0063
+Choose : (,  Posbility: 0.8865
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(
+---------------------------
+Next Token : mat, Posbility: 0.5186
+Next Token : a, Posbility: 0.0794
+Next Token : l, Posbility: 0.0611
+Next Token : arr, Posbility: 0.0604
+Next Token : m, Posbility: 0.0413
+Choose : mat,  Posbility: 0.5186
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(mat
+---------------------------
+Next Token : rix, Posbility: 0.9156
+Next Token : ):, Posbility: 0.0557
+Next Token : ,, Posbility: 0.0131
+Next Token : r, Posbility: 0.0040
+Next Token : :, Posbility: 0.0028
+Choose : rix,  Posbility: 0.9156
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix
+---------------------------
+Next Token : ):, Posbility: 0.8350
+Next Token : ,, Posbility: 0.0948
+Next Token : :, Posbility: 0.0350
+Next Token : _, Posbility: 0.0145
+Next Token : ), Posbility: 0.0105
+Choose : ):,  Posbility: 0.8350
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+---------------------------
+Next Token : 
+, Posbility: 0.8732
+Next Token : 
+
+, Posbility: 0.1026
+Next Token :  , Posbility: 0.0090
+Next Token :  #, Posbility: 0.0044
+Next Token :   , Posbility: 0.0035
+Choose : 
+,  Posbility: 0.8732
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+
+---------------------------
+Next Token :     , Posbility: 0.8344
+Next Token : 	, Posbility: 0.0514
+Next Token :   , Posbility: 0.0396
+Next Token : 
+, Posbility: 0.0119
+Next Token : '', Posbility: 0.0117
+Choose :     ,  Posbility: 0.8344
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    
+---------------------------
+Next Token : '', Posbility: 0.1324
+Next Token : max, Posbility: 0.0985
+Next Token : #, Posbility: 0.0890
+Next Token : for, Posbility: 0.0715
+Next Token : n, Posbility: 0.0593
+Choose : '',  Posbility: 0.1324
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9991
+Next Token : 
+, Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Choose : ',  Posbility: 0.9991
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.3582
+Next Token : Given, Posbility: 0.1133
+Next Token : 
+
+, Posbility: 0.1094
+Next Token : Write, Posbility: 0.0369
+Next Token : Function, Posbility: 0.0206
+Choose : 
+,  Posbility: 0.3582
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9043
+Next Token :         , Posbility: 0.0574
+Next Token :      , Posbility: 0.0048
+Next Token :       , Posbility: 0.0041
+Next Token :        , Posbility: 0.0035
+Choose :     ,  Posbility: 0.9043
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    
+---------------------------
+Next Token : Given, Posbility: 0.1329
+Next Token : :, Posbility: 0.0988
+Next Token : mat, Posbility: 0.0560
+Next Token : Input, Posbility: 0.0420
+Next Token : This, Posbility: 0.0380
+Choose : Given,  Posbility: 0.1329
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given
+---------------------------
+Next Token :  a, Posbility: 0.8499
+Next Token :  matrix, Posbility: 0.0559
+Next Token :  an, Posbility: 0.0208
+Next Token :  the, Posbility: 0.0181
+Next Token : :, Posbility: 0.0123
+Choose :  a,  Posbility: 0.8499
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a
+---------------------------
+Next Token :  matrix, Posbility: 0.7629
+Next Token :  list, Posbility: 0.1279
+Next Token :  2, Posbility: 0.0380
+Next Token :  Matrix, Posbility: 0.0121
+Next Token :  n, Posbility: 0.0070
+Choose :  matrix,  Posbility: 0.7629
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix
+---------------------------
+Next Token :  represented, Posbility: 0.5904
+Next Token : ,, Posbility: 0.1535
+Next Token :  of, Posbility: 0.0721
+Next Token :  representing, Posbility: 0.0171
+Next Token :  (, Posbility: 0.0121
+Choose :  represented,  Posbility: 0.5904
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented
+---------------------------
+Next Token :  as, Posbility: 0.8824
+Next Token :  by, Posbility: 0.0862
+Next Token :  in, Posbility: 0.0139
+Next Token :  with, Posbility: 0.0057
+Next Token :  using, Posbility: 0.0023
+Choose :  as,  Posbility: 0.8824
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as
+---------------------------
+Next Token :  a, Posbility: 0.9625
+Next Token :  list, Posbility: 0.0147
+Next Token :  an, Posbility: 0.0081
+Next Token :  lists, Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0016
+Choose :  a,  Posbility: 0.9625
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a
+---------------------------
+Next Token :  list, Posbility: 0.9841
+Next Token :  2, Posbility: 0.0025
+Next Token :  lists, Posbility: 0.0024
+Next Token :  nested, Posbility: 0.0020
+Next Token :  matrix, Posbility: 0.0013
+Choose :  list,  Posbility: 0.9841
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list
+---------------------------
+Next Token :  of, Posbility: 0.9834
+Next Token : ,, Posbility: 0.0050
+Next Token :  list, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0016
+Next Token :  , Posbility: 0.0007
+Choose :  of,  Posbility: 0.9834
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of
+---------------------------
+Next Token :  lists, Posbility: 0.9879
+Next Token :  list, Posbility: 0.0092
+Next Token :  rows, Posbility: 0.0002
+Next Token :  a, Posbility: 0.0002
+Next Token :  n, Posbility: 0.0002
+Choose :  lists,  Posbility: 0.9879
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists
+---------------------------
+Next Token : ,, Posbility: 0.5239
+Next Token :  returns, Posbility: 0.1973
+Next Token : 
+, Posbility: 0.0804
+Next Token : ., Posbility: 0.0583
+Next Token : 
+
+, Posbility: 0.0144
+Choose : ,,  Posbility: 0.5239
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists,
+---------------------------
+Next Token :  return, Posbility: 0.3443
+Next Token :  returns, Posbility: 0.3096
+Next Token : 
+, Posbility: 0.0693
+Next Token :  this, Posbility: 0.0373
+Next Token :  write, Posbility: 0.0338
+Choose :  return,  Posbility: 0.3443
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return
+---------------------------
+Next Token :  the, Posbility: 0.8235
+Next Token :  its, Posbility: 0.1060
+Next Token : 
+, Posbility: 0.0187
+Next Token :  a, Posbility: 0.0172
+Next Token :  it, Posbility: 0.0051
+Choose :  the,  Posbility: 0.8235
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the
+---------------------------
+Next Token :  max, Posbility: 0.6314
+Next Token :  maximum, Posbility: 0.1932
+Next Token : 
+, Posbility: 0.0347
+Next Token :  column, Posbility: 0.0221
+Next Token :  , Posbility: 0.0164
+Choose :  max,  Posbility: 0.6314
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max
+---------------------------
+Next Token :  of, Posbility: 0.6667
+Next Token :  column, Posbility: 0.1149
+Next Token :  value, Posbility: 0.0599
+Next Token :  element, Posbility: 0.0407
+Next Token : 
+, Posbility: 0.0220
+Choose :  of,  Posbility: 0.6667
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of
+---------------------------
+Next Token :  the, Posbility: 0.8675
+Next Token :  all, Posbility: 0.0300
+Next Token :  each, Posbility: 0.0288
+Next Token : 
+, Posbility: 0.0183
+Next Token :  n, Posbility: 0.0159
+Choose :  the,  Posbility: 0.8675
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the
+---------------------------
+Next Token :  n, Posbility: 0.8277
+Next Token : 
+, Posbility: 0.0410
+Next Token :  , Posbility: 0.0231
+Next Token :  column, Posbility: 0.0210
+Next Token :  columns, Posbility: 0.0117
+Choose :  n,  Posbility: 0.8277
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n
+---------------------------
+Next Token : 't, Posbility: 0.9951
+Next Token : ', Posbility: 0.0012
+Next Token : th, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0007
+Next Token : 's, Posbility: 0.0004
+Choose : 't,  Posbility: 0.9951
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n't
+---------------------------
+Next Token : h, Posbility: 0.9984
+Next Token : th, Posbility: 0.0009
+Next Token :  h, Posbility: 0.0002
+Next Token : han, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Choose : h,  Posbility: 0.9984
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th
+---------------------------
+Next Token :  column, Posbility: 0.9332
+Next Token : 
+, Posbility: 0.0299
+Next Token :  , Posbility: 0.0087
+Next Token :  row, Posbility: 0.0080
+Next Token :  col, Posbility: 0.0071
+Choose :  column,  Posbility: 0.9332
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column
+---------------------------
+Next Token : ., Posbility: 0.7549
+Next Token :  of, Posbility: 0.0886
+Next Token : 
+, Posbility: 0.0589
+Next Token :  in, Posbility: 0.0256
+Next Token : 
+
+, Posbility: 0.0213
+Choose : .,  Posbility: 0.7549
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+---------------------------
+Next Token : 
+, Posbility: 0.6753
+Next Token : 
+
+, Posbility: 0.2695
+Next Token :  , Posbility: 0.0190
+Next Token :  The, Posbility: 0.0065
+Next Token :  If, Posbility: 0.0052
+Choose : 
+,  Posbility: 0.6753
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+
+---------------------------
+Next Token :     , Posbility: 0.9827
+Next Token :         , Posbility: 0.0077
+Next Token : '', Posbility: 0.0023
+Next Token :      , Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0007
+Choose :     ,  Posbility: 0.9827
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    
+---------------------------
+Next Token : '', Posbility: 0.3969
+Next Token : 
+, Posbility: 0.0691
+Next Token : :, Posbility: 0.0615
+Next Token : The, Posbility: 0.0521
+Next Token : Input, Posbility: 0.0336
+Choose : '',  Posbility: 0.3969
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.8646
+Next Token : 
+
+, Posbility: 0.1255
+Next Token :  , Posbility: 0.0045
+Next Token :     , Posbility: 0.0017
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.8646
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9499
+Next Token : 
+, Posbility: 0.0156
+Next Token : def, Posbility: 0.0091
+Next Token :   , Posbility: 0.0046
+Next Token :         , Posbility: 0.0035
+Choose :     ,  Posbility: 0.9499
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    
+---------------------------
+Next Token : #, Posbility: 0.1678
+Next Token : max, Posbility: 0.1165
+Next Token : 
+, Posbility: 0.1006
+Next Token : return, Posbility: 0.0671
+Next Token : if, Posbility: 0.0503
+Choose : #,  Posbility: 0.1678
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    #
+---------------------------
+Next Token :  Write, Posbility: 0.0756
+Next Token :  TOD, Posbility: 0.0508
+Next Token :  your, Posbility: 0.0359
+Next Token :  Your, Posbility: 0.0350
+Next Token :  Create, Posbility: 0.0342
+Choose :  Write,  Posbility: 0.0756
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write
+---------------------------
+Next Token :  your, Posbility: 0.9864
+Next Token :  a, Posbility: 0.0032
+Next Token :  an, Posbility: 0.0031
+Next Token :  Your, Posbility: 0.0013
+Next Token :  the, Posbility: 0.0012
+Choose :  your,  Posbility: 0.9864
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your
+---------------------------
+Next Token :  code, Posbility: 0.9763
+Next Token :  function, Posbility: 0.0123
+Next Token :  solution, Posbility: 0.0072
+Next Token :  logic, Posbility: 0.0011
+Next Token :  write, Posbility: 0.0005
+Choose :  code,  Posbility: 0.9763
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code
+---------------------------
+Next Token :  here, Posbility: 0.9851
+Next Token :  below, Posbility: 0.0043
+Next Token :  Here, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0019
+Next Token :  HERE, Posbility: 0.0007
+Choose :  here,  Posbility: 0.9851
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here
+---------------------------
+Next Token : ., Posbility: 0.5294
+Next Token : 
+, Posbility: 0.4310
+Next Token : 
+
+, Posbility: 0.0216
+Next Token : !, Posbility: 0.0041
+Next Token : ..., Posbility: 0.0039
+Choose : .,  Posbility: 0.5294
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+---------------------------
+Next Token : 
+, Posbility: 0.9140
+Next Token : 
+
+, Posbility: 0.0615
+Next Token :  Make, Posbility: 0.0035
+Next Token :  , Posbility: 0.0029
+Next Token :  Use, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9140
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+
+---------------------------
+Next Token :     , Posbility: 0.8980
+Next Token : 
+, Posbility: 0.0269
+Next Token :   , Posbility: 0.0141
+Next Token : 	, Posbility: 0.0091
+Next Token :    , Posbility: 0.0074
+Choose :     ,  Posbility: 0.8980
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    
+---------------------------
+Next Token : max, Posbility: 0.1554
+Next Token : return, Posbility: 0.1251
+Next Token : 
+, Posbility: 0.0720
+Next Token : if, Posbility: 0.0690
+Next Token : #, Posbility: 0.0645
+Choose : max,  Posbility: 0.1554
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max
+---------------------------
+Next Token : _, Posbility: 0.5341
+Next Token :  =, Posbility: 0.2673
+Next Token : =, Posbility: 0.0669
+Next Token : i, Posbility: 0.0166
+Next Token : 1, Posbility: 0.0116
+Choose : _,  Posbility: 0.5341
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_
+---------------------------
+Next Token : col, Posbility: 0.1503
+Next Token : val, Posbility: 0.1219
+Next Token : column, Posbility: 0.1128
+Next Token : value, Posbility: 0.1019
+Next Token : num, Posbility: 0.0926
+Choose : col,  Posbility: 0.1503
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col
+---------------------------
+Next Token :  =, Posbility: 0.7943
+Next Token : =, Posbility: 0.0982
+Next Token : _, Posbility: 0.0776
+Next Token : um, Posbility: 0.0108
+Next Token : s, Posbility: 0.0033
+Choose :  =,  Posbility: 0.7943
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col =
+---------------------------
+Next Token :  [], Posbility: 0.3201
+Next Token :  matrix, Posbility: 0.2635
+Next Token :  0, Posbility: 0.1621
+Next Token :  max, Posbility: 0.0573
+Next Token :  [, Posbility: 0.0503
+Choose :  [],  Posbility: 0.3201
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+---------------------------
+Next Token : 
+, Posbility: 0.9301
+Next Token : 
+
+, Posbility: 0.0525
+Next Token :  #, Posbility: 0.0063
+Next Token :  , Posbility: 0.0056
+Next Token :   , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9301
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+
+---------------------------
+Next Token :     , Posbility: 0.9952
+Next Token : 	, Posbility: 0.0009
+Next Token :    , Posbility: 0.0009
+Next Token :   , Posbility: 0.0007
+Next Token :         , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9952
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    
+---------------------------
+Next Token : for, Posbility: 0.7222
+Next Token : max, Posbility: 0.0459
+Next Token : 
+, Posbility: 0.0321
+Next Token : #, Posbility: 0.0208
+Next Token : n, Posbility: 0.0190
+Choose : for,  Posbility: 0.7222
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5582
+Next Token :  row, Posbility: 0.1315
+Next Token :  col, Posbility: 0.0836
+Next Token :  x, Posbility: 0.0519
+Next Token :  j, Posbility: 0.0181
+Choose :  i,  Posbility: 0.5582
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9881
+Next Token : ,, Posbility: 0.0101
+Next Token : _, Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Next Token : 1, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9881
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.8909
+Next Token :  matrix, Posbility: 0.1035
+Next Token :   , Posbility: 0.0007
+Next Token :  zip, Posbility: 0.0006
+Next Token :  enumer, Posbility: 0.0006
+Choose :  range,  Posbility: 0.8909
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9851
+Next Token :  (, Posbility: 0.0142
+Next Token : ((, Posbility: 0.0004
+Next Token : :, Posbility: 0.0001
+Next Token : (-, Posbility: 0.0001
+Choose : (,  Posbility: 0.9851
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.9212
+Next Token : 0, Posbility: 0.0573
+Next Token : 1, Posbility: 0.0062
+Next Token :  len, Posbility: 0.0029
+Next Token : n, Posbility: 0.0018
+Choose : len,  Posbility: 0.9212
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token : ((, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9995
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(
+---------------------------
+Next Token : mat, Posbility: 0.9985
+Next Token : max, Posbility: 0.0004
+Next Token : list, Posbility: 0.0001
+Next Token : column, Posbility: 0.0001
+Next Token :  matrix, Posbility: 0.0001
+Choose : mat,  Posbility: 0.9985
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(mat
+---------------------------
+Next Token : rix, Posbility: 0.9997
+Next Token : ), Posbility: 0.0002
+Next Token : [, Posbility: 0.0000
+Next Token : r, Posbility: 0.0000
+Next Token : riz, Posbility: 0.0000
+Choose : rix,  Posbility: 0.9997
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix
+---------------------------
+Next Token : ), Posbility: 0.6527
+Next Token : [, Posbility: 0.3367
+Next Token : )-, Posbility: 0.0076
+Next Token : )), Posbility: 0.0013
+Next Token : ),, Posbility: 0.0004
+Choose : ),  Posbility: 0.6527
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)
+---------------------------
+Next Token : ):, Posbility: 0.9875
+Next Token :  -, Posbility: 0.0115
+Next Token :  ):, Posbility: 0.0005
+Next Token :  +, Posbility: 0.0002
+Next Token : //, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9875
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+---------------------------
+Next Token : 
+, Posbility: 0.9822
+Next Token : 
+
+, Posbility: 0.0049
+Next Token :  , Posbility: 0.0035
+Next Token :  #, Posbility: 0.0034
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9822
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+
+---------------------------
+Next Token :         , Posbility: 0.9770
+Next Token :       , Posbility: 0.0089
+Next Token :     , Posbility: 0.0042
+Next Token :        , Posbility: 0.0034
+Next Token :             , Posbility: 0.0030
+Choose :         ,  Posbility: 0.9770
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        
+---------------------------
+Next Token : max, Posbility: 0.5056
+Next Token : col, Posbility: 0.1264
+Next Token : if, Posbility: 0.0693
+Next Token : temp, Posbility: 0.0434
+Next Token : row, Posbility: 0.0409
+Choose : max,  Posbility: 0.5056
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max
+---------------------------
+Next Token : _, Posbility: 0.9644
+Next Token :  =, Posbility: 0.0274
+Next Token : i, Posbility: 0.0026
+Next Token : 1, Posbility: 0.0012
+Next Token : =, Posbility: 0.0006
+Choose : _,  Posbility: 0.9644
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_
+---------------------------
+Next Token : col, Posbility: 0.8115
+Next Token : row, Posbility: 0.0678
+Next Token : val, Posbility: 0.0510
+Next Token : column, Posbility: 0.0114
+Next Token : num, Posbility: 0.0087
+Choose : col,  Posbility: 0.8115
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col
+---------------------------
+Next Token : ., Posbility: 0.9178
+Next Token :  =, Posbility: 0.0467
+Next Token : _, Posbility: 0.0209
+Next Token :  +=, Posbility: 0.0103
+Next Token : =, Posbility: 0.0012
+Choose : .,  Posbility: 0.9178
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.
+---------------------------
+Next Token : append, Posbility: 0.9960
+Next Token : insert, Posbility: 0.0022
+Next Token : ext, Posbility: 0.0011
+Next Token : clear, Posbility: 0.0005
+Next Token :  append, Posbility: 0.0000
+Choose : append,  Posbility: 0.9960
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append
+---------------------------
+Next Token : (, Posbility: 0.9790
+Next Token : ([, Posbility: 0.0083
+Next Token : ((, Posbility: 0.0075
+Next Token : (-, Posbility: 0.0029
+Next Token :  (, Posbility: 0.0015
+Choose : (,  Posbility: 0.9790
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(
+---------------------------
+Next Token : max, Posbility: 0.7640
+Next Token : mat, Posbility: 0.1915
+Next Token : 0, Posbility: 0.0122
+Next Token :  max, Posbility: 0.0058
+Next Token : float, Posbility: 0.0053
+Choose : max,  Posbility: 0.7640
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max
+---------------------------
+Next Token : (, Posbility: 0.9115
+Next Token : ([, Posbility: 0.0802
+Next Token : _, Posbility: 0.0052
+Next Token : ((, Posbility: 0.0013
+Next Token :  (, Posbility: 0.0005
+Choose : (,  Posbility: 0.9115
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(
+---------------------------
+Next Token : mat, Posbility: 0.9297
+Next Token : map, Posbility: 0.0297
+Next Token : max, Posbility: 0.0100
+Next Token : i, Posbility: 0.0100
+Next Token : list, Posbility: 0.0051
+Choose : mat,  Posbility: 0.9297
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(mat
+---------------------------
+Next Token : rix, Posbility: 0.9998
+Next Token : [, Posbility: 0.0001
+Next Token : r, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : ric, Posbility: 0.0000
+Choose : rix,  Posbility: 0.9998
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix
+---------------------------
+Next Token : [, Posbility: 0.9887
+Next Token : ,, Posbility: 0.0060
+Next Token : )[, Posbility: 0.0032
+Next Token :  [, Posbility: 0.0008
+Next Token : )), Posbility: 0.0005
+Choose : [,  Posbility: 0.9887
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[
+---------------------------
+Next Token : i, Posbility: 0.9703
+Next Token : 0, Posbility: 0.0186
+Next Token : :,, Posbility: 0.0030
+Next Token : j, Posbility: 0.0017
+Next Token : len, Posbility: 0.0014
+Choose : i,  Posbility: 0.9703
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i
+---------------------------
+Next Token : ], Posbility: 0.9724
+Next Token : ]), Posbility: 0.0113
+Next Token : ][, Posbility: 0.0107
+Next Token : ],, Posbility: 0.0036
+Next Token : ]., Posbility: 0.0008
+Choose : ],  Posbility: 0.9724
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]
+---------------------------
+Next Token : )), Posbility: 0.9998
+Next Token :  )), Posbility: 0.0001
+Next Token : ,', Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : )),  Posbility: 0.9998
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+---------------------------
+Next Token : 
+, Posbility: 0.8980
+Next Token : 
+
+, Posbility: 0.0842
+Next Token :  #, Posbility: 0.0046
+Next Token :  , Posbility: 0.0039
+Next Token :   , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.8980
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+
+---------------------------
+Next Token :     , Posbility: 0.9493
+Next Token :         , Posbility: 0.0447
+Next Token :    , Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0008
+Next Token :             , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9493
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    
+---------------------------
+Next Token : return, Posbility: 0.8479
+Next Token : print, Posbility: 0.0484
+Next Token : 
+, Posbility: 0.0385
+Next Token : max, Posbility: 0.0195
+Next Token : #, Posbility: 0.0151
+Choose : return,  Posbility: 0.8479
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    return
+---------------------------
+Next Token :  max, Posbility: 0.9669
+Next Token : (, Posbility: 0.0170
+Next Token :   , Posbility: 0.0026
+Next Token :  (, Posbility: 0.0024
+Next Token :  tuple, Posbility: 0.0015
+Choose :  max,  Posbility: 0.9669
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    return max
+---------------------------
+Next Token : _, Posbility: 0.8577
+Next Token : (, Posbility: 0.1416
+Next Token : ([, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0001
+Next Token : (*, Posbility: 0.0000
+Choose : _,  Posbility: 0.8577
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    return max_
+---------------------------
+Next Token : col, Posbility: 0.9998
+Next Token : column, Posbility: 0.0001
+Next Token : val, Posbility: 0.0001
+Next Token : row, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Choose : col,  Posbility: 0.9998
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    return max_col
+---------------------------
+Next Token : 
+, Posbility: 0.4797
+Next Token : 
+
+, Posbility: 0.2982
+Next Token : [, Posbility: 0.1904
+Next Token :  , Posbility: 0.0124
+Next Token : ., Posbility: 0.0052
+Choose : 
+,  Posbility: 0.4797
+---------------------------
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    return max_col
+
+---------------------------
+Next Token : 
+, Posbility: 0.6909
+Next Token :     , Posbility: 0.1119
+Next Token : '', Posbility: 0.0699
+Next Token : print, Posbility: 0.0229
+Next Token : <|endoftext|>, Posbility: 0.0223
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 16.046042919158936
+
+
+
+----------Syntax Error-----------
+
+'''Write a function which given a matrix represented as a list of lists returns the max of the n'th column.'''
+def 
+'''
+
+
+def max_column(matrix):
+    '''
+    Given a matrix represented as a list of lists, return the max of the n'th column.
+    '''
+    # Write your code here.
+    max_col = []
+    for i in range(len(matrix)):
+        max_col.append(max(matrix[i]))
+    return max_col
+
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

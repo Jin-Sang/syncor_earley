@@ -1,0 +1,303 @@
+<<<<<<<<<<<< 364 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ia, Posbility: 0.2248
+Next Token : ier, Posbility: 0.0651
+Next Token : xt, Posbility: 0.0604
+Next Token : ix, Posbility: 0.0603
+Next Token : 
+, Posbility: 0.0585
+Choose : ia, Posbility: 0.2248
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia
+---------------------------
+Next Token : (, Posbility: 0.5146
+Next Token : _, Posbility: 0.1161
+Next Token : ():, Posbility: 0.0564
+Next Token : a, Posbility: 0.0419
+Next Token : u, Posbility: 0.0296
+Choose : (, Posbility: 0.5146
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(
+---------------------------
+Next Token : a, Posbility: 0.2227
+Next Token : x, Posbility: 0.1348
+Next Token : n, Posbility: 0.0938
+Next Token : l, Posbility: 0.0436
+Next Token : t, Posbility: 0.0354
+Choose : a, Posbility: 0.2227
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a
+---------------------------
+Next Token : ,, Posbility: 0.7360
+Next Token : ):, Posbility: 0.1946
+Next Token : 1, Posbility: 0.0380
+Next Token : 0, Posbility: 0.0071
+Next Token : _, Posbility: 0.0064
+Choose : ,, Posbility: 0.7360
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,
+---------------------------
+Next Token : b, Posbility: 0.6187
+Next Token :  b, Posbility: 0.2650
+Next Token : n, Posbility: 0.0105
+Next Token : l, Posbility: 0.0070
+Next Token : h, Posbility: 0.0056
+Choose : b, Posbility: 0.6187
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b
+---------------------------
+Next Token : ,, Posbility: 0.9553
+Next Token : ):, Posbility: 0.0426
+Next Token : =, Posbility: 0.0009
+Next Token : ,, Posbility: 0.0003
+Next Token : ), Posbility: 0.0003
+Choose : ,, Posbility: 0.9553
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,
+---------------------------
+Next Token : c, Posbility: 0.9733
+Next Token : h, Posbility: 0.0089
+Next Token : l, Posbility: 0.0017
+Next Token : C, Posbility: 0.0016
+Next Token :  c, Posbility: 0.0015
+Choose : c, Posbility: 0.9733
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c
+---------------------------
+Next Token : ,, Posbility: 0.5019
+Next Token : ):, Posbility: 0.4951
+Next Token : ), Posbility: 0.0022
+Next Token : =, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0001
+Choose : ,, Posbility: 0.5019
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,
+---------------------------
+Next Token : d, Posbility: 0.8026
+Next Token : n, Posbility: 0.0338
+Next Token : x, Posbility: 0.0173
+Next Token : p, Posbility: 0.0128
+Next Token :  d, Posbility: 0.0097
+Choose : d, Posbility: 0.8026
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d
+---------------------------
+Next Token : ):, Posbility: 0.5269
+Next Token : ,, Posbility: 0.4664
+Next Token : =, Posbility: 0.0031
+Next Token : ), Posbility: 0.0027
+Next Token : 1, Posbility: 0.0002
+Choose : ):, Posbility: 0.5269
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+---------------------------
+Next Token : 
+, Posbility: 0.8643
+Next Token : , Posbility: 0.0634
+Next Token :  , Posbility: 0.0242
+Next Token : 
+
+, Posbility: 0.0177
+Next Token :  #, Posbility: 0.0112
+Choose : 
+, Posbility: 0.8643
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+
+---------------------------
+Next Token :     , Posbility: 0.8912
+Next Token :   , Posbility: 0.0468
+Next Token : 	, Posbility: 0.0383
+Next Token :    , Posbility: 0.0092
+Next Token :         , Posbility: 0.0037
+Choose :     , Posbility: 0.8912
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    
+---------------------------
+Next Token : return, Posbility: 0.2547
+Next Token : '', Posbility: 0.1474
+Next Token : area, Posbility: 0.0918
+Next Token : ia, Posbility: 0.0897
+Next Token : if, Posbility: 0.0499
+Choose : return, Posbility: 0.2547
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return
+---------------------------
+Next Token :  (, Posbility: 0.3352
+Next Token :  a, Posbility: 0.2578
+Next Token :  abs, Posbility: 0.1271
+Next Token :  ((, Posbility: 0.0872
+Next Token :  0, Posbility: 0.0342
+Choose :  (, Posbility: 0.3352
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (
+---------------------------
+Next Token : a, Posbility: 0.8759
+Next Token : b, Posbility: 0.0317
+Next Token : 3, Posbility: 0.0116
+Next Token : abs, Posbility: 0.0109
+Next Token :  a, Posbility: 0.0070
+Choose : a, Posbility: 0.8759
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a
+---------------------------
+Next Token : *, Posbility: 0.7134
+Next Token : **, Posbility: 0.1240
+Next Token : +, Posbility: 0.0831
+Next Token :  *, Posbility: 0.0414
+Next Token :  +, Posbility: 0.0171
+Choose : *, Posbility: 0.7134
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*
+---------------------------
+Next Token : b, Posbility: 0.6024
+Next Token : d, Posbility: 0.1682
+Next Token : (, Posbility: 0.1312
+Next Token : c, Posbility: 0.0468
+Next Token : a, Posbility: 0.0267
+Choose : b, Posbility: 0.6024
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b
+---------------------------
+Next Token : *, Posbility: 0.4235
+Next Token : )/, Posbility: 0.2699
+Next Token : ), Posbility: 0.1756
+Next Token : )*, Posbility: 0.0639
+Next Token : +, Posbility: 0.0160
+Choose : *, Posbility: 0.4235
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*
+---------------------------
+Next Token : c, Posbility: 0.9395
+Next Token : d, Posbility: 0.0487
+Next Token : (, Posbility: 0.0073
+Next Token : b, Posbility: 0.0021
+Next Token : 2, Posbility: 0.0005
+Choose : c, Posbility: 0.9395
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c
+---------------------------
+Next Token : )/, Posbility: 0.3608
+Next Token : ), Posbility: 0.2853
+Next Token : *, Posbility: 0.1637
+Next Token : )*, Posbility: 0.0965
+Next Token : -, Posbility: 0.0209
+Choose : )/, Posbility: 0.3608
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/
+---------------------------
+Next Token : (, Posbility: 0.5370
+Next Token : 2, Posbility: 0.1373
+Next Token : 3, Posbility: 0.1241
+Next Token : ((, Posbility: 0.0678
+Next Token : d, Posbility: 0.0375
+Choose : (, Posbility: 0.5370
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/(
+---------------------------
+Next Token : d, Posbility: 0.5047
+Next Token : a, Posbility: 0.2153
+Next Token : 4, Posbility: 0.1048
+Next Token : 3, Posbility: 0.0667
+Next Token : 2, Posbility: 0.0337
+Choose : d, Posbility: 0.5047
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/(d
+---------------------------
+Next Token : *, Posbility: 0.8722
+Next Token : **, Posbility: 0.0843
+Next Token : -, Posbility: 0.0144
+Next Token : +, Posbility: 0.0079
+Next Token : ), Posbility: 0.0060
+Choose : *, Posbility: 0.8722
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/(d*
+---------------------------
+Next Token : d, Posbility: 0.7746
+Next Token : (, Posbility: 0.1102
+Next Token : a, Posbility: 0.0436
+Next Token : c, Posbility: 0.0196
+Next Token : b, Posbility: 0.0148
+Choose : d, Posbility: 0.7746
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/(d*d
+---------------------------
+Next Token : ), Posbility: 0.6018
+Next Token : -, Posbility: 0.1892
+Next Token : *, Posbility: 0.1172
+Next Token :  -, Posbility: 0.0593
+Next Token : +, Posbility: 0.0093
+Choose : ), Posbility: 0.6018
+---------------------------
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/(d*d)
+---------------------------
+Next Token : 
+, Posbility: 0.8392
+Next Token : 
+
+, Posbility: 0.1116
+Next Token : <|endoftext|>, Posbility: 0.0227
+Next Token :  , Posbility: 0.0102
+Next Token :  #, Posbility: 0.0031
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.117033958435059
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to caluclate the area of a tetrahedron.'''
+def ia(a,b,c,d):
+    return (a*b*c)/(d*d)
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,349 @@
+<<<<<<<<<<<< 3 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ix, Posbility: 0.1023
+Next Token : 
+, Posbility: 0.0907
+Next Token : xt, Posbility: 0.0675
+Next Token : ia, Posbility: 0.0546
+Next Token : iz, Posbility: 0.0486
+Choose : ix,  Posbility: 0.1023
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix
+---------------------------
+Next Token : (, Posbility: 0.2161
+Next Token : _, Posbility: 0.1209
+Next Token : Diff, Posbility: 0.1167
+Next Token : diff, Posbility: 0.0820
+Next Token : or, Posbility: 0.0454
+Choose : (,  Posbility: 0.2161
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(
+---------------------------
+Next Token : x, Posbility: 0.2654
+Next Token : a, Posbility: 0.2114
+Next Token : n, Posbility: 0.1670
+Next Token : num, Posbility: 0.1024
+Next Token : number, Posbility: 0.0326
+Choose : x,  Posbility: 0.2654
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x
+---------------------------
+Next Token : ,, Posbility: 0.6642
+Next Token : ):, Posbility: 0.1759
+Next Token : 1, Posbility: 0.1058
+Next Token : :, Posbility: 0.0341
+Next Token : _, Posbility: 0.0063
+Choose : ,,  Posbility: 0.6642
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,
+---------------------------
+Next Token : y, Posbility: 0.5051
+Next Token :  y, Posbility: 0.3275
+Next Token :  n, Posbility: 0.0242
+Next Token : n, Posbility: 0.0220
+Next Token :  i, Posbility: 0.0123
+Choose : y,  Posbility: 0.5051
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y
+---------------------------
+Next Token : ):, Posbility: 0.7515
+Next Token : ,, Posbility: 0.2337
+Next Token : ), Posbility: 0.0115
+Next Token : =, Posbility: 0.0018
+Next Token : ,, Posbility: 0.0003
+Choose : ):,  Posbility: 0.7515
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+---------------------------
+Next Token : 
+, Posbility: 0.8794
+Next Token : , Posbility: 0.0471
+Next Token :  , Posbility: 0.0258
+Next Token : 
+
+, Posbility: 0.0184
+Next Token :  #, Posbility: 0.0096
+Choose : 
+,  Posbility: 0.8794
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+
+---------------------------
+Next Token :     , Posbility: 0.8473
+Next Token : 	, Posbility: 0.0679
+Next Token :   , Posbility: 0.0560
+Next Token :    , Posbility: 0.0135
+Next Token :         , Posbility: 0.0026
+Choose :     ,  Posbility: 0.8473
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    
+---------------------------
+Next Token : if, Posbility: 0.3672
+Next Token : '', Posbility: 0.1746
+Next Token : return, Posbility: 0.1599
+Next Token : #, Posbility: 0.0342
+Next Token : x, Posbility: 0.0208
+Choose : if,  Posbility: 0.3672
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if
+---------------------------
+Next Token :  x, Posbility: 0.6484
+Next Token :  (, Posbility: 0.1088
+Next Token : (, Posbility: 0.0879
+Next Token :  y, Posbility: 0.0754
+Next Token :  abs, Posbility: 0.0234
+Choose :  x,  Posbility: 0.6484
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x
+---------------------------
+Next Token :  ==, Posbility: 0.2204
+Next Token : ==, Posbility: 0.1695
+Next Token :  >, Posbility: 0.0904
+Next Token : !=, Posbility: 0.0842
+Next Token : >, Posbility: 0.0837
+Choose :  ==,  Posbility: 0.2204
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x ==
+---------------------------
+Next Token :  y, Posbility: 0.8975
+Next Token :  0, Posbility: 0.0505
+Next Token : y, Posbility: 0.0172
+Next Token :  1, Posbility: 0.0130
+Next Token :  ', Posbility: 0.0022
+Choose :  y,  Posbility: 0.8975
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y
+---------------------------
+Next Token : :, Posbility: 0.9331
+Next Token :  :, Posbility: 0.0224
+Next Token :  or, Posbility: 0.0217
+Next Token :  ==, Posbility: 0.0103
+Next Token :  and, Posbility: 0.0073
+Choose : :,  Posbility: 0.9331
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+---------------------------
+Next Token : 
+, Posbility: 0.9163
+Next Token :  return, Posbility: 0.0501
+Next Token :  , Posbility: 0.0176
+Next Token :  #, Posbility: 0.0036
+Next Token :   , Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9163
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+
+---------------------------
+Next Token :         , Posbility: 0.9742
+Next Token :        , Posbility: 0.0078
+Next Token :       , Posbility: 0.0070
+Next Token :             , Posbility: 0.0040
+Next Token :          , Posbility: 0.0026
+Choose :         ,  Posbility: 0.9742
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        
+---------------------------
+Next Token : return, Posbility: 0.8912
+Next Token : print, Posbility: 0.0597
+Next Token : pass, Posbility: 0.0097
+Next Token : if, Posbility: 0.0089
+Next Token : #, Posbility: 0.0043
+Choose : return,  Posbility: 0.8912
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.2829
+Next Token :  0, Posbility: 0.2610
+Next Token :  False, Posbility: 0.1526
+Next Token :  ", Posbility: 0.0753
+Next Token :  ', Posbility: 0.0747
+Choose :  True,  Posbility: 0.2829
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9524
+Next Token : 
+
+, Posbility: 0.0227
+Next Token :  , Posbility: 0.0100
+Next Token :  #, Posbility: 0.0034
+Next Token : ;, Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9524
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9765
+Next Token : 
+, Posbility: 0.0108
+Next Token :         , Posbility: 0.0046
+Next Token : def, Posbility: 0.0034
+Next Token : #, Posbility: 0.0008
+Choose :     ,  Posbility: 0.9765
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.4470
+Next Token : el, Posbility: 0.2955
+Next Token : if, Posbility: 0.1328
+Next Token : return, Posbility: 0.0841
+Next Token : 
+, Posbility: 0.0111
+Choose : else,  Posbility: 0.4470
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9818
+Next Token :  :, Posbility: 0.0178
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9818
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9564
+Next Token :  , Posbility: 0.0235
+Next Token :  return, Posbility: 0.0152
+Next Token :  #, Posbility: 0.0008
+Next Token :     , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9564
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9905
+Next Token :          , Posbility: 0.0027
+Next Token :        , Posbility: 0.0024
+Next Token :             , Posbility: 0.0013
+Next Token :     , Posbility: 0.0011
+Choose :         ,  Posbility: 0.9905
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.8628
+Next Token : if, Posbility: 0.0696
+Next Token : for, Posbility: 0.0085
+Next Token : x, Posbility: 0.0072
+Next Token : print, Posbility: 0.0063
+Choose : return,  Posbility: 0.8628
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9672
+Next Token :  , Posbility: 0.0104
+Next Token :  True, Posbility: 0.0052
+Next Token :  x, Posbility: 0.0027
+Next Token :  (, Posbility: 0.0020
+Choose :  False,  Posbility: 0.9672
+---------------------------
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7727
+Next Token : 
+
+, Posbility: 0.1662
+Next Token : <|endoftext|>, Posbility: 0.0268
+Next Token :  , Posbility: 0.0160
+Next Token :     , Posbility: 0.0054
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.052138566970825
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether the two numbers differ at one bit position only or not.'''
+def ix(x,y):
+    if x == y:
+        return True
+    else:
+        return False
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Other Error >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

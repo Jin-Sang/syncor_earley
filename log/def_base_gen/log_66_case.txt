@@ -1,0 +1,768 @@
+<<<<<<<<<<<< 66 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  convert, Posbility: 0.1724
+Next Token :  to, Posbility: 0.0816
+Next Token :  tuple, Posbility: 0.0587
+Next Token :  int, Posbility: 0.0497
+Next Token :  t, Posbility: 0.0260
+Choose :  convert,  Posbility: 0.1724
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert
+---------------------------
+Next Token : _, Posbility: 0.4902
+Next Token : (, Posbility: 0.1947
+Next Token : T, Posbility: 0.0961
+Next Token : To, Posbility: 0.0949
+Next Token : 2, Posbility: 0.0213
+Choose : _,  Posbility: 0.4902
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_
+---------------------------
+Next Token : t, Posbility: 0.4916
+Next Token : to, Posbility: 0.1874
+Next Token : tu, Posbility: 0.0348
+Next Token : pos, Posbility: 0.0285
+Next Token : list, Posbility: 0.0271
+Choose : t,  Posbility: 0.4916
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_t
+---------------------------
+Next Token : uple, Posbility: 0.9851
+Next Token : up, Posbility: 0.0095
+Next Token : _, Posbility: 0.0006
+Next Token : ups, Posbility: 0.0005
+Next Token : (, Posbility: 0.0004
+Choose : uple,  Posbility: 0.9851
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple
+---------------------------
+Next Token : _, Posbility: 0.4800
+Next Token : (, Posbility: 0.4759
+Next Token : ():, Posbility: 0.0203
+Next Token : 2, Posbility: 0.0085
+Next Token :  (, Posbility: 0.0033
+Choose : _,  Posbility: 0.4800
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_
+---------------------------
+Next Token : to, Posbility: 0.6197
+Next Token : into, Posbility: 0.1619
+Next Token : of, Posbility: 0.0609
+Next Token : int, Posbility: 0.0318
+Next Token : pos, Posbility: 0.0116
+Choose : to,  Posbility: 0.6197
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to
+---------------------------
+Next Token : _, Posbility: 0.9969
+Next Token : int, Posbility: 0.0010
+Next Token : (, Posbility: 0.0006
+Next Token : Int, Posbility: 0.0005
+Next Token : Integer, Posbility: 0.0003
+Choose : _,  Posbility: 0.9969
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_
+---------------------------
+Next Token : int, Posbility: 0.6448
+Next Token : integer, Posbility: 0.1742
+Next Token : single, Posbility: 0.0691
+Next Token : string, Posbility: 0.0145
+Next Token : integ, Posbility: 0.0122
+Choose : int,  Posbility: 0.6448
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int
+---------------------------
+Next Token : (, Posbility: 0.8729
+Next Token : ():, Posbility: 0.0574
+Next Token : _, Posbility: 0.0480
+Next Token :  (, Posbility: 0.0080
+Next Token : (*, Posbility: 0.0050
+Choose : (,  Posbility: 0.8729
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(
+---------------------------
+Next Token : t, Posbility: 0.7201
+Next Token : a, Posbility: 0.0311
+Next Token : num, Posbility: 0.0243
+Next Token : x, Posbility: 0.0207
+Next Token : tu, Posbility: 0.0182
+Choose : t,  Posbility: 0.7201
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(t
+---------------------------
+Next Token : uple, Posbility: 0.5912
+Next Token : up, Posbility: 0.2378
+Next Token : ):, Posbility: 0.1269
+Next Token : _, Posbility: 0.0172
+Next Token : :, Posbility: 0.0064
+Choose : uple,  Posbility: 0.5912
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple
+---------------------------
+Next Token : ):, Posbility: 0.6243
+Next Token : _, Posbility: 0.3242
+Next Token : :, Posbility: 0.0164
+Next Token : 1, Posbility: 0.0121
+Next Token : ,, Posbility: 0.0101
+Choose : ):,  Posbility: 0.6243
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+---------------------------
+Next Token : 
+, Posbility: 0.9501
+Next Token : 
+
+, Posbility: 0.0202
+Next Token : , Posbility: 0.0109
+Next Token :  , Posbility: 0.0088
+Next Token :   , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9501
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+
+---------------------------
+Next Token :     , Posbility: 0.9340
+Next Token :   , Posbility: 0.0323
+Next Token : 	, Posbility: 0.0264
+Next Token :    , Posbility: 0.0033
+Next Token :         , Posbility: 0.0015
+Choose :     ,  Posbility: 0.9340
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    
+---------------------------
+Next Token : '', Posbility: 0.3007
+Next Token : return, Posbility: 0.2262
+Next Token : for, Posbility: 0.0519
+Next Token : #, Posbility: 0.0473
+Next Token : if, Posbility: 0.0381
+Choose : '',  Posbility: 0.3007
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''
+---------------------------
+Next Token : Con, Posbility: 0.3297
+Next Token : Write, Posbility: 0.1248
+Next Token : 
+, Posbility: 0.0674
+Next Token : t, Posbility: 0.0455
+Next Token : Return, Posbility: 0.0446
+Choose : Con,  Posbility: 0.3297
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Con
+---------------------------
+Next Token : vert, Posbility: 0.7848
+Next Token : verts, Posbility: 0.1947
+Next Token : verting, Posbility: 0.0062
+Next Token : version, Posbility: 0.0057
+Next Token : ver, Posbility: 0.0028
+Choose : vert,  Posbility: 0.7848
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert
+---------------------------
+Next Token :  a, Posbility: 0.7257
+Next Token :  tuple, Posbility: 0.1370
+Next Token :  the, Posbility: 0.0541
+Next Token :  given, Posbility: 0.0212
+Next Token :  all, Posbility: 0.0100
+Choose :  a,  Posbility: 0.7257
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a
+---------------------------
+Next Token :  tuple, Posbility: 0.5704
+Next Token :  given, Posbility: 0.4113
+Next Token :  list, Posbility: 0.0043
+Next Token :  single, Posbility: 0.0022
+Next Token :  T, Posbility: 0.0012
+Choose :  tuple,  Posbility: 0.5704
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple
+---------------------------
+Next Token :  of, Posbility: 0.5239
+Next Token :  to, Posbility: 0.1815
+Next Token :  into, Posbility: 0.1186
+Next Token :  containing, Posbility: 0.0336
+Next Token :  in, Posbility: 0.0210
+Choose :  of,  Posbility: 0.5239
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of
+---------------------------
+Next Token :  positive, Posbility: 0.8668
+Next Token :  integers, Posbility: 0.0521
+Next Token :  int, Posbility: 0.0117
+Next Token :  two, Posbility: 0.0052
+Next Token :  tu, Posbility: 0.0045
+Choose :  positive,  Posbility: 0.8668
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive
+---------------------------
+Next Token :  integers, Posbility: 0.9624
+Next Token :  integer, Posbility: 0.0108
+Next Token :  int, Posbility: 0.0104
+Next Token :  numbers, Posbility: 0.0096
+Next Token :  and, Posbility: 0.0010
+Choose :  integers,  Posbility: 0.9624
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers
+---------------------------
+Next Token :  into, Posbility: 0.7541
+Next Token :  to, Posbility: 0.1932
+Next Token :  in, Posbility: 0.0079
+Next Token :  from, Posbility: 0.0056
+Next Token :  back, Posbility: 0.0053
+Choose :  into,  Posbility: 0.7541
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into
+---------------------------
+Next Token :  a, Posbility: 0.8064
+Next Token :  an, Posbility: 0.1507
+Next Token :  single, Posbility: 0.0115
+Next Token :  their, Posbility: 0.0051
+Next Token :  the, Posbility: 0.0047
+Choose :  a,  Posbility: 0.8064
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a
+---------------------------
+Next Token :  single, Posbility: 0.9945
+Next Token :  one, Posbility: 0.0005
+Next Token :  tuple, Posbility: 0.0005
+Next Token :  whole, Posbility: 0.0004
+Next Token :  simple, Posbility: 0.0004
+Choose :  single,  Posbility: 0.9945
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single
+---------------------------
+Next Token :  integer, Posbility: 0.9797
+Next Token :  positive, Posbility: 0.0096
+Next Token :  int, Posbility: 0.0042
+Next Token :  number, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0006
+Choose :  integer,  Posbility: 0.9797
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer
+---------------------------
+Next Token : .', Posbility: 0.4331
+Next Token : ., Posbility: 0.2880
+Next Token : '', Posbility: 0.1727
+Next Token : 
+
+, Posbility: 0.0139
+Next Token : 
+, Posbility: 0.0135
+Choose : .',  Posbility: 0.4331
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'
+---------------------------
+Next Token : '', Posbility: 0.9985
+Next Token : 
+, Posbility: 0.0007
+Next Token : 
+
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0003
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9985
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9564
+Next Token : 
+
+, Posbility: 0.0369
+Next Token :  , Posbility: 0.0038
+Next Token :     , Posbility: 0.0012
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9564
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9971
+Next Token :         , Posbility: 0.0006
+Next Token :   , Posbility: 0.0006
+Next Token :    , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9971
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.2875
+Next Token : for, Posbility: 0.0717
+Next Token : if, Posbility: 0.0614
+Next Token : int, Posbility: 0.0609
+Next Token : #, Posbility: 0.0475
+Choose : return,  Posbility: 0.2875
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.3624
+Next Token :  int, Posbility: 0.3058
+Next Token :  tuple, Posbility: 0.2443
+Next Token :  0, Posbility: 0.0191
+Next Token :  (, Posbility: 0.0129
+Choose :  sum,  Posbility: 0.3624
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum
+---------------------------
+Next Token : (, Posbility: 0.9123
+Next Token : ([, Posbility: 0.0766
+Next Token : ((, Posbility: 0.0083
+Next Token : _, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0003
+Choose : (,  Posbility: 0.9123
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(
+---------------------------
+Next Token : t, Posbility: 0.6202
+Next Token : int, Posbility: 0.1502
+Next Token : map, Posbility: 0.0847
+Next Token : i, Posbility: 0.0378
+Next Token : x, Posbility: 0.0249
+Choose : t,  Posbility: 0.6202
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(t
+---------------------------
+Next Token : uple, Posbility: 0.9870
+Next Token :  for, Posbility: 0.0038
+Next Token : ), Posbility: 0.0026
+Next Token : [, Posbility: 0.0025
+Next Token : up, Posbility: 0.0024
+Choose : uple,  Posbility: 0.9870
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple
+---------------------------
+Next Token : ), Posbility: 0.8899
+Next Token : )/, Posbility: 0.0521
+Next Token : [, Posbility: 0.0176
+Next Token : )-, Posbility: 0.0076
+Next Token : )+, Posbility: 0.0070
+Choose : ),  Posbility: 0.8899
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+---------------------------
+Next Token : 
+, Posbility: 0.5667
+Next Token : 
+
+, Posbility: 0.2349
+Next Token : <|endoftext|>, Posbility: 0.1194
+Next Token :  +, Posbility: 0.0318
+Next Token :  //, Posbility: 0.0070
+Choose : 
+,  Posbility: 0.5667
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+---------------------------
+Next Token : 
+, Posbility: 0.8527
+Next Token :     , Posbility: 0.0295
+Next Token : <|endoftext|>, Posbility: 0.0232
+Next Token : def, Posbility: 0.0217
+Next Token : print, Posbility: 0.0172
+Choose : 
+,  Posbility: 0.8527
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9723
+Next Token : <|endoftext|>, Posbility: 0.0130
+Next Token : 
+
+, Posbility: 0.0077
+Next Token :     , Posbility: 0.0044
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9723
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3998
+Next Token : def, Posbility: 0.2906
+Next Token : #, Posbility: 0.1741
+Next Token : if, Posbility: 0.0359
+Next Token : 
+, Posbility: 0.0229
+Choose : '',  Posbility: 0.3998
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8796
+Next Token :  Write, Posbility: 0.0178
+Next Token : 
+, Posbility: 0.0134
+Next Token : Con, Posbility: 0.0070
+Next Token : Create, Posbility: 0.0038
+Choose : Write,  Posbility: 0.8796
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9905
+Next Token :  your, Posbility: 0.0021
+Next Token :  an, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0011
+Next Token :  function, Posbility: 0.0010
+Choose :  a,  Posbility: 0.9905
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9734
+Next Token :  program, Posbility: 0.0048
+Next Token :  Python, Posbility: 0.0033
+Next Token :  python, Posbility: 0.0017
+Next Token :  recursive, Posbility: 0.0013
+Choose :  function,  Posbility: 0.9734
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6877
+Next Token :  that, Posbility: 0.2524
+Next Token :  named, Posbility: 0.0139
+Next Token :  which, Posbility: 0.0089
+Next Token :  called, Posbility: 0.0078
+Choose :  to,  Posbility: 0.6877
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to
+---------------------------
+Next Token :  convert, Posbility: 0.2830
+Next Token :  find, Posbility: 0.0962
+Next Token :  print, Posbility: 0.0857
+Next Token :  check, Posbility: 0.0366
+Next Token :  return, Posbility: 0.0358
+Choose :  convert,  Posbility: 0.2830
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert
+---------------------------
+Next Token :  a, Posbility: 0.8949
+Next Token :  an, Posbility: 0.0420
+Next Token :  the, Posbility: 0.0139
+Next Token :  all, Posbility: 0.0086
+Next Token :  two, Posbility: 0.0080
+Choose :  a,  Posbility: 0.8949
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a
+---------------------------
+Next Token :  given, Posbility: 0.7733
+Next Token :  tuple, Posbility: 0.0615
+Next Token :  list, Posbility: 0.0326
+Next Token :  single, Posbility: 0.0315
+Next Token :  dictionary, Posbility: 0.0216
+Choose :  given,  Posbility: 0.7733
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given
+---------------------------
+Next Token :  string, Posbility: 0.2435
+Next Token :  tuple, Posbility: 0.2175
+Next Token :  list, Posbility: 0.1282
+Next Token :  integer, Posbility: 0.0590
+Next Token :  positive, Posbility: 0.0391
+Choose :  string,  Posbility: 0.2435
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string
+---------------------------
+Next Token :  into, Posbility: 0.7299
+Next Token :  to, Posbility: 0.1313
+Next Token :  of, Posbility: 0.0736
+Next Token :  in, Posbility: 0.0080
+Next Token : ,, Posbility: 0.0044
+Choose :  into,  Posbility: 0.7299
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into
+---------------------------
+Next Token :  a, Posbility: 0.7881
+Next Token :  an, Posbility: 0.0926
+Next Token :  u, Posbility: 0.0166
+Next Token :  lower, Posbility: 0.0153
+Next Token :  upper, Posbility: 0.0064
+Choose :  a,  Posbility: 0.7881
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a
+---------------------------
+Next Token :  single, Posbility: 0.5594
+Next Token :  list, Posbility: 0.1050
+Next Token :  tuple, Posbility: 0.0911
+Next Token :  dictionary, Posbility: 0.0321
+Next Token :  given, Posbility: 0.0189
+Choose :  single,  Posbility: 0.5594
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a single
+---------------------------
+Next Token :  integer, Posbility: 0.3963
+Next Token :  string, Posbility: 0.2914
+Next Token :  character, Posbility: 0.1594
+Next Token :  letter, Posbility: 0.0702
+Next Token :  word, Posbility: 0.0238
+Choose :  integer,  Posbility: 0.3963
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a single integer
+---------------------------
+Next Token : .', Posbility: 0.9152
+Next Token : ., Posbility: 0.0411
+Next Token : '', Posbility: 0.0064
+Next Token :  using, Posbility: 0.0058
+Next Token : ,, Posbility: 0.0032
+Choose : .',  Posbility: 0.9152
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a single integer.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a single integer.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9793
+Next Token : 
+
+, Posbility: 0.0177
+Next Token :  , Posbility: 0.0010
+Next Token : def, Posbility: 0.0008
+Next Token :   , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9793
+---------------------------
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a single integer.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9685
+Next Token : 
+, Posbility: 0.0189
+Next Token : #, Posbility: 0.0068
+Next Token : import, Posbility: 0.0018
+Next Token : from, Posbility: 0.0009
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.556691408157349
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert a given tuple of positive integers into a single integer.'''
+def convert_tuple_to_int(tuple):
+    '''Convert a tuple of positive integers into a single integer.'''
+    return sum(tuple)
+
+
+'''Write a function to convert a given string into a single integer.'''
+

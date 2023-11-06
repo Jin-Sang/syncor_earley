@@ -1,0 +1,836 @@
+<<<<<<<<<<<< 188 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  is, Posbility: 0.2380
+Next Token :  check, Posbility: 0.1705
+Next Token :  same, Posbility: 0.1504
+Next Token :  string, Posbility: 0.0593
+Next Token :  starts, Posbility: 0.0409
+Choose :  is,  Posbility: 0.2380
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is
+---------------------------
+Next Token : _, Posbility: 0.6884
+Next Token : St, Posbility: 0.0793
+Next Token : Valid, Posbility: 0.0328
+Next Token : Start, Posbility: 0.0310
+Next Token : Same, Posbility: 0.0139
+Choose : _,  Posbility: 0.6884
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_
+---------------------------
+Next Token : same, Posbility: 0.2078
+Next Token : valid, Posbility: 0.1307
+Next Token : start, Posbility: 0.0912
+Next Token : string, Posbility: 0.0389
+Next Token : st, Posbility: 0.0354
+Choose : same,  Posbility: 0.2078
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same
+---------------------------
+Next Token : _, Posbility: 0.7192
+Next Token : (, Posbility: 0.2704
+Next Token : char, Posbility: 0.0025
+Next Token : Char, Posbility: 0.0013
+Next Token : Character, Posbility: 0.0012
+Choose : _,  Posbility: 0.7192
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_
+---------------------------
+Next Token : character, Posbility: 0.2952
+Next Token : char, Posbility: 0.2685
+Next Token : string, Posbility: 0.1712
+Next Token : sub, Posbility: 0.0210
+Next Token : ch, Posbility: 0.0203
+Choose : character,  Posbility: 0.2952
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character
+---------------------------
+Next Token : (, Posbility: 0.9468
+Next Token : _, Posbility: 0.0466
+Next Token :  (, Posbility: 0.0028
+Next Token : (*, Posbility: 0.0010
+Next Token : ():, Posbility: 0.0007
+Choose : (,  Posbility: 0.9468
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(
+---------------------------
+Next Token : string, Posbility: 0.3303
+Next Token : s, Posbility: 0.2372
+Next Token : str, Posbility: 0.1076
+Next Token : st, Posbility: 0.0694
+Next Token : input, Posbility: 0.0407
+Choose : string,  Posbility: 0.3303
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string
+---------------------------
+Next Token : ,, Posbility: 0.6654
+Next Token : ):, Posbility: 0.1639
+Next Token : 1, Posbility: 0.0927
+Next Token : _, Posbility: 0.0418
+Next Token : :, Posbility: 0.0302
+Choose : ,,  Posbility: 0.6654
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string,
+---------------------------
+Next Token :  char, Posbility: 0.3484
+Next Token :  character, Posbility: 0.1107
+Next Token : char, Posbility: 0.0428
+Next Token :  start, Posbility: 0.0289
+Next Token :  subst, Posbility: 0.0257
+Choose :  char,  Posbility: 0.3484
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char
+---------------------------
+Next Token : ):, Posbility: 0.8452
+Next Token : 1, Posbility: 0.0831
+Next Token : _, Posbility: 0.0375
+Next Token : ,, Posbility: 0.0169
+Next Token : =, Posbility: 0.0048
+Choose : ):,  Posbility: 0.8452
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+---------------------------
+Next Token : 
+, Posbility: 0.9420
+Next Token : 
+
+, Posbility: 0.0248
+Next Token : , Posbility: 0.0199
+Next Token :  , Posbility: 0.0065
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9420
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+
+---------------------------
+Next Token :     , Posbility: 0.9492
+Next Token :   , Posbility: 0.0276
+Next Token : 	, Posbility: 0.0163
+Next Token :    , Posbility: 0.0028
+Next Token :         , Posbility: 0.0015
+Choose :     ,  Posbility: 0.9492
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    
+---------------------------
+Next Token : if, Posbility: 0.3619
+Next Token : '', Posbility: 0.1813
+Next Token : return, Posbility: 0.1484
+Next Token : #, Posbility: 0.0488
+Next Token : for, Posbility: 0.0215
+Choose : if,  Posbility: 0.3619
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if
+---------------------------
+Next Token :  string, Posbility: 0.4507
+Next Token :  len, Posbility: 0.2772
+Next Token :  char, Posbility: 0.1171
+Next Token : (, Posbility: 0.0444
+Next Token :  (, Posbility: 0.0366
+Choose :  string,  Posbility: 0.4507
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string
+---------------------------
+Next Token : [, Posbility: 0.8028
+Next Token : ., Posbility: 0.1227
+Next Token :  ==, Posbility: 0.0495
+Next Token :  is, Posbility: 0.0074
+Next Token : ==, Posbility: 0.0052
+Choose : [,  Posbility: 0.8028
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[
+---------------------------
+Next Token : 0, Posbility: 0.8179
+Next Token : :, Posbility: 0.1489
+Next Token : -, Posbility: 0.0127
+Next Token : char, Posbility: 0.0042
+Next Token : :-, Posbility: 0.0036
+Choose : 0,  Posbility: 0.8179
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0
+---------------------------
+Next Token : ], Posbility: 0.6974
+Next Token : :, Posbility: 0.2790
+Next Token : ]., Posbility: 0.0167
+Next Token : ][, Posbility: 0.0014
+Next Token : :-, Posbility: 0.0011
+Choose : ],  Posbility: 0.6974
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0]
+---------------------------
+Next Token :  ==, Posbility: 0.8628
+Next Token : ==, Posbility: 0.0793
+Next Token : !=, Posbility: 0.0470
+Next Token :  is, Posbility: 0.0031
+Next Token : !, Posbility: 0.0024
+Choose :  ==,  Posbility: 0.8628
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] ==
+---------------------------
+Next Token :  char, Posbility: 0.9813
+Next Token :  string, Posbility: 0.0104
+Next Token :  ', Posbility: 0.0032
+Next Token :  str, Posbility: 0.0026
+Next Token :  ", Posbility: 0.0005
+Choose :  char,  Posbility: 0.9813
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char
+---------------------------
+Next Token : :, Posbility: 0.6259
+Next Token :  and, Posbility: 0.2240
+Next Token :  or, Posbility: 0.1327
+Next Token : [, Posbility: 0.0098
+Next Token :  :, Posbility: 0.0041
+Choose : :,  Posbility: 0.6259
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+---------------------------
+Next Token : 
+, Posbility: 0.9766
+Next Token :  return, Posbility: 0.0094
+Next Token :  , Posbility: 0.0049
+Next Token :  #, Posbility: 0.0030
+Next Token :   , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9766
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+
+---------------------------
+Next Token :         , Posbility: 0.9881
+Next Token :       , Posbility: 0.0042
+Next Token :             , Posbility: 0.0033
+Next Token :        , Posbility: 0.0020
+Next Token :     , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9881
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        
+---------------------------
+Next Token : return, Posbility: 0.6285
+Next Token : if, Posbility: 0.2432
+Next Token : for, Posbility: 0.0329
+Next Token : print, Posbility: 0.0307
+Next Token : string, Posbility: 0.0146
+Choose : return,  Posbility: 0.6285
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.7376
+Next Token :  1, Posbility: 0.0999
+Next Token :  is, Posbility: 0.0517
+Next Token :  string, Posbility: 0.0359
+Next Token :  ', Posbility: 0.0143
+Choose :  True,  Posbility: 0.7376
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9419
+Next Token : 
+
+, Posbility: 0.0442
+Next Token :  , Posbility: 0.0056
+Next Token :  if, Posbility: 0.0018
+Next Token :  #, Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9419
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9864
+Next Token : 
+, Posbility: 0.0068
+Next Token :         , Posbility: 0.0041
+Next Token : def, Posbility: 0.0005
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9864
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.4887
+Next Token : return, Posbility: 0.1658
+Next Token : el, Posbility: 0.1586
+Next Token : if, Posbility: 0.1525
+Next Token : for, Posbility: 0.0114
+Choose : else,  Posbility: 0.4887
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9918
+Next Token :  :, Posbility: 0.0080
+Next Token :  if, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9918
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9808
+Next Token :  , Posbility: 0.0103
+Next Token :  return, Posbility: 0.0068
+Next Token :  #, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9808
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9942
+Next Token :          , Posbility: 0.0018
+Next Token :        , Posbility: 0.0014
+Next Token :             , Posbility: 0.0010
+Next Token :       , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9942
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9223
+Next Token : if, Posbility: 0.0475
+Next Token : for, Posbility: 0.0125
+Next Token : print, Posbility: 0.0022
+Next Token : #, Posbility: 0.0012
+Choose : return,  Posbility: 0.9223
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9909
+Next Token :  is, Posbility: 0.0028
+Next Token :  string, Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Next Token :  (, Posbility: 0.0006
+Choose :  False,  Posbility: 0.9909
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7175
+Next Token : 
+
+, Posbility: 0.2441
+Next Token : <|endoftext|>, Posbility: 0.0231
+Next Token :  , Posbility: 0.0075
+Next Token :     , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.7175
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.7846
+Next Token :     , Posbility: 0.0546
+Next Token : def, Posbility: 0.0363
+Next Token : print, Posbility: 0.0265
+Next Token : #, Posbility: 0.0212
+Choose : 
+,  Posbility: 0.7846
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9630
+Next Token :     , Posbility: 0.0140
+Next Token : 
+
+, Posbility: 0.0124
+Next Token : <|endoftext|>, Posbility: 0.0069
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9630
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3247
+Next Token : def, Posbility: 0.2544
+Next Token : #, Posbility: 0.1318
+Next Token : print, Posbility: 0.1032
+Next Token : if, Posbility: 0.0460
+Choose : '',  Posbility: 0.3247
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7520
+Next Token : 
+, Posbility: 0.0373
+Next Token :  Write, Posbility: 0.0275
+Next Token : Check, Posbility: 0.0139
+Next Token : Given, Posbility: 0.0117
+Choose : Write,  Posbility: 0.7520
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9892
+Next Token :  your, Posbility: 0.0030
+Next Token :  an, Posbility: 0.0020
+Next Token :  function, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0015
+Choose :  a,  Posbility: 0.9892
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9541
+Next Token :  Python, Posbility: 0.0122
+Next Token :  program, Posbility: 0.0072
+Next Token :  python, Posbility: 0.0057
+Next Token :  Function, Posbility: 0.0032
+Choose :  function,  Posbility: 0.9541
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7438
+Next Token :  that, Posbility: 0.1867
+Next Token :  which, Posbility: 0.0370
+Next Token :  called, Posbility: 0.0070
+Next Token :  for, Posbility: 0.0041
+Choose :  to,  Posbility: 0.7438
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.1962
+Next Token :  find, Posbility: 0.0933
+Next Token :  count, Posbility: 0.0904
+Next Token :  print, Posbility: 0.0785
+Next Token :  get, Posbility: 0.0633
+Choose :  check,  Posbility: 0.1962
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8959
+Next Token :  if, Posbility: 0.0531
+Next Token :  the, Posbility: 0.0181
+Next Token :  for, Posbility: 0.0056
+Next Token :  string, Posbility: 0.0042
+Choose :  whether,  Posbility: 0.8959
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether
+---------------------------
+Next Token :  the, Posbility: 0.7931
+Next Token :  a, Posbility: 0.0769
+Next Token :  two, Posbility: 0.0224
+Next Token :  there, Posbility: 0.0194
+Next Token :  string, Posbility: 0.0133
+Choose :  the,  Posbility: 0.7931
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the
+---------------------------
+Next Token :  given, Posbility: 0.4775
+Next Token :  string, Posbility: 0.2233
+Next Token :  word, Posbility: 0.0846
+Next Token :  number, Posbility: 0.0219
+Next Token :  first, Posbility: 0.0212
+Choose :  given,  Posbility: 0.4775
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given
+---------------------------
+Next Token :  string, Posbility: 0.9589
+Next Token :  word, Posbility: 0.0091
+Next Token :  number, Posbility: 0.0063
+Next Token :  String, Posbility: 0.0016
+Next Token :  pattern, Posbility: 0.0014
+Choose :  string,  Posbility: 0.9589
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string
+---------------------------
+Next Token :  is, Posbility: 0.3313
+Next Token :  contains, Posbility: 0.2076
+Next Token :  ends, Posbility: 0.1704
+Next Token :  starts, Posbility: 0.1115
+Next Token :  has, Posbility: 0.0432
+Choose :  is,  Posbility: 0.3313
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is
+---------------------------
+Next Token :  a, Posbility: 0.3632
+Next Token :  pal, Posbility: 0.2217
+Next Token :  an, Posbility: 0.0471
+Next Token :  balanced, Posbility: 0.0437
+Next Token :  all, Posbility: 0.0324
+Choose :  a,  Posbility: 0.3632
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a
+---------------------------
+Next Token :  pal, Posbility: 0.5747
+Next Token :  perm, Posbility: 0.1958
+Next Token :  valid, Posbility: 0.1110
+Next Token :  p, Posbility: 0.0198
+Next Token :  rotation, Posbility: 0.0061
+Choose :  pal,  Posbility: 0.5747
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a pal
+---------------------------
+Next Token : ind, Posbility: 0.9882
+Next Token : id, Posbility: 0.0088
+Next Token : end, Posbility: 0.0006
+Next Token : in, Posbility: 0.0005
+Next Token : i, Posbility: 0.0001
+Choose : ind,  Posbility: 0.9882
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palind
+---------------------------
+Next Token : rome, Posbility: 0.9688
+Next Token : rom, Posbility: 0.0307
+Next Token : roma, Posbility: 0.0001
+Next Token : or, Posbility: 0.0000
+Next Token : rone, Posbility: 0.0000
+Choose : rome,  Posbility: 0.9688
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome
+---------------------------
+Next Token :  or, Posbility: 0.8862
+Next Token : .', Posbility: 0.0588
+Next Token : ., Posbility: 0.0306
+Next Token : '', Posbility: 0.0088
+Next Token : ,, Posbility: 0.0049
+Choose :  or,  Posbility: 0.8862
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome or
+---------------------------
+Next Token :  not, Posbility: 0.9967
+Next Token :  a, Posbility: 0.0006
+Next Token :  pal, Posbility: 0.0006
+Next Token :  is, Posbility: 0.0003
+Next Token :  no, Posbility: 0.0003
+Choose :  not,  Posbility: 0.9967
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome or not
+---------------------------
+Next Token : .', Posbility: 0.7847
+Next Token : ., Posbility: 0.1107
+Next Token : '', Posbility: 0.0696
+Next Token :  ', Posbility: 0.0066
+Next Token :  using, Posbility: 0.0055
+Choose : .',  Posbility: 0.7847
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome or not.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9350
+Next Token : 
+
+, Posbility: 0.0585
+Next Token :  , Posbility: 0.0026
+Next Token : def, Posbility: 0.0013
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9350
+---------------------------
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9215
+Next Token : 
+, Posbility: 0.0575
+Next Token : #, Posbility: 0.0129
+Next Token : '', Posbility: 0.0022
+Next Token : import, Posbility: 0.0016
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.766894340515137
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether the given string starts and ends with the same character or not.'''
+def is_same_character(string, char):
+    if string[0] == char:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given string is a palindrome or not.'''
+

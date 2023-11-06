@@ -1,0 +1,3815 @@
+<<<<<<<<<<<< 307 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.3511
+Next Token :  first, Posbility: 0.2582
+Next Token :  repeated, Posbility: 0.0605
+Next Token :  First, Posbility: 0.0292
+Next Token :  get, Posbility: 0.0283
+Choose :  find,  Posbility: 0.3511
+'''Write a python function to find the first repeated character in a given string.'''
+def find
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.5807
+Next Token : Repeat, Posbility: 0.1046
+Next Token : First, Posbility: 0.0915
+Next Token : Repe, Posbility: 0.0591
+Next Token : (, Posbility: 0.0206
+Choose : _,  Posbility: 0.5807
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_
+---------------------------
+Next Token : first, Posbility: 0.5573
+Next Token : repe, Posbility: 0.1804
+Next Token : repeat, Posbility: 0.0677
+Next Token : re, Posbility: 0.0306
+Next Token : rep, Posbility: 0.0223
+Choose : first,  Posbility: 0.5573
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first
+---------------------------
+Next Token : _, Posbility: 0.8831
+Next Token : (, Posbility: 0.0961
+Next Token : Repe, Posbility: 0.0043
+Next Token : ():, Posbility: 0.0024
+Next Token : repe, Posbility: 0.0020
+Choose : _,  Posbility: 0.8831
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_
+---------------------------
+Next Token : repe, Posbility: 0.6724
+Next Token : repeat, Posbility: 0.1147
+Next Token : re, Posbility: 0.0569
+Next Token : du, Posbility: 0.0266
+Next Token : rep, Posbility: 0.0222
+Choose : repe,  Posbility: 0.6724
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repe
+---------------------------
+Next Token : ated, Posbility: 0.8619
+Next Token : ating, Posbility: 0.0925
+Next Token : ate, Posbility: 0.0144
+Next Token : ater, Posbility: 0.0135
+Next Token : (, Posbility: 0.0034
+Choose : ated,  Posbility: 0.8619
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated
+---------------------------
+Next Token : _, Posbility: 0.5462
+Next Token : (, Posbility: 0.4369
+Next Token : Char, Posbility: 0.0049
+Next Token : ():, Posbility: 0.0032
+Next Token : char, Posbility: 0.0025
+Choose : _,  Posbility: 0.5462
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_
+---------------------------
+Next Token : char, Posbility: 0.7793
+Next Token : character, Posbility: 0.1225
+Next Token : in, Posbility: 0.0244
+Next Token : ch, Posbility: 0.0215
+Next Token : letter, Posbility: 0.0068
+Choose : char,  Posbility: 0.7793
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char
+---------------------------
+Next Token : (, Posbility: 0.9363
+Next Token : _, Posbility: 0.0351
+Next Token : ():, Posbility: 0.0085
+Next Token : acters, Posbility: 0.0057
+Next Token :  (, Posbility: 0.0052
+Choose : (,  Posbility: 0.9363
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(
+---------------------------
+Next Token : str, Posbility: 0.3250
+Next Token : string, Posbility: 0.3012
+Next Token : s, Posbility: 0.1466
+Next Token : input, Posbility: 0.0450
+Next Token : text, Posbility: 0.0320
+Choose : str,  Posbility: 0.3250
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str
+---------------------------
+Next Token : ):, Posbility: 0.7018
+Next Token : ,, Posbility: 0.1428
+Next Token : 1, Posbility: 0.0667
+Next Token : _, Posbility: 0.0347
+Next Token : :, Posbility: 0.0212
+Choose : ):,  Posbility: 0.7018
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+---------------------------
+Next Token : 
+, Posbility: 0.8988
+Next Token : 
+
+, Posbility: 0.0407
+Next Token : , Posbility: 0.0394
+Next Token :  , Posbility: 0.0138
+Next Token :   , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.8988
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+
+---------------------------
+Next Token :     , Posbility: 0.8823
+Next Token :   , Posbility: 0.0669
+Next Token : 	, Posbility: 0.0321
+Next Token :    , Posbility: 0.0096
+Next Token :         , Posbility: 0.0024
+Choose :     ,  Posbility: 0.8823
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    
+---------------------------
+Next Token : '', Posbility: 0.2130
+Next Token : #, Posbility: 0.1000
+Next Token : if, Posbility: 0.0537
+Next Token : count, Posbility: 0.0421
+Next Token : str, Posbility: 0.0359
+Choose : '',  Posbility: 0.2130
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''
+---------------------------
+Next Token : Find, Posbility: 0.1766
+Next Token : Write, Posbility: 0.1279
+Next Token : 
+, Posbility: 0.1228
+Next Token : Return, Posbility: 0.0598
+Next Token : This, Posbility: 0.0446
+Choose : Find,  Posbility: 0.1766
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find
+---------------------------
+Next Token :  the, Posbility: 0.6534
+Next Token : s, Posbility: 0.2309
+Next Token :  first, Posbility: 0.0673
+Next Token :  a, Posbility: 0.0094
+Next Token :  all, Posbility: 0.0085
+Choose :  the,  Posbility: 0.6534
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the
+---------------------------
+Next Token :  first, Posbility: 0.9322
+Next Token :  index, Posbility: 0.0108
+Next Token :  character, Posbility: 0.0061
+Next Token :  frequency, Posbility: 0.0060
+Next Token :  First, Posbility: 0.0030
+Choose :  first,  Posbility: 0.9322
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first
+---------------------------
+Next Token :  repeated, Posbility: 0.9466
+Next Token :  repeating, Posbility: 0.0145
+Next Token :  character, Posbility: 0.0055
+Next Token :  occurrence, Posbility: 0.0047
+Next Token :  non, Posbility: 0.0026
+Choose :  repeated,  Posbility: 0.9466
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated
+---------------------------
+Next Token :  character, Posbility: 0.8627
+Next Token :  char, Posbility: 0.0894
+Next Token :  letter, Posbility: 0.0122
+Next Token :  element, Posbility: 0.0093
+Next Token :  characters, Posbility: 0.0043
+Choose :  character,  Posbility: 0.8627
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character
+---------------------------
+Next Token :  in, Posbility: 0.7907
+Next Token :  of, Posbility: 0.0529
+Next Token : '', Posbility: 0.0296
+Next Token :  and, Posbility: 0.0249
+Next Token :  from, Posbility: 0.0131
+Choose :  in,  Posbility: 0.7907
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in
+---------------------------
+Next Token :  a, Posbility: 0.8699
+Next Token :  the, Posbility: 0.0522
+Next Token :  string, Posbility: 0.0292
+Next Token :  given, Posbility: 0.0248
+Next Token :  str, Posbility: 0.0129
+Choose :  a,  Posbility: 0.8699
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a
+---------------------------
+Next Token :  given, Posbility: 0.9231
+Next Token :  string, Posbility: 0.0695
+Next Token :  str, Posbility: 0.0015
+Next Token :  give, Posbility: 0.0011
+Next Token :  list, Posbility: 0.0003
+Choose :  given,  Posbility: 0.9231
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given
+---------------------------
+Next Token :  string, Posbility: 0.9856
+Next Token :  str, Posbility: 0.0075
+Next Token :  String, Posbility: 0.0011
+Next Token :  input, Posbility: 0.0009
+Next Token :  text, Posbility: 0.0009
+Choose :  string,  Posbility: 0.9856
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string
+---------------------------
+Next Token : .', Posbility: 0.4172
+Next Token : ., Posbility: 0.2949
+Next Token : '', Posbility: 0.1383
+Next Token :  and, Posbility: 0.0393
+Next Token : 
+, Posbility: 0.0194
+Choose : .',  Posbility: 0.4172
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'
+---------------------------
+Next Token : '', Posbility: 0.9971
+Next Token : 
+, Posbility: 0.0013
+Next Token : 
+
+, Posbility: 0.0008
+Next Token :  ', Posbility: 0.0003
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9971
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9225
+Next Token : 
+
+, Posbility: 0.0704
+Next Token :  , Posbility: 0.0046
+Next Token :     , Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9225
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9928
+Next Token :   , Posbility: 0.0015
+Next Token : 	, Posbility: 0.0011
+Next Token :         , Posbility: 0.0010
+Next Token :    , Posbility: 0.0008
+Choose :     ,  Posbility: 0.9928
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    
+---------------------------
+Next Token : #, Posbility: 0.0868
+Next Token : if, Posbility: 0.0812
+Next Token : for, Posbility: 0.0523
+Next Token : char, Posbility: 0.0508
+Next Token : count, Posbility: 0.0508
+Choose : #,  Posbility: 0.0868
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    #
+---------------------------
+Next Token :  Create, Posbility: 0.0446
+Next Token :  Initial, Posbility: 0.0248
+Next Token :  create, Posbility: 0.0243
+Next Token :  find, Posbility: 0.0222
+Next Token :  your, Posbility: 0.0203
+Choose :  Create,  Posbility: 0.0446
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create
+---------------------------
+Next Token :  a, Posbility: 0.5076
+Next Token :  an, Posbility: 0.2503
+Next Token :  the, Posbility: 0.0332
+Next Token :  empty, Posbility: 0.0329
+Next Token :  dictionary, Posbility: 0.0219
+Choose :  a,  Posbility: 0.5076
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a
+---------------------------
+Next Token :  dictionary, Posbility: 0.2139
+Next Token :  set, Posbility: 0.1328
+Next Token :  list, Posbility: 0.1075
+Next Token :  hash, Posbility: 0.0986
+Next Token :  variable, Posbility: 0.0576
+Choose :  dictionary,  Posbility: 0.2139
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary
+---------------------------
+Next Token :  to, Posbility: 0.4256
+Next Token :  of, Posbility: 0.1188
+Next Token :  with, Posbility: 0.0699
+Next Token : 
+, Posbility: 0.0597
+Next Token :  for, Posbility: 0.0548
+Choose :  to,  Posbility: 0.4256
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to
+---------------------------
+Next Token :  store, Posbility: 0.4119
+Next Token :  keep, Posbility: 0.1142
+Next Token :  hold, Posbility: 0.0709
+Next Token :  count, Posbility: 0.0585
+Next Token :  map, Posbility: 0.0576
+Choose :  store,  Posbility: 0.4119
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store
+---------------------------
+Next Token :  the, Posbility: 0.5214
+Next Token :  repeated, Posbility: 0.0760
+Next Token :  count, Posbility: 0.0337
+Next Token :  all, Posbility: 0.0319
+Next Token :  counts, Posbility: 0.0211
+Choose :  the,  Posbility: 0.5214
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the
+---------------------------
+Next Token :  frequency, Posbility: 0.0932
+Next Token :  repeated, Posbility: 0.0901
+Next Token :  characters, Posbility: 0.0805
+Next Token :  index, Posbility: 0.0774
+Next Token :  count, Posbility: 0.0638
+Choose :  frequency,  Posbility: 0.0932
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency
+---------------------------
+Next Token :  of, Posbility: 0.7191
+Next Token : 
+, Posbility: 0.1050
+Next Token : ., Posbility: 0.0296
+Next Token :  counts, Posbility: 0.0185
+Next Token :  count, Posbility: 0.0177
+Choose :  of,  Posbility: 0.7191
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of
+---------------------------
+Next Token :  each, Posbility: 0.5268
+Next Token :  the, Posbility: 0.1660
+Next Token :  characters, Posbility: 0.0644
+Next Token :  letters, Posbility: 0.0311
+Next Token :  repeated, Posbility: 0.0293
+Choose :  each,  Posbility: 0.5268
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each
+---------------------------
+Next Token :  character, Posbility: 0.7019
+Next Token :  letter, Posbility: 0.1100
+Next Token :  char, Posbility: 0.1024
+Next Token :  characters, Posbility: 0.0118
+Next Token :  symbol, Posbility: 0.0076
+Choose :  character,  Posbility: 0.7019
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+---------------------------
+Next Token : 
+, Posbility: 0.5185
+Next Token : ., Posbility: 0.2539
+Next Token :  in, Posbility: 0.1093
+Next Token :  and, Posbility: 0.0145
+Next Token : ,, Posbility: 0.0128
+Choose : 
+,  Posbility: 0.5185
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+
+---------------------------
+Next Token :     , Posbility: 0.9973
+Next Token : 	, Posbility: 0.0013
+Next Token :         , Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9973
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    
+---------------------------
+Next Token : fre, Posbility: 0.1859
+Next Token : char, Posbility: 0.1858
+Next Token : d, Posbility: 0.1193
+Next Token : frequency, Posbility: 0.1177
+Next Token : dict, Posbility: 0.0877
+Choose : fre,  Posbility: 0.1859
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    fre
+---------------------------
+Next Token : q, Posbility: 0.9658
+Next Token : qs, Posbility: 0.0196
+Next Token : _, Posbility: 0.0069
+Next Token :  =, Posbility: 0.0049
+Next Token : D, Posbility: 0.0003
+Choose : q,  Posbility: 0.9658
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq
+---------------------------
+Next Token :  =, Posbility: 0.5557
+Next Token : _, Posbility: 0.3877
+Next Token : D, Posbility: 0.0253
+Next Token : ={, Posbility: 0.0155
+Next Token : =, Posbility: 0.0034
+Choose :  =,  Posbility: 0.5557
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq =
+---------------------------
+Next Token :  {}, Posbility: 0.7983
+Next Token :  dict, Posbility: 0.1145
+Next Token :  {, Posbility: 0.0636
+Next Token :  collections, Posbility: 0.0043
+Next Token :  {", Posbility: 0.0034
+Choose :  {},  Posbility: 0.7983
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+---------------------------
+Next Token : 
+, Posbility: 0.8616
+Next Token : 
+
+, Posbility: 0.1073
+Next Token :  , Posbility: 0.0123
+Next Token :  #, Posbility: 0.0079
+Next Token :   , Posbility: 0.0046
+Choose : 
+,  Posbility: 0.8616
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+
+---------------------------
+Next Token :     , Posbility: 0.9922
+Next Token :  , Posbility: 0.0018
+Next Token :   , Posbility: 0.0014
+Next Token : 	, Posbility: 0.0012
+Next Token :         , Posbility: 0.0011
+Choose :     ,  Posbility: 0.9922
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    
+---------------------------
+Next Token : #, Posbility: 0.4573
+Next Token : for, Posbility: 0.3938
+Next Token : 
+, Posbility: 0.0700
+Next Token : count, Posbility: 0.0090
+Next Token : fre, Posbility: 0.0056
+Choose : #,  Posbility: 0.4573
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    #
+---------------------------
+Next Token :  Loop, Posbility: 0.3981
+Next Token :  Iter, Posbility: 0.1982
+Next Token :  Create, Posbility: 0.0731
+Next Token :  For, Posbility: 0.0384
+Next Token :  Initial, Posbility: 0.0265
+Choose :  Loop,  Posbility: 0.3981
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop
+---------------------------
+Next Token :  through, Posbility: 0.8361
+Next Token :  over, Posbility: 0.1272
+Next Token :  for, Posbility: 0.0085
+Next Token :  to, Posbility: 0.0074
+Next Token :  thru, Posbility: 0.0035
+Choose :  through,  Posbility: 0.8361
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through
+---------------------------
+Next Token :  the, Posbility: 0.5165
+Next Token :  each, Posbility: 0.2682
+Next Token :  string, Posbility: 0.0727
+Next Token :  every, Posbility: 0.0443
+Next Token :  all, Posbility: 0.0354
+Choose :  the,  Posbility: 0.5165
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the
+---------------------------
+Next Token :  string, Posbility: 0.5807
+Next Token :  characters, Posbility: 0.2148
+Next Token :  given, Posbility: 0.0915
+Next Token :  input, Posbility: 0.0192
+Next Token :  entire, Posbility: 0.0164
+Choose :  string,  Posbility: 0.5807
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+---------------------------
+Next Token : 
+, Posbility: 0.4482
+Next Token :  and, Posbility: 0.2894
+Next Token :  to, Posbility: 0.0631
+Next Token : ,, Posbility: 0.0602
+Next Token :  for, Posbility: 0.0223
+Choose : 
+,  Posbility: 0.4482
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+
+---------------------------
+Next Token :     , Posbility: 0.9991
+Next Token :         , Posbility: 0.0007
+Next Token : 	, Posbility: 0.0001
+Next Token :      , Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose :     ,  Posbility: 0.9991
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    
+---------------------------
+Next Token : for, Posbility: 0.9852
+Next Token : #, Posbility: 0.0070
+Next Token : i, Posbility: 0.0020
+Next Token : index, Posbility: 0.0006
+Next Token : while, Posbility: 0.0005
+Choose : for,  Posbility: 0.9852
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for
+---------------------------
+Next Token :  char, Posbility: 0.4639
+Next Token :  c, Posbility: 0.1568
+Next Token :  ch, Posbility: 0.1325
+Next Token :  i, Posbility: 0.1185
+Next Token :  letter, Posbility: 0.0366
+Choose :  char,  Posbility: 0.4639
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char
+---------------------------
+Next Token :  in, Posbility: 0.9982
+Next Token : _, Posbility: 0.0012
+Next Token : ,, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  in,  Posbility: 0.9982
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in
+---------------------------
+Next Token :  str, Posbility: 0.9756
+Next Token :  list, Posbility: 0.0072
+Next Token :  range, Posbility: 0.0055
+Next Token :  set, Posbility: 0.0040
+Next Token :  string, Posbility: 0.0019
+Choose :  str,  Posbility: 0.9756
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str
+---------------------------
+Next Token : :, Posbility: 0.9854
+Next Token : ., Posbility: 0.0101
+Next Token : [, Posbility: 0.0024
+Next Token :  :, Posbility: 0.0016
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9854
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+---------------------------
+Next Token : 
+, Posbility: 0.9872
+Next Token :  , Posbility: 0.0081
+Next Token : 
+
+, Posbility: 0.0017
+Next Token :  #, Posbility: 0.0013
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9872
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+
+---------------------------
+Next Token :         , Posbility: 0.9889
+Next Token :     , Posbility: 0.0041
+Next Token :       , Posbility: 0.0025
+Next Token :             , Posbility: 0.0015
+Next Token :        , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9889
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        
+---------------------------
+Next Token : #, Posbility: 0.6486
+Next Token : if, Posbility: 0.3149
+Next Token : fre, Posbility: 0.0200
+Next Token : try, Posbility: 0.0050
+Next Token : '', Posbility: 0.0033
+Choose : #,  Posbility: 0.6486
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        #
+---------------------------
+Next Token :  If, Posbility: 0.5188
+Next Token :  Check, Posbility: 0.1504
+Next Token :  Add, Posbility: 0.1131
+Next Token :  if, Posbility: 0.0351
+Next Token :  Incre, Posbility: 0.0110
+Choose :  If,  Posbility: 0.5188
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If
+---------------------------
+Next Token :  the, Posbility: 0.6652
+Next Token :  char, Posbility: 0.1298
+Next Token :  character, Posbility: 0.0444
+Next Token :  a, Posbility: 0.0245
+Next Token :  it, Posbility: 0.0236
+Choose :  the,  Posbility: 0.6652
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the
+---------------------------
+Next Token :  character, Posbility: 0.4354
+Next Token :  char, Posbility: 0.2685
+Next Token :  key, Posbility: 0.1215
+Next Token :  frequency, Posbility: 0.0398
+Next Token :  current, Posbility: 0.0349
+Choose :  character,  Posbility: 0.4354
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character
+---------------------------
+Next Token :  is, Posbility: 0.6713
+Next Token :  already, Posbility: 0.0600
+Next Token :  occurs, Posbility: 0.0399
+Next Token :  has, Posbility: 0.0390
+Next Token :  exists, Posbility: 0.0339
+Choose :  is,  Posbility: 0.6713
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is
+---------------------------
+Next Token :  already, Posbility: 0.3873
+Next Token :  not, Posbility: 0.2854
+Next Token :  in, Posbility: 0.1857
+Next Token :  a, Posbility: 0.0298
+Next Token :  present, Posbility: 0.0287
+Choose :  already,  Posbility: 0.3873
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already
+---------------------------
+Next Token :  in, Posbility: 0.6159
+Next Token :  present, Posbility: 0.1454
+Next Token :  there, Posbility: 0.0707
+Next Token :  stored, Posbility: 0.0537
+Next Token :  seen, Posbility: 0.0331
+Choose :  in,  Posbility: 0.6159
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in
+---------------------------
+Next Token :  the, Posbility: 0.8466
+Next Token :  dictionary, Posbility: 0.0928
+Next Token :  our, Posbility: 0.0182
+Next Token :  dict, Posbility: 0.0156
+Next Token :  fre, Posbility: 0.0083
+Choose :  the,  Posbility: 0.8466
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the
+---------------------------
+Next Token :  dictionary, Posbility: 0.9304
+Next Token :  dict, Posbility: 0.0232
+Next Token :  frequency, Posbility: 0.0182
+Next Token :  fre, Posbility: 0.0099
+Next Token :  d, Posbility: 0.0038
+Choose :  dictionary,  Posbility: 0.9304
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary
+---------------------------
+Next Token : ,, Posbility: 0.5679
+Next Token : 
+, Posbility: 0.2852
+Next Token :  then, Posbility: 0.0522
+Next Token :  add, Posbility: 0.0141
+Next Token :  (, Posbility: 0.0078
+Choose : ,,  Posbility: 0.5679
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary,
+---------------------------
+Next Token :  increment, Posbility: 0.3018
+Next Token :  add, Posbility: 0.1686
+Next Token :  increase, Posbility: 0.1230
+Next Token :  then, Posbility: 0.0836
+Next Token : 
+, Posbility: 0.0650
+Choose :  increment,  Posbility: 0.3018
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment
+---------------------------
+Next Token :  the, Posbility: 0.5051
+Next Token :  its, Posbility: 0.2943
+Next Token :  it, Posbility: 0.0576
+Next Token : 
+, Posbility: 0.0527
+Next Token :  count, Posbility: 0.0177
+Choose :  the,  Posbility: 0.5051
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the
+---------------------------
+Next Token :  frequency, Posbility: 0.4174
+Next Token :  count, Posbility: 0.2709
+Next Token :  value, Posbility: 0.1000
+Next Token :  counter, Posbility: 0.0616
+Next Token : 
+, Posbility: 0.0392
+Choose :  frequency,  Posbility: 0.4174
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+---------------------------
+Next Token : 
+, Posbility: 0.5860
+Next Token :  by, Posbility: 0.1309
+Next Token :  of, Posbility: 0.1079
+Next Token :  value, Posbility: 0.0693
+Next Token :  count, Posbility: 0.0216
+Choose : 
+,  Posbility: 0.5860
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+
+---------------------------
+Next Token :         , Posbility: 0.9988
+Next Token :             , Posbility: 0.0005
+Next Token :     , Posbility: 0.0002
+Next Token :        , Posbility: 0.0002
+Next Token :          , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9988
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        
+---------------------------
+Next Token : if, Posbility: 0.8907
+Next Token : #, Posbility: 0.0965
+Next Token : fre, Posbility: 0.0096
+Next Token : try, Posbility: 0.0013
+Next Token : '', Posbility: 0.0003
+Choose : if,  Posbility: 0.8907
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if
+---------------------------
+Next Token :  char, Posbility: 0.9852
+Next Token :  fre, Posbility: 0.0053
+Next Token :  str, Posbility: 0.0038
+Next Token :  (, Posbility: 0.0024
+Next Token : (, Posbility: 0.0015
+Choose :  char,  Posbility: 0.9852
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char
+---------------------------
+Next Token :  in, Posbility: 0.9895
+Next Token :  not, Posbility: 0.0068
+Next Token : ., Posbility: 0.0018
+Next Token :   , Posbility: 0.0011
+Next Token :  ==, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9895
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in
+---------------------------
+Next Token :  fre, Posbility: 0.9974
+Next Token :  str, Posbility: 0.0009
+Next Token :  list, Posbility: 0.0006
+Next Token :   , Posbility: 0.0004
+Next Token :  sorted, Posbility: 0.0001
+Choose :  fre,  Posbility: 0.9974
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in fre
+---------------------------
+Next Token : q, Posbility: 1.0000
+Next Token : qs, Posbility: 0.0000
+Next Token :  q, Posbility: 0.0000
+Next Token : Q, Posbility: 0.0000
+Next Token : que, Posbility: 0.0000
+Choose : q,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq
+---------------------------
+Next Token : :, Posbility: 0.9116
+Next Token : ., Posbility: 0.0833
+Next Token :  and, Posbility: 0.0043
+Next Token :  :, Posbility: 0.0005
+Next Token :  or, Posbility: 0.0002
+Choose : :,  Posbility: 0.9116
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+---------------------------
+Next Token : 
+, Posbility: 0.9917
+Next Token :  , Posbility: 0.0037
+Next Token :  fre, Posbility: 0.0032
+Next Token :   , Posbility: 0.0006
+Next Token :  #, Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9917
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+
+---------------------------
+Next Token :             , Posbility: 0.9962
+Next Token :            , Posbility: 0.0011
+Next Token :           , Posbility: 0.0008
+Next Token :                 , Posbility: 0.0007
+Next Token :         , Posbility: 0.0004
+Choose :             ,  Posbility: 0.9962
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            
+---------------------------
+Next Token : fre, Posbility: 0.9935
+Next Token : #, Posbility: 0.0055
+Next Token : if, Posbility: 0.0004
+Next Token : frequency, Posbility: 0.0001
+Next Token : cur, Posbility: 0.0001
+Choose : fre,  Posbility: 0.9935
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            fre
+---------------------------
+Next Token : q, Posbility: 1.0000
+Next Token : qs, Posbility: 0.0000
+Next Token :  q, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : Q, Posbility: 0.0000
+Choose : q,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq
+---------------------------
+Next Token : [, Posbility: 0.9982
+Next Token : ., Posbility: 0.0009
+Next Token :  [, Posbility: 0.0004
+Next Token :  =, Posbility: 0.0002
+Next Token : [', Posbility: 0.0001
+Choose : [,  Posbility: 0.9982
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[
+---------------------------
+Next Token : char, Posbility: 0.9994
+Next Token : str, Posbility: 0.0003
+Next Token : ch, Posbility: 0.0002
+Next Token :  char, Posbility: 0.0000
+Next Token : ord, Posbility: 0.0000
+Choose : char,  Posbility: 0.9994
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char
+---------------------------
+Next Token : ], Posbility: 0.9993
+Next Token : ]=, Posbility: 0.0004
+Next Token : ]+, Posbility: 0.0002
+Next Token : ][, Posbility: 0.0001
+Next Token : ]., Posbility: 0.0000
+Choose : ],  Posbility: 0.9993
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char]
+---------------------------
+Next Token :  +=, Posbility: 0.9104
+Next Token :  =, Posbility: 0.0697
+Next Token : +=, Posbility: 0.0195
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  +=,  Posbility: 0.9104
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] +=
+---------------------------
+Next Token :  1, Posbility: 0.9905
+Next Token : 1, Posbility: 0.0092
+Next Token :  2, Posbility: 0.0001
+Next Token :  fre, Posbility: 0.0001
+Next Token :  str, Posbility: 0.0001
+Choose :  1,  Posbility: 0.9905
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9830
+Next Token :  , Posbility: 0.0045
+Next Token : 
+
+, Posbility: 0.0039
+Next Token :  #, Posbility: 0.0029
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9830
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+
+---------------------------
+Next Token :         , Posbility: 0.9731
+Next Token :             , Posbility: 0.0207
+Next Token :     , Posbility: 0.0032
+Next Token : #, Posbility: 0.0026
+Next Token :        , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9731
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        
+---------------------------
+Next Token : #, Posbility: 0.8373
+Next Token : else, Posbility: 0.1602
+Next Token : 
+, Posbility: 0.0012
+Next Token : el, Posbility: 0.0005
+Next Token : fre, Posbility: 0.0003
+Choose : #,  Posbility: 0.8373
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        #
+---------------------------
+Next Token :  If, Posbility: 0.5794
+Next Token :  Otherwise, Posbility: 0.1772
+Next Token :  Else, Posbility: 0.1771
+Next Token :  else, Posbility: 0.0144
+Next Token :  Add, Posbility: 0.0107
+Choose :  If,  Posbility: 0.5794
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If
+---------------------------
+Next Token :  the, Posbility: 0.4895
+Next Token :  it, Posbility: 0.3167
+Next Token :  not, Posbility: 0.1455
+Next Token :  character, Posbility: 0.0128
+Next Token :  there, Posbility: 0.0096
+Choose :  the,  Posbility: 0.4895
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the
+---------------------------
+Next Token :  character, Posbility: 0.9548
+Next Token :  char, Posbility: 0.0130
+Next Token :  frequency, Posbility: 0.0062
+Next Token :  characters, Posbility: 0.0034
+Next Token :  current, Posbility: 0.0030
+Choose :  character,  Posbility: 0.9548
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character
+---------------------------
+Next Token :  is, Posbility: 0.8453
+Next Token :  isn, Posbility: 0.0721
+Next Token :  does, Posbility: 0.0289
+Next Token :  doesn, Posbility: 0.0173
+Next Token :  has, Posbility: 0.0163
+Choose :  is,  Posbility: 0.8453
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is
+---------------------------
+Next Token :  not, Posbility: 0.8902
+Next Token :  NOT, Posbility: 0.0304
+Next Token :  new, Posbility: 0.0231
+Next Token :  a, Posbility: 0.0163
+Next Token : nt, Posbility: 0.0125
+Choose :  not,  Posbility: 0.8902
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not
+---------------------------
+Next Token :  in, Posbility: 0.7815
+Next Token :  already, Posbility: 0.0994
+Next Token : ,, Posbility: 0.0390
+Next Token :  yet, Posbility: 0.0230
+Next Token :  a, Posbility: 0.0164
+Choose :  in,  Posbility: 0.7815
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in
+---------------------------
+Next Token :  the, Posbility: 0.9688
+Next Token :  dictionary, Posbility: 0.0251
+Next Token :  dict, Posbility: 0.0014
+Next Token :  a, Posbility: 0.0010
+Next Token :  our, Posbility: 0.0009
+Choose :  the,  Posbility: 0.9688
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the
+---------------------------
+Next Token :  dictionary, Posbility: 0.9878
+Next Token :  dict, Posbility: 0.0058
+Next Token :  frequency, Posbility: 0.0016
+Next Token :  d, Posbility: 0.0012
+Next Token :  list, Posbility: 0.0007
+Choose :  dictionary,  Posbility: 0.9878
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary
+---------------------------
+Next Token : ,, Posbility: 0.9402
+Next Token : 
+, Posbility: 0.0271
+Next Token :  yet, Posbility: 0.0131
+Next Token :  add, Posbility: 0.0027
+Next Token :  (, Posbility: 0.0020
+Choose : ,,  Posbility: 0.9402
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary,
+---------------------------
+Next Token :  add, Posbility: 0.3825
+Next Token :  set, Posbility: 0.1572
+Next Token :  create, Posbility: 0.1158
+Next Token :  initialize, Posbility: 0.0570
+Next Token :  increment, Posbility: 0.0492
+Choose :  add,  Posbility: 0.3825
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add
+---------------------------
+Next Token :  it, Posbility: 0.7090
+Next Token :  the, Posbility: 0.2223
+Next Token :  a, Posbility: 0.0317
+Next Token :  to, Posbility: 0.0129
+Next Token :  that, Posbility: 0.0043
+Choose :  it,  Posbility: 0.7090
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it
+---------------------------
+Next Token :  to, Posbility: 0.5185
+Next Token : 
+, Posbility: 0.2091
+Next Token :  and, Posbility: 0.1271
+Next Token :  with, Posbility: 0.0556
+Next Token :  as, Posbility: 0.0272
+Choose :  to,  Posbility: 0.5185
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to
+---------------------------
+Next Token :  the, Posbility: 0.9638
+Next Token :  dictionary, Posbility: 0.0109
+Next Token :  a, Posbility: 0.0086
+Next Token :  its, Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0025
+Choose :  the,  Posbility: 0.9638
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the
+---------------------------
+Next Token :  dictionary, Posbility: 0.9189
+Next Token :  frequency, Posbility: 0.0341
+Next Token :  dict, Posbility: 0.0091
+Next Token :  list, Posbility: 0.0090
+Next Token : 
+, Posbility: 0.0039
+Choose :  dictionary,  Posbility: 0.9189
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+---------------------------
+Next Token : 
+, Posbility: 0.7996
+Next Token :  and, Posbility: 0.0945
+Next Token :  with, Posbility: 0.0491
+Next Token : ,, Posbility: 0.0158
+Next Token : ., Posbility: 0.0132
+Choose : 
+,  Posbility: 0.7996
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+
+---------------------------
+Next Token :         , Posbility: 0.9992
+Next Token :     , Posbility: 0.0004
+Next Token :             , Posbility: 0.0003
+Next Token : #, Posbility: 0.0000
+Next Token :          , Posbility: 0.0000
+Choose :         ,  Posbility: 0.9992
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        
+---------------------------
+Next Token : else, Posbility: 0.9900
+Next Token : #, Posbility: 0.0062
+Next Token : el, Posbility: 0.0033
+Next Token : if, Posbility: 0.0005
+Next Token : fre, Posbility: 0.0000
+Choose : else,  Posbility: 0.9900
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else
+---------------------------
+Next Token : :, Posbility: 0.9990
+Next Token :  :, Posbility: 0.0008
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9990
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+---------------------------
+Next Token : 
+, Posbility: 0.9898
+Next Token :  , Posbility: 0.0073
+Next Token :  fre, Posbility: 0.0018
+Next Token :   , Posbility: 0.0004
+Next Token :  #, Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9898
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+
+---------------------------
+Next Token :             , Posbility: 0.9986
+Next Token :            , Posbility: 0.0003
+Next Token :              , Posbility: 0.0003
+Next Token :                 , Posbility: 0.0002
+Next Token :           , Posbility: 0.0001
+Choose :             ,  Posbility: 0.9986
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            
+---------------------------
+Next Token : fre, Posbility: 0.9796
+Next Token : #, Posbility: 0.0197
+Next Token : if, Posbility: 0.0001
+Next Token : frequency, Posbility: 0.0001
+Next Token : print, Posbility: 0.0001
+Choose : fre,  Posbility: 0.9796
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            fre
+---------------------------
+Next Token : q, Posbility: 1.0000
+Next Token :  q, Posbility: 0.0000
+Next Token : Q, Posbility: 0.0000
+Next Token : qs, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : q,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq
+---------------------------
+Next Token : [, Posbility: 0.9989
+Next Token : ., Posbility: 0.0009
+Next Token :  [, Posbility: 0.0001
+Next Token : [', Posbility: 0.0001
+Next Token :  =, Posbility: 0.0000
+Choose : [,  Posbility: 0.9989
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[
+---------------------------
+Next Token : char, Posbility: 0.9999
+Next Token : ch, Posbility: 0.0001
+Next Token : str, Posbility: 0.0000
+Next Token :  char, Posbility: 0.0000
+Next Token : character, Posbility: 0.0000
+Choose : char,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char
+---------------------------
+Next Token : ], Posbility: 0.9989
+Next Token : ]=, Posbility: 0.0010
+Next Token :  ], Posbility: 0.0000
+Next Token : ];, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : ],  Posbility: 0.9989
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char]
+---------------------------
+Next Token :  =, Posbility: 0.9997
+Next Token :   , Posbility: 0.0001
+Next Token :  +=, Posbility: 0.0001
+Next Token :  ==, Posbility: 0.0001
+Next Token : =, Posbility: 0.0000
+Choose :  =,  Posbility: 0.9997
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] =
+---------------------------
+Next Token :  1, Posbility: 0.9709
+Next Token :  0, Posbility: 0.0257
+Next Token :  str, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0006
+Next Token :  char, Posbility: 0.0006
+Choose :  1,  Posbility: 0.9709
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+---------------------------
+Next Token : 
+, Posbility: 0.8110
+Next Token : 
+
+, Posbility: 0.1739
+Next Token :  , Posbility: 0.0036
+Next Token :  #, Posbility: 0.0026
+Next Token :   , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.8110
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+
+---------------------------
+Next Token :     , Posbility: 0.9184
+Next Token :             , Posbility: 0.0400
+Next Token :         , Posbility: 0.0305
+Next Token : #, Posbility: 0.0057
+Next Token : 
+, Posbility: 0.0025
+Choose :     ,  Posbility: 0.9184
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    
+---------------------------
+Next Token : #, Posbility: 0.9283
+Next Token : 
+, Posbility: 0.0372
+Next Token : for, Posbility: 0.0072
+Next Token : '', Posbility: 0.0049
+Next Token : return, Posbility: 0.0043
+Choose : #,  Posbility: 0.9283
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    #
+---------------------------
+Next Token :  Find, Posbility: 0.2798
+Next Token :  Return, Posbility: 0.2534
+Next Token :  Get, Posbility: 0.0767
+Next Token :  Loop, Posbility: 0.0426
+Next Token :  If, Posbility: 0.0348
+Choose :  Find,  Posbility: 0.2798
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find
+---------------------------
+Next Token :  the, Posbility: 0.9131
+Next Token :  and, Posbility: 0.0268
+Next Token :  first, Posbility: 0.0141
+Next Token :  out, Posbility: 0.0072
+Next Token :  which, Posbility: 0.0070
+Choose :  the,  Posbility: 0.9131
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the
+---------------------------
+Next Token :  first, Posbility: 0.7542
+Next Token :  character, Posbility: 0.1137
+Next Token :  key, Posbility: 0.0249
+Next Token :  frequency, Posbility: 0.0173
+Next Token :  index, Posbility: 0.0147
+Choose :  first,  Posbility: 0.7542
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first
+---------------------------
+Next Token :  repeated, Posbility: 0.4410
+Next Token :  character, Posbility: 0.2668
+Next Token :  repeating, Posbility: 0.0680
+Next Token :  occurrence, Posbility: 0.0293
+Next Token :  occur, Posbility: 0.0215
+Choose :  repeated,  Posbility: 0.4410
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated
+---------------------------
+Next Token :  character, Posbility: 0.9346
+Next Token :  char, Posbility: 0.0226
+Next Token :  element, Posbility: 0.0134
+Next Token :  letter, Posbility: 0.0104
+Next Token :  item, Posbility: 0.0022
+Choose :  character,  Posbility: 0.9346
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+---------------------------
+Next Token : 
+, Posbility: 0.6022
+Next Token :  in, Posbility: 0.1893
+Next Token :  and, Posbility: 0.0876
+Next Token : ,, Posbility: 0.0196
+Next Token :  using, Posbility: 0.0129
+Choose : 
+,  Posbility: 0.6022
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+
+---------------------------
+Next Token :     , Posbility: 0.9995
+Next Token :         , Posbility: 0.0003
+Next Token :             , Posbility: 0.0000
+Next Token :    , Posbility: 0.0000
+Next Token :      , Posbility: 0.0000
+Choose :     ,  Posbility: 0.9995
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    
+---------------------------
+Next Token : for, Posbility: 0.3133
+Next Token : first, Posbility: 0.3017
+Next Token : return, Posbility: 0.1231
+Next Token : #, Posbility: 0.0502
+Next Token : repe, Posbility: 0.0282
+Choose : for,  Posbility: 0.3133
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for
+---------------------------
+Next Token :  char, Posbility: 0.5078
+Next Token :  key, Posbility: 0.2959
+Next Token :  k, Posbility: 0.0472
+Next Token :  i, Posbility: 0.0398
+Next Token :  character, Posbility: 0.0174
+Choose :  char,  Posbility: 0.5078
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char
+---------------------------
+Next Token :  in, Posbility: 0.6243
+Next Token : ,, Posbility: 0.3685
+Next Token : _, Posbility: 0.0045
+Next Token : 1, Posbility: 0.0008
+Next Token : 2, Posbility: 0.0007
+Choose :  in,  Posbility: 0.6243
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in
+---------------------------
+Next Token :  fre, Posbility: 0.7526
+Next Token :  str, Posbility: 0.1464
+Next Token :  list, Posbility: 0.0497
+Next Token :  sorted, Posbility: 0.0337
+Next Token :  dict, Posbility: 0.0028
+Choose :  fre,  Posbility: 0.7526
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in fre
+---------------------------
+Next Token : q, Posbility: 1.0000
+Next Token : qs, Posbility: 0.0000
+Next Token :  q, Posbility: 0.0000
+Next Token : f, Posbility: 0.0000
+Next Token : Q, Posbility: 0.0000
+Choose : q,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq
+---------------------------
+Next Token : :, Posbility: 0.8925
+Next Token : ., Posbility: 0.1067
+Next Token : :#, Posbility: 0.0005
+Next Token :  :, Posbility: 0.0002
+Next Token :  and, Posbility: 0.0000
+Choose : :,  Posbility: 0.8925
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+---------------------------
+Next Token : 
+, Posbility: 0.9965
+Next Token :  , Posbility: 0.0010
+Next Token :  #, Posbility: 0.0010
+Next Token :   , Posbility: 0.0006
+Next Token : 
+
+, Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9965
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+
+---------------------------
+Next Token :         , Posbility: 0.9954
+Next Token :             , Posbility: 0.0014
+Next Token :     , Posbility: 0.0011
+Next Token :       , Posbility: 0.0007
+Next Token :        , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9954
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        
+---------------------------
+Next Token : if, Posbility: 0.8510
+Next Token : #, Posbility: 0.1309
+Next Token : print, Posbility: 0.0038
+Next Token : for, Posbility: 0.0025
+Next Token : return, Posbility: 0.0015
+Choose : if,  Posbility: 0.8510
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if
+---------------------------
+Next Token :  fre, Posbility: 0.9822
+Next Token :  char, Posbility: 0.0047
+Next Token :  (, Posbility: 0.0044
+Next Token :  str, Posbility: 0.0034
+Next Token : (, Posbility: 0.0020
+Choose :  fre,  Posbility: 0.9822
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if fre
+---------------------------
+Next Token : q, Posbility: 1.0000
+Next Token : qs, Posbility: 0.0000
+Next Token : Q, Posbility: 0.0000
+Next Token : qv, Posbility: 0.0000
+Next Token :  q, Posbility: 0.0000
+Choose : q,  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq
+---------------------------
+Next Token : [, Posbility: 0.9960
+Next Token : ., Posbility: 0.0033
+Next Token :  [, Posbility: 0.0006
+Next Token :  ==, Posbility: 0.0001
+Next Token : (, Posbility: 0.0000
+Choose : [,  Posbility: 0.9960
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[
+---------------------------
+Next Token : char, Posbility: 0.9997
+Next Token : str, Posbility: 0.0002
+Next Token : ch, Posbility: 0.0001
+Next Token : fre, Posbility: 0.0000
+Next Token :  char, Posbility: 0.0000
+Choose : char,  Posbility: 0.9997
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char
+---------------------------
+Next Token : ], Posbility: 0.9992
+Next Token : ]:, Posbility: 0.0005
+Next Token : ]-, Posbility: 0.0002
+Next Token : ]+, Posbility: 0.0001
+Next Token :  ], Posbility: 0.0000
+Choose : ],  Posbility: 0.9992
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char]
+---------------------------
+Next Token :  ==, Posbility: 0.5640
+Next Token :  >, Posbility: 0.3828
+Next Token : !=, Posbility: 0.0226
+Next Token :  >=, Posbility: 0.0213
+Next Token : >, Posbility: 0.0029
+Choose :  ==,  Posbility: 0.5640
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] ==
+---------------------------
+Next Token :  1, Posbility: 0.7816
+Next Token :  fre, Posbility: 0.0922
+Next Token :  2, Posbility: 0.0918
+Next Token :  len, Posbility: 0.0152
+Next Token :  0, Posbility: 0.0061
+Choose :  1,  Posbility: 0.7816
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1
+---------------------------
+Next Token : :, Posbility: 0.9976
+Next Token :  and, Posbility: 0.0017
+Next Token :  :, Posbility: 0.0005
+Next Token :  or, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9976
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9904
+Next Token :  return, Posbility: 0.0053
+Next Token :  , Posbility: 0.0017
+Next Token :  #, Posbility: 0.0011
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9904
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+
+---------------------------
+Next Token :             , Posbility: 0.9978
+Next Token :            , Posbility: 0.0007
+Next Token :              , Posbility: 0.0005
+Next Token :                 , Posbility: 0.0005
+Next Token :           , Posbility: 0.0001
+Choose :             ,  Posbility: 0.9978
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            
+---------------------------
+Next Token : return, Posbility: 0.8671
+Next Token : #, Posbility: 0.0400
+Next Token : print, Posbility: 0.0269
+Next Token : first, Posbility: 0.0269
+Next Token : break, Posbility: 0.0125
+Choose : return,  Posbility: 0.8671
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return
+---------------------------
+Next Token :  char, Posbility: 0.9795
+Next Token :  str, Posbility: 0.0059
+Next Token : (, Posbility: 0.0039
+Next Token :  (, Posbility: 0.0038
+Next Token :  ch, Posbility: 0.0018
+Choose :  char,  Posbility: 0.9795
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+---------------------------
+Next Token : 
+, Posbility: 0.8625
+Next Token : 
+
+, Posbility: 0.0788
+Next Token : <|endoftext|>, Posbility: 0.0396
+Next Token :  #, Posbility: 0.0062
+Next Token :  , Posbility: 0.0046
+Choose : 
+,  Posbility: 0.8625
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+
+---------------------------
+Next Token :     , Posbility: 0.5548
+Next Token : 
+, Posbility: 0.2745
+Next Token :         , Posbility: 0.0612
+Next Token : #, Posbility: 0.0325
+Next Token : <|endoftext|>, Posbility: 0.0275
+Choose :     ,  Posbility: 0.5548
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    
+---------------------------
+Next Token : #, Posbility: 0.5302
+Next Token : return, Posbility: 0.3334
+Next Token : 
+, Posbility: 0.0759
+Next Token : else, Posbility: 0.0198
+Next Token : raise, Posbility: 0.0129
+Choose : #,  Posbility: 0.5302
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    #
+---------------------------
+Next Token :  Return, Posbility: 0.3338
+Next Token :  If, Posbility: 0.3295
+Next Token :  No, Posbility: 0.0492
+Next Token :  return, Posbility: 0.0433
+Next Token :  Otherwise, Posbility: 0.0138
+Choose :  Return,  Posbility: 0.3338
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return
+---------------------------
+Next Token :  -, Posbility: 0.2522
+Next Token :  the, Posbility: 0.1769
+Next Token :  None, Posbility: 0.1621
+Next Token :  none, Posbility: 0.0787
+Next Token :  an, Posbility: 0.0653
+Choose :  -,  Posbility: 0.2522
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -
+---------------------------
+Next Token : 1, Posbility: 0.9897
+Next Token :  1, Posbility: 0.0049
+Next Token : 2, Posbility: 0.0005
+Next Token :  (, Posbility: 0.0004
+Next Token :  no, Posbility: 0.0003
+Choose : 1,  Posbility: 0.9897
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1
+---------------------------
+Next Token :  if, Posbility: 0.6521
+Next Token : 
+, Posbility: 0.2212
+Next Token :  when, Posbility: 0.0209
+Next Token :  as, Posbility: 0.0149
+Next Token : ,, Posbility: 0.0119
+Choose :  if,  Posbility: 0.6521
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if
+---------------------------
+Next Token :  there, Posbility: 0.3548
+Next Token :  the, Posbility: 0.2431
+Next Token :  no, Posbility: 0.1824
+Next Token :  not, Posbility: 0.0554
+Next Token :  it, Posbility: 0.0331
+Choose :  there,  Posbility: 0.3548
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there
+---------------------------
+Next Token :  is, Posbility: 0.5158
+Next Token :  are, Posbility: 0.2183
+Next Token :  was, Posbility: 0.1223
+Next Token : 's, Posbility: 0.0459
+Next Token :  were, Posbility: 0.0368
+Choose :  is,  Posbility: 0.5158
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is
+---------------------------
+Next Token :  no, Posbility: 0.9300
+Next Token :  not, Posbility: 0.0344
+Next Token :  nothing, Posbility: 0.0141
+Next Token :  none, Posbility: 0.0065
+Next Token :  a, Posbility: 0.0048
+Choose :  no,  Posbility: 0.9300
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no
+---------------------------
+Next Token :  repeated, Posbility: 0.4122
+Next Token :  first, Posbility: 0.1517
+Next Token :  repeating, Posbility: 0.1356
+Next Token :  such, Posbility: 0.0373
+Next Token :  repeat, Posbility: 0.0286
+Choose :  repeated,  Posbility: 0.4122
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated
+---------------------------
+Next Token :  character, Posbility: 0.9317
+Next Token :  characters, Posbility: 0.0275
+Next Token :  char, Posbility: 0.0121
+Next Token :  letter, Posbility: 0.0046
+Next Token : 
+, Posbility: 0.0031
+Choose :  character,  Posbility: 0.9317
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+---------------------------
+Next Token : 
+, Posbility: 0.8046
+Next Token :  in, Posbility: 0.0530
+Next Token : 
+
+, Posbility: 0.0440
+Next Token : ., Posbility: 0.0288
+Next Token :  found, Posbility: 0.0096
+Choose : 
+,  Posbility: 0.8046
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+
+---------------------------
+Next Token :     , Posbility: 0.9975
+Next Token : 
+, Posbility: 0.0017
+Next Token :         , Posbility: 0.0003
+Next Token : <|endoftext|>, Posbility: 0.0002
+Next Token : #, Posbility: 0.0001
+Choose :     ,  Posbility: 0.9975
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    
+---------------------------
+Next Token : return, Posbility: 0.9699
+Next Token : #, Posbility: 0.0161
+Next Token : else, Posbility: 0.0035
+Next Token : if, Posbility: 0.0034
+Next Token : print, Posbility: 0.0030
+Choose : return,  Posbility: 0.9699
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return
+---------------------------
+Next Token :  -, Posbility: 0.9759
+Next Token :  find, Posbility: 0.0148
+Next Token :  ', Posbility: 0.0031
+Next Token :  "-, Posbility: 0.0018
+Next Token :  (-, Posbility: 0.0011
+Choose :  -,  Posbility: 0.9759
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -
+---------------------------
+Next Token : 1, Posbility: 0.9978
+Next Token :  1, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : 100, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9978
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+---------------------------
+Next Token : 
+, Posbility: 0.6121
+Next Token : 
+
+, Posbility: 0.3019
+Next Token : <|endoftext|>, Posbility: 0.0657
+Next Token :  if, Posbility: 0.0046
+Next Token :  , Posbility: 0.0044
+Choose : 
+,  Posbility: 0.6121
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+---------------------------
+Next Token : 
+, Posbility: 0.7365
+Next Token :     , Posbility: 0.0682
+Next Token : <|endoftext|>, Posbility: 0.0506
+Next Token : #, Posbility: 0.0431
+Next Token : '', Posbility: 0.0225
+Choose : 
+,  Posbility: 0.7365
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9301
+Next Token :     , Posbility: 0.0304
+Next Token : 
+
+, Posbility: 0.0210
+Next Token : <|endoftext|>, Posbility: 0.0119
+Next Token :         , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9301
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4476
+Next Token : #, Posbility: 0.1956
+Next Token : if, Posbility: 0.0869
+Next Token : print, Posbility: 0.0776
+Next Token : def, Posbility: 0.0751
+Choose : '',  Posbility: 0.4476
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8893
+Next Token : 
+, Posbility: 0.0192
+Next Token :  Write, Posbility: 0.0155
+Next Token : Find, Posbility: 0.0082
+Next Token : Test, Posbility: 0.0046
+Choose : Write,  Posbility: 0.8893
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9880
+Next Token :  your, Posbility: 0.0043
+Next Token :  an, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0011
+Next Token :  another, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9880
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9529
+Next Token :  function, Posbility: 0.0216
+Next Token :  Python, Posbility: 0.0153
+Next Token :  program, Posbility: 0.0021
+Next Token :  script, Posbility: 0.0006
+Choose :  python,  Posbility: 0.9529
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9711
+Next Token :  program, Posbility: 0.0182
+Next Token :  script, Posbility: 0.0023
+Next Token :  code, Posbility: 0.0012
+Next Token :  fun, Posbility: 0.0010
+Choose :  function,  Posbility: 0.9711
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8843
+Next Token :  that, Posbility: 0.0869
+Next Token :  which, Posbility: 0.0071
+Next Token :  called, Posbility: 0.0023
+Next Token :  for, Posbility: 0.0022
+Choose :  to,  Posbility: 0.8843
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.3929
+Next Token :  count, Posbility: 0.0812
+Next Token :  print, Posbility: 0.0713
+Next Token :  check, Posbility: 0.0661
+Next Token :  reverse, Posbility: 0.0370
+Choose :  find,  Posbility: 0.3929
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.9184
+Next Token :  all, Posbility: 0.0381
+Next Token :  a, Posbility: 0.0054
+Next Token :  number, Posbility: 0.0024
+Next Token :  and, Posbility: 0.0024
+Choose :  the,  Posbility: 0.9184
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  first, Posbility: 0.1763
+Next Token :  longest, Posbility: 0.1096
+Next Token :  last, Posbility: 0.0792
+Next Token :  second, Posbility: 0.0686
+Next Token :  number, Posbility: 0.0576
+Choose :  first,  Posbility: 0.1763
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first
+---------------------------
+Next Token :  repeated, Posbility: 0.8418
+Next Token :  occurrence, Posbility: 0.0388
+Next Token :  repeating, Posbility: 0.0083
+Next Token :  non, Posbility: 0.0083
+Next Token :  occ, Posbility: 0.0073
+Choose :  repeated,  Posbility: 0.8418
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated
+---------------------------
+Next Token :  character, Posbility: 0.9089
+Next Token :  word, Posbility: 0.0299
+Next Token :  characters, Posbility: 0.0105
+Next Token :  letter, Posbility: 0.0091
+Next Token :  char, Posbility: 0.0089
+Choose :  character,  Posbility: 0.9089
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character
+---------------------------
+Next Token :  in, Posbility: 0.9034
+Next Token :  of, Posbility: 0.0135
+Next Token :  with, Posbility: 0.0073
+Next Token :  using, Posbility: 0.0069
+Next Token : .', Posbility: 0.0056
+Choose :  in,  Posbility: 0.9034
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in
+---------------------------
+Next Token :  a, Posbility: 0.9671
+Next Token :  the, Posbility: 0.0125
+Next Token :  an, Posbility: 0.0044
+Next Token :  string, Posbility: 0.0025
+Next Token :  given, Posbility: 0.0021
+Choose :  a,  Posbility: 0.9671
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a
+---------------------------
+Next Token :  given, Posbility: 0.9429
+Next Token :  string, Posbility: 0.0396
+Next Token :  list, Posbility: 0.0033
+Next Token : 
+, Posbility: 0.0029
+Next Token :  sequence, Posbility: 0.0017
+Choose :  given,  Posbility: 0.9429
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a given
+---------------------------
+Next Token :  string, Posbility: 0.9821
+Next Token : 
+, Posbility: 0.0040
+Next Token :  list, Posbility: 0.0038
+Next Token :  sequence, Posbility: 0.0010
+Next Token :  str, Posbility: 0.0008
+Choose :  string,  Posbility: 0.9821
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a given string
+---------------------------
+Next Token : .', Posbility: 0.8547
+Next Token : ., Posbility: 0.0746
+Next Token : ,, Posbility: 0.0129
+Next Token : '', Posbility: 0.0088
+Next Token :  using, Posbility: 0.0060
+Choose : .',  Posbility: 0.8547
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a given string.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a given string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9575
+Next Token : 
+
+, Posbility: 0.0383
+Next Token :  , Posbility: 0.0016
+Next Token : def, Posbility: 0.0009
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9575
+---------------------------
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a given string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9359
+Next Token : 
+, Posbility: 0.0399
+Next Token : #, Posbility: 0.0157
+Next Token : import, Posbility: 0.0025
+Next Token : from, Posbility: 0.0017
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 41.897313356399536
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the first repeated character in a given string.'''
+def find_first_repeated_char(str):
+    '''Find the first repeated character in a given string.'''
+    # Create a dictionary to store the frequency of each character
+    freq = {}
+    # Loop through the string
+    for char in str:
+        # If the character is already in the dictionary, increment the frequency
+        if char in freq:
+            freq[char] += 1
+        # If the character is not in the dictionary, add it to the dictionary
+        else:
+            freq[char] = 1
+    # Find the first repeated character
+    for char in freq:
+        if freq[char] == 1:
+            return char
+    # Return -1 if there is no repeated character
+    return -1
+
+
+'''Write a python function to find the first repeated character in a given string.'''
+

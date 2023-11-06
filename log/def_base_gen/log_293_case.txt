@@ -1,0 +1,648 @@
+<<<<<<<<<<<< 293 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  to, Posbility: 0.1541
+Next Token :  convert, Posbility: 0.1359
+Next Token :  list, Posbility: 0.1355
+Next Token :  tuple, Posbility: 0.1068
+Next Token :  tu, Posbility: 0.0382
+Choose :  to,  Posbility: 0.1541
+'''Write a function to convert a list to a tuple.'''
+def to
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to
+---------------------------
+Next Token : _, Posbility: 0.6362
+Next Token : T, Posbility: 0.2586
+Next Token : t, Posbility: 0.0628
+Next Token : Tu, Posbility: 0.0163
+Next Token : tu, Posbility: 0.0024
+Choose : _,  Posbility: 0.6362
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_
+---------------------------
+Next Token : t, Posbility: 0.9134
+Next Token : tu, Posbility: 0.0483
+Next Token : list, Posbility: 0.0032
+Next Token : a, Posbility: 0.0019
+Next Token : dict, Posbility: 0.0013
+Choose : t,  Posbility: 0.9134
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_t
+---------------------------
+Next Token : uple, Posbility: 0.9882
+Next Token : up, Posbility: 0.0094
+Next Token : upp, Posbility: 0.0011
+Next Token : pl, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Choose : uple,  Posbility: 0.9882
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple
+---------------------------
+Next Token : (, Posbility: 0.9623
+Next Token : _, Posbility: 0.0133
+Next Token :  (, Posbility: 0.0126
+Next Token : (*, Posbility: 0.0066
+Next Token : ():, Posbility: 0.0036
+Choose : (,  Posbility: 0.9623
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(
+---------------------------
+Next Token : l, Posbility: 0.3843
+Next Token : list, Posbility: 0.1083
+Next Token : my, Posbility: 0.0412
+Next Token : input, Posbility: 0.0347
+Next Token : a, Posbility: 0.0344
+Choose : l,  Posbility: 0.3843
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(l
+---------------------------
+Next Token : st, Posbility: 0.5142
+Next Token : ):, Posbility: 0.4385
+Next Token : :, Posbility: 0.0200
+Next Token : ,, Posbility: 0.0128
+Next Token : 1, Posbility: 0.0043
+Choose : st,  Posbility: 0.5142
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst
+---------------------------
+Next Token : ):, Posbility: 0.9249
+Next Token : :, Posbility: 0.0315
+Next Token : ,, Posbility: 0.0282
+Next Token : _, Posbility: 0.0054
+Next Token : ), Posbility: 0.0039
+Choose : ):,  Posbility: 0.9249
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9524
+Next Token : , Posbility: 0.0146
+Next Token :  , Posbility: 0.0119
+Next Token : 
+
+, Posbility: 0.0109
+Next Token :  #, Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9524
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9371
+Next Token :   , Posbility: 0.0305
+Next Token : 	, Posbility: 0.0255
+Next Token :    , Posbility: 0.0038
+Next Token :         , Posbility: 0.0010
+Choose :     ,  Posbility: 0.9371
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.3174
+Next Token : return, Posbility: 0.2186
+Next Token : t, Posbility: 0.1646
+Next Token : if, Posbility: 0.0538
+Next Token : #, Posbility: 0.0271
+Choose : '',  Posbility: 0.3174
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''
+---------------------------
+Next Token : Con, Posbility: 0.3771
+Next Token : Return, Posbility: 0.0749
+Next Token : Take, Posbility: 0.0619
+Next Token : T, Posbility: 0.0566
+Next Token : Write, Posbility: 0.0400
+Choose : Con,  Posbility: 0.3771
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Con
+---------------------------
+Next Token : vert, Posbility: 0.8684
+Next Token : verts, Posbility: 0.1198
+Next Token : verting, Posbility: 0.0031
+Next Token : version, Posbility: 0.0028
+Next Token : ver, Posbility: 0.0017
+Choose : vert,  Posbility: 0.8684
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert
+---------------------------
+Next Token :  a, Posbility: 0.7461
+Next Token :  list, Posbility: 0.0899
+Next Token :  the, Posbility: 0.0579
+Next Token :  l, Posbility: 0.0379
+Next Token :  an, Posbility: 0.0135
+Choose :  a,  Posbility: 0.7461
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a
+---------------------------
+Next Token :  list, Posbility: 0.9492
+Next Token :  given, Posbility: 0.0089
+Next Token :  tuple, Posbility: 0.0079
+Next Token :  List, Posbility: 0.0034
+Next Token :  string, Posbility: 0.0026
+Choose :  list,  Posbility: 0.9492
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list
+---------------------------
+Next Token :  to, Posbility: 0.7797
+Next Token :  of, Posbility: 0.0849
+Next Token :  into, Posbility: 0.0809
+Next Token :  back, Posbility: 0.0102
+Next Token :  (, Posbility: 0.0060
+Choose :  to,  Posbility: 0.7797
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to
+---------------------------
+Next Token :  a, Posbility: 0.9351
+Next Token :  tuple, Posbility: 0.0484
+Next Token :  an, Posbility: 0.0042
+Next Token :  tu, Posbility: 0.0039
+Next Token :  the, Posbility: 0.0025
+Choose :  a,  Posbility: 0.9351
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a
+---------------------------
+Next Token :  tuple, Posbility: 0.9685
+Next Token :  list, Posbility: 0.0058
+Next Token :  t, Posbility: 0.0031
+Next Token :  tou, Posbility: 0.0025
+Next Token :  tu, Posbility: 0.0020
+Choose :  tuple,  Posbility: 0.9685
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple
+---------------------------
+Next Token : .', Posbility: 0.6124
+Next Token : ., Posbility: 0.1455
+Next Token : '', Posbility: 0.1173
+Next Token : ,, Posbility: 0.0205
+Next Token :  and, Posbility: 0.0166
+Choose : .',  Posbility: 0.6124
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9633
+Next Token : 
+
+, Posbility: 0.0318
+Next Token :  , Posbility: 0.0028
+Next Token :     , Posbility: 0.0008
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9633
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9959
+Next Token :   , Posbility: 0.0008
+Next Token :         , Posbility: 0.0008
+Next Token :    , Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9959
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.3773
+Next Token : t, Posbility: 0.1886
+Next Token : if, Posbility: 0.0837
+Next Token : l, Posbility: 0.0462
+Next Token : for, Posbility: 0.0402
+Choose : return,  Posbility: 0.3773
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return
+---------------------------
+Next Token :  tuple, Posbility: 0.9449
+Next Token :  (, Posbility: 0.0172
+Next Token :  l, Posbility: 0.0171
+Next Token :  t, Posbility: 0.0092
+Next Token : (, Posbility: 0.0050
+Choose :  tuple,  Posbility: 0.9449
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple
+---------------------------
+Next Token : (, Posbility: 0.9834
+Next Token : ([, Posbility: 0.0135
+Next Token : ((, Posbility: 0.0016
+Next Token : ({, Posbility: 0.0004
+Next Token :  (, Posbility: 0.0004
+Choose : (,  Posbility: 0.9834
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(
+---------------------------
+Next Token : l, Posbility: 0.9899
+Next Token : map, Posbility: 0.0042
+Next Token : s, Posbility: 0.0012
+Next Token :  l, Posbility: 0.0009
+Next Token : t, Posbility: 0.0006
+Choose : l,  Posbility: 0.9899
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(l
+---------------------------
+Next Token : st, Posbility: 0.9994
+Next Token :  for, Posbility: 0.0002
+Next Token : ), Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Choose : st,  Posbility: 0.9994
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst
+---------------------------
+Next Token : ), Posbility: 0.9963
+Next Token : [, Posbility: 0.0017
+Next Token : );, Posbility: 0.0005
+Next Token : ),, Posbility: 0.0005
+Next Token : ., Posbility: 0.0005
+Choose : ),  Posbility: 0.9963
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+---------------------------
+Next Token : 
+, Posbility: 0.6171
+Next Token : 
+
+, Posbility: 0.2989
+Next Token : <|endoftext|>, Posbility: 0.0493
+Next Token :  , Posbility: 0.0099
+Next Token :  #, Posbility: 0.0093
+Choose : 
+,  Posbility: 0.6171
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+---------------------------
+Next Token : 
+, Posbility: 0.7618
+Next Token : <|endoftext|>, Posbility: 0.0694
+Next Token :     , Posbility: 0.0693
+Next Token : def, Posbility: 0.0205
+Next Token : #, Posbility: 0.0137
+Choose : 
+,  Posbility: 0.7618
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9552
+Next Token : <|endoftext|>, Posbility: 0.0233
+Next Token :     , Posbility: 0.0110
+Next Token : 
+
+, Posbility: 0.0076
+Next Token :  , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9552
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2825
+Next Token : def, Posbility: 0.2759
+Next Token : #, Posbility: 0.2452
+Next Token : if, Posbility: 0.0336
+Next Token : print, Posbility: 0.0331
+Choose : '',  Posbility: 0.2825
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8056
+Next Token :  Write, Posbility: 0.0210
+Next Token : 
+, Posbility: 0.0140
+Next Token : Con, Posbility: 0.0137
+Next Token : Create, Posbility: 0.0076
+Choose : Write,  Posbility: 0.8056
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9866
+Next Token :  your, Posbility: 0.0033
+Next Token :  an, Posbility: 0.0027
+Next Token :  the, Posbility: 0.0014
+Next Token :  function, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9866
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9739
+Next Token :  program, Posbility: 0.0041
+Next Token :  Python, Posbility: 0.0022
+Next Token :  Function, Posbility: 0.0013
+Next Token :  script, Posbility: 0.0012
+Choose :  function,  Posbility: 0.9739
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6895
+Next Token :  that, Posbility: 0.2612
+Next Token :  named, Posbility: 0.0099
+Next Token :  which, Posbility: 0.0060
+Next Token :  called, Posbility: 0.0056
+Choose :  to,  Posbility: 0.6895
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to
+---------------------------
+Next Token :  convert, Posbility: 0.1185
+Next Token :  find, Posbility: 0.0995
+Next Token :  remove, Posbility: 0.0742
+Next Token :  print, Posbility: 0.0711
+Next Token :  reverse, Posbility: 0.0460
+Choose :  convert,  Posbility: 0.1185
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert
+---------------------------
+Next Token :  a, Posbility: 0.9196
+Next Token :  an, Posbility: 0.0285
+Next Token :  the, Posbility: 0.0118
+Next Token :  two, Posbility: 0.0052
+Next Token :  list, Posbility: 0.0032
+Choose :  a,  Posbility: 0.9196
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a
+---------------------------
+Next Token :  dictionary, Posbility: 0.4031
+Next Token :  list, Posbility: 0.2019
+Next Token :  string, Posbility: 0.1183
+Next Token :  tuple, Posbility: 0.0969
+Next Token :  set, Posbility: 0.0451
+Choose :  dictionary,  Posbility: 0.4031
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary
+---------------------------
+Next Token :  to, Posbility: 0.9297
+Next Token :  into, Posbility: 0.0517
+Next Token :  of, Posbility: 0.0047
+Next Token :  from, Posbility: 0.0026
+Next Token :  (, Posbility: 0.0016
+Choose :  to,  Posbility: 0.9297
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to
+---------------------------
+Next Token :  a, Posbility: 0.9441
+Next Token :  an, Posbility: 0.0214
+Next Token :  list, Posbility: 0.0052
+Next Token :  dictionary, Posbility: 0.0044
+Next Token :  another, Posbility: 0.0038
+Choose :  a,  Posbility: 0.9441
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to a
+---------------------------
+Next Token :  list, Posbility: 0.3726
+Next Token :  tuple, Posbility: 0.3514
+Next Token :  set, Posbility: 0.0823
+Next Token :  dictionary, Posbility: 0.0626
+Next Token :  string, Posbility: 0.0161
+Choose :  list,  Posbility: 0.3726
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to a list
+---------------------------
+Next Token : .', Posbility: 0.8569
+Next Token :  of, Posbility: 0.0945
+Next Token : ., Posbility: 0.0197
+Next Token : '', Posbility: 0.0076
+Next Token :  with, Posbility: 0.0031
+Choose : .',  Posbility: 0.8569
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to a list.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token :  ', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9709
+Next Token : 
+
+, Posbility: 0.0243
+Next Token :  , Posbility: 0.0014
+Next Token : def, Posbility: 0.0013
+Next Token :     , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9709
+---------------------------
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to a list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9329
+Next Token : 
+, Posbility: 0.0430
+Next Token : #, Posbility: 0.0118
+Next Token : from, Posbility: 0.0033
+Next Token : import, Posbility: 0.0014
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.783299207687378
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert a list to a tuple.'''
+def to_tuple(lst):
+    '''Convert a list to a tuple.'''
+    return tuple(lst)
+
+
+'''Write a function to convert a dictionary to a list.'''
+

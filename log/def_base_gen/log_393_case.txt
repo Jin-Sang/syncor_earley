@@ -1,0 +1,2167 @@
+<<<<<<<<<<<< 393 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.5138
+Next Token :  sub, Posbility: 0.0701
+Next Token :  subst, Posbility: 0.0461
+Next Token :  match, Posbility: 0.0229
+Next Token :  check, Posbility: 0.0214
+Choose :  find,  Posbility: 0.5138
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.6087
+Next Token : Sub, Posbility: 0.1386
+Next Token : Occ, Posbility: 0.0525
+Next Token : (, Posbility: 0.0465
+Next Token : Str, Posbility: 0.0137
+Choose : _,  Posbility: 0.6087
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_
+---------------------------
+Next Token : sub, Posbility: 0.6382
+Next Token : occ, Posbility: 0.1327
+Next Token : index, Posbility: 0.0183
+Next Token : position, Posbility: 0.0167
+Next Token : pos, Posbility: 0.0138
+Choose : sub,  Posbility: 0.6382
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_sub
+---------------------------
+Next Token : string, Posbility: 0.5613
+Next Token : strings, Posbility: 0.1658
+Next Token : _, Posbility: 0.1361
+Next Token : str, Posbility: 0.0682
+Next Token : (, Posbility: 0.0374
+Choose : string,  Posbility: 0.5613
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring
+---------------------------
+Next Token : (, Posbility: 0.8034
+Next Token : _, Posbility: 0.1847
+Next Token : ():, Posbility: 0.0031
+Next Token : 1, Posbility: 0.0026
+Next Token :  (, Posbility: 0.0015
+Choose : (,  Posbility: 0.8034
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(
+---------------------------
+Next Token : string, Posbility: 0.3784
+Next Token : str, Posbility: 0.2084
+Next Token : s, Posbility: 0.1500
+Next Token : text, Posbility: 0.0521
+Next Token : word, Posbility: 0.0247
+Choose : string,  Posbility: 0.3784
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string
+---------------------------
+Next Token : ,, Posbility: 0.6803
+Next Token : ):, Posbility: 0.2057
+Next Token : :, Posbility: 0.0412
+Next Token : _, Posbility: 0.0368
+Next Token : 1, Posbility: 0.0302
+Choose : ,,  Posbility: 0.6803
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string,
+---------------------------
+Next Token :  subst, Posbility: 0.3821
+Next Token :  sub, Posbility: 0.2268
+Next Token : sub, Posbility: 0.0979
+Next Token :  substr, Posbility: 0.0381
+Next Token :  pattern, Posbility: 0.0351
+Choose :  subst,  Posbility: 0.3821
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, subst
+---------------------------
+Next Token : ring, Posbility: 0.9960
+Next Token : ):, Posbility: 0.0032
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : ring,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring
+---------------------------
+Next Token : ):, Posbility: 0.9592
+Next Token : ,, Posbility: 0.0189
+Next Token : _, Posbility: 0.0112
+Next Token : ), Posbility: 0.0057
+Next Token : 1, Posbility: 0.0020
+Choose : ):,  Posbility: 0.9592
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+---------------------------
+Next Token : 
+, Posbility: 0.9237
+Next Token : 
+
+, Posbility: 0.0467
+Next Token : , Posbility: 0.0172
+Next Token :  , Posbility: 0.0071
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9237
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+
+---------------------------
+Next Token :     , Posbility: 0.9244
+Next Token :   , Posbility: 0.0337
+Next Token : 	, Posbility: 0.0296
+Next Token :         , Posbility: 0.0050
+Next Token :    , Posbility: 0.0032
+Choose :     ,  Posbility: 0.9244
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    
+---------------------------
+Next Token : '', Posbility: 0.0948
+Next Token : if, Posbility: 0.0930
+Next Token : #, Posbility: 0.0791
+Next Token : sub, Posbility: 0.0788
+Next Token : for, Posbility: 0.0452
+Choose : '',  Posbility: 0.0948
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9994
+Next Token : '/, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9994
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''
+---------------------------
+Next Token : Find, Posbility: 0.1623
+Next Token : 
+, Posbility: 0.1382
+Next Token : Write, Posbility: 0.0817
+Next Token : Return, Posbility: 0.0653
+Next Token : find, Posbility: 0.0542
+Choose : Find,  Posbility: 0.1623
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find
+---------------------------
+Next Token :  the, Posbility: 0.5042
+Next Token : s, Posbility: 0.2659
+Next Token :  all, Posbility: 0.0363
+Next Token :  subst, Posbility: 0.0243
+Next Token :  occurrences, Posbility: 0.0243
+Choose :  the,  Posbility: 0.5042
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the
+---------------------------
+Next Token :  occurrence, Posbility: 0.4509
+Next Token :  subst, Posbility: 0.1793
+Next Token :  sub, Posbility: 0.0626
+Next Token :  position, Posbility: 0.0598
+Next Token :  occurrences, Posbility: 0.0583
+Choose :  occurrence,  Posbility: 0.4509
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence
+---------------------------
+Next Token :  and, Posbility: 0.7772
+Next Token :  of, Posbility: 0.1920
+Next Token : ,, Posbility: 0.0066
+Next Token :  in, Posbility: 0.0064
+Next Token :  position, Posbility: 0.0017
+Choose :  and,  Posbility: 0.7772
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and
+---------------------------
+Next Token :  position, Posbility: 0.9432
+Next Token :  the, Posbility: 0.0240
+Next Token :  index, Posbility: 0.0059
+Next Token :  location, Posbility: 0.0043
+Next Token :  pos, Posbility: 0.0025
+Choose :  position,  Posbility: 0.9432
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position
+---------------------------
+Next Token :  of, Posbility: 0.9661
+Next Token :  for, Posbility: 0.0074
+Next Token :  in, Posbility: 0.0063
+Next Token :  within, Posbility: 0.0034
+Next Token :  sub, Posbility: 0.0022
+Choose :  of,  Posbility: 0.9661
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of
+---------------------------
+Next Token :  the, Posbility: 0.8051
+Next Token :  a, Posbility: 0.1160
+Next Token :  sub, Posbility: 0.0329
+Next Token :  subst, Posbility: 0.0207
+Next Token :  each, Posbility: 0.0048
+Choose :  the,  Posbility: 0.8051
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the
+---------------------------
+Next Token :  sub, Posbility: 0.7614
+Next Token :  subst, Posbility: 0.2135
+Next Token :  string, Posbility: 0.0063
+Next Token :  given, Posbility: 0.0036
+Next Token :  substr, Posbility: 0.0009
+Choose :  sub,  Posbility: 0.7614
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the sub
+---------------------------
+Next Token : strings, Posbility: 0.9916
+Next Token : string, Posbility: 0.0033
+Next Token :  strings, Posbility: 0.0032
+Next Token : -, Posbility: 0.0009
+Next Token : str, Posbility: 0.0001
+Choose : strings,  Posbility: 0.9916
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings
+---------------------------
+Next Token :  within, Posbility: 0.8985
+Next Token :  in, Posbility: 0.0595
+Next Token :  of, Posbility: 0.0135
+Next Token :  inside, Posbility: 0.0065
+Next Token :  with, Posbility: 0.0022
+Choose :  within,  Posbility: 0.8985
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within
+---------------------------
+Next Token :  a, Posbility: 0.8205
+Next Token :  the, Posbility: 0.1219
+Next Token :  string, Posbility: 0.0328
+Next Token :  ', Posbility: 0.0053
+Next Token :  an, Posbility: 0.0032
+Choose :  a,  Posbility: 0.8205
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a
+---------------------------
+Next Token :  string, Posbility: 0.9353
+Next Token :  given, Posbility: 0.0268
+Next Token :  subst, Posbility: 0.0171
+Next Token :  sub, Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0022
+Choose :  string,  Posbility: 0.9353
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string
+---------------------------
+Next Token : ., Posbility: 0.5894
+Next Token : .', Posbility: 0.1530
+Next Token : '', Posbility: 0.1090
+Next Token : ,, Posbility: 0.0315
+Next Token :  and, Posbility: 0.0301
+Choose : .,  Posbility: 0.5894
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string.
+---------------------------
+Next Token :  Return, Posbility: 0.7303
+Next Token : 
+, Posbility: 0.1355
+Next Token :  , Posbility: 0.0255
+Next Token : 
+
+, Posbility: 0.0227
+Next Token :  Returns, Posbility: 0.0168
+Choose :  Return,  Posbility: 0.7303
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return
+---------------------------
+Next Token :  None, Posbility: 0.9565
+Next Token :  none, Posbility: 0.0166
+Next Token :  the, Posbility: 0.0064
+Next Token :  a, Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0025
+Choose :  None,  Posbility: 0.9565
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None
+---------------------------
+Next Token :  if, Posbility: 0.9777
+Next Token : 
+, Posbility: 0.0101
+Next Token :  is, Posbility: 0.0016
+Next Token : '', Posbility: 0.0016
+Next Token :  , Posbility: 0.0015
+Choose :  if,  Posbility: 0.9777
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if
+---------------------------
+Next Token :  there, Posbility: 0.9848
+Next Token :  no, Posbility: 0.0055
+Next Token :  the, Posbility: 0.0025
+Next Token : 
+, Posbility: 0.0018
+Next Token :  not, Posbility: 0.0006
+Choose :  there,  Posbility: 0.9848
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there
+---------------------------
+Next Token :  is, Posbility: 0.9857
+Next Token : 
+, Posbility: 0.0048
+Next Token :  isn, Posbility: 0.0017
+Next Token : 's, Posbility: 0.0015
+Next Token :  are, Posbility: 0.0011
+Choose :  is,  Posbility: 0.9857
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is
+---------------------------
+Next Token :  no, Posbility: 0.9974
+Next Token :  not, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0003
+Next Token :  a, Posbility: 0.0002
+Next Token :  nothing, Posbility: 0.0002
+Choose :  no,  Posbility: 0.9974
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no
+---------------------------
+Next Token :  match, Posbility: 0.9964
+Next Token :  matching, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0008
+Next Token :  matches, Posbility: 0.0003
+Next Token :  matched, Posbility: 0.0001
+Choose :  match,  Posbility: 0.9964
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match
+---------------------------
+Next Token : .', Posbility: 0.8754
+Next Token : '', Posbility: 0.0597
+Next Token : ., Posbility: 0.0589
+Next Token : 
+, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0004
+Choose : .',  Posbility: 0.8754
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'
+---------------------------
+Next Token : '', Posbility: 0.9990
+Next Token : ', Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0001
+Next Token : ''., Posbility: 0.0001
+Choose : '',  Posbility: 0.9990
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9045
+Next Token : 
+
+, Posbility: 0.0886
+Next Token :  , Posbility: 0.0041
+Next Token :     , Posbility: 0.0008
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9045
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9913
+Next Token :         , Posbility: 0.0023
+Next Token : 	, Posbility: 0.0020
+Next Token :   , Posbility: 0.0012
+Next Token :    , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9913
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    
+---------------------------
+Next Token : sub, Posbility: 0.0930
+Next Token : if, Posbility: 0.0920
+Next Token : start, Posbility: 0.0667
+Next Token : #, Posbility: 0.0610
+Next Token : for, Posbility: 0.0482
+Choose : sub,  Posbility: 0.0930
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    sub
+---------------------------
+Next Token : string, Posbility: 0.5909
+Next Token : _, Posbility: 0.1645
+Next Token : str, Posbility: 0.0483
+Next Token : s, Posbility: 0.0424
+Next Token : strings, Posbility: 0.0412
+Choose : string,  Posbility: 0.5909
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring
+---------------------------
+Next Token : _, Posbility: 0.7560
+Next Token :  =, Posbility: 0.1749
+Next Token : ., Posbility: 0.0073
+Next Token : =, Posbility: 0.0065
+Next Token : Length, Posbility: 0.0055
+Choose : _,  Posbility: 0.7560
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_
+---------------------------
+Next Token : len, Posbility: 0.1582
+Next Token : length, Posbility: 0.1545
+Next Token : list, Posbility: 0.1427
+Next Token : index, Posbility: 0.1194
+Next Token : count, Posbility: 0.0402
+Choose : len,  Posbility: 0.1582
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len
+---------------------------
+Next Token :  =, Posbility: 0.9606
+Next Token : =, Posbility: 0.0161
+Next Token : ,, Posbility: 0.0108
+Next Token : gh, Posbility: 0.0072
+Next Token : _, Posbility: 0.0034
+Choose :  =,  Posbility: 0.9606
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len =
+---------------------------
+Next Token :  len, Posbility: 0.9634
+Next Token :  0, Posbility: 0.0178
+Next Token :  subst, Posbility: 0.0027
+Next Token : len, Posbility: 0.0026
+Next Token :  (, Posbility: 0.0014
+Choose :  len,  Posbility: 0.9634
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len
+---------------------------
+Next Token : (, Posbility: 0.9987
+Next Token :  (, Posbility: 0.0006
+Next Token : (', Posbility: 0.0004
+Next Token : ([, Posbility: 0.0001
+Next Token : (", Posbility: 0.0001
+Choose : (,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(
+---------------------------
+Next Token : sub, Posbility: 0.9556
+Next Token : string, Posbility: 0.0394
+Next Token : s, Posbility: 0.0017
+Next Token : str, Posbility: 0.0012
+Next Token :  subst, Posbility: 0.0004
+Choose : sub,  Posbility: 0.9556
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(sub
+---------------------------
+Next Token : string, Posbility: 0.9981
+Next Token : str, Posbility: 0.0009
+Next Token : st, Posbility: 0.0007
+Next Token : s, Posbility: 0.0000
+Next Token : sequence, Posbility: 0.0000
+Choose : string,  Posbility: 0.9981
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring
+---------------------------
+Next Token : ), Posbility: 0.9937
+Next Token : ., Posbility: 0.0024
+Next Token : );, Posbility: 0.0011
+Next Token : )+, Posbility: 0.0007
+Next Token : [, Posbility: 0.0005
+Choose : ),  Posbility: 0.9937
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+---------------------------
+Next Token : 
+, Posbility: 0.9262
+Next Token : 
+
+, Posbility: 0.0358
+Next Token :  #, Posbility: 0.0120
+Next Token :  , Posbility: 0.0066
+Next Token :  +, Posbility: 0.0062
+Choose : 
+,  Posbility: 0.9262
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+
+---------------------------
+Next Token :     , Posbility: 0.9980
+Next Token : 	, Posbility: 0.0004
+Next Token :         , Posbility: 0.0004
+Next Token : #, Posbility: 0.0003
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    
+---------------------------
+Next Token : sub, Posbility: 0.1043
+Next Token : for, Posbility: 0.0999
+Next Token : if, Posbility: 0.0998
+Next Token : start, Posbility: 0.0571
+Next Token : index, Posbility: 0.0544
+Choose : sub,  Posbility: 0.1043
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    sub
+---------------------------
+Next Token : string, Posbility: 0.7793
+Next Token : _, Posbility: 0.0750
+Next Token : str, Posbility: 0.0538
+Next Token : strings, Posbility: 0.0474
+Next Token : st, Posbility: 0.0131
+Choose : string,  Posbility: 0.7793
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring
+---------------------------
+Next Token : _, Posbility: 0.9755
+Next Token :  =, Posbility: 0.0179
+Next Token : 2, Posbility: 0.0021
+Next Token : ., Posbility: 0.0007
+Next Token :  +=, Posbility: 0.0005
+Choose : _,  Posbility: 0.9755
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_
+---------------------------
+Next Token : index, Posbility: 0.2154
+Next Token : list, Posbility: 0.1016
+Next Token : start, Posbility: 0.0602
+Next Token : pos, Posbility: 0.0569
+Next Token : count, Posbility: 0.0549
+Choose : index,  Posbility: 0.2154
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index
+---------------------------
+Next Token :  =, Posbility: 0.9302
+Next Token : _, Posbility: 0.0282
+Next Token : es, Posbility: 0.0268
+Next Token : =, Posbility: 0.0046
+Next Token : ,, Posbility: 0.0033
+Choose :  =,  Posbility: 0.9302
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index =
+---------------------------
+Next Token :  0, Posbility: 0.4022
+Next Token :  string, Posbility: 0.1316
+Next Token :  -, Posbility: 0.1068
+Next Token :  subst, Posbility: 0.0977
+Next Token :  [], Posbility: 0.0965
+Choose :  0,  Posbility: 0.4022
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9084
+Next Token : 
+
+, Posbility: 0.0643
+Next Token :  , Posbility: 0.0088
+Next Token :  #, Posbility: 0.0064
+Next Token :   , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9084
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9984
+Next Token : 	, Posbility: 0.0004
+Next Token :         , Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.2610
+Next Token : sub, Posbility: 0.1144
+Next Token : while, Posbility: 0.0564
+Next Token : start, Posbility: 0.0431
+Next Token : found, Posbility: 0.0314
+Choose : for,  Posbility: 0.2610
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5314
+Next Token :  index, Posbility: 0.1665
+Next Token :  char, Posbility: 0.0761
+Next Token :  letter, Posbility: 0.0203
+Next Token :  subst, Posbility: 0.0195
+Choose :  i,  Posbility: 0.5314
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9487
+Next Token : ,, Posbility: 0.0497
+Next Token : _, Posbility: 0.0010
+Next Token : 1, Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Choose :  in,  Posbility: 0.9487
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9691
+Next Token :  string, Posbility: 0.0257
+Next Token :  list, Posbility: 0.0018
+Next Token :  subst, Posbility: 0.0008
+Next Token :  x, Posbility: 0.0007
+Choose :  range,  Posbility: 0.9691
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9859
+Next Token :  (, Posbility: 0.0109
+Next Token : (-, Posbility: 0.0020
+Next Token : ((, Posbility: 0.0010
+Next Token :  (-, Posbility: 0.0001
+Choose : (,  Posbility: 0.9859
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.6928
+Next Token : 0, Posbility: 0.2602
+Next Token : 1, Posbility: 0.0178
+Next Token : sub, Posbility: 0.0136
+Next Token :  len, Posbility: 0.0050
+Choose : len,  Posbility: 0.6928
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token : _, Posbility: 0.0001
+Next Token : (', Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(
+---------------------------
+Next Token : string, Posbility: 0.9949
+Next Token : sub, Posbility: 0.0019
+Next Token : s, Posbility: 0.0011
+Next Token : str, Posbility: 0.0006
+Next Token : list, Posbility: 0.0006
+Choose : string,  Posbility: 0.9949
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string
+---------------------------
+Next Token : ), Posbility: 0.8645
+Next Token : )-, Posbility: 0.1285
+Next Token : )+, Posbility: 0.0024
+Next Token : )), Posbility: 0.0016
+Next Token : ),, Posbility: 0.0013
+Choose : ),  Posbility: 0.8645
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string)
+---------------------------
+Next Token :  -, Posbility: 0.5854
+Next Token : ):, Posbility: 0.4133
+Next Token :  +, Posbility: 0.0009
+Next Token : //, Posbility: 0.0001
+Next Token :  ):, Posbility: 0.0001
+Choose :  -,  Posbility: 0.5854
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) -
+---------------------------
+Next Token :  subst, Posbility: 0.8234
+Next Token :  len, Posbility: 0.1193
+Next Token :  (, Posbility: 0.0276
+Next Token :  1, Posbility: 0.0144
+Next Token : len, Posbility: 0.0020
+Choose :  subst,  Posbility: 0.8234
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - subst
+---------------------------
+Next Token : ring, Posbility: 1.0000
+Next Token : rip, Posbility: 0.0000
+Next Token : ride, Posbility: 0.0000
+Next Token : ructure, Posbility: 0.0000
+Next Token : ringe, Posbility: 0.0000
+Choose : ring,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring
+---------------------------
+Next Token : _, Posbility: 0.9992
+Next Token :  +, Posbility: 0.0002
+Next Token : [, Posbility: 0.0002
+Next Token : ):, Posbility: 0.0002
+Next Token : ., Posbility: 0.0001
+Choose : _,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_
+---------------------------
+Next Token : len, Posbility: 0.9997
+Next Token : index, Posbility: 0.0002
+Next Token : length, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Choose : len,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len
+---------------------------
+Next Token :  +, Posbility: 0.5824
+Next Token : ):, Posbility: 0.3765
+Next Token :  -, Posbility: 0.0225
+Next Token : +, Posbility: 0.0112
+Next Token : ,, Posbility: 0.0038
+Choose :  +,  Posbility: 0.5824
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len +
+---------------------------
+Next Token :  1, Posbility: 0.9846
+Next Token : 1, Posbility: 0.0114
+Next Token :  2, Posbility: 0.0015
+Next Token :  subst, Posbility: 0.0012
+Next Token :  len, Posbility: 0.0003
+Choose :  1,  Posbility: 0.9846
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1
+---------------------------
+Next Token : ):, Posbility: 0.9961
+Next Token : ,, Posbility: 0.0020
+Next Token :  ):, Posbility: 0.0009
+Next Token : ), Posbility: 0.0004
+Next Token :  +, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9961
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+---------------------------
+Next Token : 
+, Posbility: 0.9643
+Next Token :  #, Posbility: 0.0148
+Next Token :   , Posbility: 0.0055
+Next Token :  , Posbility: 0.0054
+Next Token : 
+
+, Posbility: 0.0041
+Choose : 
+,  Posbility: 0.9643
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+
+---------------------------
+Next Token :         , Posbility: 0.9882
+Next Token :             , Posbility: 0.0046
+Next Token :       , Posbility: 0.0025
+Next Token :     , Posbility: 0.0019
+Next Token :        , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9882
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        
+---------------------------
+Next Token : if, Posbility: 0.7411
+Next Token : sub, Posbility: 0.0824
+Next Token : for, Posbility: 0.0171
+Next Token : #, Posbility: 0.0159
+Next Token : start, Posbility: 0.0107
+Choose : if,  Posbility: 0.7411
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if
+---------------------------
+Next Token :  string, Posbility: 0.7235
+Next Token :  subst, Posbility: 0.1767
+Next Token :  (, Posbility: 0.0345
+Next Token : (, Posbility: 0.0188
+Next Token :  i, Posbility: 0.0140
+Choose :  string,  Posbility: 0.7235
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string
+---------------------------
+Next Token : [, Posbility: 0.9909
+Next Token : ., Posbility: 0.0067
+Next Token :  ==, Posbility: 0.0021
+Next Token :  [, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Choose : [,  Posbility: 0.9909
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[
+---------------------------
+Next Token : i, Posbility: 0.9878
+Next Token : sub, Posbility: 0.0072
+Next Token : :, Posbility: 0.0014
+Next Token : (, Posbility: 0.0012
+Next Token :  i, Posbility: 0.0007
+Choose : i,  Posbility: 0.9878
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i
+---------------------------
+Next Token : :, Posbility: 0.8409
+Next Token :  :, Posbility: 0.1033
+Next Token : :(, Posbility: 0.0396
+Next Token :  +, Posbility: 0.0107
+Next Token : ], Posbility: 0.0026
+Choose : :,  Posbility: 0.8409
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:
+---------------------------
+Next Token : i, Posbility: 0.8593
+Next Token :  i, Posbility: 0.0829
+Next Token : sub, Posbility: 0.0336
+Next Token :  subst, Posbility: 0.0080
+Next Token :  (, Posbility: 0.0036
+Choose : i,  Posbility: 0.8593
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i
+---------------------------
+Next Token : +, Posbility: 0.5554
+Next Token :  +, Posbility: 0.4441
+Next Token : +(, Posbility: 0.0004
+Next Token : ], Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : +,  Posbility: 0.5554
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+
+---------------------------
+Next Token : sub, Posbility: 0.9657
+Next Token : len, Posbility: 0.0221
+Next Token :  subst, Posbility: 0.0046
+Next Token :  sub, Posbility: 0.0021
+Next Token : 1, Posbility: 0.0007
+Choose : sub,  Posbility: 0.9657
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+sub
+---------------------------
+Next Token : string, Posbility: 0.9969
+Next Token : st, Posbility: 0.0026
+Next Token : str, Posbility: 0.0001
+Next Token : sequence, Posbility: 0.0001
+Next Token : strip, Posbility: 0.0001
+Choose : string,  Posbility: 0.9969
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring
+---------------------------
+Next Token : _, Posbility: 0.9991
+Next Token : ], Posbility: 0.0006
+Next Token : ., Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : +, Posbility: 0.0000
+Choose : _,  Posbility: 0.9991
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_
+---------------------------
+Next Token : len, Posbility: 0.9999
+Next Token : length, Posbility: 0.0000
+Next Token : index, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : size, Posbility: 0.0000
+Choose : len,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len
+---------------------------
+Next Token : ], Posbility: 0.9765
+Next Token : ]., Posbility: 0.0202
+Next Token : ][, Posbility: 0.0010
+Next Token : +, Posbility: 0.0009
+Next Token :  +, Posbility: 0.0004
+Choose : ],  Posbility: 0.9765
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len]
+---------------------------
+Next Token :  ==, Posbility: 0.9803
+Next Token : ==, Posbility: 0.0088
+Next Token :  in, Posbility: 0.0072
+Next Token : !=, Posbility: 0.0020
+Next Token :   , Posbility: 0.0005
+Choose :  ==,  Posbility: 0.9803
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] ==
+---------------------------
+Next Token :  subst, Posbility: 0.9979
+Next Token :  string, Posbility: 0.0007
+Next Token :  sub, Posbility: 0.0006
+Next Token :  subt, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  subst,  Posbility: 0.9979
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == subst
+---------------------------
+Next Token : ring, Posbility: 1.0000
+Next Token : ructure, Posbility: 0.0000
+Next Token : ing, Posbility: 0.0000
+Next Token : ry, Posbility: 0.0000
+Next Token : string, Posbility: 0.0000
+Choose : ring,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring
+---------------------------
+Next Token : :, Posbility: 0.9872
+Next Token :  and, Posbility: 0.0059
+Next Token : [, Posbility: 0.0020
+Next Token :  :, Posbility: 0.0015
+Next Token :  or, Posbility: 0.0013
+Choose : :,  Posbility: 0.9872
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+---------------------------
+Next Token : 
+, Posbility: 0.9800
+Next Token :  return, Posbility: 0.0059
+Next Token :  , Posbility: 0.0057
+Next Token :  #, Posbility: 0.0031
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9800
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+
+---------------------------
+Next Token :             , Posbility: 0.9965
+Next Token :            , Posbility: 0.0010
+Next Token :                 , Posbility: 0.0009
+Next Token :              , Posbility: 0.0005
+Next Token :           , Posbility: 0.0004
+Choose :             ,  Posbility: 0.9965
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            
+---------------------------
+Next Token : sub, Posbility: 0.5739
+Next Token : return, Posbility: 0.3079
+Next Token : if, Posbility: 0.0465
+Next Token : print, Posbility: 0.0290
+Next Token : #, Posbility: 0.0117
+Choose : sub,  Posbility: 0.5739
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            sub
+---------------------------
+Next Token : string, Posbility: 0.9990
+Next Token : st, Posbility: 0.0004
+Next Token : str, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token : sub, Posbility: 0.0000
+Choose : string,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring
+---------------------------
+Next Token : _, Posbility: 0.9990
+Next Token :  =, Posbility: 0.0008
+Next Token :  +=, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : _,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_
+---------------------------
+Next Token : index, Posbility: 0.9939
+Next Token : position, Posbility: 0.0021
+Next Token : pos, Posbility: 0.0011
+Next Token : start, Posbility: 0.0006
+Next Token : len, Posbility: 0.0002
+Choose : index,  Posbility: 0.9939
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index
+---------------------------
+Next Token :  =, Posbility: 0.8784
+Next Token :  +=, Posbility: 0.1138
+Next Token : +=, Posbility: 0.0023
+Next Token : =, Posbility: 0.0020
+Next Token :   , Posbility: 0.0011
+Choose :  =,  Posbility: 0.8784
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index =
+---------------------------
+Next Token :  i, Posbility: 0.9058
+Next Token :  subst, Posbility: 0.0388
+Next Token :  string, Posbility: 0.0360
+Next Token :  (, Posbility: 0.0043
+Next Token :  1, Posbility: 0.0027
+Choose :  i,  Posbility: 0.9058
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+---------------------------
+Next Token : 
+, Posbility: 0.6859
+Next Token :  +, Posbility: 0.2309
+Next Token : +, Posbility: 0.0359
+Next Token :  -, Posbility: 0.0128
+Next Token : 
+
+, Posbility: 0.0105
+Choose : 
+,  Posbility: 0.6859
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+
+---------------------------
+Next Token :             , Posbility: 0.8364
+Next Token :     , Posbility: 0.1331
+Next Token :         , Posbility: 0.0274
+Next Token : 
+, Posbility: 0.0014
+Next Token :                 , Posbility: 0.0007
+Choose :             ,  Posbility: 0.8364
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            
+---------------------------
+Next Token : break, Posbility: 0.7848
+Next Token : return, Posbility: 0.1226
+Next Token : if, Posbility: 0.0366
+Next Token : sub, Posbility: 0.0158
+Next Token : #, Posbility: 0.0109
+Choose : break,  Posbility: 0.7848
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+---------------------------
+Next Token : 
+, Posbility: 0.8977
+Next Token : 
+
+, Posbility: 0.0850
+Next Token : ;, Posbility: 0.0069
+Next Token :  , Posbility: 0.0041
+Next Token :  #, Posbility: 0.0018
+Choose : 
+,  Posbility: 0.8977
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+
+---------------------------
+Next Token :     , Posbility: 0.8482
+Next Token :         , Posbility: 0.1286
+Next Token : 
+, Posbility: 0.0108
+Next Token :             , Posbility: 0.0083
+Next Token : #, Posbility: 0.0009
+Choose :     ,  Posbility: 0.8482
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    
+---------------------------
+Next Token : return, Posbility: 0.5164
+Next Token : if, Posbility: 0.3399
+Next Token : 
+, Posbility: 0.0551
+Next Token : else, Posbility: 0.0297
+Next Token : sub, Posbility: 0.0138
+Choose : return,  Posbility: 0.5164
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return
+---------------------------
+Next Token :  subst, Posbility: 0.8693
+Next Token :  None, Posbility: 0.0390
+Next Token :  string, Posbility: 0.0228
+Next Token :  (, Posbility: 0.0224
+Next Token :  [, Posbility: 0.0159
+Choose :  subst,  Posbility: 0.8693
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return subst
+---------------------------
+Next Token : ring, Posbility: 1.0000
+Next Token : ructure, Posbility: 0.0000
+Next Token : ry, Posbility: 0.0000
+Next Token : rip, Posbility: 0.0000
+Next Token : uple, Posbility: 0.0000
+Choose : ring,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring
+---------------------------
+Next Token : _, Posbility: 0.9516
+Next Token : ,, Posbility: 0.0279
+Next Token : [, Posbility: 0.0155
+Next Token : 
+, Posbility: 0.0023
+Next Token : 
+
+, Posbility: 0.0012
+Choose : _,  Posbility: 0.9516
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_
+---------------------------
+Next Token : index, Posbility: 0.9861
+Next Token : len, Posbility: 0.0129
+Next Token : str, Posbility: 0.0002
+Next Token : length, Posbility: 0.0001
+Next Token : position, Posbility: 0.0001
+Choose : index,  Posbility: 0.9861
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+---------------------------
+Next Token : 
+, Posbility: 0.5926
+Next Token : 
+
+, Posbility: 0.1845
+Next Token : ,, Posbility: 0.1382
+Next Token : <|endoftext|>, Posbility: 0.0259
+Next Token :  if, Posbility: 0.0236
+Choose : 
+,  Posbility: 0.5926
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+---------------------------
+Next Token : 
+, Posbility: 0.7719
+Next Token :     , Posbility: 0.0850
+Next Token : <|endoftext|>, Posbility: 0.0303
+Next Token : def, Posbility: 0.0279
+Next Token :         , Posbility: 0.0190
+Choose : 
+,  Posbility: 0.7719
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9167
+Next Token : 
+
+, Posbility: 0.0320
+Next Token :     , Posbility: 0.0264
+Next Token : <|endoftext|>, Posbility: 0.0183
+Next Token :         , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9167
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5056
+Next Token : def, Posbility: 0.2122
+Next Token : if, Posbility: 0.0739
+Next Token : #, Posbility: 0.0681
+Next Token : 
+, Posbility: 0.0536
+Choose : '',  Posbility: 0.5056
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6830
+Next Token : Find, Posbility: 0.0406
+Next Token : 
+, Posbility: 0.0288
+Next Token :  Write, Posbility: 0.0195
+Next Token : Given, Posbility: 0.0163
+Choose : Write,  Posbility: 0.6830
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9871
+Next Token :  an, Posbility: 0.0036
+Next Token :  your, Posbility: 0.0028
+Next Token :  the, Posbility: 0.0020
+Next Token :  function, Posbility: 0.0007
+Choose :  a,  Posbility: 0.9871
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9334
+Next Token :  Python, Posbility: 0.0134
+Next Token :  program, Posbility: 0.0088
+Next Token :  recursive, Posbility: 0.0083
+Next Token :  python, Posbility: 0.0075
+Choose :  function,  Posbility: 0.9334
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7549
+Next Token :  that, Posbility: 0.1891
+Next Token :  which, Posbility: 0.0136
+Next Token :  called, Posbility: 0.0095
+Next Token :  for, Posbility: 0.0040
+Choose :  to,  Posbility: 0.7549
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1951
+Next Token :  print, Posbility: 0.0873
+Next Token :  count, Posbility: 0.0813
+Next Token :  check, Posbility: 0.0730
+Next Token :  reverse, Posbility: 0.0498
+Choose :  find,  Posbility: 0.1951
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.8222
+Next Token :  all, Posbility: 0.0823
+Next Token :  a, Posbility: 0.0159
+Next Token :  and, Posbility: 0.0099
+Next Token :  if, Posbility: 0.0065
+Choose :  the,  Posbility: 0.8222
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  longest, Posbility: 0.1627
+Next Token :  occurrence, Posbility: 0.1385
+Next Token :  number, Posbility: 0.0664
+Next Token :  subst, Posbility: 0.0405
+Next Token :  occurrences, Posbility: 0.0365
+Choose :  longest,  Posbility: 0.1627
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest
+---------------------------
+Next Token :  subst, Posbility: 0.2961
+Next Token :  common, Posbility: 0.2505
+Next Token :  pal, Posbility: 0.1165
+Next Token :  string, Posbility: 0.0379
+Next Token :  sub, Posbility: 0.0353
+Choose :  subst,  Posbility: 0.2961
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest subst
+---------------------------
+Next Token : ring, Posbility: 0.9997
+Next Token : ructure, Posbility: 0.0000
+Next Token : rings, Posbility: 0.0000
+Next Token : ing, Posbility: 0.0000
+Next Token : string, Posbility: 0.0000
+Choose : ring,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring
+---------------------------
+Next Token :  in, Posbility: 0.2361
+Next Token :  of, Posbility: 0.2125
+Next Token :  with, Posbility: 0.1160
+Next Token :  that, Posbility: 0.0695
+Next Token :  within, Posbility: 0.0507
+Choose :  in,  Posbility: 0.2361
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in
+---------------------------
+Next Token :  a, Posbility: 0.8941
+Next Token :  the, Posbility: 0.0514
+Next Token :  an, Posbility: 0.0144
+Next Token :  string, Posbility: 0.0135
+Next Token :  two, Posbility: 0.0033
+Choose :  a,  Posbility: 0.8941
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a
+---------------------------
+Next Token :  string, Posbility: 0.8184
+Next Token :  given, Posbility: 0.0854
+Next Token :  list, Posbility: 0.0152
+Next Token :  word, Posbility: 0.0117
+Next Token :  text, Posbility: 0.0112
+Choose :  string,  Posbility: 0.8184
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string
+---------------------------
+Next Token : ., Posbility: 0.6064
+Next Token : .', Posbility: 0.0868
+Next Token :  that, Posbility: 0.0686
+Next Token :  with, Posbility: 0.0319
+Next Token :  of, Posbility: 0.0317
+Choose : .,  Posbility: 0.6064
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string.
+---------------------------
+Next Token :  Return, Posbility: 0.7475
+Next Token : 
+, Posbility: 0.0793
+Next Token :  The, Posbility: 0.0318
+Next Token :  , Posbility: 0.0129
+Next Token :  If, Posbility: 0.0113
+Choose :  Return,  Posbility: 0.7475
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return
+---------------------------
+Next Token :  None, Posbility: 0.5526
+Next Token :  the, Posbility: 0.3046
+Next Token :  a, Posbility: 0.0418
+Next Token :  none, Posbility: 0.0205
+Next Token :  it, Posbility: 0.0182
+Choose :  None,  Posbility: 0.5526
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None
+---------------------------
+Next Token :  if, Posbility: 0.9928
+Next Token : ., Posbility: 0.0017
+Next Token : ,, Posbility: 0.0007
+Next Token :  is, Posbility: 0.0007
+Next Token :  of, Posbility: 0.0006
+Choose :  if,  Posbility: 0.9928
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if
+---------------------------
+Next Token :  there, Posbility: 0.8843
+Next Token :  the, Posbility: 0.0569
+Next Token :  no, Posbility: 0.0258
+Next Token :  it, Posbility: 0.0111
+Next Token :  a, Posbility: 0.0038
+Choose :  there,  Posbility: 0.8843
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there
+---------------------------
+Next Token :  is, Posbility: 0.9737
+Next Token : 's, Posbility: 0.0063
+Next Token :  are, Posbility: 0.0054
+Next Token :  isn, Posbility: 0.0048
+Next Token :  was, Posbility: 0.0027
+Choose :  is,  Posbility: 0.9737
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is
+---------------------------
+Next Token :  no, Posbility: 0.9841
+Next Token :  a, Posbility: 0.0059
+Next Token :  not, Posbility: 0.0035
+Next Token :  none, Posbility: 0.0012
+Next Token :  only, Posbility: 0.0012
+Choose :  no,  Posbility: 0.9841
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is no
+---------------------------
+Next Token :  match, Posbility: 0.8823
+Next Token :  subst, Posbility: 0.0196
+Next Token :  such, Posbility: 0.0163
+Next Token :  longest, Posbility: 0.0106
+Next Token :  sub, Posbility: 0.0099
+Choose :  match,  Posbility: 0.8823
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is no match
+---------------------------
+Next Token : .', Posbility: 0.9033
+Next Token : ., Posbility: 0.0684
+Next Token : '', Posbility: 0.0167
+Next Token :  or, Posbility: 0.0021
+Next Token :  in, Posbility: 0.0020
+Choose : .',  Posbility: 0.9033
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is no match.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is no match.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9844
+Next Token : 
+
+, Posbility: 0.0091
+Next Token :  , Posbility: 0.0016
+Next Token :     , Posbility: 0.0016
+Next Token : def, Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9844
+---------------------------
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is no match.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9599
+Next Token : 
+, Posbility: 0.0265
+Next Token : #, Posbility: 0.0073
+Next Token : '', Posbility: 0.0024
+Next Token : import, Posbility: 0.0010
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 28.891644716262817
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+def find_substring(string, substring):
+    '''Find the occurrence and position of the substrings within a string. Return None if there is no match.'''
+    substring_len = len(substring)
+    substring_index = 0
+    for i in range(len(string) - substring_len + 1):
+        if string[i:i+substring_len] == substring:
+            substring_index = i
+            break
+    return substring_index
+
+
+'''Write a function to find the longest substring in a string. Return None if there is no match.'''
+

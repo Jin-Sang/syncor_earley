@@ -1,0 +1,568 @@
+<<<<<<<<<<<< 274 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  split, Posbility: 0.6624
+Next Token :  string, Posbility: 0.0372
+Next Token :  spl, Posbility: 0.0215
+Next Token :  char, Posbility: 0.0195
+Next Token :  str, Posbility: 0.0139
+Choose :  split,  Posbility: 0.6624
+'''Write a python function to split a string into characters.'''
+def split
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split
+---------------------------
+Next Token : _, Posbility: 0.4257
+Next Token : (, Posbility: 0.4172
+Next Token : String, Posbility: 0.0326
+Next Token : Str, Posbility: 0.0201
+Next Token : Char, Posbility: 0.0090
+Choose : _,  Posbility: 0.4257
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_
+---------------------------
+Next Token : string, Posbility: 0.5697
+Next Token : str, Posbility: 0.0889
+Next Token : into, Posbility: 0.0389
+Next Token : char, Posbility: 0.0341
+Next Token : text, Posbility: 0.0236
+Choose : string,  Posbility: 0.5697
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string
+---------------------------
+Next Token : (, Posbility: 0.9252
+Next Token : _, Posbility: 0.0410
+Next Token : ():, Posbility: 0.0208
+Next Token :  (, Posbility: 0.0071
+Next Token : (_, Posbility: 0.0013
+Choose : (,  Posbility: 0.9252
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(
+---------------------------
+Next Token : string, Posbility: 0.4745
+Next Token : str, Posbility: 0.1290
+Next Token : s, Posbility: 0.1115
+Next Token : text, Posbility: 0.0688
+Next Token : input, Posbility: 0.0438
+Choose : string,  Posbility: 0.4745
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string
+---------------------------
+Next Token : ):, Posbility: 0.7741
+Next Token : ,, Posbility: 0.1407
+Next Token : _, Posbility: 0.0404
+Next Token : :, Posbility: 0.0295
+Next Token : 1, Posbility: 0.0048
+Choose : ):,  Posbility: 0.7741
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9305
+Next Token : 
+
+, Posbility: 0.0266
+Next Token : , Posbility: 0.0202
+Next Token :  , Posbility: 0.0115
+Next Token :  #, Posbility: 0.0036
+Choose : 
+,  Posbility: 0.9305
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+
+---------------------------
+Next Token :     , Posbility: 0.8853
+Next Token :   , Posbility: 0.0523
+Next Token : 	, Posbility: 0.0472
+Next Token :    , Posbility: 0.0089
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.8853
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    
+---------------------------
+Next Token : '', Posbility: 0.2513
+Next Token : return, Posbility: 0.1591
+Next Token : #, Posbility: 0.0618
+Next Token : split, Posbility: 0.0473
+Next Token : if, Posbility: 0.0374
+Choose : '',  Posbility: 0.2513
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''
+---------------------------
+Next Token : Split, Posbility: 0.4203
+Next Token : split, Posbility: 0.0868
+Next Token : Return, Posbility: 0.0614
+Next Token : Write, Posbility: 0.0604
+Next Token : 
+, Posbility: 0.0438
+Choose : Split,  Posbility: 0.4203
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split
+---------------------------
+Next Token :  a, Posbility: 0.5037
+Next Token :  the, Posbility: 0.2227
+Next Token :  string, Posbility: 0.2077
+Next Token :  each, Posbility: 0.0060
+Next Token :  an, Posbility: 0.0049
+Choose :  a,  Posbility: 0.5037
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a
+---------------------------
+Next Token :  string, Posbility: 0.9481
+Next Token :  given, Posbility: 0.0250
+Next Token :  single, Posbility: 0.0029
+Next Token :  str, Posbility: 0.0023
+Next Token :  String, Posbility: 0.0016
+Choose :  string,  Posbility: 0.9481
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string
+---------------------------
+Next Token :  into, Posbility: 0.8857
+Next Token :  by, Posbility: 0.0167
+Next Token :  to, Posbility: 0.0120
+Next Token :  and, Posbility: 0.0111
+Next Token :  in, Posbility: 0.0092
+Choose :  into,  Posbility: 0.8857
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into
+---------------------------
+Next Token :  characters, Posbility: 0.4301
+Next Token :  a, Posbility: 0.2216
+Next Token :  words, Posbility: 0.0252
+Next Token :  multiple, Posbility: 0.0244
+Next Token :  its, Posbility: 0.0185
+Choose :  characters,  Posbility: 0.4301
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters
+---------------------------
+Next Token : .', Posbility: 0.2988
+Next Token : ., Posbility: 0.2878
+Next Token : '', Posbility: 0.1253
+Next Token :  and, Posbility: 0.0584
+Next Token :  using, Posbility: 0.0396
+Choose : .',  Posbility: 0.2988
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9995
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9471
+Next Token : 
+
+, Posbility: 0.0460
+Next Token :  , Posbility: 0.0039
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9471
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9924
+Next Token :   , Posbility: 0.0020
+Next Token :         , Posbility: 0.0014
+Next Token :    , Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9924
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.2857
+Next Token : char, Posbility: 0.0654
+Next Token : split, Posbility: 0.0521
+Next Token : #, Posbility: 0.0514
+Next Token : if, Posbility: 0.0435
+Choose : return,  Posbility: 0.2857
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return
+---------------------------
+Next Token :  string, Posbility: 0.7293
+Next Token :  [, Posbility: 0.1096
+Next Token :  list, Posbility: 0.0707
+Next Token :  ', Posbility: 0.0228
+Next Token : (, Posbility: 0.0145
+Choose :  string,  Posbility: 0.7293
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string
+---------------------------
+Next Token : ., Posbility: 0.9634
+Next Token : [, Posbility: 0.0260
+Next Token : 
+, Posbility: 0.0062
+Next Token : 
+
+, Posbility: 0.0020
+Next Token :  #, Posbility: 0.0002
+Choose : .,  Posbility: 0.9634
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.
+---------------------------
+Next Token : split, Posbility: 0.9373
+Next Token : replace, Posbility: 0.0317
+Next Token : strip, Posbility: 0.0190
+Next Token : lower, Posbility: 0.0056
+Next Token : upper, Posbility: 0.0018
+Choose : split,  Posbility: 0.9373
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split
+---------------------------
+Next Token : (), Posbility: 0.4524
+Next Token : (', Posbility: 0.2872
+Next Token : (", Posbility: 0.1544
+Next Token : (, Posbility: 0.1035
+Next Token : ();, Posbility: 0.0008
+Choose : (),  Posbility: 0.4524
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+---------------------------
+Next Token : 
+, Posbility: 0.6878
+Next Token : 
+
+, Posbility: 0.2270
+Next Token : <|endoftext|>, Posbility: 0.0523
+Next Token :  #, Posbility: 0.0104
+Next Token :  , Posbility: 0.0074
+Choose : 
+,  Posbility: 0.6878
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+---------------------------
+Next Token : 
+, Posbility: 0.8090
+Next Token : <|endoftext|>, Posbility: 0.0499
+Next Token :     , Posbility: 0.0317
+Next Token : print, Posbility: 0.0276
+Next Token : '', Posbility: 0.0172
+Choose : 
+,  Posbility: 0.8090
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9527
+Next Token : <|endoftext|>, Posbility: 0.0260
+Next Token : 
+
+, Posbility: 0.0080
+Next Token :     , Posbility: 0.0077
+Next Token :   , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9527
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3107
+Next Token : def, Posbility: 0.2622
+Next Token : #, Posbility: 0.1450
+Next Token : if, Posbility: 0.0836
+Next Token : print, Posbility: 0.0722
+Choose : '',  Posbility: 0.3107
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8348
+Next Token :  Write, Posbility: 0.0199
+Next Token : 
+, Posbility: 0.0160
+Next Token : Split, Posbility: 0.0137
+Next Token : Create, Posbility: 0.0076
+Choose : Write,  Posbility: 0.8348
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9865
+Next Token :  your, Posbility: 0.0048
+Next Token :  an, Posbility: 0.0021
+Next Token :  the, Posbility: 0.0011
+Next Token :  another, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9865
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9112
+Next Token :  function, Posbility: 0.0538
+Next Token :  Python, Posbility: 0.0140
+Next Token :  program, Posbility: 0.0029
+Next Token :  script, Posbility: 0.0015
+Choose :  python,  Posbility: 0.9112
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9798
+Next Token :  program, Posbility: 0.0090
+Next Token :  script, Posbility: 0.0021
+Next Token :  fun, Posbility: 0.0012
+Next Token :  class, Posbility: 0.0011
+Choose :  function,  Posbility: 0.9798
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8700
+Next Token :  that, Posbility: 0.0944
+Next Token :  which, Posbility: 0.0067
+Next Token :  called, Posbility: 0.0032
+Next Token :  for, Posbility: 0.0029
+Choose :  to,  Posbility: 0.8700
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to
+---------------------------
+Next Token :  reverse, Posbility: 0.0947
+Next Token :  find, Posbility: 0.0744
+Next Token :  print, Posbility: 0.0690
+Next Token :  count, Posbility: 0.0674
+Next Token :  get, Posbility: 0.0586
+Choose :  reverse,  Posbility: 0.0947
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse
+---------------------------
+Next Token :  a, Posbility: 0.8819
+Next Token :  the, Posbility: 0.0415
+Next Token :  an, Posbility: 0.0312
+Next Token :  string, Posbility: 0.0121
+Next Token :  all, Posbility: 0.0043
+Choose :  a,  Posbility: 0.8819
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse a
+---------------------------
+Next Token :  string, Posbility: 0.8441
+Next Token :  given, Posbility: 0.0472
+Next Token :  word, Posbility: 0.0371
+Next Token :  list, Posbility: 0.0190
+Next Token :  single, Posbility: 0.0057
+Choose :  string,  Posbility: 0.8441
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse a string
+---------------------------
+Next Token : .', Posbility: 0.8458
+Next Token : ., Posbility: 0.0637
+Next Token :  using, Posbility: 0.0130
+Next Token : '', Posbility: 0.0128
+Next Token :  and, Posbility: 0.0082
+Choose : .',  Posbility: 0.8458
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse a string.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token :  ', Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse a string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9726
+Next Token : 
+
+, Posbility: 0.0213
+Next Token :  , Posbility: 0.0022
+Next Token : def, Posbility: 0.0009
+Next Token :     , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9726
+---------------------------
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse a string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9461
+Next Token : 
+, Posbility: 0.0365
+Next Token : #, Posbility: 0.0089
+Next Token : import, Posbility: 0.0020
+Next Token : '', Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.131587028503418
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to split a string into characters.'''
+def split_string(string):
+    '''Split a string into characters.'''
+    return string.split()
+
+
+'''Write a python function to reverse a string.'''
+

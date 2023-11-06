@@ -1,0 +1,71 @@
+<<<<<<<<<<<< 10 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.4085
+Next Token : ____, Posbility: 0.1030
+Next Token : ix, Posbility: 0.0483
+Next Token : ile, Posbility: 0.0394
+Next Token : 
+
+, Posbility: 0.0262
+Choose : 
+,  Posbility: 0.4085
+'''Write a function to that returns true if the input string contains sequences of lowercase letters joined with an underscore and false otherwise.'''
+def 
+
+---------------------------
+'''Write a function to that returns true if the input string contains sequences of lowercase letters joined with an underscore and false otherwise.'''
+def 
+
+---------------------------
+Next Token : 
+, Posbility: 0.0935
+Next Token : #, Posbility: 0.0918
+Next Token : '', Posbility: 0.0778
+Next Token : def, Posbility: 0.0683
+Next Token : import, Posbility: 0.0625
+Choose : 
+,  Posbility: 0.0935
+---------------------------
+'''Write a function to that returns true if the input string contains sequences of lowercase letters joined with an underscore and false otherwise.'''
+def 
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.6264
+Next Token :     , Posbility: 0.2145
+Next Token : 
+
+, Posbility: 0.1037
+Next Token : <|endoftext|>, Posbility: 0.0143
+Next Token :   , Posbility: 0.0096
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 0.35619497299194336
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to that returns true if the input string contains sequences of lowercase letters joined with an underscore and false otherwise.'''
+def 
+
+
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Other Error >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Timeout >>>>>>>>>>>>

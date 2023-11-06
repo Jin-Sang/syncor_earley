@@ -1,0 +1,502 @@
+<<<<<<<<<<<< 152 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ix, Posbility: 0.2120
+Next Token : ile, Posbility: 0.1236
+Next Token : 
+, Posbility: 0.1093
+Next Token : ia, Posbility: 0.0514
+Next Token : ids, Posbility: 0.0492
+Choose : ix, Posbility: 0.2120
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix
+---------------------------
+Next Token : (, Posbility: 0.2841
+Next Token : _, Posbility: 0.2494
+Next Token : e, Posbility: 0.0811
+Next Token : o, Posbility: 0.0275
+Next Token : In, Posbility: 0.0241
+Choose : (, Posbility: 0.2841
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(
+---------------------------
+Next Token : arr, Posbility: 0.3171
+Next Token : array, Posbility: 0.2878
+Next Token : a, Posbility: 0.0577
+Next Token : e, Posbility: 0.0398
+Next Token : l, Posbility: 0.0361
+Choose : arr, Posbility: 0.3171
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr
+---------------------------
+Next Token : ,, Posbility: 0.9336
+Next Token : :, Posbility: 0.0330
+Next Token : ):, Posbility: 0.0207
+Next Token : _, Posbility: 0.0032
+Next Token : 1, Posbility: 0.0023
+Choose : ,, Posbility: 0.9336
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr,
+---------------------------
+Next Token :  element, Posbility: 0.1784
+Next Token :  x, Posbility: 0.1306
+Next Token : x, Posbility: 0.0773
+Next Token : e, Posbility: 0.0725
+Next Token :  ele, Posbility: 0.0640
+Choose :  element, Posbility: 0.1784
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element
+---------------------------
+Next Token : ):, Posbility: 0.9574
+Next Token : ,, Posbility: 0.0201
+Next Token : ), Posbility: 0.0073
+Next Token : _, Posbility: 0.0045
+Next Token : :, Posbility: 0.0033
+Choose : ):, Posbility: 0.9574
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+---------------------------
+Next Token : 
+, Posbility: 0.9298
+Next Token : 
+
+, Posbility: 0.0207
+Next Token :  , Posbility: 0.0197
+Next Token : , Posbility: 0.0174
+Next Token :  #, Posbility: 0.0042
+Choose : 
+, Posbility: 0.9298
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+
+---------------------------
+Next Token :     , Posbility: 0.9162
+Next Token : 	, Posbility: 0.0418
+Next Token :   , Posbility: 0.0309
+Next Token :    , Posbility: 0.0042
+Next Token :         , Posbility: 0.0030
+Choose :     , Posbility: 0.9162
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    
+---------------------------
+Next Token : for, Posbility: 0.1854
+Next Token : if, Posbility: 0.1535
+Next Token : '', Posbility: 0.0888
+Next Token : return, Posbility: 0.0833
+Next Token : index, Posbility: 0.0723
+Choose : for, Posbility: 0.1854
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6913
+Next Token :  index, Posbility: 0.1217
+Next Token :  x, Posbility: 0.0404
+Next Token :  id, Posbility: 0.0219
+Next Token :  pos, Posbility: 0.0140
+Choose :  i, Posbility: 0.6913
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.8292
+Next Token : ,, Posbility: 0.1692
+Next Token : _, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Choose :  in, Posbility: 0.8292
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9379
+Next Token :  arr, Posbility: 0.0583
+Next Token :  reversed, Posbility: 0.0006
+Next Token :  enumer, Posbility: 0.0006
+Next Token :  len, Posbility: 0.0005
+Choose :  range, Posbility: 0.9379
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9748
+Next Token :  (, Posbility: 0.0236
+Next Token : (-, Posbility: 0.0007
+Next Token : ((, Posbility: 0.0004
+Next Token : ():, Posbility: 0.0002
+Choose : (, Posbility: 0.9748
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7852
+Next Token : 0, Posbility: 0.2008
+Next Token : arr, Posbility: 0.0059
+Next Token : 1, Posbility: 0.0022
+Next Token : n, Posbility: 0.0009
+Choose : len, Posbility: 0.7852
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0001
+Next Token : (), Posbility: 0.0001
+Next Token : ):, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Choose : (, Posbility: 0.9996
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9991
+Next Token : array, Posbility: 0.0003
+Next Token : list, Posbility: 0.0001
+Next Token : ar, Posbility: 0.0001
+Next Token : a, Posbility: 0.0000
+Choose : arr, Posbility: 0.9991
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr
+---------------------------
+Next Token : ), Posbility: 0.9817
+Next Token : )-, Posbility: 0.0161
+Next Token : )), Posbility: 0.0015
+Next Token : [, Posbility: 0.0003
+Next Token : )+, Posbility: 0.0002
+Choose : ), Posbility: 0.9817
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9950
+Next Token :  -, Posbility: 0.0047
+Next Token :  ):, Posbility: 0.0002
+Next Token : //, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Choose : ):, Posbility: 0.9950
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9884
+Next Token :  , Posbility: 0.0051
+Next Token : 
+
+, Posbility: 0.0021
+Next Token :  #, Posbility: 0.0017
+Next Token :   , Posbility: 0.0008
+Choose : 
+, Posbility: 0.9884
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+
+---------------------------
+Next Token :         , Posbility: 0.9846
+Next Token :             , Posbility: 0.0051
+Next Token :       , Posbility: 0.0044
+Next Token :        , Posbility: 0.0023
+Next Token :          , Posbility: 0.0013
+Choose :         , Posbility: 0.9846
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        
+---------------------------
+Next Token : if, Posbility: 0.9782
+Next Token : #, Posbility: 0.0056
+Next Token : print, Posbility: 0.0034
+Next Token : for, Posbility: 0.0022
+Next Token : try, Posbility: 0.0014
+Choose : if, Posbility: 0.9782
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if
+---------------------------
+Next Token :  arr, Posbility: 0.8266
+Next Token :  element, Posbility: 0.1113
+Next Token : (, Posbility: 0.0381
+Next Token :  (, Posbility: 0.0107
+Next Token :  ele, Posbility: 0.0038
+Choose :  arr, Posbility: 0.8266
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr
+---------------------------
+Next Token : [, Posbility: 0.9979
+Next Token :  [, Posbility: 0.0008
+Next Token : ., Posbility: 0.0006
+Next Token :  ==, Posbility: 0.0005
+Next Token : ==, Posbility: 0.0001
+Choose : [, Posbility: 0.9979
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[
+---------------------------
+Next Token : i, Posbility: 0.9977
+Next Token : 0, Posbility: 0.0009
+Next Token : element, Posbility: 0.0005
+Next Token : len, Posbility: 0.0002
+Next Token : -, Posbility: 0.0001
+Choose : i, Posbility: 0.9977
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9912
+Next Token : ][, Posbility: 0.0052
+Next Token : ]., Posbility: 0.0029
+Next Token : ]:, Posbility: 0.0002
+Next Token : -, Posbility: 0.0001
+Choose : ], Posbility: 0.9912
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i]
+---------------------------
+Next Token :  ==, Posbility: 0.9346
+Next Token : ==, Posbility: 0.0549
+Next Token :  is, Posbility: 0.0053
+Next Token : !=, Posbility: 0.0032
+Next Token :  <, Posbility: 0.0007
+Choose :  ==, Posbility: 0.9346
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] ==
+---------------------------
+Next Token :  element, Posbility: 0.9964
+Next Token :   , Posbility: 0.0005
+Next Token :  str, Posbility: 0.0005
+Next Token : element, Posbility: 0.0004
+Next Token :  int, Posbility: 0.0004
+Choose :  element, Posbility: 0.9964
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element
+---------------------------
+Next Token : :, Posbility: 0.9816
+Next Token :  or, Posbility: 0.0129
+Next Token :  :, Posbility: 0.0029
+Next Token :  and, Posbility: 0.0018
+Next Token : [, Posbility: 0.0003
+Choose : :, Posbility: 0.9816
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+---------------------------
+Next Token : 
+, Posbility: 0.9755
+Next Token :  return, Posbility: 0.0140
+Next Token :  , Posbility: 0.0061
+Next Token :  #, Posbility: 0.0011
+Next Token :     , Posbility: 0.0005
+Choose : 
+, Posbility: 0.9755
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+
+---------------------------
+Next Token :             , Posbility: 0.9922
+Next Token :            , Posbility: 0.0033
+Next Token :                 , Posbility: 0.0015
+Next Token :              , Posbility: 0.0014
+Next Token :           , Posbility: 0.0009
+Choose :             , Posbility: 0.9922
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            
+---------------------------
+Next Token : return, Posbility: 0.9618
+Next Token : index, Posbility: 0.0067
+Next Token : print, Posbility: 0.0058
+Next Token : if, Posbility: 0.0039
+Next Token : pos, Posbility: 0.0028
+Choose : return, Posbility: 0.9618
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return
+---------------------------
+Next Token :  True, Posbility: 0.3569
+Next Token :  (, Posbility: 0.3546
+Next Token :  i, Posbility: 0.1104
+Next Token : (, Posbility: 0.0580
+Next Token :  arr, Posbility: 0.0282
+Choose :  True, Posbility: 0.3569
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True
+---------------------------
+Next Token : ,, Posbility: 0.9012
+Next Token : 
+, Posbility: 0.0813
+Next Token : ,, Posbility: 0.0075
+Next Token : 
+
+, Posbility: 0.0036
+Next Token :  , Posbility: 0.0014
+Choose : ,, Posbility: 0.9012
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True,
+---------------------------
+Next Token :  i, Posbility: 0.8829
+Next Token : i, Posbility: 0.0948
+Next Token :  arr, Posbility: 0.0090
+Next Token :  (, Posbility: 0.0036
+Next Token :  str, Posbility: 0.0020
+Choose :  i, Posbility: 0.8829
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True, i
+---------------------------
+Next Token : 
+, Posbility: 0.8885
+Next Token : 
+
+, Posbility: 0.0630
+Next Token :  , Posbility: 0.0178
+Next Token :  #, Posbility: 0.0094
+Next Token : ,, Posbility: 0.0068
+Choose : 
+, Posbility: 0.8885
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True, i
+
+---------------------------
+Next Token :     , Posbility: 0.7057
+Next Token :         , Posbility: 0.2783
+Next Token : 
+, Posbility: 0.0092
+Next Token :             , Posbility: 0.0033
+Next Token : #, Posbility: 0.0008
+Choose :     , Posbility: 0.7057
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True, i
+    
+---------------------------
+Next Token : return, Posbility: 0.8541
+Next Token : else, Posbility: 0.1044
+Next Token : 
+, Posbility: 0.0145
+Next Token : if, Posbility: 0.0133
+Next Token : for, Posbility: 0.0043
+Choose : return, Posbility: 0.8541
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True, i
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9808
+Next Token :  -, Posbility: 0.0058
+Next Token :  (, Posbility: 0.0039
+Next Token :  None, Posbility: 0.0018
+Next Token :   , Posbility: 0.0013
+Choose :  False, Posbility: 0.9808
+---------------------------
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True, i
+    return False
+---------------------------
+Next Token : ,, Posbility: 0.9348
+Next Token : 
+, Posbility: 0.0424
+Next Token : 
+
+, Posbility: 0.0108
+Next Token : ,, Posbility: 0.0038
+Next Token : <|endoftext|>, Posbility: 0.0027
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.244507551193237
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in an array and element and returns a tuple containing a boolean that indicates if the element is in the array and the index position of the element (or -1 if the element is not found).'''
+def ix(arr, element):
+    for i in range(len(arr)):
+        if arr[i] == element:
+            return True, i
+    return False
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

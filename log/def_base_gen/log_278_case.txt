@@ -1,0 +1,1093 @@
+<<<<<<<<<<<< 278 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sort, Posbility: 0.5084
+Next Token :  sub, Posbility: 0.0698
+Next Token :  merge, Posbility: 0.0557
+Next Token :  list, Posbility: 0.0259
+Next Token :  Sort, Posbility: 0.0183
+Choose :  sort,  Posbility: 0.5084
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort
+---------------------------
+Next Token : _, Posbility: 0.5676
+Next Token : (, Posbility: 0.1912
+Next Token : List, Posbility: 0.0449
+Next Token : Sub, Posbility: 0.0402
+Next Token : L, Posbility: 0.0263
+Choose : _,  Posbility: 0.5676
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_
+---------------------------
+Next Token : list, Posbility: 0.2103
+Next Token : sub, Posbility: 0.1925
+Next Token : lists, Posbility: 0.1367
+Next Token : strings, Posbility: 0.0757
+Next Token : by, Posbility: 0.0703
+Choose : list,  Posbility: 0.2103
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list
+---------------------------
+Next Token : (, Posbility: 0.6969
+Next Token : _, Posbility: 0.2792
+Next Token : ():, Posbility: 0.0035
+Next Token :  (, Posbility: 0.0027
+Next Token : 2, Posbility: 0.0026
+Choose : (,  Posbility: 0.6969
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(
+---------------------------
+Next Token : l, Posbility: 0.2395
+Next Token : list, Posbility: 0.1929
+Next Token : my, Posbility: 0.0580
+Next Token : lists, Posbility: 0.0533
+Next Token : ls, Posbility: 0.0448
+Choose : l,  Posbility: 0.2395
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(l
+---------------------------
+Next Token : st, Posbility: 0.5026
+Next Token : ):, Posbility: 0.3977
+Next Token : 1, Posbility: 0.0316
+Next Token : ,, Posbility: 0.0227
+Next Token : :, Posbility: 0.0193
+Choose : st,  Posbility: 0.5026
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst
+---------------------------
+Next Token : ):, Posbility: 0.8120
+Next Token : ,, Posbility: 0.0874
+Next Token : _, Posbility: 0.0417
+Next Token : :, Posbility: 0.0289
+Next Token : 1, Posbility: 0.0178
+Choose : ):,  Posbility: 0.8120
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9158
+Next Token : 
+
+, Posbility: 0.0390
+Next Token : , Posbility: 0.0171
+Next Token :  , Posbility: 0.0150
+Next Token :  #, Posbility: 0.0042
+Choose : 
+,  Posbility: 0.9158
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9018
+Next Token :   , Posbility: 0.0603
+Next Token : 	, Posbility: 0.0253
+Next Token :    , Posbility: 0.0054
+Next Token :         , Posbility: 0.0024
+Choose :     ,  Posbility: 0.9018
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2008
+Next Token : for, Posbility: 0.1803
+Next Token : l, Posbility: 0.1175
+Next Token : #, Posbility: 0.0842
+Next Token : return, Posbility: 0.0377
+Choose : '',  Posbility: 0.2008
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9994
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token :  (, Posbility: 0.0000
+Choose : ',  Posbility: 0.9994
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''
+---------------------------
+Next Token : Sort, Posbility: 0.2812
+Next Token : 
+, Posbility: 0.0708
+Next Token : S, Posbility: 0.0643
+Next Token : Write, Posbility: 0.0577
+Next Token : T, Posbility: 0.0309
+Choose : Sort,  Posbility: 0.2812
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort
+---------------------------
+Next Token :  each, Posbility: 0.4450
+Next Token :  the, Posbility: 0.2207
+Next Token :  a, Posbility: 0.1536
+Next Token :  list, Posbility: 0.0336
+Next Token :  all, Posbility: 0.0325
+Choose :  each,  Posbility: 0.4450
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each
+---------------------------
+Next Token :  sub, Posbility: 0.7877
+Next Token :  list, Posbility: 0.0653
+Next Token :  string, Posbility: 0.0497
+Next Token :  element, Posbility: 0.0290
+Next Token :  item, Posbility: 0.0172
+Choose :  sub,  Posbility: 0.7877
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sub
+---------------------------
+Next Token : list, Posbility: 0.9474
+Next Token : -, Posbility: 0.0284
+Next Token :  list, Posbility: 0.0166
+Next Token : l, Posbility: 0.0021
+Next Token : lists, Posbility: 0.0013
+Choose : list,  Posbility: 0.9474
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist
+---------------------------
+Next Token :  of, Posbility: 0.8229
+Next Token :  in, Posbility: 0.1015
+Next Token :  by, Posbility: 0.0094
+Next Token :  from, Posbility: 0.0056
+Next Token :  into, Posbility: 0.0049
+Choose :  of,  Posbility: 0.8229
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of
+---------------------------
+Next Token :  strings, Posbility: 0.9111
+Next Token :  lists, Posbility: 0.0312
+Next Token :  a, Posbility: 0.0157
+Next Token :  the, Posbility: 0.0068
+Next Token :  string, Posbility: 0.0068
+Choose :  strings,  Posbility: 0.9111
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings
+---------------------------
+Next Token :  in, Posbility: 0.8665
+Next Token : ,, Posbility: 0.0129
+Next Token :  into, Posbility: 0.0127
+Next Token : ., Posbility: 0.0105
+Next Token :  and, Posbility: 0.0096
+Choose :  in,  Posbility: 0.8665
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in
+---------------------------
+Next Token :  a, Posbility: 0.9441
+Next Token :  the, Posbility: 0.0222
+Next Token :  l, Posbility: 0.0102
+Next Token :  list, Posbility: 0.0048
+Next Token :  given, Posbility: 0.0030
+Choose :  a,  Posbility: 0.9441
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a
+---------------------------
+Next Token :  given, Posbility: 0.9933
+Next Token :  list, Posbility: 0.0031
+Next Token :  give, Posbility: 0.0019
+Next Token :  single, Posbility: 0.0001
+Next Token :  new, Posbility: 0.0001
+Choose :  given,  Posbility: 0.9933
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given
+---------------------------
+Next Token :  list, Posbility: 0.9844
+Next Token :  lists, Posbility: 0.0082
+Next Token :  order, Posbility: 0.0014
+Next Token :  array, Posbility: 0.0012
+Next Token :  l, Posbility: 0.0008
+Choose :  list,  Posbility: 0.9844
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list
+---------------------------
+Next Token :  of, Posbility: 0.9084
+Next Token : .', Posbility: 0.0367
+Next Token : ., Posbility: 0.0229
+Next Token : '', Posbility: 0.0103
+Next Token : 
+, Posbility: 0.0037
+Choose :  of,  Posbility: 0.9084
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of
+---------------------------
+Next Token :  lists, Posbility: 0.9842
+Next Token :  sub, Posbility: 0.0048
+Next Token :  list, Posbility: 0.0029
+Next Token :  strings, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0006
+Choose :  lists,  Posbility: 0.9842
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists
+---------------------------
+Next Token : .', Posbility: 0.5003
+Next Token : ., Posbility: 0.2756
+Next Token : '', Posbility: 0.1139
+Next Token : 
+, Posbility: 0.0151
+Next Token : ,, Posbility: 0.0127
+Choose : .',  Posbility: 0.5003
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'
+---------------------------
+Next Token : '', Posbility: 0.9981
+Next Token : 
+, Posbility: 0.0009
+Next Token : 
+
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0003
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9981
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9207
+Next Token : 
+
+, Posbility: 0.0716
+Next Token :  , Posbility: 0.0045
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9207
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9942
+Next Token :         , Posbility: 0.0012
+Next Token :   , Posbility: 0.0010
+Next Token : 	, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9942
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.2579
+Next Token : l, Posbility: 0.1476
+Next Token : #, Posbility: 0.0817
+Next Token : def, Posbility: 0.0466
+Next Token : return, Posbility: 0.0464
+Choose : for,  Posbility: 0.2579
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5801
+Next Token :  sub, Posbility: 0.0887
+Next Token :  l, Posbility: 0.0549
+Next Token :  x, Posbility: 0.0382
+Next Token :  item, Posbility: 0.0292
+Choose :  i,  Posbility: 0.5801
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9439
+Next Token : ,, Posbility: 0.0541
+Next Token : _, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0005
+Next Token :   , Posbility: 0.0003
+Choose :  in,  Posbility: 0.9439
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9086
+Next Token :  l, Posbility: 0.0846
+Next Token :  enumer, Posbility: 0.0011
+Next Token :  sorted, Posbility: 0.0009
+Next Token :  list, Posbility: 0.0008
+Choose :  range,  Posbility: 0.9086
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9877
+Next Token :  (, Posbility: 0.0113
+Next Token : ((, Posbility: 0.0006
+Next Token : (-, Posbility: 0.0001
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9877
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8203
+Next Token : 0, Posbility: 0.1444
+Next Token : 1, Posbility: 0.0216
+Next Token : int, Posbility: 0.0043
+Next Token : l, Posbility: 0.0014
+Choose : len,  Posbility: 0.8203
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : ((, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9992
+Next Token : list, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Next Token : L, Posbility: 0.0000
+Choose : l,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ), Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst
+---------------------------
+Next Token : ), Posbility: 0.8824
+Next Token : )-, Posbility: 0.0832
+Next Token : [, Posbility: 0.0309
+Next Token : )), Posbility: 0.0012
+Next Token : ),, Posbility: 0.0008
+Choose : ),  Posbility: 0.8824
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.9424
+Next Token :  -, Posbility: 0.0493
+Next Token : //, Posbility: 0.0055
+Next Token :  //, Posbility: 0.0020
+Next Token :  ):, Posbility: 0.0004
+Choose : ):,  Posbility: 0.9424
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9651
+Next Token :  #, Posbility: 0.0126
+Next Token :  , Posbility: 0.0060
+Next Token :   , Posbility: 0.0039
+Next Token : 
+
+, Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9651
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+
+---------------------------
+Next Token :         , Posbility: 0.9821
+Next Token :       , Posbility: 0.0046
+Next Token :             , Posbility: 0.0046
+Next Token :        , Posbility: 0.0029
+Next Token :     , Posbility: 0.0021
+Choose :         ,  Posbility: 0.9821
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        
+---------------------------
+Next Token : for, Posbility: 0.5970
+Next Token : l, Posbility: 0.2281
+Next Token : #, Posbility: 0.0210
+Next Token : temp, Posbility: 0.0207
+Next Token : s, Posbility: 0.0177
+Choose : for,  Posbility: 0.5970
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9248
+Next Token :  k, Posbility: 0.0136
+Next Token :  x, Posbility: 0.0122
+Next Token :  e, Posbility: 0.0066
+Next Token :  item, Posbility: 0.0045
+Choose :  j,  Posbility: 0.9248
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9975
+Next Token : ,, Posbility: 0.0022
+Next Token :   , Posbility: 0.0002
+Next Token : j, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9975
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9803
+Next Token :  l, Posbility: 0.0169
+Next Token :  reversed, Posbility: 0.0008
+Next Token :  list, Posbility: 0.0003
+Next Token :  enumer, Posbility: 0.0002
+Choose :  range,  Posbility: 0.9803
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9942
+Next Token :  (, Posbility: 0.0048
+Next Token : ((, Posbility: 0.0008
+Next Token : (-, Posbility: 0.0001
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9942
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(
+---------------------------
+Next Token : len, Posbility: 0.6943
+Next Token : i, Posbility: 0.2530
+Next Token : 0, Posbility: 0.0427
+Next Token : 1, Posbility: 0.0063
+Next Token :  len, Posbility: 0.0009
+Choose : len,  Posbility: 0.6943
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : ((, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9992
+Next Token : list, Posbility: 0.0002
+Next Token : i, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : str, Posbility: 0.0000
+Choose : l,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : ct, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst
+---------------------------
+Next Token : [, Posbility: 0.8466
+Next Token : ), Posbility: 0.1289
+Next Token : )-, Posbility: 0.0231
+Next Token : )+, Posbility: 0.0003
+Next Token : )), Posbility: 0.0003
+Choose : [,  Posbility: 0.8466
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[
+---------------------------
+Next Token : i, Posbility: 0.9556
+Next Token : 0, Posbility: 0.0424
+Next Token : (, Posbility: 0.0007
+Next Token : 1, Posbility: 0.0006
+Next Token : -, Posbility: 0.0002
+Choose : i,  Posbility: 0.9556
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i
+---------------------------
+Next Token : ]), Posbility: 0.9968
+Next Token : ], Posbility: 0.0017
+Next Token : ][, Posbility: 0.0004
+Next Token : ]),, Posbility: 0.0003
+Next Token : ]., Posbility: 0.0003
+Choose : ]),  Posbility: 0.9968
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])
+---------------------------
+Next Token : ):, Posbility: 0.9460
+Next Token : -, Posbility: 0.0400
+Next Token :  -, Posbility: 0.0129
+Next Token : //, Posbility: 0.0005
+Next Token : +, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9460
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+---------------------------
+Next Token : 
+, Posbility: 0.9872
+Next Token :  #, Posbility: 0.0036
+Next Token :  , Posbility: 0.0029
+Next Token :   , Posbility: 0.0013
+Next Token : 
+
+, Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9872
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+
+---------------------------
+Next Token :             , Posbility: 0.9929
+Next Token :                 , Posbility: 0.0018
+Next Token :            , Posbility: 0.0016
+Next Token :              , Posbility: 0.0011
+Next Token :           , Posbility: 0.0009
+Choose :             ,  Posbility: 0.9929
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            
+---------------------------
+Next Token : l, Posbility: 0.7044
+Next Token : if, Posbility: 0.1511
+Next Token : temp, Posbility: 0.0224
+Next Token : for, Posbility: 0.0206
+Next Token : print, Posbility: 0.0186
+Choose : l,  Posbility: 0.7044
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            l
+---------------------------
+Next Token : st, Posbility: 0.9994
+Next Token :  =, Posbility: 0.0002
+Next Token : [, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : st,  Posbility: 0.9994
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst
+---------------------------
+Next Token : [, Posbility: 0.9986
+Next Token : ., Posbility: 0.0006
+Next Token : _, Posbility: 0.0003
+Next Token :  =, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Choose : [,  Posbility: 0.9986
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[
+---------------------------
+Next Token : i, Posbility: 0.9968
+Next Token : j, Posbility: 0.0029
+Next Token : 0, Posbility: 0.0002
+Next Token : len, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : i,  Posbility: 0.9968
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i
+---------------------------
+Next Token : ][, Posbility: 0.9600
+Next Token : ]., Posbility: 0.0362
+Next Token : ], Posbility: 0.0022
+Next Token : ,, Posbility: 0.0011
+Next Token : +, Posbility: 0.0001
+Choose : ][,  Posbility: 0.9600
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][
+---------------------------
+Next Token : j, Posbility: 0.9988
+Next Token : 0, Posbility: 0.0003
+Next Token : -, Posbility: 0.0002
+Next Token : ', Posbility: 0.0001
+Next Token : i, Posbility: 0.0001
+Choose : j,  Posbility: 0.9988
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j
+---------------------------
+Next Token : ], Posbility: 0.8998
+Next Token : ]=, Posbility: 0.0467
+Next Token : ]., Posbility: 0.0323
+Next Token : ],, Posbility: 0.0188
+Next Token : ][, Posbility: 0.0007
+Choose : ],  Posbility: 0.8998
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j]
+---------------------------
+Next Token :  =, Posbility: 0.9880
+Next Token : =', Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0033
+Next Token : 
+
+, Posbility: 0.0010
+Next Token :  +=, Posbility: 0.0010
+Choose :  =,  Posbility: 0.9880
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] =
+---------------------------
+Next Token :  l, Posbility: 0.3394
+Next Token :  str, Posbility: 0.2104
+Next Token :  sorted, Posbility: 0.1301
+Next Token :  int, Posbility: 0.0652
+Next Token :  ', Posbility: 0.0453
+Choose :  l,  Posbility: 0.3394
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = l
+---------------------------
+Next Token : st, Posbility: 0.9989
+Next Token : [, Posbility: 0.0002
+Next Token : sts, Posbility: 0.0002
+Next Token : str, Posbility: 0.0001
+Next Token : ist, Posbility: 0.0001
+Choose : st,  Posbility: 0.9989
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst
+---------------------------
+Next Token : [, Posbility: 0.9959
+Next Token : _, Posbility: 0.0021
+Next Token : ., Posbility: 0.0012
+Next Token :  [, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Choose : [,  Posbility: 0.9959
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[
+---------------------------
+Next Token : i, Posbility: 0.9961
+Next Token : j, Posbility: 0.0031
+Next Token : 0, Posbility: 0.0004
+Next Token : len, Posbility: 0.0000
+Next Token :  i, Posbility: 0.0000
+Choose : i,  Posbility: 0.9961
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i
+---------------------------
+Next Token : ][, Posbility: 0.9891
+Next Token : ]., Posbility: 0.0097
+Next Token : ], Posbility: 0.0007
+Next Token : +, Posbility: 0.0002
+Next Token : -, Posbility: 0.0001
+Choose : ][,  Posbility: 0.9891
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][
+---------------------------
+Next Token : j, Posbility: 0.9976
+Next Token : 0, Posbility: 0.0008
+Next Token : len, Posbility: 0.0003
+Next Token : -, Posbility: 0.0002
+Next Token : l, Posbility: 0.0002
+Choose : j,  Posbility: 0.9976
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j
+---------------------------
+Next Token : ]., Posbility: 0.9918
+Next Token : ][, Posbility: 0.0066
+Next Token : ], Posbility: 0.0014
+Next Token : ]+, Posbility: 0.0001
+Next Token : ],, Posbility: 0.0000
+Choose : ].,  Posbility: 0.9918
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].
+---------------------------
+Next Token : lower, Posbility: 0.5030
+Next Token : upper, Posbility: 0.1866
+Next Token : replace, Posbility: 0.0747
+Next Token : strip, Posbility: 0.0740
+Next Token : title, Posbility: 0.0381
+Choose : lower,  Posbility: 0.5030
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower
+---------------------------
+Next Token : (), Posbility: 0.9718
+Next Token : ()., Posbility: 0.0250
+Next Token : ();, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0008
+Next Token : (, Posbility: 0.0002
+Choose : (),  Posbility: 0.9718
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+---------------------------
+Next Token : 
+, Posbility: 0.8447
+Next Token : 
+
+, Posbility: 0.0819
+Next Token :  #, Posbility: 0.0419
+Next Token :  , Posbility: 0.0096
+Next Token :   , Posbility: 0.0049
+Choose : 
+,  Posbility: 0.8447
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+
+---------------------------
+Next Token :     , Posbility: 0.6321
+Next Token :             , Posbility: 0.1288
+Next Token : 
+, Posbility: 0.1212
+Next Token :         , Posbility: 0.0836
+Next Token : <|endoftext|>, Posbility: 0.0068
+Choose :     ,  Posbility: 0.6321
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    
+---------------------------
+Next Token : return, Posbility: 0.6841
+Next Token : l, Posbility: 0.1012
+Next Token : for, Posbility: 0.0731
+Next Token : print, Posbility: 0.0354
+Next Token : 
+, Posbility: 0.0346
+Choose : return,  Posbility: 0.6841
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return
+---------------------------
+Next Token :  l, Posbility: 0.8909
+Next Token :  sorted, Posbility: 0.0629
+Next Token : (, Posbility: 0.0253
+Next Token :  (, Posbility: 0.0052
+Next Token :  [, Posbility: 0.0044
+Choose :  l,  Posbility: 0.8909
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return lst
+---------------------------
+Next Token : 
+, Posbility: 0.7171
+Next Token : 
+
+, Posbility: 0.1977
+Next Token : <|endoftext|>, Posbility: 0.0549
+Next Token :  , Posbility: 0.0107
+Next Token :     , Posbility: 0.0038
+Choose : 
+,  Posbility: 0.7171
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return lst
+
+---------------------------
+Next Token : 
+, Posbility: 0.7478
+Next Token : <|endoftext|>, Posbility: 0.0981
+Next Token :     , Posbility: 0.0475
+Next Token : '', Posbility: 0.0188
+Next Token : #, Posbility: 0.0172
+Choose : 
+,  Posbility: 0.7478
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return lst
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9212
+Next Token : <|endoftext|>, Posbility: 0.0386
+Next Token : 
+
+, Posbility: 0.0196
+Next Token :     , Posbility: 0.0145
+Next Token :         , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9212
+---------------------------
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return lst
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.2913
+Next Token : '', Posbility: 0.2737
+Next Token : #, Posbility: 0.1840
+Next Token : 
+, Posbility: 0.0543
+Next Token : if, Posbility: 0.0513
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 12.297553062438965
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to sort each sublist of strings in a given list of lists.'''
+def sort_list(lst):
+    '''Sort each sublist of strings in a given list of lists.'''
+    for i in range(len(lst)):
+        for j in range(len(lst[i])):
+            lst[i][j] = lst[i][j].lower()
+    return lst
+
+
+

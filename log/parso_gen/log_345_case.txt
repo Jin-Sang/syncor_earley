@@ -1,0 +1,1054 @@
+<<<<<<<<<<<< 345 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2218
+Next Token : ia, Posbility: 0.1596
+Next Token : iz, Posbility: 0.0469
+Next Token : ile, Posbility: 0.0448
+Next Token : ive, Posbility: 0.0395
+syntax error : 
+
+Choose : ia, Posbility: 0.1596
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia
+---------------------------
+Next Token : _, Posbility: 0.2304
+Next Token : verage, Posbility: 0.1997
+Next Token : (, Posbility: 0.1707
+Next Token : a, Posbility: 0.0649
+Next Token : ver, Posbility: 0.0424
+Choose : _, Posbility: 0.2304
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_
+---------------------------
+Next Token : path, Posbility: 0.0810
+Next Token : s, Posbility: 0.0531
+Next Token : al, Posbility: 0.0508
+Next Token : square, Posbility: 0.0446
+Next Token : mat, Posbility: 0.0324
+Choose : path, Posbility: 0.0810
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path
+---------------------------
+Next Token : (, Posbility: 0.5752
+Next Token : _, Posbility: 0.2753
+Next Token : s, Posbility: 0.1055
+Next Token : ():, Posbility: 0.0064
+Next Token : finder, Posbility: 0.0053
+Choose : (, Posbility: 0.5752
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(
+---------------------------
+Next Token : mat, Posbility: 0.1403
+Next Token : N, Posbility: 0.0882
+Next Token : n, Posbility: 0.0628
+Next Token : square, Posbility: 0.0625
+Next Token : A, Posbility: 0.0533
+Choose : mat, Posbility: 0.1403
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(mat
+---------------------------
+Next Token : rix, Posbility: 0.8275
+Next Token : ):, Posbility: 0.0808
+Next Token : ,, Posbility: 0.0661
+Next Token : :, Posbility: 0.0073
+Next Token : _, Posbility: 0.0041
+Choose : rix, Posbility: 0.8275
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix
+---------------------------
+Next Token : ):, Posbility: 0.6164
+Next Token : ,, Posbility: 0.2967
+Next Token : :, Posbility: 0.0409
+Next Token : _, Posbility: 0.0327
+Next Token : 1, Posbility: 0.0031
+Choose : ):, Posbility: 0.6164
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+---------------------------
+Next Token : 
+, Posbility: 0.8972
+Next Token : 
+
+, Posbility: 0.0412
+Next Token : , Posbility: 0.0255
+Next Token :  , Posbility: 0.0175
+Next Token :  #, Posbility: 0.0064
+Choose : 
+, Posbility: 0.8972
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+
+---------------------------
+Next Token :     , Posbility: 0.9315
+Next Token : 	, Posbility: 0.0270
+Next Token :   , Posbility: 0.0268
+Next Token :    , Posbility: 0.0053
+Next Token :         , Posbility: 0.0035
+Choose :     , Posbility: 0.9315
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    
+---------------------------
+Next Token : n, Posbility: 0.1481
+Next Token : N, Posbility: 0.1247
+Next Token : #, Posbility: 0.0773
+Next Token : total, Posbility: 0.0597
+Next Token : '', Posbility: 0.0537
+Choose : n, Posbility: 0.1481
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n
+---------------------------
+Next Token :  =, Posbility: 0.7619
+Next Token : =, Posbility: 0.1182
+Next Token : ,, Posbility: 0.0781
+Next Token : _, Posbility: 0.0169
+Next Token : umbers, Posbility: 0.0043
+Choose :  =, Posbility: 0.7619
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n =
+---------------------------
+Next Token :  len, Posbility: 0.9841
+Next Token :  int, Posbility: 0.0045
+Next Token :  0, Posbility: 0.0027
+Next Token :  matrix, Posbility: 0.0019
+Next Token : len, Posbility: 0.0009
+Choose :  len, Posbility: 0.9841
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token : ([, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Choose : (, Posbility: 0.9998
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(
+---------------------------
+Next Token : mat, Posbility: 0.9995
+Next Token : list, Posbility: 0.0001
+Next Token :  matrix, Posbility: 0.0000
+Next Token : set, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Choose : mat, Posbility: 0.9995
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(mat
+---------------------------
+Next Token : rix, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : riz, Posbility: 0.0000
+Next Token : r, Posbility: 0.0000
+Choose : rix, Posbility: 1.0000
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix
+---------------------------
+Next Token : ), Posbility: 0.9413
+Next Token : [, Posbility: 0.0516
+Next Token : );, Posbility: 0.0028
+Next Token : )-, Posbility: 0.0028
+Next Token : )*, Posbility: 0.0009
+Choose : ), Posbility: 0.9413
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+---------------------------
+Next Token : 
+, Posbility: 0.9419
+Next Token : 
+
+, Posbility: 0.0248
+Next Token :  #, Posbility: 0.0115
+Next Token :  , Posbility: 0.0061
+Next Token :   , Posbility: 0.0035
+Choose : 
+, Posbility: 0.9419
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+
+---------------------------
+Next Token :     , Posbility: 0.9983
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token :  , Posbility: 0.0002
+Choose :     , Posbility: 0.9983
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    
+---------------------------
+Next Token : m, Posbility: 0.1381
+Next Token : if, Posbility: 0.0914
+Next Token : total, Posbility: 0.0740
+Next Token : sum, Posbility: 0.0482
+Next Token : #, Posbility: 0.0443
+Choose : m, Posbility: 0.1381
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m
+---------------------------
+Next Token :  =, Posbility: 0.9889
+Next Token : =, Posbility: 0.0071
+Next Token : ,, Posbility: 0.0009
+Next Token : _, Posbility: 0.0007
+Next Token : oves, Posbility: 0.0004
+Choose :  =, Posbility: 0.9889
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m =
+---------------------------
+Next Token :  len, Posbility: 0.9845
+Next Token :  n, Posbility: 0.0063
+Next Token :  0, Posbility: 0.0017
+Next Token :  max, Posbility: 0.0010
+Next Token :  sum, Posbility: 0.0010
+Choose :  len, Posbility: 0.9845
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0003
+Next Token : ([, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0000
+Next Token : (', Posbility: 0.0000
+Choose : (, Posbility: 0.9996
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(
+---------------------------
+Next Token : mat, Posbility: 0.9998
+Next Token : list, Posbility: 0.0000
+Next Token : m, Posbility: 0.0000
+Next Token : row, Posbility: 0.0000
+Next Token : map, Posbility: 0.0000
+Choose : mat, Posbility: 0.9998
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(mat
+---------------------------
+Next Token : rix, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : r, Posbility: 0.0000
+Next Token : rx, Posbility: 0.0000
+Next Token : ric, Posbility: 0.0000
+Choose : rix, Posbility: 1.0000
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix
+---------------------------
+Next Token : [, Posbility: 0.9963
+Next Token : ), Posbility: 0.0034
+Next Token :  [, Posbility: 0.0002
+Next Token : )*, Posbility: 0.0000
+Next Token : )-, Posbility: 0.0000
+Choose : [, Posbility: 0.9963
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[
+---------------------------
+Next Token : 0, Posbility: 0.9987
+Next Token : 1, Posbility: 0.0006
+Next Token : -, Posbility: 0.0003
+Next Token : n, Posbility: 0.0001
+Next Token : i, Posbility: 0.0001
+Choose : 0, Posbility: 0.9987
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0
+---------------------------
+Next Token : ]), Posbility: 0.9996
+Next Token : ][, Posbility: 0.0002
+Next Token : ], Posbility: 0.0001
+Next Token : ]);, Posbility: 0.0001
+Next Token : ]., Posbility: 0.0000
+Choose : ]), Posbility: 0.9996
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+---------------------------
+Next Token : 
+, Posbility: 0.8556
+Next Token : 
+
+, Posbility: 0.1324
+Next Token :  , Posbility: 0.0036
+Next Token :  #, Posbility: 0.0028
+Next Token :  if, Posbility: 0.0020
+Choose : 
+, Posbility: 0.8556
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+
+---------------------------
+Next Token :     , Posbility: 0.9924
+Next Token :         , Posbility: 0.0023
+Next Token :  , Posbility: 0.0013
+Next Token :    , Posbility: 0.0012
+Next Token :   , Posbility: 0.0006
+Choose :     , Posbility: 0.9924
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    
+---------------------------
+Next Token : total, Posbility: 0.0856
+Next Token : 
+, Posbility: 0.0771
+Next Token : path, Posbility: 0.0676
+Next Token : sum, Posbility: 0.0638
+Next Token : cost, Posbility: 0.0471
+Choose : total, Posbility: 0.0856
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total
+---------------------------
+Next Token : _, Posbility: 0.5133
+Next Token :  =, Posbility: 0.3772
+Next Token : Cost, Posbility: 0.0652
+Next Token : cost, Posbility: 0.0133
+Next Token : ,, Posbility: 0.0042
+Choose : _, Posbility: 0.5133
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_
+---------------------------
+Next Token : cost, Posbility: 0.7863
+Next Token : sum, Posbility: 0.0620
+Next Token : path, Posbility: 0.0250
+Next Token : c, Posbility: 0.0138
+Next Token : vis, Posbility: 0.0108
+Choose : cost, Posbility: 0.7863
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost
+---------------------------
+Next Token :  =, Posbility: 0.9593
+Next Token : _, Posbility: 0.0125
+Next Token : s, Posbility: 0.0114
+Next Token : =, Posbility: 0.0087
+Next Token : ,, Posbility: 0.0060
+Choose :  =, Posbility: 0.9593
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost =
+---------------------------
+Next Token :  0, Posbility: 0.8764
+Next Token :  sum, Posbility: 0.0229
+Next Token :  [], Posbility: 0.0134
+Next Token :  [, Posbility: 0.0130
+Next Token :  float, Posbility: 0.0111
+Choose :  0, Posbility: 0.8764
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8195
+Next Token : 
+
+, Posbility: 0.1015
+Next Token : ., Posbility: 0.0631
+Next Token :  , Posbility: 0.0074
+Next Token :  #, Posbility: 0.0030
+Choose : 
+, Posbility: 0.8195
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9975
+Next Token :         , Posbility: 0.0007
+Next Token :  , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Next Token : #, Posbility: 0.0002
+Choose :     , Posbility: 0.9975
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.2080
+Next Token : vis, Posbility: 0.1511
+Next Token : path, Posbility: 0.1159
+Next Token : total, Posbility: 0.0795
+Next Token : 
+, Posbility: 0.0359
+Choose : for, Posbility: 0.2080
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7675
+Next Token :  row, Posbility: 0.0722
+Next Token :  x, Posbility: 0.0292
+Next Token :  r, Posbility: 0.0205
+Next Token :  j, Posbility: 0.0204
+Choose :  i, Posbility: 0.7675
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9960
+Next Token : ,, Posbility: 0.0027
+Next Token : _, Posbility: 0.0005
+Next Token : 1, Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Choose :  in, Posbility: 0.9960
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9863
+Next Token :  matrix, Posbility: 0.0114
+Next Token :  x, Posbility: 0.0008
+Next Token :  reversed, Posbility: 0.0005
+Next Token :  list, Posbility: 0.0002
+Choose :  range, Posbility: 0.9863
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9903
+Next Token :  (, Posbility: 0.0090
+Next Token : ((, Posbility: 0.0003
+Next Token : (-, Posbility: 0.0003
+Next Token :  (-, Posbility: 0.0000
+Choose : (, Posbility: 0.9903
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(
+---------------------------
+Next Token : n, Posbility: 0.7324
+Next Token : 0, Posbility: 0.1393
+Next Token : 1, Posbility: 0.0737
+Next Token : m, Posbility: 0.0398
+Next Token : len, Posbility: 0.0094
+Choose : n, Posbility: 0.7324
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n
+---------------------------
+Next Token : ):, Posbility: 0.8911
+Next Token : -, Posbility: 0.0729
+Next Token :  -, Posbility: 0.0249
+Next Token : +, Posbility: 0.0035
+Next Token : *, Posbility: 0.0029
+Choose : ):, Posbility: 0.8911
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9816
+Next Token :  #, Posbility: 0.0064
+Next Token :  , Posbility: 0.0043
+Next Token :   , Posbility: 0.0028
+Next Token :     , Posbility: 0.0008
+Choose : 
+, Posbility: 0.9816
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+
+---------------------------
+Next Token :         , Posbility: 0.9915
+Next Token :       , Posbility: 0.0031
+Next Token :             , Posbility: 0.0021
+Next Token :        , Posbility: 0.0013
+Next Token :     , Posbility: 0.0006
+Choose :         , Posbility: 0.9915
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        
+---------------------------
+Next Token : for, Posbility: 0.8153
+Next Token : total, Posbility: 0.1177
+Next Token : row, Posbility: 0.0074
+Next Token : temp, Posbility: 0.0054
+Next Token : sum, Posbility: 0.0048
+Choose : for, Posbility: 0.8153
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9919
+Next Token :  k, Posbility: 0.0033
+Next Token :  x, Posbility: 0.0008
+Next Token :  y, Posbility: 0.0005
+Next Token :  e, Posbility: 0.0004
+Choose :  j, Posbility: 0.9919
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9996
+Next Token : ,, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose :  in, Posbility: 0.9996
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9996
+Next Token :   , Posbility: 0.0001
+Next Token :  reversed, Posbility: 0.0001
+Next Token :  matrix, Posbility: 0.0000
+Next Token :  [, Posbility: 0.0000
+Choose :  range, Posbility: 0.9996
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9981
+Next Token :  (, Posbility: 0.0018
+Next Token : ((, Posbility: 0.0001
+Next Token : (-, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : (, Posbility: 0.9981
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(
+---------------------------
+Next Token : m, Posbility: 0.8663
+Next Token : n, Posbility: 0.1050
+Next Token : i, Posbility: 0.0126
+Next Token : 0, Posbility: 0.0053
+Next Token : 1, Posbility: 0.0052
+Choose : m, Posbility: 0.8663
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m
+---------------------------
+Next Token : ):, Posbility: 0.9829
+Next Token : -, Posbility: 0.0126
+Next Token :  -, Posbility: 0.0035
+Next Token : +, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0002
+Choose : ):, Posbility: 0.9829
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+---------------------------
+Next Token : 
+, Posbility: 0.9938
+Next Token :  , Posbility: 0.0027
+Next Token : 
+
+, Posbility: 0.0012
+Next Token :  #, Posbility: 0.0005
+Next Token :     , Posbility: 0.0004
+Choose : 
+, Posbility: 0.9938
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+
+---------------------------
+Next Token :             , Posbility: 0.9958
+Next Token :                 , Posbility: 0.0012
+Next Token :            , Posbility: 0.0010
+Next Token :           , Posbility: 0.0006
+Next Token :              , Posbility: 0.0005
+Choose :             , Posbility: 0.9958
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            
+---------------------------
+Next Token : total, Posbility: 0.5937
+Next Token : if, Posbility: 0.2243
+Next Token : for, Posbility: 0.0203
+Next Token : cost, Posbility: 0.0190
+Next Token : #, Posbility: 0.0166
+Choose : total, Posbility: 0.5937
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total
+---------------------------
+Next Token : _, Posbility: 0.9906
+Next Token :  =, Posbility: 0.0089
+Next Token : Cost, Posbility: 0.0003
+Next Token : cost, Posbility: 0.0001
+Next Token :  +=, Posbility: 0.0001
+Choose : _, Posbility: 0.9906
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_
+---------------------------
+Next Token : cost, Posbility: 0.9971
+Next Token : sum, Posbility: 0.0006
+Next Token : path, Posbility: 0.0004
+Next Token : vis, Posbility: 0.0002
+Next Token : c, Posbility: 0.0001
+Choose : cost, Posbility: 0.9971
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost
+---------------------------
+Next Token :  +=, Posbility: 0.9332
+Next Token :  =, Posbility: 0.0384
+Next Token : +=, Posbility: 0.0244
+Next Token :  -=, Posbility: 0.0018
+Next Token : _, Posbility: 0.0011
+Choose :  +=, Posbility: 0.9332
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost +=
+---------------------------
+Next Token :  matrix, Posbility: 0.9270
+Next Token :  (, Posbility: 0.0202
+Next Token :  int, Posbility: 0.0071
+Next Token :  mat, Posbility: 0.0066
+Next Token :  abs, Posbility: 0.0062
+Choose :  matrix, Posbility: 0.9270
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix
+---------------------------
+Next Token : [, Posbility: 0.9994
+Next Token :  [, Posbility: 0.0005
+Next Token : _, Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : [, Posbility: 0.9994
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[
+---------------------------
+Next Token : i, Posbility: 0.9976
+Next Token : j, Posbility: 0.0011
+Next Token : n, Posbility: 0.0010
+Next Token : (, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0001
+Choose : i, Posbility: 0.9976
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i
+---------------------------
+Next Token : ][, Posbility: 0.9971
+Next Token : -, Posbility: 0.0017
+Next Token : ]., Posbility: 0.0004
+Next Token :  -, Posbility: 0.0003
+Next Token : +, Posbility: 0.0002
+Choose : ][, Posbility: 0.9971
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][
+---------------------------
+Next Token : j, Posbility: 0.9991
+Next Token : m, Posbility: 0.0005
+Next Token : i, Posbility: 0.0001
+Next Token : mat, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Choose : j, Posbility: 0.9991
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j
+---------------------------
+Next Token : ], Posbility: 0.9909
+Next Token : ][, Posbility: 0.0053
+Next Token : ]., Posbility: 0.0016
+Next Token : ]+, Posbility: 0.0013
+Next Token : ];, Posbility: 0.0005
+Choose : ], Posbility: 0.9909
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+---------------------------
+Next Token : 
+, Posbility: 0.7570
+Next Token : 
+
+, Posbility: 0.1067
+Next Token :  *, Posbility: 0.0710
+Next Token : *, Posbility: 0.0336
+Next Token :  , Posbility: 0.0055
+Choose : 
+, Posbility: 0.7570
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+
+---------------------------
+Next Token :     , Posbility: 0.8978
+Next Token :         , Posbility: 0.0575
+Next Token :             , Posbility: 0.0420
+Next Token : 
+, Posbility: 0.0003
+Next Token :      , Posbility: 0.0003
+Choose :     , Posbility: 0.8978
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    
+---------------------------
+Next Token : return, Posbility: 0.2683
+Next Token : total, Posbility: 0.0995
+Next Token : av, Posbility: 0.0969
+Next Token : average, Posbility: 0.0830
+Next Token : for, Posbility: 0.0789
+Choose : return, Posbility: 0.2683
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return
+---------------------------
+Next Token :  total, Posbility: 0.8390
+Next Token :  (, Posbility: 0.0365
+Next Token :  round, Posbility: 0.0209
+Next Token :  int, Posbility: 0.0187
+Next Token :  float, Posbility: 0.0152
+Choose :  total, Posbility: 0.8390
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return total
+---------------------------
+Next Token : _, Posbility: 0.9995
+Next Token : /, Posbility: 0.0003
+Next Token :  /, Posbility: 0.0001
+Next Token : (, Posbility: 0.0000
+Next Token :  //, Posbility: 0.0000
+Choose : _, Posbility: 0.9995
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return total_
+---------------------------
+Next Token : cost, Posbility: 0.9999
+Next Token : price, Posbility: 0.0000
+Next Token : sum, Posbility: 0.0000
+Next Token : weight, Posbility: 0.0000
+Next Token : total, Posbility: 0.0000
+Choose : cost, Posbility: 0.9999
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return total_cost
+---------------------------
+Next Token : /, Posbility: 0.6079
+Next Token :  /, Posbility: 0.2475
+Next Token :  //, Posbility: 0.0682
+Next Token : //, Posbility: 0.0380
+Next Token : 
+, Posbility: 0.0166
+Choose : /, Posbility: 0.6079
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return total_cost/
+---------------------------
+Next Token : n, Posbility: 0.9192
+Next Token : m, Posbility: 0.0310
+Next Token : len, Posbility: 0.0209
+Next Token : float, Posbility: 0.0107
+Next Token : ((, Posbility: 0.0043
+Choose : n, Posbility: 0.9192
+---------------------------
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return total_cost/n
+---------------------------
+Next Token : 
+, Posbility: 0.6746
+Next Token : 
+
+, Posbility: 0.1906
+Next Token : <|endoftext|>, Posbility: 0.0481
+Next Token : /, Posbility: 0.0268
+Next Token : ,, Posbility: 0.0142
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 18.698586225509644
+
+
+
+----------No Syntax Error--------
+
+'''Given a square matrix of size N*N given as a list of lists, where each cell is associated with a specific cost. A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell. We want to find a path with the maximum average over all existing paths. Average is computed as total cost divided by the number of cells visited in the path.'''
+def ia_path(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    total_cost = 0
+    for i in range(n):
+        for j in range(m):
+            total_cost += matrix[i][j]
+    return total_cost/n
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

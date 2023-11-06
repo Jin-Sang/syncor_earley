@@ -1,0 +1,2271 @@
+<<<<<<<<<<<< 147 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sum, Posbility: 0.2237
+Next Token :  bin, Posbility: 0.2220
+Next Token :  find, Posbility: 0.0449
+Next Token :  even, Posbility: 0.0392
+Next Token :  Sum, Posbility: 0.0367
+Choose :  sum,  Posbility: 0.2237
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum
+---------------------------
+Next Token : _, Posbility: 0.5849
+Next Token : Even, Posbility: 0.1596
+Next Token : Of, Posbility: 0.0776
+Next Token : (, Posbility: 0.0361
+Next Token : B, Posbility: 0.0311
+Choose : _,  Posbility: 0.5849
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_
+---------------------------
+Next Token : even, Posbility: 0.5374
+Next Token : of, Posbility: 0.2363
+Next Token : bin, Posbility: 0.0876
+Next Token : odd, Posbility: 0.0218
+Next Token : index, Posbility: 0.0128
+Choose : even,  Posbility: 0.5374
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even
+---------------------------
+Next Token : _, Posbility: 0.7147
+Next Token : (, Posbility: 0.2682
+Next Token : s, Posbility: 0.0059
+Next Token : ():, Posbility: 0.0020
+Next Token :  (, Posbility: 0.0010
+Choose : _,  Posbility: 0.7147
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_
+---------------------------
+Next Token : index, Posbility: 0.3658
+Next Token : bin, Posbility: 0.2528
+Next Token : co, Posbility: 0.1498
+Next Token : b, Posbility: 0.0644
+Next Token : ind, Posbility: 0.0265
+Choose : index,  Posbility: 0.3658
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index
+---------------------------
+Next Token : _, Posbility: 0.8189
+Next Token : (, Posbility: 0.1558
+Next Token : ed, Posbility: 0.0122
+Next Token : B, Posbility: 0.0032
+Next Token : ing, Posbility: 0.0018
+Choose : _,  Posbility: 0.8189
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_
+---------------------------
+Next Token : bin, Posbility: 0.5034
+Next Token : co, Posbility: 0.3056
+Next Token : b, Posbility: 0.0869
+Next Token : binary, Posbility: 0.0221
+Next Token : c, Posbility: 0.0037
+Choose : bin,  Posbility: 0.5034
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_bin
+---------------------------
+Next Token : omial, Posbility: 0.5574
+Next Token : om, Posbility: 0.4153
+Next Token : (, Posbility: 0.0101
+Next Token : _, Posbility: 0.0063
+Next Token : co, Posbility: 0.0022
+Choose : omial,  Posbility: 0.5574
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial
+---------------------------
+Next Token : (, Posbility: 0.5273
+Next Token : _, Posbility: 0.4525
+Next Token : ():, Posbility: 0.0058
+Next Token : co, Posbility: 0.0056
+Next Token :  (, Posbility: 0.0029
+Choose : (,  Posbility: 0.5273
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(
+---------------------------
+Next Token : n, Posbility: 0.9637
+Next Token : num, Posbility: 0.0120
+Next Token : number, Posbility: 0.0049
+Next Token : x, Posbility: 0.0042
+Next Token : i, Posbility: 0.0020
+Choose : n,  Posbility: 0.9637
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n
+---------------------------
+Next Token : ):, Posbility: 0.9471
+Next Token : :, Posbility: 0.0313
+Next Token : ,, Posbility: 0.0114
+Next Token : ), Posbility: 0.0068
+Next Token : =, Posbility: 0.0011
+Choose : ):,  Posbility: 0.9471
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9200
+Next Token : 
+
+, Posbility: 0.0327
+Next Token : , Posbility: 0.0211
+Next Token :  , Posbility: 0.0139
+Next Token :  #, Posbility: 0.0042
+Choose : 
+,  Posbility: 0.9200
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+
+---------------------------
+Next Token :     , Posbility: 0.8879
+Next Token :   , Posbility: 0.0491
+Next Token : 	, Posbility: 0.0489
+Next Token :    , Posbility: 0.0069
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.8879
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    
+---------------------------
+Next Token : '', Posbility: 0.1817
+Next Token : sum, Posbility: 0.1592
+Next Token : if, Posbility: 0.1342
+Next Token : #, Posbility: 0.1084
+Next Token : even, Posbility: 0.0548
+Choose : '',  Posbility: 0.1817
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : ':, Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1524
+Next Token : Return, Posbility: 0.1044
+Next Token : Find, Posbility: 0.0688
+Next Token : Write, Posbility: 0.0649
+Next Token : Returns, Posbility: 0.0450
+Choose : 
+,  Posbility: 0.1524
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9225
+Next Token :         , Posbility: 0.0558
+Next Token :       , Posbility: 0.0045
+Next Token :        , Posbility: 0.0035
+Next Token :      , Posbility: 0.0033
+Choose :     ,  Posbility: 0.9225
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    
+---------------------------
+Next Token : n, Posbility: 0.0709
+Next Token : :, Posbility: 0.0686
+Next Token : This, Posbility: 0.0665
+Next Token : Given, Posbility: 0.0481
+Next Token : Input, Posbility: 0.0422
+Choose : n,  Posbility: 0.0709
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n
+---------------------------
+Next Token : :, Posbility: 0.3948
+Next Token :  is, Posbility: 0.1918
+Next Token :  =, Posbility: 0.1793
+Next Token :  :, Posbility: 0.0442
+Next Token :  -, Posbility: 0.0245
+Choose : :,  Posbility: 0.3948
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n:
+---------------------------
+Next Token :  positive, Posbility: 0.3355
+Next Token :  a, Posbility: 0.0840
+Next Token :  the, Posbility: 0.0793
+Next Token :  an, Posbility: 0.0790
+Next Token :  integer, Posbility: 0.0627
+Choose :  positive,  Posbility: 0.3355
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive
+---------------------------
+Next Token :  integer, Posbility: 0.8609
+Next Token :  int, Posbility: 0.0571
+Next Token :  number, Posbility: 0.0233
+Next Token :  positive, Posbility: 0.0155
+Next Token : ,, Posbility: 0.0059
+Choose :  integer,  Posbility: 0.8609
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+---------------------------
+Next Token : 
+, Posbility: 0.6402
+Next Token : ., Posbility: 0.0889
+Next Token : ,, Posbility: 0.0346
+Next Token :  number, Posbility: 0.0305
+Next Token : 
+
+, Posbility: 0.0259
+Choose : 
+,  Posbility: 0.6402
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+
+---------------------------
+Next Token :     , Posbility: 0.9870
+Next Token :         , Posbility: 0.0082
+Next Token :             , Posbility: 0.0007
+Next Token :      , Posbility: 0.0006
+Next Token : 	, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9870
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    
+---------------------------
+Next Token : return, Posbility: 0.3339
+Next Token : '', Posbility: 0.1938
+Next Token : Return, Posbility: 0.1057
+Next Token : 
+, Posbility: 0.0938
+Next Token : Returns, Posbility: 0.0884
+Choose : return,  Posbility: 0.3339
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    return
+---------------------------
+Next Token : s, Posbility: 0.6123
+Next Token : :, Posbility: 0.2911
+Next Token :  sum, Posbility: 0.0550
+Next Token :  the, Posbility: 0.0169
+Next Token :  a, Posbility: 0.0059
+Choose : s,  Posbility: 0.6123
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns
+---------------------------
+Next Token : :, Posbility: 0.5564
+Next Token :  the, Posbility: 0.1873
+Next Token :  sum, Posbility: 0.1834
+Next Token :  an, Posbility: 0.0151
+Next Token :  a, Posbility: 0.0142
+Choose : :,  Posbility: 0.5564
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns:
+---------------------------
+Next Token :  sum, Posbility: 0.4068
+Next Token :  the, Posbility: 0.1719
+Next Token :  positive, Posbility: 0.1533
+Next Token :  integer, Posbility: 0.0759
+Next Token :  a, Posbility: 0.0310
+Choose :  sum,  Posbility: 0.4068
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum
+---------------------------
+Next Token :  of, Posbility: 0.9736
+Next Token : _, Posbility: 0.0056
+Next Token :  even, Posbility: 0.0051
+Next Token : 
+, Posbility: 0.0035
+Next Token : (, Posbility: 0.0014
+Choose :  of,  Posbility: 0.9736
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of
+---------------------------
+Next Token :  even, Posbility: 0.7164
+Next Token :  all, Posbility: 0.0578
+Next Token :  odd, Posbility: 0.0479
+Next Token :  the, Posbility: 0.0314
+Next Token :  bin, Posbility: 0.0234
+Choose :  even,  Posbility: 0.7164
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even
+---------------------------
+Next Token :  index, Posbility: 0.7312
+Next Token :  bin, Posbility: 0.1298
+Next Token :  indexed, Posbility: 0.0367
+Next Token :  indices, Posbility: 0.0111
+Next Token : -, Posbility: 0.0110
+Choose :  index,  Posbility: 0.7312
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index
+---------------------------
+Next Token :  bin, Posbility: 0.9149
+Next Token :  b, Posbility: 0.0209
+Next Token :  binary, Posbility: 0.0194
+Next Token : -, Posbility: 0.0034
+Next Token :  coefficients, Posbility: 0.0030
+Choose :  bin,  Posbility: 0.9149
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index bin
+---------------------------
+Next Token : omial, Posbility: 0.9530
+Next Token : om, Posbility: 0.0438
+Next Token : co, Posbility: 0.0003
+Next Token : oma, Posbility: 0.0002
+Next Token : omb, Posbility: 0.0002
+Choose : omial,  Posbility: 0.9530
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial
+---------------------------
+Next Token :  coefficients, Posbility: 0.9049
+Next Token :  coefficient, Posbility: 0.0530
+Next Token :  co, Posbility: 0.0248
+Next Token : 
+, Posbility: 0.0040
+Next Token :  terms, Posbility: 0.0014
+Choose :  coefficients,  Posbility: 0.9049
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+---------------------------
+Next Token : 
+, Posbility: 0.6286
+Next Token : ., Posbility: 0.0731
+Next Token : 
+
+, Posbility: 0.0610
+Next Token :  of, Posbility: 0.0601
+Next Token :  for, Posbility: 0.0322
+Choose : 
+,  Posbility: 0.6286
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+
+---------------------------
+Next Token :     , Posbility: 0.9868
+Next Token :         , Posbility: 0.0049
+Next Token :             , Posbility: 0.0030
+Next Token :               , Posbility: 0.0008
+Next Token :              , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9868
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    
+---------------------------
+Next Token : '', Posbility: 0.9184
+Next Token : >>>, Posbility: 0.0157
+Next Token : 
+, Posbility: 0.0082
+Next Token : example, Posbility: 0.0027
+Next Token : n, Posbility: 0.0026
+Choose : '',  Posbility: 0.9184
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9316
+Next Token : 
+
+, Posbility: 0.0599
+Next Token :  , Posbility: 0.0038
+Next Token :     , Posbility: 0.0024
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9316
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9952
+Next Token :         , Posbility: 0.0007
+Next Token :    , Posbility: 0.0007
+Next Token :   , Posbility: 0.0007
+Next Token : #, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9952
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    
+---------------------------
+Next Token : if, Posbility: 0.1743
+Next Token : sum, Posbility: 0.1355
+Next Token : #, Posbility: 0.1184
+Next Token : return, Posbility: 0.0721
+Next Token : result, Posbility: 0.0516
+Choose : if,  Posbility: 0.1743
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if
+---------------------------
+Next Token :  n, Posbility: 0.8077
+Next Token :  (, Posbility: 0.0772
+Next Token : (, Posbility: 0.0583
+Next Token :  not, Posbility: 0.0232
+Next Token :  type, Posbility: 0.0094
+Choose :  n,  Posbility: 0.8077
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n
+---------------------------
+Next Token :  ==, Posbility: 0.3045
+Next Token :  <, Posbility: 0.2193
+Next Token :  <=, Posbility: 0.1670
+Next Token : ==, Posbility: 0.1085
+Next Token : <, Posbility: 0.0971
+Choose :  ==,  Posbility: 0.3045
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n ==
+---------------------------
+Next Token :  0, Posbility: 0.7590
+Next Token :  1, Posbility: 0.2034
+Next Token :  2, Posbility: 0.0193
+Next Token : 0, Posbility: 0.0061
+Next Token :  -, Posbility: 0.0026
+Choose :  0,  Posbility: 0.7590
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0
+---------------------------
+Next Token : :, Posbility: 0.8905
+Next Token :  or, Posbility: 0.0974
+Next Token :  :, Posbility: 0.0106
+Next Token :  and, Posbility: 0.0007
+Next Token : :#, Posbility: 0.0003
+Choose : :,  Posbility: 0.8905
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9144
+Next Token :  return, Posbility: 0.0451
+Next Token :  , Posbility: 0.0137
+Next Token :  #, Posbility: 0.0122
+Next Token :   , Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9144
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9890
+Next Token :       , Posbility: 0.0042
+Next Token :        , Posbility: 0.0024
+Next Token :             , Posbility: 0.0016
+Next Token :          , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9890
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.9395
+Next Token : sum, Posbility: 0.0134
+Next Token : print, Posbility: 0.0084
+Next Token : #, Posbility: 0.0082
+Next Token : result, Posbility: 0.0065
+Choose : return,  Posbility: 0.9395
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return
+---------------------------
+Next Token :  0, Posbility: 0.8216
+Next Token :  1, Posbility: 0.1313
+Next Token :  n, Posbility: 0.0140
+Next Token :  [, Posbility: 0.0036
+Next Token :  [], Posbility: 0.0035
+Choose :  0,  Posbility: 0.8216
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+---------------------------
+Next Token : 
+, Posbility: 0.8948
+Next Token : 
+
+, Posbility: 0.0783
+Next Token :  , Posbility: 0.0076
+Next Token :  #, Posbility: 0.0048
+Next Token : ;, Posbility: 0.0045
+Choose : 
+,  Posbility: 0.8948
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+
+---------------------------
+Next Token :     , Posbility: 0.9893
+Next Token :         , Posbility: 0.0075
+Next Token : #, Posbility: 0.0005
+Next Token :  , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9893
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    
+---------------------------
+Next Token : el, Posbility: 0.3511
+Next Token : if, Posbility: 0.2602
+Next Token : else, Posbility: 0.1461
+Next Token : 
+, Posbility: 0.0520
+Next Token : sum, Posbility: 0.0289
+Choose : el,  Posbility: 0.3511
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif
+---------------------------
+Next Token :  n, Posbility: 0.9739
+Next Token :  (, Posbility: 0.0122
+Next Token :  0, Posbility: 0.0029
+Next Token :  1, Posbility: 0.0017
+Next Token :  not, Posbility: 0.0016
+Choose :  n,  Posbility: 0.9739
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n
+---------------------------
+Next Token :  ==, Posbility: 0.7398
+Next Token :  <, Posbility: 0.1080
+Next Token :  %, Posbility: 0.0595
+Next Token :  <=, Posbility: 0.0356
+Next Token : ==, Posbility: 0.0149
+Choose :  ==,  Posbility: 0.7398
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n ==
+---------------------------
+Next Token :  1, Posbility: 0.9782
+Next Token :  2, Posbility: 0.0090
+Next Token : 1, Posbility: 0.0069
+Next Token :  0, Posbility: 0.0040
+Next Token :  -, Posbility: 0.0005
+Choose :  1,  Posbility: 0.9782
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1
+---------------------------
+Next Token : :, Posbility: 0.9678
+Next Token :  or, Posbility: 0.0306
+Next Token :  :, Posbility: 0.0011
+Next Token :  and, Posbility: 0.0003
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9678
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9909
+Next Token :  , Posbility: 0.0031
+Next Token :  #, Posbility: 0.0016
+Next Token :  return, Posbility: 0.0013
+Next Token :     , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9909
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9972
+Next Token :             , Posbility: 0.0007
+Next Token :        , Posbility: 0.0007
+Next Token :          , Posbility: 0.0005
+Next Token :     , Posbility: 0.0004
+Choose :         ,  Posbility: 0.9972
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.9944
+Next Token : print, Posbility: 0.0019
+Next Token : #, Posbility: 0.0016
+Next Token : if, Posbility: 0.0005
+Next Token : sum, Posbility: 0.0002
+Choose : return,  Posbility: 0.9944
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return
+---------------------------
+Next Token :  1, Posbility: 0.9553
+Next Token :  0, Posbility: 0.0115
+Next Token :  n, Posbility: 0.0104
+Next Token :  2, Posbility: 0.0075
+Next Token :  10, Posbility: 0.0068
+Choose :  1,  Posbility: 0.9553
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+---------------------------
+Next Token : 
+, Posbility: 0.9210
+Next Token : 
+
+, Posbility: 0.0650
+Next Token :  , Posbility: 0.0074
+Next Token :  #, Posbility: 0.0012
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9210
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+
+---------------------------
+Next Token :     , Posbility: 0.9925
+Next Token :         , Posbility: 0.0052
+Next Token :  , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9925
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    
+---------------------------
+Next Token : else, Posbility: 0.5954
+Next Token : el, Posbility: 0.2906
+Next Token : 
+, Posbility: 0.0474
+Next Token : return, Posbility: 0.0134
+Next Token : sum, Posbility: 0.0070
+Choose : else,  Posbility: 0.5954
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else
+---------------------------
+Next Token : :, Posbility: 0.9967
+Next Token :  :, Posbility: 0.0030
+Next Token : 
+, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9967
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9797
+Next Token :  , Posbility: 0.0076
+Next Token :  #, Posbility: 0.0029
+Next Token : 
+
+, Posbility: 0.0024
+Next Token :   , Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9797
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9938
+Next Token :        , Posbility: 0.0017
+Next Token :     , Posbility: 0.0016
+Next Token :       , Posbility: 0.0012
+Next Token :             , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9938
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.6109
+Next Token : sum, Posbility: 0.0517
+Next Token : even, Posbility: 0.0431
+Next Token : result, Posbility: 0.0299
+Next Token : #, Posbility: 0.0205
+Choose : return,  Posbility: 0.6109
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return
+---------------------------
+Next Token :  sum, Posbility: 0.6211
+Next Token :  n, Posbility: 0.1747
+Next Token :  (, Posbility: 0.1056
+Next Token :  int, Posbility: 0.0173
+Next Token :  1, Posbility: 0.0151
+Choose :  sum,  Posbility: 0.6211
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum
+---------------------------
+Next Token : _, Posbility: 0.9150
+Next Token : (, Posbility: 0.0447
+Next Token : ([, Posbility: 0.0348
+Next Token : ((, Posbility: 0.0031
+Next Token : _(, Posbility: 0.0018
+Choose : _,  Posbility: 0.9150
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_
+---------------------------
+Next Token : even, Posbility: 0.9970
+Next Token : odd, Posbility: 0.0010
+Next Token : index, Posbility: 0.0005
+Next Token : of, Posbility: 0.0002
+Next Token : two, Posbility: 0.0001
+Choose : even,  Posbility: 0.9970
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even
+---------------------------
+Next Token : _, Posbility: 0.9996
+Next Token : (, Posbility: 0.0004
+Next Token : ([, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Choose : _,  Posbility: 0.9996
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_
+---------------------------
+Next Token : index, Posbility: 0.9985
+Next Token : bin, Posbility: 0.0011
+Next Token : ind, Posbility: 0.0000
+Next Token : int, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Choose : index,  Posbility: 0.9985
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index
+---------------------------
+Next Token : _, Posbility: 0.9994
+Next Token : (, Posbility: 0.0006
+Next Token : ([, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : _,  Posbility: 0.9994
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_
+---------------------------
+Next Token : bin, Posbility: 0.9981
+Next Token : binary, Posbility: 0.0006
+Next Token : b, Posbility: 0.0004
+Next Token : co, Posbility: 0.0001
+Next Token : bit, Posbility: 0.0001
+Choose : bin,  Posbility: 0.9981
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_bin
+---------------------------
+Next Token : omial, Posbility: 0.9992
+Next Token : om, Posbility: 0.0006
+Next Token : oma, Posbility: 0.0000
+Next Token : onential, Posbility: 0.0000
+Next Token : omal, Posbility: 0.0000
+Choose : omial,  Posbility: 0.9992
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial
+---------------------------
+Next Token : (, Posbility: 0.9931
+Next Token : ((, Posbility: 0.0048
+Next Token : _, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0004
+Next Token : (-, Posbility: 0.0003
+Choose : (,  Posbility: 0.9931
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(
+---------------------------
+Next Token : n, Posbility: 0.9914
+Next Token : 2, Posbility: 0.0033
+Next Token : int, Posbility: 0.0018
+Next Token : 1, Posbility: 0.0008
+Next Token :  n, Posbility: 0.0007
+Choose : n,  Posbility: 0.9914
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n
+---------------------------
+Next Token : -, Posbility: 0.5729
+Next Token :  -, Posbility: 0.3389
+Next Token : //, Posbility: 0.0499
+Next Token :  //, Posbility: 0.0147
+Next Token : /, Posbility: 0.0111
+Choose : -,  Posbility: 0.5729
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-
+---------------------------
+Next Token : 1, Posbility: 0.9518
+Next Token : 2, Posbility: 0.0464
+Next Token : 3, Posbility: 0.0007
+Next Token : 0, Posbility: 0.0004
+Next Token :  1, Posbility: 0.0002
+Choose : 1,  Posbility: 0.9518
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1
+---------------------------
+Next Token : ), Posbility: 0.9394
+Next Token : )*, Posbility: 0.0280
+Next Token : )+, Posbility: 0.0271
+Next Token : )/, Posbility: 0.0039
+Next Token : )\, Posbility: 0.0004
+Choose : ),  Posbility: 0.9394
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1)
+---------------------------
+Next Token :  +, Posbility: 0.9493
+Next Token : 
+, Posbility: 0.0141
+Next Token :  *, Posbility: 0.0135
+Next Token : +(, Posbility: 0.0085
+Next Token : 
+
+, Posbility: 0.0051
+Choose :  +,  Posbility: 0.9493
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) +
+---------------------------
+Next Token :  sum, Posbility: 0.7845
+Next Token :  (, Posbility: 0.0748
+Next Token :  \, Posbility: 0.0419
+Next Token :  n, Posbility: 0.0301
+Next Token :  2, Posbility: 0.0144
+Choose :  sum,  Posbility: 0.7845
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum
+---------------------------
+Next Token : _, Posbility: 0.9659
+Next Token : (, Posbility: 0.0273
+Next Token : ([, Posbility: 0.0051
+Next Token : ((, Posbility: 0.0011
+Next Token : _(, Posbility: 0.0001
+Choose : _,  Posbility: 0.9659
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_
+---------------------------
+Next Token : even, Posbility: 0.9815
+Next Token : odd, Posbility: 0.0076
+Next Token : index, Posbility: 0.0044
+Next Token : bin, Posbility: 0.0008
+Next Token : Even, Posbility: 0.0003
+Choose : even,  Posbility: 0.9815
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even
+---------------------------
+Next Token : _, Posbility: 0.9993
+Next Token : (, Posbility: 0.0007
+Next Token : ((, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Choose : _,  Posbility: 0.9993
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_
+---------------------------
+Next Token : index, Posbility: 0.9986
+Next Token : bin, Posbility: 0.0009
+Next Token : ind, Posbility: 0.0001
+Next Token : int, Posbility: 0.0000
+Next Token : even, Posbility: 0.0000
+Choose : index,  Posbility: 0.9986
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index
+---------------------------
+Next Token : _, Posbility: 0.9993
+Next Token : (, Posbility: 0.0007
+Next Token : ((, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : _(, Posbility: 0.0000
+Choose : _,  Posbility: 0.9993
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_
+---------------------------
+Next Token : bin, Posbility: 0.9985
+Next Token : binary, Posbility: 0.0005
+Next Token : b, Posbility: 0.0003
+Next Token : bit, Posbility: 0.0000
+Next Token : index, Posbility: 0.0000
+Choose : bin,  Posbility: 0.9985
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_bin
+---------------------------
+Next Token : omial, Posbility: 0.9998
+Next Token : om, Posbility: 0.0001
+Next Token : onential, Posbility: 0.0000
+Next Token : rom, Posbility: 0.0000
+Next Token : omb, Posbility: 0.0000
+Choose : omial,  Posbility: 0.9998
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial
+---------------------------
+Next Token : (, Posbility: 0.9936
+Next Token : ((, Posbility: 0.0043
+Next Token : _, Posbility: 0.0007
+Next Token : (-, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0004
+Choose : (,  Posbility: 0.9936
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(
+---------------------------
+Next Token : n, Posbility: 0.9787
+Next Token : 1, Posbility: 0.0110
+Next Token : 2, Posbility: 0.0032
+Next Token : int, Posbility: 0.0025
+Next Token : 
+, Posbility: 0.0010
+Choose : n,  Posbility: 0.9787
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n
+---------------------------
+Next Token : -, Posbility: 0.9084
+Next Token : //, Posbility: 0.0442
+Next Token : /, Posbility: 0.0228
+Next Token : +, Posbility: 0.0073
+Next Token : ), Posbility: 0.0049
+Choose : -,  Posbility: 0.9084
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-
+---------------------------
+Next Token : 2, Posbility: 0.9742
+Next Token : 1, Posbility: 0.0223
+Next Token : 3, Posbility: 0.0021
+Next Token : 0, Posbility: 0.0004
+Next Token : n, Posbility: 0.0003
+Choose : 2,  Posbility: 0.9742
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2
+---------------------------
+Next Token : ), Posbility: 0.9940
+Next Token : )*, Posbility: 0.0023
+Next Token : )/, Posbility: 0.0009
+Next Token : )+, Posbility: 0.0009
+Next Token : );, Posbility: 0.0008
+Choose : ),  Posbility: 0.9940
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+---------------------------
+Next Token : 
+, Posbility: 0.6039
+Next Token : 
+
+, Posbility: 0.3023
+Next Token :  +, Posbility: 0.0452
+Next Token : <|endoftext|>, Posbility: 0.0163
+Next Token :  , Posbility: 0.0124
+Choose : 
+,  Posbility: 0.6039
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+---------------------------
+Next Token : 
+, Posbility: 0.6867
+Next Token :     , Posbility: 0.0957
+Next Token :         , Posbility: 0.0460
+Next Token : <|endoftext|>, Posbility: 0.0433
+Next Token : print, Posbility: 0.0371
+Choose : 
+,  Posbility: 0.6867
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8963
+Next Token :     , Posbility: 0.0426
+Next Token : 
+
+, Posbility: 0.0278
+Next Token : <|endoftext|>, Posbility: 0.0197
+Next Token :         , Posbility: 0.0076
+Choose : 
+,  Posbility: 0.8963
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4184
+Next Token : def, Posbility: 0.1747
+Next Token : #, Posbility: 0.1156
+Next Token : print, Posbility: 0.1011
+Next Token : 
+, Posbility: 0.0823
+Choose : '',  Posbility: 0.4184
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6663
+Next Token : 
+, Posbility: 0.1718
+Next Token :  Write, Posbility: 0.0301
+Next Token : Given, Posbility: 0.0048
+Next Token : Use, Posbility: 0.0041
+Choose : Write,  Posbility: 0.6663
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9861
+Next Token :  your, Posbility: 0.0056
+Next Token :  an, Posbility: 0.0021
+Next Token :  the, Posbility: 0.0013
+Next Token :  python, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9861
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9398
+Next Token :  function, Posbility: 0.0283
+Next Token :  Python, Posbility: 0.0185
+Next Token :  program, Posbility: 0.0024
+Next Token :  recursive, Posbility: 0.0010
+Choose :  python,  Posbility: 0.9398
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9751
+Next Token :  program, Posbility: 0.0138
+Next Token :  script, Posbility: 0.0018
+Next Token :  fun, Posbility: 0.0017
+Next Token :  code, Posbility: 0.0008
+Choose :  function,  Posbility: 0.9751
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function
+---------------------------
+Next Token :  that, Posbility: 0.8952
+Next Token :  to, Posbility: 0.0499
+Next Token :  which, Posbility: 0.0104
+Next Token : ,, Posbility: 0.0048
+Next Token :  named, Posbility: 0.0044
+Choose :  that,  Posbility: 0.8952
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that
+---------------------------
+Next Token :  takes, Posbility: 0.8647
+Next Token :  returns, Posbility: 0.0269
+Next Token :  accepts, Posbility: 0.0252
+Next Token :  receives, Posbility: 0.0062
+Next Token :  calculates, Posbility: 0.0047
+Choose :  takes,  Posbility: 0.8647
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes
+---------------------------
+Next Token :  in, Posbility: 0.8806
+Next Token :  a, Posbility: 0.0674
+Next Token :  an, Posbility: 0.0147
+Next Token :  as, Posbility: 0.0137
+Next Token :  two, Posbility: 0.0065
+Choose :  in,  Posbility: 0.8806
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in
+---------------------------
+Next Token :  a, Posbility: 0.7707
+Next Token :  an, Posbility: 0.1057
+Next Token :  two, Posbility: 0.0606
+Next Token :  three, Posbility: 0.0112
+Next Token :  the, Posbility: 0.0090
+Choose :  a,  Posbility: 0.7707
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a
+---------------------------
+Next Token :  positive, Posbility: 0.6396
+Next Token :  string, Posbility: 0.1228
+Next Token :  list, Posbility: 0.0541
+Next Token :  number, Posbility: 0.0213
+Next Token :  non, Posbility: 0.0167
+Choose :  positive,  Posbility: 0.6396
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive
+---------------------------
+Next Token :  integer, Posbility: 0.9684
+Next Token :  number, Posbility: 0.0093
+Next Token :  int, Posbility: 0.0043
+Next Token :  float, Posbility: 0.0016
+Next Token :  string, Posbility: 0.0012
+Choose :  integer,  Posbility: 0.9684
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer
+---------------------------
+Next Token :  n, Posbility: 0.8867
+Next Token :  m, Posbility: 0.0348
+Next Token :  x, Posbility: 0.0098
+Next Token :  k, Posbility: 0.0080
+Next Token :  and, Posbility: 0.0078
+Choose :  n,  Posbility: 0.8867
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n
+---------------------------
+Next Token :  and, Posbility: 0.8835
+Next Token : ,, Posbility: 0.0605
+Next Token : 
+, Posbility: 0.0131
+Next Token : ., Posbility: 0.0068
+Next Token :  as, Posbility: 0.0063
+Choose :  and,  Posbility: 0.8835
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and
+---------------------------
+Next Token :  returns, Posbility: 0.4226
+Next Token :  finds, Posbility: 0.1728
+Next Token :  prints, Posbility: 0.0701
+Next Token :  calculates, Posbility: 0.0554
+Next Token :  counts, Posbility: 0.0394
+Choose :  returns,  Posbility: 0.4226
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns
+---------------------------
+Next Token :  the, Posbility: 0.6433
+Next Token :  a, Posbility: 0.0822
+Next Token :  its, Posbility: 0.0635
+Next Token : 
+, Posbility: 0.0295
+Next Token :  an, Posbility: 0.0259
+Choose :  the,  Posbility: 0.6433
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the
+---------------------------
+Next Token :  sum, Posbility: 0.3701
+Next Token :  number, Posbility: 0.1281
+Next Token :  n, Posbility: 0.0508
+Next Token :  product, Posbility: 0.0379
+Next Token :  fact, Posbility: 0.0353
+Choose :  sum,  Posbility: 0.3701
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum
+---------------------------
+Next Token :  of, Posbility: 0.9591
+Next Token : 
+, Posbility: 0.0150
+Next Token :  , Posbility: 0.0030
+Next Token :  and, Posbility: 0.0018
+Next Token :  even, Posbility: 0.0017
+Choose :  of,  Posbility: 0.9591
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of
+---------------------------
+Next Token :  odd, Posbility: 0.4265
+Next Token :  the, Posbility: 0.2022
+Next Token :  even, Posbility: 0.0999
+Next Token :  all, Posbility: 0.0545
+Next Token : 
+, Posbility: 0.0159
+Choose :  odd,  Posbility: 0.4265
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd
+---------------------------
+Next Token :  index, Posbility: 0.9397
+Next Token : 
+, Posbility: 0.0109
+Next Token : -, Posbility: 0.0065
+Next Token :  indexed, Posbility: 0.0062
+Next Token :  indices, Posbility: 0.0041
+Choose :  index,  Posbility: 0.9397
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index
+---------------------------
+Next Token :  bin, Posbility: 0.8816
+Next Token : 
+, Posbility: 0.0382
+Next Token :  binary, Posbility: 0.0237
+Next Token :  , Posbility: 0.0087
+Next Token :  b, Posbility: 0.0047
+Choose :  bin,  Posbility: 0.8816
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index bin
+---------------------------
+Next Token : omial, Posbility: 0.9544
+Next Token : om, Posbility: 0.0429
+Next Token : co, Posbility: 0.0002
+Next Token : omic, Posbility: 0.0002
+Next Token : omb, Posbility: 0.0002
+Choose : omial,  Posbility: 0.9544
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index binomial
+---------------------------
+Next Token :  coefficients, Posbility: 0.9690
+Next Token :  co, Posbility: 0.0112
+Next Token :  coefficient, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0034
+Next Token :  , Posbility: 0.0004
+Choose :  coefficients,  Posbility: 0.9690
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index binomial coefficients
+---------------------------
+Next Token : .', Posbility: 0.7638
+Next Token : ., Posbility: 0.1019
+Next Token : '', Posbility: 0.0359
+Next Token : 
+, Posbility: 0.0217
+Next Token :  for, Posbility: 0.0080
+Choose : .',  Posbility: 0.7638
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index binomial coefficients.'
+---------------------------
+Next Token : '', Posbility: 0.9994
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0002
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9994
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index binomial coefficients.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9652
+Next Token : 
+
+, Posbility: 0.0222
+Next Token : def, Posbility: 0.0047
+Next Token :  , Posbility: 0.0030
+Next Token :     , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9652
+---------------------------
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index binomial coefficients.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9655
+Next Token : 
+, Posbility: 0.0286
+Next Token : #, Posbility: 0.0030
+Next Token : import, Posbility: 0.0008
+Next Token : from, Posbility: 0.0005
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 23.2150776386261
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function that takes in a positive integer n and finds the sum of even index binomial coefficients.'''
+def sum_even_index_binomial(n):
+    '''
+    n: positive integer
+    returns: sum of even index binomial coefficients
+    '''
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return sum_even_index_binomial(n-1) + sum_even_index_binomial(n-2)
+
+
+'''Write a python function that takes in a positive integer n and returns the sum of odd index binomial coefficients.'''
+

@@ -1,0 +1,1059 @@
+<<<<<<<<<<<< 195 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  check, Posbility: 0.3002
+Next Token :  contains, Posbility: 0.1004
+Next Token :  is, Posbility: 0.0992
+Next Token :  element, Posbility: 0.0941
+Next Token :  tuple, Posbility: 0.0516
+Choose :  check,  Posbility: 0.3002
+'''Write a function to check whether an element exists within a tuple.'''
+def check
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check
+---------------------------
+Next Token : _, Posbility: 0.7015
+Next Token : (, Posbility: 0.1681
+Next Token : T, Posbility: 0.0220
+Next Token : Element, Posbility: 0.0144
+Next Token : If, Posbility: 0.0105
+Choose : _,  Posbility: 0.7015
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_
+---------------------------
+Next Token : element, Posbility: 0.2388
+Next Token : t, Posbility: 0.2376
+Next Token : if, Posbility: 0.1044
+Next Token : for, Posbility: 0.1000
+Next Token : exist, Posbility: 0.0435
+Choose : element,  Posbility: 0.2388
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element
+---------------------------
+Next Token : (, Posbility: 0.6056
+Next Token : _, Posbility: 0.3740
+Next Token : ():, Posbility: 0.0086
+Next Token :  (, Posbility: 0.0041
+Next Token : Ex, Posbility: 0.0009
+Choose : (,  Posbility: 0.6056
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(
+---------------------------
+Next Token : t, Posbility: 0.3122
+Next Token : element, Posbility: 0.2574
+Next Token : e, Posbility: 0.0630
+Next Token : x, Posbility: 0.0327
+Next Token : a, Posbility: 0.0290
+Choose : t,  Posbility: 0.3122
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(t
+---------------------------
+Next Token : uple, Posbility: 0.6569
+Next Token : up, Posbility: 0.1443
+Next Token : ,, Posbility: 0.0868
+Next Token : ):, Posbility: 0.0646
+Next Token : _, Posbility: 0.0122
+Choose : uple,  Posbility: 0.6569
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple
+---------------------------
+Next Token : _, Posbility: 0.3873
+Next Token : ,, Posbility: 0.2699
+Next Token : ):, Posbility: 0.2609
+Next Token : 1, Posbility: 0.0499
+Next Token : :, Posbility: 0.0154
+Choose : _,  Posbility: 0.3873
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_
+---------------------------
+Next Token : to, Posbility: 0.1118
+Next Token : element, Posbility: 0.0936
+Next Token : ,, Posbility: 0.0822
+Next Token : obj, Posbility: 0.0611
+Next Token : e, Posbility: 0.0564
+Choose : to,  Posbility: 0.1118
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to
+---------------------------
+Next Token : _, Posbility: 0.9981
+Next Token : Check, Posbility: 0.0010
+Next Token : ,, Posbility: 0.0004
+Next Token : check, Posbility: 0.0002
+Next Token : ):, Posbility: 0.0001
+Choose : _,  Posbility: 0.9981
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_
+---------------------------
+Next Token : check, Posbility: 0.9055
+Next Token : search, Posbility: 0.0143
+Next Token : be, Posbility: 0.0137
+Next Token : find, Posbility: 0.0118
+Next Token : test, Posbility: 0.0108
+Choose : check,  Posbility: 0.9055
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check
+---------------------------
+Next Token : ,, Posbility: 0.7034
+Next Token : ):, Posbility: 0.2369
+Next Token : :, Posbility: 0.0364
+Next Token : _, Posbility: 0.0153
+Next Token : =, Posbility: 0.0021
+Choose : ,,  Posbility: 0.7034
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check,
+---------------------------
+Next Token :  element, Posbility: 0.7112
+Next Token : element, Posbility: 0.0659
+Next Token :  ele, Posbility: 0.0311
+Next Token :  value, Posbility: 0.0234
+Next Token :  item, Posbility: 0.0228
+Choose :  element,  Posbility: 0.7112
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element
+---------------------------
+Next Token : ):, Posbility: 0.6895
+Next Token : _, Posbility: 0.2843
+Next Token : ,, Posbility: 0.0178
+Next Token : ), Posbility: 0.0053
+Next Token : =, Posbility: 0.0013
+Choose : ):,  Posbility: 0.6895
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+---------------------------
+Next Token : 
+, Posbility: 0.9595
+Next Token : 
+
+, Posbility: 0.0197
+Next Token : , Posbility: 0.0105
+Next Token :  , Posbility: 0.0047
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9595
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+
+---------------------------
+Next Token :     , Posbility: 0.9332
+Next Token :   , Posbility: 0.0313
+Next Token : 	, Posbility: 0.0272
+Next Token :         , Posbility: 0.0035
+Next Token :    , Posbility: 0.0024
+Choose :     ,  Posbility: 0.9332
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    
+---------------------------
+Next Token : '', Posbility: 0.3585
+Next Token : for, Posbility: 0.2231
+Next Token : if, Posbility: 0.1854
+Next Token : return, Posbility: 0.0437
+Next Token : try, Posbility: 0.0315
+Choose : '',  Posbility: 0.3585
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''
+---------------------------
+Next Token : Check, Posbility: 0.1421
+Next Token : 
+, Posbility: 0.0944
+Next Token : Function, Posbility: 0.0689
+Next Token : Return, Posbility: 0.0636
+Next Token : Che, Posbility: 0.0564
+Choose : Check,  Posbility: 0.1421
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check
+---------------------------
+Next Token :  whether, Posbility: 0.4955
+Next Token :  if, Posbility: 0.3753
+Next Token :  the, Posbility: 0.0234
+Next Token :  element, Posbility: 0.0227
+Next Token :  for, Posbility: 0.0142
+Choose :  whether,  Posbility: 0.4955
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether
+---------------------------
+Next Token :  an, Posbility: 0.4773
+Next Token :  element, Posbility: 0.2405
+Next Token :  the, Posbility: 0.1528
+Next Token :  a, Posbility: 0.0554
+Next Token :  tuple, Posbility: 0.0116
+Choose :  an,  Posbility: 0.4773
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an
+---------------------------
+Next Token :  element, Posbility: 0.9909
+Next Token :  item, Posbility: 0.0017
+Next Token :  given, Posbility: 0.0008
+Next Token :  tuple, Posbility: 0.0007
+Next Token :  ele, Posbility: 0.0007
+Choose :  element,  Posbility: 0.9909
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element
+---------------------------
+Next Token :  exists, Posbility: 0.8082
+Next Token :  is, Posbility: 0.1317
+Next Token :  in, Posbility: 0.0132
+Next Token :  exist, Posbility: 0.0128
+Next Token :  of, Posbility: 0.0054
+Choose :  exists,  Posbility: 0.8082
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists
+---------------------------
+Next Token :  within, Posbility: 0.9234
+Next Token :  in, Posbility: 0.0591
+Next Token :  inside, Posbility: 0.0082
+Next Token :  or, Posbility: 0.0011
+Next Token : .', Posbility: 0.0009
+Choose :  within,  Posbility: 0.9234
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within
+---------------------------
+Next Token :  a, Posbility: 0.9358
+Next Token :  the, Posbility: 0.0422
+Next Token :  an, Posbility: 0.0098
+Next Token :  tuple, Posbility: 0.0051
+Next Token :  given, Posbility: 0.0010
+Choose :  a,  Posbility: 0.9358
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a
+---------------------------
+Next Token :  tuple, Posbility: 0.9848
+Next Token :  given, Posbility: 0.0073
+Next Token :  list, Posbility: 0.0016
+Next Token :  tu, Posbility: 0.0008
+Next Token :  dictionary, Posbility: 0.0004
+Choose :  tuple,  Posbility: 0.9848
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple
+---------------------------
+Next Token : .', Posbility: 0.5091
+Next Token : ., Posbility: 0.3130
+Next Token : '', Posbility: 0.0828
+Next Token : ,, Posbility: 0.0184
+Next Token :  and, Posbility: 0.0169
+Choose : .',  Posbility: 0.5091
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9982
+Next Token : 
+, Posbility: 0.0006
+Next Token : 
+
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0004
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9982
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9334
+Next Token : 
+
+, Posbility: 0.0615
+Next Token :  , Posbility: 0.0033
+Next Token :     , Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9334
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9961
+Next Token :   , Posbility: 0.0009
+Next Token :         , Posbility: 0.0008
+Next Token :    , Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9961
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.3865
+Next Token : if, Posbility: 0.3169
+Next Token : return, Posbility: 0.0741
+Next Token : try, Posbility: 0.0397
+Next Token : #, Posbility: 0.0337
+Choose : for,  Posbility: 0.3865
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.2503
+Next Token :  element, Posbility: 0.2379
+Next Token :  item, Posbility: 0.1048
+Next Token :  el, Posbility: 0.0757
+Next Token :  x, Posbility: 0.0461
+Choose :  i,  Posbility: 0.2503
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9164
+Next Token : ,, Posbility: 0.0807
+Next Token : _, Posbility: 0.0021
+Next Token : 1, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9164
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in
+---------------------------
+Next Token :  tuple, Posbility: 0.5388
+Next Token :  range, Posbility: 0.4446
+Next Token :  list, Posbility: 0.0037
+Next Token :  (, Posbility: 0.0019
+Next Token :  element, Posbility: 0.0015
+Choose :  tuple,  Posbility: 0.5388
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple
+---------------------------
+Next Token : _, Posbility: 0.9981
+Next Token : :, Posbility: 0.0013
+Next Token : (, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0002
+Next Token : [, Posbility: 0.0000
+Choose : _,  Posbility: 0.9981
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_
+---------------------------
+Next Token : to, Posbility: 0.9998
+Next Token : list, Posbility: 0.0000
+Next Token : check, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : for, Posbility: 0.0000
+Choose : to,  Posbility: 0.9998
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : :, Posbility: 0.0000
+Next Token : Check, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_
+---------------------------
+Next Token : check, Posbility: 0.9997
+Next Token : change, Posbility: 0.0001
+Next Token : search, Posbility: 0.0000
+Next Token : test, Posbility: 0.0000
+Next Token : find, Posbility: 0.0000
+Choose : check,  Posbility: 0.9997
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check
+---------------------------
+Next Token : :, Posbility: 0.9887
+Next Token : [, Posbility: 0.0077
+Next Token : ., Posbility: 0.0014
+Next Token :  :, Posbility: 0.0012
+Next Token : :#, Posbility: 0.0005
+Choose : :,  Posbility: 0.9887
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+---------------------------
+Next Token : 
+, Posbility: 0.9850
+Next Token :  #, Posbility: 0.0043
+Next Token :  , Posbility: 0.0037
+Next Token :   , Posbility: 0.0016
+Next Token : 
+
+, Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9850
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+
+---------------------------
+Next Token :         , Posbility: 0.9880
+Next Token :             , Posbility: 0.0051
+Next Token :       , Posbility: 0.0025
+Next Token :        , Posbility: 0.0016
+Next Token :          , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9880
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        
+---------------------------
+Next Token : if, Posbility: 0.9731
+Next Token : #, Posbility: 0.0075
+Next Token : try, Posbility: 0.0041
+Next Token : for, Posbility: 0.0026
+Next Token : print, Posbility: 0.0025
+Choose : if,  Posbility: 0.9731
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.5489
+Next Token :  element, Posbility: 0.3884
+Next Token : (, Posbility: 0.0181
+Next Token :  (, Posbility: 0.0135
+Next Token :  tuple, Posbility: 0.0120
+Choose :  i,  Posbility: 0.5489
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i
+---------------------------
+Next Token :  ==, Posbility: 0.9121
+Next Token : ==, Posbility: 0.0339
+Next Token : !=, Posbility: 0.0267
+Next Token : [, Posbility: 0.0108
+Next Token :  is, Posbility: 0.0081
+Choose :  ==,  Posbility: 0.9121
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i ==
+---------------------------
+Next Token :  element, Posbility: 0.9952
+Next Token :  ', Posbility: 0.0005
+Next Token :  tuple, Posbility: 0.0005
+Next Token : element, Posbility: 0.0004
+Next Token :  item, Posbility: 0.0004
+Choose :  element,  Posbility: 0.9952
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element
+---------------------------
+Next Token : :, Posbility: 0.9870
+Next Token :  or, Posbility: 0.0093
+Next Token :  :, Posbility: 0.0012
+Next Token : [, Posbility: 0.0010
+Next Token : ., Posbility: 0.0005
+Choose : :,  Posbility: 0.9870
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+---------------------------
+Next Token : 
+, Posbility: 0.9833
+Next Token :  return, Posbility: 0.0084
+Next Token :  , Posbility: 0.0042
+Next Token :  #, Posbility: 0.0016
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9833
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+
+---------------------------
+Next Token :             , Posbility: 0.9920
+Next Token :            , Posbility: 0.0030
+Next Token :                 , Posbility: 0.0019
+Next Token :              , Posbility: 0.0013
+Next Token :           , Posbility: 0.0008
+Choose :             ,  Posbility: 0.9920
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            
+---------------------------
+Next Token : return, Posbility: 0.9566
+Next Token : print, Posbility: 0.0250
+Next Token : #, Posbility: 0.0063
+Next Token : break, Posbility: 0.0024
+Next Token : pass, Posbility: 0.0022
+Choose : return,  Posbility: 0.9566
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return
+---------------------------
+Next Token :  True, Posbility: 0.9022
+Next Token :  i, Posbility: 0.0145
+Next Token :  False, Posbility: 0.0122
+Next Token :  ', Posbility: 0.0119
+Next Token :  f, Posbility: 0.0093
+Choose :  True,  Posbility: 0.9022
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+---------------------------
+Next Token : 
+, Posbility: 0.9431
+Next Token : 
+
+, Posbility: 0.0355
+Next Token :  , Posbility: 0.0067
+Next Token :  #, Posbility: 0.0038
+Next Token : ,, Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9431
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+
+---------------------------
+Next Token :     , Posbility: 0.8462
+Next Token :         , Posbility: 0.1288
+Next Token : 
+, Posbility: 0.0141
+Next Token :             , Posbility: 0.0071
+Next Token : #, Posbility: 0.0008
+Choose :     ,  Posbility: 0.8462
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    
+---------------------------
+Next Token : return, Posbility: 0.8502
+Next Token : else, Posbility: 0.1181
+Next Token : 
+, Posbility: 0.0176
+Next Token : #, Posbility: 0.0059
+Next Token : print, Posbility: 0.0027
+Choose : return,  Posbility: 0.8502
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9957
+Next Token :  None, Posbility: 0.0008
+Next Token :  ', Posbility: 0.0005
+Next Token :   , Posbility: 0.0005
+Next Token :  True, Posbility: 0.0004
+Choose :  False,  Posbility: 0.9957
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+---------------------------
+Next Token : 
+, Posbility: 0.6806
+Next Token : 
+
+, Posbility: 0.2694
+Next Token : <|endoftext|>, Posbility: 0.0292
+Next Token :  , Posbility: 0.0094
+Next Token :     , Posbility: 0.0035
+Choose : 
+,  Posbility: 0.6806
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.8230
+Next Token :     , Posbility: 0.0411
+Next Token : #, Posbility: 0.0271
+Next Token : def, Posbility: 0.0239
+Next Token : <|endoftext|>, Posbility: 0.0198
+Choose : 
+,  Posbility: 0.8230
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9650
+Next Token : <|endoftext|>, Posbility: 0.0131
+Next Token : 
+
+, Posbility: 0.0118
+Next Token :     , Posbility: 0.0072
+Next Token :         , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9650
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3092
+Next Token : def, Posbility: 0.2627
+Next Token : #, Posbility: 0.2378
+Next Token : if, Posbility: 0.0350
+Next Token : 
+, Posbility: 0.0294
+Choose : '',  Posbility: 0.3092
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6601
+Next Token : Check, Posbility: 0.0439
+Next Token :  Write, Posbility: 0.0206
+Next Token : Create, Posbility: 0.0185
+Next Token : 
+, Posbility: 0.0176
+Choose : Write,  Posbility: 0.6601
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9772
+Next Token :  an, Posbility: 0.0045
+Next Token :  your, Posbility: 0.0044
+Next Token :  function, Posbility: 0.0037
+Next Token :  the, Posbility: 0.0028
+Choose :  a,  Posbility: 0.9772
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9562
+Next Token :  program, Posbility: 0.0091
+Next Token :  Python, Posbility: 0.0057
+Next Token :  python, Posbility: 0.0027
+Next Token :  method, Posbility: 0.0023
+Choose :  function,  Posbility: 0.9562
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7573
+Next Token :  that, Posbility: 0.1937
+Next Token :  which, Posbility: 0.0125
+Next Token :  for, Posbility: 0.0066
+Next Token :  called, Posbility: 0.0059
+Choose :  to,  Posbility: 0.7573
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.1066
+Next Token :  print, Posbility: 0.0890
+Next Token :  get, Posbility: 0.0831
+Next Token :  create, Posbility: 0.0600
+Next Token :  find, Posbility: 0.0590
+Choose :  check,  Posbility: 0.1066
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8729
+Next Token :  if, Posbility: 0.0832
+Next Token :  for, Posbility: 0.0123
+Next Token :  the, Posbility: 0.0070
+Next Token :  that, Posbility: 0.0033
+Choose :  whether,  Posbility: 0.8729
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether
+---------------------------
+Next Token :  an, Posbility: 0.4937
+Next Token :  a, Posbility: 0.2762
+Next Token :  two, Posbility: 0.0480
+Next Token :  the, Posbility: 0.0440
+Next Token :  all, Posbility: 0.0323
+Choose :  an,  Posbility: 0.4937
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an
+---------------------------
+Next Token :  element, Posbility: 0.9425
+Next Token :  item, Posbility: 0.0104
+Next Token :  tuple, Posbility: 0.0068
+Next Token :  array, Posbility: 0.0050
+Next Token :  object, Posbility: 0.0043
+Choose :  element,  Posbility: 0.9425
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element
+---------------------------
+Next Token :  exists, Posbility: 0.8151
+Next Token :  is, Posbility: 0.1212
+Next Token :  exits, Posbility: 0.0095
+Next Token :  in, Posbility: 0.0088
+Next Token :  does, Posbility: 0.0046
+Choose :  exists,  Posbility: 0.8151
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists
+---------------------------
+Next Token :  within, Posbility: 0.9457
+Next Token :  in, Posbility: 0.0296
+Next Token :  inside, Posbility: 0.0101
+Next Token :  anywhere, Posbility: 0.0019
+Next Token :  or, Posbility: 0.0011
+Choose :  within,  Posbility: 0.9457
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within
+---------------------------
+Next Token :  a, Posbility: 0.9481
+Next Token :  an, Posbility: 0.0288
+Next Token :  the, Posbility: 0.0029
+Next Token :  two, Posbility: 0.0028
+Next Token :  another, Posbility: 0.0026
+Choose :  a,  Posbility: 0.9481
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within a
+---------------------------
+Next Token :  tuple, Posbility: 0.3317
+Next Token :  list, Posbility: 0.2725
+Next Token :  dictionary, Posbility: 0.1787
+Next Token :  set, Posbility: 0.0913
+Next Token :  string, Posbility: 0.0163
+Choose :  tuple,  Posbility: 0.3317
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within a tuple
+---------------------------
+Next Token : .', Posbility: 0.8760
+Next Token : ., Posbility: 0.0499
+Next Token :  and, Posbility: 0.0128
+Next Token : ,, Posbility: 0.0077
+Next Token : '', Posbility: 0.0077
+Choose : .',  Posbility: 0.8760
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within a tuple.'
+---------------------------
+Next Token : '', Posbility: 0.9993
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9993
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within a tuple.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9369
+Next Token : 
+
+, Posbility: 0.0544
+Next Token :  , Posbility: 0.0038
+Next Token : def, Posbility: 0.0011
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9369
+---------------------------
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within a tuple.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9204
+Next Token : 
+, Posbility: 0.0542
+Next Token : #, Posbility: 0.0152
+Next Token : '', Posbility: 0.0013
+Next Token : from, Posbility: 0.0012
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.15178370475769
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether an element exists within a tuple.'''
+def check_element(tuple_to_check, element):
+    '''Check whether an element exists within a tuple.'''
+    for i in tuple_to_check:
+        if i == element:
+            return True
+    return False
+
+
+'''Write a function to check whether an element exists within a tuple.'''
+

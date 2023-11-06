@@ -1,0 +1,979 @@
+<<<<<<<<<<<< 372 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  add, Posbility: 0.6503
+Next Token :  list, Posbility: 0.0233
+Next Token :  append, Posbility: 0.0202
+Next Token :  Add, Posbility: 0.0178
+Next Token :  tuple, Posbility: 0.0176
+Choose :  add,  Posbility: 0.6503
+'''Write a function to add the given tuple to the given list.'''
+def add
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add
+---------------------------
+Next Token : _, Posbility: 0.3662
+Next Token : T, Posbility: 0.2400
+Next Token : (, Posbility: 0.1753
+Next Token : t, Posbility: 0.1098
+Next Token : To, Posbility: 0.0414
+Choose : _,  Posbility: 0.3662
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_
+---------------------------
+Next Token : t, Posbility: 0.8322
+Next Token : to, Posbility: 0.0425
+Next Token : tu, Posbility: 0.0382
+Next Token : list, Posbility: 0.0117
+Next Token : two, Posbility: 0.0059
+Choose : t,  Posbility: 0.8322
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_t
+---------------------------
+Next Token : uple, Posbility: 0.9913
+Next Token : up, Posbility: 0.0069
+Next Token : (, Posbility: 0.0003
+Next Token : ups, Posbility: 0.0002
+Next Token : upp, Posbility: 0.0001
+Choose : uple,  Posbility: 0.9913
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple
+---------------------------
+Next Token : (, Posbility: 0.9165
+Next Token : _, Posbility: 0.0524
+Next Token :  (, Posbility: 0.0126
+Next Token : (*, Posbility: 0.0090
+Next Token : ():, Posbility: 0.0063
+Choose : (,  Posbility: 0.9165
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(
+---------------------------
+Next Token : t, Posbility: 0.4530
+Next Token : list, Posbility: 0.1073
+Next Token : l, Posbility: 0.1042
+Next Token : a, Posbility: 0.0532
+Next Token : my, Posbility: 0.0458
+Choose : t,  Posbility: 0.4530
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(t
+---------------------------
+Next Token : uple, Posbility: 0.5809
+Next Token : up, Posbility: 0.2021
+Next Token : ,, Posbility: 0.0810
+Next Token : 1, Posbility: 0.0586
+Next Token : _, Posbility: 0.0217
+Choose : uple,  Posbility: 0.5809
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple
+---------------------------
+Next Token : _, Posbility: 0.4464
+Next Token : ,, Posbility: 0.2960
+Next Token : 1, Posbility: 0.1809
+Next Token : ):, Posbility: 0.0375
+Next Token : A, Posbility: 0.0092
+Choose : _,  Posbility: 0.4464
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_
+---------------------------
+Next Token : list, Posbility: 0.3284
+Next Token : to, Posbility: 0.1520
+Next Token : a, Posbility: 0.1393
+Next Token : 1, Posbility: 0.1266
+Next Token : l, Posbility: 0.0245
+Choose : list,  Posbility: 0.3284
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list
+---------------------------
+Next Token : ,, Posbility: 0.9336
+Next Token : ):, Posbility: 0.0236
+Next Token : :, Posbility: 0.0200
+Next Token : _, Posbility: 0.0079
+Next Token : =[, Posbility: 0.0046
+Choose : ,,  Posbility: 0.9336
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list,
+---------------------------
+Next Token :  tuple, Posbility: 0.2724
+Next Token : t, Posbility: 0.1583
+Next Token :  new, Posbility: 0.1354
+Next Token :  element, Posbility: 0.0923
+Next Token :  t, Posbility: 0.0404
+Choose :  tuple,  Posbility: 0.2724
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple
+---------------------------
+Next Token : _, Posbility: 0.4906
+Next Token : ):, Posbility: 0.4881
+Next Token : 1, Posbility: 0.0120
+Next Token : ,, Posbility: 0.0046
+Next Token : =, Posbility: 0.0012
+Choose : _,  Posbility: 0.4906
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_
+---------------------------
+Next Token : to, Posbility: 0.4372
+Next Token : t, Posbility: 0.1401
+Next Token : item, Posbility: 0.0677
+Next Token : add, Posbility: 0.0662
+Next Token : value, Posbility: 0.0553
+Choose : to,  Posbility: 0.4372
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to
+---------------------------
+Next Token : _, Posbility: 0.9993
+Next Token : add, Posbility: 0.0003
+Next Token : Add, Posbility: 0.0002
+Next Token : ):, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose : _,  Posbility: 0.9993
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_
+---------------------------
+Next Token : add, Posbility: 0.9633
+Next Token : append, Posbility: 0.0207
+Next Token : be, Posbility: 0.0061
+Next Token : insert, Posbility: 0.0039
+Next Token : write, Posbility: 0.0020
+Choose : add,  Posbility: 0.9633
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add
+---------------------------
+Next Token : ):, Posbility: 0.9797
+Next Token : ,, Posbility: 0.0067
+Next Token : _, Posbility: 0.0053
+Next Token : =, Posbility: 0.0042
+Next Token : ), Posbility: 0.0015
+Choose : ):,  Posbility: 0.9797
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+---------------------------
+Next Token : 
+, Posbility: 0.9699
+Next Token : 
+
+, Posbility: 0.0132
+Next Token : , Posbility: 0.0072
+Next Token :  , Posbility: 0.0055
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9699
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+
+---------------------------
+Next Token :     , Posbility: 0.9662
+Next Token :   , Posbility: 0.0144
+Next Token : 	, Posbility: 0.0126
+Next Token :         , Posbility: 0.0038
+Next Token :    , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9662
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    
+---------------------------
+Next Token : '', Posbility: 0.4045
+Next Token : t, Posbility: 0.1490
+Next Token : for, Posbility: 0.1197
+Next Token : if, Posbility: 0.0639
+Next Token : #, Posbility: 0.0490
+Choose : '',  Posbility: 0.4045
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''
+---------------------------
+Next Token : Add, Posbility: 0.3362
+Next Token : t, Posbility: 0.1376
+Next Token : 
+, Posbility: 0.0827
+Next Token : Write, Posbility: 0.0564
+Next Token : add, Posbility: 0.0522
+Choose : Add,  Posbility: 0.3362
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add
+---------------------------
+Next Token :  the, Posbility: 0.5639
+Next Token :  a, Posbility: 0.2598
+Next Token :  tuple, Posbility: 0.0548
+Next Token :  given, Posbility: 0.0380
+Next Token :  an, Posbility: 0.0087
+Choose :  the,  Posbility: 0.5639
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the
+---------------------------
+Next Token :  given, Posbility: 0.6763
+Next Token :  tuple, Posbility: 0.2644
+Next Token :  element, Posbility: 0.0042
+Next Token :  passed, Posbility: 0.0038
+Next Token :  first, Posbility: 0.0033
+Choose :  given,  Posbility: 0.6763
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given
+---------------------------
+Next Token :  tuple, Posbility: 0.9447
+Next Token :  list, Posbility: 0.0125
+Next Token :  tu, Posbility: 0.0089
+Next Token :  element, Posbility: 0.0040
+Next Token :  number, Posbility: 0.0026
+Choose :  tuple,  Posbility: 0.9447
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple
+---------------------------
+Next Token :  to, Posbility: 0.8728
+Next Token : _, Posbility: 0.0449
+Next Token :  into, Posbility: 0.0127
+Next Token :  in, Posbility: 0.0117
+Next Token :  and, Posbility: 0.0086
+Choose :  to,  Posbility: 0.8728
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to
+---------------------------
+Next Token :  the, Posbility: 0.9648
+Next Token :  a, Posbility: 0.0134
+Next Token :  given, Posbility: 0.0093
+Next Token :  list, Posbility: 0.0054
+Next Token :  tuple, Posbility: 0.0017
+Choose :  the,  Posbility: 0.9648
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the
+---------------------------
+Next Token :  given, Posbility: 0.8780
+Next Token :  list, Posbility: 0.0594
+Next Token :  tuple, Posbility: 0.0394
+Next Token :  existing, Posbility: 0.0017
+Next Token :  tu, Posbility: 0.0017
+Choose :  given,  Posbility: 0.8780
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given
+---------------------------
+Next Token :  list, Posbility: 0.9890
+Next Token :  tuple, Posbility: 0.0057
+Next Token :  lists, Posbility: 0.0007
+Next Token :  tu, Posbility: 0.0003
+Next Token :  array, Posbility: 0.0003
+Choose :  list,  Posbility: 0.9890
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list
+---------------------------
+Next Token : .', Posbility: 0.5180
+Next Token : ., Posbility: 0.2256
+Next Token : '', Posbility: 0.1051
+Next Token :  of, Posbility: 0.0389
+Next Token : ,, Posbility: 0.0243
+Choose : .',  Posbility: 0.5180
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'
+---------------------------
+Next Token : '', Posbility: 0.9993
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0001
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9993
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9518
+Next Token : 
+
+, Posbility: 0.0433
+Next Token :  , Posbility: 0.0030
+Next Token :     , Posbility: 0.0006
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9518
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9941
+Next Token :         , Posbility: 0.0014
+Next Token :   , Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0007
+Next Token : def, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9941
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    
+---------------------------
+Next Token : t, Posbility: 0.4734
+Next Token : for, Posbility: 0.1616
+Next Token : if, Posbility: 0.1017
+Next Token : #, Posbility: 0.0505
+Next Token : new, Posbility: 0.0418
+Choose : t,  Posbility: 0.4734
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    t
+---------------------------
+Next Token : uple, Posbility: 0.9936
+Next Token : up, Posbility: 0.0025
+Next Token :  =, Posbility: 0.0012
+Next Token : _, Posbility: 0.0009
+Next Token : pl, Posbility: 0.0002
+Choose : uple,  Posbility: 0.9936
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple
+---------------------------
+Next Token : _, Posbility: 0.9971
+Next Token :  =, Posbility: 0.0018
+Next Token : 1, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Choose : _,  Posbility: 0.9971
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_
+---------------------------
+Next Token : list, Posbility: 0.9788
+Next Token : to, Posbility: 0.0138
+Next Token : index, Posbility: 0.0005
+Next Token : new, Posbility: 0.0004
+Next Token : count, Posbility: 0.0002
+Choose : list,  Posbility: 0.9788
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list
+---------------------------
+Next Token : ., Posbility: 0.9439
+Next Token :  +=, Posbility: 0.0198
+Next Token :  =, Posbility: 0.0155
+Next Token : [, Posbility: 0.0105
+Next Token : _, Posbility: 0.0060
+Choose : .,  Posbility: 0.9439
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.
+---------------------------
+Next Token : append, Posbility: 0.9599
+Next Token : ext, Posbility: 0.0256
+Next Token : insert, Posbility: 0.0126
+Next Token : add, Posbility: 0.0006
+Next Token : remove, Posbility: 0.0003
+Choose : append,  Posbility: 0.9599
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append
+---------------------------
+Next Token : (, Posbility: 0.9875
+Next Token : ((, Posbility: 0.0105
+Next Token : ([, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0006
+Next Token : ({, Posbility: 0.0002
+Choose : (,  Posbility: 0.9875
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(
+---------------------------
+Next Token : t, Posbility: 0.9954
+Next Token : list, Posbility: 0.0012
+Next Token :  tuple, Posbility: 0.0008
+Next Token : str, Posbility: 0.0003
+Next Token : sum, Posbility: 0.0002
+Choose : t,  Posbility: 0.9954
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(t
+---------------------------
+Next Token : uple, Posbility: 0.9999
+Next Token : up, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ouple, Posbility: 0.0000
+Next Token : ensor, Posbility: 0.0000
+Choose : uple,  Posbility: 0.9999
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple
+---------------------------
+Next Token : _, Posbility: 0.9979
+Next Token : (, Posbility: 0.0018
+Next Token : ), Posbility: 0.0002
+Next Token : [, Posbility: 0.0000
+Next Token : ()), Posbility: 0.0000
+Choose : _,  Posbility: 0.9979
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_
+---------------------------
+Next Token : to, Posbility: 0.9997
+Next Token : from, Posbility: 0.0001
+Next Token : for, Posbility: 0.0000
+Next Token : add, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose : to,  Posbility: 0.9997
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : =, Posbility: 0.0000
+Next Token : Add, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_
+---------------------------
+Next Token : add, Posbility: 1.0000
+Next Token : append, Posbility: 0.0000
+Next Token : remove, Posbility: 0.0000
+Next Token : load, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Choose : add,  Posbility: 1.0000
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add
+---------------------------
+Next Token : ), Posbility: 0.9850
+Next Token : [, Posbility: 0.0130
+Next Token : );, Posbility: 0.0013
+Next Token : ., Posbility: 0.0005
+Next Token :  ), Posbility: 0.0000
+Choose : ),  Posbility: 0.9850
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+---------------------------
+Next Token : 
+, Posbility: 0.8691
+Next Token : 
+
+, Posbility: 0.0982
+Next Token : <|endoftext|>, Posbility: 0.0153
+Next Token :  , Posbility: 0.0068
+Next Token :     , Posbility: 0.0032
+Choose : 
+,  Posbility: 0.8691
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+
+---------------------------
+Next Token :     , Posbility: 0.6894
+Next Token : 
+, Posbility: 0.2628
+Next Token : <|endoftext|>, Posbility: 0.0148
+Next Token : def, Posbility: 0.0113
+Next Token :         , Posbility: 0.0038
+Choose :     ,  Posbility: 0.6894
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    
+---------------------------
+Next Token : return, Posbility: 0.8247
+Next Token : 
+, Posbility: 0.0616
+Next Token : print, Posbility: 0.0521
+Next Token : t, Posbility: 0.0236
+Next Token : #, Posbility: 0.0146
+Choose : return,  Posbility: 0.8247
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return
+---------------------------
+Next Token :  tuple, Posbility: 0.9223
+Next Token : 
+, Posbility: 0.0164
+Next Token : (, Posbility: 0.0156
+Next Token :  None, Posbility: 0.0095
+Next Token : 
+
+, Posbility: 0.0092
+Choose :  tuple,  Posbility: 0.9223
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple
+---------------------------
+Next Token : _, Posbility: 0.9973
+Next Token : (, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : (), Posbility: 0.0001
+Choose : _,  Posbility: 0.9973
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_
+---------------------------
+Next Token : list, Posbility: 0.9994
+Next Token : to, Posbility: 0.0004
+Next Token : l, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : lists, Posbility: 0.0000
+Choose : list,  Posbility: 0.9994
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+---------------------------
+Next Token : 
+, Posbility: 0.6620
+Next Token : 
+
+, Posbility: 0.2734
+Next Token : <|endoftext|>, Posbility: 0.0426
+Next Token :  , Posbility: 0.0069
+Next Token : ,, Posbility: 0.0049
+Choose : 
+,  Posbility: 0.6620
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+---------------------------
+Next Token : 
+, Posbility: 0.8289
+Next Token :     , Posbility: 0.0404
+Next Token : <|endoftext|>, Posbility: 0.0284
+Next Token : def, Posbility: 0.0185
+Next Token : print, Posbility: 0.0183
+Choose : 
+,  Posbility: 0.8289
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9579
+Next Token : <|endoftext|>, Posbility: 0.0150
+Next Token : 
+
+, Posbility: 0.0146
+Next Token :     , Posbility: 0.0095
+Next Token :  , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9579
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4999
+Next Token : def, Posbility: 0.1827
+Next Token : #, Posbility: 0.1531
+Next Token : 
+, Posbility: 0.0421
+Next Token : if, Posbility: 0.0242
+Choose : '',  Posbility: 0.4999
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7385
+Next Token : 
+, Posbility: 0.0216
+Next Token :  Write, Posbility: 0.0174
+Next Token : Add, Posbility: 0.0163
+Next Token : Remove, Posbility: 0.0097
+Choose : Write,  Posbility: 0.7385
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9847
+Next Token :  your, Posbility: 0.0031
+Next Token :  the, Posbility: 0.0031
+Next Token :  an, Posbility: 0.0025
+Next Token :  another, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9847
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9679
+Next Token :  program, Posbility: 0.0044
+Next Token :  Python, Posbility: 0.0026
+Next Token :  Function, Posbility: 0.0025
+Next Token :  method, Posbility: 0.0018
+Choose :  function,  Posbility: 0.9679
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.8261
+Next Token :  that, Posbility: 0.1364
+Next Token :  which, Posbility: 0.0073
+Next Token :  called, Posbility: 0.0055
+Next Token :  named, Posbility: 0.0034
+Choose :  to,  Posbility: 0.8261
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to
+---------------------------
+Next Token :  remove, Posbility: 0.3276
+Next Token :  find, Posbility: 0.0618
+Next Token :  add, Posbility: 0.0554
+Next Token :  delete, Posbility: 0.0541
+Next Token :  get, Posbility: 0.0508
+Choose :  remove,  Posbility: 0.3276
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove
+---------------------------
+Next Token :  the, Posbility: 0.8344
+Next Token :  an, Posbility: 0.0355
+Next Token :  all, Posbility: 0.0326
+Next Token :  a, Posbility: 0.0314
+Next Token :  dupl, Posbility: 0.0088
+Choose :  the,  Posbility: 0.8344
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the
+---------------------------
+Next Token :  given, Posbility: 0.4653
+Next Token :  first, Posbility: 0.2713
+Next Token :  tuple, Posbility: 0.0474
+Next Token :  last, Posbility: 0.0443
+Next Token :  element, Posbility: 0.0287
+Choose :  given,  Posbility: 0.4653
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given
+---------------------------
+Next Token :  tuple, Posbility: 0.4493
+Next Token :  element, Posbility: 0.2411
+Next Token :  index, Posbility: 0.0855
+Next Token :  item, Posbility: 0.0514
+Next Token :  number, Posbility: 0.0448
+Choose :  tuple,  Posbility: 0.4493
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple
+---------------------------
+Next Token :  from, Posbility: 0.8598
+Next Token : .', Posbility: 0.0536
+Next Token :  in, Posbility: 0.0134
+Next Token :  and, Posbility: 0.0109
+Next Token : ., Posbility: 0.0086
+Choose :  from,  Posbility: 0.8598
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from
+---------------------------
+Next Token :  the, Posbility: 0.9801
+Next Token :  a, Posbility: 0.0104
+Next Token :  given, Posbility: 0.0026
+Next Token :  list, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0009
+Choose :  the,  Posbility: 0.9801
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the
+---------------------------
+Next Token :  given, Posbility: 0.9565
+Next Token :  list, Posbility: 0.0297
+Next Token :  tuple, Posbility: 0.0057
+Next Token : 
+, Posbility: 0.0012
+Next Token :  , Posbility: 0.0005
+Choose :  given,  Posbility: 0.9565
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the given
+---------------------------
+Next Token :  list, Posbility: 0.9954
+Next Token : 
+, Posbility: 0.0016
+Next Token :  tuple, Posbility: 0.0005
+Next Token :  array, Posbility: 0.0004
+Next Token :  , Posbility: 0.0004
+Choose :  list,  Posbility: 0.9954
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the given list
+---------------------------
+Next Token : .', Posbility: 0.8926
+Next Token : ., Posbility: 0.0476
+Next Token :  of, Posbility: 0.0101
+Next Token : '', Posbility: 0.0100
+Next Token :  if, Posbility: 0.0072
+Choose : .',  Posbility: 0.8926
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the given list.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9743
+Next Token : 
+
+, Posbility: 0.0167
+Next Token : def, Posbility: 0.0044
+Next Token :  , Posbility: 0.0021
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9743
+---------------------------
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the given list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9544
+Next Token : 
+, Posbility: 0.0360
+Next Token : #, Posbility: 0.0047
+Next Token : import, Posbility: 0.0009
+Next Token : from, Posbility: 0.0009
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.036390781402588
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to add the given tuple to the given list.'''
+def add_tuple(tuple_list, tuple_to_add):
+    '''Add the given tuple to the given list.'''
+    tuple_list.append(tuple_to_add)
+    return tuple_list
+
+
+'''Write a function to remove the given tuple from the given list.'''
+

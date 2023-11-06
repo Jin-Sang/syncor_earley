@@ -1,0 +1,441 @@
+<<<<<<<<<<<< 386 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1157
+Next Token : ____, Posbility: 0.0934
+Next Token : ix, Posbility: 0.0579
+Next Token : iban, Posbility: 0.0487
+Next Token : ile, Posbility: 0.0461
+syntax error : 
+
+Choose : ____, Posbility: 0.0934
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____
+---------------------------
+Next Token : (, Posbility: 0.3413
+Next Token : n, Posbility: 0.2007
+Next Token : ():, Posbility: 0.0888
+Next Token : pol, Posbility: 0.0531
+Next Token : find, Posbility: 0.0443
+Choose : (, Posbility: 0.3413
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(
+---------------------------
+Next Token : n, Posbility: 0.5988
+Next Token : x, Posbility: 0.0489
+Next Token : a, Posbility: 0.0476
+Next Token : number, Posbility: 0.0340
+Next Token : num, Posbility: 0.0317
+Choose : n, Posbility: 0.5988
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n
+---------------------------
+Next Token : ):, Posbility: 0.5683
+Next Token : ,, Posbility: 0.3648
+Next Token : :, Posbility: 0.0123
+Next Token : th, Posbility: 0.0122
+Next Token : ), Posbility: 0.0111
+Choose : ):, Posbility: 0.5683
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+---------------------------
+Next Token : 
+, Posbility: 0.8242
+Next Token : , Posbility: 0.0579
+Next Token :  , Posbility: 0.0547
+Next Token : 
+
+, Posbility: 0.0337
+Next Token :   , Posbility: 0.0061
+Choose : 
+, Posbility: 0.8242
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+
+---------------------------
+Next Token :     , Posbility: 0.7943
+Next Token : 	, Posbility: 0.1015
+Next Token :   , Posbility: 0.0465
+Next Token :    , Posbility: 0.0159
+Next Token :         , Posbility: 0.0101
+Choose :     , Posbility: 0.7943
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    
+---------------------------
+Next Token : if, Posbility: 0.2254
+Next Token : '', Posbility: 0.1101
+Next Token : return, Posbility: 0.0595
+Next Token : n, Posbility: 0.0512
+Next Token : for, Posbility: 0.0460
+Choose : if, Posbility: 0.2254
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if
+---------------------------
+Next Token :  n, Posbility: 0.8018
+Next Token :  (, Posbility: 0.0730
+Next Token : (, Posbility: 0.0679
+Next Token :  len, Posbility: 0.0098
+Next Token :  1, Posbility: 0.0069
+Choose :  n, Posbility: 0.8018
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n
+---------------------------
+Next Token :  ==, Posbility: 0.3492
+Next Token : ==, Posbility: 0.2798
+Next Token : <, Posbility: 0.0708
+Next Token :  <, Posbility: 0.0625
+Next Token :  <=, Posbility: 0.0517
+Choose :  ==, Posbility: 0.3492
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n ==
+---------------------------
+Next Token :  1, Posbility: 0.5089
+Next Token :  0, Posbility: 0.3763
+Next Token :  2, Posbility: 0.0244
+Next Token : 1, Posbility: 0.0144
+Next Token :  n, Posbility: 0.0140
+Choose :  1, Posbility: 0.5089
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1
+---------------------------
+Next Token : :, Posbility: 0.8716
+Next Token :  or, Posbility: 0.1027
+Next Token :  :, Posbility: 0.0200
+Next Token :  and, Posbility: 0.0025
+Next Token : ., Posbility: 0.0006
+Choose : :, Posbility: 0.8716
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9243
+Next Token :  return, Posbility: 0.0384
+Next Token :  , Posbility: 0.0192
+Next Token :  #, Posbility: 0.0028
+Next Token :  print, Posbility: 0.0027
+Choose : 
+, Posbility: 0.9243
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9794
+Next Token :       , Posbility: 0.0053
+Next Token :        , Posbility: 0.0045
+Next Token :             , Posbility: 0.0043
+Next Token :          , Posbility: 0.0021
+Choose :         , Posbility: 0.9794
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.8147
+Next Token : print, Posbility: 0.1482
+Next Token : n, Posbility: 0.0071
+Next Token : if, Posbility: 0.0040
+Next Token : pass, Posbility: 0.0016
+Choose : return, Posbility: 0.8147
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return
+---------------------------
+Next Token :  1, Posbility: 0.6085
+Next Token :  0, Posbility: 0.1483
+Next Token :  n, Posbility: 0.0898
+Next Token :  2, Posbility: 0.0281
+Next Token :  ', Posbility: 0.0135
+Choose :  1, Posbility: 0.6085
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+---------------------------
+Next Token : 
+, Posbility: 0.9438
+Next Token : 
+
+, Posbility: 0.0316
+Next Token :  , Posbility: 0.0100
+Next Token : ;, Posbility: 0.0064
+Next Token : ,, Posbility: 0.0013
+Choose : 
+, Posbility: 0.9438
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+
+---------------------------
+Next Token :     , Posbility: 0.9935
+Next Token :         , Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Choose :     , Posbility: 0.9935
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    
+---------------------------
+Next Token : else, Posbility: 0.4182
+Next Token : return, Posbility: 0.1846
+Next Token : el, Posbility: 0.1762
+Next Token : if, Posbility: 0.1337
+Next Token : for, Posbility: 0.0103
+Choose : else, Posbility: 0.4182
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else
+---------------------------
+Next Token : :, Posbility: 0.9904
+Next Token :  :, Posbility: 0.0093
+Next Token : 
+, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : :, Posbility: 0.9904
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9767
+Next Token :  , Posbility: 0.0138
+Next Token :  return, Posbility: 0.0034
+Next Token : 
+
+, Posbility: 0.0019
+Next Token :     , Posbility: 0.0009
+Choose : 
+, Posbility: 0.9767
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9920
+Next Token :             , Posbility: 0.0016
+Next Token :          , Posbility: 0.0014
+Next Token :     , Posbility: 0.0013
+Next Token :        , Posbility: 0.0013
+Choose :         , Posbility: 0.9920
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.8711
+Next Token : if, Posbility: 0.0184
+Next Token : print, Posbility: 0.0182
+Next Token : n, Posbility: 0.0131
+Next Token : x, Posbility: 0.0086
+Choose : return, Posbility: 0.8711
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return
+---------------------------
+Next Token :  n, Posbility: 0.4325
+Next Token :  , Posbility: 0.1637
+Next Token :  ______, Posbility: 0.0862
+Next Token :  (, Posbility: 0.0852
+Next Token :  1, Posbility: 0.0608
+Choose :  n, Posbility: 0.4325
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n
+---------------------------
+Next Token :  +, Posbility: 0.3617
+Next Token :  *, Posbility: 0.1546
+Next Token :  -, Posbility: 0.1044
+Next Token : +, Posbility: 0.0811
+Next Token : *, Posbility: 0.0712
+Choose :  +, Posbility: 0.3617
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n +
+---------------------------
+Next Token :  , Posbility: 0.6579
+Next Token :  ______, Posbility: 0.0961
+Next Token :  1, Posbility: 0.0736
+Next Token : ____, Posbility: 0.0426
+Next Token :  (, Posbility: 0.0367
+Choose :  , Posbility: 0.6579
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + 
+---------------------------
+Next Token : ____, Posbility: 0.9892
+Next Token : _____, Posbility: 0.0052
+Next Token : ________, Posbility: 0.0039
+Next Token : _______, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0002
+Choose : ____, Posbility: 0.9892
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____
+---------------------------
+Next Token : (, Posbility: 0.9854
+Next Token : ((, Posbility: 0.0055
+Next Token : (-, Posbility: 0.0036
+Next Token :  (, Posbility: 0.0031
+Next Token : (), Posbility: 0.0008
+Choose : (, Posbility: 0.9854
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____(
+---------------------------
+Next Token : n, Posbility: 0.9958
+Next Token : int, Posbility: 0.0012
+Next Token : 1, Posbility: 0.0009
+Next Token :  n, Posbility: 0.0007
+Next Token : 2, Posbility: 0.0002
+Choose : n, Posbility: 0.9958
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____(n
+---------------------------
+Next Token : -, Posbility: 0.5778
+Next Token :  -, Posbility: 0.4163
+Next Token : //, Posbility: 0.0024
+Next Token :  //, Posbility: 0.0011
+Next Token :  +, Posbility: 0.0005
+Choose : -, Posbility: 0.5778
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____(n-
+---------------------------
+Next Token : 1, Posbility: 0.9881
+Next Token : 2, Posbility: 0.0088
+Next Token :  1, Posbility: 0.0015
+Next Token : 3, Posbility: 0.0008
+Next Token : 4, Posbility: 0.0001
+Choose : 1, Posbility: 0.9881
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____(n-1
+---------------------------
+Next Token : ), Posbility: 0.9903
+Next Token : )/, Posbility: 0.0032
+Next Token : )*, Posbility: 0.0025
+Next Token : )+, Posbility: 0.0017
+Next Token : );, Posbility: 0.0007
+Choose : ), Posbility: 0.9903
+---------------------------
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____(n-1)
+---------------------------
+Next Token : 
+, Posbility: 0.6167
+Next Token : 
+
+, Posbility: 0.3184
+Next Token :  +, Posbility: 0.0159
+Next Token :  , Posbility: 0.0148
+Next Token : <|endoftext|>, Posbility: 0.0129
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.087795734405518
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find nth polite number. geeksforgeeks.org/n-th-polite-number/'''
+def ____(n):
+    if n == 1:
+        return 1
+    else:
+        return n + ____(n-1)
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,697 @@
+<<<<<<<<<<<< 13 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2282
+Next Token : ix, Posbility: 0.1239
+Next Token : ids, Posbility: 0.1131
+Next Token : ia, Posbility: 0.0591
+Next Token : ile, Posbility: 0.0417
+syntax error : 
+
+Choose : ix, Posbility: 0.1239
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix
+---------------------------
+Next Token : (, Posbility: 0.3328
+Next Token : _, Posbility: 0.1734
+Next Token : s, Posbility: 0.0352
+Next Token : du, Posbility: 0.0281
+Next Token : D, Posbility: 0.0225
+Choose : (, Posbility: 0.3328
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(
+---------------------------
+Next Token : arr, Posbility: 0.4412
+Next Token : array, Posbility: 0.1049
+Next Token : n, Posbility: 0.0947
+Next Token : a, Posbility: 0.0616
+Next Token : l, Posbility: 0.0481
+Choose : arr, Posbility: 0.4412
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr
+---------------------------
+Next Token : ):, Posbility: 0.6563
+Next Token : ,, Posbility: 0.2926
+Next Token : :, Posbility: 0.0268
+Next Token : 1, Posbility: 0.0088
+Next Token : ), Posbility: 0.0053
+Choose : ):, Posbility: 0.6563
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+---------------------------
+Next Token : 
+, Posbility: 0.8979
+Next Token :  , Posbility: 0.0319
+Next Token : , Posbility: 0.0281
+Next Token : 
+
+, Posbility: 0.0241
+Next Token :  #, Posbility: 0.0057
+Choose : 
+, Posbility: 0.8979
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+
+---------------------------
+Next Token :     , Posbility: 0.8734
+Next Token :   , Posbility: 0.0653
+Next Token : 	, Posbility: 0.0290
+Next Token :    , Posbility: 0.0137
+Next Token :         , Posbility: 0.0064
+Choose :     , Posbility: 0.8734
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    
+---------------------------
+Next Token : for, Posbility: 0.1430
+Next Token : '', Posbility: 0.1170
+Next Token : #, Posbility: 0.0819
+Next Token : arr, Posbility: 0.0631
+Next Token : if, Posbility: 0.0526
+Choose : for, Posbility: 0.1430
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7962
+Next Token :  x, Posbility: 0.0561
+Next Token :  index, Posbility: 0.0249
+Next Token :  num, Posbility: 0.0219
+Next Token :  id, Posbility: 0.0126
+Choose :  i, Posbility: 0.7962
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9417
+Next Token : ,, Posbility: 0.0567
+Next Token :   , Posbility: 0.0004
+Next Token : _, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0003
+Choose :  in, Posbility: 0.9417
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.8037
+Next Token :  arr, Posbility: 0.1849
+Next Token :  set, Posbility: 0.0034
+Next Token :  sorted, Posbility: 0.0017
+Next Token :  list, Posbility: 0.0012
+Choose :  range, Posbility: 0.8037
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9807
+Next Token :  (, Posbility: 0.0184
+Next Token : ((, Posbility: 0.0003
+Next Token : (-, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0001
+Choose : (, Posbility: 0.9807
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7421
+Next Token : 0, Posbility: 0.2045
+Next Token : 1, Posbility: 0.0304
+Next Token : arr, Posbility: 0.0094
+Next Token : n, Posbility: 0.0024
+Choose : len, Posbility: 0.7421
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token : (), Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : ):, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Choose : (, Posbility: 0.9996
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9988
+Next Token : set, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : a, Posbility: 0.0001
+Choose : arr, Posbility: 0.9988
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr
+---------------------------
+Next Token : ), Posbility: 0.9402
+Next Token : )-, Posbility: 0.0560
+Next Token : )), Posbility: 0.0023
+Next Token : )+, Posbility: 0.0008
+Next Token : [, Posbility: 0.0003
+Choose : ), Posbility: 0.9402
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9817
+Next Token :  -, Posbility: 0.0169
+Next Token : //, Posbility: 0.0005
+Next Token :  ):, Posbility: 0.0005
+Next Token :  +, Posbility: 0.0001
+Choose : ):, Posbility: 0.9817
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9735
+Next Token :  , Posbility: 0.0116
+Next Token : 
+
+, Posbility: 0.0044
+Next Token :  #, Posbility: 0.0039
+Next Token :   , Posbility: 0.0017
+Choose : 
+, Posbility: 0.9735
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+
+---------------------------
+Next Token :         , Posbility: 0.9813
+Next Token :             , Posbility: 0.0055
+Next Token :       , Posbility: 0.0045
+Next Token :        , Posbility: 0.0032
+Next Token :     , Posbility: 0.0016
+Choose :         , Posbility: 0.9813
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        
+---------------------------
+Next Token : for, Posbility: 0.3536
+Next Token : if, Posbility: 0.2736
+Next Token : count, Posbility: 0.0338
+Next Token : c, Posbility: 0.0243
+Next Token : print, Posbility: 0.0225
+Choose : for, Posbility: 0.3536
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9469
+Next Token :  x, Posbility: 0.0123
+Next Token :  k, Posbility: 0.0119
+Next Token :  num, Posbility: 0.0032
+Next Token :  n, Posbility: 0.0025
+Choose :  j, Posbility: 0.9469
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9978
+Next Token : ,, Posbility: 0.0015
+Next Token :   , Posbility: 0.0004
+Next Token : 1, Posbility: 0.0000
+Next Token : x, Posbility: 0.0000
+Choose :  in, Posbility: 0.9978
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9823
+Next Token :  arr, Posbility: 0.0148
+Next Token :  reversed, Posbility: 0.0005
+Next Token :  set, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0003
+Choose :  range, Posbility: 0.9823
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9917
+Next Token :  (, Posbility: 0.0070
+Next Token : ((, Posbility: 0.0010
+Next Token : (-, Posbility: 0.0001
+Next Token : :, Posbility: 0.0000
+Choose : (, Posbility: 0.9917
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(
+---------------------------
+Next Token : i, Posbility: 0.5770
+Next Token : len, Posbility: 0.3964
+Next Token : 0, Posbility: 0.0178
+Next Token : 1, Posbility: 0.0047
+Next Token :  len, Posbility: 0.0010
+Choose : i, Posbility: 0.5770
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i
+---------------------------
+Next Token : +, Posbility: 0.6271
+Next Token : ,, Posbility: 0.2100
+Next Token :  +, Posbility: 0.1125
+Next Token : ):, Posbility: 0.0448
+Next Token : ,, Posbility: 0.0019
+Choose : +, Posbility: 0.6271
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+
+---------------------------
+Next Token : 1, Posbility: 0.9975
+Next Token : 2, Posbility: 0.0014
+Next Token :  1, Posbility: 0.0008
+Next Token : i, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0001
+Choose : 1, Posbility: 0.9975
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1
+---------------------------
+Next Token : ,, Posbility: 0.9925
+Next Token : ,, Posbility: 0.0049
+Next Token : ):, Posbility: 0.0023
+Next Token : +, Posbility: 0.0001
+Next Token : ,-, Posbility: 0.0001
+Choose : ,, Posbility: 0.9925
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1,
+---------------------------
+Next Token :  len, Posbility: 0.5502
+Next Token : len, Posbility: 0.4485
+Next Token :  arr, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token : 0, Posbility: 0.0001
+Choose :  len, Posbility: 0.5502
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token :  (, Posbility: 0.0003
+Next Token : ):, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Choose : (, Posbility: 0.9997
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(
+---------------------------
+Next Token : arr, Posbility: 0.9997
+Next Token :  arr, Posbility: 0.0001
+Next Token : array, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Choose : arr, Posbility: 0.9997
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr
+---------------------------
+Next Token : ), Posbility: 0.9882
+Next Token : )+, Posbility: 0.0083
+Next Token : ),, Posbility: 0.0028
+Next Token : )-, Posbility: 0.0004
+Next Token : )), Posbility: 0.0003
+Choose : ), Posbility: 0.9882
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9989
+Next Token :  +, Posbility: 0.0005
+Next Token :  ):, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose : ):, Posbility: 0.9989
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9839
+Next Token :  , Posbility: 0.0048
+Next Token : 
+
+, Posbility: 0.0037
+Next Token :  #, Posbility: 0.0033
+Next Token :   , Posbility: 0.0012
+Choose : 
+, Posbility: 0.9839
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+
+---------------------------
+Next Token :             , Posbility: 0.9896
+Next Token :                 , Posbility: 0.0039
+Next Token :            , Posbility: 0.0019
+Next Token :              , Posbility: 0.0013
+Next Token :           , Posbility: 0.0009
+Choose :             , Posbility: 0.9896
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            
+---------------------------
+Next Token : if, Posbility: 0.9287
+Next Token : #, Posbility: 0.0141
+Next Token : print, Posbility: 0.0103
+Next Token : for, Posbility: 0.0045
+Next Token : x, Posbility: 0.0035
+Choose : if, Posbility: 0.9287
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if
+---------------------------
+Next Token :  arr, Posbility: 0.9470
+Next Token : (, Posbility: 0.0255
+Next Token :  (, Posbility: 0.0131
+Next Token :  i, Posbility: 0.0031
+Next Token :  abs, Posbility: 0.0027
+Choose :  arr, Posbility: 0.9470
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr
+---------------------------
+Next Token : [, Posbility: 0.9978
+Next Token : ., Posbility: 0.0011
+Next Token :  [, Posbility: 0.0006
+Next Token :  ==, Posbility: 0.0001
+Next Token : [[, Posbility: 0.0001
+Choose : [, Posbility: 0.9978
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[
+---------------------------
+Next Token : i, Posbility: 0.8894
+Next Token : j, Posbility: 0.1098
+Next Token : 0, Posbility: 0.0002
+Next Token : (, Posbility: 0.0001
+Next Token : abs, Posbility: 0.0001
+Choose : i, Posbility: 0.8894
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9720
+Next Token : ]+, Posbility: 0.0252
+Next Token : ]-, Posbility: 0.0014
+Next Token : ][, Posbility: 0.0004
+Next Token : ]:, Posbility: 0.0002
+Choose : ], Posbility: 0.9720
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i]
+---------------------------
+Next Token :  ==, Posbility: 0.8791
+Next Token : ==, Posbility: 0.0778
+Next Token : !=, Posbility: 0.0178
+Next Token :  +, Posbility: 0.0082
+Next Token :  in, Posbility: 0.0077
+Choose :  ==, Posbility: 0.8791
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] ==
+---------------------------
+Next Token :  arr, Posbility: 0.9975
+Next Token : arr, Posbility: 0.0013
+Next Token :   , Posbility: 0.0003
+Next Token :  (, Posbility: 0.0002
+Next Token :  1, Posbility: 0.0002
+Choose :  arr, Posbility: 0.9975
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr
+---------------------------
+Next Token : [, Posbility: 0.9986
+Next Token :  [, Posbility: 0.0014
+Next Token : :, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : [, Posbility: 0.9986
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[
+---------------------------
+Next Token : j, Posbility: 0.9988
+Next Token : i, Posbility: 0.0009
+Next Token : arr, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Choose : j, Posbility: 0.9988
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j
+---------------------------
+Next Token : ]:, Posbility: 0.9190
+Next Token : ], Posbility: 0.0803
+Next Token : ]+, Posbility: 0.0002
+Next Token : ][, Posbility: 0.0001
+Next Token : ]-, Posbility: 0.0001
+Choose : ]:, Posbility: 0.9190
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+---------------------------
+Next Token : 
+, Posbility: 0.9715
+Next Token :  return, Posbility: 0.0140
+Next Token :  , Posbility: 0.0065
+Next Token :  #, Posbility: 0.0022
+Next Token :   , Posbility: 0.0010
+Choose : 
+, Posbility: 0.9715
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+
+---------------------------
+Next Token :                 , Posbility: 0.9942
+Next Token :                , Posbility: 0.0021
+Next Token :                     , Posbility: 0.0015
+Next Token :                  , Posbility: 0.0009
+Next Token :               , Posbility: 0.0005
+Choose :                 , Posbility: 0.9942
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                
+---------------------------
+Next Token : return, Posbility: 0.8463
+Next Token : print, Posbility: 0.1057
+Next Token : arr, Posbility: 0.0102
+Next Token : continue, Posbility: 0.0056
+Next Token : pass, Posbility: 0.0047
+Choose : return, Posbility: 0.8463
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return
+---------------------------
+Next Token :  True, Posbility: 0.8750
+Next Token :  arr, Posbility: 0.0424
+Next Token :  1, Posbility: 0.0342
+Next Token :  i, Posbility: 0.0086
+Next Token : (, Posbility: 0.0071
+Choose :  True, Posbility: 0.8750
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+---------------------------
+Next Token : 
+, Posbility: 0.9272
+Next Token : 
+
+, Posbility: 0.0373
+Next Token :  , Posbility: 0.0142
+Next Token : ,, Posbility: 0.0078
+Next Token : ;, Posbility: 0.0031
+Choose : 
+, Posbility: 0.9272
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+
+---------------------------
+Next Token :     , Posbility: 0.8540
+Next Token :             , Posbility: 0.0563
+Next Token :         , Posbility: 0.0470
+Next Token : 
+, Posbility: 0.0279
+Next Token :                 , Posbility: 0.0070
+Choose :     , Posbility: 0.8540
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+    
+---------------------------
+Next Token : return, Posbility: 0.9674
+Next Token : 
+, Posbility: 0.0192
+Next Token : else, Posbility: 0.0067
+Next Token : #, Posbility: 0.0029
+Next Token : print, Posbility: 0.0013
+Choose : return, Posbility: 0.9674
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9965
+Next Token :  True, Posbility: 0.0005
+Next Token :  None, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Next Token :  arr, Posbility: 0.0003
+Choose :  False, Posbility: 0.9965
+---------------------------
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+    return False
+---------------------------
+Next Token : 
+, Posbility: 0.7808
+Next Token : 
+
+, Posbility: 0.1548
+Next Token : <|endoftext|>, Posbility: 0.0345
+Next Token :  , Posbility: 0.0135
+Next Token :     , Posbility: 0.0047
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.972376108169556
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find whether a given array of integers contains any duplicate element.'''
+def ix(arr):
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] == arr[j]:
+                return True
+    return False
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

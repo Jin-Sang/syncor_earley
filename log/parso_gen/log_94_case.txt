@@ -1,0 +1,231 @@
+<<<<<<<<<<<< 94 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1389
+Next Token : ia, Posbility: 0.1071
+Next Token : ____, Posbility: 0.0795
+Next Token : ix, Posbility: 0.0487
+Next Token : ier, Posbility: 0.0470
+syntax error : 
+
+Choose : ia, Posbility: 0.1071
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia
+---------------------------
+Next Token : (, Posbility: 0.5282
+Next Token : _, Posbility: 0.2183
+Next Token : ():, Posbility: 0.0450
+Next Token : a, Posbility: 0.0199
+Next Token : 1, Posbility: 0.0124
+Choose : (, Posbility: 0.5282
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(
+---------------------------
+Next Token : l, Posbility: 0.2359
+Next Token : length, Posbility: 0.1454
+Next Token : a, Posbility: 0.0852
+Next Token : side, Posbility: 0.0757
+Next Token : L, Posbility: 0.0754
+Choose : l, Posbility: 0.2359
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l
+---------------------------
+Next Token : ,, Posbility: 0.8829
+Next Token : ):, Posbility: 0.0488
+Next Token : 1, Posbility: 0.0208
+Next Token : :, Posbility: 0.0156
+Next Token : _, Posbility: 0.0065
+Choose : ,, Posbility: 0.8829
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,
+---------------------------
+Next Token : n, Posbility: 0.5489
+Next Token :  n, Posbility: 0.2595
+Next Token : s, Posbility: 0.0861
+Next Token :  s, Posbility: 0.0301
+Next Token :  num, Posbility: 0.0086
+Choose : n, Posbility: 0.5489
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n
+---------------------------
+Next Token : ):, Posbility: 0.9349
+Next Token : ,, Posbility: 0.0536
+Next Token : =, Posbility: 0.0037
+Next Token : ), Posbility: 0.0028
+Next Token : 1, Posbility: 0.0014
+Choose : ):, Posbility: 0.9349
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+---------------------------
+Next Token : 
+, Posbility: 0.8752
+Next Token :  , Posbility: 0.0425
+Next Token : , Posbility: 0.0351
+Next Token : 
+
+, Posbility: 0.0214
+Next Token :  #, Posbility: 0.0093
+Choose : 
+, Posbility: 0.8752
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+
+---------------------------
+Next Token :     , Posbility: 0.8932
+Next Token : 	, Posbility: 0.0469
+Next Token :   , Posbility: 0.0440
+Next Token :    , Posbility: 0.0056
+Next Token :         , Posbility: 0.0037
+Choose :     , Posbility: 0.8932
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    
+---------------------------
+Next Token : area, Posbility: 0.2653
+Next Token : return, Posbility: 0.2399
+Next Token : '', Posbility: 0.0851
+Next Token : ia, Posbility: 0.0671
+Next Token : if, Posbility: 0.0571
+Choose : area, Posbility: 0.2653
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area
+---------------------------
+Next Token :  =, Posbility: 0.6404
+Next Token : =, Posbility: 0.3012
+Next Token : _, Posbility: 0.0222
+Next Token : =(, Posbility: 0.0178
+Next Token : 1, Posbility: 0.0054
+Choose :  =, Posbility: 0.6404
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area =
+---------------------------
+Next Token :  l, Posbility: 0.3078
+Next Token :  0, Posbility: 0.2355
+Next Token :  (, Posbility: 0.1751
+Next Token :  n, Posbility: 0.1068
+Next Token :  ((, Posbility: 0.0314
+Choose :  l, Posbility: 0.3078
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l
+---------------------------
+Next Token : *, Posbility: 0.4616
+Next Token :  *, Posbility: 0.3965
+Next Token : **, Posbility: 0.0833
+Next Token :  **, Posbility: 0.0246
+Next Token : /, Posbility: 0.0195
+Choose : *, Posbility: 0.4616
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*
+---------------------------
+Next Token : n, Posbility: 0.7032
+Next Token : (, Posbility: 0.2379
+Next Token : l, Posbility: 0.0274
+Next Token : 2, Posbility: 0.0077
+Next Token : ((, Posbility: 0.0072
+Choose : n, Posbility: 0.7032
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*n
+---------------------------
+Next Token : 
+, Posbility: 0.7156
+Next Token : *, Posbility: 0.1259
+Next Token : /, Posbility: 0.0764
+Next Token : 
+
+, Posbility: 0.0180
+Next Token : **, Posbility: 0.0177
+Choose : 
+, Posbility: 0.7156
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*n
+
+---------------------------
+Next Token :     , Posbility: 0.9975
+Next Token : 
+, Posbility: 0.0007
+Next Token : #, Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Next Token :  , Posbility: 0.0001
+Choose :     , Posbility: 0.9975
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*n
+    
+---------------------------
+Next Token : return, Posbility: 0.7299
+Next Token : print, Posbility: 0.2124
+Next Token : area, Posbility: 0.0204
+Next Token : ia, Posbility: 0.0058
+Next Token : if, Posbility: 0.0055
+Choose : return, Posbility: 0.7299
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*n
+    return
+---------------------------
+Next Token :  area, Posbility: 0.8521
+Next Token : (, Posbility: 0.0528
+Next Token :  round, Posbility: 0.0199
+Next Token :  (, Posbility: 0.0191
+Next Token :  print, Posbility: 0.0158
+Choose :  area, Posbility: 0.8521
+---------------------------
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*n
+    return area
+---------------------------
+Next Token : 
+, Posbility: 0.8302
+Next Token : 
+
+, Posbility: 0.1242
+Next Token : <|endoftext|>, Posbility: 0.0204
+Next Token :  , Posbility: 0.0113
+Next Token :     , Posbility: 0.0023
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 2.6813406944274902
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to calculate the area of a regular polygon given the length and number of its sides.'''
+def ia(l,n):
+    area = l*n
+    return area
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

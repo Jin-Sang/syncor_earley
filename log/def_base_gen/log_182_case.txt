@@ -1,0 +1,1214 @@
+<<<<<<<<<<<< 182 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  apply, Posbility: 0.2593
+Next Token :  format, Posbility: 0.2549
+Next Token :  list, Posbility: 0.0689
+Next Token :  print, Posbility: 0.0333
+Next Token :  to, Posbility: 0.0187
+Choose :  apply,  Posbility: 0.2593
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply
+---------------------------
+Next Token : _, Posbility: 0.6219
+Next Token : Format, Posbility: 0.1586
+Next Token : (, Posbility: 0.1049
+Next Token : format, Posbility: 0.0282
+Next Token : Form, Posbility: 0.0141
+Choose : _,  Posbility: 0.6219
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_
+---------------------------
+Next Token : format, Posbility: 0.7550
+Next Token : form, Posbility: 0.0683
+Next Token : f, Posbility: 0.0492
+Next Token : list, Posbility: 0.0322
+Next Token : string, Posbility: 0.0273
+Choose : format,  Posbility: 0.7550
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format
+---------------------------
+Next Token : (, Posbility: 0.6172
+Next Token : _, Posbility: 0.3351
+Next Token : ting, Posbility: 0.0165
+Next Token : string, Posbility: 0.0130
+Next Token : (*, Posbility: 0.0038
+Choose : (,  Posbility: 0.6172
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(
+---------------------------
+Next Token : format, Posbility: 0.1880
+Next Token : list, Posbility: 0.1321
+Next Token : string, Posbility: 0.1119
+Next Token : l, Posbility: 0.0781
+Next Token : str, Posbility: 0.0442
+Choose : format,  Posbility: 0.1880
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format
+---------------------------
+Next Token : _, Posbility: 0.6396
+Next Token : ,, Posbility: 0.2355
+Next Token : ):, Posbility: 0.0403
+Next Token : :, Posbility: 0.0247
+Next Token : String, Posbility: 0.0141
+Choose : _,  Posbility: 0.6396
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_
+---------------------------
+Next Token : string, Posbility: 0.6769
+Next Token : str, Posbility: 0.2859
+Next Token : list, Posbility: 0.0038
+Next Token : text, Posbility: 0.0034
+Next Token : strings, Posbility: 0.0034
+Choose : string,  Posbility: 0.6769
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string
+---------------------------
+Next Token : ,, Posbility: 0.8520
+Next Token : ):, Posbility: 0.0913
+Next Token : :, Posbility: 0.0406
+Next Token : _, Posbility: 0.0049
+Next Token : =', Posbility: 0.0037
+Choose : ,,  Posbility: 0.8520
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string,
+---------------------------
+Next Token :  list, Posbility: 0.2663
+Next Token :  elements, Posbility: 0.1254
+Next Token :  *, Posbility: 0.1198
+Next Token :  l, Posbility: 0.0687
+Next Token :  values, Posbility: 0.0294
+Choose :  list,  Posbility: 0.2663
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list
+---------------------------
+Next Token : _, Posbility: 0.4939
+Next Token : ):, Posbility: 0.4791
+Next Token : ,, Posbility: 0.0068
+Next Token : 1, Posbility: 0.0065
+Next Token : e, Posbility: 0.0051
+Choose : _,  Posbility: 0.4939
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_
+---------------------------
+Next Token : of, Posbility: 0.4895
+Next Token : to, Posbility: 0.1463
+Next Token : e, Posbility: 0.1194
+Next Token : ):, Posbility: 0.0558
+Next Token : input, Posbility: 0.0194
+Choose : of,  Posbility: 0.4895
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of
+---------------------------
+Next Token : _, Posbility: 0.9996
+Next Token : ):, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Choose : _,  Posbility: 0.9996
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_
+---------------------------
+Next Token : e, Posbility: 0.6442
+Next Token : values, Posbility: 0.0857
+Next Token : items, Posbility: 0.0457
+Next Token : lists, Posbility: 0.0449
+Next Token : n, Posbility: 0.0324
+Choose : e,  Posbility: 0.6442
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_e
+---------------------------
+Next Token : lements, Posbility: 0.9257
+Next Token : lem, Posbility: 0.0734
+Next Token : ):, Posbility: 0.0006
+Next Token : les, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose : lements,  Posbility: 0.9257
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements
+---------------------------
+Next Token : ):, Posbility: 0.9739
+Next Token : ,, Posbility: 0.0174
+Next Token : =, Posbility: 0.0036
+Next Token : ), Posbility: 0.0020
+Next Token : _, Posbility: 0.0012
+Choose : ):,  Posbility: 0.9739
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+---------------------------
+Next Token : 
+, Posbility: 0.9499
+Next Token : 
+
+, Posbility: 0.0235
+Next Token : , Posbility: 0.0122
+Next Token :  , Posbility: 0.0078
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9499
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+
+---------------------------
+Next Token :     , Posbility: 0.9343
+Next Token : 	, Posbility: 0.0417
+Next Token :   , Posbility: 0.0170
+Next Token :    , Posbility: 0.0031
+Next Token :         , Posbility: 0.0018
+Choose :     ,  Posbility: 0.9343
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    
+---------------------------
+Next Token : '', Posbility: 0.4561
+Next Token : for, Posbility: 0.1642
+Next Token : #, Posbility: 0.0501
+Next Token : if, Posbility: 0.0378
+Next Token : return, Posbility: 0.0290
+Choose : '',  Posbility: 0.4561
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''
+---------------------------
+Next Token : Apply, Posbility: 0.1553
+Next Token : 
+, Posbility: 0.1063
+Next Token : App, Posbility: 0.1062
+Next Token : Write, Posbility: 0.0907
+Next Token : Format, Posbility: 0.0390
+Choose : Apply,  Posbility: 0.1553
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply
+---------------------------
+Next Token :  a, Posbility: 0.5201
+Next Token :  the, Posbility: 0.3097
+Next Token :  format, Posbility: 0.0839
+Next Token :  given, Posbility: 0.0248
+Next Token :  formatting, Posbility: 0.0067
+Choose :  a,  Posbility: 0.5201
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a
+---------------------------
+Next Token :  given, Posbility: 0.8222
+Next Token :  format, Posbility: 0.1379
+Next Token :  string, Posbility: 0.0107
+Next Token :  formatting, Posbility: 0.0070
+Next Token :  list, Posbility: 0.0021
+Choose :  given,  Posbility: 0.8222
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given
+---------------------------
+Next Token :  format, Posbility: 0.9613
+Next Token :  string, Posbility: 0.0197
+Next Token :  formatting, Posbility: 0.0055
+Next Token :  form, Posbility: 0.0017
+Next Token :  list, Posbility: 0.0009
+Choose :  format,  Posbility: 0.9613
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format
+---------------------------
+Next Token :  string, Posbility: 0.9459
+Next Token :  to, Posbility: 0.0270
+Next Token : _, Posbility: 0.0156
+Next Token :  String, Posbility: 0.0005
+Next Token : string, Posbility: 0.0005
+Choose :  string,  Posbility: 0.9459
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string
+---------------------------
+Next Token :  to, Posbility: 0.9450
+Next Token :  on, Posbility: 0.0090
+Next Token :  with, Posbility: 0.0071
+Next Token :  and, Posbility: 0.0041
+Next Token :  ', Posbility: 0.0035
+Choose :  to,  Posbility: 0.9450
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to
+---------------------------
+Next Token :  all, Posbility: 0.7945
+Next Token :  the, Posbility: 0.0729
+Next Token :  each, Posbility: 0.0639
+Next Token :  a, Posbility: 0.0219
+Next Token :  every, Posbility: 0.0209
+Choose :  all,  Posbility: 0.7945
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all
+---------------------------
+Next Token :  of, Posbility: 0.5217
+Next Token :  elements, Posbility: 0.3017
+Next Token :  the, Posbility: 0.1072
+Next Token :  values, Posbility: 0.0149
+Next Token :  items, Posbility: 0.0136
+Choose :  of,  Posbility: 0.5217
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of
+---------------------------
+Next Token :  the, Posbility: 0.9819
+Next Token :  a, Posbility: 0.0070
+Next Token :  list, Posbility: 0.0038
+Next Token :  elements, Posbility: 0.0030
+Next Token :  element, Posbility: 0.0004
+Choose :  the,  Posbility: 0.9819
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the
+---------------------------
+Next Token :  elements, Posbility: 0.9291
+Next Token :  given, Posbility: 0.0237
+Next Token :  list, Posbility: 0.0148
+Next Token :  items, Posbility: 0.0079
+Next Token :  values, Posbility: 0.0056
+Choose :  elements,  Posbility: 0.9291
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements
+---------------------------
+Next Token :  in, Posbility: 0.8443
+Next Token :  of, Posbility: 0.0919
+Next Token : '', Posbility: 0.0099
+Next Token :  and, Posbility: 0.0079
+Next Token : ., Posbility: 0.0072
+Choose :  in,  Posbility: 0.8443
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in
+---------------------------
+Next Token :  a, Posbility: 0.8067
+Next Token :  the, Posbility: 0.1400
+Next Token :  list, Posbility: 0.0382
+Next Token :  ', Posbility: 0.0041
+Next Token : 
+, Posbility: 0.0026
+Choose :  a,  Posbility: 0.8067
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a
+---------------------------
+Next Token :  list, Posbility: 0.9737
+Next Token :  given, Posbility: 0.0149
+Next Token : 
+, Posbility: 0.0022
+Next Token :  string, Posbility: 0.0011
+Next Token :  List, Posbility: 0.0006
+Choose :  list,  Posbility: 0.9737
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list
+---------------------------
+Next Token : .', Posbility: 0.3583
+Next Token : ., Posbility: 0.3527
+Next Token : '', Posbility: 0.1542
+Next Token :  and, Posbility: 0.0422
+Next Token : ,, Posbility: 0.0214
+Choose : .',  Posbility: 0.3583
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'
+---------------------------
+Next Token : '', Posbility: 0.9956
+Next Token : 
+, Posbility: 0.0019
+Next Token :  ', Posbility: 0.0011
+Next Token : 
+
+, Posbility: 0.0009
+Next Token :  '', Posbility: 0.0001
+Choose : '',  Posbility: 0.9956
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9375
+Next Token : 
+
+, Posbility: 0.0550
+Next Token :  , Posbility: 0.0041
+Next Token :     , Posbility: 0.0014
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9375
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9943
+Next Token :   , Posbility: 0.0012
+Next Token :         , Posbility: 0.0008
+Next Token : 	, Posbility: 0.0006
+Next Token :    , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9943
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.4899
+Next Token : #, Posbility: 0.0562
+Next Token : format, Posbility: 0.0551
+Next Token : if, Posbility: 0.0499
+Next Token : return, Posbility: 0.0487
+Choose : for,  Posbility: 0.4899
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for
+---------------------------
+Next Token :  element, Posbility: 0.5592
+Next Token :  i, Posbility: 0.1343
+Next Token :  el, Posbility: 0.0531
+Next Token :  item, Posbility: 0.0496
+Next Token :  index, Posbility: 0.0475
+Choose :  element,  Posbility: 0.5592
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element
+---------------------------
+Next Token :  in, Posbility: 0.9894
+Next Token : _, Posbility: 0.0100
+Next Token : ,, Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9894
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in
+---------------------------
+Next Token :  list, Posbility: 0.9805
+Next Token :  range, Posbility: 0.0101
+Next Token :  format, Posbility: 0.0054
+Next Token :   , Posbility: 0.0006
+Next Token :  enumer, Posbility: 0.0005
+Choose :  list,  Posbility: 0.9805
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list
+---------------------------
+Next Token : _, Posbility: 0.9981
+Next Token : (, Posbility: 0.0015
+Next Token : :, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Choose : _,  Posbility: 0.9981
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_
+---------------------------
+Next Token : of, Posbility: 0.9999
+Next Token : e, Posbility: 0.0000
+Next Token : to, Posbility: 0.0000
+Next Token : for, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : of,  Posbility: 0.9999
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : :, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : ():, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_
+---------------------------
+Next Token : e, Posbility: 0.9999
+Next Token : element, Posbility: 0.0000
+Next Token : ele, Posbility: 0.0000
+Next Token : items, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Choose : e,  Posbility: 0.9999
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_e
+---------------------------
+Next Token : lements, Posbility: 1.0000
+Next Token : lem, Posbility: 0.0000
+Next Token : ements, Posbility: 0.0000
+Next Token : uments, Posbility: 0.0000
+Next Token : els, Posbility: 0.0000
+Choose : lements,  Posbility: 1.0000
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements
+---------------------------
+Next Token : :, Posbility: 0.9966
+Next Token : [, Posbility: 0.0019
+Next Token : ., Posbility: 0.0006
+Next Token :  :, Posbility: 0.0006
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9966
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+---------------------------
+Next Token : 
+, Posbility: 0.9877
+Next Token :  , Posbility: 0.0051
+Next Token :  #, Posbility: 0.0012
+Next Token : 
+
+, Posbility: 0.0012
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9877
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+
+---------------------------
+Next Token :         , Posbility: 0.9825
+Next Token :       , Posbility: 0.0053
+Next Token :             , Posbility: 0.0043
+Next Token :        , Posbility: 0.0035
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9825
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        
+---------------------------
+Next Token : element, Posbility: 0.3582
+Next Token : format, Posbility: 0.1254
+Next Token : print, Posbility: 0.1054
+Next Token : if, Posbility: 0.0871
+Next Token : list, Posbility: 0.0749
+Choose : element,  Posbility: 0.3582
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element
+---------------------------
+Next Token :  =, Posbility: 0.6641
+Next Token : ., Posbility: 0.2103
+Next Token : _, Posbility: 0.0779
+Next Token : [, Posbility: 0.0186
+Next Token : =, Posbility: 0.0131
+Choose :  =,  Posbility: 0.6641
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element =
+---------------------------
+Next Token :  format, Posbility: 0.4907
+Next Token :  element, Posbility: 0.3975
+Next Token :  str, Posbility: 0.0368
+Next Token :  re, Posbility: 0.0189
+Next Token :  list, Posbility: 0.0074
+Choose :  format,  Posbility: 0.4907
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format
+---------------------------
+Next Token : _, Posbility: 0.8083
+Next Token : (, Posbility: 0.1886
+Next Token : ., Posbility: 0.0017
+Next Token : _(, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0002
+Choose : _,  Posbility: 0.8083
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_
+---------------------------
+Next Token : string, Posbility: 0.9951
+Next Token : element, Posbility: 0.0015
+Next Token : str, Posbility: 0.0014
+Next Token : format, Posbility: 0.0002
+Next Token : to, Posbility: 0.0002
+Choose : string,  Posbility: 0.9951
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string
+---------------------------
+Next Token : ., Posbility: 0.8844
+Next Token :  %, Posbility: 0.1049
+Next Token : %, Posbility: 0.0048
+Next Token : 
+, Posbility: 0.0018
+Next Token :  +, Posbility: 0.0018
+Choose : .,  Posbility: 0.8844
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.
+---------------------------
+Next Token : format, Posbility: 0.7144
+Next Token : replace, Posbility: 0.2670
+Next Token : sub, Posbility: 0.0063
+Next Token : split, Posbility: 0.0032
+Next Token : strip, Posbility: 0.0027
+Choose : format,  Posbility: 0.7144
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format
+---------------------------
+Next Token : (, Posbility: 0.9911
+Next Token : (*, Posbility: 0.0064
+Next Token : _, Posbility: 0.0011
+Next Token :  (, Posbility: 0.0004
+Next Token : (), Posbility: 0.0002
+Choose : (,  Posbility: 0.9911
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(
+---------------------------
+Next Token : element, Posbility: 0.9691
+Next Token : **, Posbility: 0.0162
+Next Token : e, Posbility: 0.0032
+Next Token : value, Posbility: 0.0021
+Next Token : 
+, Posbility: 0.0014
+Choose : element,  Posbility: 0.9691
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element
+---------------------------
+Next Token : ), Posbility: 0.9631
+Next Token : )., Posbility: 0.0186
+Next Token : =, Posbility: 0.0066
+Next Token : ,, Posbility: 0.0049
+Next Token : ., Posbility: 0.0025
+Choose : ),  Posbility: 0.9631
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+---------------------------
+Next Token : 
+, Posbility: 0.9722
+Next Token : 
+
+, Posbility: 0.0109
+Next Token :  , Posbility: 0.0048
+Next Token :  #, Posbility: 0.0047
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9722
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+
+---------------------------
+Next Token :         , Posbility: 0.8423
+Next Token :     , Posbility: 0.1441
+Next Token : 
+, Posbility: 0.0088
+Next Token : <|endoftext|>, Posbility: 0.0019
+Next Token : #, Posbility: 0.0005
+Choose :         ,  Posbility: 0.8423
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        
+---------------------------
+Next Token : print, Posbility: 0.6457
+Next Token : list, Posbility: 0.1909
+Next Token : if, Posbility: 0.0408
+Next Token : element, Posbility: 0.0286
+Next Token : #, Posbility: 0.0231
+Choose : print,  Posbility: 0.6457
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print
+---------------------------
+Next Token : (, Posbility: 0.9301
+Next Token : (', Posbility: 0.0304
+Next Token : (", Posbility: 0.0200
+Next Token :  (, Posbility: 0.0112
+Next Token :  element, Posbility: 0.0047
+Choose : (,  Posbility: 0.9301
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(
+---------------------------
+Next Token : element, Posbility: 0.9824
+Next Token : f, Posbility: 0.0125
+Next Token : str, Posbility: 0.0016
+Next Token : type, Posbility: 0.0006
+Next Token : format, Posbility: 0.0005
+Choose : element,  Posbility: 0.9824
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element
+---------------------------
+Next Token : ), Posbility: 0.8830
+Next Token : ,, Posbility: 0.1074
+Next Token : ., Posbility: 0.0064
+Next Token :  +, Posbility: 0.0014
+Next Token : ,', Posbility: 0.0003
+Choose : ),  Posbility: 0.8830
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+---------------------------
+Next Token : 
+, Posbility: 0.7384
+Next Token : 
+
+, Posbility: 0.1922
+Next Token : <|endoftext|>, Posbility: 0.0475
+Next Token :  , Posbility: 0.0078
+Next Token :     , Posbility: 0.0034
+Choose : 
+,  Posbility: 0.7384
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+---------------------------
+Next Token : 
+, Posbility: 0.7511
+Next Token :     , Posbility: 0.0916
+Next Token :         , Posbility: 0.0595
+Next Token : <|endoftext|>, Posbility: 0.0274
+Next Token : #, Posbility: 0.0116
+Choose : 
+,  Posbility: 0.7511
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9316
+Next Token : <|endoftext|>, Posbility: 0.0191
+Next Token :     , Posbility: 0.0185
+Next Token : 
+
+, Posbility: 0.0171
+Next Token :         , Posbility: 0.0095
+Choose : 
+,  Posbility: 0.9316
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+
+---------------------------
+Next Token : #, Posbility: 0.2549
+Next Token : def, Posbility: 0.1624
+Next Token : if, Posbility: 0.1623
+Next Token : '', Posbility: 0.1551
+Next Token : 
+, Posbility: 0.0598
+Choose : #,  Posbility: 0.2549
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+#
+---------------------------
+Next Token :  Write, Posbility: 0.0420
+Next Token :  Main, Posbility: 0.0346
+Next Token :  main, Posbility: 0.0309
+Next Token :  Call, Posbility: 0.0249
+Next Token :  Test, Posbility: 0.0243
+Choose :  Write,  Posbility: 0.0420
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write
+---------------------------
+Next Token :  a, Posbility: 0.8527
+Next Token :  your, Posbility: 0.0832
+Next Token :  the, Posbility: 0.0209
+Next Token :  an, Posbility: 0.0052
+Next Token :  code, Posbility: 0.0051
+Choose :  a,  Posbility: 0.8527
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a
+---------------------------
+Next Token :  function, Posbility: 0.8979
+Next Token :  program, Posbility: 0.0314
+Next Token :  main, Posbility: 0.0084
+Next Token :  Python, Posbility: 0.0076
+Next Token :  format, Posbility: 0.0032
+Choose :  function,  Posbility: 0.8979
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6954
+Next Token :  that, Posbility: 0.2240
+Next Token :  called, Posbility: 0.0337
+Next Token :  named, Posbility: 0.0100
+Next Token :  which, Posbility: 0.0063
+Choose :  to,  Posbility: 0.6954
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to
+---------------------------
+Next Token :  apply, Posbility: 0.1029
+Next Token :  print, Posbility: 0.0860
+Next Token :  find, Posbility: 0.0694
+Next Token :  get, Posbility: 0.0670
+Next Token :  create, Posbility: 0.0456
+Choose :  apply,  Posbility: 0.1029
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply
+---------------------------
+Next Token :  a, Posbility: 0.9035
+Next Token :  the, Posbility: 0.0485
+Next Token :  an, Posbility: 0.0074
+Next Token :  all, Posbility: 0.0048
+Next Token :  one, Posbility: 0.0033
+Choose :  a,  Posbility: 0.9035
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a
+---------------------------
+Next Token :  given, Posbility: 0.9327
+Next Token :  format, Posbility: 0.0110
+Next Token :  list, Posbility: 0.0078
+Next Token :  string, Posbility: 0.0039
+Next Token :  formatting, Posbility: 0.0021
+Choose :  given,  Posbility: 0.9327
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given
+---------------------------
+Next Token :  format, Posbility: 0.9035
+Next Token :  string, Posbility: 0.0149
+Next Token :  number, Posbility: 0.0102
+Next Token :  formatting, Posbility: 0.0092
+Next Token :  list, Posbility: 0.0073
+Choose :  format,  Posbility: 0.9035
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format
+---------------------------
+Next Token :  string, Posbility: 0.9641
+Next Token :  to, Posbility: 0.0252
+Next Token :  spec, Posbility: 0.0016
+Next Token :  template, Posbility: 0.0006
+Next Token :  format, Posbility: 0.0005
+Choose :  string,  Posbility: 0.9641
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string
+---------------------------
+Next Token :  to, Posbility: 0.9630
+Next Token :  and, Posbility: 0.0049
+Next Token : ,, Posbility: 0.0034
+Next Token :  with, Posbility: 0.0028
+Next Token : 
+, Posbility: 0.0025
+Choose :  to,  Posbility: 0.9630
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to
+---------------------------
+Next Token :  all, Posbility: 0.8047
+Next Token :  the, Posbility: 0.0528
+Next Token :  a, Posbility: 0.0508
+Next Token :  each, Posbility: 0.0304
+Next Token :  every, Posbility: 0.0183
+Choose :  all,  Posbility: 0.8047
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all
+---------------------------
+Next Token :  of, Posbility: 0.7907
+Next Token :  elements, Posbility: 0.1350
+Next Token :  the, Posbility: 0.0204
+Next Token :  items, Posbility: 0.0161
+Next Token : 
+, Posbility: 0.0051
+Choose :  of,  Posbility: 0.7907
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of
+---------------------------
+Next Token :  the, Posbility: 0.9934
+Next Token :  a, Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0013
+Next Token :  list, Posbility: 0.0005
+Next Token :  elements, Posbility: 0.0005
+Choose :  the,  Posbility: 0.9934
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the
+---------------------------
+Next Token :  elements, Posbility: 0.9187
+Next Token :  numbers, Posbility: 0.0195
+Next Token :  items, Posbility: 0.0099
+Next Token :  values, Posbility: 0.0065
+Next Token :  list, Posbility: 0.0065
+Choose :  elements,  Posbility: 0.9187
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements
+---------------------------
+Next Token :  in, Posbility: 0.9413
+Next Token :  of, Posbility: 0.0298
+Next Token : 
+, Posbility: 0.0102
+Next Token : ., Posbility: 0.0023
+Next Token :  and, Posbility: 0.0023
+Choose :  in,  Posbility: 0.9413
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements in
+---------------------------
+Next Token :  a, Posbility: 0.9845
+Next Token :  the, Posbility: 0.0048
+Next Token : 
+, Posbility: 0.0030
+Next Token :  an, Posbility: 0.0019
+Next Token :  list, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9845
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements in a
+---------------------------
+Next Token :  list, Posbility: 0.9526
+Next Token :  dictionary, Posbility: 0.0124
+Next Token : 
+, Posbility: 0.0090
+Next Token :  string, Posbility: 0.0037
+Next Token :  , Posbility: 0.0027
+Choose :  list,  Posbility: 0.9526
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements in a list
+---------------------------
+Next Token : ., Posbility: 0.8336
+Next Token : 
+, Posbility: 0.0620
+Next Token : ,, Posbility: 0.0293
+Next Token : .', Posbility: 0.0148
+Next Token :  of, Posbility: 0.0145
+Choose : .,  Posbility: 0.8336
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements in a list.
+---------------------------
+Next Token : 
+, Posbility: 0.8885
+Next Token :  , Posbility: 0.0469
+Next Token :  The, Posbility: 0.0090
+Next Token : 
+
+, Posbility: 0.0061
+Next Token :  (, Posbility: 0.0052
+Choose : 
+,  Posbility: 0.8885
+---------------------------
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements in a list.
+
+---------------------------
+Next Token : def, Posbility: 0.5052
+Next Token : #, Posbility: 0.3735
+Next Token : 
+, Posbility: 0.0721
+Next Token : '', Posbility: 0.0117
+Next Token : print, Posbility: 0.0078
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 13.598658800125122
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to apply a given format string to all of the elements in a list.'''
+def apply_format(format_string, list_of_elements):
+    '''Apply a given format string to all of the elements in a list.'''
+    for element in list_of_elements:
+        element = format_string.format(element)
+        print(element)
+
+
+# Write a function to apply a given format string to all of the elements in a list.
+

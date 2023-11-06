@@ -1,0 +1,455 @@
+<<<<<<<<<<<< 415 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1766
+Next Token : ix, Posbility: 0.1018
+Next Token : ia, Posbility: 0.0888
+Next Token : ____, Posbility: 0.0739
+Next Token : xt, Posbility: 0.0511
+syntax error : 
+
+Choose : ix, Posbility: 0.1018
+'''Write a python function to find the sum of an array.'''
+def ix
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix
+---------------------------
+Next Token : (, Posbility: 0.2890
+Next Token : sum, Posbility: 0.1492
+Next Token : _, Posbility: 0.1281
+Next Token : Sum, Posbility: 0.0671
+Next Token : s, Posbility: 0.0484
+Choose : (, Posbility: 0.2890
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(
+---------------------------
+Next Token : arr, Posbility: 0.3672
+Next Token : n, Posbility: 0.1483
+Next Token : a, Posbility: 0.0954
+Next Token : array, Posbility: 0.0912
+Next Token : x, Posbility: 0.0421
+Choose : arr, Posbility: 0.3672
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr
+---------------------------
+Next Token : ):, Posbility: 0.5181
+Next Token : ,, Posbility: 0.4399
+Next Token : :, Posbility: 0.0145
+Next Token : 1, Posbility: 0.0112
+Next Token : _, Posbility: 0.0047
+Choose : ):, Posbility: 0.5181
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+---------------------------
+Next Token : 
+, Posbility: 0.8730
+Next Token :  , Posbility: 0.0415
+Next Token : , Posbility: 0.0403
+Next Token : 
+
+, Posbility: 0.0213
+Next Token :  #, Posbility: 0.0069
+Choose : 
+, Posbility: 0.8730
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+
+---------------------------
+Next Token :     , Posbility: 0.8189
+Next Token :   , Posbility: 0.0821
+Next Token : 	, Posbility: 0.0701
+Next Token :    , Posbility: 0.0158
+Next Token :         , Posbility: 0.0024
+Choose :     , Posbility: 0.8189
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    
+---------------------------
+Next Token : sum, Posbility: 0.1961
+Next Token : '', Posbility: 0.1802
+Next Token : return, Posbility: 0.1057
+Next Token : s, Posbility: 0.0604
+Next Token : total, Posbility: 0.0493
+Choose : sum, Posbility: 0.1961
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.6045
+Next Token : =, Posbility: 0.2819
+Next Token : _, Posbility: 0.0553
+Next Token : 1, Posbility: 0.0154
+Next Token : Of, Posbility: 0.0062
+Choose :  =, Posbility: 0.6045
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9456
+Next Token :  arr, Posbility: 0.0209
+Next Token : 0, Posbility: 0.0107
+Next Token :  sum, Posbility: 0.0093
+Next Token :  int, Posbility: 0.0024
+Choose :  0, Posbility: 0.9456
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9378
+Next Token :  , Posbility: 0.0197
+Next Token : 
+
+, Posbility: 0.0165
+Next Token : ;, Posbility: 0.0111
+Next Token : ., Posbility: 0.0060
+Choose : 
+, Posbility: 0.9378
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9979
+Next Token :         , Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Next Token :  , Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Choose :     , Posbility: 0.9979
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.8976
+Next Token : if, Posbility: 0.0112
+Next Token : i, Posbility: 0.0099
+Next Token : #, Posbility: 0.0081
+Next Token : n, Posbility: 0.0074
+Choose : for, Posbility: 0.8976
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6486
+Next Token :  x, Posbility: 0.0833
+Next Token :  num, Posbility: 0.0407
+Next Token :  n, Posbility: 0.0322
+Next Token :  el, Posbility: 0.0275
+Choose :  i, Posbility: 0.6486
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9860
+Next Token : ,, Posbility: 0.0130
+Next Token :   , Posbility: 0.0005
+Next Token : _, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose :  in, Posbility: 0.9860
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.6124
+Next Token :  arr, Posbility: 0.3807
+Next Token :   , Posbility: 0.0012
+Next Token :  reversed, Posbility: 0.0007
+Next Token :  sorted, Posbility: 0.0006
+Choose :  range, Posbility: 0.6124
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9784
+Next Token :  (, Posbility: 0.0207
+Next Token : ((, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0002
+Next Token : (-, Posbility: 0.0002
+Choose : (, Posbility: 0.9784
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8379
+Next Token : 0, Posbility: 0.1257
+Next Token : 1, Posbility: 0.0141
+Next Token : arr, Posbility: 0.0075
+Next Token : n, Posbility: 0.0043
+Choose : len, Posbility: 0.8379
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0001
+Next Token : (), Posbility: 0.0001
+Next Token : ):, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0000
+Choose : (, Posbility: 0.9996
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9990
+Next Token : str, Posbility: 0.0001
+Next Token : a, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Choose : arr, Posbility: 0.9990
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr
+---------------------------
+Next Token : ), Posbility: 0.9699
+Next Token : )-, Posbility: 0.0265
+Next Token : )), Posbility: 0.0019
+Next Token : [, Posbility: 0.0008
+Next Token : )+, Posbility: 0.0004
+Choose : ), Posbility: 0.9699
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9922
+Next Token :  -, Posbility: 0.0068
+Next Token :  ):, Posbility: 0.0005
+Next Token : //, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0001
+Choose : ):, Posbility: 0.9922
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9830
+Next Token :  , Posbility: 0.0064
+Next Token :  sum, Posbility: 0.0032
+Next Token :  #, Posbility: 0.0017
+Next Token :   , Posbility: 0.0015
+Choose : 
+, Posbility: 0.9830
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+
+---------------------------
+Next Token :         , Posbility: 0.9825
+Next Token :       , Posbility: 0.0060
+Next Token :        , Posbility: 0.0042
+Next Token :             , Posbility: 0.0028
+Next Token :     , Posbility: 0.0014
+Choose :         , Posbility: 0.9825
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        
+---------------------------
+Next Token : sum, Posbility: 0.9768
+Next Token : for, Posbility: 0.0081
+Next Token : if, Posbility: 0.0057
+Next Token : #, Posbility: 0.0016
+Next Token : x, Posbility: 0.0011
+Choose : sum, Posbility: 0.9768
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum
+---------------------------
+Next Token :  +=, Posbility: 0.6740
+Next Token :  =, Posbility: 0.2610
+Next Token : +=, Posbility: 0.0575
+Next Token : =, Posbility: 0.0045
+Next Token : +, Posbility: 0.0010
+Choose :  +=, Posbility: 0.6740
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum +=
+---------------------------
+Next Token :  arr, Posbility: 0.9725
+Next Token :  int, Posbility: 0.0068
+Next Token : arr, Posbility: 0.0061
+Next Token :  i, Posbility: 0.0060
+Next Token :  (, Posbility: 0.0029
+Choose :  arr, Posbility: 0.9725
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr
+---------------------------
+Next Token : [, Posbility: 0.9973
+Next Token :  [, Posbility: 0.0015
+Next Token : ., Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0004
+Next Token : (, Posbility: 0.0001
+Choose : [, Posbility: 0.9973
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[
+---------------------------
+Next Token : i, Posbility: 0.9978
+Next Token : len, Posbility: 0.0011
+Next Token : 0, Posbility: 0.0003
+Next Token : -, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Choose : i, Posbility: 0.9978
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i
+---------------------------
+Next Token : ], Posbility: 0.9897
+Next Token : ];, Posbility: 0.0070
+Next Token : ][, Posbility: 0.0023
+Next Token : ]., Posbility: 0.0003
+Next Token : ]+, Posbility: 0.0002
+Choose : ], Posbility: 0.9897
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i]
+---------------------------
+Next Token : 
+, Posbility: 0.9401
+Next Token : 
+
+, Posbility: 0.0395
+Next Token :  , Posbility: 0.0052
+Next Token : *, Posbility: 0.0026
+Next Token :  #, Posbility: 0.0024
+Choose : 
+, Posbility: 0.9401
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i]
+
+---------------------------
+Next Token :     , Posbility: 0.9761
+Next Token :         , Posbility: 0.0209
+Next Token : 
+, Posbility: 0.0005
+Next Token :  , Posbility: 0.0005
+Next Token : #, Posbility: 0.0003
+Choose :     , Posbility: 0.9761
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i]
+    
+---------------------------
+Next Token : return, Posbility: 0.9357
+Next Token : print, Posbility: 0.0443
+Next Token : 
+, Posbility: 0.0124
+Next Token : #, Posbility: 0.0020
+Next Token : sum, Posbility: 0.0018
+Choose : return, Posbility: 0.9357
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i]
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9786
+Next Token : (, Posbility: 0.0128
+Next Token :  (, Posbility: 0.0030
+Next Token :  int, Posbility: 0.0011
+Next Token :   , Posbility: 0.0011
+Choose :  sum, Posbility: 0.9786
+---------------------------
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i]
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.8270
+Next Token : 
+
+, Posbility: 0.1284
+Next Token :  , Posbility: 0.0192
+Next Token : <|endoftext|>, Posbility: 0.0100
+Next Token :     , Posbility: 0.0033
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.058217525482178
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the sum of an array.'''
+def ix(arr):
+    sum = 0
+    for i in range(len(arr)):
+        sum += arr[i]
+    return sum
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

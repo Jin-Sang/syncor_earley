@@ -1,0 +1,1704 @@
+<<<<<<<<<<<< 336 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  sort, Posbility: 0.4669
+Next Token :  bubble, Posbility: 0.1318
+Next Token :  merge, Posbility: 0.0641
+Next Token :  insertion, Posbility: 0.0617
+Next Token :  Sort, Posbility: 0.0196
+Choose :  sort,  Posbility: 0.4669
+'''Write a function to sort the given list.'''
+def sort
+---------------------------
+'''Write a function to sort the given list.'''
+def sort
+---------------------------
+Next Token : _, Posbility: 0.4124
+Next Token : (, Posbility: 0.3937
+Next Token : List, Posbility: 0.0869
+Next Token : list, Posbility: 0.0170
+Next Token : By, Posbility: 0.0089
+Choose : _,  Posbility: 0.4124
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_
+---------------------------
+Next Token : list, Posbility: 0.6789
+Next Token : the, Posbility: 0.0385
+Next Token : by, Posbility: 0.0213
+Next Token : array, Posbility: 0.0205
+Next Token : n, Posbility: 0.0163
+Choose : list,  Posbility: 0.6789
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list
+---------------------------
+Next Token : (, Posbility: 0.9145
+Next Token : _, Posbility: 0.0529
+Next Token : ():, Posbility: 0.0132
+Next Token :  (, Posbility: 0.0080
+Next Token : 2, Posbility: 0.0024
+Choose : (,  Posbility: 0.9145
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(
+---------------------------
+Next Token : l, Posbility: 0.2339
+Next Token : list, Posbility: 0.2003
+Next Token : my, Posbility: 0.0840
+Next Token : input, Posbility: 0.0711
+Next Token : a, Posbility: 0.0424
+Choose : l,  Posbility: 0.2339
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(l
+---------------------------
+Next Token : st, Posbility: 0.6923
+Next Token : ):, Posbility: 0.2639
+Next Token : 1, Posbility: 0.0134
+Next Token : ,, Posbility: 0.0108
+Next Token : :, Posbility: 0.0091
+Choose : st,  Posbility: 0.6923
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst
+---------------------------
+Next Token : ):, Posbility: 0.9086
+Next Token : ,, Posbility: 0.0461
+Next Token : :, Posbility: 0.0222
+Next Token : _, Posbility: 0.0076
+Next Token : ), Posbility: 0.0061
+Choose : ):,  Posbility: 0.9086
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9213
+Next Token : 
+
+, Posbility: 0.0315
+Next Token : , Posbility: 0.0194
+Next Token :  , Posbility: 0.0176
+Next Token :   , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9213
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.8975
+Next Token :   , Posbility: 0.0542
+Next Token : 	, Posbility: 0.0343
+Next Token :    , Posbility: 0.0061
+Next Token :         , Posbility: 0.0024
+Choose :     ,  Posbility: 0.8975
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2569
+Next Token : for, Posbility: 0.1246
+Next Token : l, Posbility: 0.1139
+Next Token : #, Posbility: 0.0719
+Next Token : if, Posbility: 0.0660
+Choose : '',  Posbility: 0.2569
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9994
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9994
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''
+---------------------------
+Next Token : Sort, Posbility: 0.2874
+Next Token : S, Posbility: 0.0602
+Next Token : 
+, Posbility: 0.0578
+Next Token : Write, Posbility: 0.0402
+Next Token : This, Posbility: 0.0329
+Choose : Sort,  Posbility: 0.2874
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort
+---------------------------
+Next Token :  the, Posbility: 0.7119
+Next Token :  a, Posbility: 0.1112
+Next Token :  given, Posbility: 0.0445
+Next Token :  list, Posbility: 0.0380
+Next Token :  l, Posbility: 0.0192
+Choose :  the,  Posbility: 0.7119
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the
+---------------------------
+Next Token :  given, Posbility: 0.7417
+Next Token :  list, Posbility: 0.1515
+Next Token :  elements, Posbility: 0.0311
+Next Token :  l, Posbility: 0.0131
+Next Token :  input, Posbility: 0.0118
+Choose :  given,  Posbility: 0.7417
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given
+---------------------------
+Next Token :  list, Posbility: 0.9680
+Next Token :  l, Posbility: 0.0090
+Next Token :  array, Posbility: 0.0041
+Next Token :  elements, Posbility: 0.0015
+Next Token :  sorted, Posbility: 0.0015
+Choose :  list,  Posbility: 0.9680
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list
+---------------------------
+Next Token : .', Posbility: 0.3792
+Next Token :  in, Posbility: 0.0972
+Next Token : ., Posbility: 0.0904
+Next Token :  of, Posbility: 0.0819
+Next Token :  using, Posbility: 0.0748
+Choose : .',  Posbility: 0.3792
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'
+---------------------------
+Next Token : '', Posbility: 0.9986
+Next Token : 
+, Posbility: 0.0005
+Next Token :  ', Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0002
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9986
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9146
+Next Token : 
+
+, Posbility: 0.0786
+Next Token :  , Posbility: 0.0042
+Next Token :     , Posbility: 0.0010
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9146
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9898
+Next Token :   , Posbility: 0.0023
+Next Token :         , Posbility: 0.0021
+Next Token : 
+, Posbility: 0.0012
+Next Token : 	, Posbility: 0.0010
+Choose :     ,  Posbility: 0.9898
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.2047
+Next Token : l, Posbility: 0.1818
+Next Token : if, Posbility: 0.0869
+Next Token : #, Posbility: 0.0783
+Next Token : print, Posbility: 0.0427
+Choose : for,  Posbility: 0.2047
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8117
+Next Token :  index, Posbility: 0.0506
+Next Token :  x, Posbility: 0.0165
+Next Token :  id, Posbility: 0.0154
+Next Token :  _, Posbility: 0.0123
+Choose :  i,  Posbility: 0.8117
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9669
+Next Token : ,, Posbility: 0.0321
+Next Token :   , Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Next Token : 1, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9669
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9780
+Next Token :  l, Posbility: 0.0139
+Next Token :  reversed, Posbility: 0.0028
+Next Token :  sorted, Posbility: 0.0026
+Next Token :  list, Posbility: 0.0004
+Choose :  range,  Posbility: 0.9780
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9824
+Next Token :  (, Posbility: 0.0158
+Next Token : ((, Posbility: 0.0013
+Next Token : (-, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9824
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7700
+Next Token : 0, Posbility: 0.1847
+Next Token : 1, Posbility: 0.0283
+Next Token : int, Posbility: 0.0079
+Next Token :  len, Posbility: 0.0024
+Choose : len,  Posbility: 0.7700
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9992
+Next Token : ((, Posbility: 0.0003
+Next Token : -, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Next Token : (-, Posbility: 0.0001
+Choose : (,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9993
+Next Token : s, Posbility: 0.0002
+Next Token : list, Posbility: 0.0001
+Next Token :  l, Posbility: 0.0000
+Next Token : sort, Posbility: 0.0000
+Choose : l,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ), Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst
+---------------------------
+Next Token : ), Posbility: 0.6888
+Next Token : )-, Posbility: 0.3071
+Next Token : )), Posbility: 0.0012
+Next Token : ),, Posbility: 0.0011
+Next Token : )+, Posbility: 0.0010
+Choose : ),  Posbility: 0.6888
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.7200
+Next Token :  -, Posbility: 0.2339
+Next Token : //, Posbility: 0.0288
+Next Token :  //, Posbility: 0.0157
+Next Token :  /, Posbility: 0.0005
+Choose : ):,  Posbility: 0.7200
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9705
+Next Token :  #, Posbility: 0.0092
+Next Token :  , Posbility: 0.0062
+Next Token : 
+
+, Posbility: 0.0033
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9705
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+
+---------------------------
+Next Token :         , Posbility: 0.9818
+Next Token :       , Posbility: 0.0053
+Next Token :             , Posbility: 0.0053
+Next Token :        , Posbility: 0.0026
+Next Token :     , Posbility: 0.0017
+Choose :         ,  Posbility: 0.9818
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        
+---------------------------
+Next Token : for, Posbility: 0.5371
+Next Token : min, Posbility: 0.1188
+Next Token : j, Posbility: 0.0541
+Next Token : #, Posbility: 0.0297
+Next Token : max, Posbility: 0.0267
+Choose : for,  Posbility: 0.5371
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9618
+Next Token :  k, Posbility: 0.0114
+Next Token :  x, Posbility: 0.0041
+Next Token :  i, Posbility: 0.0032
+Next Token :  index, Posbility: 0.0026
+Choose :  j,  Posbility: 0.9618
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9978
+Next Token : ,, Posbility: 0.0020
+Next Token :   , Posbility: 0.0002
+Next Token :  , Posbility: 0.0000
+Next Token : i, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9978
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9942
+Next Token :  reversed, Posbility: 0.0030
+Next Token :  l, Posbility: 0.0015
+Next Token :   , Posbility: 0.0002
+Next Token :  (, Posbility: 0.0002
+Choose :  range,  Posbility: 0.9942
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9921
+Next Token :  (, Posbility: 0.0059
+Next Token : ((, Posbility: 0.0016
+Next Token : (-, Posbility: 0.0002
+Next Token : :, Posbility: 0.0001
+Choose : (,  Posbility: 0.9921
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(
+---------------------------
+Next Token : len, Posbility: 0.5950
+Next Token : i, Posbility: 0.2922
+Next Token : 0, Posbility: 0.0900
+Next Token : 1, Posbility: 0.0177
+Next Token :  len, Posbility: 0.0013
+Choose : len,  Posbility: 0.5950
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len
+---------------------------
+Next Token : (, Posbility: 0.9993
+Next Token : ((, Posbility: 0.0004
+Next Token :  (, Posbility: 0.0001
+Next Token : -, Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Choose : (,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9994
+Next Token : s, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : i, Posbility: 0.0001
+Next Token : L, Posbility: 0.0000
+Choose : l,  Posbility: 0.9994
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst
+---------------------------
+Next Token : ), Posbility: 0.6738
+Next Token : )-, Posbility: 0.3201
+Next Token : [, Posbility: 0.0021
+Next Token : )+, Posbility: 0.0014
+Next Token : ),, Posbility: 0.0014
+Choose : ),  Posbility: 0.6738
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst)
+---------------------------
+Next Token :  -, Posbility: 0.7572
+Next Token : ):, Posbility: 0.2379
+Next Token : //, Posbility: 0.0032
+Next Token :  +, Posbility: 0.0005
+Next Token :  //, Posbility: 0.0005
+Choose :  -,  Posbility: 0.7572
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) -
+---------------------------
+Next Token :  i, Posbility: 0.6133
+Next Token :  1, Posbility: 0.3356
+Next Token :  (, Posbility: 0.0255
+Next Token : 1, Posbility: 0.0135
+Next Token : i, Posbility: 0.0075
+Choose :  i,  Posbility: 0.6133
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i
+---------------------------
+Next Token :  -, Posbility: 0.9451
+Next Token : ):, Posbility: 0.0433
+Next Token : -, Posbility: 0.0109
+Next Token : ,, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0001
+Choose :  -,  Posbility: 0.9451
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i -
+---------------------------
+Next Token :  1, Posbility: 0.9714
+Next Token : 1, Posbility: 0.0262
+Next Token :  2, Posbility: 0.0018
+Next Token :   , Posbility: 0.0002
+Next Token :  3, Posbility: 0.0001
+Choose :  1,  Posbility: 0.9714
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1
+---------------------------
+Next Token : ):, Posbility: 0.9962
+Next Token : ,, Posbility: 0.0028
+Next Token :  ):, Posbility: 0.0005
+Next Token :  -, Posbility: 0.0001
+Next Token :  +, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9962
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+---------------------------
+Next Token : 
+, Posbility: 0.9782
+Next Token : 
+
+, Posbility: 0.0069
+Next Token :  #, Posbility: 0.0050
+Next Token :  , Posbility: 0.0035
+Next Token :   , Posbility: 0.0035
+Choose : 
+,  Posbility: 0.9782
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+
+---------------------------
+Next Token :             , Posbility: 0.9902
+Next Token :                 , Posbility: 0.0037
+Next Token :            , Posbility: 0.0015
+Next Token :           , Posbility: 0.0014
+Next Token :         , Posbility: 0.0009
+Choose :             ,  Posbility: 0.9902
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            
+---------------------------
+Next Token : if, Posbility: 0.9820
+Next Token : #, Posbility: 0.0069
+Next Token : print, Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0014
+Next Token : temp, Posbility: 0.0010
+Choose : if,  Posbility: 0.9820
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if
+---------------------------
+Next Token :  l, Posbility: 0.9604
+Next Token : (, Posbility: 0.0182
+Next Token :  (, Posbility: 0.0137
+Next Token :  not, Posbility: 0.0016
+Next Token :  int, Posbility: 0.0011
+Choose :  l,  Posbility: 0.9604
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst
+---------------------------
+Next Token : [, Posbility: 0.9993
+Next Token :  [, Posbility: 0.0006
+Next Token : ., Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : [_, Posbility: 0.0000
+Choose : [,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[
+---------------------------
+Next Token : j, Posbility: 0.9966
+Next Token : i, Posbility: 0.0027
+Next Token : l, Posbility: 0.0003
+Next Token : (, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Choose : j,  Posbility: 0.9966
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j
+---------------------------
+Next Token : ], Posbility: 0.9221
+Next Token : ][, Posbility: 0.0318
+Next Token : ]., Posbility: 0.0256
+Next Token :  +, Posbility: 0.0150
+Next Token : +, Posbility: 0.0047
+Choose : ],  Posbility: 0.9221
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j]
+---------------------------
+Next Token :  >, Posbility: 0.9248
+Next Token :  <, Posbility: 0.0597
+Next Token :  >=, Posbility: 0.0086
+Next Token : >, Posbility: 0.0050
+Next Token :  <=, Posbility: 0.0012
+Choose :  >,  Posbility: 0.9248
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] >
+---------------------------
+Next Token :  l, Posbility: 0.9963
+Next Token : l, Posbility: 0.0027
+Next Token :   , Posbility: 0.0007
+Next Token :  (, Posbility: 0.0001
+Next Token :  sorted, Posbility: 0.0001
+Choose :  l,  Posbility: 0.9963
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst
+---------------------------
+Next Token : [, Posbility: 0.9989
+Next Token :  [, Posbility: 0.0011
+Next Token : (, Posbility: 0.0000
+Next Token : [[, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : [,  Posbility: 0.9989
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[
+---------------------------
+Next Token : j, Posbility: 0.9993
+Next Token : -, Posbility: 0.0002
+Next Token : i, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0001
+Choose : j,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j
+---------------------------
+Next Token :  +, Posbility: 0.7655
+Next Token : +, Posbility: 0.2344
+Next Token : ], Posbility: 0.0000
+Next Token :  -, Posbility: 0.0000
+Next Token : +(, Posbility: 0.0000
+Choose :  +,  Posbility: 0.7655
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j +
+---------------------------
+Next Token :  1, Posbility: 0.9981
+Next Token : 1, Posbility: 0.0017
+Next Token :  i, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Choose :  1,  Posbility: 0.9981
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1
+---------------------------
+Next Token : ]:, Posbility: 0.9847
+Next Token : ], Posbility: 0.0150
+Next Token :  ], Posbility: 0.0001
+Next Token : ][, Posbility: 0.0000
+Next Token : ]., Posbility: 0.0000
+Choose : ]:,  Posbility: 0.9847
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+---------------------------
+Next Token : 
+, Posbility: 0.9869
+Next Token :  , Posbility: 0.0045
+Next Token :  #, Posbility: 0.0031
+Next Token :   , Posbility: 0.0013
+Next Token :  l, Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9869
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+
+---------------------------
+Next Token :                 , Posbility: 0.9974
+Next Token :                     , Posbility: 0.0008
+Next Token :                , Posbility: 0.0005
+Next Token :                  , Posbility: 0.0004
+Next Token :               , Posbility: 0.0003
+Choose :                 ,  Posbility: 0.9974
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                
+---------------------------
+Next Token : l, Posbility: 0.8180
+Next Token : temp, Posbility: 0.1191
+Next Token : #, Posbility: 0.0197
+Next Token : tmp, Posbility: 0.0125
+Next Token : t, Posbility: 0.0050
+Choose : l,  Posbility: 0.8180
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                l
+---------------------------
+Next Token : st, Posbility: 0.9995
+Next Token :  =, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : st,  Posbility: 0.9995
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst
+---------------------------
+Next Token : [, Posbility: 0.9975
+Next Token :  =, Posbility: 0.0015
+Next Token : _, Posbility: 0.0003
+Next Token : ., Posbility: 0.0003
+Next Token : [[, Posbility: 0.0001
+Choose : [,  Posbility: 0.9975
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[
+---------------------------
+Next Token : j, Posbility: 0.9988
+Next Token : l, Posbility: 0.0004
+Next Token : i, Posbility: 0.0003
+Next Token : 0, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Choose : j,  Posbility: 0.9988
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j
+---------------------------
+Next Token : ],, Posbility: 0.9449
+Next Token :  +, Posbility: 0.0300
+Next Token : ], Posbility: 0.0216
+Next Token : +, Posbility: 0.0020
+Next Token : :, Posbility: 0.0004
+Choose : ],,  Posbility: 0.9449
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j],
+---------------------------
+Next Token :  l, Posbility: 0.9581
+Next Token : l, Posbility: 0.0412
+Next Token :   , Posbility: 0.0005
+Next Token :  list, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose :  l,  Posbility: 0.9581
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], l
+---------------------------
+Next Token : st, Posbility: 0.9998
+Next Token : [, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst
+---------------------------
+Next Token : [, Posbility: 0.9998
+Next Token :  [, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Choose : [,  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[
+---------------------------
+Next Token : j, Posbility: 0.9992
+Next Token : -, Posbility: 0.0003
+Next Token : len, Posbility: 0.0001
+Next Token : l, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Choose : j,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j
+---------------------------
+Next Token :  +, Posbility: 0.9531
+Next Token : +, Posbility: 0.0466
+Next Token : ], Posbility: 0.0001
+Next Token : +(, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose :  +,  Posbility: 0.9531
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j +
+---------------------------
+Next Token :  1, Posbility: 0.9968
+Next Token : 1, Posbility: 0.0029
+Next Token : 
+, Posbility: 0.0002
+Next Token :   , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose :  1,  Posbility: 0.9968
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1
+---------------------------
+Next Token : ], Posbility: 0.9991
+Next Token : ],, Posbility: 0.0004
+Next Token : ]=, Posbility: 0.0003
+Next Token :  ], Posbility: 0.0001
+Next Token :  +, Posbility: 0.0000
+Choose : ],  Posbility: 0.9991
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1]
+---------------------------
+Next Token :  =, Posbility: 0.9992
+Next Token :   , Posbility: 0.0006
+Next Token :  \, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Choose :  =,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] =
+---------------------------
+Next Token :  l, Posbility: 0.9883
+Next Token :  (, Posbility: 0.0046
+Next Token :   , Posbility: 0.0029
+Next Token :  \, Posbility: 0.0012
+Next Token : l, Posbility: 0.0009
+Choose :  l,  Posbility: 0.9883
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : t, Posbility: 0.0000
+Next Token : ist, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst
+---------------------------
+Next Token : [, Posbility: 0.9992
+Next Token :  [, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[
+---------------------------
+Next Token : j, Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  j, Posbility: 0.0000
+Next Token : i, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Choose : j,  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j
+---------------------------
+Next Token :  +, Posbility: 0.9920
+Next Token : +, Posbility: 0.0072
+Next Token : ],, Posbility: 0.0006
+Next Token : ], Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose :  +,  Posbility: 0.9920
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j +
+---------------------------
+Next Token :  1, Posbility: 0.9974
+Next Token : 1, Posbility: 0.0021
+Next Token : 
+, Posbility: 0.0003
+Next Token :  , Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose :  1,  Posbility: 0.9974
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1
+---------------------------
+Next Token : ],, Posbility: 0.9967
+Next Token : ], Posbility: 0.0030
+Next Token : ]., Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Next Token :  ],, Posbility: 0.0000
+Choose : ],,  Posbility: 0.9967
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1],
+---------------------------
+Next Token :  l, Posbility: 0.9933
+Next Token : l, Posbility: 0.0053
+Next Token :   , Posbility: 0.0004
+Next Token :  list, Posbility: 0.0004
+Next Token :  \, Posbility: 0.0001
+Choose :  l,  Posbility: 0.9933
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : c, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token :  [, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[
+---------------------------
+Next Token : j, Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0001
+Next Token : i, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token :  j, Posbility: 0.0000
+Choose : j,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j
+---------------------------
+Next Token : ], Posbility: 0.9998
+Next Token : ];, Posbility: 0.0001
+Next Token :  ], Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : ]., Posbility: 0.0000
+Choose : ],  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+---------------------------
+Next Token : 
+, Posbility: 0.8816
+Next Token : 
+
+, Posbility: 0.0960
+Next Token :  , Posbility: 0.0070
+Next Token : <|endoftext|>, Posbility: 0.0053
+Next Token :  #, Posbility: 0.0035
+Choose : 
+,  Posbility: 0.8816
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+
+---------------------------
+Next Token :     , Posbility: 0.7438
+Next Token : 
+, Posbility: 0.1051
+Next Token :         , Posbility: 0.0377
+Next Token :                 , Posbility: 0.0353
+Next Token :             , Posbility: 0.0353
+Choose :     ,  Posbility: 0.7438
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    
+---------------------------
+Next Token : return, Posbility: 0.8441
+Next Token : print, Posbility: 0.0900
+Next Token : 
+, Posbility: 0.0295
+Next Token : l, Posbility: 0.0120
+Next Token : '', Posbility: 0.0068
+Choose : return,  Posbility: 0.8441
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return
+---------------------------
+Next Token :  l, Posbility: 0.9767
+Next Token : (, Posbility: 0.0142
+Next Token :  sorted, Posbility: 0.0021
+Next Token :  (, Posbility: 0.0016
+Next Token :  list, Posbility: 0.0014
+Choose :  l,  Posbility: 0.9767
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+---------------------------
+Next Token : 
+, Posbility: 0.6483
+Next Token : 
+
+, Posbility: 0.3026
+Next Token : <|endoftext|>, Posbility: 0.0294
+Next Token :  , Posbility: 0.0062
+Next Token :     , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.6483
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+---------------------------
+Next Token : 
+, Posbility: 0.7559
+Next Token : <|endoftext|>, Posbility: 0.0752
+Next Token :     , Posbility: 0.0393
+Next Token : print, Posbility: 0.0224
+Next Token : '', Posbility: 0.0193
+Choose : 
+,  Posbility: 0.7559
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9533
+Next Token : <|endoftext|>, Posbility: 0.0199
+Next Token : 
+
+, Posbility: 0.0106
+Next Token :     , Posbility: 0.0105
+Next Token :         , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9533
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3314
+Next Token : #, Posbility: 0.2221
+Next Token : def, Posbility: 0.1778
+Next Token : if, Posbility: 0.0736
+Next Token : print, Posbility: 0.0524
+Choose : '',  Posbility: 0.3314
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6077
+Next Token : Sort, Posbility: 0.0323
+Next Token :  Write, Posbility: 0.0244
+Next Token : Test, Posbility: 0.0164
+Next Token : 
+, Posbility: 0.0154
+Choose : Write,  Posbility: 0.6077
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9790
+Next Token :  an, Posbility: 0.0052
+Next Token :  your, Posbility: 0.0042
+Next Token :  the, Posbility: 0.0030
+Next Token :  function, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9790
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.8758
+Next Token :  Python, Posbility: 0.0299
+Next Token :  program, Posbility: 0.0271
+Next Token :  python, Posbility: 0.0088
+Next Token :  recursive, Posbility: 0.0063
+Choose :  function,  Posbility: 0.8758
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7616
+Next Token :  that, Posbility: 0.1659
+Next Token :  called, Posbility: 0.0214
+Next Token :  which, Posbility: 0.0089
+Next Token :  named, Posbility: 0.0062
+Choose :  to,  Posbility: 0.7616
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1024
+Next Token :  get, Posbility: 0.0974
+Next Token :  check, Posbility: 0.0788
+Next Token :  merge, Posbility: 0.0645
+Next Token :  print, Posbility: 0.0603
+Choose :  find,  Posbility: 0.1024
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.7163
+Next Token :  if, Posbility: 0.0366
+Next Token :  a, Posbility: 0.0325
+Next Token :  out, Posbility: 0.0254
+Next Token :  and, Posbility: 0.0160
+Choose :  the,  Posbility: 0.7163
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  longest, Posbility: 0.0947
+Next Token :  maximum, Posbility: 0.0693
+Next Token :  length, Posbility: 0.0649
+Next Token :  index, Posbility: 0.0647
+Next Token :  minimum, Posbility: 0.0485
+Choose :  longest,  Posbility: 0.0947
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest
+---------------------------
+Next Token :  common, Posbility: 0.2425
+Next Token :  subst, Posbility: 0.1179
+Next Token :  increasing, Posbility: 0.0840
+Next Token :  word, Posbility: 0.0687
+Next Token :  sub, Posbility: 0.0676
+Choose :  common,  Posbility: 0.2425
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common
+---------------------------
+Next Token :  prefix, Posbility: 0.3860
+Next Token :  sub, Posbility: 0.1648
+Next Token :  subsequ, Posbility: 0.1332
+Next Token :  subst, Posbility: 0.1055
+Next Token :  string, Posbility: 0.0560
+Choose :  prefix,  Posbility: 0.3860
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common prefix
+---------------------------
+Next Token :  string, Posbility: 0.5867
+Next Token : .', Posbility: 0.1265
+Next Token :  of, Posbility: 0.0594
+Next Token : '', Posbility: 0.0519
+Next Token : 
+, Posbility: 0.0476
+Choose :  string,  Posbility: 0.5867
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common prefix string
+---------------------------
+Next Token : .', Posbility: 0.3648
+Next Token :  amongst, Posbility: 0.1982
+Next Token : ., Posbility: 0.0937
+Next Token :  in, Posbility: 0.0902
+Next Token : '', Posbility: 0.0754
+Choose : .',  Posbility: 0.3648
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common prefix string.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common prefix string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9297
+Next Token : 
+
+, Posbility: 0.0625
+Next Token : def, Posbility: 0.0021
+Next Token :  , Posbility: 0.0018
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9297
+---------------------------
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common prefix string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9128
+Next Token : 
+, Posbility: 0.0573
+Next Token : #, Posbility: 0.0155
+Next Token : '', Posbility: 0.0026
+Next Token : from, Posbility: 0.0023
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 18.081857681274414
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to sort the given list.'''
+def sort_list(lst):
+    '''Sort the given list.'''
+    for i in range(len(lst)):
+        for j in range(len(lst) - i - 1):
+            if lst[j] > lst[j + 1]:
+                lst[j], lst[j + 1] = lst[j + 1], lst[j]
+    return lst
+
+
+'''Write a function to find the longest common prefix string.'''
+

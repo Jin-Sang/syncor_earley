@@ -1,0 +1,242 @@
+<<<<<<<<<<<< 268 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  diff, Posbility: 0.1677
+Next Token :  sum, Posbility: 0.1073
+Next Token :  per, Posbility: 0.0888
+Next Token :  find, Posbility: 0.0804
+Next Token :  difference, Posbility: 0.0364
+Choose :  diff,  Posbility: 0.1677
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff
+---------------------------
+Next Token : (, Posbility: 0.6476
+Next Token : _, Posbility: 0.2088
+Next Token : Sum, Posbility: 0.0169
+Next Token : ():, Posbility: 0.0110
+Next Token : 2, Posbility: 0.0074
+Choose : (,  Posbility: 0.6476
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(
+---------------------------
+Next Token : x, Posbility: 0.2837
+Next Token : a, Posbility: 0.2513
+Next Token : num, Posbility: 0.2080
+Next Token : n, Posbility: 0.0946
+Next Token : i, Posbility: 0.0229
+Choose : x,  Posbility: 0.2837
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x
+---------------------------
+Next Token : ,, Posbility: 0.8834
+Next Token : 1, Posbility: 0.0572
+Next Token : :, Posbility: 0.0302
+Next Token : ):, Posbility: 0.0183
+Next Token : ,, Posbility: 0.0032
+Choose : ,,  Posbility: 0.8834
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x,
+---------------------------
+Next Token :  y, Posbility: 0.5386
+Next Token : y, Posbility: 0.4414
+Next Token :  n, Posbility: 0.0057
+Next Token : n, Posbility: 0.0025
+Next Token :  digit, Posbility: 0.0011
+Choose :  y,  Posbility: 0.5386
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y
+---------------------------
+Next Token : ):, Posbility: 0.9477
+Next Token : ,, Posbility: 0.0315
+Next Token : ), Posbility: 0.0179
+Next Token : =, Posbility: 0.0011
+Next Token :  ):, Posbility: 0.0006
+Choose : ):,  Posbility: 0.9477
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+---------------------------
+Next Token : 
+, Posbility: 0.9221
+Next Token : , Posbility: 0.0269
+Next Token : 
+
+, Posbility: 0.0178
+Next Token :  , Posbility: 0.0158
+Next Token :  #, Posbility: 0.0051
+Choose : 
+,  Posbility: 0.9221
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+
+---------------------------
+Next Token :     , Posbility: 0.8748
+Next Token :   , Posbility: 0.0728
+Next Token : 	, Posbility: 0.0386
+Next Token :    , Posbility: 0.0071
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.8748
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    
+---------------------------
+Next Token : return, Posbility: 0.2945
+Next Token : '', Posbility: 0.1297
+Next Token : if, Posbility: 0.1070
+Next Token : diff, Posbility: 0.1053
+Next Token : sum, Posbility: 0.0500
+Choose : return,  Posbility: 0.2945
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return
+---------------------------
+Next Token :  abs, Posbility: 0.5120
+Next Token :  x, Posbility: 0.1708
+Next Token :  (, Posbility: 0.1662
+Next Token :  ((, Posbility: 0.0258
+Next Token :  sum, Posbility: 0.0240
+Choose :  abs,  Posbility: 0.5120
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs
+---------------------------
+Next Token : (, Posbility: 0.9492
+Next Token : ((, Posbility: 0.0482
+Next Token :  (, Posbility: 0.0015
+Next Token : (-, Posbility: 0.0005
+Next Token : ([, Posbility: 0.0002
+Choose : (,  Posbility: 0.9492
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(
+---------------------------
+Next Token : x, Posbility: 0.9189
+Next Token : int, Posbility: 0.0352
+Next Token : y, Posbility: 0.0219
+Next Token : ord, Posbility: 0.0050
+Next Token : abs, Posbility: 0.0041
+Choose : x,  Posbility: 0.9189
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x
+---------------------------
+Next Token :  -, Posbility: 0.5862
+Next Token : -, Posbility: 0.4060
+Next Token :  %, Posbility: 0.0016
+Next Token :  +, Posbility: 0.0010
+Next Token : %, Posbility: 0.0009
+Choose :  -,  Posbility: 0.5862
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x -
+---------------------------
+Next Token :  y, Posbility: 0.9889
+Next Token : y, Posbility: 0.0078
+Next Token :  (, Posbility: 0.0013
+Next Token :  int, Posbility: 0.0009
+Next Token :  x, Posbility: 0.0003
+Choose :  y,  Posbility: 0.9889
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x - y
+---------------------------
+Next Token : ), Posbility: 0.9845
+Next Token : )*, Posbility: 0.0043
+Next Token : )/, Posbility: 0.0029
+Next Token : )+, Posbility: 0.0026
+Next Token : );, Posbility: 0.0020
+Choose : ),  Posbility: 0.9845
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x - y)
+---------------------------
+Next Token : 
+, Posbility: 0.6555
+Next Token : 
+
+, Posbility: 0.2737
+Next Token :  %, Posbility: 0.0250
+Next Token :  , Posbility: 0.0089
+Next Token : <|endoftext|>, Posbility: 0.0081
+Choose : 
+,  Posbility: 0.6555
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x - y)
+
+---------------------------
+Next Token : 
+, Posbility: 0.8320
+Next Token :     , Posbility: 0.0332
+Next Token : def, Posbility: 0.0309
+Next Token : #, Posbility: 0.0202
+Next Token : print, Posbility: 0.0157
+Choose : 
+,  Posbility: 0.8320
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x - y)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9878
+Next Token :     , Posbility: 0.0051
+Next Token : 
+
+, Posbility: 0.0035
+Next Token : <|endoftext|>, Posbility: 0.0018
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9878
+---------------------------
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x - y)
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.4493
+Next Token : '', Posbility: 0.1854
+Next Token : #, Posbility: 0.0998
+Next Token : print, Posbility: 0.0705
+Next Token : if, Posbility: 0.0297
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 3.017740488052368
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the sum of the per-digit difference between two integers.'''
+def diff(x, y):
+    return abs(x - y)
+
+
+

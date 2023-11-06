@@ -1,0 +1,2652 @@
+<<<<<<<<<<<< 402 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ____, Posbility: 0.1204
+Next Token : 
+, Posbility: 0.1000
+Next Token : ime, Posbility: 0.0451
+Next Token : xt, Posbility: 0.0431
+Next Token : �, Posbility: 0.0419
+Choose : ____, Posbility: 0.1204
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____
+---------------------------
+Next Token : con, Posbility: 0.1600
+Next Token : (, Posbility: 0.1454
+Next Token : color, Posbility: 0.0910
+Next Token : ():, Posbility: 0.0658
+Next Token : hs, Posbility: 0.0542
+Choose : con, Posbility: 0.1600
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____con
+---------------------------
+Next Token : vert, Posbility: 0.8951
+Next Token : version, Posbility: 0.0493
+Next Token : ver, Posbility: 0.0270
+Next Token : verting, Posbility: 0.0119
+Next Token : verted, Posbility: 0.0039
+Choose : vert, Posbility: 0.8951
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert
+---------------------------
+Next Token : _, Posbility: 0.6071
+Next Token : (, Posbility: 0.0747
+Next Token : RGB, Posbility: 0.0707
+Next Token : R, Posbility: 0.0470
+Next Token : Color, Posbility: 0.0320
+Choose : _, Posbility: 0.6071
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_
+---------------------------
+Next Token : r, Posbility: 0.5010
+Next Token : color, Posbility: 0.1887
+Next Token : to, Posbility: 0.0857
+Next Token : RGB, Posbility: 0.0736
+Next Token : hs, Posbility: 0.0194
+Choose : r, Posbility: 0.5010
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_r
+---------------------------
+Next Token : gb, Posbility: 0.9862
+Next Token : _, Posbility: 0.0102
+Next Token : (, Posbility: 0.0005
+Next Token : g, Posbility: 0.0002
+Next Token : gr, Posbility: 0.0002
+Choose : gb, Posbility: 0.9862
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb
+---------------------------
+Next Token : _, Posbility: 0.9465
+Next Token : (, Posbility: 0.0350
+Next Token : 2, Posbility: 0.0054
+Next Token : __, Posbility: 0.0039
+Next Token : ():, Posbility: 0.0020
+Choose : _, Posbility: 0.9465
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_
+---------------------------
+Next Token : to, Posbility: 0.5827
+Next Token : color, Posbility: 0.2713
+Next Token : hs, Posbility: 0.0792
+Next Token : col, Posbility: 0.0097
+Next Token : h, Posbility: 0.0063
+Choose : to, Posbility: 0.5827
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to
+---------------------------
+Next Token : _, Posbility: 0.9991
+Next Token : (, Posbility: 0.0002
+Next Token : hs, Posbility: 0.0002
+Next Token : HS, Posbility: 0.0001
+Next Token : H, Posbility: 0.0001
+Choose : _, Posbility: 0.9991
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_
+---------------------------
+Next Token : hs, Posbility: 0.9674
+Next Token : h, Posbility: 0.0180
+Next Token : HS, Posbility: 0.0072
+Next Token : hex, Posbility: 0.0014
+Next Token : color, Posbility: 0.0008
+Choose : hs, Posbility: 0.9674
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hs
+---------------------------
+Next Token : v, Posbility: 0.9876
+Next Token : (, Posbility: 0.0029
+Next Token : _, Posbility: 0.0019
+Next Token : va, Posbility: 0.0018
+Next Token : b, Posbility: 0.0010
+Choose : v, Posbility: 0.9876
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv
+---------------------------
+Next Token : (, Posbility: 0.7555
+Next Token : _, Posbility: 0.1277
+Next Token : __, Posbility: 0.0464
+Next Token : ():, Posbility: 0.0339
+Next Token : (*, Posbility: 0.0098
+Choose : (, Posbility: 0.7555
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(
+---------------------------
+Next Token : r, Posbility: 0.6126
+Next Token : color, Posbility: 0.1184
+Next Token : red, Posbility: 0.0820
+Next Token : image, Posbility: 0.0157
+Next Token : value, Posbility: 0.0152
+Choose : r, Posbility: 0.6126
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r
+---------------------------
+Next Token : ,, Posbility: 0.7834
+Next Token : gb, Posbility: 0.1112
+Next Token : :, Posbility: 0.0461
+Next Token : 1, Posbility: 0.0238
+Next Token : _, Posbility: 0.0211
+Choose : ,, Posbility: 0.7834
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r,
+---------------------------
+Next Token :  g, Posbility: 0.8319
+Next Token : g, Posbility: 0.1547
+Next Token :  s, Posbility: 0.0023
+Next Token :  c, Posbility: 0.0010
+Next Token : s, Posbility: 0.0009
+Choose :  g, Posbility: 0.8319
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g
+---------------------------
+Next Token : ,, Posbility: 0.9989
+Next Token : ,, Posbility: 0.0010
+Next Token : ):, Posbility: 0.0001
+Next Token : =, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : ,, Posbility: 0.9989
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g,
+---------------------------
+Next Token :  b, Posbility: 0.9978
+Next Token : b, Posbility: 0.0015
+Next Token :  y, Posbility: 0.0002
+Next Token :  r, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  b, Posbility: 0.9978
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b
+---------------------------
+Next Token : ):, Posbility: 0.9473
+Next Token : ,, Posbility: 0.0407
+Next Token : ), Posbility: 0.0107
+Next Token :  ):, Posbility: 0.0004
+Next Token : =, Posbility: 0.0002
+Choose : ):, Posbility: 0.9473
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+---------------------------
+Next Token : 
+, Posbility: 0.8798
+Next Token : , Posbility: 0.0357
+Next Token : 
+
+, Posbility: 0.0351
+Next Token :  , Posbility: 0.0229
+Next Token :  #, Posbility: 0.0072
+Choose : 
+, Posbility: 0.8798
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+
+---------------------------
+Next Token :     , Posbility: 0.8781
+Next Token : 	, Posbility: 0.0599
+Next Token :   , Posbility: 0.0295
+Next Token :         , Posbility: 0.0106
+Next Token :    , Posbility: 0.0057
+Choose :     , Posbility: 0.8781
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    
+---------------------------
+Next Token : '', Posbility: 0.1810
+Next Token : h, Posbility: 0.1626
+Next Token : #, Posbility: 0.1173
+Next Token : r, Posbility: 0.0716
+Next Token : if, Posbility: 0.0642
+Choose : '', Posbility: 0.1810
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9995
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '-, Posbility: 0.0000
+Choose : ', Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''
+---------------------------
+Next Token : Con, Posbility: 0.2288
+Next Token : 
+, Posbility: 0.2013
+Next Token : con, Posbility: 0.1413
+Next Token : r, Posbility: 0.0389
+Next Token : Write, Posbility: 0.0350
+Choose : Con, Posbility: 0.2288
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Con
+---------------------------
+Next Token : vert, Posbility: 0.8433
+Next Token : verts, Posbility: 0.1354
+Next Token : verting, Posbility: 0.0075
+Next Token : version, Posbility: 0.0058
+Next Token : ver, Posbility: 0.0023
+Choose : vert, Posbility: 0.8433
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert
+---------------------------
+Next Token :  rgb, Posbility: 0.3389
+Next Token :  RGB, Posbility: 0.3280
+Next Token :  an, Posbility: 0.0565
+Next Token :  r, Posbility: 0.0416
+Next Token :  the, Posbility: 0.0359
+Choose :  rgb, Posbility: 0.3389
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb
+---------------------------
+Next Token :  color, Posbility: 0.5035
+Next Token :  to, Posbility: 0.3292
+Next Token :  value, Posbility: 0.0294
+Next Token :  colors, Posbility: 0.0228
+Next Token :  values, Posbility: 0.0140
+Choose :  color, Posbility: 0.5035
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color
+---------------------------
+Next Token :  to, Posbility: 0.8552
+Next Token :  into, Posbility: 0.0484
+Next Token :  in, Posbility: 0.0131
+Next Token :  (, Posbility: 0.0117
+Next Token :  from, Posbility: 0.0082
+Choose :  to, Posbility: 0.8552
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to
+---------------------------
+Next Token :  h, Posbility: 0.9788
+Next Token :  hue, Posbility: 0.0046
+Next Token :  H, Posbility: 0.0036
+Next Token :  HS, Posbility: 0.0014
+Next Token :  rgb, Posbility: 0.0012
+Choose :  h, Posbility: 0.9788
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to h
+---------------------------
+Next Token : sv, Posbility: 0.9743
+Next Token : s, Posbility: 0.0206
+Next Token : sb, Posbility: 0.0007
+Next Token :  s, Posbility: 0.0007
+Next Token : ,, Posbility: 0.0003
+Choose : sv, Posbility: 0.9743
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv
+---------------------------
+Next Token :  color, Posbility: 0.9271
+Next Token : ., Posbility: 0.0167
+Next Token : '', Posbility: 0.0101
+Next Token : 
+, Posbility: 0.0049
+Next Token : .', Posbility: 0.0040
+Choose :  color, Posbility: 0.9271
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color
+---------------------------
+Next Token : ., Posbility: 0.4167
+Next Token : '', Posbility: 0.3566
+Next Token : 
+, Posbility: 0.0480
+Next Token : .', Posbility: 0.0406
+Next Token : 
+
+, Posbility: 0.0295
+Choose : ., Posbility: 0.4167
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color.
+---------------------------
+Next Token : 
+, Posbility: 0.3797
+Next Token :  https, Posbility: 0.1558
+Next Token : 
+
+, Posbility: 0.1118
+Next Token :  , Posbility: 0.0445
+Next Token :  Returns, Posbility: 0.0189
+syntax error : 
+
+Choose :  https, Posbility: 0.1558
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https
+---------------------------
+Next Token : ://, Posbility: 0.9980
+Next Token : :, Posbility: 0.0018
+Next Token : :#, Posbility: 0.0001
+Next Token : :\, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ://, Posbility: 0.9980
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://
+---------------------------
+Next Token : www, Posbility: 0.9403
+Next Token : en, Posbility: 0.0187
+Next Token : stack, Posbility: 0.0076
+Next Token : docs, Posbility: 0.0037
+Next Token : p, Posbility: 0.0020
+Choose : www, Posbility: 0.9403
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www
+---------------------------
+Next Token : ., Posbility: 0.9998
+Next Token : 2, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Choose : ., Posbility: 0.9998
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.
+---------------------------
+Next Token : ge, Posbility: 0.8835
+Next Token : program, Posbility: 0.0233
+Next Token : w, Posbility: 0.0141
+Next Token : youtube, Posbility: 0.0128
+Next Token : py, Posbility: 0.0033
+Choose : ge, Posbility: 0.8835
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.ge
+---------------------------
+Next Token : eks, Posbility: 0.9997
+Next Token : ek, Posbility: 0.0003
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : ks, Posbility: 0.0000
+Choose : eks, Posbility: 0.9997
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeks
+---------------------------
+Next Token : forge, Posbility: 0.9889
+Next Token : for, Posbility: 0.0097
+Next Token : fork, Posbility: 0.0004
+Next Token : ford, Posbility: 0.0002
+Next Token : f, Posbility: 0.0002
+Choose : forge, Posbility: 0.9889
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforge
+---------------------------
+Next Token : eks, Posbility: 0.9997
+Next Token : ek, Posbility: 0.0003
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : ks, Posbility: 0.0000
+Choose : eks, Posbility: 0.9997
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks
+---------------------------
+Next Token : ., Posbility: 1.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : .., Posbility: 0.0000
+Choose : ., Posbility: 1.0000
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.
+---------------------------
+Next Token : org, Posbility: 1.0000
+Next Token :  org, Posbility: 0.0000
+Next Token : com, Posbility: 0.0000
+Next Token : python, Posbility: 0.0000
+Next Token : or, Posbility: 0.0000
+Choose : org, Posbility: 1.0000
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org
+---------------------------
+Next Token : /, Posbility: 0.9997
+Next Token : '', Posbility: 0.0001
+Next Token : //, Posbility: 0.0001
+Next Token : /., Posbility: 0.0000
+Next Token : /_, Posbility: 0.0000
+Choose : /, Posbility: 0.9997
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/
+---------------------------
+Next Token : program, Posbility: 0.9491
+Next Token : con, Posbility: 0.0118
+Next Token : color, Posbility: 0.0092
+Next Token : python, Posbility: 0.0081
+Next Token : r, Posbility: 0.0015
+Choose : program, Posbility: 0.9491
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program
+---------------------------
+Next Token : -, Posbility: 0.9978
+Next Token : /, Posbility: 0.0006
+Next Token : ming, Posbility: 0.0005
+Next Token : s, Posbility: 0.0002
+Next Token : %, Posbility: 0.0002
+Choose : -, Posbility: 0.9978
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-
+---------------------------
+Next Token : change, Posbility: 0.9322
+Next Token : con, Posbility: 0.0346
+Next Token : hs, Posbility: 0.0039
+Next Token : color, Posbility: 0.0032
+Next Token : to, Posbility: 0.0025
+Choose : change, Posbility: 0.9322
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change
+---------------------------
+Next Token : -, Posbility: 0.9999
+Next Token : /, Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : -', Posbility: 0.0000
+Choose : -, Posbility: 0.9999
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-
+---------------------------
+Next Token : r, Posbility: 0.9937
+Next Token : hs, Posbility: 0.0018
+Next Token : h, Posbility: 0.0015
+Next Token : color, Posbility: 0.0010
+Next Token : red, Posbility: 0.0003
+Choose : r, Posbility: 0.9937
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-r
+---------------------------
+Next Token : gb, Posbility: 0.9994
+Next Token : -, Posbility: 0.0004
+Next Token : bg, Posbility: 0.0000
+Next Token : /, Posbility: 0.0000
+Next Token : aspberry, Posbility: 0.0000
+Choose : gb, Posbility: 0.9994
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb
+---------------------------
+Next Token : -, Posbility: 0.9999
+Next Token : --, Posbility: 0.0000
+Next Token : /, Posbility: 0.0000
+Next Token : -(, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : -, Posbility: 0.9999
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-
+---------------------------
+Next Token : color, Posbility: 0.9974
+Next Token : to, Posbility: 0.0015
+Next Token : r, Posbility: 0.0006
+Next Token : value, Posbility: 0.0001
+Next Token : and, Posbility: 0.0000
+Choose : color, Posbility: 0.9974
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color
+---------------------------
+Next Token : -, Posbility: 0.9995
+Next Token : --, Posbility: 0.0001
+Next Token : '', Posbility: 0.0001
+Next Token : /, Posbility: 0.0001
+Next Token : -(, Posbility: 0.0001
+Choose : -, Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-
+---------------------------
+Next Token : model, Posbility: 0.9959
+Next Token : to, Posbility: 0.0018
+Next Token : hs, Posbility: 0.0002
+Next Token : color, Posbility: 0.0002
+Next Token : models, Posbility: 0.0002
+Choose : model, Posbility: 0.9959
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model
+---------------------------
+Next Token : -, Posbility: 0.9940
+Next Token : /, Posbility: 0.0055
+Next Token : '', Posbility: 0.0002
+Next Token : --, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Choose : -, Posbility: 0.9940
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-
+---------------------------
+Next Token : hs, Posbility: 0.9956
+Next Token : h, Posbility: 0.0012
+Next Token : HS, Posbility: 0.0011
+Next Token : r, Posbility: 0.0009
+Next Token : vs, Posbility: 0.0001
+Choose : hs, Posbility: 0.9956
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hs
+---------------------------
+Next Token : v, Posbility: 0.9996
+Next Token : -, Posbility: 0.0002
+Next Token : va, Posbility: 0.0001
+Next Token : ve, Posbility: 0.0000
+Next Token : vc, Posbility: 0.0000
+Choose : v, Posbility: 0.9996
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv
+---------------------------
+Next Token : -, Posbility: 0.9999
+Next Token : /, Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : -(, Posbility: 0.0000
+Choose : -, Posbility: 0.9999
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-
+---------------------------
+Next Token : color, Posbility: 0.9995
+Next Token : model, Posbility: 0.0001
+Next Token : value, Posbility: 0.0000
+Next Token : to, Posbility: 0.0000
+Next Token : col, Posbility: 0.0000
+Choose : color, Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color
+---------------------------
+Next Token : -, Posbility: 0.9995
+Next Token : '', Posbility: 0.0002
+Next Token : /, Posbility: 0.0001
+Next Token : -', Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Choose : -, Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-
+---------------------------
+Next Token : model, Posbility: 0.9995
+Next Token : 
+, Posbility: 0.0000
+Next Token : color, Posbility: 0.0000
+Next Token : mod, Posbility: 0.0000
+Next Token : models, Posbility: 0.0000
+Choose : model, Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model
+---------------------------
+Next Token : /, Posbility: 0.9821
+Next Token : -, Posbility: 0.0102
+Next Token : /#, Posbility: 0.0027
+Next Token : '', Posbility: 0.0019
+Next Token : /), Posbility: 0.0011
+Choose : /, Posbility: 0.9821
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/
+---------------------------
+Next Token : '', Posbility: 0.9131
+Next Token : 
+, Posbility: 0.0562
+Next Token :  ', Posbility: 0.0146
+Next Token : 
+
+, Posbility: 0.0080
+Next Token :  , Posbility: 0.0022
+Choose : '', Posbility: 0.9131
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0001
+Next Token : '", Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ', Posbility: 0.9999
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+---------------------------
+Next Token : 
+, Posbility: 0.9142
+Next Token : 
+
+, Posbility: 0.0715
+Next Token :  , Posbility: 0.0049
+Next Token :     , Posbility: 0.0034
+Next Token :   , Posbility: 0.0016
+Choose : 
+, Posbility: 0.9142
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+
+---------------------------
+Next Token :     , Posbility: 0.9897
+Next Token :         , Posbility: 0.0024
+Next Token :   , Posbility: 0.0013
+Next Token :    , Posbility: 0.0010
+Next Token : 	, Posbility: 0.0008
+Choose :     , Posbility: 0.9897
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    
+---------------------------
+Next Token : h, Posbility: 0.2017
+Next Token : #, Posbility: 0.1238
+Next Token : r, Posbility: 0.0851
+Next Token : if, Posbility: 0.0671
+Next Token : 
+, Posbility: 0.0473
+Choose : h, Posbility: 0.2017
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h
+---------------------------
+Next Token :  =, Posbility: 0.7249
+Next Token : ue, Posbility: 0.1250
+Next Token : ,, Posbility: 0.0741
+Next Token : _, Posbility: 0.0369
+Next Token : =, Posbility: 0.0071
+Choose :  =, Posbility: 0.7249
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h =
+---------------------------
+Next Token :  int, Posbility: 0.2570
+Next Token :  0, Posbility: 0.2339
+Next Token :  (, Posbility: 0.1228
+Next Token :  r, Posbility: 0.0705
+Next Token :  float, Posbility: 0.0536
+Choose :  int, Posbility: 0.2570
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int
+---------------------------
+Next Token : (, Posbility: 0.7191
+Next Token : ((, Posbility: 0.2679
+Next Token :  ((, Posbility: 0.0057
+Next Token :  (, Posbility: 0.0053
+Next Token : (), Posbility: 0.0004
+Choose : (, Posbility: 0.7191
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(
+---------------------------
+Next Token : r, Posbility: 0.5180
+Next Token : 0, Posbility: 0.1378
+Next Token : 255, Posbility: 0.0719
+Next Token : b, Posbility: 0.0299
+Next Token : 360, Posbility: 0.0179
+Choose : r, Posbility: 0.5180
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r
+---------------------------
+Next Token :  *, Posbility: 0.4138
+Next Token :  /, Posbility: 0.2060
+Next Token : *, Posbility: 0.1114
+Next Token : /, Posbility: 0.1106
+Next Token : ), Posbility: 0.1079
+Choose :  *, Posbility: 0.4138
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r *
+---------------------------
+Next Token :  6, Posbility: 0.4187
+Next Token :  255, Posbility: 0.1340
+Next Token :  360, Posbility: 0.1005
+Next Token :  100, Posbility: 0.0726
+Next Token :  0, Posbility: 0.0580
+Choose :  6, Posbility: 0.4187
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6
+---------------------------
+Next Token : ., Posbility: 0.3891
+Next Token : ), Posbility: 0.1895
+Next Token : .), Posbility: 0.0964
+Next Token : 45, Posbility: 0.0297
+Next Token : 11, Posbility: 0.0284
+Choose : ., Posbility: 0.3891
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.
+---------------------------
+Next Token : 0, Posbility: 0.5145
+Next Token : 282, Posbility: 0.0725
+Next Token : 283, Posbility: 0.0475
+Next Token : 606, Posbility: 0.0335
+Next Token : 022, Posbility: 0.0307
+Choose : 0, Posbility: 0.5145
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0
+---------------------------
+Next Token : ), Posbility: 0.7350
+Next Token :  /, Posbility: 0.1113
+Next Token :  +, Posbility: 0.0493
+Next Token : )/, Posbility: 0.0484
+Next Token : );, Posbility: 0.0269
+Choose : ), Posbility: 0.7350
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+---------------------------
+Next Token : 
+, Posbility: 0.6032
+Next Token :  /, Posbility: 0.2014
+Next Token :  #, Posbility: 0.0630
+Next Token :   , Posbility: 0.0369
+Next Token :  %, Posbility: 0.0335
+Choose : 
+, Posbility: 0.6032
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+
+---------------------------
+Next Token :     , Posbility: 0.9995
+Next Token : #, Posbility: 0.0001
+Next Token : 	, Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose :     , Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    
+---------------------------
+Next Token : s, Posbility: 0.9400
+Next Token : i, Posbility: 0.0123
+Next Token : h, Posbility: 0.0088
+Next Token : f, Posbility: 0.0066
+Next Token : #, Posbility: 0.0036
+Choose : s, Posbility: 0.9400
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s
+---------------------------
+Next Token :  =, Posbility: 0.9790
+Next Token : aturation, Posbility: 0.0098
+Next Token : =, Posbility: 0.0017
+Next Token : 1, Posbility: 0.0016
+Next Token : _, Posbility: 0.0015
+Choose :  =, Posbility: 0.9790
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s =
+---------------------------
+Next Token :  int, Posbility: 0.7958
+Next Token :  r, Posbility: 0.0429
+Next Token :  max, Posbility: 0.0224
+Next Token :  (, Posbility: 0.0222
+Next Token :  0, Posbility: 0.0208
+Choose :  int, Posbility: 0.7958
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int
+---------------------------
+Next Token : (, Posbility: 0.8748
+Next Token : ((, Posbility: 0.1229
+Next Token :  (, Posbility: 0.0011
+Next Token : (-, Posbility: 0.0003
+Next Token :  ((, Posbility: 0.0003
+Choose : (, Posbility: 0.8748
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(
+---------------------------
+Next Token : g, Posbility: 0.7769
+Next Token : r, Posbility: 0.1120
+Next Token : max, Posbility: 0.0337
+Next Token : 255, Posbility: 0.0187
+Next Token : b, Posbility: 0.0080
+Choose : g, Posbility: 0.7769
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g
+---------------------------
+Next Token :  *, Posbility: 0.9778
+Next Token : *, Posbility: 0.0216
+Next Token :  +, Posbility: 0.0002
+Next Token : ), Posbility: 0.0002
+Next Token :  /, Posbility: 0.0001
+Choose :  *, Posbility: 0.9778
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g *
+---------------------------
+Next Token :  6, Posbility: 0.9392
+Next Token :  255, Posbility: 0.0299
+Next Token :  256, Posbility: 0.0059
+Next Token :  7, Posbility: 0.0048
+Next Token :  100, Posbility: 0.0040
+Choose :  6, Posbility: 0.9392
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6
+---------------------------
+Next Token : ., Posbility: 0.9979
+Next Token : ), Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0002
+Next Token : .), Posbility: 0.0002
+Next Token :  -, Posbility: 0.0001
+Choose : ., Posbility: 0.9979
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.
+---------------------------
+Next Token : 0, Posbility: 0.9978
+Next Token : 5, Posbility: 0.0006
+Next Token : 25, Posbility: 0.0004
+Next Token : 7, Posbility: 0.0002
+Next Token : 01, Posbility: 0.0002
+Choose : 0, Posbility: 0.9978
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0
+---------------------------
+Next Token : ), Posbility: 0.9604
+Next Token :  +, Posbility: 0.0277
+Next Token :  *, Posbility: 0.0055
+Next Token : );, Posbility: 0.0027
+Next Token :  -, Posbility: 0.0015
+Choose : ), Posbility: 0.9604
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+---------------------------
+Next Token : 
+, Posbility: 0.9830
+Next Token :  +, Posbility: 0.0057
+Next Token :  %, Posbility: 0.0026
+Next Token :  , Posbility: 0.0023
+Next Token :  /, Posbility: 0.0022
+Choose : 
+, Posbility: 0.9830
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+
+---------------------------
+Next Token :     , Posbility: 0.9999
+Next Token : #, Posbility: 0.0000
+Next Token : 	, Posbility: 0.0000
+Next Token :         , Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose :     , Posbility: 0.9999
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    
+---------------------------
+Next Token : v, Posbility: 0.9849
+Next Token : l, Posbility: 0.0033
+Next Token : b, Posbility: 0.0032
+Next Token : val, Posbility: 0.0022
+Next Token : f, Posbility: 0.0013
+Choose : v, Posbility: 0.9849
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v
+---------------------------
+Next Token :  =, Posbility: 0.9977
+Next Token : =, Posbility: 0.0006
+Next Token :   , Posbility: 0.0004
+Next Token : 1, Posbility: 0.0004
+Next Token : _, Posbility: 0.0002
+Choose :  =, Posbility: 0.9977
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v =
+---------------------------
+Next Token :  int, Posbility: 0.9947
+Next Token :  b, Posbility: 0.0016
+Next Token :  round, Posbility: 0.0007
+Next Token :  min, Posbility: 0.0005
+Next Token :  float, Posbility: 0.0005
+Choose :  int, Posbility: 0.9947
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int
+---------------------------
+Next Token : (, Posbility: 0.9984
+Next Token : ((, Posbility: 0.0013
+Next Token :  (, Posbility: 0.0002
+Next Token : (-, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Choose : (, Posbility: 0.9984
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(
+---------------------------
+Next Token : b, Posbility: 0.9990
+Next Token : r, Posbility: 0.0003
+Next Token : g, Posbility: 0.0001
+Next Token : 255, Posbility: 0.0001
+Next Token :  b, Posbility: 0.0001
+Choose : b, Posbility: 0.9990
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b
+---------------------------
+Next Token :  *, Posbility: 0.9957
+Next Token : *, Posbility: 0.0036
+Next Token : ), Posbility: 0.0004
+Next Token :  /, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  *, Posbility: 0.9957
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b *
+---------------------------
+Next Token :  6, Posbility: 0.8044
+Next Token :  255, Posbility: 0.0804
+Next Token :  655, Posbility: 0.0508
+Next Token :  256, Posbility: 0.0340
+Next Token :  10000, Posbility: 0.0059
+Choose :  6, Posbility: 0.8044
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6
+---------------------------
+Next Token : ., Posbility: 0.9987
+Next Token : ), Posbility: 0.0010
+Next Token : .), Posbility: 0.0001
+Next Token :  +, Posbility: 0.0000
+Next Token : 23, Posbility: 0.0000
+Choose : ., Posbility: 0.9987
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.
+---------------------------
+Next Token : 0, Posbility: 0.9989
+Next Token : 5, Posbility: 0.0002
+Next Token : 25, Posbility: 0.0001
+Next Token : 00, Posbility: 0.0001
+Next Token : 01, Posbility: 0.0001
+Choose : 0, Posbility: 0.9989
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0
+---------------------------
+Next Token : ), Posbility: 0.9981
+Next Token :  +, Posbility: 0.0009
+Next Token : );, Posbility: 0.0004
+Next Token :  ), Posbility: 0.0002
+Next Token : )/, Posbility: 0.0001
+Choose : ), Posbility: 0.9981
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+---------------------------
+Next Token : 
+, Posbility: 0.8151
+Next Token : 
+
+, Posbility: 0.1737
+Next Token :  , Posbility: 0.0030
+Next Token :  /, Posbility: 0.0018
+Next Token :   , Posbility: 0.0016
+Choose : 
+, Posbility: 0.8151
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+
+---------------------------
+Next Token :     , Posbility: 0.9888
+Next Token :   , Posbility: 0.0024
+Next Token :  , Posbility: 0.0017
+Next Token :         , Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0014
+Choose :     , Posbility: 0.9888
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    
+---------------------------
+Next Token : h, Posbility: 0.2243
+Next Token : return, Posbility: 0.1635
+Next Token : if, Posbility: 0.0928
+Next Token : 
+, Posbility: 0.0708
+Next Token : hs, Posbility: 0.0465
+Choose : h, Posbility: 0.2243
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h
+---------------------------
+Next Token :  =, Posbility: 0.2988
+Next Token : _, Posbility: 0.2496
+Next Token :  +=, Posbility: 0.1070
+Next Token : sv, Posbility: 0.0530
+Next Token : 2, Posbility: 0.0486
+Choose :  =, Posbility: 0.2988
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h =
+---------------------------
+Next Token :  h, Posbility: 0.5835
+Next Token :  int, Posbility: 0.1255
+Next Token :  (, Posbility: 0.0720
+Next Token :  max, Posbility: 0.0490
+Next Token :  round, Posbility: 0.0226
+Choose :  h, Posbility: 0.5835
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h
+---------------------------
+Next Token :  %, Posbility: 0.4508
+Next Token :  /, Posbility: 0.1861
+Next Token :  *, Posbility: 0.1148
+Next Token : /, Posbility: 0.0584
+Next Token :  +, Posbility: 0.0537
+Choose :  %, Posbility: 0.4508
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h %
+---------------------------
+Next Token :  360, Posbility: 0.4985
+Next Token :  6, Posbility: 0.2382
+Next Token :  180, Posbility: 0.1059
+Next Token :  60, Posbility: 0.0342
+Next Token :  255, Posbility: 0.0262
+Choose :  360, Posbility: 0.4985
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+---------------------------
+Next Token : 
+, Posbility: 0.8938
+Next Token : ., Posbility: 0.0516
+Next Token :  #, Posbility: 0.0161
+Next Token : 
+
+, Posbility: 0.0104
+Next Token :   , Posbility: 0.0079
+Choose : 
+, Posbility: 0.8938
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+
+---------------------------
+Next Token :     , Posbility: 0.9980
+Next Token :         , Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Next Token : #, Posbility: 0.0003
+Next Token :    , Posbility: 0.0002
+Choose :     , Posbility: 0.9980
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    
+---------------------------
+Next Token : if, Posbility: 0.2872
+Next Token : s, Posbility: 0.2050
+Next Token : h, Posbility: 0.0856
+Next Token : return, Posbility: 0.0703
+Next Token : m, Posbility: 0.0440
+Choose : if, Posbility: 0.2872
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if
+---------------------------
+Next Token :  h, Posbility: 0.8080
+Next Token :  (, Posbility: 0.0798
+Next Token : (, Posbility: 0.0367
+Next Token :  s, Posbility: 0.0176
+Next Token :  0, Posbility: 0.0129
+Choose :  h, Posbility: 0.8080
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h
+---------------------------
+Next Token :  <, Posbility: 0.2858
+Next Token :  ==, Posbility: 0.2651
+Next Token :  >, Posbility: 0.2036
+Next Token :  >=, Posbility: 0.1328
+Next Token :  <=, Posbility: 0.0632
+Choose :  <, Posbility: 0.2858
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h <
+---------------------------
+Next Token :  0, Posbility: 0.3020
+Next Token :  120, Posbility: 0.1376
+Next Token :  100, Posbility: 0.1254
+Next Token :  60, Posbility: 0.0709
+Next Token :  90, Posbility: 0.0538
+Choose :  0, Posbility: 0.3020
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0
+---------------------------
+Next Token : :, Posbility: 0.9223
+Next Token :  :, Posbility: 0.0390
+Next Token :  or, Posbility: 0.0338
+Next Token : ., Posbility: 0.0017
+Next Token :  and, Posbility: 0.0013
+Choose : :, Posbility: 0.9223
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+---------------------------
+Next Token : 
+, Posbility: 0.8865
+Next Token :  h, Posbility: 0.0875
+Next Token :  , Posbility: 0.0106
+Next Token :   , Posbility: 0.0048
+Next Token :  #, Posbility: 0.0043
+Choose : 
+, Posbility: 0.8865
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9803
+Next Token :       , Posbility: 0.0123
+Next Token :        , Posbility: 0.0028
+Next Token :             , Posbility: 0.0018
+Next Token :     , Posbility: 0.0009
+Choose :         , Posbility: 0.9803
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        
+---------------------------
+Next Token : h, Posbility: 0.9764
+Next Token : s, Posbility: 0.0048
+Next Token : return, Posbility: 0.0047
+Next Token : if, Posbility: 0.0028
+Next Token : print, Posbility: 0.0011
+Choose : h, Posbility: 0.9764
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h
+---------------------------
+Next Token :  +=, Posbility: 0.7575
+Next Token :  =, Posbility: 0.2201
+Next Token : +=, Posbility: 0.0123
+Next Token :  -=, Posbility: 0.0051
+Next Token : =, Posbility: 0.0023
+Choose :  +=, Posbility: 0.7575
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h +=
+---------------------------
+Next Token :  360, Posbility: 0.9939
+Next Token :  60, Posbility: 0.0022
+Next Token :  6, Posbility: 0.0008
+Next Token : 360, Posbility: 0.0005
+Next Token :  100, Posbility: 0.0004
+Choose :  360, Posbility: 0.9939
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+---------------------------
+Next Token : 
+, Posbility: 0.9429
+Next Token : 
+
+, Posbility: 0.0405
+Next Token : ;, Posbility: 0.0086
+Next Token :  , Posbility: 0.0024
+Next Token : ., Posbility: 0.0012
+Choose : 
+, Posbility: 0.9429
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+
+---------------------------
+Next Token :     , Posbility: 0.9853
+Next Token :         , Posbility: 0.0136
+Next Token : #, Posbility: 0.0002
+Next Token :             , Posbility: 0.0001
+Next Token :      , Posbility: 0.0001
+Choose :     , Posbility: 0.9853
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    
+---------------------------
+Next Token : if, Posbility: 0.2771
+Next Token : s, Posbility: 0.1824
+Next Token : return, Posbility: 0.1712
+Next Token : el, Posbility: 0.0694
+Next Token : m, Posbility: 0.0371
+Choose : if, Posbility: 0.2771
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if
+---------------------------
+Next Token :  h, Posbility: 0.5453
+Next Token :  s, Posbility: 0.2846
+Next Token :  0, Posbility: 0.0649
+Next Token :  (, Posbility: 0.0303
+Next Token :  v, Posbility: 0.0191
+Choose :  h, Posbility: 0.5453
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h
+---------------------------
+Next Token :  >, Posbility: 0.5011
+Next Token :  ==, Posbility: 0.2711
+Next Token :  >=, Posbility: 0.1165
+Next Token :  <, Posbility: 0.0579
+Next Token : >, Posbility: 0.0089
+Choose :  >, Posbility: 0.5011
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h >
+---------------------------
+Next Token :  360, Posbility: 0.6435
+Next Token :  255, Posbility: 0.1018
+Next Token :  100, Posbility: 0.0627
+Next Token :  179, Posbility: 0.0420
+Next Token :  359, Posbility: 0.0373
+Choose :  360, Posbility: 0.6435
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360
+---------------------------
+Next Token : :, Posbility: 0.9876
+Next Token : ., Posbility: 0.0043
+Next Token :  -, Posbility: 0.0023
+Next Token :  or, Posbility: 0.0020
+Next Token :  :, Posbility: 0.0018
+Choose : :, Posbility: 0.9876
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+---------------------------
+Next Token : 
+, Posbility: 0.9916
+Next Token :  h, Posbility: 0.0038
+Next Token :  , Posbility: 0.0027
+Next Token :   , Posbility: 0.0009
+Next Token :  #, Posbility: 0.0003
+Choose : 
+, Posbility: 0.9916
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+
+---------------------------
+Next Token :         , Posbility: 0.9974
+Next Token :             , Posbility: 0.0006
+Next Token :       , Posbility: 0.0006
+Next Token :        , Posbility: 0.0006
+Next Token :          , Posbility: 0.0004
+Choose :         , Posbility: 0.9974
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        
+---------------------------
+Next Token : h, Posbility: 0.9981
+Next Token : if, Posbility: 0.0004
+Next Token : return, Posbility: 0.0003
+Next Token : raise, Posbility: 0.0002
+Next Token : print, Posbility: 0.0001
+Choose : h, Posbility: 0.9981
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h
+---------------------------
+Next Token :  -=, Posbility: 0.9060
+Next Token :  =, Posbility: 0.0815
+Next Token :  %, Posbility: 0.0074
+Next Token : -, Posbility: 0.0026
+Next Token :  -, Posbility: 0.0007
+Choose :  -=, Posbility: 0.9060
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -=
+---------------------------
+Next Token :  360, Posbility: 0.9985
+Next Token : 360, Posbility: 0.0002
+Next Token :  720, Posbility: 0.0002
+Next Token :  60, Posbility: 0.0002
+Next Token :  180, Posbility: 0.0001
+Choose :  360, Posbility: 0.9985
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+---------------------------
+Next Token : 
+, Posbility: 0.9158
+Next Token : 
+
+, Posbility: 0.0746
+Next Token :  , Posbility: 0.0030
+Next Token :     , Posbility: 0.0011
+Next Token : ;, Posbility: 0.0011
+Choose : 
+, Posbility: 0.9158
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+
+---------------------------
+Next Token :     , Posbility: 0.9884
+Next Token :         , Posbility: 0.0100
+Next Token :  , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :     , Posbility: 0.9884
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    
+---------------------------
+Next Token : s, Posbility: 0.2898
+Next Token : return, Posbility: 0.1378
+Next Token : if, Posbility: 0.0989
+Next Token : h, Posbility: 0.0717
+Next Token : f, Posbility: 0.0468
+Choose : s, Posbility: 0.2898
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s
+---------------------------
+Next Token :  =, Posbility: 0.9574
+Next Token : _, Posbility: 0.0112
+Next Token :  *, Posbility: 0.0083
+Next Token :  +=, Posbility: 0.0080
+Next Token : 1, Posbility: 0.0043
+Choose :  =, Posbility: 0.9574
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s =
+---------------------------
+Next Token :  s, Posbility: 0.6593
+Next Token :  (, Posbility: 0.0806
+Next Token :  int, Posbility: 0.0657
+Next Token :  min, Posbility: 0.0532
+Next Token :  0, Posbility: 0.0238
+Choose :  s, Posbility: 0.6593
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s
+---------------------------
+Next Token :  %, Posbility: 0.5369
+Next Token :  *, Posbility: 0.2533
+Next Token :  /, Posbility: 0.0871
+Next Token : 
+, Posbility: 0.0627
+Next Token :  +, Posbility: 0.0261
+Choose :  %, Posbility: 0.5369
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s %
+---------------------------
+Next Token :  255, Posbility: 0.4234
+Next Token :  100, Posbility: 0.3581
+Next Token :  256, Posbility: 0.0685
+Next Token :  50, Posbility: 0.0219
+Next Token :  200, Posbility: 0.0201
+Choose :  255, Posbility: 0.4234
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+---------------------------
+Next Token : 
+, Posbility: 0.9782
+Next Token : 
+
+, Posbility: 0.0105
+Next Token : ., Posbility: 0.0033
+Next Token :  +, Posbility: 0.0016
+Next Token :  , Posbility: 0.0012
+Choose : 
+, Posbility: 0.9782
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+
+---------------------------
+Next Token :     , Posbility: 0.9997
+Next Token :         , Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose :     , Posbility: 0.9997
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    
+---------------------------
+Next Token : if, Posbility: 0.4766
+Next Token : v, Posbility: 0.3388
+Next Token : s, Posbility: 0.0818
+Next Token : return, Posbility: 0.0367
+Next Token : h, Posbility: 0.0091
+Choose : if, Posbility: 0.4766
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if
+---------------------------
+Next Token :  s, Posbility: 0.9548
+Next Token :  v, Posbility: 0.0115
+Next Token :  0, Posbility: 0.0075
+Next Token :  (, Posbility: 0.0074
+Next Token :  int, Posbility: 0.0038
+Choose :  s, Posbility: 0.9548
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s
+---------------------------
+Next Token :  <, Posbility: 0.6091
+Next Token :  >, Posbility: 0.3558
+Next Token :  ==, Posbility: 0.0136
+Next Token :  <=, Posbility: 0.0092
+Next Token :  >=, Posbility: 0.0054
+Choose :  <, Posbility: 0.6091
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s <
+---------------------------
+Next Token :  0, Posbility: 0.8158
+Next Token :  10, Posbility: 0.0236
+Next Token :  30, Posbility: 0.0197
+Next Token :  60, Posbility: 0.0154
+Next Token :  20, Posbility: 0.0121
+Choose :  0, Posbility: 0.8158
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0
+---------------------------
+Next Token : :, Posbility: 0.9980
+Next Token :  :, Posbility: 0.0011
+Next Token :  or, Posbility: 0.0004
+Next Token : ., Posbility: 0.0002
+Next Token :  and, Posbility: 0.0001
+Choose : :, Posbility: 0.9980
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9979
+Next Token :  , Posbility: 0.0010
+Next Token :  s, Posbility: 0.0006
+Next Token :  #, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose : 
+, Posbility: 0.9979
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9988
+Next Token :             , Posbility: 0.0004
+Next Token :          , Posbility: 0.0003
+Next Token :        , Posbility: 0.0003
+Next Token :       , Posbility: 0.0001
+Choose :         , Posbility: 0.9988
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        
+---------------------------
+Next Token : s, Posbility: 0.9934
+Next Token : return, Posbility: 0.0025
+Next Token : v, Posbility: 0.0005
+Next Token : if, Posbility: 0.0004
+Next Token : #, Posbility: 0.0004
+Choose : s, Posbility: 0.9934
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s
+---------------------------
+Next Token :  +=, Posbility: 0.9570
+Next Token :  =, Posbility: 0.0233
+Next Token :  -=, Posbility: 0.0145
+Next Token : ,, Posbility: 0.0020
+Next Token :  *, Posbility: 0.0018
+Choose :  +=, Posbility: 0.9570
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s +=
+---------------------------
+Next Token :  255, Posbility: 0.9906
+Next Token :  256, Posbility: 0.0040
+Next Token :  60, Posbility: 0.0010
+Next Token :  360, Posbility: 0.0008
+Next Token :  100, Posbility: 0.0006
+Choose :  255, Posbility: 0.9906
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+---------------------------
+Next Token : 
+, Posbility: 0.9874
+Next Token : 
+
+, Posbility: 0.0098
+Next Token :  , Posbility: 0.0009
+Next Token :     , Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose : 
+, Posbility: 0.9874
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+
+---------------------------
+Next Token :     , Posbility: 0.9959
+Next Token :         , Posbility: 0.0040
+Next Token : 	, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Next Token : #, Posbility: 0.0000
+Choose :     , Posbility: 0.9959
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    
+---------------------------
+Next Token : if, Posbility: 0.6119
+Next Token : return, Posbility: 0.1402
+Next Token : v, Posbility: 0.1387
+Next Token : s, Posbility: 0.0587
+Next Token : h, Posbility: 0.0070
+Choose : if, Posbility: 0.6119
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if
+---------------------------
+Next Token :  s, Posbility: 0.9799
+Next Token :  v, Posbility: 0.0091
+Next Token :  0, Posbility: 0.0020
+Next Token :  (, Posbility: 0.0020
+Next Token :  h, Posbility: 0.0012
+Choose :  s, Posbility: 0.9799
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s
+---------------------------
+Next Token :  >, Posbility: 0.9908
+Next Token :  ==, Posbility: 0.0034
+Next Token :  <, Posbility: 0.0024
+Next Token :  >=, Posbility: 0.0019
+Next Token : !=, Posbility: 0.0006
+Choose :  >, Posbility: 0.9908
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s >
+---------------------------
+Next Token :  255, Posbility: 0.9738
+Next Token :  100, Posbility: 0.0101
+Next Token :  128, Posbility: 0.0029
+Next Token :  127, Posbility: 0.0024
+Next Token :  256, Posbility: 0.0018
+Choose :  255, Posbility: 0.9738
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255
+---------------------------
+Next Token : :, Posbility: 0.9977
+Next Token :  -, Posbility: 0.0007
+Next Token :  :, Posbility: 0.0004
+Next Token :  *, Posbility: 0.0003
+Next Token : ., Posbility: 0.0003
+Choose : :, Posbility: 0.9977
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+---------------------------
+Next Token : 
+, Posbility: 0.9995
+Next Token :  , Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Next Token :  #, Posbility: 0.0000
+Next Token :  s, Posbility: 0.0000
+Choose : 
+, Posbility: 0.9995
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+
+---------------------------
+Next Token :         , Posbility: 0.9993
+Next Token :             , Posbility: 0.0002
+Next Token :        , Posbility: 0.0002
+Next Token :          , Posbility: 0.0001
+Next Token :       , Posbility: 0.0001
+Choose :         , Posbility: 0.9993
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        
+---------------------------
+Next Token : s, Posbility: 0.9976
+Next Token : return, Posbility: 0.0010
+Next Token : print, Posbility: 0.0004
+Next Token : if, Posbility: 0.0002
+Next Token : #, Posbility: 0.0001
+Choose : s, Posbility: 0.9976
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s
+---------------------------
+Next Token :  -=, Posbility: 0.9609
+Next Token :  =, Posbility: 0.0358
+Next Token :  +=, Posbility: 0.0025
+Next Token :  -, Posbility: 0.0002
+Next Token : -, Posbility: 0.0001
+Choose :  -=, Posbility: 0.9609
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -=
+---------------------------
+Next Token :  255, Posbility: 0.9932
+Next Token :  256, Posbility: 0.0045
+Next Token : 255, Posbility: 0.0010
+Next Token :  254, Posbility: 0.0005
+Next Token :  100, Posbility: 0.0001
+Choose :  255, Posbility: 0.9932
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+---------------------------
+Next Token : 
+, Posbility: 0.9291
+Next Token : 
+
+, Posbility: 0.0667
+Next Token :  , Posbility: 0.0015
+Next Token :     , Posbility: 0.0009
+Next Token :    , Posbility: 0.0003
+Choose : 
+, Posbility: 0.9291
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+
+---------------------------
+Next Token :     , Posbility: 0.9951
+Next Token :         , Posbility: 0.0042
+Next Token :  , Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Choose :     , Posbility: 0.9951
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    
+---------------------------
+Next Token : return, Posbility: 0.4476
+Next Token : v, Posbility: 0.3091
+Next Token : if, Posbility: 0.0543
+Next Token : s, Posbility: 0.0360
+Next Token : h, Posbility: 0.0355
+Choose : return, Posbility: 0.4476
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return
+---------------------------
+Next Token :  h, Posbility: 0.7001
+Next Token :  (, Posbility: 0.1520
+Next Token :  [, Posbility: 0.0456
+Next Token :  ', Posbility: 0.0173
+Next Token :  int, Posbility: 0.0155
+Choose :  h, Posbility: 0.7001
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return h
+---------------------------
+Next Token : ,, Posbility: 0.9183
+Next Token : sv, Posbility: 0.0582
+Next Token :  +, Posbility: 0.0073
+Next Token :  /, Posbility: 0.0033
+Next Token : s, Posbility: 0.0032
+Choose : ,, Posbility: 0.9183
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return h,
+---------------------------
+Next Token :  s, Posbility: 0.9596
+Next Token : s, Posbility: 0.0236
+Next Token :  m, Posbility: 0.0035
+Next Token :  1, Posbility: 0.0032
+Next Token :  0, Posbility: 0.0019
+Choose :  s, Posbility: 0.9596
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return h, s
+---------------------------
+Next Token : ,, Posbility: 0.9990
+Next Token :  *, Posbility: 0.0002
+Next Token :  /, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0001
+Next Token : /, Posbility: 0.0001
+Choose : ,, Posbility: 0.9990
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return h, s,
+---------------------------
+Next Token :  v, Posbility: 0.9987
+Next Token :  255, Posbility: 0.0005
+Next Token :  s, Posbility: 0.0002
+Next Token :  0, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  v, Posbility: 0.9987
+---------------------------
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return h, s, v
+---------------------------
+Next Token : 
+, Posbility: 0.7139
+Next Token : 
+
+, Posbility: 0.2494
+Next Token : <|endoftext|>, Posbility: 0.0149
+Next Token :  , Posbility: 0.0081
+Next Token :  #, Posbility: 0.0034
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 42.31539344787598
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+def ____convert_rgb_to_hsv(r, g, b):
+    '''Convert rgb color to hsv color. https://www.geeksforgeeks.org/program-change-rgb-color-model-hsv-color-model/'''
+    h = int(r * 6.0)
+    s = int(g * 6.0)
+    v = int(b * 6.0)
+    h = h % 360
+    if h < 0:
+        h += 360
+    if h > 360:
+        h -= 360
+    s = s % 255
+    if s < 0:
+        s += 255
+    if s > 255:
+        s -= 255
+    return h, s, v
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

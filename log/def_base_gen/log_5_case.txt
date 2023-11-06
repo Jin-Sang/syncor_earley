@@ -1,0 +1,1107 @@
+<<<<<<<<<<<< 5 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  squares, Posbility: 0.3266
+Next Token :  square, Posbility: 0.2608
+Next Token :  find, Posbility: 0.1069
+Next Token :  sq, Posbility: 0.1017
+Next Token :  squ, Posbility: 0.0230
+Choose :  squares,  Posbility: 0.3266
+'''Write a function to find squares of individual elements in a list.'''
+def squares
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares
+---------------------------
+Next Token : (, Posbility: 0.7552
+Next Token : _, Posbility: 0.1494
+Next Token : Of, Posbility: 0.0299
+Next Token : ():, Posbility: 0.0215
+Next Token :  (, Posbility: 0.0088
+Choose : (,  Posbility: 0.7552
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(
+---------------------------
+Next Token : l, Posbility: 0.2245
+Next Token : list, Posbility: 0.1406
+Next Token : n, Posbility: 0.0899
+Next Token : a, Posbility: 0.0646
+Next Token : my, Posbility: 0.0480
+Choose : l,  Posbility: 0.2245
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(l
+---------------------------
+Next Token : st, Posbility: 0.5871
+Next Token : ):, Posbility: 0.3720
+Next Token : ,, Posbility: 0.0154
+Next Token : :, Posbility: 0.0094
+Next Token : 1, Posbility: 0.0074
+Choose : st,  Posbility: 0.5871
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst
+---------------------------
+Next Token : ):, Posbility: 0.9404
+Next Token : ,, Posbility: 0.0295
+Next Token : :, Posbility: 0.0158
+Next Token : 1, Posbility: 0.0046
+Next Token : _, Posbility: 0.0032
+Choose : ):,  Posbility: 0.9404
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9212
+Next Token : 
+
+, Posbility: 0.0262
+Next Token : , Posbility: 0.0215
+Next Token :  , Posbility: 0.0187
+Next Token :   , Posbility: 0.0039
+Choose : 
+,  Posbility: 0.9212
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9206
+Next Token :   , Posbility: 0.0470
+Next Token : 	, Posbility: 0.0212
+Next Token :    , Posbility: 0.0065
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9206
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.1671
+Next Token : squ, Posbility: 0.1464
+Next Token : for, Posbility: 0.1310
+Next Token : square, Posbility: 0.0664
+Next Token : return, Posbility: 0.0526
+Choose : '',  Posbility: 0.1671
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''
+---------------------------
+Next Token : Find, Posbility: 0.0905
+Next Token : 
+, Posbility: 0.0874
+Next Token : Return, Posbility: 0.0762
+Next Token : Write, Posbility: 0.0574
+Next Token : Function, Posbility: 0.0477
+Choose : Find,  Posbility: 0.0905
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find
+---------------------------
+Next Token :  squares, Posbility: 0.6396
+Next Token : s, Posbility: 0.2162
+Next Token :  square, Posbility: 0.0398
+Next Token :  the, Posbility: 0.0387
+Next Token :  all, Posbility: 0.0239
+Choose :  squares,  Posbility: 0.6396
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares
+---------------------------
+Next Token :  of, Posbility: 0.9303
+Next Token :  in, Posbility: 0.0227
+Next Token : '', Posbility: 0.0104
+Next Token :  for, Posbility: 0.0055
+Next Token :  using, Posbility: 0.0030
+Choose :  of,  Posbility: 0.9303
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of
+---------------------------
+Next Token :  individual, Posbility: 0.3143
+Next Token :  elements, Posbility: 0.2139
+Next Token :  each, Posbility: 0.2035
+Next Token :  all, Posbility: 0.0445
+Next Token :  list, Posbility: 0.0414
+Choose :  individual,  Posbility: 0.3143
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual
+---------------------------
+Next Token :  elements, Posbility: 0.9626
+Next Token :  element, Posbility: 0.0087
+Next Token :  numbers, Posbility: 0.0069
+Next Token :  items, Posbility: 0.0053
+Next Token :  squares, Posbility: 0.0027
+Choose :  elements,  Posbility: 0.9626
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements
+---------------------------
+Next Token :  in, Posbility: 0.8177
+Next Token :  of, Posbility: 0.0943
+Next Token : '', Posbility: 0.0280
+Next Token : .', Posbility: 0.0163
+Next Token : ., Posbility: 0.0116
+Choose :  in,  Posbility: 0.8177
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in
+---------------------------
+Next Token :  a, Posbility: 0.8747
+Next Token :  list, Posbility: 0.0629
+Next Token :  l, Posbility: 0.0249
+Next Token :  the, Posbility: 0.0228
+Next Token :  given, Posbility: 0.0029
+Choose :  a,  Posbility: 0.8747
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a
+---------------------------
+Next Token :  list, Posbility: 0.9838
+Next Token :  given, Posbility: 0.0064
+Next Token :  l, Posbility: 0.0020
+Next Token :  List, Posbility: 0.0008
+Next Token :  sequence, Posbility: 0.0005
+Choose :  list,  Posbility: 0.9838
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list
+---------------------------
+Next Token : .', Posbility: 0.4638
+Next Token : ., Posbility: 0.2470
+Next Token : '', Posbility: 0.1653
+Next Token :  of, Posbility: 0.0306
+Next Token : ,, Posbility: 0.0113
+Choose : .',  Posbility: 0.4638
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'
+---------------------------
+Next Token : '', Posbility: 0.9990
+Next Token : 
+, Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0002
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9990
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9447
+Next Token : 
+
+, Posbility: 0.0482
+Next Token :  , Posbility: 0.0040
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9447
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9937
+Next Token :   , Posbility: 0.0013
+Next Token :         , Posbility: 0.0009
+Next Token :    , Posbility: 0.0009
+Next Token : 	, Posbility: 0.0008
+Choose :     ,  Posbility: 0.9937
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    
+---------------------------
+Next Token : squ, Posbility: 0.1743
+Next Token : for, Posbility: 0.1279
+Next Token : square, Posbility: 0.0739
+Next Token : return, Posbility: 0.0670
+Next Token : l, Posbility: 0.0569
+Choose : squ,  Posbility: 0.1743
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squ
+---------------------------
+Next Token : ares, Posbility: 0.9000
+Next Token : ared, Posbility: 0.0822
+Next Token :  =, Posbility: 0.0042
+Next Token : are, Posbility: 0.0019
+Next Token : res, Posbility: 0.0017
+Choose : ares,  Posbility: 0.9000
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares
+---------------------------
+Next Token :  =, Posbility: 0.7519
+Next Token : =, Posbility: 0.1254
+Next Token : _, Posbility: 0.0751
+Next Token : =[, Posbility: 0.0182
+Next Token : ={, Posbility: 0.0059
+Choose :  =,  Posbility: 0.7519
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares =
+---------------------------
+Next Token :  [], Posbility: 0.7015
+Next Token :  [, Posbility: 0.1274
+Next Token :  0, Posbility: 0.0928
+Next Token :  list, Posbility: 0.0208
+Next Token :  [[, Posbility: 0.0083
+Choose :  [],  Posbility: 0.7015
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+---------------------------
+Next Token : 
+, Posbility: 0.9350
+Next Token : 
+
+, Posbility: 0.0432
+Next Token :  #, Posbility: 0.0087
+Next Token :  , Posbility: 0.0054
+Next Token :   , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9350
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+
+---------------------------
+Next Token :     , Posbility: 0.9977
+Next Token :         , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9977
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    
+---------------------------
+Next Token : for, Posbility: 0.8633
+Next Token : square, Posbility: 0.0134
+Next Token : squ, Posbility: 0.0127
+Next Token : #, Posbility: 0.0112
+Next Token : 
+, Posbility: 0.0104
+Choose : for,  Posbility: 0.8633
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5047
+Next Token :  item, Posbility: 0.0646
+Next Token :  element, Posbility: 0.0643
+Next Token :  x, Posbility: 0.0613
+Next Token :  num, Posbility: 0.0517
+Choose :  i,  Posbility: 0.5047
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9785
+Next Token : ,, Posbility: 0.0206
+Next Token : _, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9785
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in
+---------------------------
+Next Token :  l, Posbility: 0.6362
+Next Token :  range, Posbility: 0.3597
+Next Token :  list, Posbility: 0.0011
+Next Token :  (, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0004
+Choose :  l,  Posbility: 0.6362
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : :, Posbility: 0.0001
+Next Token : t, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst
+---------------------------
+Next Token : :, Posbility: 0.9935
+Next Token : [, Posbility: 0.0035
+Next Token :  :, Posbility: 0.0015
+Next Token : ., Posbility: 0.0009
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9935
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9697
+Next Token :  squares, Posbility: 0.0099
+Next Token :  , Posbility: 0.0077
+Next Token :  #, Posbility: 0.0034
+Next Token :   , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9697
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9863
+Next Token :       , Posbility: 0.0049
+Next Token :        , Posbility: 0.0030
+Next Token :             , Posbility: 0.0020
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9863
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        
+---------------------------
+Next Token : squ, Posbility: 0.7451
+Next Token : square, Posbility: 0.0964
+Next Token : if, Posbility: 0.0334
+Next Token : i, Posbility: 0.0293
+Next Token : for, Posbility: 0.0202
+Choose : squ,  Posbility: 0.7451
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squ
+---------------------------
+Next Token : ares, Posbility: 0.9980
+Next Token : ared, Posbility: 0.0014
+Next Token : are, Posbility: 0.0003
+Next Token :  =, Posbility: 0.0001
+Next Token : ar, Posbility: 0.0000
+Choose : ares,  Posbility: 0.9980
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares
+---------------------------
+Next Token : ., Posbility: 0.9706
+Next Token :  +=, Posbility: 0.0150
+Next Token :  =, Posbility: 0.0104
+Next Token : _, Posbility: 0.0021
+Next Token : +=, Posbility: 0.0005
+Choose : .,  Posbility: 0.9706
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.
+---------------------------
+Next Token : append, Posbility: 0.9934
+Next Token : ext, Posbility: 0.0056
+Next Token : insert, Posbility: 0.0006
+Next Token : clear, Posbility: 0.0001
+Next Token : add, Posbility: 0.0001
+Choose : append,  Posbility: 0.9934
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append
+---------------------------
+Next Token : (, Posbility: 0.9777
+Next Token : ((, Posbility: 0.0147
+Next Token : ([, Posbility: 0.0065
+Next Token : (', Posbility: 0.0005
+Next Token :  (, Posbility: 0.0002
+Choose : (,  Posbility: 0.9777
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(
+---------------------------
+Next Token : i, Posbility: 0.9481
+Next Token : l, Posbility: 0.0236
+Next Token : p, Posbility: 0.0071
+Next Token : int, Posbility: 0.0045
+Next Token : sum, Posbility: 0.0027
+Choose : i,  Posbility: 0.9481
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i
+---------------------------
+Next Token : **, Posbility: 0.4522
+Next Token : *, Posbility: 0.2978
+Next Token :  **, Posbility: 0.1445
+Next Token :  *, Posbility: 0.0930
+Next Token : ), Posbility: 0.0091
+Choose : **,  Posbility: 0.4522
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**
+---------------------------
+Next Token : 2, Posbility: 0.9973
+Next Token : 3, Posbility: 0.0011
+Next Token : i, Posbility: 0.0007
+Next Token :  2, Posbility: 0.0003
+Next Token : 0, Posbility: 0.0003
+Choose : 2,  Posbility: 0.9973
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2
+---------------------------
+Next Token : ), Posbility: 0.9982
+Next Token :  ), Posbility: 0.0007
+Next Token : );, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ==, Posbility: 0.0001
+Choose : ),  Posbility: 0.9982
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+---------------------------
+Next Token : 
+, Posbility: 0.9528
+Next Token : 
+
+, Posbility: 0.0243
+Next Token :  #, Posbility: 0.0080
+Next Token :  , Posbility: 0.0043
+Next Token :     , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9528
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+
+---------------------------
+Next Token :     , Posbility: 0.9659
+Next Token :         , Posbility: 0.0285
+Next Token : 
+, Posbility: 0.0021
+Next Token : #, Posbility: 0.0009
+Next Token :             , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9659
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    
+---------------------------
+Next Token : return, Posbility: 0.8582
+Next Token : print, Posbility: 0.0692
+Next Token : squ, Posbility: 0.0367
+Next Token : 
+, Posbility: 0.0124
+Next Token : for, Posbility: 0.0062
+Choose : return,  Posbility: 0.8582
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return
+---------------------------
+Next Token :  squares, Posbility: 0.9790
+Next Token : (, Posbility: 0.0090
+Next Token :  list, Posbility: 0.0019
+Next Token :  (, Posbility: 0.0012
+Next Token :  sum, Posbility: 0.0011
+Choose :  squares,  Posbility: 0.9790
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+---------------------------
+Next Token : 
+, Posbility: 0.7722
+Next Token : 
+
+, Posbility: 0.1957
+Next Token : <|endoftext|>, Posbility: 0.0185
+Next Token :  , Posbility: 0.0064
+Next Token :  #, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.7722
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+---------------------------
+Next Token : 
+, Posbility: 0.6999
+Next Token : print, Posbility: 0.0885
+Next Token : <|endoftext|>, Posbility: 0.0385
+Next Token :     , Posbility: 0.0299
+Next Token : squ, Posbility: 0.0258
+Choose : 
+,  Posbility: 0.6999
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9327
+Next Token : <|endoftext|>, Posbility: 0.0324
+Next Token :     , Posbility: 0.0152
+Next Token : 
+
+, Posbility: 0.0135
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9327
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5886
+Next Token : #, Posbility: 0.1545
+Next Token : def, Posbility: 0.1189
+Next Token : print, Posbility: 0.0357
+Next Token : 
+, Posbility: 0.0223
+Choose : '',  Posbility: 0.5886
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7771
+Next Token : Find, Posbility: 0.0351
+Next Token :  Write, Posbility: 0.0102
+Next Token : Create, Posbility: 0.0099
+Next Token : Use, Posbility: 0.0089
+Choose : Write,  Posbility: 0.7771
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9831
+Next Token :  your, Posbility: 0.0048
+Next Token :  an, Posbility: 0.0025
+Next Token :  function, Posbility: 0.0021
+Next Token :  the, Posbility: 0.0016
+Choose :  a,  Posbility: 0.9831
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9433
+Next Token :  program, Posbility: 0.0117
+Next Token :  Python, Posbility: 0.0101
+Next Token :  python, Posbility: 0.0055
+Next Token :  recursive, Posbility: 0.0035
+Choose :  function,  Posbility: 0.9433
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7363
+Next Token :  that, Posbility: 0.1862
+Next Token :  called, Posbility: 0.0117
+Next Token :  named, Posbility: 0.0091
+Next Token :  which, Posbility: 0.0076
+Choose :  to,  Posbility: 0.7363
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1672
+Next Token :  return, Posbility: 0.0726
+Next Token :  print, Posbility: 0.0708
+Next Token :  multiply, Posbility: 0.0453
+Next Token :  remove, Posbility: 0.0445
+Choose :  find,  Posbility: 0.1672
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.2690
+Next Token :  sum, Posbility: 0.0888
+Next Token :  sums, Posbility: 0.0656
+Next Token :  squares, Posbility: 0.0338
+Next Token :  product, Posbility: 0.0332
+Choose :  the,  Posbility: 0.2690
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  sum, Posbility: 0.1616
+Next Token :  number, Posbility: 0.0706
+Next Token :  product, Posbility: 0.0556
+Next Token :  largest, Posbility: 0.0531
+Next Token :  maximum, Posbility: 0.0515
+Choose :  sum,  Posbility: 0.1616
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum
+---------------------------
+Next Token :  of, Posbility: 0.9752
+Next Token :  and, Posbility: 0.0036
+Next Token :  squared, Posbility: 0.0026
+Next Token : ,, Posbility: 0.0016
+Next Token :  square, Posbility: 0.0014
+Choose :  of,  Posbility: 0.9752
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of
+---------------------------
+Next Token :  the, Posbility: 0.2310
+Next Token :  a, Posbility: 0.1717
+Next Token :  all, Posbility: 0.1628
+Next Token :  elements, Posbility: 0.0524
+Next Token :  squares, Posbility: 0.0448
+Choose :  the,  Posbility: 0.2310
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the
+---------------------------
+Next Token :  squares, Posbility: 0.3309
+Next Token :  elements, Posbility: 0.2871
+Next Token :  numbers, Posbility: 0.0502
+Next Token :  even, Posbility: 0.0459
+Next Token :  digits, Posbility: 0.0446
+Choose :  squares,  Posbility: 0.3309
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares
+---------------------------
+Next Token :  of, Posbility: 0.9688
+Next Token :  in, Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0058
+Next Token : .', Posbility: 0.0025
+Next Token :  for, Posbility: 0.0020
+Choose :  of,  Posbility: 0.9688
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of
+---------------------------
+Next Token :  the, Posbility: 0.3027
+Next Token :  all, Posbility: 0.2259
+Next Token :  elements, Posbility: 0.1237
+Next Token :  a, Posbility: 0.0892
+Next Token :  each, Posbility: 0.0721
+Choose :  the,  Posbility: 0.3027
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the
+---------------------------
+Next Token :  elements, Posbility: 0.6293
+Next Token :  numbers, Posbility: 0.0901
+Next Token :  first, Posbility: 0.0702
+Next Token :  even, Posbility: 0.0300
+Next Token :  digits, Posbility: 0.0240
+Choose :  elements,  Posbility: 0.6293
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements
+---------------------------
+Next Token :  in, Posbility: 0.5378
+Next Token :  of, Posbility: 0.3004
+Next Token : 
+, Posbility: 0.0454
+Next Token : .', Posbility: 0.0374
+Next Token :  , Posbility: 0.0096
+Choose :  in,  Posbility: 0.5378
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in
+---------------------------
+Next Token :  a, Posbility: 0.9212
+Next Token :  the, Posbility: 0.0296
+Next Token :  an, Posbility: 0.0270
+Next Token : 
+, Posbility: 0.0048
+Next Token :  list, Posbility: 0.0029
+Choose :  a,  Posbility: 0.9212
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in a
+---------------------------
+Next Token :  list, Posbility: 0.9250
+Next Token :  given, Posbility: 0.0208
+Next Token : 
+, Posbility: 0.0159
+Next Token :  sequence, Posbility: 0.0070
+Next Token :  , Posbility: 0.0028
+Choose :  list,  Posbility: 0.9250
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in a list
+---------------------------
+Next Token : .', Posbility: 0.8968
+Next Token : ., Posbility: 0.0386
+Next Token :  of, Posbility: 0.0227
+Next Token : '', Posbility: 0.0148
+Next Token : 
+, Posbility: 0.0070
+Choose : .',  Posbility: 0.8968
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in a list.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9547
+Next Token : 
+
+, Posbility: 0.0294
+Next Token : def, Posbility: 0.0042
+Next Token :     , Posbility: 0.0035
+Next Token :  , Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9547
+---------------------------
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in a list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9627
+Next Token : 
+, Posbility: 0.0231
+Next Token : #, Posbility: 0.0056
+Next Token : squ, Posbility: 0.0017
+Next Token : sum, Posbility: 0.0009
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.942952871322632
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find squares of individual elements in a list.'''
+def squares(lst):
+    '''Find squares of individual elements in a list.'''
+    squares = []
+    for i in lst:
+        squares.append(i**2)
+    return squares
+
+
+'''Write a function to find the sum of the squares of the elements in a list.'''
+

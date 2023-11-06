@@ -1,0 +1,349 @@
+<<<<<<<<<<<< 306 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1449
+Next Token : ive, Posbility: 0.1255
+Next Token : ix, Posbility: 0.1036
+Next Token : ival, Posbility: 0.0796
+Next Token : vern, Posbility: 0.0530
+syntax error : 
+
+Choose : ive, Posbility: 0.1255
+'''Write a python function to check whether the given number is even or not.'''
+def ive
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive
+---------------------------
+Next Token : (, Posbility: 0.2263
+Next Token : c, Posbility: 0.2199
+Next Token : _, Posbility: 0.1035
+Next Token : l, Posbility: 0.0651
+Next Token : ven, Posbility: 0.0334
+Choose : (, Posbility: 0.2263
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(
+---------------------------
+Next Token : num, Posbility: 0.3149
+Next Token : n, Posbility: 0.2887
+Next Token : number, Posbility: 0.1570
+Next Token : x, Posbility: 0.1042
+Next Token : a, Posbility: 0.0307
+Choose : num, Posbility: 0.3149
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num
+---------------------------
+Next Token : ):, Posbility: 0.9548
+Next Token : ,, Posbility: 0.0148
+Next Token : :, Posbility: 0.0092
+Next Token : 1, Posbility: 0.0073
+Next Token : ), Posbility: 0.0051
+Choose : ):, Posbility: 0.9548
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+---------------------------
+Next Token : 
+, Posbility: 0.8895
+Next Token : , Posbility: 0.0397
+Next Token :  , Posbility: 0.0336
+Next Token : 
+
+, Posbility: 0.0212
+Next Token :  #, Posbility: 0.0042
+Choose : 
+, Posbility: 0.8895
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+
+---------------------------
+Next Token :     , Posbility: 0.8416
+Next Token :   , Posbility: 0.0731
+Next Token : 	, Posbility: 0.0602
+Next Token :    , Posbility: 0.0148
+Next Token :  , Posbility: 0.0022
+Choose :     , Posbility: 0.8416
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    
+---------------------------
+Next Token : if, Posbility: 0.5581
+Next Token : '', Posbility: 0.1611
+Next Token : return, Posbility: 0.0684
+Next Token : #, Posbility: 0.0346
+Next Token : 
+, Posbility: 0.0175
+Choose : if, Posbility: 0.5581
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if
+---------------------------
+Next Token :  num, Posbility: 0.8267
+Next Token :  (, Posbility: 0.0777
+Next Token : (, Posbility: 0.0540
+Next Token :  int, Posbility: 0.0126
+Next Token :  not, Posbility: 0.0061
+Choose :  num, Posbility: 0.8267
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num
+---------------------------
+Next Token :  %, Posbility: 0.6043
+Next Token : %, Posbility: 0.3086
+Next Token :  ==, Posbility: 0.0392
+Next Token : ==, Posbility: 0.0119
+Next Token :  >, Posbility: 0.0073
+Choose :  %, Posbility: 0.6043
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num %
+---------------------------
+Next Token :  2, Posbility: 0.9665
+Next Token : 2, Posbility: 0.0229
+Next Token :  10, Posbility: 0.0048
+Next Token :  4, Posbility: 0.0027
+Next Token :  5, Posbility: 0.0008
+Choose :  2, Posbility: 0.9665
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2
+---------------------------
+Next Token :  ==, Posbility: 0.9334
+Next Token : !=, Posbility: 0.0419
+Next Token : :, Posbility: 0.0124
+Next Token : ==, Posbility: 0.0083
+Next Token :   , Posbility: 0.0012
+Choose :  ==, Posbility: 0.9334
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 ==
+---------------------------
+Next Token :  0, Posbility: 0.9331
+Next Token :  1, Posbility: 0.0346
+Next Token : 0, Posbility: 0.0302
+Next Token : 1, Posbility: 0.0012
+Next Token :   , Posbility: 0.0001
+Choose :  0, Posbility: 0.9331
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0
+---------------------------
+Next Token : :, Posbility: 0.9760
+Next Token :  :, Posbility: 0.0105
+Next Token :  and, Posbility: 0.0088
+Next Token :  or, Posbility: 0.0035
+Next Token :  ==, Posbility: 0.0004
+Choose : :, Posbility: 0.9760
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9523
+Next Token :  , Posbility: 0.0251
+Next Token :  return, Posbility: 0.0088
+Next Token :  #, Posbility: 0.0043
+Next Token :   , Posbility: 0.0036
+Choose : 
+, Posbility: 0.9523
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9796
+Next Token :       , Posbility: 0.0053
+Next Token :             , Posbility: 0.0050
+Next Token :        , Posbility: 0.0048
+Next Token :          , Posbility: 0.0020
+Choose :         , Posbility: 0.9796
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.6351
+Next Token : print, Posbility: 0.3374
+Next Token : result, Posbility: 0.0049
+Next Token : if, Posbility: 0.0042
+Next Token : #, Posbility: 0.0035
+Choose : return, Posbility: 0.6351
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.5137
+Next Token :  ", Posbility: 0.1512
+Next Token :  ', Posbility: 0.1271
+Next Token :  f, Posbility: 0.0513
+Next Token :  False, Posbility: 0.0353
+Choose :  True, Posbility: 0.5137
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9691
+Next Token : 
+
+, Posbility: 0.0140
+Next Token :  , Posbility: 0.0082
+Next Token : ,, Posbility: 0.0025
+Next Token : ;, Posbility: 0.0023
+Choose : 
+, Posbility: 0.9691
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9684
+Next Token : 
+, Posbility: 0.0138
+Next Token :         , Posbility: 0.0119
+Next Token : def, Posbility: 0.0011
+Next Token : #, Posbility: 0.0009
+Choose :     , Posbility: 0.9684
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.8613
+Next Token : return, Posbility: 0.1235
+Next Token : el, Posbility: 0.0049
+Next Token : 
+, Posbility: 0.0047
+Next Token : if, Posbility: 0.0024
+Choose : else, Posbility: 0.8613
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9946
+Next Token :  :, Posbility: 0.0052
+Next Token : :#, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : :, Posbility: 0.9946
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9644
+Next Token :  , Posbility: 0.0275
+Next Token :  return, Posbility: 0.0059
+Next Token :   , Posbility: 0.0005
+Next Token :  #, Posbility: 0.0003
+Choose : 
+, Posbility: 0.9644
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9938
+Next Token :          , Posbility: 0.0025
+Next Token :        , Posbility: 0.0014
+Next Token :             , Posbility: 0.0007
+Next Token :     , Posbility: 0.0004
+Choose :         , Posbility: 0.9938
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9852
+Next Token : print, Posbility: 0.0065
+Next Token : False, Posbility: 0.0052
+Next Token : #, Posbility: 0.0006
+Next Token : if, Posbility: 0.0005
+Choose : return, Posbility: 0.9852
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9928
+Next Token :  , Posbility: 0.0017
+Next Token :   , Posbility: 0.0010
+Next Token :  ", Posbility: 0.0007
+Next Token :  ', Posbility: 0.0006
+Choose :  False, Posbility: 0.9928
+---------------------------
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.6960
+Next Token : 
+
+, Posbility: 0.2642
+Next Token :  , Posbility: 0.0140
+Next Token : <|endoftext|>, Posbility: 0.0129
+Next Token :     , Posbility: 0.0033
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 3.271677017211914
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether the given number is even or not.'''
+def ive(num):
+    if num % 2 == 0:
+        return True
+    else:
+        return False
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,1164 @@
+<<<<<<<<<<<< 284 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  inter, Posbility: 0.5995
+Next Token :  flat, Posbility: 0.0545
+Next Token :  flatt, Posbility: 0.0335
+Next Token :  list, Posbility: 0.0304
+Next Token :  write, Posbility: 0.0130
+Choose :  inter,  Posbility: 0.5995
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def inter
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def inter
+---------------------------
+Next Token : leave, Posbility: 0.9304
+Next Token : le, Posbility: 0.0620
+Next Token : _, Posbility: 0.0011
+Next Token : list, Posbility: 0.0010
+Next Token : l, Posbility: 0.0007
+Choose : leave,  Posbility: 0.9304
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave
+---------------------------
+Next Token : (, Posbility: 0.6554
+Next Token : _, Posbility: 0.1473
+Next Token : L, Posbility: 0.0521
+Next Token : 3, Posbility: 0.0502
+Next Token : List, Posbility: 0.0176
+Choose : (,  Posbility: 0.6554
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(
+---------------------------
+Next Token : l, Posbility: 0.2834
+Next Token : list, Posbility: 0.1569
+Next Token : a, Posbility: 0.1279
+Next Token : L, Posbility: 0.0437
+Next Token : ls, Posbility: 0.0347
+Choose : l,  Posbility: 0.2834
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l
+---------------------------
+Next Token : 1, Posbility: 0.6812
+Next Token : st, Posbility: 0.2679
+Next Token : ):, Posbility: 0.0130
+Next Token : ,, Posbility: 0.0116
+Next Token : 0, Posbility: 0.0106
+Choose : 1,  Posbility: 0.6812
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1
+---------------------------
+Next Token : ,, Posbility: 0.9457
+Next Token : :, Posbility: 0.0202
+Next Token : =[, Posbility: 0.0156
+Next Token : =, Posbility: 0.0064
+Next Token : ):, Posbility: 0.0037
+Choose : ,,  Posbility: 0.9457
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1,
+---------------------------
+Next Token :  l, Posbility: 0.9067
+Next Token : l, Posbility: 0.0907
+Next Token :  r, Posbility: 0.0005
+Next Token :  s, Posbility: 0.0002
+Next Token :  m, Posbility: 0.0002
+Choose :  l,  Posbility: 0.9067
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l
+---------------------------
+Next Token : 2, Posbility: 0.9991
+Next Token : 1, Posbility: 0.0007
+Next Token : 3, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9991
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2
+---------------------------
+Next Token : ,, Posbility: 0.9613
+Next Token : ):, Posbility: 0.0371
+Next Token : =, Posbility: 0.0005
+Next Token : ,, Posbility: 0.0005
+Next Token :  =, Posbility: 0.0002
+Choose : ,,  Posbility: 0.9613
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2,
+---------------------------
+Next Token :  l, Posbility: 0.9932
+Next Token : l, Posbility: 0.0044
+Next Token :  *, Posbility: 0.0002
+Next Token :  r, Posbility: 0.0002
+Next Token :  s, Posbility: 0.0002
+Choose :  l,  Posbility: 0.9932
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l
+---------------------------
+Next Token : 3, Posbility: 0.9945
+Next Token : 1, Posbility: 0.0022
+Next Token : 4, Posbility: 0.0012
+Next Token : 2, Posbility: 0.0010
+Next Token : ):, Posbility: 0.0003
+Choose : 3,  Posbility: 0.9945
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3
+---------------------------
+Next Token : ):, Posbility: 0.9580
+Next Token : ,, Posbility: 0.0339
+Next Token : =, Posbility: 0.0032
+Next Token : ), Posbility: 0.0029
+Next Token :  =, Posbility: 0.0008
+Choose : ):,  Posbility: 0.9580
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+---------------------------
+Next Token : 
+, Posbility: 0.9314
+Next Token : 
+
+, Posbility: 0.0247
+Next Token : , Posbility: 0.0163
+Next Token :  , Posbility: 0.0140
+Next Token :  #, Posbility: 0.0043
+Choose : 
+,  Posbility: 0.9314
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+
+---------------------------
+Next Token :     , Posbility: 0.9327
+Next Token :   , Posbility: 0.0314
+Next Token : 	, Posbility: 0.0235
+Next Token :         , Posbility: 0.0052
+Next Token :    , Posbility: 0.0036
+Choose :     ,  Posbility: 0.9327
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    
+---------------------------
+Next Token : '', Posbility: 0.2135
+Next Token : return, Posbility: 0.1359
+Next Token : l, Posbility: 0.1032
+Next Token : #, Posbility: 0.0726
+Next Token : if, Posbility: 0.0564
+Choose : '',  Posbility: 0.2135
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : ':, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''
+---------------------------
+Next Token : Write, Posbility: 0.1617
+Next Token : inter, Posbility: 0.1336
+Next Token : 
+, Posbility: 0.0973
+Next Token : Inter, Posbility: 0.0912
+Next Token : l, Posbility: 0.0538
+Choose : Write,  Posbility: 0.1617
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write
+---------------------------
+Next Token :  a, Posbility: 0.9458
+Next Token :  your, Posbility: 0.0331
+Next Token :  an, Posbility: 0.0072
+Next Token :  function, Posbility: 0.0036
+Next Token :  the, Posbility: 0.0030
+Choose :  a,  Posbility: 0.9458
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9645
+Next Token :  python, Posbility: 0.0034
+Next Token :  method, Posbility: 0.0033
+Next Token :  recursive, Posbility: 0.0025
+Next Token :  program, Posbility: 0.0022
+Choose :  function,  Posbility: 0.9645
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6302
+Next Token :  that, Posbility: 0.2974
+Next Token :  inter, Posbility: 0.0425
+Next Token :  which, Posbility: 0.0028
+Next Token :  for, Posbility: 0.0025
+Choose :  to,  Posbility: 0.6302
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to
+---------------------------
+Next Token :  inter, Posbility: 0.8970
+Next Token :  write, Posbility: 0.0086
+Next Token :  return, Posbility: 0.0077
+Next Token :  print, Posbility: 0.0054
+Next Token :  make, Posbility: 0.0047
+Choose :  inter,  Posbility: 0.8970
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to inter
+---------------------------
+Next Token : leave, Posbility: 0.9951
+Next Token : le, Posbility: 0.0048
+Next Token : lace, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : lete, Posbility: 0.0000
+Choose : leave,  Posbility: 0.9951
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave
+---------------------------
+Next Token :  3, Posbility: 0.7510
+Next Token :  three, Posbility: 0.1046
+Next Token :  the, Posbility: 0.0605
+Next Token :  lists, Posbility: 0.0212
+Next Token :  a, Posbility: 0.0135
+Choose :  3,  Posbility: 0.7510
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3
+---------------------------
+Next Token :  lists, Posbility: 0.9900
+Next Token :  list, Posbility: 0.0021
+Next Token :  sets, Posbility: 0.0005
+Next Token :  strings, Posbility: 0.0004
+Next Token :  arrays, Posbility: 0.0003
+Choose :  lists,  Posbility: 0.9900
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists
+---------------------------
+Next Token :  of, Posbility: 0.8495
+Next Token :  into, Posbility: 0.0572
+Next Token : .', Posbility: 0.0300
+Next Token : ., Posbility: 0.0109
+Next Token :  in, Posbility: 0.0074
+Choose :  of,  Posbility: 0.8495
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of
+---------------------------
+Next Token :  the, Posbility: 0.9526
+Next Token :  same, Posbility: 0.0171
+Next Token :  different, Posbility: 0.0067
+Next Token :  length, Posbility: 0.0042
+Next Token :  equal, Posbility: 0.0040
+Choose :  the,  Posbility: 0.9526
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the
+---------------------------
+Next Token :  same, Posbility: 0.9996
+Next Token :  the, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  given, Posbility: 0.0000
+Next Token :  length, Posbility: 0.0000
+Choose :  same,  Posbility: 0.9996
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same
+---------------------------
+Next Token :  length, Posbility: 0.9935
+Next Token : 
+, Posbility: 0.0016
+Next Token :  len, Posbility: 0.0015
+Next Token :  size, Posbility: 0.0009
+Next Token :  number, Posbility: 0.0003
+Choose :  length,  Posbility: 0.9935
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length
+---------------------------
+Next Token :  into, Posbility: 0.9457
+Next Token : .', Posbility: 0.0141
+Next Token : ., Posbility: 0.0118
+Next Token : 
+, Posbility: 0.0048
+Next Token : ,, Posbility: 0.0039
+Choose :  into,  Posbility: 0.9457
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into
+---------------------------
+Next Token :  a, Posbility: 0.9830
+Next Token : 
+, Posbility: 0.0089
+Next Token :  one, Posbility: 0.0020
+Next Token :  1, Posbility: 0.0011
+Next Token :  3, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9830
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a
+---------------------------
+Next Token :  single, Posbility: 0.9892
+Next Token :  flat, Posbility: 0.0037
+Next Token : 
+, Posbility: 0.0034
+Next Token :  separate, Posbility: 0.0006
+Next Token :  , Posbility: 0.0004
+Choose :  single,  Posbility: 0.9892
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single
+---------------------------
+Next Token :  flat, Posbility: 0.9929
+Next Token : 
+, Posbility: 0.0027
+Next Token :  list, Posbility: 0.0017
+Next Token :  flattened, Posbility: 0.0008
+Next Token :  , Posbility: 0.0002
+Choose :  flat,  Posbility: 0.9929
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat
+---------------------------
+Next Token :  list, Posbility: 0.9909
+Next Token : 
+, Posbility: 0.0049
+Next Token :  , Posbility: 0.0014
+Next Token :  array, Posbility: 0.0006
+Next Token :  ', Posbility: 0.0005
+Choose :  list,  Posbility: 0.9909
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list
+---------------------------
+Next Token : .', Posbility: 0.6143
+Next Token : ., Posbility: 0.2871
+Next Token : '', Posbility: 0.0582
+Next Token : 
+, Posbility: 0.0091
+Next Token : ,, Posbility: 0.0059
+Choose : .',  Posbility: 0.6143
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'
+---------------------------
+Next Token : '', Posbility: 0.9922
+Next Token : 
+, Posbility: 0.0048
+Next Token :  ', Posbility: 0.0013
+Next Token : 
+
+, Posbility: 0.0011
+Next Token :  '', Posbility: 0.0001
+Choose : '',  Posbility: 0.9922
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.8880
+Next Token : 
+
+, Posbility: 0.1056
+Next Token :  , Posbility: 0.0031
+Next Token :     , Posbility: 0.0009
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.8880
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9850
+Next Token : 
+, Posbility: 0.0029
+Next Token : def, Posbility: 0.0025
+Next Token :         , Posbility: 0.0022
+Next Token :   , Posbility: 0.0018
+Choose :     ,  Posbility: 0.9850
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.1754
+Next Token : l, Posbility: 0.1373
+Next Token : #, Posbility: 0.0735
+Next Token : if, Posbility: 0.0712
+Next Token : result, Posbility: 0.0642
+Choose : return,  Posbility: 0.1754
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return
+---------------------------
+Next Token :  [, Posbility: 0.4363
+Next Token :  l, Posbility: 0.1475
+Next Token :  list, Posbility: 0.0826
+Next Token : (, Posbility: 0.0523
+Next Token :  (, Posbility: 0.0490
+Choose :  [,  Posbility: 0.4363
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [
+---------------------------
+Next Token : l, Posbility: 0.4927
+Next Token : x, Posbility: 0.0932
+Next Token : item, Posbility: 0.0710
+Next Token : i, Posbility: 0.0630
+Next Token : e, Posbility: 0.0467
+Choose : l,  Posbility: 0.4927
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l
+---------------------------
+Next Token : 1, Posbility: 0.9314
+Next Token : 2, Posbility: 0.0322
+Next Token : 3, Posbility: 0.0285
+Next Token :  +, Posbility: 0.0014
+Next Token : +, Posbility: 0.0013
+Choose : 1,  Posbility: 0.9314
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1
+---------------------------
+Next Token : [, Posbility: 0.8044
+Next Token :  +, Posbility: 0.0739
+Next Token : +, Posbility: 0.0696
+Next Token : ., Posbility: 0.0230
+Next Token : ,, Posbility: 0.0214
+Choose : [,  Posbility: 0.8044
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[
+---------------------------
+Next Token : i, Posbility: 0.6872
+Next Token : 0, Posbility: 0.2134
+Next Token : x, Posbility: 0.0319
+Next Token : index, Posbility: 0.0185
+Next Token : n, Posbility: 0.0089
+Choose : i,  Posbility: 0.6872
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i
+---------------------------
+Next Token : ]+, Posbility: 0.4827
+Next Token : ], Posbility: 0.4237
+Next Token : :, Posbility: 0.0374
+Next Token : +, Posbility: 0.0105
+Next Token : ][, Posbility: 0.0101
+Choose : ]+,  Posbility: 0.4827
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+
+---------------------------
+Next Token : l, Posbility: 0.9912
+Next Token :  l, Posbility: 0.0027
+Next Token : ', Posbility: 0.0011
+Next Token : ", Posbility: 0.0008
+Next Token : [, Posbility: 0.0006
+Choose : l,  Posbility: 0.9912
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l
+---------------------------
+Next Token : 2, Posbility: 0.9909
+Next Token : 3, Posbility: 0.0066
+Next Token : 1, Posbility: 0.0024
+Next Token : [, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9909
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2
+---------------------------
+Next Token : [, Posbility: 0.9996
+Next Token : +, Posbility: 0.0004
+Next Token : ., Posbility: 0.0000
+Next Token :  for, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Choose : [,  Posbility: 0.9996
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[
+---------------------------
+Next Token : i, Posbility: 0.9720
+Next Token : j, Posbility: 0.0219
+Next Token : 0, Posbility: 0.0040
+Next Token : (, Posbility: 0.0007
+Next Token : 2, Posbility: 0.0003
+Choose : i,  Posbility: 0.9720
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i
+---------------------------
+Next Token : ]+, Posbility: 0.9216
+Next Token : ], Posbility: 0.0732
+Next Token : +, Posbility: 0.0029
+Next Token : ][, Posbility: 0.0011
+Next Token : ]-, Posbility: 0.0007
+Choose : ]+,  Posbility: 0.9216
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+
+---------------------------
+Next Token : l, Posbility: 0.9979
+Next Token :  l, Posbility: 0.0015
+Next Token : 2, Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Choose : l,  Posbility: 0.9979
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l
+---------------------------
+Next Token : 3, Posbility: 0.9978
+Next Token : 2, Posbility: 0.0015
+Next Token : 1, Posbility: 0.0007
+Next Token : [, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9978
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3
+---------------------------
+Next Token : [, Posbility: 0.9995
+Next Token :  for, Posbility: 0.0002
+Next Token : ., Posbility: 0.0002
+Next Token :  [, Posbility: 0.0000
+Next Token : [_, Posbility: 0.0000
+Choose : [,  Posbility: 0.9995
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[
+---------------------------
+Next Token : i, Posbility: 0.9991
+Next Token : 0, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : j, Posbility: 0.0001
+Choose : i,  Posbility: 0.9991
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i
+---------------------------
+Next Token : ], Posbility: 0.9969
+Next Token : ]+, Posbility: 0.0012
+Next Token : ][, Posbility: 0.0009
+Next Token : ]-, Posbility: 0.0004
+Next Token : ]., Posbility: 0.0002
+Choose : ],  Posbility: 0.9969
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i]
+---------------------------
+Next Token :  for, Posbility: 0.9859
+Next Token : 
+, Posbility: 0.0053
+Next Token :  if, Posbility: 0.0046
+Next Token : for, Posbility: 0.0019
+Next Token :  , Posbility: 0.0010
+Choose :  for,  Posbility: 0.9859
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for
+---------------------------
+Next Token :  i, Posbility: 0.9984
+Next Token :   , Posbility: 0.0006
+Next Token :  (, Posbility: 0.0002
+Next Token :  l, Posbility: 0.0002
+Next Token :  _, Posbility: 0.0001
+Choose :  i,  Posbility: 0.9984
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i
+---------------------------
+Next Token :  in, Posbility: 0.9981
+Next Token : ,, Posbility: 0.0013
+Next Token :   , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token :  , Posbility: 0.0000
+Choose :  in,  Posbility: 0.9981
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in
+---------------------------
+Next Token :  range, Posbility: 0.9967
+Next Token :  [, Posbility: 0.0015
+Next Token :  list, Posbility: 0.0005
+Next Token :  (, Posbility: 0.0004
+Next Token :  x, Posbility: 0.0004
+Choose :  range,  Posbility: 0.9967
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range
+---------------------------
+Next Token : (, Posbility: 0.9957
+Next Token :  (, Posbility: 0.0028
+Next Token : ((, Posbility: 0.0013
+Next Token : ], Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9957
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7922
+Next Token : 0, Posbility: 0.0860
+Next Token : 3, Posbility: 0.0775
+Next Token : min, Posbility: 0.0211
+Next Token : max, Posbility: 0.0075
+Choose : len,  Posbility: 0.7922
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token : ((, Posbility: 0.0001
+Next Token : (_, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9992
+Next Token : max, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : set, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Choose : l,  Posbility: 0.9992
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l
+---------------------------
+Next Token : 1, Posbility: 0.9936
+Next Token : 2, Posbility: 0.0057
+Next Token : 3, Posbility: 0.0007
+Next Token : )), Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9936
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1
+---------------------------
+Next Token : )), Posbility: 0.9312
+Next Token : )+, Posbility: 0.0398
+Next Token : [, Posbility: 0.0131
+Next Token : ), Posbility: 0.0068
+Next Token : )-, Posbility: 0.0047
+Choose : )),  Posbility: 0.9312
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))
+---------------------------
+Next Token : ], Posbility: 0.9748
+Next Token : ]+, Posbility: 0.0099
+Next Token :  for, Posbility: 0.0071
+Next Token : ];, Posbility: 0.0038
+Next Token :  ], Posbility: 0.0021
+Choose : ],  Posbility: 0.9748
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+---------------------------
+Next Token : 
+, Posbility: 0.7105
+Next Token : 
+
+, Posbility: 0.1946
+Next Token : <|endoftext|>, Posbility: 0.0674
+Next Token :  , Posbility: 0.0118
+Next Token :  #, Posbility: 0.0028
+Choose : 
+,  Posbility: 0.7105
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+---------------------------
+Next Token : 
+, Posbility: 0.6707
+Next Token :     , Posbility: 0.0908
+Next Token : <|endoftext|>, Posbility: 0.0865
+Next Token : l, Posbility: 0.0357
+Next Token : print, Posbility: 0.0187
+Choose : 
+,  Posbility: 0.6707
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9158
+Next Token : <|endoftext|>, Posbility: 0.0329
+Next Token : 
+
+, Posbility: 0.0242
+Next Token :     , Posbility: 0.0211
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9158
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3871
+Next Token : #, Posbility: 0.2068
+Next Token : def, Posbility: 0.1561
+Next Token : print, Posbility: 0.0536
+Next Token : 
+, Posbility: 0.0503
+Choose : '',  Posbility: 0.3871
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7139
+Next Token :  Write, Posbility: 0.0230
+Next Token : 
+, Posbility: 0.0212
+Next Token : Test, Posbility: 0.0163
+Next Token : Create, Posbility: 0.0110
+Choose : Write,  Posbility: 0.7139
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9879
+Next Token :  your, Posbility: 0.0037
+Next Token :  an, Posbility: 0.0027
+Next Token :  the, Posbility: 0.0011
+Next Token :  another, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9879
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9541
+Next Token :  program, Posbility: 0.0096
+Next Token :  Python, Posbility: 0.0090
+Next Token :  python, Posbility: 0.0055
+Next Token :  Function, Posbility: 0.0019
+Choose :  function,  Posbility: 0.9541
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7967
+Next Token :  that, Posbility: 0.1531
+Next Token :  named, Posbility: 0.0070
+Next Token :  for, Posbility: 0.0048
+Next Token :  called, Posbility: 0.0042
+Choose :  to,  Posbility: 0.7967
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.0774
+Next Token :  inter, Posbility: 0.0766
+Next Token :  count, Posbility: 0.0562
+Next Token :  remove, Posbility: 0.0555
+Next Token :  get, Posbility: 0.0472
+Choose :  find,  Posbility: 0.0774
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.7125
+Next Token :  a, Posbility: 0.0433
+Next Token :  if, Posbility: 0.0198
+Next Token :  out, Posbility: 0.0160
+Next Token :  whether, Posbility: 0.0144
+Choose :  the,  Posbility: 0.7125
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  length, Posbility: 0.0755
+Next Token :  number, Posbility: 0.0708
+Next Token :  maximum, Posbility: 0.0596
+Next Token :  sum, Posbility: 0.0549
+Next Token :  longest, Posbility: 0.0497
+Choose :  length,  Posbility: 0.0755
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length
+---------------------------
+Next Token :  of, Posbility: 0.9676
+Next Token :  and, Posbility: 0.0089
+Next Token : ,, Posbility: 0.0044
+Next Token :  (, Posbility: 0.0018
+Next Token : '', Posbility: 0.0015
+Choose :  of,  Posbility: 0.9676
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of
+---------------------------
+Next Token :  the, Posbility: 0.4527
+Next Token :  a, Posbility: 0.3829
+Next Token :  an, Posbility: 0.0466
+Next Token :  all, Posbility: 0.0140
+Next Token :  two, Posbility: 0.0081
+Choose :  the,  Posbility: 0.4527
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the
+---------------------------
+Next Token :  longest, Posbility: 0.6200
+Next Token :  shortest, Posbility: 0.0588
+Next Token :  largest, Posbility: 0.0445
+Next Token :  first, Posbility: 0.0291
+Next Token :  smallest, Posbility: 0.0207
+Choose :  longest,  Posbility: 0.6200
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest
+---------------------------
+Next Token :  subst, Posbility: 0.1653
+Next Token :  common, Posbility: 0.1274
+Next Token :  sub, Posbility: 0.1104
+Next Token :  string, Posbility: 0.1038
+Next Token :  word, Posbility: 0.0849
+Choose :  subst,  Posbility: 0.1653
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest subst
+---------------------------
+Next Token : ring, Posbility: 0.9988
+Next Token : ructure, Posbility: 0.0002
+Next Token : ing, Posbility: 0.0002
+Next Token : array, Posbility: 0.0001
+Next Token : ruct, Posbility: 0.0001
+Choose : ring,  Posbility: 0.9988
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring
+---------------------------
+Next Token :  in, Posbility: 0.3530
+Next Token :  of, Posbility: 0.2003
+Next Token :  with, Posbility: 0.0581
+Next Token :  without, Posbility: 0.0345
+Next Token :  that, Posbility: 0.0339
+Choose :  in,  Posbility: 0.3530
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in
+---------------------------
+Next Token :  a, Posbility: 0.6857
+Next Token :  the, Posbility: 0.1946
+Next Token :  an, Posbility: 0.0207
+Next Token :  l, Posbility: 0.0180
+Next Token :  s, Posbility: 0.0060
+Choose :  a,  Posbility: 0.6857
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a
+---------------------------
+Next Token :  given, Posbility: 0.3146
+Next Token :  list, Posbility: 0.2847
+Next Token :  string, Posbility: 0.2227
+Next Token :  word, Posbility: 0.0323
+Next Token :  sentence, Posbility: 0.0128
+Choose :  given,  Posbility: 0.3146
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a given
+---------------------------
+Next Token :  string, Posbility: 0.5098
+Next Token :  list, Posbility: 0.2680
+Next Token :  text, Posbility: 0.0586
+Next Token :  array, Posbility: 0.0251
+Next Token :  word, Posbility: 0.0197
+Choose :  string,  Posbility: 0.5098
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a given string
+---------------------------
+Next Token : .', Posbility: 0.8309
+Next Token : ., Posbility: 0.0915
+Next Token : '', Posbility: 0.0232
+Next Token : ,, Posbility: 0.0071
+Next Token :  of, Posbility: 0.0065
+Choose : .',  Posbility: 0.8309
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a given string.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a given string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9460
+Next Token : 
+
+, Posbility: 0.0466
+Next Token :  , Posbility: 0.0021
+Next Token : def, Posbility: 0.0015
+Next Token : <|endoftext|>, Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9460
+---------------------------
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a given string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9355
+Next Token : 
+, Posbility: 0.0358
+Next Token : #, Posbility: 0.0144
+Next Token : import, Posbility: 0.0027
+Next Token : '', Posbility: 0.0026
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 13.868793964385986
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to interleave 3 lists of the same length into a single flat list.'''
+def interleave(l1, l2, l3):
+    '''Write a function to interleave 3 lists of the same length into a single flat list.'''
+    return [l1[i]+l2[i]+l3[i] for i in range(len(l1))]
+
+
+'''Write a function to find the length of the longest substring in a given string.'''
+

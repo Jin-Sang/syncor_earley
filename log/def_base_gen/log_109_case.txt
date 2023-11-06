@@ -1,0 +1,2351 @@
+<<<<<<<<<<<< 109 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  rearr, Posbility: 0.1907
+Next Token :  re, Posbility: 0.1426
+Next Token :  write, Posbility: 0.0552
+Next Token :  arrange, Posbility: 0.0442
+Next Token :  sort, Posbility: 0.0367
+Choose :  rearr,  Posbility: 0.1907
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearr
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearr
+---------------------------
+Next Token : ange, Posbility: 0.9530
+Next Token : ang, Posbility: 0.0204
+Next Token : age, Posbility: 0.0115
+Next Token : anged, Posbility: 0.0104
+Next Token : anges, Posbility: 0.0022
+Choose : ange,  Posbility: 0.9530
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange
+---------------------------
+Next Token : _, Posbility: 0.4641
+Next Token : (, Posbility: 0.3459
+Next Token : Array, Posbility: 0.0352
+Next Token : E, Posbility: 0.0163
+Next Token : N, Posbility: 0.0139
+Choose : _,  Posbility: 0.4641
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_
+---------------------------
+Next Token : array, Posbility: 0.1730
+Next Token : negative, Posbility: 0.1715
+Next Token : n, Posbility: 0.1398
+Next Token : e, Posbility: 0.0588
+Next Token : arr, Posbility: 0.0454
+Choose : array,  Posbility: 0.1730
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array
+---------------------------
+Next Token : (, Posbility: 0.8495
+Next Token : _, Posbility: 0.1277
+Next Token :  (, Posbility: 0.0074
+Next Token : 1, Posbility: 0.0065
+Next Token : 2, Posbility: 0.0030
+Choose : (,  Posbility: 0.8495
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(
+---------------------------
+Next Token : arr, Posbility: 0.4773
+Next Token : array, Posbility: 0.3474
+Next Token : n, Posbility: 0.0374
+Next Token : a, Posbility: 0.0282
+Next Token : input, Posbility: 0.0253
+Choose : arr,  Posbility: 0.4773
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr
+---------------------------
+Next Token : ,, Posbility: 0.9491
+Next Token : :, Posbility: 0.0282
+Next Token : ):, Posbility: 0.0113
+Next Token : _, Posbility: 0.0038
+Next Token : 1, Posbility: 0.0036
+Choose : ,,  Posbility: 0.9491
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr,
+---------------------------
+Next Token :  n, Posbility: 0.8289
+Next Token : n, Posbility: 0.1136
+Next Token :  k, Posbility: 0.0075
+Next Token :  num, Posbility: 0.0042
+Next Token :  target, Posbility: 0.0041
+Choose :  n,  Posbility: 0.8289
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n
+---------------------------
+Next Token : ):, Posbility: 0.9796
+Next Token : ,, Posbility: 0.0082
+Next Token : ), Posbility: 0.0063
+Next Token : :, Posbility: 0.0020
+Next Token : =, Posbility: 0.0015
+Choose : ):,  Posbility: 0.9796
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+---------------------------
+Next Token : 
+, Posbility: 0.9059
+Next Token : 
+
+, Posbility: 0.0401
+Next Token :  , Posbility: 0.0246
+Next Token : , Posbility: 0.0202
+Next Token :  #, Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9059
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+
+---------------------------
+Next Token :     , Posbility: 0.9181
+Next Token :   , Posbility: 0.0357
+Next Token : 	, Posbility: 0.0271
+Next Token :         , Posbility: 0.0070
+Next Token :    , Posbility: 0.0033
+Choose :     ,  Posbility: 0.9181
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    
+---------------------------
+Next Token : for, Posbility: 0.1560
+Next Token : #, Posbility: 0.1505
+Next Token : arr, Posbility: 0.1031
+Next Token : if, Posbility: 0.0842
+Next Token : '', Posbility: 0.0550
+Choose : for,  Posbility: 0.1560
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.9057
+Next Token :  x, Posbility: 0.0182
+Next Token :  _, Posbility: 0.0123
+Next Token :  j, Posbility: 0.0088
+Next Token :  index, Posbility: 0.0086
+Choose :  i,  Posbility: 0.9057
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9975
+Next Token : ,, Posbility: 0.0019
+Next Token :   , Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9975
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9759
+Next Token :  arr, Posbility: 0.0168
+Next Token :  reversed, Posbility: 0.0046
+Next Token :  sorted, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0003
+Choose :  range,  Posbility: 0.9759
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9834
+Next Token :  (, Posbility: 0.0121
+Next Token : (-, Posbility: 0.0027
+Next Token : ((, Posbility: 0.0016
+Next Token :  (-, Posbility: 0.0001
+Choose : (,  Posbility: 0.9834
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(
+---------------------------
+Next Token : n, Posbility: 0.7552
+Next Token : 0, Posbility: 0.1471
+Next Token : len, Posbility: 0.0732
+Next Token : 1, Posbility: 0.0122
+Next Token : int, Posbility: 0.0041
+Choose : n,  Posbility: 0.7552
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n
+---------------------------
+Next Token : ):, Posbility: 0.7758
+Next Token : ,, Posbility: 0.1320
+Next Token : -, Posbility: 0.0382
+Next Token : //, Posbility: 0.0194
+Next Token :  -, Posbility: 0.0165
+Choose : ):,  Posbility: 0.7758
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9700
+Next Token :  , Posbility: 0.0087
+Next Token :  #, Posbility: 0.0068
+Next Token : 
+
+, Posbility: 0.0038
+Next Token :   , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9700
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+
+---------------------------
+Next Token :         , Posbility: 0.9886
+Next Token :             , Posbility: 0.0036
+Next Token :       , Posbility: 0.0030
+Next Token :        , Posbility: 0.0019
+Next Token :          , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9886
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        
+---------------------------
+Next Token : if, Posbility: 0.4408
+Next Token : arr, Posbility: 0.1679
+Next Token : for, Posbility: 0.1044
+Next Token : while, Posbility: 0.0313
+Next Token : #, Posbility: 0.0278
+Choose : if,  Posbility: 0.4408
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if
+---------------------------
+Next Token :  arr, Posbility: 0.8795
+Next Token :  -, Posbility: 0.0251
+Next Token : (, Posbility: 0.0248
+Next Token :  (, Posbility: 0.0243
+Next Token :  i, Posbility: 0.0188
+Choose :  arr,  Posbility: 0.8795
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr
+---------------------------
+Next Token : [, Posbility: 0.9981
+Next Token : ., Posbility: 0.0006
+Next Token :  [, Posbility: 0.0005
+Next Token :  ==, Posbility: 0.0002
+Next Token :  [-, Posbility: 0.0002
+Choose : [,  Posbility: 0.9981
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[
+---------------------------
+Next Token : i, Posbility: 0.9457
+Next Token : 0, Posbility: 0.0274
+Next Token : n, Posbility: 0.0099
+Next Token : arr, Posbility: 0.0056
+Next Token : -, Posbility: 0.0047
+Choose : i,  Posbility: 0.9457
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9849
+Next Token : ][, Posbility: 0.0040
+Next Token : ]:, Posbility: 0.0033
+Next Token : ]., Posbility: 0.0031
+Next Token : ]-, Posbility: 0.0013
+Choose : ],  Posbility: 0.9849
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i]
+---------------------------
+Next Token :  <, Posbility: 0.7273
+Next Token :  >, Posbility: 0.0997
+Next Token :  >=, Posbility: 0.0850
+Next Token : <, Posbility: 0.0436
+Next Token : >, Posbility: 0.0160
+Choose :  <,  Posbility: 0.7273
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] <
+---------------------------
+Next Token :  0, Posbility: 0.9798
+Next Token : 0, Posbility: 0.0094
+Next Token :  -, Posbility: 0.0069
+Next Token :  arr, Posbility: 0.0014
+Next Token :  1, Posbility: 0.0007
+Choose :  0,  Posbility: 0.9798
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0
+---------------------------
+Next Token : :, Posbility: 0.9676
+Next Token :  and, Posbility: 0.0195
+Next Token :  :, Posbility: 0.0087
+Next Token :  or, Posbility: 0.0023
+Next Token : ., Posbility: 0.0011
+Choose : :,  Posbility: 0.9676
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9673
+Next Token :  arr, Posbility: 0.0105
+Next Token :  , Posbility: 0.0087
+Next Token :  #, Posbility: 0.0062
+Next Token :   , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9673
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+
+---------------------------
+Next Token :             , Posbility: 0.9942
+Next Token :            , Posbility: 0.0019
+Next Token :                 , Posbility: 0.0014
+Next Token :           , Posbility: 0.0009
+Next Token :              , Posbility: 0.0009
+Choose :             ,  Posbility: 0.9942
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            
+---------------------------
+Next Token : arr, Posbility: 0.8147
+Next Token : for, Posbility: 0.0353
+Next Token : temp, Posbility: 0.0299
+Next Token : pos, Posbility: 0.0150
+Next Token : #, Posbility: 0.0107
+Choose : arr,  Posbility: 0.8147
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr
+---------------------------
+Next Token : [, Posbility: 0.9819
+Next Token : ., Posbility: 0.0144
+Next Token :  =, Posbility: 0.0025
+Next Token : _, Posbility: 0.0007
+Next Token : 2, Posbility: 0.0001
+Choose : [,  Posbility: 0.9819
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[
+---------------------------
+Next Token : i, Posbility: 0.9500
+Next Token : 0, Posbility: 0.0184
+Next Token : arr, Posbility: 0.0152
+Next Token : n, Posbility: 0.0052
+Next Token : :, Posbility: 0.0050
+Choose : i,  Posbility: 0.9500
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i
+---------------------------
+Next Token : ], Posbility: 0.8170
+Next Token : ],, Posbility: 0.1197
+Next Token : +, Posbility: 0.0155
+Next Token : ]=, Posbility: 0.0133
+Next Token : :, Posbility: 0.0073
+Choose : ],  Posbility: 0.8170
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i]
+---------------------------
+Next Token :  *, Posbility: 0.4839
+Next Token :  =, Posbility: 0.4661
+Next Token :  +=, Posbility: 0.0265
+Next Token : *=-, Posbility: 0.0141
+Next Token : *, Posbility: 0.0041
+Choose :  *,  Posbility: 0.4839
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *
+---------------------------
+Next Token : =, Posbility: 0.9891
+Next Token : =-, Posbility: 0.0076
+Next Token : -, Posbility: 0.0012
+Next Token :  -, Posbility: 0.0011
+Next Token : =(, Posbility: 0.0003
+Choose : =,  Posbility: 0.9891
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *=
+---------------------------
+Next Token :  -, Posbility: 0.9846
+Next Token :  (-, Posbility: 0.0106
+Next Token :  10, Posbility: 0.0016
+Next Token :  2, Posbility: 0.0014
+Next Token :  1, Posbility: 0.0003
+Choose :  -,  Posbility: 0.9846
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -
+---------------------------
+Next Token : 1, Posbility: 0.9909
+Next Token :  1, Posbility: 0.0073
+Next Token : 10, Posbility: 0.0005
+Next Token : 2, Posbility: 0.0004
+Next Token : arr, Posbility: 0.0003
+Choose : 1,  Posbility: 0.9909
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+---------------------------
+Next Token : 
+, Posbility: 0.9246
+Next Token : 
+
+, Posbility: 0.0501
+Next Token :  , Posbility: 0.0091
+Next Token :  #, Posbility: 0.0045
+Next Token : ;, Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9246
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+
+---------------------------
+Next Token :         , Posbility: 0.3969
+Next Token :             , Posbility: 0.3207
+Next Token :     , Posbility: 0.2475
+Next Token : 
+, Posbility: 0.0254
+Next Token : print, Posbility: 0.0014
+Choose :         ,  Posbility: 0.3969
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        
+---------------------------
+Next Token : else, Posbility: 0.3281
+Next Token : arr, Posbility: 0.2725
+Next Token : el, Posbility: 0.1575
+Next Token : if, Posbility: 0.0845
+Next Token : for, Posbility: 0.0409
+Choose : else,  Posbility: 0.3281
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else
+---------------------------
+Next Token : :, Posbility: 0.9977
+Next Token :  :, Posbility: 0.0020
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9977
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+---------------------------
+Next Token : 
+, Posbility: 0.9746
+Next Token :  , Posbility: 0.0096
+Next Token :  arr, Posbility: 0.0054
+Next Token :  continue, Posbility: 0.0028
+Next Token :  #, Posbility: 0.0026
+Choose : 
+,  Posbility: 0.9746
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+
+---------------------------
+Next Token :             , Posbility: 0.9975
+Next Token :            , Posbility: 0.0009
+Next Token :              , Posbility: 0.0006
+Next Token :           , Posbility: 0.0003
+Next Token :         , Posbility: 0.0002
+Choose :             ,  Posbility: 0.9975
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            
+---------------------------
+Next Token : arr, Posbility: 0.8080
+Next Token : continue, Posbility: 0.0542
+Next Token : break, Posbility: 0.0318
+Next Token : pass, Posbility: 0.0208
+Next Token : pos, Posbility: 0.0145
+Choose : arr,  Posbility: 0.8080
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr
+---------------------------
+Next Token : [, Posbility: 0.9688
+Next Token : ., Posbility: 0.0286
+Next Token :  =, Posbility: 0.0015
+Next Token :  +=, Posbility: 0.0005
+Next Token :  *, Posbility: 0.0003
+Choose : [,  Posbility: 0.9688
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[
+---------------------------
+Next Token : i, Posbility: 0.9740
+Next Token : n, Posbility: 0.0096
+Next Token : 0, Posbility: 0.0063
+Next Token : arr, Posbility: 0.0036
+Next Token : -, Posbility: 0.0021
+Choose : i,  Posbility: 0.9740
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i
+---------------------------
+Next Token : ], Posbility: 0.9756
+Next Token : ],, Posbility: 0.0125
+Next Token : ]=, Posbility: 0.0040
+Next Token : :, Posbility: 0.0011
+Next Token : +, Posbility: 0.0011
+Choose : ],  Posbility: 0.9756
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i]
+---------------------------
+Next Token :  *, Posbility: 0.3185
+Next Token :  +=, Posbility: 0.2795
+Next Token :  =, Posbility: 0.2633
+Next Token :  /, Posbility: 0.0914
+Next Token :  //, Posbility: 0.0173
+Choose :  *,  Posbility: 0.3185
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *
+---------------------------
+Next Token : =, Posbility: 0.9993
+Next Token : =-, Posbility: 0.0003
+Next Token : -, Posbility: 0.0001
+Next Token : +=, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : =,  Posbility: 0.9993
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *=
+---------------------------
+Next Token :  -, Posbility: 0.7956
+Next Token :  2, Posbility: 0.1360
+Next Token :  10, Posbility: 0.0201
+Next Token :  1, Posbility: 0.0112
+Next Token :  (-, Posbility: 0.0069
+Choose :  -,  Posbility: 0.7956
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -
+---------------------------
+Next Token : 1, Posbility: 0.9681
+Next Token : 2, Posbility: 0.0206
+Next Token : n, Posbility: 0.0020
+Next Token :  1, Posbility: 0.0016
+Next Token : 10, Posbility: 0.0016
+Choose : 1,  Posbility: 0.9681
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+---------------------------
+Next Token : 
+, Posbility: 0.8371
+Next Token : 
+
+, Posbility: 0.1224
+Next Token :  , Posbility: 0.0098
+Next Token :  #, Posbility: 0.0039
+Next Token : <|endoftext|>, Posbility: 0.0036
+Choose : 
+,  Posbility: 0.8371
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+
+---------------------------
+Next Token :     , Posbility: 0.6480
+Next Token :             , Posbility: 0.1476
+Next Token :         , Posbility: 0.0885
+Next Token : 
+, Posbility: 0.0809
+Next Token : print, Posbility: 0.0075
+Choose :     ,  Posbility: 0.6480
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    
+---------------------------
+Next Token : for, Posbility: 0.3353
+Next Token : return, Posbility: 0.3060
+Next Token : arr, Posbility: 0.1350
+Next Token : print, Posbility: 0.0385
+Next Token : 
+, Posbility: 0.0257
+Choose : for,  Posbility: 0.3353
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8922
+Next Token :  j, Posbility: 0.0775
+Next Token :  k, Posbility: 0.0065
+Next Token :  x, Posbility: 0.0038
+Next Token :  index, Posbility: 0.0024
+Choose :  i,  Posbility: 0.8922
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9971
+Next Token : ,, Posbility: 0.0025
+Next Token :   , Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9971
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9781
+Next Token :  reversed, Posbility: 0.0115
+Next Token :  arr, Posbility: 0.0093
+Next Token :  sorted, Posbility: 0.0003
+Next Token :  list, Posbility: 0.0001
+Choose :  range,  Posbility: 0.9781
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9919
+Next Token :  (, Posbility: 0.0039
+Next Token : ((, Posbility: 0.0028
+Next Token : (-, Posbility: 0.0013
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9919
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(
+---------------------------
+Next Token : n, Posbility: 0.8901
+Next Token : len, Posbility: 0.0477
+Next Token : 0, Posbility: 0.0353
+Next Token : 1, Posbility: 0.0138
+Next Token : arr, Posbility: 0.0054
+Choose : n,  Posbility: 0.8901
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n
+---------------------------
+Next Token : ):, Posbility: 0.4169
+Next Token : ,, Posbility: 0.2985
+Next Token : -, Posbility: 0.1545
+Next Token :  -, Posbility: 0.0694
+Next Token : //, Posbility: 0.0354
+Choose : ):,  Posbility: 0.4169
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9937
+Next Token :  , Posbility: 0.0023
+Next Token :  #, Posbility: 0.0012
+Next Token : 
+
+, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9937
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+
+---------------------------
+Next Token :         , Posbility: 0.9933
+Next Token :             , Posbility: 0.0043
+Next Token :        , Posbility: 0.0007
+Next Token :          , Posbility: 0.0006
+Next Token :     , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9933
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        
+---------------------------
+Next Token : arr, Posbility: 0.5305
+Next Token : if, Posbility: 0.3733
+Next Token : print, Posbility: 0.0481
+Next Token : for, Posbility: 0.0157
+Next Token : while, Posbility: 0.0041
+Choose : arr,  Posbility: 0.5305
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr
+---------------------------
+Next Token : [, Posbility: 0.9939
+Next Token : ., Posbility: 0.0055
+Next Token :  =, Posbility: 0.0002
+Next Token : _, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0001
+Choose : [,  Posbility: 0.9939
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[
+---------------------------
+Next Token : i, Posbility: 0.9508
+Next Token : n, Posbility: 0.0227
+Next Token : 0, Posbility: 0.0111
+Next Token : arr, Posbility: 0.0059
+Next Token : -, Posbility: 0.0033
+Choose : i,  Posbility: 0.9508
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i
+---------------------------
+Next Token : ], Posbility: 0.9658
+Next Token : ]=, Posbility: 0.0102
+Next Token : ],, Posbility: 0.0074
+Next Token : +, Posbility: 0.0057
+Next Token :  +, Posbility: 0.0038
+Choose : ],  Posbility: 0.9658
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i]
+---------------------------
+Next Token :  =, Posbility: 0.4489
+Next Token :  +=, Posbility: 0.3305
+Next Token :  *, Posbility: 0.1408
+Next Token :  /, Posbility: 0.0372
+Next Token :  -=, Posbility: 0.0141
+Choose :  =,  Posbility: 0.4489
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] =
+---------------------------
+Next Token :  arr, Posbility: 0.5825
+Next Token :  abs, Posbility: 0.1977
+Next Token :  -, Posbility: 0.1270
+Next Token :  int, Posbility: 0.0385
+Next Token :  (, Posbility: 0.0099
+Choose :  arr,  Posbility: 0.5825
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr
+---------------------------
+Next Token : [, Posbility: 0.9993
+Next Token : ., Posbility: 0.0002
+Next Token :  [, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Choose : [,  Posbility: 0.9993
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[
+---------------------------
+Next Token : i, Posbility: 0.9884
+Next Token : n, Posbility: 0.0086
+Next Token : -, Posbility: 0.0008
+Next Token : abs, Posbility: 0.0006
+Next Token : arr, Posbility: 0.0005
+Choose : i,  Posbility: 0.9884
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i
+---------------------------
+Next Token : ], Posbility: 0.9650
+Next Token : ]+, Posbility: 0.0103
+Next Token :  +, Posbility: 0.0087
+Next Token : +, Posbility: 0.0057
+Next Token : ]-, Posbility: 0.0033
+Choose : ],  Posbility: 0.9650
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i]
+---------------------------
+Next Token :  +, Posbility: 0.3086
+Next Token :  *, Posbility: 0.3052
+Next Token :  %, Posbility: 0.0848
+Next Token :  /, Posbility: 0.0641
+Next Token : *, Posbility: 0.0533
+Choose :  +,  Posbility: 0.3086
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] +
+---------------------------
+Next Token :  1, Posbility: 0.5362
+Next Token :  arr, Posbility: 0.1236
+Next Token :  i, Posbility: 0.1023
+Next Token :  n, Posbility: 0.0561
+Next Token :  abs, Posbility: 0.0408
+Choose :  1,  Posbility: 0.5362
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+---------------------------
+Next Token : 
+, Posbility: 0.7742
+Next Token : 
+
+, Posbility: 0.1499
+Next Token :  if, Posbility: 0.0265
+Next Token : <|endoftext|>, Posbility: 0.0085
+Next Token :  , Posbility: 0.0066
+Choose : 
+,  Posbility: 0.7742
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+
+---------------------------
+Next Token :     , Posbility: 0.7053
+Next Token : 
+, Posbility: 0.1786
+Next Token :         , Posbility: 0.0748
+Next Token : <|endoftext|>, Posbility: 0.0112
+Next Token : def, Posbility: 0.0059
+Choose :     ,  Posbility: 0.7053
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    
+---------------------------
+Next Token : return, Posbility: 0.5449
+Next Token : for, Posbility: 0.2284
+Next Token : arr, Posbility: 0.0770
+Next Token : print, Posbility: 0.0425
+Next Token : 
+, Posbility: 0.0249
+Choose : return,  Posbility: 0.5449
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return
+---------------------------
+Next Token :  arr, Posbility: 0.9886
+Next Token : (, Posbility: 0.0050
+Next Token :  (, Posbility: 0.0012
+Next Token :  sorted, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0006
+Choose :  arr,  Posbility: 0.9886
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+---------------------------
+Next Token : 
+, Posbility: 0.6030
+Next Token : 
+
+, Posbility: 0.2565
+Next Token : <|endoftext|>, Posbility: 0.0828
+Next Token : [, Posbility: 0.0397
+Next Token :  , Posbility: 0.0081
+Choose : 
+,  Posbility: 0.6030
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+---------------------------
+Next Token : 
+, Posbility: 0.6710
+Next Token : print, Posbility: 0.0737
+Next Token : <|endoftext|>, Posbility: 0.0585
+Next Token : '', Posbility: 0.0310
+Next Token : #, Posbility: 0.0303
+Choose : 
+,  Posbility: 0.6710
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9315
+Next Token : <|endoftext|>, Posbility: 0.0274
+Next Token : 
+
+, Posbility: 0.0268
+Next Token :     , Posbility: 0.0092
+Next Token :         , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9315
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2620
+Next Token : #, Posbility: 0.1715
+Next Token : print, Posbility: 0.1301
+Next Token : def, Posbility: 0.1266
+Next Token : arr, Posbility: 0.1060
+Choose : '',  Posbility: 0.2620
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7333
+Next Token : 
+, Posbility: 0.0403
+Next Token :  Write, Posbility: 0.0143
+Next Token : Given, Posbility: 0.0140
+Next Token : Test, Posbility: 0.0085
+Choose : Write,  Posbility: 0.7333
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9909
+Next Token :  an, Posbility: 0.0032
+Next Token :  your, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0008
+Next Token :  another, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9909
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9477
+Next Token :  Python, Posbility: 0.0128
+Next Token :  program, Posbility: 0.0084
+Next Token :  recursive, Posbility: 0.0068
+Next Token :  python, Posbility: 0.0042
+Choose :  function,  Posbility: 0.9477
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.8461
+Next Token :  to, Posbility: 0.0531
+Next Token :  called, Posbility: 0.0328
+Next Token :  named, Posbility: 0.0153
+Next Token :  which, Posbility: 0.0102
+Choose :  that,  Posbility: 0.8461
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.7037
+Next Token :  returns, Posbility: 0.0502
+Next Token :  accepts, Posbility: 0.0363
+Next Token :  revers, Posbility: 0.0299
+Next Token :  receives, Posbility: 0.0153
+Choose :  takes,  Posbility: 0.7037
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  in, Posbility: 0.7096
+Next Token :  a, Posbility: 0.1223
+Next Token :  an, Posbility: 0.1027
+Next Token :  as, Posbility: 0.0299
+Next Token :  two, Posbility: 0.0089
+Choose :  in,  Posbility: 0.7096
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in
+---------------------------
+Next Token :  an, Posbility: 0.5151
+Next Token :  a, Posbility: 0.3693
+Next Token :  two, Posbility: 0.0676
+Next Token :  three, Posbility: 0.0086
+Next Token :  the, Posbility: 0.0059
+Choose :  an,  Posbility: 0.5151
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an
+---------------------------
+Next Token :  array, Posbility: 0.8886
+Next Token :  integer, Posbility: 0.0809
+Next Token :  uns, Posbility: 0.0038
+Next Token :  int, Posbility: 0.0037
+Next Token :  input, Posbility: 0.0026
+Choose :  array,  Posbility: 0.8886
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array
+---------------------------
+Next Token :  and, Posbility: 0.5808
+Next Token :  of, Posbility: 0.2159
+Next Token : ,, Posbility: 0.1035
+Next Token :  arr, Posbility: 0.0174
+Next Token :  (, Posbility: 0.0125
+Choose :  and,  Posbility: 0.5808
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and
+---------------------------
+Next Token :  an, Posbility: 0.4780
+Next Token :  a, Posbility: 0.2456
+Next Token :  returns, Posbility: 0.0878
+Next Token :  two, Posbility: 0.0199
+Next Token :  another, Posbility: 0.0092
+Choose :  an,  Posbility: 0.4780
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an
+---------------------------
+Next Token :  integer, Posbility: 0.9297
+Next Token :  int, Posbility: 0.0178
+Next Token :  array, Posbility: 0.0167
+Next Token :  index, Posbility: 0.0106
+Next Token :  element, Posbility: 0.0078
+Choose :  integer,  Posbility: 0.9297
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer
+---------------------------
+Next Token :  n, Posbility: 0.5097
+Next Token :  k, Posbility: 0.2234
+Next Token :  m, Posbility: 0.1544
+Next Token : ,, Posbility: 0.0185
+Next Token :  x, Posbility: 0.0148
+Choose :  n,  Posbility: 0.5097
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n
+---------------------------
+Next Token : ,, Posbility: 0.8036
+Next Token :  and, Posbility: 0.1039
+Next Token : ., Posbility: 0.0740
+Next Token :  that, Posbility: 0.0025
+Next Token :  (, Posbility: 0.0018
+Choose : ,,  Posbility: 0.8036
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n,
+---------------------------
+Next Token :  and, Posbility: 0.9426
+Next Token :  returns, Posbility: 0.0154
+Next Token :  that, Posbility: 0.0033
+Next Token : 
+, Posbility: 0.0032
+Next Token :  removes, Posbility: 0.0028
+Choose :  and,  Posbility: 0.9426
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and
+---------------------------
+Next Token :  re, Posbility: 0.4874
+Next Token :  returns, Posbility: 0.2831
+Next Token :  revers, Posbility: 0.0248
+Next Token :  prints, Posbility: 0.0175
+Next Token :  return, Posbility: 0.0144
+Choose :  re,  Posbility: 0.4874
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re
+---------------------------
+Next Token : -, Posbility: 0.9720
+Next Token : orders, Posbility: 0.0130
+Next Token : writ, Posbility: 0.0031
+Next Token : verts, Posbility: 0.0017
+Next Token : re, Posbility: 0.0009
+Choose : -,  Posbility: 0.9720
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-
+---------------------------
+Next Token : arr, Posbility: 0.9613
+Next Token : orders, Posbility: 0.0087
+Next Token : prints, Posbility: 0.0029
+Next Token : sort, Posbility: 0.0023
+Next Token : s, Posbility: 0.0016
+Choose : arr,  Posbility: 0.9613
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arr
+---------------------------
+Next Token : anges, Posbility: 0.9955
+Next Token : ays, Posbility: 0.0020
+Next Token : ang, Posbility: 0.0004
+Next Token : ange, Posbility: 0.0004
+Next Token : angs, Posbility: 0.0003
+Choose : anges,  Posbility: 0.9955
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges
+---------------------------
+Next Token :  the, Posbility: 0.7651
+Next Token :  all, Posbility: 0.1834
+Next Token :  it, Posbility: 0.0123
+Next Token :  elements, Posbility: 0.0098
+Next Token :  any, Posbility: 0.0046
+Choose :  the,  Posbility: 0.7651
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the
+---------------------------
+Next Token :  first, Posbility: 0.7328
+Next Token :  elements, Posbility: 0.1144
+Next Token :  array, Posbility: 0.0296
+Next Token :  last, Posbility: 0.0295
+Next Token :  second, Posbility: 0.0171
+Choose :  first,  Posbility: 0.7328
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first
+---------------------------
+Next Token :  n, Posbility: 0.9752
+Next Token :  k, Posbility: 0.0040
+Next Token :  2, Posbility: 0.0034
+Next Token :  0, Posbility: 0.0016
+Next Token :  5, Posbility: 0.0015
+Choose :  n,  Posbility: 0.9752
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n
+---------------------------
+Next Token :  elements, Posbility: 0.9806
+Next Token :  numbers, Posbility: 0.0018
+Next Token : -, Posbility: 0.0017
+Next Token :  integers, Posbility: 0.0017
+Next Token :  items, Posbility: 0.0010
+Choose :  elements,  Posbility: 0.9806
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements
+---------------------------
+Next Token :  of, Posbility: 0.9793
+Next Token :  in, Posbility: 0.0063
+Next Token :  so, Posbility: 0.0051
+Next Token :  into, Posbility: 0.0017
+Next Token :  according, Posbility: 0.0010
+Choose :  of,  Posbility: 0.9793
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of
+---------------------------
+Next Token :  the, Posbility: 0.9570
+Next Token :  each, Posbility: 0.0116
+Next Token :  a, Posbility: 0.0082
+Next Token :  an, Posbility: 0.0039
+Next Token :  that, Posbility: 0.0027
+Choose :  the,  Posbility: 0.9570
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the
+---------------------------
+Next Token :  given, Posbility: 0.9731
+Next Token :  array, Posbility: 0.0173
+Next Token :  first, Posbility: 0.0010
+Next Token :  list, Posbility: 0.0006
+Next Token :  corresponding, Posbility: 0.0004
+Choose :  given,  Posbility: 0.9731
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given
+---------------------------
+Next Token :  array, Posbility: 0.9924
+Next Token :  list, Posbility: 0.0028
+Next Token :  sorted, Posbility: 0.0005
+Next Token :  sequence, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0002
+Choose :  array,  Posbility: 0.9924
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array
+---------------------------
+Next Token :  so, Posbility: 0.8426
+Next Token :  such, Posbility: 0.0534
+Next Token :  in, Posbility: 0.0245
+Next Token :  to, Posbility: 0.0154
+Next Token : ,, Posbility: 0.0152
+Choose :  so,  Posbility: 0.8426
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so
+---------------------------
+Next Token :  that, Posbility: 0.9946
+Next Token :  they, Posbility: 0.0016
+Next Token :  all, Posbility: 0.0009
+Next Token :  it, Posbility: 0.0009
+Next Token :  the, Posbility: 0.0008
+Choose :  that,  Posbility: 0.9946
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that
+---------------------------
+Next Token :  all, Posbility: 0.7498
+Next Token :  the, Posbility: 0.0999
+Next Token :  any, Posbility: 0.0217
+Next Token :  they, Posbility: 0.0130
+Next Token :  there, Posbility: 0.0096
+Choose :  all,  Posbility: 0.7498
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all
+---------------------------
+Next Token :  negative, Posbility: 0.6050
+Next Token :  positive, Posbility: 0.1342
+Next Token :  elements, Posbility: 0.1003
+Next Token :  the, Posbility: 0.0459
+Next Token :  negatives, Posbility: 0.0162
+Choose :  negative,  Posbility: 0.6050
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative
+---------------------------
+Next Token :  elements, Posbility: 0.9617
+Next Token :  numbers, Posbility: 0.0227
+Next Token :  values, Posbility: 0.0041
+Next Token :  integers, Posbility: 0.0024
+Next Token :  and, Posbility: 0.0015
+Choose :  elements,  Posbility: 0.9617
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements
+---------------------------
+Next Token :  appear, Posbility: 0.9694
+Next Token :  become, Posbility: 0.0052
+Next Token :  have, Posbility: 0.0047
+Next Token :  are, Posbility: 0.0044
+Next Token :  appears, Posbility: 0.0026
+Choose :  appear,  Posbility: 0.9694
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear
+---------------------------
+Next Token :  before, Posbility: 0.9088
+Next Token :  first, Posbility: 0.0412
+Next Token :  after, Posbility: 0.0204
+Next Token :  in, Posbility: 0.0026
+Next Token :  at, Posbility: 0.0024
+Choose :  before,  Posbility: 0.9088
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before
+---------------------------
+Next Token :  positive, Posbility: 0.9847
+Next Token :  the, Posbility: 0.0028
+Next Token :  non, Posbility: 0.0022
+Next Token :  positives, Posbility: 0.0019
+Next Token :  all, Posbility: 0.0018
+Choose :  positive,  Posbility: 0.9847
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive
+---------------------------
+Next Token :  ones, Posbility: 0.9970
+Next Token :  elements, Posbility: 0.0027
+Next Token :  one, Posbility: 0.0002
+Next Token :  numbers, Posbility: 0.0000
+Next Token : ones, Posbility: 0.0000
+Choose :  ones,  Posbility: 0.9970
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones
+---------------------------
+Next Token : ,, Posbility: 0.8530
+Next Token : ., Posbility: 0.0578
+Next Token : .', Posbility: 0.0536
+Next Token :  and, Posbility: 0.0188
+Next Token :  (, Posbility: 0.0047
+Choose : ,,  Posbility: 0.8530
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones,
+---------------------------
+Next Token :  and, Posbility: 0.9528
+Next Token :  but, Posbility: 0.0202
+Next Token :  where, Posbility: 0.0071
+Next Token :  while, Posbility: 0.0037
+Next Token :  in, Posbility: 0.0021
+Choose :  and,  Posbility: 0.9528
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and
+---------------------------
+Next Token :  where, Posbility: 0.9779
+Next Token :  the, Posbility: 0.0051
+Next Token :  in, Posbility: 0.0024
+Next Token :  each, Posbility: 0.0012
+Next Token :  that, Posbility: 0.0011
+Choose :  where,  Posbility: 0.9779
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where
+---------------------------
+Next Token :  the, Posbility: 0.9901
+Next Token :  their, Posbility: 0.0027
+Next Token :  relative, Posbility: 0.0019
+Next Token :  negative, Posbility: 0.0007
+Next Token :  all, Posbility: 0.0005
+Choose :  the,  Posbility: 0.9901
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the
+---------------------------
+Next Token :  relative, Posbility: 0.9848
+Next Token :  absolute, Posbility: 0.0100
+Next Token :  order, Posbility: 0.0005
+Next Token :  rel, Posbility: 0.0003
+Next Token :  negative, Posbility: 0.0002
+Choose :  relative,  Posbility: 0.9848
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative
+---------------------------
+Next Token :  order, Posbility: 0.9722
+Next Token :  ordering, Posbility: 0.0239
+Next Token :  orders, Posbility: 0.0012
+Next Token :  number, Posbility: 0.0007
+Next Token :  position, Posbility: 0.0007
+Choose :  order,  Posbility: 0.9722
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order
+---------------------------
+Next Token :  among, Posbility: 0.9335
+Next Token :  of, Posbility: 0.0352
+Next Token :  between, Posbility: 0.0059
+Next Token :  is, Posbility: 0.0055
+Next Token :  in, Posbility: 0.0052
+Choose :  among,  Posbility: 0.9335
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among
+---------------------------
+Next Token :  negative, Posbility: 0.9838
+Next Token :  positive, Posbility: 0.0055
+Next Token :  -, Posbility: 0.0015
+Next Token :  the, Posbility: 0.0013
+Next Token :  negatives, Posbility: 0.0011
+Choose :  negative,  Posbility: 0.9838
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative
+---------------------------
+Next Token :  and, Posbility: 0.9893
+Next Token :  elements, Posbility: 0.0092
+Next Token :  or, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0002
+Next Token :  element, Posbility: 0.0002
+Choose :  and,  Posbility: 0.9893
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and
+---------------------------
+Next Token :  positive, Posbility: 0.9990
+Next Token :  negative, Posbility: 0.0004
+Next Token :  non, Posbility: 0.0001
+Next Token :  zero, Posbility: 0.0001
+Next Token :  pos, Posbility: 0.0001
+Choose :  positive,  Posbility: 0.9990
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive
+---------------------------
+Next Token :  elements, Posbility: 0.9517
+Next Token :  ones, Posbility: 0.0433
+Next Token :  numbers, Posbility: 0.0010
+Next Token :  element, Posbility: 0.0008
+Next Token :  is, Posbility: 0.0003
+Choose :  elements,  Posbility: 0.9517
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements
+---------------------------
+Next Token :  is, Posbility: 0.9767
+Next Token :  can, Posbility: 0.0017
+Next Token :  has, Posbility: 0.0017
+Next Token :  in, Posbility: 0.0016
+Next Token :  occurs, Posbility: 0.0014
+Choose :  is,  Posbility: 0.9767
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is
+---------------------------
+Next Token :  preserved, Posbility: 0.9769
+Next Token :  maintained, Posbility: 0.0161
+Next Token :  retained, Posbility: 0.0011
+Next Token :  not, Posbility: 0.0009
+Next Token :  kept, Posbility: 0.0007
+Choose :  preserved,  Posbility: 0.9769
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved
+---------------------------
+Next Token : .', Posbility: 0.7679
+Next Token : ., Posbility: 0.1632
+Next Token : ,, Posbility: 0.0161
+Next Token : '', Posbility: 0.0147
+Next Token :  in, Posbility: 0.0079
+Choose : .',  Posbility: 0.7679
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'
+---------------------------
+Next Token : '', Posbility: 0.9988
+Next Token : 
+, Posbility: 0.0009
+Next Token :  ', Posbility: 0.0002
+Next Token : ', Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Choose : '',  Posbility: 0.9988
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9498
+Next Token : 
+
+, Posbility: 0.0430
+Next Token : def, Posbility: 0.0031
+Next Token :  , Posbility: 0.0019
+Next Token : <|endoftext|>, Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9498
+---------------------------
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9033
+Next Token : 
+, Posbility: 0.0789
+Next Token : #, Posbility: 0.0074
+Next Token : import, Posbility: 0.0018
+Next Token : '', Posbility: 0.0018
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 31.553199768066406
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+def rearrange_array(arr, n):
+    for i in range(n):
+        if arr[i] < 0:
+            arr[i] *= -1
+        else:
+            arr[i] *= -1
+    for i in range(n):
+        arr[i] = arr[i] + 1
+    return arr
+
+
+'''Write a function that takes in an array and an integer n, and re-arranges the first n elements of the given array so that all negative elements appear before positive ones, and where the relative order among negative and positive elements is preserved.'''
+

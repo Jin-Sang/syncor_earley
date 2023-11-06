@@ -1,0 +1,67 @@
+<<<<<<<<<<<< 156 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1558
+Next Token : ids, Posbility: 0.1031
+Next Token : ix, Posbility: 0.0699
+Next Token : ____, Posbility: 0.0697
+Next Token : iz, Posbility: 0.0473
+Choose : 
+,  Posbility: 0.1558
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def 
+
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def 
+
+---------------------------
+Next Token : 
+, Posbility: 0.0851
+Next Token : '', Posbility: 0.0700
+Next Token : def, Posbility: 0.0566
+Next Token : #, Posbility: 0.0433
+Next Token : print, Posbility: 0.0380
+Choose : 
+,  Posbility: 0.0851
+---------------------------
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def 
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.6308
+Next Token :     , Posbility: 0.2009
+Next Token : 
+
+, Posbility: 0.1078
+Next Token : <|endoftext|>, Posbility: 0.0187
+Next Token :   , Posbility: 0.0107
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 0.3828003406524658
+
+
+
+----------Syntax Error-----------
+
+'''Write a function that takes in a list and element and checks whether all items in the list are equal to the given element.'''
+def 
+
+
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

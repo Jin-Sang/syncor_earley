@@ -1,0 +1,1582 @@
+<<<<<<<<<<<< 70 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  max, Posbility: 0.4615
+Next Token :  find, Posbility: 0.1895
+Next Token :  maximum, Posbility: 0.0742
+Next Token :  pair, Posbility: 0.0243
+Next Token :  get, Posbility: 0.0182
+Choose :  max,  Posbility: 0.4615
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max
+---------------------------
+Next Token : _, Posbility: 0.5448
+Next Token : Product, Posbility: 0.1608
+Next Token : Abs, Posbility: 0.0795
+Next Token : Pro, Posbility: 0.0412
+Next Token : product, Posbility: 0.0282
+Choose : _,  Posbility: 0.5448
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_
+---------------------------
+Next Token : product, Posbility: 0.5913
+Next Token : abs, Posbility: 0.1765
+Next Token : pro, Posbility: 0.0830
+Next Token : p, Posbility: 0.0329
+Next Token : pair, Posbility: 0.0179
+Choose : product,  Posbility: 0.5913
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product
+---------------------------
+Next Token : (, Posbility: 0.6965
+Next Token : _, Posbility: 0.2504
+Next Token : (*, Posbility: 0.0244
+Next Token : ():, Posbility: 0.0087
+Next Token : 2, Posbility: 0.0079
+Choose : (,  Posbility: 0.6965
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(
+---------------------------
+Next Token : l, Posbility: 0.1821
+Next Token : list, Posbility: 0.1414
+Next Token : n, Posbility: 0.1188
+Next Token : p, Posbility: 0.0972
+Next Token : a, Posbility: 0.0590
+Choose : l,  Posbility: 0.1821
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(l
+---------------------------
+Next Token : st, Posbility: 0.7006
+Next Token : ):, Posbility: 0.2389
+Next Token : 1, Posbility: 0.0246
+Next Token : ,, Posbility: 0.0163
+Next Token : :, Posbility: 0.0089
+Choose : st,  Posbility: 0.7006
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst
+---------------------------
+Next Token : ):, Posbility: 0.8619
+Next Token : ,, Posbility: 0.0547
+Next Token : :, Posbility: 0.0326
+Next Token : _, Posbility: 0.0212
+Next Token : 1, Posbility: 0.0197
+Choose : ):,  Posbility: 0.8619
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9149
+Next Token : 
+
+, Posbility: 0.0394
+Next Token : , Posbility: 0.0240
+Next Token :  , Posbility: 0.0121
+Next Token :   , Posbility: 0.0030
+Choose : 
+,  Posbility: 0.9149
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.8995
+Next Token :   , Posbility: 0.0498
+Next Token : 	, Posbility: 0.0379
+Next Token :    , Posbility: 0.0047
+Next Token :         , Posbility: 0.0030
+Choose :     ,  Posbility: 0.8995
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    
+---------------------------
+Next Token : max, Posbility: 0.1897
+Next Token : '', Posbility: 0.1757
+Next Token : #, Posbility: 0.0666
+Next Token : if, Posbility: 0.0653
+Next Token : l, Posbility: 0.0391
+Choose : max,  Posbility: 0.1897
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max
+---------------------------
+Next Token : _, Posbility: 0.7409
+Next Token :  =, Posbility: 0.1603
+Next Token : =, Posbility: 0.0208
+Next Token : i, Posbility: 0.0109
+Next Token : 1, Posbility: 0.0095
+Choose : _,  Posbility: 0.7409
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_
+---------------------------
+Next Token : product, Posbility: 0.4017
+Next Token : pro, Posbility: 0.1398
+Next Token : p, Posbility: 0.0525
+Next Token : val, Posbility: 0.0463
+Next Token : abs, Posbility: 0.0407
+Choose : product,  Posbility: 0.4017
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product
+---------------------------
+Next Token :  =, Posbility: 0.8167
+Next Token : =, Posbility: 0.0940
+Next Token : _, Posbility: 0.0738
+Next Token : ,, Posbility: 0.0054
+Next Token : 1, Posbility: 0.0032
+Choose :  =,  Posbility: 0.8167
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product =
+---------------------------
+Next Token :  0, Posbility: 0.4519
+Next Token :  l, Posbility: 0.1335
+Next Token :  [], Posbility: 0.0925
+Next Token :  -, Posbility: 0.0824
+Next Token :  1, Posbility: 0.0626
+Choose :  0,  Posbility: 0.4519
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8990
+Next Token : 
+
+, Posbility: 0.0762
+Next Token :  , Posbility: 0.0104
+Next Token :  #, Posbility: 0.0033
+Next Token : ;, Posbility: 0.0032
+Choose : 
+,  Posbility: 0.8990
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9974
+Next Token :         , Posbility: 0.0007
+Next Token : 	, Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Next Token :  , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9974
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.6114
+Next Token : max, Posbility: 0.0320
+Next Token : l, Posbility: 0.0283
+Next Token : i, Posbility: 0.0281
+Next Token : #, Posbility: 0.0171
+Choose : for,  Posbility: 0.6114
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6864
+Next Token :  index, Posbility: 0.0463
+Next Token :  pair, Posbility: 0.0334
+Next Token :  x, Posbility: 0.0250
+Next Token :  num, Posbility: 0.0176
+Choose :  i,  Posbility: 0.6864
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9386
+Next Token : ,, Posbility: 0.0584
+Next Token : 1, Posbility: 0.0015
+Next Token : _, Posbility: 0.0007
+Next Token : ,, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9386
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.8294
+Next Token :  l, Posbility: 0.1617
+Next Token :  list, Posbility: 0.0013
+Next Token :  zip, Posbility: 0.0013
+Next Token :  (, Posbility: 0.0009
+Choose :  range,  Posbility: 0.8294
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9880
+Next Token :  (, Posbility: 0.0106
+Next Token : (-, Posbility: 0.0007
+Next Token : ((, Posbility: 0.0005
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9880
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8029
+Next Token : 0, Posbility: 0.1577
+Next Token : 1, Posbility: 0.0315
+Next Token : 2, Posbility: 0.0029
+Next Token : int, Posbility: 0.0008
+Choose : len,  Posbility: 0.8029
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token : ((, Posbility: 0.0002
+Next Token : (), Posbility: 0.0001
+Next Token : (-, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Choose : (,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9990
+Next Token : list, Posbility: 0.0002
+Next Token : s, Posbility: 0.0001
+Next Token : t, Posbility: 0.0001
+Next Token : set, Posbility: 0.0000
+Choose : l,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ), Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst
+---------------------------
+Next Token : ), Posbility: 0.7425
+Next Token : )-, Posbility: 0.2472
+Next Token : [, Posbility: 0.0046
+Next Token : )), Posbility: 0.0022
+Next Token : )+, Posbility: 0.0017
+Choose : ),  Posbility: 0.7425
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.7196
+Next Token :  -, Posbility: 0.2550
+Next Token : //, Posbility: 0.0166
+Next Token :  //, Posbility: 0.0062
+Next Token :  +, Posbility: 0.0012
+Choose : ):,  Posbility: 0.7196
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9797
+Next Token : 
+
+, Posbility: 0.0056
+Next Token :  , Posbility: 0.0044
+Next Token :  #, Posbility: 0.0034
+Next Token :   , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9797
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+
+---------------------------
+Next Token :         , Posbility: 0.9854
+Next Token :       , Posbility: 0.0048
+Next Token :             , Posbility: 0.0036
+Next Token :        , Posbility: 0.0024
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9854
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        
+---------------------------
+Next Token : for, Posbility: 0.8363
+Next Token : max, Posbility: 0.0336
+Next Token : if, Posbility: 0.0185
+Next Token : product, Posbility: 0.0131
+Next Token : temp, Posbility: 0.0108
+Choose : for,  Posbility: 0.8363
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9727
+Next Token :  k, Posbility: 0.0092
+Next Token :  x, Posbility: 0.0026
+Next Token :  y, Posbility: 0.0017
+Next Token :  n, Posbility: 0.0016
+Choose :  j,  Posbility: 0.9727
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9985
+Next Token : ,, Posbility: 0.0012
+Next Token :   , Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9985
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9982
+Next Token :  l, Posbility: 0.0008
+Next Token :  (, Posbility: 0.0003
+Next Token :  reversed, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Choose :  range,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9942
+Next Token :  (, Posbility: 0.0052
+Next Token : ((, Posbility: 0.0005
+Next Token : (-, Posbility: 0.0001
+Next Token : ():, Posbility: 0.0000
+Choose : (,  Posbility: 0.9942
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(
+---------------------------
+Next Token : i, Posbility: 0.7623
+Next Token : len, Posbility: 0.2153
+Next Token : 0, Posbility: 0.0096
+Next Token : 1, Posbility: 0.0084
+Next Token : 2, Posbility: 0.0015
+Choose : i,  Posbility: 0.7623
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i
+---------------------------
+Next Token : +, Posbility: 0.6869
+Next Token :  +, Posbility: 0.1307
+Next Token : ,, Posbility: 0.1209
+Next Token : ):, Posbility: 0.0568
+Next Token : -, Posbility: 0.0018
+Choose : +,  Posbility: 0.6869
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+
+---------------------------
+Next Token : 1, Posbility: 0.9967
+Next Token : 2, Posbility: 0.0023
+Next Token :  1, Posbility: 0.0008
+Next Token : len, Posbility: 0.0001
+Next Token : i, Posbility: 0.0001
+Choose : 1,  Posbility: 0.9967
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1
+---------------------------
+Next Token : ,, Posbility: 0.9864
+Next Token : ):, Posbility: 0.0088
+Next Token : ,, Posbility: 0.0045
+Next Token : ,-, Posbility: 0.0001
+Next Token : +, Posbility: 0.0001
+Choose : ,,  Posbility: 0.9864
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1,
+---------------------------
+Next Token :  len, Posbility: 0.6986
+Next Token : len, Posbility: 0.3003
+Next Token :   , Posbility: 0.0002
+Next Token :  0, Posbility: 0.0001
+Next Token :  min, Posbility: 0.0001
+Choose :  len,  Posbility: 0.6986
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token :  (, Posbility: 0.0002
+Next Token : ):, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(
+---------------------------
+Next Token : l, Posbility: 0.9997
+Next Token :  l, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : s, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose : l,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ), Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst
+---------------------------
+Next Token : ), Posbility: 0.9902
+Next Token : )+, Posbility: 0.0050
+Next Token : ),, Posbility: 0.0036
+Next Token : )-, Posbility: 0.0004
+Next Token : )), Posbility: 0.0004
+Choose : ),  Posbility: 0.9902
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.9994
+Next Token :  ):, Posbility: 0.0003
+Next Token :  +, Posbility: 0.0002
+Next Token :  -, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9887
+Next Token : 
+
+, Posbility: 0.0047
+Next Token :  , Posbility: 0.0022
+Next Token :  #, Posbility: 0.0014
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9887
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+
+---------------------------
+Next Token :             , Posbility: 0.9931
+Next Token :                 , Posbility: 0.0024
+Next Token :            , Posbility: 0.0016
+Next Token :              , Posbility: 0.0007
+Next Token :           , Posbility: 0.0006
+Choose :             ,  Posbility: 0.9931
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            
+---------------------------
+Next Token : max, Posbility: 0.3088
+Next Token : product, Posbility: 0.2407
+Next Token : if, Posbility: 0.1174
+Next Token : pro, Posbility: 0.0513
+Next Token : temp, Posbility: 0.0362
+Choose : max,  Posbility: 0.3088
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max
+---------------------------
+Next Token : _, Posbility: 0.9893
+Next Token :  =, Posbility: 0.0079
+Next Token : product, Posbility: 0.0005
+Next Token : Product, Posbility: 0.0003
+Next Token : i, Posbility: 0.0002
+Choose : _,  Posbility: 0.9893
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_
+---------------------------
+Next Token : product, Posbility: 0.9743
+Next Token : pro, Posbility: 0.0098
+Next Token : value, Posbility: 0.0024
+Next Token : p, Posbility: 0.0016
+Next Token : abs, Posbility: 0.0012
+Choose : product,  Posbility: 0.9743
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product
+---------------------------
+Next Token :  =, Posbility: 0.9549
+Next Token :  +=, Posbility: 0.0319
+Next Token : _, Posbility: 0.0072
+Next Token : =, Posbility: 0.0021
+Next Token :  *, Posbility: 0.0013
+Choose :  =,  Posbility: 0.9549
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product =
+---------------------------
+Next Token :  max, Posbility: 0.9496
+Next Token :  l, Posbility: 0.0341
+Next Token :  (, Posbility: 0.0069
+Next Token :  int, Posbility: 0.0012
+Next Token :  float, Posbility: 0.0010
+Choose :  max,  Posbility: 0.9496
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max
+---------------------------
+Next Token : (, Posbility: 0.9445
+Next Token : _, Posbility: 0.0197
+Next Token : ((, Posbility: 0.0181
+Next Token : ([, Posbility: 0.0142
+Next Token :  (, Posbility: 0.0019
+Choose : (,  Posbility: 0.9445
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(
+---------------------------
+Next Token : max, Posbility: 0.5052
+Next Token : l, Posbility: 0.4287
+Next Token : abs, Posbility: 0.0373
+Next Token : 
+, Posbility: 0.0063
+Next Token : int, Posbility: 0.0027
+Choose : max,  Posbility: 0.5052
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max
+---------------------------
+Next Token : _, Posbility: 0.9846
+Next Token : (, Posbility: 0.0146
+Next Token : ((, Posbility: 0.0004
+Next Token : ([, Posbility: 0.0002
+Next Token : Product, Posbility: 0.0001
+Choose : _,  Posbility: 0.9846
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_
+---------------------------
+Next Token : product, Posbility: 0.9992
+Next Token : pro, Posbility: 0.0003
+Next Token : products, Posbility: 0.0001
+Next Token : abs, Posbility: 0.0000
+Next Token : p, Posbility: 0.0000
+Choose : product,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product
+---------------------------
+Next Token : ,, Posbility: 0.9558
+Next Token : *, Posbility: 0.0182
+Next Token :  *, Posbility: 0.0162
+Next Token : ,, Posbility: 0.0042
+Next Token :  +, Posbility: 0.0024
+Choose : ,,  Posbility: 0.9558
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product,
+---------------------------
+Next Token :  l, Posbility: 0.6512
+Next Token :  (, Posbility: 0.0955
+Next Token : l, Posbility: 0.0781
+Next Token :  abs, Posbility: 0.0581
+Next Token :  max, Posbility: 0.0508
+Choose :  l,  Posbility: 0.6512
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, l
+---------------------------
+Next Token : st, Posbility: 0.9998
+Next Token : [, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0001
+Next Token : cm, Posbility: 0.0000
+Next Token : ct, Posbility: 0.0000
+Choose : st,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst
+---------------------------
+Next Token : [, Posbility: 0.9994
+Next Token :  [, Posbility: 0.0003
+Next Token : ., Posbility: 0.0001
+Next Token : [[, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[
+---------------------------
+Next Token : i, Posbility: 0.9304
+Next Token : j, Posbility: 0.0682
+Next Token : max, Posbility: 0.0004
+Next Token : (, Posbility: 0.0003
+Next Token : min, Posbility: 0.0001
+Choose : i,  Posbility: 0.9304
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i
+---------------------------
+Next Token : ][, Posbility: 0.7167
+Next Token : ], Posbility: 0.2665
+Next Token : ]+, Posbility: 0.0128
+Next Token : ]), Posbility: 0.0018
+Next Token : ]., Posbility: 0.0010
+Choose : ][,  Posbility: 0.7167
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][
+---------------------------
+Next Token : 0, Posbility: 0.4957
+Next Token : j, Posbility: 0.3201
+Next Token : 1, Posbility: 0.1769
+Next Token : -, Posbility: 0.0019
+Next Token : 2, Posbility: 0.0015
+Choose : 0,  Posbility: 0.4957
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0
+---------------------------
+Next Token : ], Posbility: 0.9826
+Next Token : ]+, Posbility: 0.0107
+Next Token : ]), Posbility: 0.0047
+Next Token : ]-, Posbility: 0.0016
+Next Token : ][, Posbility: 0.0001
+Choose : ],  Posbility: 0.9826
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0]
+---------------------------
+Next Token :  *, Posbility: 0.6128
+Next Token : *, Posbility: 0.3797
+Next Token :  +, Posbility: 0.0032
+Next Token : **, Posbility: 0.0013
+Next Token : /, Posbility: 0.0006
+Choose :  *,  Posbility: 0.6128
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] *
+---------------------------
+Next Token :  l, Posbility: 0.9893
+Next Token : l, Posbility: 0.0070
+Next Token :  max, Posbility: 0.0016
+Next Token :  (, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0004
+Choose :  l,  Posbility: 0.9893
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : [, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : stack, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst
+---------------------------
+Next Token : [, Posbility: 0.9977
+Next Token :  [, Posbility: 0.0021
+Next Token : _, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token :  [(, Posbility: 0.0000
+Choose : [,  Posbility: 0.9977
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[
+---------------------------
+Next Token : j, Posbility: 0.9937
+Next Token : i, Posbility: 0.0056
+Next Token : 0, Posbility: 0.0002
+Next Token : k, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Choose : j,  Posbility: 0.9937
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j
+---------------------------
+Next Token : ][, Posbility: 0.9915
+Next Token : ]), Posbility: 0.0067
+Next Token : ], Posbility: 0.0008
+Next Token : ],, Posbility: 0.0002
+Next Token : -, Posbility: 0.0002
+Choose : ][,  Posbility: 0.9915
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][
+---------------------------
+Next Token : 0, Posbility: 0.6462
+Next Token : 1, Posbility: 0.3533
+Next Token : 2, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Next Token : i, Posbility: 0.0001
+Choose : 0,  Posbility: 0.6462
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0
+---------------------------
+Next Token : ]), Posbility: 0.8438
+Next Token : ], Posbility: 0.1111
+Next Token : ],, Posbility: 0.0397
+Next Token : ]);, Posbility: 0.0020
+Next Token : ]+, Posbility: 0.0019
+Choose : ]),  Posbility: 0.8438
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+---------------------------
+Next Token : 
+, Posbility: 0.9019
+Next Token : 
+
+, Posbility: 0.0692
+Next Token :  #, Posbility: 0.0097
+Next Token :  , Posbility: 0.0049
+Next Token :   , Posbility: 0.0037
+Choose : 
+,  Posbility: 0.9019
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+
+---------------------------
+Next Token :     , Posbility: 0.9085
+Next Token :             , Posbility: 0.0641
+Next Token :         , Posbility: 0.0198
+Next Token : 
+, Posbility: 0.0026
+Next Token :                 , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9085
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    
+---------------------------
+Next Token : return, Posbility: 0.8798
+Next Token : print, Posbility: 0.0869
+Next Token : 
+, Posbility: 0.0192
+Next Token : max, Posbility: 0.0042
+Next Token : if, Posbility: 0.0031
+Choose : return,  Posbility: 0.8798
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return
+---------------------------
+Next Token :  max, Posbility: 0.9738
+Next Token : (, Posbility: 0.0137
+Next Token :  (, Posbility: 0.0029
+Next Token :  int, Posbility: 0.0018
+Next Token :  f, Posbility: 0.0013
+Choose :  max,  Posbility: 0.9738
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max
+---------------------------
+Next Token : _, Posbility: 0.9908
+Next Token : (, Posbility: 0.0090
+Next Token : 
+, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Next Token : 
+
+, Posbility: 0.0000
+Choose : _,  Posbility: 0.9908
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_
+---------------------------
+Next Token : product, Posbility: 0.9999
+Next Token : price, Posbility: 0.0000
+Next Token : pro, Posbility: 0.0000
+Next Token : profit, Posbility: 0.0000
+Next Token : products, Posbility: 0.0000
+Choose : product,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+---------------------------
+Next Token : 
+, Posbility: 0.6826
+Next Token : 
+
+, Posbility: 0.2614
+Next Token : <|endoftext|>, Posbility: 0.0296
+Next Token :  , Posbility: 0.0102
+Next Token :     , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.6826
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+---------------------------
+Next Token : 
+, Posbility: 0.7111
+Next Token : print, Posbility: 0.0665
+Next Token : <|endoftext|>, Posbility: 0.0395
+Next Token :     , Posbility: 0.0316
+Next Token : #, Posbility: 0.0274
+Choose : 
+,  Posbility: 0.7111
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9350
+Next Token : 
+
+, Posbility: 0.0227
+Next Token : <|endoftext|>, Posbility: 0.0175
+Next Token :     , Posbility: 0.0165
+Next Token :         , Posbility: 0.0036
+Choose : 
+,  Posbility: 0.9350
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4675
+Next Token : def, Posbility: 0.1256
+Next Token : #, Posbility: 0.1253
+Next Token : if, Posbility: 0.0676
+Next Token : print, Posbility: 0.0583
+Choose : '',  Posbility: 0.4675
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8513
+Next Token :  Write, Posbility: 0.0257
+Next Token : 
+, Posbility: 0.0220
+Next Token : Find, Posbility: 0.0062
+Next Token : write, Posbility: 0.0043
+Choose : Write,  Posbility: 0.8513
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9901
+Next Token :  your, Posbility: 0.0029
+Next Token :  an, Posbility: 0.0017
+Next Token :  the, Posbility: 0.0012
+Next Token :  function, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9901
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9493
+Next Token :  program, Posbility: 0.0110
+Next Token :  Python, Posbility: 0.0100
+Next Token :  python, Posbility: 0.0052
+Next Token :  recursive, Posbility: 0.0028
+Choose :  function,  Posbility: 0.9493
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7645
+Next Token :  that, Posbility: 0.1786
+Next Token :  which, Posbility: 0.0106
+Next Token :  named, Posbility: 0.0095
+Next Token :  called, Posbility: 0.0079
+Choose :  to,  Posbility: 0.7645
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2618
+Next Token :  return, Posbility: 0.1066
+Next Token :  print, Posbility: 0.0690
+Next Token :  calculate, Posbility: 0.0463
+Next Token :  get, Posbility: 0.0461
+Choose :  find,  Posbility: 0.2618
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.9333
+Next Token :  all, Posbility: 0.0083
+Next Token :  a, Posbility: 0.0064
+Next Token :  minimum, Posbility: 0.0057
+Next Token :  maximum, Posbility: 0.0047
+Choose :  the,  Posbility: 0.9333
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  minimum, Posbility: 0.3437
+Next Token :  maximum, Posbility: 0.2269
+Next Token :  smallest, Posbility: 0.0707
+Next Token :  sum, Posbility: 0.0341
+Next Token :  number, Posbility: 0.0307
+Choose :  minimum,  Posbility: 0.3437
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum
+---------------------------
+Next Token :  absolute, Posbility: 0.8285
+Next Token :  number, Posbility: 0.0430
+Next Token :  of, Posbility: 0.0116
+Next Token :  difference, Posbility: 0.0100
+Next Token :  positive, Posbility: 0.0093
+Choose :  absolute,  Posbility: 0.8285
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute
+---------------------------
+Next Token :  product, Posbility: 0.7310
+Next Token :  difference, Posbility: 0.1492
+Next Token :  value, Posbility: 0.0261
+Next Token :  number, Posbility: 0.0120
+Next Token : 
+, Posbility: 0.0078
+Choose :  product,  Posbility: 0.7310
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product
+---------------------------
+Next Token :  between, Posbility: 0.7060
+Next Token :  of, Posbility: 0.1528
+Next Token :  in, Posbility: 0.0766
+Next Token :  within, Posbility: 0.0075
+Next Token : 
+, Posbility: 0.0051
+Choose :  between,  Posbility: 0.7060
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between
+---------------------------
+Next Token :  numbers, Posbility: 0.8777
+Next Token :  two, Posbility: 0.0596
+Next Token :  elements, Posbility: 0.0138
+Next Token :  a, Posbility: 0.0090
+Next Token :  integers, Posbility: 0.0052
+Choose :  numbers,  Posbility: 0.8777
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers
+---------------------------
+Next Token :  in, Posbility: 0.9867
+Next Token :  within, Posbility: 0.0020
+Next Token : 
+, Posbility: 0.0016
+Next Token :  of, Posbility: 0.0015
+Next Token : .', Posbility: 0.0013
+Choose :  in,  Posbility: 0.9867
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in
+---------------------------
+Next Token :  pairs, Posbility: 0.8997
+Next Token :  a, Posbility: 0.0540
+Next Token :  tu, Posbility: 0.0228
+Next Token :  the, Posbility: 0.0023
+Next Token :  pair, Posbility: 0.0020
+Choose :  pairs,  Posbility: 0.8997
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs
+---------------------------
+Next Token :  of, Posbility: 0.9842
+Next Token : .', Posbility: 0.0083
+Next Token : 
+, Posbility: 0.0019
+Next Token : ., Posbility: 0.0016
+Next Token :  in, Posbility: 0.0015
+Choose :  of,  Posbility: 0.9842
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of
+---------------------------
+Next Token :  tu, Posbility: 0.9829
+Next Token : 
+, Posbility: 0.0040
+Next Token : tu, Posbility: 0.0017
+Next Token :  tuple, Posbility: 0.0016
+Next Token :  numbers, Posbility: 0.0011
+Choose :  tu,  Posbility: 0.9829
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tu
+---------------------------
+Next Token : ples, Posbility: 1.0000
+Next Token : pl, Posbility: 0.0000
+Next Token : plets, Posbility: 0.0000
+Next Token : bs, Posbility: 0.0000
+Next Token : ps, Posbility: 0.0000
+Choose : ples,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples
+---------------------------
+Next Token :  within, Posbility: 0.8699
+Next Token : .', Posbility: 0.0743
+Next Token :  in, Posbility: 0.0312
+Next Token : ., Posbility: 0.0076
+Next Token : 
+, Posbility: 0.0027
+Choose :  within,  Posbility: 0.8699
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within
+---------------------------
+Next Token :  a, Posbility: 0.9905
+Next Token :  the, Posbility: 0.0030
+Next Token :  an, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0015
+Next Token :  , Posbility: 0.0004
+Choose :  a,  Posbility: 0.9905
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a
+---------------------------
+Next Token :  given, Posbility: 0.9750
+Next Token :  list, Posbility: 0.0176
+Next Token : 
+, Posbility: 0.0027
+Next Token :  tuple, Posbility: 0.0017
+Next Token :  , Posbility: 0.0006
+Choose :  given,  Posbility: 0.9750
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a given
+---------------------------
+Next Token :  list, Posbility: 0.9968
+Next Token : 
+, Posbility: 0.0011
+Next Token :  array, Posbility: 0.0007
+Next Token :  set, Posbility: 0.0003
+Next Token :  , Posbility: 0.0003
+Choose :  list,  Posbility: 0.9968
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a given list
+---------------------------
+Next Token : .', Posbility: 0.9430
+Next Token : ., Posbility: 0.0438
+Next Token : '', Posbility: 0.0072
+Next Token :  of, Posbility: 0.0015
+Next Token : ,, Posbility: 0.0007
+Choose : .',  Posbility: 0.9430
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a given list.'
+---------------------------
+Next Token : '', Posbility: 0.9993
+Next Token : 
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9993
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a given list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9660
+Next Token : 
+
+, Posbility: 0.0208
+Next Token : def, Posbility: 0.0057
+Next Token :  , Posbility: 0.0025
+Next Token :     , Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9660
+---------------------------
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a given list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9685
+Next Token : 
+, Posbility: 0.0252
+Next Token : #, Posbility: 0.0027
+Next Token : import, Posbility: 0.0009
+Next Token : from, Posbility: 0.0007
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 17.943866968154907
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the maximum absolute product between numbers in pairs of tuples within a given list.'''
+def max_product(lst):
+    max_product = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            max_product = max(max_product, lst[i][0] * lst[j][0])
+    return max_product
+
+
+'''Write a function to find the minimum absolute product between numbers in pairs of tuples within a given list.'''
+

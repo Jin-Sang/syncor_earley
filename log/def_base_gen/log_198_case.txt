@@ -1,0 +1,1875 @@
+<<<<<<<<<<<< 198 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.4054
+Next Token :  smallest, Posbility: 0.1537
+Next Token :  k, Posbility: 0.1131
+Next Token :  get, Posbility: 0.0210
+Next Token :  Small, Posbility: 0.0178
+Choose :  find,  Posbility: 0.4054
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.5752
+Next Token : K, Posbility: 0.1173
+Next Token : Small, Posbility: 0.1142
+Next Token : (, Posbility: 0.0310
+Next Token : k, Posbility: 0.0268
+Choose : _,  Posbility: 0.5752
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_
+---------------------------
+Next Token : small, Posbility: 0.3282
+Next Token : k, Posbility: 0.3063
+Next Token : min, Posbility: 0.0421
+Next Token : p, Posbility: 0.0402
+Next Token : one, Posbility: 0.0395
+Choose : small,  Posbility: 0.3282
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_small
+---------------------------
+Next Token : est, Posbility: 0.9064
+Next Token : _, Posbility: 0.0620
+Next Token : (, Posbility: 0.0134
+Next Token : er, Posbility: 0.0118
+Next Token : es, Posbility: 0.0011
+Choose : est,  Posbility: 0.9064
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest
+---------------------------
+Next Token : _, Posbility: 0.7376
+Next Token : (, Posbility: 0.2460
+Next Token : ():, Posbility: 0.0046
+Next Token : 2, Posbility: 0.0024
+Next Token : 1, Posbility: 0.0023
+Choose : _,  Posbility: 0.7376
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_
+---------------------------
+Next Token : p, Posbility: 0.6074
+Next Token : pair, Posbility: 0.1434
+Next Token : k, Posbility: 0.0232
+Next Token : number, Posbility: 0.0199
+Next Token : two, Posbility: 0.0178
+Choose : p,  Posbility: 0.6074
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_p
+---------------------------
+Next Token : airs, Posbility: 0.9921
+Next Token : air, Posbility: 0.0030
+Next Token : (, Posbility: 0.0010
+Next Token : ossible, Posbility: 0.0009
+Next Token : _, Posbility: 0.0004
+Choose : airs,  Posbility: 0.9921
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs
+---------------------------
+Next Token : (, Posbility: 0.8676
+Next Token : _, Posbility: 0.1031
+Next Token : ():, Posbility: 0.0156
+Next Token : 1, Posbility: 0.0053
+Next Token :  (, Posbility: 0.0026
+Choose : (,  Posbility: 0.8676
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(
+---------------------------
+Next Token : arr, Posbility: 0.5652
+Next Token : first, Posbility: 0.0813
+Next Token : a, Posbility: 0.0812
+Next Token : array, Posbility: 0.0690
+Next Token : n, Posbility: 0.0526
+Choose : arr,  Posbility: 0.5652
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr
+---------------------------
+Next Token : 1, Posbility: 0.4313
+Next Token : ,, Posbility: 0.4283
+Next Token : ):, Posbility: 0.0979
+Next Token : _, Posbility: 0.0236
+Next Token : :, Posbility: 0.0075
+Choose : 1,  Posbility: 0.4313
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1
+---------------------------
+Next Token : ,, Posbility: 0.9726
+Next Token : :, Posbility: 0.0123
+Next Token : ):, Posbility: 0.0073
+Next Token : _, Posbility: 0.0024
+Next Token : ,, Posbility: 0.0023
+Choose : ,,  Posbility: 0.9726
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1,
+---------------------------
+Next Token :  arr, Posbility: 0.7667
+Next Token : arr, Posbility: 0.2241
+Next Token :  num, Posbility: 0.0009
+Next Token :  n, Posbility: 0.0007
+Next Token :  k, Posbility: 0.0005
+Choose :  arr,  Posbility: 0.7667
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr
+---------------------------
+Next Token : 2, Posbility: 0.9996
+Next Token : 1, Posbility: 0.0003
+Next Token : _, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token : 0, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9996
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2
+---------------------------
+Next Token : ):, Posbility: 0.7292
+Next Token : ,, Posbility: 0.2667
+Next Token : ), Posbility: 0.0024
+Next Token : =, Posbility: 0.0007
+Next Token :  ):, Posbility: 0.0003
+Choose : ):,  Posbility: 0.7292
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+---------------------------
+Next Token : 
+, Posbility: 0.9188
+Next Token : 
+
+, Posbility: 0.0400
+Next Token : , Posbility: 0.0217
+Next Token :  , Posbility: 0.0113
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9188
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+
+---------------------------
+Next Token :     , Posbility: 0.9329
+Next Token : 	, Posbility: 0.0288
+Next Token :   , Posbility: 0.0241
+Next Token :         , Posbility: 0.0066
+Next Token :    , Posbility: 0.0031
+Choose :     ,  Posbility: 0.9329
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    
+---------------------------
+Next Token : small, Posbility: 0.1543
+Next Token : arr, Posbility: 0.1167
+Next Token : #, Posbility: 0.0748
+Next Token : if, Posbility: 0.0632
+Next Token : '', Posbility: 0.0606
+Choose : small,  Posbility: 0.1543
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    small
+---------------------------
+Next Token : est, Posbility: 0.8168
+Next Token : _, Posbility: 0.1096
+Next Token :  =, Posbility: 0.0271
+Next Token : er, Posbility: 0.0124
+Next Token : =, Posbility: 0.0065
+Choose : est,  Posbility: 0.8168
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest
+---------------------------
+Next Token : _, Posbility: 0.7412
+Next Token :  =, Posbility: 0.1991
+Next Token : P, Posbility: 0.0188
+Next Token : =, Posbility: 0.0123
+Next Token : pair, Posbility: 0.0058
+Choose : _,  Posbility: 0.7412
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_
+---------------------------
+Next Token : p, Posbility: 0.5817
+Next Token : pair, Posbility: 0.1404
+Next Token : arr, Posbility: 0.0521
+Next Token : count, Posbility: 0.0274
+Next Token : list, Posbility: 0.0163
+Choose : p,  Posbility: 0.5817
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_p
+---------------------------
+Next Token : airs, Posbility: 0.9934
+Next Token : air, Posbility: 0.0019
+Next Token : ossible, Posbility: 0.0013
+Next Token :  =, Posbility: 0.0010
+Next Token : _, Posbility: 0.0004
+Choose : airs,  Posbility: 0.9934
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs
+---------------------------
+Next Token :  =, Posbility: 0.8813
+Next Token : _, Posbility: 0.0798
+Next Token : =, Posbility: 0.0261
+Next Token : ,, Posbility: 0.0048
+Next Token : 1, Posbility: 0.0024
+Choose :  =,  Posbility: 0.8813
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs =
+---------------------------
+Next Token :  [], Posbility: 0.7247
+Next Token :  0, Posbility: 0.1244
+Next Token :  {}, Posbility: 0.0333
+Next Token :  list, Posbility: 0.0145
+Next Token :  [, Posbility: 0.0141
+Choose :  [],  Posbility: 0.7247
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+---------------------------
+Next Token : 
+, Posbility: 0.8486
+Next Token : 
+
+, Posbility: 0.1391
+Next Token :  , Posbility: 0.0042
+Next Token :  #, Posbility: 0.0032
+Next Token :   , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.8486
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+
+---------------------------
+Next Token :     , Posbility: 0.9954
+Next Token :         , Posbility: 0.0008
+Next Token :    , Posbility: 0.0007
+Next Token : 	, Posbility: 0.0007
+Next Token :  , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9954
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    
+---------------------------
+Next Token : for, Posbility: 0.2649
+Next Token : small, Posbility: 0.1261
+Next Token : arr, Posbility: 0.0962
+Next Token : i, Posbility: 0.0462
+Next Token : #, Posbility: 0.0346
+Choose : for,  Posbility: 0.2649
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6763
+Next Token :  index, Posbility: 0.0626
+Next Token :  x, Posbility: 0.0322
+Next Token :  num, Posbility: 0.0243
+Next Token :  arr, Posbility: 0.0194
+Choose :  i,  Posbility: 0.6763
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9546
+Next Token : ,, Posbility: 0.0390
+Next Token : 1, Posbility: 0.0053
+Next Token : _, Posbility: 0.0007
+Next Token :   , Posbility: 0.0001
+Choose :  in,  Posbility: 0.9546
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9285
+Next Token :  arr, Posbility: 0.0650
+Next Token :  set, Posbility: 0.0009
+Next Token :  zip, Posbility: 0.0008
+Next Token :  sorted, Posbility: 0.0007
+Choose :  range,  Posbility: 0.9285
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9885
+Next Token :  (, Posbility: 0.0100
+Next Token : ((, Posbility: 0.0009
+Next Token : (-, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9885
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8039
+Next Token : 0, Posbility: 0.1427
+Next Token : 1, Posbility: 0.0248
+Next Token : min, Posbility: 0.0086
+Next Token : arr, Posbility: 0.0067
+Choose : len,  Posbility: 0.8039
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9991
+Next Token : ((, Posbility: 0.0007
+Next Token : ({, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Choose : (,  Posbility: 0.9991
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9981
+Next Token : set, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : min, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Choose : arr,  Posbility: 0.9981
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr
+---------------------------
+Next Token : 1, Posbility: 0.9752
+Next Token : 2, Posbility: 0.0246
+Next Token : ), Posbility: 0.0001
+Next Token : 3, Posbility: 0.0000
+Next Token : )-, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9752
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1
+---------------------------
+Next Token : ), Posbility: 0.9504
+Next Token : )-, Posbility: 0.0312
+Next Token : )+, Posbility: 0.0135
+Next Token : [, Posbility: 0.0018
+Next Token : )), Posbility: 0.0018
+Choose : ),  Posbility: 0.9504
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)
+---------------------------
+Next Token : ):, Posbility: 0.9385
+Next Token :  -, Posbility: 0.0451
+Next Token :  +, Posbility: 0.0154
+Next Token :  *, Posbility: 0.0003
+Next Token :  ):, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9385
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+---------------------------
+Next Token : 
+, Posbility: 0.9820
+Next Token : 
+
+, Posbility: 0.0042
+Next Token :  , Posbility: 0.0038
+Next Token :  #, Posbility: 0.0037
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9820
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+
+---------------------------
+Next Token :         , Posbility: 0.9873
+Next Token :       , Posbility: 0.0050
+Next Token :             , Posbility: 0.0029
+Next Token :        , Posbility: 0.0015
+Next Token :     , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9873
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        
+---------------------------
+Next Token : for, Posbility: 0.6130
+Next Token : if, Posbility: 0.1225
+Next Token : small, Posbility: 0.0725
+Next Token : count, Posbility: 0.0194
+Next Token : min, Posbility: 0.0155
+Choose : for,  Posbility: 0.6130
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9820
+Next Token :  k, Posbility: 0.0084
+Next Token :  x, Posbility: 0.0018
+Next Token :  n, Posbility: 0.0010
+Next Token :  y, Posbility: 0.0009
+Choose :  j,  Posbility: 0.9820
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9995
+Next Token : ,, Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9995
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9995
+Next Token :  arr, Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Next Token :  reversed, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Choose :  range,  Posbility: 0.9995
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9958
+Next Token :  (, Posbility: 0.0039
+Next Token : ((, Posbility: 0.0002
+Next Token : :, Posbility: 0.0000
+Next Token : ():, Posbility: 0.0000
+Choose : (,  Posbility: 0.9958
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(
+---------------------------
+Next Token : len, Posbility: 0.9040
+Next Token : i, Posbility: 0.0834
+Next Token : 0, Posbility: 0.0053
+Next Token : 1, Posbility: 0.0048
+Next Token :  len, Posbility: 0.0011
+Choose : len,  Posbility: 0.9040
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token :  (, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token : ar, Posbility: 0.0000
+Next Token :  arr, Posbility: 0.0000
+Next Token : array, Posbility: 0.0000
+Choose : arr,  Posbility: 0.9999
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr
+---------------------------
+Next Token : 2, Posbility: 0.9431
+Next Token : 1, Posbility: 0.0569
+Next Token : _, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Choose : 2,  Posbility: 0.9431
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2
+---------------------------
+Next Token : ), Posbility: 0.9920
+Next Token : [, Posbility: 0.0052
+Next Token : )-, Posbility: 0.0020
+Next Token : )+, Posbility: 0.0004
+Next Token : ),, Posbility: 0.0001
+Choose : ),  Posbility: 0.9920
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)
+---------------------------
+Next Token : ):, Posbility: 0.9997
+Next Token :  -, Posbility: 0.0003
+Next Token :  ):, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Next Token : //, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9997
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+---------------------------
+Next Token : 
+, Posbility: 0.9927
+Next Token : 
+
+, Posbility: 0.0047
+Next Token :  , Posbility: 0.0013
+Next Token :   , Posbility: 0.0003
+Next Token :  #, Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9927
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+
+---------------------------
+Next Token :             , Posbility: 0.9928
+Next Token :                 , Posbility: 0.0023
+Next Token :            , Posbility: 0.0015
+Next Token :           , Posbility: 0.0009
+Next Token :              , Posbility: 0.0009
+Choose :             ,  Posbility: 0.9928
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            
+---------------------------
+Next Token : if, Posbility: 0.8577
+Next Token : #, Posbility: 0.0221
+Next Token : small, Posbility: 0.0221
+Next Token : pair, Posbility: 0.0074
+Next Token : p, Posbility: 0.0065
+Choose : if,  Posbility: 0.8577
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if
+---------------------------
+Next Token :  arr, Posbility: 0.7474
+Next Token :  (, Posbility: 0.0950
+Next Token :  i, Posbility: 0.0461
+Next Token : (, Posbility: 0.0342
+Next Token :  abs, Posbility: 0.0287
+Choose :  arr,  Posbility: 0.7474
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr
+---------------------------
+Next Token : 1, Posbility: 0.9889
+Next Token : 2, Posbility: 0.0108
+Next Token : _, Posbility: 0.0002
+Next Token : 3, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9889
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1
+---------------------------
+Next Token : [, Posbility: 0.9984
+Next Token : ., Posbility: 0.0009
+Next Token :  [, Posbility: 0.0002
+Next Token :  ==, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0000
+Choose : [,  Posbility: 0.9984
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[
+---------------------------
+Next Token : i, Posbility: 0.9958
+Next Token : j, Posbility: 0.0032
+Next Token : 0, Posbility: 0.0006
+Next Token : (, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : i,  Posbility: 0.9958
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i
+---------------------------
+Next Token : ], Posbility: 0.9879
+Next Token : ]+, Posbility: 0.0046
+Next Token : ][, Posbility: 0.0039
+Next Token : ]-, Posbility: 0.0019
+Next Token : ]., Posbility: 0.0009
+Choose : ],  Posbility: 0.9879
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i]
+---------------------------
+Next Token :  ==, Posbility: 0.5446
+Next Token :  <, Posbility: 0.1587
+Next Token :  +, Posbility: 0.0858
+Next Token : !=, Posbility: 0.0597
+Next Token :  >, Posbility: 0.0545
+Choose :  ==,  Posbility: 0.5446
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] ==
+---------------------------
+Next Token :  arr, Posbility: 0.9942
+Next Token :  1, Posbility: 0.0019
+Next Token :  0, Posbility: 0.0009
+Next Token :  2, Posbility: 0.0005
+Next Token :  (, Posbility: 0.0003
+Choose :  arr,  Posbility: 0.9942
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr
+---------------------------
+Next Token : 2, Posbility: 0.9939
+Next Token : 1, Posbility: 0.0060
+Next Token : [, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9939
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token :  [, Posbility: 0.0001
+Next Token : :, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[
+---------------------------
+Next Token : j, Posbility: 0.9981
+Next Token : i, Posbility: 0.0010
+Next Token : 0, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Choose : j,  Posbility: 0.9981
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j
+---------------------------
+Next Token : ]:, Posbility: 0.6518
+Next Token : ], Posbility: 0.3464
+Next Token : ][, Posbility: 0.0009
+Next Token : ]., Posbility: 0.0003
+Next Token : ]+, Posbility: 0.0002
+Choose : ]:,  Posbility: 0.6518
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+---------------------------
+Next Token : 
+, Posbility: 0.9880
+Next Token :  #, Posbility: 0.0026
+Next Token :  , Posbility: 0.0024
+Next Token :   , Posbility: 0.0020
+Next Token :  continue, Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9880
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+
+---------------------------
+Next Token :                 , Posbility: 0.9961
+Next Token :                , Posbility: 0.0014
+Next Token :                     , Posbility: 0.0008
+Next Token :                  , Posbility: 0.0006
+Next Token :               , Posbility: 0.0004
+Choose :                 ,  Posbility: 0.9961
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                
+---------------------------
+Next Token : small, Posbility: 0.7446
+Next Token : if, Posbility: 0.0915
+Next Token : continue, Posbility: 0.0618
+Next Token : pass, Posbility: 0.0150
+Next Token : p, Posbility: 0.0096
+Choose : small,  Posbility: 0.7446
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                small
+---------------------------
+Next Token : est, Posbility: 0.9775
+Next Token : _, Posbility: 0.0138
+Next Token :  =, Posbility: 0.0031
+Next Token : er, Posbility: 0.0023
+Next Token : es, Posbility: 0.0014
+Choose : est,  Posbility: 0.9775
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest
+---------------------------
+Next Token : _, Posbility: 0.9950
+Next Token :  =, Posbility: 0.0047
+Next Token : pair, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : _,  Posbility: 0.9950
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_
+---------------------------
+Next Token : p, Posbility: 0.9902
+Next Token : pair, Posbility: 0.0055
+Next Token : arr, Posbility: 0.0006
+Next Token : value, Posbility: 0.0004
+Next Token : index, Posbility: 0.0001
+Choose : p,  Posbility: 0.9902
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_p
+---------------------------
+Next Token : airs, Posbility: 0.9992
+Next Token : air, Posbility: 0.0005
+Next Token :  =, Posbility: 0.0001
+Next Token : ars, Posbility: 0.0001
+Next Token : ares, Posbility: 0.0000
+Choose : airs,  Posbility: 0.9992
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs
+---------------------------
+Next Token : ., Posbility: 0.9727
+Next Token :  =, Posbility: 0.0128
+Next Token :  +=, Posbility: 0.0112
+Next Token : [, Posbility: 0.0022
+Next Token : _, Posbility: 0.0007
+Choose : .,  Posbility: 0.9727
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.
+---------------------------
+Next Token : append, Posbility: 0.9956
+Next Token : ext, Posbility: 0.0032
+Next Token : insert, Posbility: 0.0007
+Next Token : add, Posbility: 0.0001
+Next Token : clear, Posbility: 0.0001
+Choose : append,  Posbility: 0.9956
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append
+---------------------------
+Next Token : ([, Posbility: 0.5283
+Next Token : ((, Posbility: 0.3053
+Next Token : (, Posbility: 0.1570
+Next Token : ({, Posbility: 0.0065
+Next Token : (', Posbility: 0.0014
+Choose : ([,  Posbility: 0.5283
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([
+---------------------------
+Next Token : arr, Posbility: 0.8038
+Next Token : i, Posbility: 0.1801
+Next Token : (, Posbility: 0.0026
+Next Token : j, Posbility: 0.0019
+Next Token : str, Posbility: 0.0013
+Choose : arr,  Posbility: 0.8038
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr
+---------------------------
+Next Token : 1, Posbility: 0.9886
+Next Token : 2, Posbility: 0.0113
+Next Token : [, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : i, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9886
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1
+---------------------------
+Next Token : [, Posbility: 0.9954
+Next Token : ., Posbility: 0.0023
+Next Token : ,, Posbility: 0.0021
+Next Token :  [, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9954
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[
+---------------------------
+Next Token : i, Posbility: 0.9985
+Next Token : j, Posbility: 0.0011
+Next Token : 0, Posbility: 0.0002
+Next Token : (, Posbility: 0.0001
+Next Token : -, Posbility: 0.0000
+Choose : i,  Posbility: 0.9985
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i
+---------------------------
+Next Token : ],, Posbility: 0.9807
+Next Token : ]], Posbility: 0.0107
+Next Token : ], Posbility: 0.0032
+Next Token : -, Posbility: 0.0010
+Next Token : ]., Posbility: 0.0009
+Choose : ],,  Posbility: 0.9807
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i],
+---------------------------
+Next Token :  arr, Posbility: 0.8335
+Next Token : arr, Posbility: 0.1435
+Next Token :  i, Posbility: 0.0070
+Next Token :  j, Posbility: 0.0063
+Next Token : j, Posbility: 0.0017
+Choose :  arr,  Posbility: 0.8335
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr
+---------------------------
+Next Token : 2, Posbility: 0.9543
+Next Token : 1, Posbility: 0.0456
+Next Token : _, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9543
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token : ]), Posbility: 0.0002
+Next Token : ,, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token :  [, Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[
+---------------------------
+Next Token : j, Posbility: 0.9958
+Next Token : i, Posbility: 0.0040
+Next Token : (, Posbility: 0.0001
+Next Token : 0, Posbility: 0.0000
+Next Token : k, Posbility: 0.0000
+Choose : j,  Posbility: 0.9958
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j
+---------------------------
+Next Token : ]], Posbility: 0.9878
+Next Token : ],, Posbility: 0.0097
+Next Token : ], Posbility: 0.0020
+Next Token : ]+, Posbility: 0.0002
+Next Token : +, Posbility: 0.0001
+Choose : ]],  Posbility: 0.9878
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]]
+---------------------------
+Next Token : ), Posbility: 0.9994
+Next Token :  +, Posbility: 0.0002
+Next Token :  ), Posbility: 0.0002
+Next Token : );, Posbility: 0.0001
+Next Token : +, Posbility: 0.0000
+Choose : ),  Posbility: 0.9994
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+---------------------------
+Next Token : 
+, Posbility: 0.8544
+Next Token : 
+
+, Posbility: 0.1355
+Next Token :  , Posbility: 0.0034
+Next Token :  #, Posbility: 0.0014
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.8544
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+
+---------------------------
+Next Token :     , Posbility: 0.8234
+Next Token :                 , Posbility: 0.1219
+Next Token :             , Posbility: 0.0387
+Next Token :         , Posbility: 0.0107
+Next Token : 
+, Posbility: 0.0021
+Choose :     ,  Posbility: 0.8234
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    
+---------------------------
+Next Token : return, Posbility: 0.6464
+Next Token : small, Posbility: 0.1662
+Next Token : print, Posbility: 0.0597
+Next Token : 
+, Posbility: 0.0388
+Next Token : if, Posbility: 0.0213
+Choose : return,  Posbility: 0.6464
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return
+---------------------------
+Next Token :  smallest, Posbility: 0.9047
+Next Token :  sorted, Posbility: 0.0442
+Next Token :  len, Posbility: 0.0093
+Next Token : (, Posbility: 0.0082
+Next Token :  min, Posbility: 0.0042
+Choose :  smallest,  Posbility: 0.9047
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_
+---------------------------
+Next Token : p, Posbility: 0.9999
+Next Token : pair, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Choose : p,  Posbility: 0.9999
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_p
+---------------------------
+Next Token : airs, Posbility: 1.0000
+Next Token : ars, Posbility: 0.0000
+Next Token : air, Posbility: 0.0000
+Next Token : ares, Posbility: 0.0000
+Next Token : aires, Posbility: 0.0000
+Choose : airs,  Posbility: 1.0000
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+---------------------------
+Next Token : 
+, Posbility: 0.6924
+Next Token : 
+
+, Posbility: 0.2820
+Next Token :  , Posbility: 0.0061
+Next Token : <|endoftext|>, Posbility: 0.0055
+Next Token : [, Posbility: 0.0047
+Choose : 
+,  Posbility: 0.6924
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+---------------------------
+Next Token : 
+, Posbility: 0.7770
+Next Token : print, Posbility: 0.0422
+Next Token : <|endoftext|>, Posbility: 0.0375
+Next Token :     , Posbility: 0.0301
+Next Token : #, Posbility: 0.0202
+Choose : 
+,  Posbility: 0.7770
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9581
+Next Token : 
+
+, Posbility: 0.0172
+Next Token :     , Posbility: 0.0114
+Next Token : <|endoftext|>, Posbility: 0.0085
+Next Token :         , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9581
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4066
+Next Token : #, Posbility: 0.1295
+Next Token : print, Posbility: 0.0950
+Next Token : arr, Posbility: 0.0923
+Next Token : def, Posbility: 0.0916
+Choose : '',  Posbility: 0.4066
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : This, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8169
+Next Token : 
+, Posbility: 0.0247
+Next Token :  Write, Posbility: 0.0232
+Next Token : Find, Posbility: 0.0132
+Next Token : Given, Posbility: 0.0065
+Choose : Write,  Posbility: 0.8169
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9911
+Next Token :  your, Posbility: 0.0022
+Next Token :  an, Posbility: 0.0018
+Next Token :  function, Posbility: 0.0017
+Next Token :  the, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9911
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9180
+Next Token :  Python, Posbility: 0.0231
+Next Token :  python, Posbility: 0.0131
+Next Token :  program, Posbility: 0.0128
+Next Token :  recursive, Posbility: 0.0050
+Choose :  function,  Posbility: 0.9180
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7419
+Next Token :  that, Posbility: 0.1249
+Next Token :  which, Posbility: 0.0594
+Next Token :  called, Posbility: 0.0094
+Next Token :  named, Posbility: 0.0088
+Choose :  to,  Posbility: 0.7419
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2469
+Next Token :  print, Posbility: 0.1168
+Next Token :  return, Posbility: 0.0898
+Next Token :  sort, Posbility: 0.0574
+Next Token :  check, Posbility: 0.0555
+Choose :  find,  Posbility: 0.2469
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.4419
+Next Token :  k, Posbility: 0.2028
+Next Token :  all, Posbility: 0.0479
+Next Token :  number, Posbility: 0.0319
+Next Token :  minimum, Posbility: 0.0268
+Choose :  the,  Posbility: 0.4419
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  number, Posbility: 0.1354
+Next Token :  smallest, Posbility: 0.0963
+Next Token :  minimum, Posbility: 0.0874
+Next Token :  k, Posbility: 0.0835
+Next Token :  sum, Posbility: 0.0466
+Choose :  number,  Posbility: 0.1354
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number
+---------------------------
+Next Token :  of, Posbility: 0.9808
+Next Token :  in, Posbility: 0.0026
+Next Token :  which, Posbility: 0.0020
+Next Token :  with, Posbility: 0.0011
+Next Token :  k, Posbility: 0.0011
+Choose :  of,  Posbility: 0.9808
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of
+---------------------------
+Next Token :  pairs, Posbility: 0.2052
+Next Token :  unique, Posbility: 0.0560
+Next Token :  occurrences, Posbility: 0.0521
+Next Token :  elements, Posbility: 0.0464
+Next Token :  distinct, Posbility: 0.0344
+Choose :  pairs,  Posbility: 0.2052
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs
+---------------------------
+Next Token :  of, Posbility: 0.4323
+Next Token :  in, Posbility: 0.1159
+Next Token :  which, Posbility: 0.0992
+Next Token :  that, Posbility: 0.0548
+Next Token :  with, Posbility: 0.0427
+Choose :  of,  Posbility: 0.4323
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of
+---------------------------
+Next Token :  elements, Posbility: 0.2302
+Next Token :  two, Posbility: 0.1033
+Next Token :  the, Posbility: 0.0547
+Next Token :  given, Posbility: 0.0530
+Next Token :  numbers, Posbility: 0.0416
+Choose :  elements,  Posbility: 0.2302
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements
+---------------------------
+Next Token :  in, Posbility: 0.2183
+Next Token :  which, Posbility: 0.2163
+Next Token :  that, Posbility: 0.1979
+Next Token :  from, Posbility: 0.0476
+Next Token :  with, Posbility: 0.0419
+Choose :  in,  Posbility: 0.2183
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in
+---------------------------
+Next Token :  the, Posbility: 0.3296
+Next Token :  two, Posbility: 0.1954
+Next Token :  an, Posbility: 0.1268
+Next Token :  a, Posbility: 0.1200
+Next Token :  array, Posbility: 0.0306
+Choose :  the,  Posbility: 0.3296
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the
+---------------------------
+Next Token :  array, Posbility: 0.4206
+Next Token :  given, Posbility: 0.1749
+Next Token :  first, Posbility: 0.1232
+Next Token :  list, Posbility: 0.0333
+Next Token :  following, Posbility: 0.0293
+Choose :  array,  Posbility: 0.4206
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array
+---------------------------
+Next Token :  which, Posbility: 0.3039
+Next Token :  that, Posbility: 0.1607
+Next Token : .', Posbility: 0.1078
+Next Token : ., Posbility: 0.0777
+Next Token :  whose, Posbility: 0.0399
+Choose :  which,  Posbility: 0.3039
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which
+---------------------------
+Next Token :  are, Posbility: 0.2881
+Next Token :  have, Posbility: 0.1661
+Next Token :  sum, Posbility: 0.0729
+Next Token :  consist, Posbility: 0.0514
+Next Token :  has, Posbility: 0.0392
+Choose :  are,  Posbility: 0.2881
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are
+---------------------------
+Next Token :  in, Posbility: 0.0923
+Next Token :  equal, Posbility: 0.0571
+Next Token :  not, Posbility: 0.0484
+Next Token :  less, Posbility: 0.0462
+Next Token :  present, Posbility: 0.0455
+Choose :  in,  Posbility: 0.0923
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in
+---------------------------
+Next Token :  the, Posbility: 0.2755
+Next Token :  a, Posbility: 0.0773
+Next Token :  sorted, Posbility: 0.0670
+Next Token :  order, Posbility: 0.0623
+Next Token :  ascending, Posbility: 0.0461
+Choose :  the,  Posbility: 0.2755
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the
+---------------------------
+Next Token :  same, Posbility: 0.4259
+Next Token :  range, Posbility: 0.0682
+Next Token :  given, Posbility: 0.0555
+Next Token :  middle, Posbility: 0.0462
+Next Token :  order, Posbility: 0.0433
+Choose :  same,  Posbility: 0.4259
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same
+---------------------------
+Next Token :  order, Posbility: 0.2984
+Next Token :  position, Posbility: 0.1681
+Next Token :  index, Posbility: 0.0924
+Next Token :  direction, Posbility: 0.0541
+Next Token :  positions, Posbility: 0.0242
+Choose :  order,  Posbility: 0.2984
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order
+---------------------------
+Next Token :  as, Posbility: 0.3416
+Next Token : .', Posbility: 0.2299
+Next Token : ., Posbility: 0.1326
+Next Token :  of, Posbility: 0.0543
+Next Token :  and, Posbility: 0.0415
+Choose :  as,  Posbility: 0.3416
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as
+---------------------------
+Next Token :  the, Posbility: 0.3371
+Next Token :  they, Posbility: 0.2201
+Next Token :  in, Posbility: 0.0826
+Next Token :  their, Posbility: 0.0749
+Next Token :  given, Posbility: 0.0304
+Choose :  the,  Posbility: 0.3371
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the
+---------------------------
+Next Token :  given, Posbility: 0.2071
+Next Token :  input, Posbility: 0.1872
+Next Token :  array, Posbility: 0.0939
+Next Token :  first, Posbility: 0.0576
+Next Token :  elements, Posbility: 0.0544
+Choose :  given,  Posbility: 0.2071
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the given
+---------------------------
+Next Token :  array, Posbility: 0.7268
+Next Token :  index, Posbility: 0.0302
+Next Token :  input, Posbility: 0.0269
+Next Token :  list, Posbility: 0.0268
+Next Token :  elements, Posbility: 0.0168
+Choose :  array,  Posbility: 0.7268
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the given array
+---------------------------
+Next Token : .', Posbility: 0.5415
+Next Token : ., Posbility: 0.2909
+Next Token :  and, Posbility: 0.0229
+Next Token : '', Posbility: 0.0192
+Next Token : ,, Posbility: 0.0175
+Choose : .',  Posbility: 0.5415
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the given array.'
+---------------------------
+Next Token : '', Posbility: 0.9984
+Next Token : 
+, Posbility: 0.0010
+Next Token :  ', Posbility: 0.0004
+Next Token :  '', Posbility: 0.0001
+Next Token :  , Posbility: 0.0000
+Choose : '',  Posbility: 0.9984
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the given array.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9059
+Next Token : 
+
+, Posbility: 0.0871
+Next Token :  , Posbility: 0.0024
+Next Token : def, Posbility: 0.0015
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9059
+---------------------------
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the given array.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9082
+Next Token : 
+, Posbility: 0.0648
+Next Token : #, Posbility: 0.0136
+Next Token : '', Posbility: 0.0028
+Next Token : from, Posbility: 0.0021
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 24.218052625656128
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find k number of smallest pairs which consist of one element from the first array and one element from the second array.'''
+def find_smallest_pairs(arr1, arr2):
+    smallest_pairs = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                smallest_pairs.append([arr1[i], arr2[j]])
+    return smallest_pairs
+
+
+'''Write a function to find the number of pairs of elements in the array which are in the same order as the given array.'''
+

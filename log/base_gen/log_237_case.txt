@@ -1,0 +1,2044 @@
+<<<<<<<<<<<< 237 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2161
+Next Token : iz, Posbility: 0.0914
+Next Token : ix, Posbility: 0.0721
+Next Token : xt, Posbility: 0.0578
+Next Token : ____, Posbility: 0.0454
+Choose : 
+,  Posbility: 0.2161
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+
+---------------------------
+Next Token : import, Posbility: 0.1566
+Next Token : '', Posbility: 0.1102
+Next Token : #, Posbility: 0.1101
+Next Token : from, Posbility: 0.0751
+Next Token : def, Posbility: 0.0721
+Choose : import,  Posbility: 0.1566
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import
+---------------------------
+Next Token :  re, Posbility: 0.1974
+Next Token :  string, Posbility: 0.1285
+Next Token :  sys, Posbility: 0.1039
+Next Token :  os, Posbility: 0.0918
+Next Token :  random, Posbility: 0.0572
+Choose :  re,  Posbility: 0.1974
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+---------------------------
+Next Token : 
+, Posbility: 0.8619
+Next Token : ,, Posbility: 0.0420
+Next Token : 
+
+, Posbility: 0.0392
+Next Token :  , Posbility: 0.0226
+Next Token :  #, Posbility: 0.0111
+Choose : 
+,  Posbility: 0.8619
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+---------------------------
+Next Token : 
+, Posbility: 0.4224
+Next Token : def, Posbility: 0.1646
+Next Token : import, Posbility: 0.0871
+Next Token : #, Posbility: 0.0378
+Next Token : from, Posbility: 0.0377
+Choose : 
+,  Posbility: 0.4224
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9810
+Next Token : 
+
+, Posbility: 0.0109
+Next Token :  , Posbility: 0.0033
+Next Token :     , Posbility: 0.0015
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9810
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.5353
+Next Token : #, Posbility: 0.1417
+Next Token : class, Posbility: 0.0488
+Next Token : 
+, Posbility: 0.0247
+Next Token : '', Posbility: 0.0198
+Choose : def,  Posbility: 0.5353
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def
+---------------------------
+Next Token :  extract, Posbility: 0.1829
+Next Token :  main, Posbility: 0.0932
+Next Token :  get, Posbility: 0.0716
+Next Token :  size, Posbility: 0.0331
+Next Token :  string, Posbility: 0.0284
+Choose :  extract,  Posbility: 0.1829
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract
+---------------------------
+Next Token : _, Posbility: 0.7025
+Next Token : (, Posbility: 0.1518
+Next Token : Size, Posbility: 0.0387
+Next Token : S, Posbility: 0.0108
+Next Token : ():, Posbility: 0.0055
+Choose : _,  Posbility: 0.7025
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_
+---------------------------
+Next Token : size, Posbility: 0.4533
+Next Token : string, Posbility: 0.0492
+Next Token : strings, Posbility: 0.0244
+Next Token : s, Posbility: 0.0234
+Next Token : text, Posbility: 0.0218
+Choose : size,  Posbility: 0.4533
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size
+---------------------------
+Next Token : (, Posbility: 0.8624
+Next Token : _, Posbility: 0.1173
+Next Token : ():, Posbility: 0.0120
+Next Token :  (, Posbility: 0.0029
+Next Token : (_, Posbility: 0.0013
+Choose : (,  Posbility: 0.8624
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(
+---------------------------
+Next Token : list, Posbility: 0.1425
+Next Token : string, Posbility: 0.1033
+Next Token : str, Posbility: 0.0764
+Next Token : values, Posbility: 0.0540
+Next Token : text, Posbility: 0.0519
+Choose : list,  Posbility: 0.1425
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list
+---------------------------
+Next Token : _, Posbility: 0.6511
+Next Token : ,, Posbility: 0.1359
+Next Token : ):, Posbility: 0.1192
+Next Token : 1, Posbility: 0.0381
+Next Token : :, Posbility: 0.0089
+Choose : _,  Posbility: 0.6511
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_
+---------------------------
+Next Token : of, Posbility: 0.5633
+Next Token : str, Posbility: 0.0666
+Next Token : string, Posbility: 0.0573
+Next Token : strings, Posbility: 0.0436
+Next Token : values, Posbility: 0.0407
+Choose : of,  Posbility: 0.5633
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of
+---------------------------
+Next Token : _, Posbility: 0.9992
+Next Token : ,, Posbility: 0.0003
+Next Token : :, Posbility: 0.0002
+Next Token : ):, Posbility: 0.0001
+Next Token : strings, Posbility: 0.0001
+Choose : _,  Posbility: 0.9992
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_
+---------------------------
+Next Token : strings, Posbility: 0.7253
+Next Token : str, Posbility: 0.0726
+Next Token : string, Posbility: 0.0497
+Next Token : values, Posbility: 0.0407
+Next Token : words, Posbility: 0.0169
+Choose : strings,  Posbility: 0.7253
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings
+---------------------------
+Next Token : ,, Posbility: 0.4881
+Next Token : ):, Posbility: 0.4424
+Next Token : :, Posbility: 0.0505
+Next Token : _, Posbility: 0.0141
+Next Token : ), Posbility: 0.0015
+Choose : ,,  Posbility: 0.4881
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings,
+---------------------------
+Next Token :  size, Posbility: 0.6517
+Next Token :  string, Posbility: 0.0218
+Next Token :  num, Posbility: 0.0208
+Next Token : size, Posbility: 0.0191
+Next Token :  number, Posbility: 0.0172
+Choose :  size,  Posbility: 0.6517
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size
+---------------------------
+Next Token : ):, Posbility: 0.7862
+Next Token : _, Posbility: 0.1120
+Next Token : =, Posbility: 0.0560
+Next Token : ,, Posbility: 0.0201
+Next Token :  =, Posbility: 0.0136
+Choose : ):,  Posbility: 0.7862
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+---------------------------
+Next Token : 
+, Posbility: 0.9317
+Next Token : 
+
+, Posbility: 0.0534
+Next Token :  , Posbility: 0.0048
+Next Token :   , Posbility: 0.0039
+Next Token :  #, Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9317
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+
+---------------------------
+Next Token :     , Posbility: 0.9485
+Next Token : 	, Posbility: 0.0254
+Next Token :   , Posbility: 0.0183
+Next Token :    , Posbility: 0.0024
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9485
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    
+---------------------------
+Next Token : '', Posbility: 0.5904
+Next Token : """, Posbility: 0.0556
+Next Token : for, Posbility: 0.0362
+Next Token : result, Posbility: 0.0257
+Next Token : #, Posbility: 0.0247
+Choose : '',  Posbility: 0.5904
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''
+---------------------------
+Next Token : Ext, Posbility: 0.1987
+Next Token : 
+, Posbility: 0.1723
+Next Token : Function, Posbility: 0.0719
+Next Token : Return, Posbility: 0.0445
+Next Token : Take, Posbility: 0.0406
+Choose : Ext,  Posbility: 0.1987
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Ext
+---------------------------
+Next Token : ract, Posbility: 0.9931
+Next Token : raction, Posbility: 0.0031
+Next Token : racted, Posbility: 0.0011
+Next Token : ractor, Posbility: 0.0006
+Next Token : act, Posbility: 0.0005
+Choose : ract,  Posbility: 0.9931
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extract
+---------------------------
+Next Token : s, Posbility: 0.2419
+Next Token :  the, Posbility: 0.2175
+Next Token :  size, Posbility: 0.1642
+Next Token :  specified, Posbility: 0.1610
+Next Token :  a, Posbility: 0.0604
+Choose : s,  Posbility: 0.2419
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts
+---------------------------
+Next Token :  the, Posbility: 0.3297
+Next Token :  specified, Posbility: 0.2031
+Next Token :  size, Posbility: 0.1841
+Next Token :  a, Posbility: 0.0930
+Next Token :  string, Posbility: 0.0150
+Choose :  the,  Posbility: 0.3297
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the
+---------------------------
+Next Token :  specified, Posbility: 0.3548
+Next Token :  size, Posbility: 0.3394
+Next Token :  given, Posbility: 0.0566
+Next Token :  number, Posbility: 0.0405
+Next Token :  length, Posbility: 0.0197
+Choose :  specified,  Posbility: 0.3548
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified
+---------------------------
+Next Token :  size, Posbility: 0.7530
+Next Token :  number, Posbility: 0.1297
+Next Token :  string, Posbility: 0.0265
+Next Token :  amount, Posbility: 0.0168
+Next Token :  length, Posbility: 0.0128
+Choose :  size,  Posbility: 0.7530
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size
+---------------------------
+Next Token :  of, Posbility: 0.7178
+Next Token :  from, Posbility: 0.1822
+Next Token :  string, Posbility: 0.0104
+Next Token :  and, Posbility: 0.0076
+Next Token :  for, Posbility: 0.0070
+Choose :  of,  Posbility: 0.7178
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of
+---------------------------
+Next Token :  strings, Posbility: 0.6298
+Next Token :  string, Posbility: 0.0890
+Next Token :  the, Posbility: 0.0526
+Next Token :  a, Posbility: 0.0485
+Next Token :  values, Posbility: 0.0459
+Choose :  strings,  Posbility: 0.6298
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings
+---------------------------
+Next Token :  from, Posbility: 0.9028
+Next Token :  in, Posbility: 0.0146
+Next Token : ., Posbility: 0.0133
+Next Token :  and, Posbility: 0.0079
+Next Token : '', Posbility: 0.0071
+Choose :  from,  Posbility: 0.9028
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from
+---------------------------
+Next Token :  a, Posbility: 0.6936
+Next Token :  the, Posbility: 0.2097
+Next Token :  list, Posbility: 0.0357
+Next Token :  given, Posbility: 0.0331
+Next Token :  an, Posbility: 0.0033
+Choose :  a,  Posbility: 0.6936
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a
+---------------------------
+Next Token :  given, Posbility: 0.7975
+Next Token :  list, Posbility: 0.1832
+Next Token :  string, Posbility: 0.0028
+Next Token :  give, Posbility: 0.0016
+Next Token :  specified, Posbility: 0.0013
+Choose :  given,  Posbility: 0.7975
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given
+---------------------------
+Next Token :  list, Posbility: 0.9832
+Next Token :  string, Posbility: 0.0032
+Next Token :  set, Posbility: 0.0019
+Next Token : 
+, Posbility: 0.0018
+Next Token :  array, Posbility: 0.0016
+Choose :  list,  Posbility: 0.9832
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list
+---------------------------
+Next Token :  of, Posbility: 0.9246
+Next Token : ., Posbility: 0.0214
+Next Token : .', Posbility: 0.0211
+Next Token : 
+, Posbility: 0.0101
+Next Token : '', Posbility: 0.0055
+Choose :  of,  Posbility: 0.9246
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of
+---------------------------
+Next Token :  strings, Posbility: 0.6886
+Next Token :  string, Posbility: 0.2819
+Next Token : 
+, Posbility: 0.0111
+Next Token :  , Posbility: 0.0040
+Next Token :  values, Posbility: 0.0018
+Choose :  strings,  Posbility: 0.6886
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings
+---------------------------
+Next Token : ., Posbility: 0.4290
+Next Token : .', Posbility: 0.3137
+Next Token : '', Posbility: 0.0801
+Next Token : 
+
+, Posbility: 0.0404
+Next Token : 
+, Posbility: 0.0342
+Choose : .,  Posbility: 0.4290
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+---------------------------
+Next Token : 
+
+, Posbility: 0.4990
+Next Token : 
+, Posbility: 0.3529
+Next Token :  , Posbility: 0.0237
+Next Token :  ', Posbility: 0.0196
+Next Token :  Returns, Posbility: 0.0183
+Choose : 
+
+,  Posbility: 0.4990
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+
+---------------------------
+Next Token :     , Posbility: 0.9103
+Next Token :         , Posbility: 0.0536
+Next Token :        , Posbility: 0.0169
+Next Token : 
+, Posbility: 0.0051
+Next Token :   , Posbility: 0.0030
+Choose :     ,  Posbility: 0.9103
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    
+---------------------------
+Next Token : Args, Posbility: 0.3033
+Next Token : :, Posbility: 0.1636
+Next Token : Parameters, Posbility: 0.1291
+Next Token : >>>, Posbility: 0.0728
+Next Token : Arg, Posbility: 0.0338
+Choose : Args,  Posbility: 0.3033
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args
+---------------------------
+Next Token : :, Posbility: 0.9978
+Next Token : 
+, Posbility: 0.0011
+Next Token :  :, Posbility: 0.0003
+Next Token : :\, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Choose : :,  Posbility: 0.9978
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+---------------------------
+Next Token : 
+, Posbility: 0.9839
+Next Token :  , Posbility: 0.0080
+Next Token :  list, Posbility: 0.0028
+Next Token : 
+
+, Posbility: 0.0021
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9839
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+
+---------------------------
+Next Token :         , Posbility: 0.8398
+Next Token :     , Posbility: 0.0733
+Next Token :       , Posbility: 0.0627
+Next Token :        , Posbility: 0.0103
+Next Token :      , Posbility: 0.0047
+Choose :         ,  Posbility: 0.8398
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        
+---------------------------
+Next Token : list, Posbility: 0.9353
+Next Token : -, Posbility: 0.0289
+Next Token : size, Posbility: 0.0049
+Next Token : List, Posbility: 0.0031
+Next Token : *, Posbility: 0.0025
+Choose : list,  Posbility: 0.9353
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list
+---------------------------
+Next Token : _, Posbility: 0.9945
+Next Token :  (, Posbility: 0.0015
+Next Token :  of, Posbility: 0.0013
+Next Token : :, Posbility: 0.0011
+Next Token : (, Posbility: 0.0006
+Choose : _,  Posbility: 0.9945
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_
+---------------------------
+Next Token : of, Posbility: 0.9976
+Next Token : strings, Posbility: 0.0004
+Next Token :  of, Posbility: 0.0003
+Next Token : :, Posbility: 0.0002
+Next Token : string, Posbility: 0.0002
+Choose : of,  Posbility: 0.9976
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token : :, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0000
+Next Token :  strings, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_
+---------------------------
+Next Token : strings, Posbility: 0.9982
+Next Token : string, Posbility: 0.0010
+Next Token : str, Posbility: 0.0004
+Next Token : words, Posbility: 0.0000
+Next Token : values, Posbility: 0.0000
+Choose : strings,  Posbility: 0.9982
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings
+---------------------------
+Next Token :  (, Posbility: 0.6601
+Next Token : :, Posbility: 0.1415
+Next Token :  ([, Posbility: 0.1117
+Next Token : (, Posbility: 0.0369
+Next Token :  -, Posbility: 0.0139
+Choose :  (,  Posbility: 0.6601
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (
+---------------------------
+Next Token : list, Posbility: 0.8885
+Next Token : List, Posbility: 0.0533
+Next Token : str, Posbility: 0.0164
+Next Token : string, Posbility: 0.0081
+Next Token : array, Posbility: 0.0042
+Choose : list,  Posbility: 0.8885
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list
+---------------------------
+Next Token : ):, Posbility: 0.8782
+Next Token :  of, Posbility: 0.0653
+Next Token : [, Posbility: 0.0194
+Next Token : ), Posbility: 0.0076
+Next Token : (, Posbility: 0.0066
+Choose : ):,  Posbility: 0.8782
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list):
+---------------------------
+Next Token :  A, Posbility: 0.3536
+Next Token :  List, Posbility: 0.2598
+Next Token :  The, Posbility: 0.1137
+Next Token :  a, Posbility: 0.0779
+Next Token :  list, Posbility: 0.0754
+Choose :  A,  Posbility: 0.3536
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A
+---------------------------
+Next Token :  list, Posbility: 0.9256
+Next Token :  given, Posbility: 0.0394
+Next Token :  python, Posbility: 0.0044
+Next Token :  List, Posbility: 0.0036
+Next Token :  Python, Posbility: 0.0028
+Choose :  list,  Posbility: 0.9256
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list
+---------------------------
+Next Token :  of, Posbility: 0.9090
+Next Token :  containing, Posbility: 0.0504
+Next Token :  with, Posbility: 0.0103
+Next Token :  that, Posbility: 0.0047
+Next Token :  contains, Posbility: 0.0026
+Choose :  of,  Posbility: 0.9090
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of
+---------------------------
+Next Token :  strings, Posbility: 0.7798
+Next Token :  string, Posbility: 0.1620
+Next Token :  all, Posbility: 0.0066
+Next Token :  lists, Posbility: 0.0059
+Next Token :  the, Posbility: 0.0044
+Choose :  strings,  Posbility: 0.7798
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings
+---------------------------
+Next Token : ., Posbility: 0.5400
+Next Token :  to, Posbility: 0.1508
+Next Token : 
+, Posbility: 0.0864
+Next Token :  that, Posbility: 0.0338
+Next Token : ,, Posbility: 0.0229
+Choose : .,  Posbility: 0.5400
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+---------------------------
+Next Token : 
+, Posbility: 0.9686
+Next Token : 
+
+, Posbility: 0.0069
+Next Token :  , Posbility: 0.0059
+Next Token :  The, Posbility: 0.0031
+Next Token :  Each, Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9686
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+
+---------------------------
+Next Token :         , Posbility: 0.9918
+Next Token :     , Posbility: 0.0054
+Next Token :             , Posbility: 0.0022
+Next Token :                 , Posbility: 0.0002
+Next Token :                                , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9918
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        
+---------------------------
+Next Token : size, Posbility: 0.9902
+Next Token : 
+, Posbility: 0.0010
+Next Token : string, Posbility: 0.0009
+Next Token : int, Posbility: 0.0008
+Next Token : Size, Posbility: 0.0007
+Choose : size,  Posbility: 0.9902
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size
+---------------------------
+Next Token :  (, Posbility: 0.9797
+Next Token : :, Posbility: 0.0062
+Next Token : (, Posbility: 0.0031
+Next Token :  ([, Posbility: 0.0020
+Next Token :   , Posbility: 0.0014
+Choose :  (,  Posbility: 0.9797
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (
+---------------------------
+Next Token : int, Posbility: 0.9073
+Next Token : str, Posbility: 0.0400
+Next Token : integer, Posbility: 0.0178
+Next Token : string, Posbility: 0.0106
+Next Token : list, Posbility: 0.0072
+Choose : int,  Posbility: 0.9073
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int
+---------------------------
+Next Token : ):, Posbility: 0.9650
+Next Token : ,, Posbility: 0.0125
+Next Token :  or, Posbility: 0.0079
+Next Token : ), Posbility: 0.0066
+Next Token :  |, Posbility: 0.0020
+Choose : ):,  Posbility: 0.9650
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int):
+---------------------------
+Next Token :  The, Posbility: 0.5996
+Next Token :  A, Posbility: 0.1321
+Next Token :  An, Posbility: 0.0820
+Next Token :  Spec, Posbility: 0.0710
+Next Token :  Size, Posbility: 0.0277
+Choose :  The,  Posbility: 0.5996
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The
+---------------------------
+Next Token :  size, Posbility: 0.5531
+Next Token :  desired, Posbility: 0.1617
+Next Token :  number, Posbility: 0.0771
+Next Token :  specified, Posbility: 0.0529
+Next Token :  requested, Posbility: 0.0375
+Choose :  size,  Posbility: 0.5531
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size
+---------------------------
+Next Token :  of, Posbility: 0.7798
+Next Token :  to, Posbility: 0.1148
+Next Token :  in, Posbility: 0.0152
+Next Token :  that, Posbility: 0.0112
+Next Token :  you, Posbility: 0.0093
+Choose :  of,  Posbility: 0.7798
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of
+---------------------------
+Next Token :  the, Posbility: 0.5847
+Next Token :  strings, Posbility: 0.2209
+Next Token :  string, Posbility: 0.0583
+Next Token :  extracted, Posbility: 0.0318
+Next Token :  a, Posbility: 0.0178
+Choose :  the,  Posbility: 0.5847
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the
+---------------------------
+Next Token :  string, Posbility: 0.3787
+Next Token :  strings, Posbility: 0.3119
+Next Token :  extracted, Posbility: 0.0627
+Next Token :  desired, Posbility: 0.0407
+Next Token :  output, Posbility: 0.0163
+Choose :  string,  Posbility: 0.3787
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string
+---------------------------
+Next Token :  to, Posbility: 0.5420
+Next Token : ., Posbility: 0.1757
+Next Token :  that, Posbility: 0.0505
+Next Token :  you, Posbility: 0.0423
+Next Token :  in, Posbility: 0.0410
+Choose :  to,  Posbility: 0.5420
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to
+---------------------------
+Next Token :  extract, Posbility: 0.5931
+Next Token :  be, Posbility: 0.3012
+Next Token :  search, Posbility: 0.0240
+Next Token :  find, Posbility: 0.0138
+Next Token :  return, Posbility: 0.0113
+Choose :  extract,  Posbility: 0.5931
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract
+---------------------------
+Next Token : ., Posbility: 0.8548
+Next Token :  from, Posbility: 0.0827
+Next Token : ,, Posbility: 0.0130
+Next Token : 
+
+, Posbility: 0.0090
+Next Token : .', Posbility: 0.0067
+Choose : .,  Posbility: 0.8548
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+---------------------------
+Next Token : 
+
+, Posbility: 0.7817
+Next Token : 
+, Posbility: 0.1864
+Next Token :  , Posbility: 0.0055
+Next Token :  Must, Posbility: 0.0052
+Next Token :  The, Posbility: 0.0015
+Choose : 
+
+,  Posbility: 0.7817
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+
+---------------------------
+Next Token :     , Posbility: 0.9963
+Next Token : 
+, Posbility: 0.0026
+Next Token :         , Posbility: 0.0008
+Next Token :      , Posbility: 0.0001
+Next Token :             , Posbility: 0.0001
+Choose :     ,  Posbility: 0.9963
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    
+---------------------------
+Next Token : Returns, Posbility: 0.9216
+Next Token : Ra, Posbility: 0.0301
+Next Token : Return, Posbility: 0.0254
+Next Token : '', Posbility: 0.0047
+Next Token : Examples, Posbility: 0.0034
+Choose : Returns,  Posbility: 0.9216
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns
+---------------------------
+Next Token : :, Posbility: 0.9921
+Next Token :  (, Posbility: 0.0049
+Next Token : 
+, Posbility: 0.0013
+Next Token :  a, Posbility: 0.0006
+Next Token :  the, Posbility: 0.0003
+Choose : :,  Posbility: 0.9921
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+---------------------------
+Next Token : 
+, Posbility: 0.9876
+Next Token :  A, Posbility: 0.0031
+Next Token :  , Posbility: 0.0030
+Next Token :  The, Posbility: 0.0011
+Next Token :  (, Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9876
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+
+---------------------------
+Next Token :         , Posbility: 0.9894
+Next Token :        , Posbility: 0.0038
+Next Token :          , Posbility: 0.0022
+Next Token :     , Posbility: 0.0017
+Next Token :             , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9894
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        
+---------------------------
+Next Token : list, Posbility: 0.3984
+Next Token : A, Posbility: 0.1277
+Next Token : str, Posbility: 0.0972
+Next Token : (, Posbility: 0.0714
+Next Token : The, Posbility: 0.0517
+Choose : list,  Posbility: 0.3984
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list
+---------------------------
+Next Token : :, Posbility: 0.8877
+Next Token : _, Posbility: 0.0579
+Next Token :  of, Posbility: 0.0207
+Next Token : ,, Posbility: 0.0070
+Next Token :  (, Posbility: 0.0054
+Choose : :,  Posbility: 0.8877
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list:
+---------------------------
+Next Token :  A, Posbility: 0.7599
+Next Token :  The, Posbility: 0.1596
+Next Token :  An, Posbility: 0.0167
+Next Token :  Returns, Posbility: 0.0125
+Next Token :  List, Posbility: 0.0088
+Choose :  A,  Posbility: 0.7599
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A
+---------------------------
+Next Token :  list, Posbility: 0.8979
+Next Token :  new, Posbility: 0.0571
+Next Token :  copy, Posbility: 0.0034
+Next Token :  string, Posbility: 0.0031
+Next Token :  sorted, Posbility: 0.0030
+Choose :  list,  Posbility: 0.8979
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list
+---------------------------
+Next Token :  of, Posbility: 0.8496
+Next Token :  containing, Posbility: 0.0653
+Next Token :  with, Posbility: 0.0520
+Next Token :  that, Posbility: 0.0062
+Next Token :  where, Posbility: 0.0039
+Choose :  of,  Posbility: 0.8496
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of
+---------------------------
+Next Token :  strings, Posbility: 0.5336
+Next Token :  the, Posbility: 0.1442
+Next Token :  size, Posbility: 0.0683
+Next Token :  extracted, Posbility: 0.0659
+Next Token :  string, Posbility: 0.0426
+Choose :  strings,  Posbility: 0.5336
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings
+---------------------------
+Next Token : ., Posbility: 0.3417
+Next Token :  with, Posbility: 0.1508
+Next Token : ,, Posbility: 0.1329
+Next Token :  where, Posbility: 0.0621
+Next Token :  of, Posbility: 0.0607
+Choose : .,  Posbility: 0.3417
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+---------------------------
+Next Token : 
+, Posbility: 0.8123
+Next Token : 
+
+, Posbility: 0.0921
+Next Token :  The, Posbility: 0.0315
+Next Token :  If, Posbility: 0.0086
+Next Token :  Each, Posbility: 0.0078
+Choose : 
+,  Posbility: 0.8123
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+
+---------------------------
+Next Token :     , Posbility: 0.9611
+Next Token :         , Posbility: 0.0362
+Next Token :             , Posbility: 0.0013
+Next Token : '', Posbility: 0.0002
+Next Token :                 , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9611
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    
+---------------------------
+Next Token : '', Posbility: 0.9794
+Next Token : 
+, Posbility: 0.0134
+Next Token : Ra, Posbility: 0.0021
+Next Token : """, Posbility: 0.0008
+Next Token : Example, Posbility: 0.0007
+Choose : '',  Posbility: 0.9794
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 't, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : �, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.8623
+Next Token : 
+
+, Posbility: 0.1328
+Next Token :     , Posbility: 0.0021
+Next Token :  , Posbility: 0.0014
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.8623
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9941
+Next Token :         , Posbility: 0.0017
+Next Token :   , Posbility: 0.0009
+Next Token :    , Posbility: 0.0007
+Next Token : #, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9941
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    
+---------------------------
+Next Token : return, Posbility: 0.1555
+Next Token : #, Posbility: 0.0722
+Next Token : ext, Posbility: 0.0715
+Next Token : result, Posbility: 0.0703
+Next Token : list, Posbility: 0.0619
+Choose : return,  Posbility: 0.1555
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return
+---------------------------
+Next Token :  [, Posbility: 0.7148
+Next Token :  list, Posbility: 0.1580
+Next Token : _, Posbility: 0.0367
+Next Token :  re, Posbility: 0.0203
+Next Token : [, Posbility: 0.0153
+Choose :  [,  Posbility: 0.7148
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [
+---------------------------
+Next Token : string, Posbility: 0.2167
+Next Token : s, Posbility: 0.1142
+Next Token : re, Posbility: 0.0835
+Next Token : x, Posbility: 0.0620
+Next Token : str, Posbility: 0.0595
+Choose : string,  Posbility: 0.2167
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string
+---------------------------
+Next Token : [, Posbility: 0.6733
+Next Token :  for, Posbility: 0.2008
+Next Token : ., Posbility: 0.0953
+Next Token : _, Posbility: 0.0237
+Next Token :  if, Posbility: 0.0033
+Choose : [,  Posbility: 0.6733
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[
+---------------------------
+Next Token : size, Posbility: 0.6440
+Next Token : :, Posbility: 0.2009
+Next Token : i, Posbility: 0.0469
+Next Token : 0, Posbility: 0.0365
+Next Token : -, Posbility: 0.0177
+Choose : size,  Posbility: 0.6440
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size
+---------------------------
+Next Token : :], Posbility: 0.5903
+Next Token : :, Posbility: 0.2780
+Next Token :  -, Posbility: 0.0300
+Next Token : -, Posbility: 0.0278
+Next Token : ], Posbility: 0.0257
+Choose : :],  Posbility: 0.5903
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:]
+---------------------------
+Next Token :  for, Posbility: 0.9684
+Next Token :  if, Posbility: 0.0270
+Next Token : for, Posbility: 0.0022
+Next Token : 
+, Posbility: 0.0014
+Next Token :  , Posbility: 0.0004
+Choose :  for,  Posbility: 0.9684
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for
+---------------------------
+Next Token :  string, Posbility: 0.9975
+Next Token :  i, Posbility: 0.0003
+Next Token :  index, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Next Token :  line, Posbility: 0.0001
+Choose :  string,  Posbility: 0.9975
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string
+---------------------------
+Next Token :  in, Posbility: 0.9970
+Next Token : 
+, Posbility: 0.0017
+Next Token :   , Posbility: 0.0005
+Next Token :  , Posbility: 0.0004
+Next Token : ,, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9970
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in
+---------------------------
+Next Token :  list, Posbility: 0.9983
+Next Token :  (, Posbility: 0.0003
+Next Token :  [, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Choose :  list,  Posbility: 0.9983
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list
+---------------------------
+Next Token : _, Posbility: 0.9988
+Next Token : (, Posbility: 0.0009
+Next Token : ], Posbility: 0.0001
+Next Token :  if, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Choose : _,  Posbility: 0.9988
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list_
+---------------------------
+Next Token : of, Posbility: 0.9999
+Next Token : if, Posbility: 0.0000
+Next Token : to, Posbility: 0.0000
+Next Token : or, Posbility: 0.0000
+Next Token : for, Posbility: 0.0000
+Choose : of,  Posbility: 0.9999
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list_of
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ], Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : __, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list_of_
+---------------------------
+Next Token : strings, Posbility: 1.0000
+Next Token : string, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token :  strings, Posbility: 0.0000
+Next Token : stri, Posbility: 0.0000
+Choose : strings,  Posbility: 1.0000
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list_of_strings
+---------------------------
+Next Token : ], Posbility: 0.8529
+Next Token :  if, Posbility: 0.1328
+Next Token : 
+, Posbility: 0.0052
+Next Token : [, Posbility: 0.0032
+Next Token :  ], Posbility: 0.0019
+Choose : ],  Posbility: 0.8529
+---------------------------
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list_of_strings]
+---------------------------
+Next Token : 
+
+, Posbility: 0.7861
+Next Token : 
+, Posbility: 0.1969
+Next Token :  , Posbility: 0.0048
+Next Token : <|endoftext|>, Posbility: 0.0032
+Next Token :   , Posbility: 0.0031
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 18.157398223876953
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to extract specified size of strings from a given list of string values.'''
+def 
+import re
+
+
+def extract_size(list_of_strings, size):
+    '''Extracts the specified size of strings from a given list of strings.
+
+    Args:
+        list_of_strings (list): A list of strings.
+        size (int): The size of the string to extract.
+
+    Returns:
+        list: A list of strings.
+    '''
+    return [string[size:] for string in list_of_strings]
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

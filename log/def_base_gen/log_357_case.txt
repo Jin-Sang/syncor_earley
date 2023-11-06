@@ -1,0 +1,1540 @@
+<<<<<<<<<<<< 357 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  toggle, Posbility: 0.7034
+Next Token :  Toggle, Posbility: 0.0198
+Next Token :  t, Posbility: 0.0147
+Next Token :  bit, Posbility: 0.0145
+Next Token :  to, Posbility: 0.0125
+Choose :  toggle,  Posbility: 0.7034
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle
+---------------------------
+Next Token : _, Posbility: 0.3279
+Next Token : B, Posbility: 0.1808
+Next Token : Bit, Posbility: 0.1566
+Next Token : (, Posbility: 0.1414
+Next Token : bits, Posbility: 0.1121
+Choose : _,  Posbility: 0.3279
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_
+---------------------------
+Next Token : bits, Posbility: 0.8956
+Next Token : bit, Posbility: 0.0352
+Next Token : first, Posbility: 0.0083
+Next Token : b, Posbility: 0.0081
+Next Token : number, Posbility: 0.0032
+Choose : bits,  Posbility: 0.8956
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits
+---------------------------
+Next Token : (, Posbility: 0.8775
+Next Token : _, Posbility: 0.1006
+Next Token : ():, Posbility: 0.0109
+Next Token :  (, Posbility: 0.0031
+Next Token : 2, Posbility: 0.0016
+Choose : (,  Posbility: 0.8775
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(
+---------------------------
+Next Token : num, Posbility: 0.3128
+Next Token : n, Posbility: 0.2567
+Next Token : number, Posbility: 0.2155
+Next Token : x, Posbility: 0.0695
+Next Token : value, Posbility: 0.0216
+Choose : num,  Posbility: 0.3128
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num
+---------------------------
+Next Token : ):, Posbility: 0.7382
+Next Token : ,, Posbility: 0.1920
+Next Token : :, Posbility: 0.0386
+Next Token : _, Posbility: 0.0158
+Next Token : 1, Posbility: 0.0059
+Choose : ):,  Posbility: 0.7382
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+---------------------------
+Next Token : 
+, Posbility: 0.9089
+Next Token : 
+
+, Posbility: 0.0344
+Next Token : , Posbility: 0.0230
+Next Token :  , Posbility: 0.0180
+Next Token :   , Posbility: 0.0055
+Choose : 
+,  Posbility: 0.9089
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+
+---------------------------
+Next Token :     , Posbility: 0.9199
+Next Token : 	, Posbility: 0.0376
+Next Token :   , Posbility: 0.0297
+Next Token :    , Posbility: 0.0063
+Next Token :         , Posbility: 0.0024
+Choose :     ,  Posbility: 0.9199
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    
+---------------------------
+Next Token : if, Posbility: 0.1197
+Next Token : #, Posbility: 0.1056
+Next Token : '', Posbility: 0.0859
+Next Token : num, Posbility: 0.0651
+Next Token : return, Posbility: 0.0401
+Choose : if,  Posbility: 0.1197
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if
+---------------------------
+Next Token :  num, Posbility: 0.7297
+Next Token :  (, Posbility: 0.1239
+Next Token : (, Posbility: 0.0719
+Next Token :  not, Posbility: 0.0117
+Next Token :  0, Posbility: 0.0108
+Choose :  num,  Posbility: 0.7297
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num
+---------------------------
+Next Token :  &, Posbility: 0.3677
+Next Token :  ==, Posbility: 0.2401
+Next Token :  >, Posbility: 0.0703
+Next Token : &, Posbility: 0.0520
+Next Token : :, Posbility: 0.0433
+Choose :  &,  Posbility: 0.3677
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num &
+---------------------------
+Next Token :  0, Posbility: 0.4566
+Next Token :  1, Posbility: 0.4256
+Next Token :  (, Posbility: 0.0697
+Next Token :  2, Posbility: 0.0100
+Next Token :  num, Posbility: 0.0071
+Choose :  0,  Posbility: 0.4566
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0
+---------------------------
+Next Token : b, Posbility: 0.5050
+Next Token : x, Posbility: 0.4838
+Next Token : xff, Posbility: 0.0046
+Next Token : xf, Posbility: 0.0012
+Next Token : X, Posbility: 0.0011
+Choose : b,  Posbility: 0.5050
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b
+---------------------------
+Next Token : 1, Posbility: 0.4724
+Next Token : 01, Posbility: 0.0871
+Next Token : 11, Posbility: 0.0827
+Next Token : 1111, Posbility: 0.0598
+Next Token : 100, Posbility: 0.0330
+Choose : 1,  Posbility: 0.4724
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1
+---------------------------
+Next Token :  ==, Posbility: 0.3294
+Next Token : :, Posbility: 0.3197
+Next Token : 0000000, Posbility: 0.1495
+Next Token : !=, Posbility: 0.1082
+Next Token : 000000, Posbility: 0.0338
+Choose :  ==,  Posbility: 0.3294
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 ==
+---------------------------
+Next Token :  0, Posbility: 0.8255
+Next Token :  1, Posbility: 0.1649
+Next Token : 0, Posbility: 0.0037
+Next Token :  num, Posbility: 0.0017
+Next Token : 1, Posbility: 0.0009
+Choose :  0,  Posbility: 0.8255
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0
+---------------------------
+Next Token : :, Posbility: 0.7388
+Next Token : b, Posbility: 0.2001
+Next Token :  and, Posbility: 0.0246
+Next Token : x, Posbility: 0.0185
+Next Token :  :, Posbility: 0.0078
+Choose : :,  Posbility: 0.7388
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.8643
+Next Token :  #, Posbility: 0.0528
+Next Token :   , Posbility: 0.0224
+Next Token :  return, Posbility: 0.0111
+Next Token :  , Posbility: 0.0111
+Choose : 
+,  Posbility: 0.8643
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9810
+Next Token :       , Posbility: 0.0071
+Next Token :        , Posbility: 0.0053
+Next Token :             , Posbility: 0.0032
+Next Token :          , Posbility: 0.0011
+Choose :         ,  Posbility: 0.9810
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        
+---------------------------
+Next Token : num, Posbility: 0.5315
+Next Token : return, Posbility: 0.2715
+Next Token : print, Posbility: 0.0795
+Next Token : #, Posbility: 0.0228
+Next Token : bit, Posbility: 0.0116
+Choose : num,  Posbility: 0.5315
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num
+---------------------------
+Next Token :  =, Posbility: 0.7197
+Next Token :  ^, Posbility: 0.1072
+Next Token :  |, Posbility: 0.0764
+Next Token :  &, Posbility: 0.0304
+Next Token :  +=, Posbility: 0.0233
+Choose :  =,  Posbility: 0.7197
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num =
+---------------------------
+Next Token :  num, Posbility: 0.7183
+Next Token :  0, Posbility: 0.0707
+Next Token :  (, Posbility: 0.0614
+Next Token :  ~, Posbility: 0.0487
+Next Token :  bin, Posbility: 0.0357
+Choose :  num,  Posbility: 0.7183
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num
+---------------------------
+Next Token :  |, Posbility: 0.3308
+Next Token :  ^, Posbility: 0.2914
+Next Token :  &, Posbility: 0.1238
+Next Token :  +, Posbility: 0.0725
+Next Token :  <<, Posbility: 0.0509
+Choose :  |,  Posbility: 0.3308
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num |
+---------------------------
+Next Token :  0, Posbility: 0.7539
+Next Token :  1, Posbility: 0.1829
+Next Token :  (, Posbility: 0.0333
+Next Token :  2, Posbility: 0.0080
+Next Token :  ~, Posbility: 0.0048
+Choose :  0,  Posbility: 0.7539
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0
+---------------------------
+Next Token : b, Posbility: 0.8522
+Next Token : x, Posbility: 0.1154
+Next Token : 
+, Posbility: 0.0211
+Next Token : xff, Posbility: 0.0040
+Next Token : o, Posbility: 0.0019
+Choose : b,  Posbility: 0.8522
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b
+---------------------------
+Next Token : 1, Posbility: 0.7409
+Next Token : 10, Posbility: 0.0374
+Next Token : 1111, Posbility: 0.0311
+Next Token : 01, Posbility: 0.0235
+Next Token : 11, Posbility: 0.0219
+Choose : 1,  Posbility: 0.7409
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+---------------------------
+Next Token : 
+, Posbility: 0.8769
+Next Token :  #, Posbility: 0.0220
+Next Token : 
+
+, Posbility: 0.0213
+Next Token :  <<, Posbility: 0.0200
+Next Token :   , Posbility: 0.0167
+Choose : 
+,  Posbility: 0.8769
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+
+---------------------------
+Next Token :     , Posbility: 0.8307
+Next Token :         , Posbility: 0.1680
+Next Token : 
+, Posbility: 0.0004
+Next Token : #, Posbility: 0.0002
+Next Token :             , Posbility: 0.0002
+Choose :     ,  Posbility: 0.8307
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    
+---------------------------
+Next Token : else, Posbility: 0.7971
+Next Token : if, Posbility: 0.1020
+Next Token : el, Posbility: 0.0707
+Next Token : return, Posbility: 0.0149
+Next Token : num, Posbility: 0.0044
+Choose : else,  Posbility: 0.7971
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else
+---------------------------
+Next Token : :, Posbility: 0.9959
+Next Token :  :, Posbility: 0.0038
+Next Token : :#, Posbility: 0.0002
+Next Token :   , Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : :,  Posbility: 0.9959
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9882
+Next Token :  , Posbility: 0.0047
+Next Token :  num, Posbility: 0.0031
+Next Token :  #, Posbility: 0.0011
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9882
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9978
+Next Token :        , Posbility: 0.0007
+Next Token :          , Posbility: 0.0004
+Next Token :     , Posbility: 0.0004
+Next Token :             , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9978
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        
+---------------------------
+Next Token : num, Posbility: 0.9818
+Next Token : if, Posbility: 0.0077
+Next Token : #, Posbility: 0.0015
+Next Token : bit, Posbility: 0.0012
+Next Token : return, Posbility: 0.0011
+Choose : num,  Posbility: 0.9818
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num
+---------------------------
+Next Token :  =, Posbility: 0.9882
+Next Token :  &, Posbility: 0.0050
+Next Token :  <<, Posbility: 0.0015
+Next Token : =, Posbility: 0.0012
+Next Token :  ^, Posbility: 0.0008
+Choose :  =,  Posbility: 0.9882
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num =
+---------------------------
+Next Token :  num, Posbility: 0.9291
+Next Token :  (, Posbility: 0.0520
+Next Token :  ~, Posbility: 0.0070
+Next Token :  0, Posbility: 0.0026
+Next Token :   , Posbility: 0.0019
+Choose :  num,  Posbility: 0.9291
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num
+---------------------------
+Next Token :  &, Posbility: 0.7493
+Next Token :  ^, Posbility: 0.1367
+Next Token :  <<, Posbility: 0.0417
+Next Token :  |, Posbility: 0.0289
+Next Token :  >>, Posbility: 0.0261
+Choose :  &,  Posbility: 0.7493
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num &
+---------------------------
+Next Token :  0, Posbility: 0.9500
+Next Token :  ~, Posbility: 0.0385
+Next Token :  (, Posbility: 0.0044
+Next Token :  (~, Posbility: 0.0023
+Next Token : 0, Posbility: 0.0011
+Choose :  0,  Posbility: 0.9500
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0
+---------------------------
+Next Token : b, Posbility: 0.9937
+Next Token : x, Posbility: 0.0048
+Next Token : o, Posbility: 0.0004
+Next Token : xff, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Choose : b,  Posbility: 0.9937
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b
+---------------------------
+Next Token : 1, Posbility: 0.6251
+Next Token : 11, Posbility: 0.1586
+Next Token : 1111, Posbility: 0.0621
+Next Token : 01, Posbility: 0.0378
+Next Token : 111, Posbility: 0.0358
+Choose : 1,  Posbility: 0.6251
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+---------------------------
+Next Token : 
+, Posbility: 0.8676
+Next Token : 
+
+, Posbility: 0.0839
+Next Token :  <<, Posbility: 0.0186
+Next Token :  |, Posbility: 0.0057
+Next Token :  ^, Posbility: 0.0046
+Choose : 
+,  Posbility: 0.8676
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+
+---------------------------
+Next Token :     , Posbility: 0.9315
+Next Token :         , Posbility: 0.0640
+Next Token : 
+, Posbility: 0.0022
+Next Token : #, Posbility: 0.0005
+Next Token : '', Posbility: 0.0003
+Choose :     ,  Posbility: 0.9315
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    
+---------------------------
+Next Token : return, Posbility: 0.7621
+Next Token : if, Posbility: 0.0998
+Next Token : num, Posbility: 0.0321
+Next Token : print, Posbility: 0.0294
+Next Token : 
+, Posbility: 0.0172
+Choose : return,  Posbility: 0.7621
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return
+---------------------------
+Next Token :  num, Posbility: 0.9489
+Next Token :  bin, Posbility: 0.0244
+Next Token : (, Posbility: 0.0069
+Next Token :  (, Posbility: 0.0046
+Next Token :  int, Posbility: 0.0039
+Choose :  num,  Posbility: 0.9489
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+---------------------------
+Next Token : 
+, Posbility: 0.7140
+Next Token : 
+
+, Posbility: 0.2277
+Next Token : <|endoftext|>, Posbility: 0.0318
+Next Token :  , Posbility: 0.0081
+Next Token :  <<, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.7140
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+---------------------------
+Next Token : 
+, Posbility: 0.8156
+Next Token : <|endoftext|>, Posbility: 0.0315
+Next Token : '', Posbility: 0.0297
+Next Token :     , Posbility: 0.0271
+Next Token : def, Posbility: 0.0219
+Choose : 
+,  Posbility: 0.8156
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9728
+Next Token :     , Posbility: 0.0100
+Next Token : <|endoftext|>, Posbility: 0.0088
+Next Token : 
+
+, Posbility: 0.0059
+Next Token :         , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9728
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2465
+Next Token : def, Posbility: 0.2333
+Next Token : #, Posbility: 0.1492
+Next Token : print, Posbility: 0.1162
+Next Token : if, Posbility: 0.0693
+Choose : '',  Posbility: 0.2465
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7182
+Next Token : 
+, Posbility: 0.0371
+Next Token :  Write, Posbility: 0.0368
+Next Token : T, Posbility: 0.0138
+Next Token : Return, Posbility: 0.0055
+Choose : Write,  Posbility: 0.7182
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9830
+Next Token :  your, Posbility: 0.0060
+Next Token :  an, Posbility: 0.0035
+Next Token :  the, Posbility: 0.0014
+Next Token :  another, Posbility: 0.0007
+Choose :  a,  Posbility: 0.9830
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9150
+Next Token :  function, Posbility: 0.0396
+Next Token :  Python, Posbility: 0.0240
+Next Token :  program, Posbility: 0.0045
+Next Token :  recursive, Posbility: 0.0015
+Choose :  python,  Posbility: 0.9150
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9626
+Next Token :  program, Posbility: 0.0193
+Next Token :  script, Posbility: 0.0039
+Next Token :  fun, Posbility: 0.0021
+Next Token :  class, Posbility: 0.0011
+Choose :  function,  Posbility: 0.9626
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8786
+Next Token :  that, Posbility: 0.0847
+Next Token :  which, Posbility: 0.0119
+Next Token :  for, Posbility: 0.0050
+Next Token : ,, Posbility: 0.0016
+Choose :  to,  Posbility: 0.8786
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to
+---------------------------
+Next Token :  check, Posbility: 0.1030
+Next Token :  count, Posbility: 0.0832
+Next Token :  find, Posbility: 0.0795
+Next Token :  print, Posbility: 0.0618
+Next Token :  get, Posbility: 0.0480
+Choose :  check,  Posbility: 0.1030
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check
+---------------------------
+Next Token :  whether, Posbility: 0.4300
+Next Token :  if, Posbility: 0.3308
+Next Token :  the, Posbility: 0.0628
+Next Token :  a, Posbility: 0.0355
+Next Token :  for, Posbility: 0.0159
+Choose :  whether,  Posbility: 0.4300
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether
+---------------------------
+Next Token :  a, Posbility: 0.4575
+Next Token :  the, Posbility: 0.2058
+Next Token :  two, Posbility: 0.1033
+Next Token :  an, Posbility: 0.0992
+Next Token :  given, Posbility: 0.0118
+Choose :  a,  Posbility: 0.4575
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a
+---------------------------
+Next Token :  number, Posbility: 0.3628
+Next Token :  given, Posbility: 0.2485
+Next Token :  binary, Posbility: 0.0964
+Next Token :  string, Posbility: 0.0800
+Next Token :  bit, Posbility: 0.0173
+Choose :  number,  Posbility: 0.3628
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number
+---------------------------
+Next Token :  is, Posbility: 0.8639
+Next Token :  can, Posbility: 0.0224
+Next Token :  has, Posbility: 0.0186
+Next Token :  in, Posbility: 0.0084
+Next Token :  n, Posbility: 0.0073
+Choose :  is,  Posbility: 0.8639
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is
+---------------------------
+Next Token :  a, Posbility: 0.2379
+Next Token :  prime, Posbility: 0.0929
+Next Token :  odd, Posbility: 0.0816
+Next Token :  even, Posbility: 0.0815
+Next Token :  in, Posbility: 0.0703
+Choose :  a,  Posbility: 0.2379
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a
+---------------------------
+Next Token :  pal, Posbility: 0.2238
+Next Token :  power, Posbility: 0.1873
+Next Token :  prime, Posbility: 0.1614
+Next Token :  perfect, Posbility: 0.0675
+Next Token :  positive, Posbility: 0.0291
+Choose :  pal,  Posbility: 0.2238
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a pal
+---------------------------
+Next Token : ind, Posbility: 0.9921
+Next Token : id, Posbility: 0.0057
+Next Token : in, Posbility: 0.0003
+Next Token : i, Posbility: 0.0002
+Next Token : it, Posbility: 0.0002
+Choose : ind,  Posbility: 0.9921
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palind
+---------------------------
+Next Token : rome, Posbility: 0.9548
+Next Token : rom, Posbility: 0.0445
+Next Token : roma, Posbility: 0.0002
+Next Token : or, Posbility: 0.0001
+Next Token :  number, Posbility: 0.0001
+Choose : rome,  Posbility: 0.9548
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome
+---------------------------
+Next Token :  or, Posbility: 0.6472
+Next Token : ., Posbility: 0.2114
+Next Token :  number, Posbility: 0.0270
+Next Token : .', Posbility: 0.0221
+Next Token : ,, Posbility: 0.0194
+Choose :  or,  Posbility: 0.6472
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or
+---------------------------
+Next Token :  not, Posbility: 0.9888
+Next Token :  pal, Posbility: 0.0024
+Next Token :  a, Posbility: 0.0024
+Next Token :  NOT, Posbility: 0.0008
+Next Token :  an, Posbility: 0.0006
+Choose :  not,  Posbility: 0.9888
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not
+---------------------------
+Next Token : ., Posbility: 0.7721
+Next Token : .', Posbility: 0.0705
+Next Token : '', Posbility: 0.0443
+Next Token :  using, Posbility: 0.0196
+Next Token : 
+, Posbility: 0.0157
+Choose : .,  Posbility: 0.7721
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not.
+---------------------------
+Next Token :  https, Posbility: 0.3575
+Next Token : 
+, Posbility: 0.3115
+Next Token :  , Posbility: 0.0390
+Next Token : https, Posbility: 0.0228
+Next Token :  The, Posbility: 0.0141
+Choose :  https,  Posbility: 0.3575
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https
+---------------------------
+Next Token : ://, Posbility: 0.9951
+Next Token : :, Posbility: 0.0039
+Next Token : :#, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0001
+Next Token : '', Posbility: 0.0000
+Choose : ://,  Posbility: 0.9951
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://
+---------------------------
+Next Token : www, Posbility: 0.9245
+Next Token : en, Posbility: 0.0168
+Next Token : le, Posbility: 0.0118
+Next Token : stack, Posbility: 0.0074
+Next Token : docs, Posbility: 0.0048
+Choose : www,  Posbility: 0.9245
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www
+---------------------------
+Next Token : ., Posbility: 0.9998
+Next Token : 2, Posbility: 0.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : .,  Posbility: 0.9998
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.
+---------------------------
+Next Token : ge, Posbility: 0.7876
+Next Token : w, Posbility: 0.0824
+Next Token : cod, Posbility: 0.0176
+Next Token : program, Posbility: 0.0131
+Next Token : hack, Posbility: 0.0107
+Choose : ge,  Posbility: 0.7876
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.ge
+---------------------------
+Next Token : eks, Posbility: 0.9999
+Next Token : ek, Posbility: 0.0001
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : omet, Posbility: 0.0000
+Choose : eks,  Posbility: 0.9999
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeks
+---------------------------
+Next Token : forge, Posbility: 0.9978
+Next Token : for, Posbility: 0.0016
+Next Token : forum, Posbility: 0.0001
+Next Token : fork, Posbility: 0.0001
+Next Token : ge, Posbility: 0.0001
+Choose : forge,  Posbility: 0.9978
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforge
+---------------------------
+Next Token : eks, Posbility: 0.9999
+Next Token : ek, Posbility: 0.0001
+Next Token : ec, Posbility: 0.0000
+Next Token : e, Posbility: 0.0000
+Next Token : eeks, Posbility: 0.0000
+Choose : eks,  Posbility: 0.9999
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks
+---------------------------
+Next Token : ., Posbility: 1.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token :  import, Posbility: 0.0000
+Choose : .,  Posbility: 1.0000
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.
+---------------------------
+Next Token : org, Posbility: 1.0000
+Next Token :  org, Posbility: 0.0000
+Next Token : com, Posbility: 0.0000
+Next Token : net, Posbility: 0.0000
+Next Token : co, Posbility: 0.0000
+Choose : org,  Posbility: 1.0000
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org
+---------------------------
+Next Token : /, Posbility: 0.9997
+Next Token : //, Posbility: 0.0001
+Next Token : /., Posbility: 0.0001
+Next Token : '', Posbility: 0.0000
+Next Token : /?, Posbility: 0.0000
+Choose : /,  Posbility: 0.9997
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/
+---------------------------
+Next Token : check, Posbility: 0.5037
+Next Token : pal, Posbility: 0.1723
+Next Token : is, Posbility: 0.1448
+Next Token : python, Posbility: 0.0301
+Next Token : checking, Posbility: 0.0068
+Choose : check,  Posbility: 0.5037
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check
+---------------------------
+Next Token : -, Posbility: 0.9927
+Next Token : /, Posbility: 0.0027
+Next Token : _, Posbility: 0.0016
+Next Token : er, Posbility: 0.0005
+Next Token : if, Posbility: 0.0003
+Choose : -,  Posbility: 0.9927
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-
+---------------------------
+Next Token : if, Posbility: 0.4639
+Next Token : whether, Posbility: 0.1964
+Next Token : pal, Posbility: 0.1780
+Next Token : a, Posbility: 0.0686
+Next Token : for, Posbility: 0.0144
+Choose : if,  Posbility: 0.4639
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if
+---------------------------
+Next Token : -, Posbility: 0.9996
+Next Token : /, Posbility: 0.0003
+Next Token : --, Posbility: 0.0000
+Next Token : a, Posbility: 0.0000
+Next Token : -', Posbility: 0.0000
+Choose : -,  Posbility: 0.9996
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-
+---------------------------
+Next Token : a, Posbility: 0.6524
+Next Token : number, Posbility: 0.0873
+Next Token : two, Posbility: 0.0396
+Next Token : n, Posbility: 0.0334
+Next Token : string, Posbility: 0.0307
+Choose : a,  Posbility: 0.6524
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a
+---------------------------
+Next Token : -, Posbility: 0.9991
+Next Token : /, Posbility: 0.0006
+Next Token : _, Posbility: 0.0001
+Next Token : -(, Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Choose : -,  Posbility: 0.9991
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-
+---------------------------
+Next Token : number, Posbility: 0.7558
+Next Token : string, Posbility: 0.1325
+Next Token : given, Posbility: 0.0417
+Next Token : n, Posbility: 0.0178
+Next Token : positive, Posbility: 0.0069
+Choose : number,  Posbility: 0.7558
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number
+---------------------------
+Next Token : -, Posbility: 0.9849
+Next Token : /, Posbility: 0.0129
+Next Token : is, Posbility: 0.0005
+Next Token : %, Posbility: 0.0005
+Next Token : _, Posbility: 0.0002
+Choose : -,  Posbility: 0.9849
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-
+---------------------------
+Next Token : is, Posbility: 0.9730
+Next Token : pal, Posbility: 0.0112
+Next Token : in, Posbility: 0.0019
+Next Token : has, Posbility: 0.0017
+Next Token : a, Posbility: 0.0014
+Choose : is,  Posbility: 0.9730
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is
+---------------------------
+Next Token : -, Posbility: 0.9961
+Next Token : /, Posbility: 0.0031
+Next Token : _, Posbility: 0.0003
+Next Token : --, Posbility: 0.0001
+Next Token : nt, Posbility: 0.0000
+Choose : -,  Posbility: 0.9961
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-
+---------------------------
+Next Token : a, Posbility: 0.6464
+Next Token : pal, Posbility: 0.2981
+Next Token : an, Posbility: 0.0069
+Next Token : p, Posbility: 0.0053
+Next Token : not, Posbility: 0.0048
+Choose : a,  Posbility: 0.6464
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a
+---------------------------
+Next Token : -, Posbility: 0.9978
+Next Token : /, Posbility: 0.0011
+Next Token : _, Posbility: 0.0002
+Next Token : --, Posbility: 0.0002
+Next Token : -', Posbility: 0.0001
+Choose : -,  Posbility: 0.9978
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-
+---------------------------
+Next Token : pal, Posbility: 0.9928
+Next Token : p, Posbility: 0.0012
+Next Token : string, Posbility: 0.0011
+Next Token : s, Posbility: 0.0003
+Next Token : Pal, Posbility: 0.0002
+Choose : pal,  Posbility: 0.9928
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-pal
+---------------------------
+Next Token : ind, Posbility: 0.9949
+Next Token : -, Posbility: 0.0023
+Next Token : id, Posbility: 0.0010
+Next Token : end, Posbility: 0.0005
+Next Token : ix, Posbility: 0.0001
+Choose : ind,  Posbility: 0.9949
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palind
+---------------------------
+Next Token : rome, Posbility: 0.9920
+Next Token : rom, Posbility: 0.0078
+Next Token : roma, Posbility: 0.0000
+Next Token : ome, Posbility: 0.0000
+Next Token : rone, Posbility: 0.0000
+Choose : rome,  Posbility: 0.9920
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palindrome
+---------------------------
+Next Token : /, Posbility: 0.9306
+Next Token : -, Posbility: 0.0591
+Next Token : /), Posbility: 0.0027
+Next Token : /?, Posbility: 0.0020
+Next Token : /#, Posbility: 0.0011
+Choose : /,  Posbility: 0.9306
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palindrome/
+---------------------------
+Next Token : '', Posbility: 0.8701
+Next Token : 
+, Posbility: 0.0560
+Next Token :  ', Posbility: 0.0493
+Next Token :  https, Posbility: 0.0061
+Next Token : https, Posbility: 0.0049
+Choose : '',  Posbility: 0.8701
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palindrome/''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palindrome/'''
+---------------------------
+Next Token : 
+, Posbility: 0.9135
+Next Token : 
+
+, Posbility: 0.0795
+Next Token :  , Posbility: 0.0019
+Next Token :     , Posbility: 0.0012
+Next Token : def, Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9135
+---------------------------
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palindrome/'''
+
+---------------------------
+Next Token : def, Posbility: 0.8760
+Next Token : 
+, Posbility: 0.0880
+Next Token : #, Posbility: 0.0170
+Next Token : '', Posbility: 0.0068
+Next Token : import, Posbility: 0.0027
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 18.515620470046997
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to toggle bits of the number except the first and the last bit. https://www.geeksforgeeks.org/toggle-bits-number-expect-first-last-bits/'''
+def toggle_bits(num):
+    if num & 0b1 == 0:
+        num = num | 0b1
+    else:
+        num = num & 0b1
+    return num
+
+
+'''Write a python function to check whether a number is a palindrome or not. https://www.geeksforgeeks.org/check-if-a-number-is-a-palindrome/'''
+

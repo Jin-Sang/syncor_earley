@@ -1,0 +1,2267 @@
+<<<<<<<<<<<< 216 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  shell, Posbility: 0.8683
+Next Token :  sort, Posbility: 0.0427
+Next Token :  shells, Posbility: 0.0294
+Next Token :  Shell, Posbility: 0.0211
+Next Token :  Sort, Posbility: 0.0026
+Choose :  shell,  Posbility: 0.8683
+'''Write a function to sort the given array by using shell sort.'''
+def shell
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shell
+---------------------------
+Next Token : Sort, Posbility: 0.6310
+Next Token : _, Posbility: 0.3223
+Next Token : (, Posbility: 0.0293
+Next Token : sort, Posbility: 0.0076
+Next Token : ():, Posbility: 0.0019
+Choose : Sort,  Posbility: 0.6310
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort
+---------------------------
+Next Token : (, Posbility: 0.9769
+Next Token :  (, Posbility: 0.0112
+Next Token : _, Posbility: 0.0023
+Next Token : 1, Posbility: 0.0016
+Next Token : ():, Posbility: 0.0010
+Choose : (,  Posbility: 0.9769
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(
+---------------------------
+Next Token : arr, Posbility: 0.6732
+Next Token : array, Posbility: 0.1165
+Next Token : a, Posbility: 0.0495
+Next Token : A, Posbility: 0.0191
+Next Token : n, Posbility: 0.0181
+Choose : arr,  Posbility: 0.6732
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr
+---------------------------
+Next Token : ):, Posbility: 0.9318
+Next Token : ,, Posbility: 0.0532
+Next Token : :, Posbility: 0.0074
+Next Token : ), Posbility: 0.0032
+Next Token : _, Posbility: 0.0007
+Choose : ):,  Posbility: 0.9318
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+---------------------------
+Next Token : 
+, Posbility: 0.9104
+Next Token : 
+
+, Posbility: 0.0348
+Next Token : , Posbility: 0.0248
+Next Token :  , Posbility: 0.0202
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9104
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+
+---------------------------
+Next Token :     , Posbility: 0.9100
+Next Token : 	, Posbility: 0.0441
+Next Token :   , Posbility: 0.0317
+Next Token :    , Posbility: 0.0060
+Next Token :         , Posbility: 0.0033
+Choose :     ,  Posbility: 0.9100
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    
+---------------------------
+Next Token : n, Posbility: 0.2755
+Next Token : '', Posbility: 0.0868
+Next Token : #, Posbility: 0.0758
+Next Token : gap, Posbility: 0.0643
+Next Token : for, Posbility: 0.0482
+Choose : n,  Posbility: 0.2755
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n
+---------------------------
+Next Token :  =, Posbility: 0.9167
+Next Token : =, Posbility: 0.0718
+Next Token : ums, Posbility: 0.0029
+Next Token : Len, Posbility: 0.0025
+Next Token : _, Posbility: 0.0011
+Choose :  =,  Posbility: 0.9167
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n =
+---------------------------
+Next Token :  len, Posbility: 0.9870
+Next Token :  int, Posbility: 0.0031
+Next Token :  1, Posbility: 0.0023
+Next Token : len, Posbility: 0.0020
+Next Token :  arr, Posbility: 0.0019
+Choose :  len,  Posbility: 0.9870
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0003
+Next Token : _, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : (,  Posbility: 0.9996
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(
+---------------------------
+Next Token : arr, Posbility: 0.9993
+Next Token : array, Posbility: 0.0001
+Next Token :  arr, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Next Token : input, Posbility: 0.0001
+Choose : arr,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr
+---------------------------
+Next Token : ), Posbility: 0.9972
+Next Token : )-, Posbility: 0.0018
+Next Token : );, Posbility: 0.0006
+Next Token : [, Posbility: 0.0001
+Next Token : )+, Posbility: 0.0001
+Choose : ),  Posbility: 0.9972
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+---------------------------
+Next Token : 
+, Posbility: 0.7167
+Next Token : 
+
+, Posbility: 0.2386
+Next Token :  , Posbility: 0.0127
+Next Token :  #, Posbility: 0.0126
+Next Token :  -, Posbility: 0.0093
+Choose : 
+,  Posbility: 0.7167
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+
+---------------------------
+Next Token :     , Posbility: 0.9957
+Next Token :  , Posbility: 0.0009
+Next Token :   , Posbility: 0.0007
+Next Token :         , Posbility: 0.0006
+Next Token : 	, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9957
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    
+---------------------------
+Next Token : gap, Posbility: 0.5775
+Next Token : for, Posbility: 0.0568
+Next Token : h, Posbility: 0.0452
+Next Token : #, Posbility: 0.0356
+Next Token : step, Posbility: 0.0230
+Choose : gap,  Posbility: 0.5775
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap
+---------------------------
+Next Token :  =, Posbility: 0.9797
+Next Token : _, Posbility: 0.0057
+Next Token : =, Posbility: 0.0030
+Next Token :   , Posbility: 0.0021
+Next Token : Size, Posbility: 0.0014
+Choose :  =,  Posbility: 0.9797
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap =
+---------------------------
+Next Token :  n, Posbility: 0.7047
+Next Token :  1, Posbility: 0.1251
+Next Token :  int, Posbility: 0.0567
+Next Token :  2, Posbility: 0.0186
+Next Token :  len, Posbility: 0.0119
+Choose :  n,  Posbility: 0.7047
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n
+---------------------------
+Next Token :  //, Posbility: 0.6184
+Next Token : //, Posbility: 0.3281
+Next Token :  /, Posbility: 0.0152
+Next Token : /, Posbility: 0.0136
+Next Token :  -, Posbility: 0.0074
+Choose :  //,  Posbility: 0.6184
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n //
+---------------------------
+Next Token :  2, Posbility: 0.8208
+Next Token :  3, Posbility: 0.1367
+Next Token :  4, Posbility: 0.0150
+Next Token : 2, Posbility: 0.0070
+Next Token :  10, Posbility: 0.0057
+Choose :  2,  Posbility: 0.8208
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+---------------------------
+Next Token : 
+, Posbility: 0.6141
+Next Token : 
+
+, Posbility: 0.2991
+Next Token :  #, Posbility: 0.0360
+Next Token :  , Posbility: 0.0112
+Next Token :   , Posbility: 0.0093
+Choose : 
+,  Posbility: 0.6141
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+
+---------------------------
+Next Token :     , Posbility: 0.9957
+Next Token :  , Posbility: 0.0018
+Next Token :    , Posbility: 0.0006
+Next Token : 	, Posbility: 0.0006
+Next Token :      , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9957
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    
+---------------------------
+Next Token : while, Posbility: 0.9488
+Next Token : #, Posbility: 0.0099
+Next Token : for, Posbility: 0.0079
+Next Token : 
+, Posbility: 0.0056
+Next Token : print, Posbility: 0.0037
+Choose : while,  Posbility: 0.9488
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while
+---------------------------
+Next Token :  gap, Posbility: 0.9741
+Next Token :  (, Posbility: 0.0079
+Next Token : (, Posbility: 0.0066
+Next Token :  n, Posbility: 0.0060
+Next Token :  True, Posbility: 0.0025
+Choose :  gap,  Posbility: 0.9741
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap
+---------------------------
+Next Token :  >, Posbility: 0.6845
+Next Token :  >=, Posbility: 0.2603
+Next Token : >, Posbility: 0.0320
+Next Token : !=, Posbility: 0.0147
+Next Token : :, Posbility: 0.0071
+Choose :  >,  Posbility: 0.6845
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap >
+---------------------------
+Next Token :  0, Posbility: 0.9892
+Next Token :  1, Posbility: 0.0061
+Next Token : 0, Posbility: 0.0045
+Next Token :  -, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Choose :  0,  Posbility: 0.9892
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0
+---------------------------
+Next Token : :, Posbility: 0.9961
+Next Token :  :, Posbility: 0.0037
+Next Token :  and, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Next Token :  or, Posbility: 0.0000
+Choose : :,  Posbility: 0.9961
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9853
+Next Token : 
+
+, Posbility: 0.0069
+Next Token :  , Posbility: 0.0021
+Next Token :   , Posbility: 0.0016
+Next Token :  #, Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9853
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9913
+Next Token :             , Posbility: 0.0035
+Next Token :        , Posbility: 0.0014
+Next Token :       , Posbility: 0.0013
+Next Token :          , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9913
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        
+---------------------------
+Next Token : for, Posbility: 0.9018
+Next Token : #, Posbility: 0.0213
+Next Token : print, Posbility: 0.0194
+Next Token : gap, Posbility: 0.0159
+Next Token : i, Posbility: 0.0062
+Choose : for,  Posbility: 0.9018
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for
+---------------------------
+Next Token :  i, Posbility: 0.9263
+Next Token :  j, Posbility: 0.0472
+Next Token :  start, Posbility: 0.0113
+Next Token :  id, Posbility: 0.0043
+Next Token :  k, Posbility: 0.0026
+Choose :  i,  Posbility: 0.9263
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i
+---------------------------
+Next Token :  in, Posbility: 0.9991
+Next Token : ,, Posbility: 0.0005
+Next Token :   , Posbility: 0.0001
+Next Token :  from, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9991
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in
+---------------------------
+Next Token :  range, Posbility: 0.9993
+Next Token :  reversed, Posbility: 0.0002
+Next Token :  list, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Choose :  range,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range
+---------------------------
+Next Token : (, Posbility: 0.9938
+Next Token :  (, Posbility: 0.0036
+Next Token : ((, Posbility: 0.0025
+Next Token : (-, Posbility: 0.0000
+Next Token :  ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9938
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(
+---------------------------
+Next Token : gap, Posbility: 0.9819
+Next Token : 0, Posbility: 0.0124
+Next Token : n, Posbility: 0.0031
+Next Token :  gap, Posbility: 0.0011
+Next Token : 1, Posbility: 0.0008
+Choose : gap,  Posbility: 0.9819
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap
+---------------------------
+Next Token : ,, Posbility: 0.9969
+Next Token : ):, Posbility: 0.0018
+Next Token : ,, Posbility: 0.0008
+Next Token :  -, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : ,,  Posbility: 0.9969
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap,
+---------------------------
+Next Token :  n, Posbility: 0.7991
+Next Token : n, Posbility: 0.1795
+Next Token :  len, Posbility: 0.0084
+Next Token :  -, Posbility: 0.0056
+Next Token :  0, Posbility: 0.0045
+Choose :  n,  Posbility: 0.7991
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n
+---------------------------
+Next Token : ):, Posbility: 0.9876
+Next Token : ,, Posbility: 0.0047
+Next Token :  -, Posbility: 0.0029
+Next Token : -, Posbility: 0.0029
+Next Token : +, Posbility: 0.0005
+Choose : ):,  Posbility: 0.9876
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+---------------------------
+Next Token : 
+, Posbility: 0.9867
+Next Token :  #, Posbility: 0.0035
+Next Token :  , Posbility: 0.0027
+Next Token :   , Posbility: 0.0023
+Next Token : 
+
+, Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9867
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+
+---------------------------
+Next Token :             , Posbility: 0.9956
+Next Token :                 , Posbility: 0.0017
+Next Token :              , Posbility: 0.0008
+Next Token :            , Posbility: 0.0006
+Next Token :           , Posbility: 0.0004
+Choose :             ,  Posbility: 0.9956
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            
+---------------------------
+Next Token : temp, Posbility: 0.5565
+Next Token : j, Posbility: 0.1644
+Next Token : tmp, Posbility: 0.0580
+Next Token : val, Posbility: 0.0320
+Next Token : value, Posbility: 0.0233
+Choose : temp,  Posbility: 0.5565
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp
+---------------------------
+Next Token :  =, Posbility: 0.9845
+Next Token : _, Posbility: 0.0066
+Next Token : =, Posbility: 0.0028
+Next Token : 1, Posbility: 0.0013
+Next Token : Val, Posbility: 0.0010
+Choose :  =,  Posbility: 0.9845
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp =
+---------------------------
+Next Token :  arr, Posbility: 0.9985
+Next Token : arr, Posbility: 0.0002
+Next Token :  0, Posbility: 0.0002
+Next Token :  [], Posbility: 0.0002
+Next Token :  i, Posbility: 0.0001
+Choose :  arr,  Posbility: 0.9985
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr
+---------------------------
+Next Token : [, Posbility: 0.9990
+Next Token : ., Posbility: 0.0008
+Next Token :  [, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Choose : [,  Posbility: 0.9990
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[
+---------------------------
+Next Token : i, Posbility: 0.9991
+Next Token : arr, Posbility: 0.0004
+Next Token :  i, Posbility: 0.0002
+Next Token : 0, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Choose : i,  Posbility: 0.9991
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i
+---------------------------
+Next Token : ], Posbility: 0.9971
+Next Token : ][, Posbility: 0.0007
+Next Token : ]., Posbility: 0.0007
+Next Token : ];, Posbility: 0.0006
+Next Token :  +, Posbility: 0.0001
+Choose : ],  Posbility: 0.9971
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+---------------------------
+Next Token : 
+, Posbility: 0.9733
+Next Token : 
+
+, Posbility: 0.0122
+Next Token :  #, Posbility: 0.0045
+Next Token :  , Posbility: 0.0036
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9733
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+
+---------------------------
+Next Token :             , Posbility: 0.9995
+Next Token :            , Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :           , Posbility: 0.0000
+Choose :             ,  Posbility: 0.9995
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            
+---------------------------
+Next Token : j, Posbility: 0.9945
+Next Token : #, Posbility: 0.0012
+Next Token : id, Posbility: 0.0010
+Next Token : while, Posbility: 0.0006
+Next Token : for, Posbility: 0.0005
+Choose : j,  Posbility: 0.9945
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j
+---------------------------
+Next Token :  =, Posbility: 0.9969
+Next Token : =, Posbility: 0.0026
+Next Token : _, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose :  =,  Posbility: 0.9969
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j =
+---------------------------
+Next Token :  i, Posbility: 0.9997
+Next Token : i, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token :  n, Posbility: 0.0001
+Next Token :  0, Posbility: 0.0000
+Choose :  i,  Posbility: 0.9997
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+---------------------------
+Next Token : 
+, Posbility: 0.9662
+Next Token :  , Posbility: 0.0067
+Next Token :  -, Posbility: 0.0064
+Next Token : -, Posbility: 0.0056
+Next Token : 
+
+, Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9662
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+
+---------------------------
+Next Token :             , Posbility: 0.9985
+Next Token :            , Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0004
+Next Token :           , Posbility: 0.0002
+Next Token :              , Posbility: 0.0001
+Choose :             ,  Posbility: 0.9985
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            
+---------------------------
+Next Token : while, Posbility: 0.9774
+Next Token : #, Posbility: 0.0142
+Next Token : for, Posbility: 0.0029
+Next Token : j, Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0010
+Choose : while,  Posbility: 0.9774
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while
+---------------------------
+Next Token :  j, Posbility: 0.9230
+Next Token :  arr, Posbility: 0.0420
+Next Token :  (, Posbility: 0.0091
+Next Token :   , Posbility: 0.0084
+Next Token :  i, Posbility: 0.0074
+Choose :  j,  Posbility: 0.9230
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j
+---------------------------
+Next Token :  >=, Posbility: 0.9582
+Next Token :  >, Posbility: 0.0323
+Next Token : >, Posbility: 0.0077
+Next Token :  -, Posbility: 0.0010
+Next Token : -, Posbility: 0.0003
+Choose :  >=,  Posbility: 0.9582
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >=
+---------------------------
+Next Token :  gap, Posbility: 0.9988
+Next Token :  0, Posbility: 0.0007
+Next Token : gap, Posbility: 0.0004
+Next Token :  1, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose :  gap,  Posbility: 0.9988
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap
+---------------------------
+Next Token :  and, Posbility: 0.9988
+Next Token : :, Posbility: 0.0010
+Next Token :   , Posbility: 0.0001
+Next Token :  >, Posbility: 0.0000
+Next Token :  &, Posbility: 0.0000
+Choose :  and,  Posbility: 0.9988
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and
+---------------------------
+Next Token :  arr, Posbility: 0.9753
+Next Token :  temp, Posbility: 0.0196
+Next Token :  abs, Posbility: 0.0021
+Next Token :  (, Posbility: 0.0014
+Next Token :  gap, Posbility: 0.0004
+Choose :  arr,  Posbility: 0.9753
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token :  [, Posbility: 0.0002
+Next Token : _, Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Next Token : [_, Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[
+---------------------------
+Next Token : j, Posbility: 0.9993
+Next Token : i, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : gap, Posbility: 0.0000
+Choose : j,  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j
+---------------------------
+Next Token :  -, Posbility: 0.7682
+Next Token : -, Posbility: 0.2157
+Next Token : ], Posbility: 0.0091
+Next Token :  //, Posbility: 0.0052
+Next Token : //, Posbility: 0.0008
+Choose :  -,  Posbility: 0.7682
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j -
+---------------------------
+Next Token :  gap, Posbility: 0.9991
+Next Token : gap, Posbility: 0.0007
+Next Token :  (, Posbility: 0.0001
+Next Token :  g, Posbility: 0.0001
+Next Token :  1, Posbility: 0.0000
+Choose :  gap,  Posbility: 0.9991
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap
+---------------------------
+Next Token : ], Posbility: 0.9997
+Next Token :  ], Posbility: 0.0002
+Next Token :  -, Posbility: 0.0000
+Next Token : ][, Posbility: 0.0000
+Next Token : ]:, Posbility: 0.0000
+Choose : ],  Posbility: 0.9997
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap]
+---------------------------
+Next Token :  >, Posbility: 0.9988
+Next Token :  <, Posbility: 0.0009
+Next Token :  >=, Posbility: 0.0002
+Next Token : >, Posbility: 0.0001
+Next Token :  <=, Posbility: 0.0000
+Choose :  >,  Posbility: 0.9988
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] >
+---------------------------
+Next Token :  temp, Posbility: 0.9608
+Next Token :  arr, Posbility: 0.0350
+Next Token : temp, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose :  temp,  Posbility: 0.9608
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp
+---------------------------
+Next Token : :, Posbility: 0.9943
+Next Token :  :, Posbility: 0.0049
+Next Token :  and, Posbility: 0.0005
+Next Token : :#, Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Choose : :,  Posbility: 0.9943
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+---------------------------
+Next Token : 
+, Posbility: 0.9824
+Next Token :  #, Posbility: 0.0061
+Next Token :   , Posbility: 0.0060
+Next Token :  , Posbility: 0.0031
+Next Token :    , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9824
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+
+---------------------------
+Next Token :                 , Posbility: 0.9972
+Next Token :                     , Posbility: 0.0013
+Next Token :                  , Posbility: 0.0004
+Next Token :                , Posbility: 0.0003
+Next Token :             , Posbility: 0.0003
+Choose :                 ,  Posbility: 0.9972
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                
+---------------------------
+Next Token : arr, Posbility: 0.9920
+Next Token : #, Posbility: 0.0051
+Next Token : temp, Posbility: 0.0009
+Next Token : j, Posbility: 0.0008
+Next Token : print, Posbility: 0.0004
+Choose : arr,  Posbility: 0.9920
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr
+---------------------------
+Next Token : [, Posbility: 0.9999
+Next Token :  =, Posbility: 0.0000
+Next Token :  [, Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Next Token : [_, Posbility: 0.0000
+Choose : [,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[
+---------------------------
+Next Token : j, Posbility: 0.9996
+Next Token : i, Posbility: 0.0003
+Next Token :  j, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : k, Posbility: 0.0000
+Choose : j,  Posbility: 0.9996
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j
+---------------------------
+Next Token : ], Posbility: 0.9871
+Next Token :  -, Posbility: 0.0087
+Next Token :  +, Posbility: 0.0012
+Next Token : ],, Posbility: 0.0009
+Next Token : '], Posbility: 0.0008
+Choose : ],  Posbility: 0.9871
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j]
+---------------------------
+Next Token :  =, Posbility: 0.9983
+Next Token : 
+, Posbility: 0.0011
+Next Token : ,, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :  +=, Posbility: 0.0001
+Choose :  =,  Posbility: 0.9983
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] =
+---------------------------
+Next Token :  arr, Posbility: 0.9995
+Next Token : arr, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Next Token :  temp, Posbility: 0.0000
+Next Token :  array, Posbility: 0.0000
+Choose :  arr,  Posbility: 0.9995
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr
+---------------------------
+Next Token : [, Posbility: 0.9999
+Next Token :  [, Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : [,  Posbility: 0.9999
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[
+---------------------------
+Next Token : j, Posbility: 0.9998
+Next Token : (, Posbility: 0.0000
+Next Token :  j, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : J, Posbility: 0.0000
+Choose : j,  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j
+---------------------------
+Next Token :  -, Posbility: 0.9704
+Next Token : -, Posbility: 0.0283
+Next Token :  -=, Posbility: 0.0006
+Next Token : _, Posbility: 0.0005
+Next Token : -(, Posbility: 0.0000
+Choose :  -,  Posbility: 0.9704
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j -
+---------------------------
+Next Token :  gap, Posbility: 0.9995
+Next Token : gap, Posbility: 0.0005
+Next Token :  g, Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose :  gap,  Posbility: 0.9995
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap
+---------------------------
+Next Token : ], Posbility: 0.9998
+Next Token :  ], Posbility: 0.0001
+Next Token : ];, Posbility: 0.0001
+Next Token :  +, Posbility: 0.0000
+Next Token :  -, Posbility: 0.0000
+Choose : ],  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+---------------------------
+Next Token : 
+, Posbility: 0.9935
+Next Token :  , Posbility: 0.0025
+Next Token :   , Posbility: 0.0015
+Next Token :  #, Posbility: 0.0010
+Next Token : 
+
+, Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9935
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+
+---------------------------
+Next Token :                 , Posbility: 0.9994
+Next Token :             , Posbility: 0.0005
+Next Token :         , Posbility: 0.0000
+Next Token :                , Posbility: 0.0000
+Next Token :     , Posbility: 0.0000
+Choose :                 ,  Posbility: 0.9994
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                
+---------------------------
+Next Token : j, Posbility: 0.9945
+Next Token : arr, Posbility: 0.0031
+Next Token : #, Posbility: 0.0010
+Next Token : print, Posbility: 0.0004
+Next Token : n, Posbility: 0.0003
+Choose : j,  Posbility: 0.9945
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j
+---------------------------
+Next Token :  -=, Posbility: 0.8698
+Next Token :  =, Posbility: 0.1280
+Next Token : -, Posbility: 0.0019
+Next Token :  -, Posbility: 0.0001
+Next Token : =, Posbility: 0.0000
+Choose :  -=,  Posbility: 0.8698
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -=
+---------------------------
+Next Token :  gap, Posbility: 0.9989
+Next Token : gap, Posbility: 0.0008
+Next Token :   , Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token :  1, Posbility: 0.0001
+Choose :  gap,  Posbility: 0.9989
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+---------------------------
+Next Token : 
+, Posbility: 0.9743
+Next Token : 
+
+, Posbility: 0.0197
+Next Token :  , Posbility: 0.0030
+Next Token :   , Posbility: 0.0008
+Next Token :  -, Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9743
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+
+---------------------------
+Next Token :             , Posbility: 0.9894
+Next Token :                 , Posbility: 0.0080
+Next Token :         , Posbility: 0.0022
+Next Token :            , Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Choose :             ,  Posbility: 0.9894
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            
+---------------------------
+Next Token : arr, Posbility: 0.9980
+Next Token : 
+, Posbility: 0.0006
+Next Token : #, Posbility: 0.0005
+Next Token : if, Posbility: 0.0003
+Next Token : temp, Posbility: 0.0002
+Choose : arr,  Posbility: 0.9980
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr
+---------------------------
+Next Token : [, Posbility: 1.0000
+Next Token :  [, Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : [_, Posbility: 0.0000
+Choose : [,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[
+---------------------------
+Next Token : j, Posbility: 0.9996
+Next Token : i, Posbility: 0.0004
+Next Token : n, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  j, Posbility: 0.0000
+Choose : j,  Posbility: 0.9996
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j
+---------------------------
+Next Token : ], Posbility: 0.9993
+Next Token : ]=, Posbility: 0.0003
+Next Token :  +, Posbility: 0.0002
+Next Token :  ], Posbility: 0.0001
+Next Token : ],, Posbility: 0.0000
+Choose : ],  Posbility: 0.9993
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j]
+---------------------------
+Next Token :  =, Posbility: 0.9998
+Next Token :   , Posbility: 0.0001
+Next Token :  +=, Posbility: 0.0001
+Next Token :  ==, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose :  =,  Posbility: 0.9998
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] =
+---------------------------
+Next Token :  temp, Posbility: 0.9992
+Next Token : temp, Posbility: 0.0007
+Next Token :   , Posbility: 0.0000
+Next Token :  arr, Posbility: 0.0000
+Next Token :  tmp, Posbility: 0.0000
+Choose :  temp,  Posbility: 0.9992
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+---------------------------
+Next Token : 
+, Posbility: 0.9253
+Next Token : 
+
+, Posbility: 0.0651
+Next Token :  , Posbility: 0.0029
+Next Token :   , Posbility: 0.0016
+Next Token :     , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9253
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+
+---------------------------
+Next Token :         , Posbility: 0.9139
+Next Token :             , Posbility: 0.0833
+Next Token :     , Posbility: 0.0014
+Next Token : 
+, Posbility: 0.0007
+Next Token : #, Posbility: 0.0001
+Choose :         ,  Posbility: 0.9139
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        
+---------------------------
+Next Token : gap, Posbility: 0.9865
+Next Token : print, Posbility: 0.0062
+Next Token : 
+, Posbility: 0.0023
+Next Token : n, Posbility: 0.0019
+Next Token : #, Posbility: 0.0007
+Choose : gap,  Posbility: 0.9865
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap
+---------------------------
+Next Token :  //, Posbility: 0.6985
+Next Token :  =, Posbility: 0.2870
+Next Token :  *, Posbility: 0.0090
+Next Token :  /, Posbility: 0.0023
+Next Token :  -=, Posbility: 0.0010
+Choose :  //,  Posbility: 0.6985
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //
+---------------------------
+Next Token : =, Posbility: 1.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : =-, Posbility: 0.0000
+Next Token : =(, Posbility: 0.0000
+Next Token :  //, Posbility: 0.0000
+Choose : =,  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //=
+---------------------------
+Next Token :  2, Posbility: 0.9873
+Next Token : 2, Posbility: 0.0036
+Next Token :  3, Posbility: 0.0023
+Next Token :  5, Posbility: 0.0016
+Next Token :  1, Posbility: 0.0015
+Choose :  2,  Posbility: 0.9873
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+---------------------------
+Next Token : 
+, Posbility: 0.7485
+Next Token : 
+
+, Posbility: 0.2346
+Next Token : <|endoftext|>, Posbility: 0.0048
+Next Token :  , Posbility: 0.0035
+Next Token :  #, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.7485
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+
+---------------------------
+Next Token :     , Posbility: 0.7128
+Next Token : 
+, Posbility: 0.1631
+Next Token :         , Posbility: 0.0460
+Next Token : print, Posbility: 0.0338
+Next Token : def, Posbility: 0.0104
+Choose :     ,  Posbility: 0.7128
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    
+---------------------------
+Next Token : return, Posbility: 0.8749
+Next Token : print, Posbility: 0.0880
+Next Token : 
+, Posbility: 0.0139
+Next Token : for, Posbility: 0.0064
+Next Token : #, Posbility: 0.0063
+Choose : return,  Posbility: 0.8749
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return
+---------------------------
+Next Token :  arr, Posbility: 0.9920
+Next Token :  sorted, Posbility: 0.0027
+Next Token : (, Posbility: 0.0026
+Next Token : 
+, Posbility: 0.0005
+Next Token :  (, Posbility: 0.0004
+Choose :  arr,  Posbility: 0.9920
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+---------------------------
+Next Token : 
+, Posbility: 0.6735
+Next Token : 
+
+, Posbility: 0.2728
+Next Token : <|endoftext|>, Posbility: 0.0423
+Next Token :  , Posbility: 0.0043
+Next Token : [, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.6735
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+---------------------------
+Next Token : 
+, Posbility: 0.7098
+Next Token : print, Posbility: 0.0551
+Next Token : arr, Posbility: 0.0451
+Next Token : <|endoftext|>, Posbility: 0.0404
+Next Token : '', Posbility: 0.0249
+Choose : 
+,  Posbility: 0.7098
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9797
+Next Token : <|endoftext|>, Posbility: 0.0076
+Next Token : 
+
+, Posbility: 0.0064
+Next Token :     , Posbility: 0.0045
+Next Token :         , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9797
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2192
+Next Token : def, Posbility: 0.1925
+Next Token : #, Posbility: 0.1500
+Next Token : if, Posbility: 0.1192
+Next Token : arr, Posbility: 0.1186
+Choose : '',  Posbility: 0.2192
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7471
+Next Token :  Write, Posbility: 0.0378
+Next Token : 
+, Posbility: 0.0300
+Next Token : Sort, Posbility: 0.0168
+Next Token : Given, Posbility: 0.0080
+Choose : Write,  Posbility: 0.7471
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9853
+Next Token :  your, Posbility: 0.0045
+Next Token :  an, Posbility: 0.0033
+Next Token :  function, Posbility: 0.0015
+Next Token :  the, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9853
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.8751
+Next Token :  Python, Posbility: 0.0415
+Next Token :  python, Posbility: 0.0179
+Next Token :  recursive, Posbility: 0.0114
+Next Token :  program, Posbility: 0.0112
+Choose :  function,  Posbility: 0.8751
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.8007
+Next Token :  that, Posbility: 0.1200
+Next Token :  called, Posbility: 0.0231
+Next Token :  which, Posbility: 0.0083
+Next Token :  sort, Posbility: 0.0055
+Choose :  to,  Posbility: 0.8007
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to
+---------------------------
+Next Token :  sort, Posbility: 0.1463
+Next Token :  find, Posbility: 0.1276
+Next Token :  merge, Posbility: 0.0718
+Next Token :  print, Posbility: 0.0639
+Next Token :  return, Posbility: 0.0624
+Choose :  sort,  Posbility: 0.1463
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort
+---------------------------
+Next Token :  the, Posbility: 0.7747
+Next Token :  an, Posbility: 0.1545
+Next Token :  a, Posbility: 0.0328
+Next Token :  by, Posbility: 0.0056
+Next Token :  given, Posbility: 0.0052
+Choose :  the,  Posbility: 0.7747
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the
+---------------------------
+Next Token :  given, Posbility: 0.9839
+Next Token :  array, Posbility: 0.0046
+Next Token :  elements, Posbility: 0.0021
+Next Token :  list, Posbility: 0.0016
+Next Token :  numbers, Posbility: 0.0007
+Choose :  given,  Posbility: 0.9839
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given
+---------------------------
+Next Token :  array, Posbility: 0.9470
+Next Token :  list, Posbility: 0.0232
+Next Token :  uns, Posbility: 0.0052
+Next Token :  arrays, Posbility: 0.0036
+Next Token :  arr, Posbility: 0.0024
+Choose :  array,  Posbility: 0.9470
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array
+---------------------------
+Next Token :  by, Posbility: 0.7197
+Next Token :  in, Posbility: 0.1194
+Next Token :  using, Posbility: 0.0839
+Next Token : .', Posbility: 0.0161
+Next Token :  of, Posbility: 0.0121
+Choose :  by,  Posbility: 0.7197
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by
+---------------------------
+Next Token :  using, Posbility: 0.7820
+Next Token :  counting, Posbility: 0.0081
+Next Token :  rec, Posbility: 0.0062
+Next Token :  the, Posbility: 0.0055
+Next Token :  increasing, Posbility: 0.0043
+Choose :  using,  Posbility: 0.7820
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using
+---------------------------
+Next Token :  bubble, Posbility: 0.2573
+Next Token :  insertion, Posbility: 0.1676
+Next Token :  merge, Posbility: 0.0857
+Next Token :  heap, Posbility: 0.0651
+Next Token :  quick, Posbility: 0.0490
+Choose :  bubble,  Posbility: 0.2573
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using bubble
+---------------------------
+Next Token :  sort, Posbility: 0.9788
+Next Token : -, Posbility: 0.0050
+Next Token : Sort, Posbility: 0.0037
+Next Token :  sorting, Posbility: 0.0022
+Next Token : _, Posbility: 0.0014
+Choose :  sort,  Posbility: 0.9788
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using bubble sort
+---------------------------
+Next Token : .', Posbility: 0.8638
+Next Token : '', Posbility: 0.0836
+Next Token : ., Posbility: 0.0234
+Next Token :  algorithm, Posbility: 0.0039
+Next Token : 
+, Posbility: 0.0034
+Choose : .',  Posbility: 0.8638
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using bubble sort.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : ', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using bubble sort.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9588
+Next Token : 
+
+, Posbility: 0.0361
+Next Token : def, Posbility: 0.0025
+Next Token :  , Posbility: 0.0011
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9588
+---------------------------
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using bubble sort.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9330
+Next Token : 
+, Posbility: 0.0380
+Next Token : #, Posbility: 0.0155
+Next Token : '', Posbility: 0.0032
+Next Token : from, Posbility: 0.0030
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 21.24892783164978
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to sort the given array by using shell sort.'''
+def shellSort(arr):
+    n = len(arr)
+    gap = n // 2
+    while gap > 0:
+        for i in range(gap, n):
+            temp = arr[i]
+            j = i
+            while j >= gap and arr[j - gap] > temp:
+                arr[j] = arr[j - gap]
+                j -= gap
+            arr[j] = temp
+        gap //= 2
+    return arr
+
+
+'''Write a function to sort the given array by using bubble sort.'''
+

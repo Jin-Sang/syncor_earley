@@ -1,0 +1,579 @@
+<<<<<<<<<<<< 71 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1555
+Next Token : ile, Posbility: 0.1490
+Next Token : ia, Posbility: 0.0739
+Next Token : iban, Posbility: 0.0653
+Next Token : ____, Posbility: 0.0382
+syntax error : 
+
+Choose : ile, Posbility: 0.1490
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile
+---------------------------
+Next Token : _, Posbility: 0.3412
+Next Token : (, Posbility: 0.0472
+Next Token : ():, Posbility: 0.0428
+Next Token : z, Posbility: 0.0216
+Next Token : m, Posbility: 0.0213
+Choose : _, Posbility: 0.3412
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_
+---------------------------
+Next Token : sum, Posbility: 0.2098
+Next Token : amic, Posbility: 0.1038
+Next Token : am, Posbility: 0.1005
+Next Token : n, Posbility: 0.0333
+Next Token : s, Posbility: 0.0263
+Choose : sum, Posbility: 0.2098
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum
+---------------------------
+Next Token : (, Posbility: 0.4289
+Next Token : _, Posbility: 0.1636
+Next Token : ():, Posbility: 0.1026
+Next Token : ma, Posbility: 0.0818
+Next Token : ar, Posbility: 0.0201
+Choose : (, Posbility: 0.4289
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(
+---------------------------
+Next Token : n, Posbility: 0.4107
+Next Token : num, Posbility: 0.2078
+Next Token : number, Posbility: 0.0788
+Next Token : x, Posbility: 0.0783
+Next Token : a, Posbility: 0.0581
+Choose : n, Posbility: 0.4107
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n
+---------------------------
+Next Token : ):, Posbility: 0.8878
+Next Token : ,, Posbility: 0.0402
+Next Token : :, Posbility: 0.0231
+Next Token : umbers, Posbility: 0.0112
+Next Token : ), Posbility: 0.0093
+Choose : ):, Posbility: 0.8878
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+---------------------------
+Next Token : 
+, Posbility: 0.8821
+Next Token : , Posbility: 0.0422
+Next Token :  , Posbility: 0.0326
+Next Token : 
+
+, Posbility: 0.0197
+Next Token :  #, Posbility: 0.0094
+Choose : 
+, Posbility: 0.8821
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+
+---------------------------
+Next Token :     , Posbility: 0.9183
+Next Token :   , Posbility: 0.0330
+Next Token : 	, Posbility: 0.0310
+Next Token :    , Posbility: 0.0088
+Next Token :         , Posbility: 0.0022
+Choose :     , Posbility: 0.9183
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    
+---------------------------
+Next Token : sum, Posbility: 0.3319
+Next Token : if, Posbility: 0.1168
+Next Token : s, Posbility: 0.1013
+Next Token : '', Posbility: 0.0548
+Next Token : i, Posbility: 0.0301
+Choose : sum, Posbility: 0.3319
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.5827
+Next Token : _, Posbility: 0.1829
+Next Token : =, Posbility: 0.1420
+Next Token : ma, Posbility: 0.0368
+Next Token : 1, Posbility: 0.0176
+Choose :  =, Posbility: 0.5827
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9238
+Next Token :  1, Posbility: 0.0376
+Next Token :  [], Posbility: 0.0143
+Next Token : 0, Posbility: 0.0064
+Next Token :  n, Posbility: 0.0053
+Choose :  0, Posbility: 0.9238
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9428
+Next Token : 
+
+, Posbility: 0.0282
+Next Token :  , Posbility: 0.0148
+Next Token : ;, Posbility: 0.0057
+Next Token :  #, Posbility: 0.0028
+Choose : 
+, Posbility: 0.9428
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9973
+Next Token :         , Posbility: 0.0004
+Next Token :  , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Choose :     , Posbility: 0.9973
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.5099
+Next Token : i, Posbility: 0.1170
+Next Token : if, Posbility: 0.0718
+Next Token : while, Posbility: 0.0632
+Next Token : 
+, Posbility: 0.0206
+Choose : for, Posbility: 0.5099
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7779
+Next Token :  x, Posbility: 0.0557
+Next Token :  num, Posbility: 0.0475
+Next Token :  n, Posbility: 0.0408
+Next Token :  a, Posbility: 0.0151
+Choose :  i, Posbility: 0.7779
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9987
+Next Token : ,, Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0001
+Choose :  in, Posbility: 0.9987
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9966
+Next Token :  str, Posbility: 0.0012
+Next Token :  reversed, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0003
+Next Token :  (, Posbility: 0.0002
+Choose :  range, Posbility: 0.9966
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9758
+Next Token :  (, Posbility: 0.0235
+Next Token : (-, Posbility: 0.0004
+Next Token : ((, Posbility: 0.0001
+Next Token : :, Posbility: 0.0001
+Choose : (, Posbility: 0.9758
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : 1, Posbility: 0.7603
+Next Token : n, Posbility: 0.1564
+Next Token : 2, Posbility: 0.0535
+Next Token : 0, Posbility: 0.0258
+Next Token : int, Posbility: 0.0012
+Choose : 1, Posbility: 0.7603
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1
+---------------------------
+Next Token : ,, Posbility: 0.9981
+Next Token : ,, Posbility: 0.0018
+Next Token : +, Posbility: 0.0000
+Next Token : 000000, Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Choose : ,, Posbility: 0.9981
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1,
+---------------------------
+Next Token :  n, Posbility: 0.6922
+Next Token : n, Posbility: 0.2743
+Next Token :  int, Posbility: 0.0160
+Next Token : int, Posbility: 0.0050
+Next Token :  (, Posbility: 0.0034
+Choose :  n, Posbility: 0.6922
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n
+---------------------------
+Next Token : +, Posbility: 0.4174
+Next Token :  +, Posbility: 0.4093
+Next Token : ):, Posbility: 0.1632
+Next Token : ,, Posbility: 0.0039
+Next Token : //, Posbility: 0.0021
+Choose : +, Posbility: 0.4174
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+
+---------------------------
+Next Token : 1, Posbility: 0.9949
+Next Token : 2, Posbility: 0.0037
+Next Token :  1, Posbility: 0.0010
+Next Token : n, Posbility: 0.0001
+Next Token : 3, Posbility: 0.0001
+Choose : 1, Posbility: 0.9949
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1
+---------------------------
+Next Token : ):, Posbility: 0.9764
+Next Token : ,, Posbility: 0.0181
+Next Token : ), Posbility: 0.0048
+Next Token :  ):, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0001
+Choose : ):, Posbility: 0.9764
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+---------------------------
+Next Token : 
+, Posbility: 0.9731
+Next Token :  , Posbility: 0.0081
+Next Token : 
+
+, Posbility: 0.0056
+Next Token :  #, Posbility: 0.0046
+Next Token :   , Posbility: 0.0032
+Choose : 
+, Posbility: 0.9731
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+
+---------------------------
+Next Token :         , Posbility: 0.9815
+Next Token :       , Posbility: 0.0057
+Next Token :        , Posbility: 0.0041
+Next Token :             , Posbility: 0.0036
+Next Token :     , Posbility: 0.0014
+Choose :         , Posbility: 0.9815
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        
+---------------------------
+Next Token : if, Posbility: 0.6233
+Next Token : sum, Posbility: 0.1696
+Next Token : for, Posbility: 0.0209
+Next Token : #, Posbility: 0.0167
+Next Token : num, Posbility: 0.0117
+Choose : if, Posbility: 0.6233
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if
+---------------------------
+Next Token :  i, Posbility: 0.3632
+Next Token :  is, Posbility: 0.2191
+Next Token :  n, Posbility: 0.1132
+Next Token :  (, Posbility: 0.1017
+Next Token :  sum, Posbility: 0.0488
+Choose :  i, Posbility: 0.3632
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i
+---------------------------
+Next Token :  %, Posbility: 0.2708
+Next Token :  ==, Posbility: 0.2117
+Next Token : %, Posbility: 0.1011
+Next Token :  <, Posbility: 0.0621
+Next Token : !=, Posbility: 0.0567
+Choose :  %, Posbility: 0.2708
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i %
+---------------------------
+Next Token :  2, Posbility: 0.8702
+Next Token :  10, Posbility: 0.0283
+Next Token :  3, Posbility: 0.0238
+Next Token : 2, Posbility: 0.0170
+Next Token :  5, Posbility: 0.0113
+Choose :  2, Posbility: 0.8702
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2
+---------------------------
+Next Token :  ==, Posbility: 0.8824
+Next Token : !=, Posbility: 0.0736
+Next Token :  and, Posbility: 0.0170
+Next Token : :, Posbility: 0.0152
+Next Token : ==, Posbility: 0.0082
+Choose :  ==, Posbility: 0.8824
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 ==
+---------------------------
+Next Token :  0, Posbility: 0.9477
+Next Token :  1, Posbility: 0.0396
+Next Token : 0, Posbility: 0.0104
+Next Token : 1, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0004
+Choose :  0, Posbility: 0.9477
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0
+---------------------------
+Next Token : :, Posbility: 0.7811
+Next Token :  and, Posbility: 0.2060
+Next Token :  or, Posbility: 0.0083
+Next Token :  :, Posbility: 0.0028
+Next Token :  ==, Posbility: 0.0006
+Choose : :, Posbility: 0.7811
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9426
+Next Token :  #, Posbility: 0.0175
+Next Token :   , Posbility: 0.0101
+Next Token :  , Posbility: 0.0070
+Next Token :  sum, Posbility: 0.0033
+Choose : 
+, Posbility: 0.9426
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+
+---------------------------
+Next Token :             , Posbility: 0.9885
+Next Token :            , Posbility: 0.0052
+Next Token :           , Posbility: 0.0019
+Next Token :              , Posbility: 0.0015
+Next Token :                 , Posbility: 0.0013
+Choose :             , Posbility: 0.9885
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            
+---------------------------
+Next Token : sum, Posbility: 0.7896
+Next Token : if, Posbility: 0.1051
+Next Token : i, Posbility: 0.0157
+Next Token : j, Posbility: 0.0132
+Next Token : #, Posbility: 0.0079
+Choose : sum, Posbility: 0.7896
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum
+---------------------------
+Next Token :  +=, Posbility: 0.8507
+Next Token :  =, Posbility: 0.1195
+Next Token : +=, Posbility: 0.0205
+Next Token :  -=, Posbility: 0.0051
+Next Token :  *, Posbility: 0.0008
+Choose :  +=, Posbility: 0.8507
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum +=
+---------------------------
+Next Token :  i, Posbility: 0.9751
+Next Token :  (, Posbility: 0.0114
+Next Token : i, Posbility: 0.0038
+Next Token :  2, Posbility: 0.0030
+Next Token :  int, Posbility: 0.0022
+Choose :  i, Posbility: 0.9751
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum += i
+---------------------------
+Next Token : 
+, Posbility: 0.9194
+Next Token :  , Posbility: 0.0123
+Next Token : 
+
+, Posbility: 0.0105
+Next Token : **, Posbility: 0.0099
+Next Token :  //, Posbility: 0.0081
+Choose : 
+, Posbility: 0.9194
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum += i
+
+---------------------------
+Next Token :     , Posbility: 0.4641
+Next Token :         , Posbility: 0.4526
+Next Token :             , Posbility: 0.0813
+Next Token : #, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0003
+Choose :     , Posbility: 0.4641
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum += i
+    
+---------------------------
+Next Token : return, Posbility: 0.8997
+Next Token : print, Posbility: 0.0631
+Next Token : sum, Posbility: 0.0134
+Next Token : 
+, Posbility: 0.0080
+Next Token : if, Posbility: 0.0061
+Choose : return, Posbility: 0.8997
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum += i
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9790
+Next Token : (, Posbility: 0.0096
+Next Token :  (, Posbility: 0.0027
+Next Token :  print, Posbility: 0.0021
+Next Token :  int, Posbility: 0.0017
+Choose :  sum, Posbility: 0.9790
+---------------------------
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum += i
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.8096
+Next Token : 
+
+, Posbility: 0.1497
+Next Token : <|endoftext|>, Posbility: 0.0141
+Next Token :  , Posbility: 0.0132
+Next Token :  +, Posbility: 0.0023
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.897366285324097
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to sum all amicable numbers from 1 to a specified number.'''
+def ile_sum(n):
+    sum = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            sum += i
+    return sum
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,187 @@
+<<<<<<<<<<<< 80 problem >>>>>>>>>>>
+
+
+
+
+Next Token : xt, Posbility: 0.2164
+Next Token : 
+, Posbility: 0.1093
+Next Token : ____, Posbility: 0.0952
+Next Token : ix, Posbility: 0.0565
+Next Token : ile, Posbility: 0.0376
+Choose : xt, Posbility: 0.2164
+'''Write a function to convert a tuple to a string.'''
+def xt
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xt
+---------------------------
+Next Token : uple, Posbility: 0.7379
+Next Token : o, Posbility: 0.0915
+Next Token : ra, Posbility: 0.0296
+Next Token : up, Posbility: 0.0141
+Next Token : u, Posbility: 0.0102
+Choose : uple, Posbility: 0.7379
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple
+---------------------------
+Next Token : (, Posbility: 0.3387
+Next Token : _, Posbility: 0.2041
+Next Token : 2, Posbility: 0.1841
+Next Token : to, Posbility: 0.1037
+Next Token : To, Posbility: 0.0654
+Choose : (, Posbility: 0.3387
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(
+---------------------------
+Next Token : t, Posbility: 0.5679
+Next Token : x, Posbility: 0.1276
+Next Token : a, Posbility: 0.0455
+Next Token : s, Posbility: 0.0157
+Next Token : arg, Posbility: 0.0155
+Choose : t, Posbility: 0.5679
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t
+---------------------------
+Next Token : ):, Posbility: 0.5008
+Next Token : up, Posbility: 0.3197
+Next Token : uple, Posbility: 0.1305
+Next Token : ,, Posbility: 0.0120
+Next Token : :, Posbility: 0.0073
+Choose : ):, Posbility: 0.5008
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+---------------------------
+Next Token : 
+, Posbility: 0.8952
+Next Token :  , Posbility: 0.0554
+Next Token :  return, Posbility: 0.0125
+Next Token : , Posbility: 0.0122
+Next Token : 
+
+, Posbility: 0.0074
+Choose : 
+, Posbility: 0.8952
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+
+---------------------------
+Next Token :     , Posbility: 0.9262
+Next Token :   , Posbility: 0.0357
+Next Token : 	, Posbility: 0.0244
+Next Token :    , Posbility: 0.0087
+Next Token :         , Posbility: 0.0012
+Choose :     , Posbility: 0.9262
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    
+---------------------------
+Next Token : return, Posbility: 0.2732
+Next Token : '', Posbility: 0.2508
+Next Token : s, Posbility: 0.1121
+Next Token : str, Posbility: 0.0489
+Next Token : if, Posbility: 0.0349
+Choose : return, Posbility: 0.2732
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return
+---------------------------
+Next Token :  ', Posbility: 0.3108
+Next Token :  str, Posbility: 0.2830
+Next Token :  ", Posbility: 0.1386
+Next Token :  f, Posbility: 0.0661
+Next Token :  ',, Posbility: 0.0390
+Choose :  ', Posbility: 0.3108
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return '
+---------------------------
+Next Token : '., Posbility: 0.3531
+Next Token :  '., Posbility: 0.1674
+Next Token : (', Posbility: 0.1546
+Next Token : ,', Posbility: 0.1506
+Next Token : {, Posbility: 0.0526
+Choose : '., Posbility: 0.3531
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return ''.
+---------------------------
+Next Token : join, Posbility: 0.9997
+Next Token :  join, Posbility: 0.0002
+Next Token : format, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : replace, Posbility: 0.0000
+Choose : join, Posbility: 0.9997
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return ''.join
+---------------------------
+Next Token : (, Posbility: 0.8533
+Next Token : ([, Posbility: 0.1203
+Next Token : (', Posbility: 0.0129
+Next Token : ((, Posbility: 0.0100
+Next Token : (", Posbility: 0.0018
+Choose : (, Posbility: 0.8533
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return ''.join(
+---------------------------
+Next Token : t, Posbility: 0.4577
+Next Token : str, Posbility: 0.2748
+Next Token : map, Posbility: 0.1418
+Next Token : f, Posbility: 0.0291
+Next Token : list, Posbility: 0.0195
+Choose : t, Posbility: 0.4577
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return ''.join(t
+---------------------------
+Next Token : ), Posbility: 0.9238
+Next Token : [, Posbility: 0.0358
+Next Token : )., Posbility: 0.0229
+Next Token : )+, Posbility: 0.0042
+Next Token : uple, Posbility: 0.0033
+Choose : ), Posbility: 0.9238
+---------------------------
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return ''.join(t)
+---------------------------
+Next Token : 
+, Posbility: 0.7352
+Next Token : 
+
+, Posbility: 0.1917
+Next Token : <|endoftext|>, Posbility: 0.0415
+Next Token :  , Posbility: 0.0109
+Next Token :  +, Posbility: 0.0052
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 2.3452019691467285
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert a tuple to a string.'''
+def xtuple(t):
+    return ''.join(t)
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

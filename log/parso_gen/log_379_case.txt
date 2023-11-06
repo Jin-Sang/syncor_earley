@@ -1,0 +1,821 @@
+<<<<<<<<<<<< 379 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.0953
+Next Token : ____, Posbility: 0.0775
+Next Token : ips, Posbility: 0.0578
+Next Token : iz, Posbility: 0.0538
+Next Token : iph, Posbility: 0.0400
+syntax error : 
+
+Choose : ____, Posbility: 0.0775
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____
+---------------------------
+Next Token : (, Posbility: 0.3869
+Next Token : count, Posbility: 0.1674
+Next Token : ():, Posbility: 0.0661
+Next Token : reverse, Posbility: 0.0340
+Next Token : R, Posbility: 0.0279
+Choose : (, Posbility: 0.3869
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(
+---------------------------
+Next Token : s, Posbility: 0.1235
+Next Token : string, Posbility: 0.1113
+Next Token : self, Posbility: 0.1006
+Next Token : str, Posbility: 0.0986
+Next Token : a, Posbility: 0.0553
+Choose : s, Posbility: 0.1235
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s
+---------------------------
+Next Token : ):, Posbility: 0.6502
+Next Token : ,, Posbility: 0.1851
+Next Token : 1, Posbility: 0.0758
+Next Token : :, Posbility: 0.0335
+Next Token : _, Posbility: 0.0189
+Choose : ):, Posbility: 0.6502
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+---------------------------
+Next Token : 
+, Posbility: 0.8534
+Next Token :  , Posbility: 0.0457
+Next Token : 
+
+, Posbility: 0.0361
+Next Token : , Posbility: 0.0330
+Next Token :   , Posbility: 0.0066
+Choose : 
+, Posbility: 0.8534
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+
+---------------------------
+Next Token :     , Posbility: 0.8333
+Next Token : 	, Posbility: 0.0783
+Next Token :   , Posbility: 0.0304
+Next Token :    , Posbility: 0.0146
+Next Token :         , Posbility: 0.0122
+Choose :     , Posbility: 0.8333
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    
+---------------------------
+Next Token : count, Posbility: 0.1317
+Next Token : l, Posbility: 0.0732
+Next Token : #, Posbility: 0.0583
+Next Token : s, Posbility: 0.0556
+Next Token : c, Posbility: 0.0482
+Choose : count, Posbility: 0.1317
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.6554
+Next Token : =, Posbility: 0.2097
+Next Token : _, Posbility: 0.0523
+Next Token : 1, Posbility: 0.0170
+Next Token : s, Posbility: 0.0093
+Choose :  =, Posbility: 0.6554
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.8806
+Next Token :  {}, Posbility: 0.0221
+Next Token :  1, Posbility: 0.0211
+Next Token : 0, Posbility: 0.0129
+Next Token :  [], Posbility: 0.0105
+Choose :  0, Posbility: 0.8806
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9234
+Next Token : 
+
+, Posbility: 0.0395
+Next Token :  , Posbility: 0.0207
+Next Token : ;, Posbility: 0.0066
+Next Token :  #, Posbility: 0.0031
+Choose : 
+, Posbility: 0.9234
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9942
+Next Token : 	, Posbility: 0.0010
+Next Token :         , Posbility: 0.0008
+Next Token :    , Posbility: 0.0008
+Next Token : #, Posbility: 0.0006
+Choose :     , Posbility: 0.9942
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.4028
+Next Token : i, Posbility: 0.0625
+Next Token : s, Posbility: 0.0576
+Next Token : l, Posbility: 0.0480
+Next Token : temp, Posbility: 0.0274
+Choose : for, Posbility: 0.4028
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8745
+Next Token :  x, Posbility: 0.0221
+Next Token :  index, Posbility: 0.0140
+Next Token :  j, Posbility: 0.0090
+Next Token :  char, Posbility: 0.0070
+Choose :  i, Posbility: 0.8745
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9688
+Next Token : ,, Posbility: 0.0291
+Next Token : 1, Posbility: 0.0008
+Next Token :   , Posbility: 0.0004
+Next Token : ,, Posbility: 0.0003
+Choose :  in, Posbility: 0.9688
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9226
+Next Token :  s, Posbility: 0.0639
+Next Token :  reversed, Posbility: 0.0062
+Next Token :  (, Posbility: 0.0012
+Next Token :  list, Posbility: 0.0012
+Choose :  range, Posbility: 0.9226
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9629
+Next Token :  (, Posbility: 0.0317
+Next Token : (-, Posbility: 0.0024
+Next Token : ((, Posbility: 0.0023
+Next Token :  (-, Posbility: 0.0001
+Choose : (, Posbility: 0.9629
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8273
+Next Token : 0, Posbility: 0.1362
+Next Token : 1, Posbility: 0.0188
+Next Token : int, Posbility: 0.0057
+Next Token :  len, Posbility: 0.0023
+Choose : len, Posbility: 0.8273
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9993
+Next Token : ((, Posbility: 0.0004
+Next Token : (-, Posbility: 0.0001
+Next Token : (), Posbility: 0.0001
+Next Token :  (, Posbility: 0.0000
+Choose : (, Posbility: 0.9993
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(
+---------------------------
+Next Token : s, Posbility: 0.9966
+Next Token : str, Posbility: 0.0010
+Next Token : list, Posbility: 0.0005
+Next Token : a, Posbility: 0.0002
+Next Token : __, Posbility: 0.0002
+Choose : s, Posbility: 0.9966
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s
+---------------------------
+Next Token : ), Posbility: 0.5973
+Next Token : )-, Posbility: 0.3924
+Next Token : )+, Posbility: 0.0032
+Next Token : )), Posbility: 0.0031
+Next Token : [, Posbility: 0.0011
+Choose : ), Posbility: 0.5973
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)
+---------------------------
+Next Token : ):, Posbility: 0.6889
+Next Token :  -, Posbility: 0.2662
+Next Token : //, Posbility: 0.0347
+Next Token :  //, Posbility: 0.0077
+Next Token :  +, Posbility: 0.0017
+Choose : ):, Posbility: 0.6889
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+---------------------------
+Next Token : 
+, Posbility: 0.9733
+Next Token :  , Posbility: 0.0073
+Next Token : 
+
+, Posbility: 0.0066
+Next Token :  #, Posbility: 0.0040
+Next Token :   , Posbility: 0.0023
+Choose : 
+, Posbility: 0.9733
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+
+---------------------------
+Next Token :         , Posbility: 0.9803
+Next Token :       , Posbility: 0.0059
+Next Token :             , Posbility: 0.0039
+Next Token :        , Posbility: 0.0036
+Next Token :     , Posbility: 0.0021
+Choose :         , Posbility: 0.9803
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        
+---------------------------
+Next Token : for, Posbility: 0.4181
+Next Token : if, Posbility: 0.3106
+Next Token : j, Posbility: 0.0631
+Next Token : count, Posbility: 0.0403
+Next Token : #, Posbility: 0.0135
+Choose : for, Posbility: 0.4181
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9731
+Next Token :  k, Posbility: 0.0093
+Next Token :  x, Posbility: 0.0026
+Next Token :  ii, Posbility: 0.0020
+Next Token :  y, Posbility: 0.0017
+Choose :  j, Posbility: 0.9731
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9983
+Next Token : ,, Posbility: 0.0012
+Next Token :   , Posbility: 0.0003
+Next Token : 1, Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose :  in, Posbility: 0.9983
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9896
+Next Token :  reversed, Posbility: 0.0063
+Next Token :  s, Posbility: 0.0019
+Next Token :  (, Posbility: 0.0005
+Next Token :  str, Posbility: 0.0004
+Choose :  range, Posbility: 0.9896
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9896
+Next Token :  (, Posbility: 0.0071
+Next Token : ((, Posbility: 0.0024
+Next Token : (-, Posbility: 0.0006
+Next Token : :, Posbility: 0.0001
+Choose : (, Posbility: 0.9896
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(
+---------------------------
+Next Token : i, Posbility: 0.6102
+Next Token : len, Posbility: 0.3546
+Next Token : 0, Posbility: 0.0229
+Next Token : 1, Posbility: 0.0063
+Next Token : j, Posbility: 0.0013
+Choose : i, Posbility: 0.6102
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i
+---------------------------
+Next Token : +, Posbility: 0.5892
+Next Token : ,, Posbility: 0.2458
+Next Token :  +, Posbility: 0.1366
+Next Token : ):, Posbility: 0.0217
+Next Token : ,, Posbility: 0.0029
+Choose : +, Posbility: 0.5892
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+
+---------------------------
+Next Token : 1, Posbility: 0.9920
+Next Token : 2, Posbility: 0.0045
+Next Token :  1, Posbility: 0.0024
+Next Token : len, Posbility: 0.0006
+Next Token : 3, Posbility: 0.0002
+Choose : 1, Posbility: 0.9920
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1
+---------------------------
+Next Token : ,, Posbility: 0.9876
+Next Token : ,, Posbility: 0.0085
+Next Token : ):, Posbility: 0.0034
+Next Token : ,-, Posbility: 0.0002
+Next Token : +, Posbility: 0.0001
+Choose : ,, Posbility: 0.9876
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1,
+---------------------------
+Next Token :  len, Posbility: 0.6111
+Next Token : len, Posbility: 0.3865
+Next Token :  min, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Next Token : (, Posbility: 0.0002
+Choose :  len, Posbility: 0.6111
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0003
+Next Token : (), Posbility: 0.0001
+Next Token : ):, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : (, Posbility: 0.9996
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(
+---------------------------
+Next Token : s, Posbility: 0.9996
+Next Token :  s, Posbility: 0.0001
+Next Token : str, Posbility: 0.0000
+Next Token : string, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : s, Posbility: 0.9996
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s
+---------------------------
+Next Token : ), Posbility: 0.9260
+Next Token : )+, Posbility: 0.0657
+Next Token : ),, Posbility: 0.0041
+Next Token : )-, Posbility: 0.0027
+Next Token : )), Posbility: 0.0010
+Choose : ), Posbility: 0.9260
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)
+---------------------------
+Next Token : ):, Posbility: 0.9953
+Next Token :  +, Posbility: 0.0039
+Next Token :  ):, Posbility: 0.0003
+Next Token :  -, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Choose : ):, Posbility: 0.9953
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+---------------------------
+Next Token : 
+, Posbility: 0.9833
+Next Token : 
+
+, Posbility: 0.0063
+Next Token :  , Posbility: 0.0046
+Next Token :  #, Posbility: 0.0016
+Next Token :   , Posbility: 0.0013
+Choose : 
+, Posbility: 0.9833
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+
+---------------------------
+Next Token :             , Posbility: 0.9866
+Next Token :                 , Posbility: 0.0038
+Next Token :            , Posbility: 0.0029
+Next Token :              , Posbility: 0.0018
+Next Token :           , Posbility: 0.0013
+Choose :             , Posbility: 0.9866
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            
+---------------------------
+Next Token : if, Posbility: 0.8746
+Next Token : count, Posbility: 0.0231
+Next Token : #, Posbility: 0.0088
+Next Token : print, Posbility: 0.0085
+Next Token : s, Posbility: 0.0083
+Choose : if, Posbility: 0.8746
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if
+---------------------------
+Next Token :  s, Posbility: 0.7824
+Next Token :  (, Posbility: 0.0834
+Next Token : (, Posbility: 0.0681
+Next Token :  int, Posbility: 0.0095
+Next Token :  str, Posbility: 0.0080
+Choose :  s, Posbility: 0.7824
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s
+---------------------------
+Next Token : [, Posbility: 0.9961
+Next Token :  ==, Posbility: 0.0027
+Next Token : ==, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0002
+Next Token : ., Posbility: 0.0002
+Choose : [, Posbility: 0.9961
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[
+---------------------------
+Next Token : i, Posbility: 0.9385
+Next Token : j, Posbility: 0.0583
+Next Token : :, Posbility: 0.0018
+Next Token : 0, Posbility: 0.0003
+Next Token : (, Posbility: 0.0002
+Choose : i, Posbility: 0.9385
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i
+---------------------------
+Next Token : ], Posbility: 0.8857
+Next Token : :, Posbility: 0.0755
+Next Token : ]+, Posbility: 0.0209
+Next Token : ]., Posbility: 0.0100
+Next Token : ][, Posbility: 0.0049
+Choose : ], Posbility: 0.8857
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i]
+---------------------------
+Next Token :  ==, Posbility: 0.7487
+Next Token : !=, Posbility: 0.1480
+Next Token : ==, Posbility: 0.0430
+Next Token :  +, Posbility: 0.0359
+Next Token :  in, Posbility: 0.0054
+Choose :  ==, Posbility: 0.7487
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] ==
+---------------------------
+Next Token :  s, Posbility: 0.9898
+Next Token :  ', Posbility: 0.0040
+Next Token : s, Posbility: 0.0020
+Next Token :  ", Posbility: 0.0017
+Next Token :   , Posbility: 0.0008
+Choose :  s, Posbility: 0.9898
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s
+---------------------------
+Next Token : [, Posbility: 0.9986
+Next Token :  [, Posbility: 0.0014
+Next Token :  and, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : [, Posbility: 0.9986
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[
+---------------------------
+Next Token : j, Posbility: 0.9982
+Next Token : len, Posbility: 0.0005
+Next Token : i, Posbility: 0.0005
+Next Token : -, Posbility: 0.0002
+Next Token : s, Posbility: 0.0001
+Choose : j, Posbility: 0.9982
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j
+---------------------------
+Next Token : ]:, Posbility: 0.7017
+Next Token : ], Posbility: 0.2911
+Next Token : ][, Posbility: 0.0037
+Next Token : ]+, Posbility: 0.0016
+Next Token : ]., Posbility: 0.0008
+Choose : ]:, Posbility: 0.7017
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+---------------------------
+Next Token : 
+, Posbility: 0.9838
+Next Token :  , Posbility: 0.0046
+Next Token :  count, Posbility: 0.0044
+Next Token :  #, Posbility: 0.0013
+Next Token :   , Posbility: 0.0012
+Choose : 
+, Posbility: 0.9838
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+
+---------------------------
+Next Token :                 , Posbility: 0.9924
+Next Token :                , Posbility: 0.0027
+Next Token :                     , Posbility: 0.0018
+Next Token :                  , Posbility: 0.0013
+Next Token :               , Posbility: 0.0007
+Choose :                 , Posbility: 0.9924
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                
+---------------------------
+Next Token : count, Posbility: 0.9476
+Next Token : if, Posbility: 0.0143
+Next Token : print, Posbility: 0.0110
+Next Token : continue, Posbility: 0.0105
+Next Token : break, Posbility: 0.0042
+Choose : count, Posbility: 0.9476
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count
+---------------------------
+Next Token :  +=, Posbility: 0.7846
+Next Token :  =, Posbility: 0.1200
+Next Token : +=, Posbility: 0.0889
+Next Token : =, Posbility: 0.0034
+Next Token :  -=, Posbility: 0.0013
+Choose :  +=, Posbility: 0.7846
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count +=
+---------------------------
+Next Token :  1, Posbility: 0.9233
+Next Token : 1, Posbility: 0.0379
+Next Token :  2, Posbility: 0.0309
+Next Token :  (, Posbility: 0.0018
+Next Token : 2, Posbility: 0.0010
+Choose :  1, Posbility: 0.9233
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9438
+Next Token : 
+
+, Posbility: 0.0383
+Next Token :  , Posbility: 0.0077
+Next Token :   , Posbility: 0.0016
+Next Token :     , Posbility: 0.0014
+Choose : 
+, Posbility: 0.9438
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.8386
+Next Token :             , Posbility: 0.0807
+Next Token :                 , Posbility: 0.0513
+Next Token :         , Posbility: 0.0229
+Next Token : 
+, Posbility: 0.0012
+Choose :     , Posbility: 0.8386
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8248
+Next Token : print, Posbility: 0.1495
+Next Token : 
+, Posbility: 0.0105
+Next Token : if, Posbility: 0.0038
+Next Token : #, Posbility: 0.0037
+Choose : return, Posbility: 0.8248
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9635
+Next Token : (, Posbility: 0.0135
+Next Token :  (, Posbility: 0.0096
+Next Token :  print, Posbility: 0.0052
+Next Token :   , Posbility: 0.0013
+Choose :  count, Posbility: 0.9635
+---------------------------
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7320
+Next Token : 
+
+, Posbility: 0.1985
+Next Token : <|endoftext|>, Posbility: 0.0269
+Next Token :  , Posbility: 0.0140
+Next Token : /, Posbility: 0.0040
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.880860090255737
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to count the pairs of reverse strings in the given string list. https://www.geeksforgeeks.org/python-program-to-count-the-pairs-of-reverse-strings/'''
+def ____(s):
+    count = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)):
+            if s[i] == s[j]:
+                count += 1
+    return count
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

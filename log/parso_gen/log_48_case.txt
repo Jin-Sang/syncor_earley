@@ -1,0 +1,199 @@
+<<<<<<<<<<<< 48 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ix, Posbility: 0.1173
+Next Token : 
+, Posbility: 0.1076
+Next Token : ile, Posbility: 0.0934
+Next Token : iz, Posbility: 0.0879
+Next Token : ival, Posbility: 0.0519
+Choose : ix, Posbility: 0.1173
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix
+---------------------------
+Next Token : (, Posbility: 0.2553
+Next Token : _, Posbility: 0.2320
+Next Token : small, Posbility: 0.0309
+Next Token : o, Posbility: 0.0306
+Next Token : s, Posbility: 0.0290
+Choose : (, Posbility: 0.2553
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(
+---------------------------
+Next Token : t, Posbility: 0.2334
+Next Token : l, Posbility: 0.1583
+Next Token : list, Posbility: 0.0767
+Next Token : tu, Posbility: 0.0574
+Next Token : a, Posbility: 0.0501
+Choose : t, Posbility: 0.2334
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(t
+---------------------------
+Next Token : up, Posbility: 0.5040
+Next Token : ):, Posbility: 0.2522
+Next Token : uple, Posbility: 0.1282
+Next Token : ups, Posbility: 0.0283
+Next Token : ,, Posbility: 0.0198
+Choose : up, Posbility: 0.5040
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup
+---------------------------
+Next Token : ):, Posbility: 0.8164
+Next Token : ,, Posbility: 0.0656
+Next Token : :, Posbility: 0.0299
+Next Token : 1, Posbility: 0.0265
+Next Token : _, Posbility: 0.0235
+Choose : ):, Posbility: 0.8164
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+---------------------------
+Next Token : 
+, Posbility: 0.9109
+Next Token :  , Posbility: 0.0328
+Next Token :  return, Posbility: 0.0148
+Next Token : , Posbility: 0.0140
+Next Token : 
+
+, Posbility: 0.0129
+Choose : 
+, Posbility: 0.9109
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+
+---------------------------
+Next Token :     , Posbility: 0.9272
+Next Token :   , Posbility: 0.0342
+Next Token : 	, Posbility: 0.0185
+Next Token :    , Posbility: 0.0069
+Next Token :         , Posbility: 0.0052
+Choose :     , Posbility: 0.9272
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    
+---------------------------
+Next Token : return, Posbility: 0.2890
+Next Token : '', Posbility: 0.1118
+Next Token : if, Posbility: 0.0759
+Next Token : #, Posbility: 0.0537
+Next Token : for, Posbility: 0.0453
+Choose : return, Posbility: 0.2890
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return
+---------------------------
+Next Token :  t, Posbility: 0.7973
+Next Token :  min, Posbility: 0.1021
+Next Token :  (, Posbility: 0.0327
+Next Token :  sorted, Posbility: 0.0146
+Next Token : (, Posbility: 0.0110
+Choose :  t, Posbility: 0.7973
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return t
+---------------------------
+Next Token : up, Posbility: 0.9997
+Next Token : [, Posbility: 0.0001
+Next Token : uple, Posbility: 0.0000
+Next Token : ups, Posbility: 0.0000
+Next Token : upp, Posbility: 0.0000
+Choose : up, Posbility: 0.9997
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup
+---------------------------
+Next Token : [, Posbility: 0.9774
+Next Token : ., Posbility: 0.0126
+Next Token :  [, Posbility: 0.0070
+Next Token : 
+, Posbility: 0.0007
+Next Token : [[, Posbility: 0.0003
+Choose : [, Posbility: 0.9774
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup[
+---------------------------
+Next Token : 0, Posbility: 0.8738
+Next Token : 1, Posbility: 0.0976
+Next Token : 2, Posbility: 0.0169
+Next Token : -, Posbility: 0.0026
+Next Token : :, Posbility: 0.0021
+Choose : 0, Posbility: 0.8738
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup[0
+---------------------------
+Next Token : ][, Posbility: 0.7467
+Next Token : ], Posbility: 0.2480
+Next Token : ]., Posbility: 0.0026
+Next Token : ],, Posbility: 0.0014
+Next Token : :, Posbility: 0.0005
+Choose : ][, Posbility: 0.7467
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup[0][
+---------------------------
+Next Token : 1, Posbility: 0.7221
+Next Token : 2, Posbility: 0.1408
+Next Token : 0, Posbility: 0.1244
+Next Token : -, Posbility: 0.0029
+Next Token : :, Posbility: 0.0027
+Choose : 1, Posbility: 0.7221
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup[0][1
+---------------------------
+Next Token : ], Posbility: 0.9871
+Next Token : ],, Posbility: 0.0053
+Next Token : :], Posbility: 0.0025
+Next Token : ][, Posbility: 0.0023
+Next Token : ];, Posbility: 0.0013
+Choose : ], Posbility: 0.9871
+---------------------------
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup[0][1]
+---------------------------
+Next Token : 
+, Posbility: 0.7702
+Next Token : 
+
+, Posbility: 0.1611
+Next Token : <|endoftext|>, Posbility: 0.0244
+Next Token :  if, Posbility: 0.0120
+Next Token :  #, Posbility: 0.0115
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 2.7267005443573
+
+
+
+----------No Syntax Error--------
+
+'''Given a list of tuples, write a function that returns the first value of the tuple with the smallest second value.'''
+def ix(tup):
+    return tup[0][1]
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

@@ -1,0 +1,541 @@
+<<<<<<<<<<<< 391 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ____, Posbility: 0.2559
+Next Token : iban, Posbility: 0.0932
+Next Token : 
+, Posbility: 0.0884
+Next Token : ile, Posbility: 0.0569
+Next Token : ix, Posbility: 0.0407
+Choose : ____, Posbility: 0.2559
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____
+---------------------------
+Next Token : check, Posbility: 0.4272
+Next Token : (, Posbility: 0.2086
+Next Token : is, Posbility: 0.0617
+Next Token : ():, Posbility: 0.0404
+Next Token : Check, Posbility: 0.0319
+Choose : check, Posbility: 0.4272
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check
+---------------------------
+Next Token : _, Posbility: 0.6356
+Next Token : (, Posbility: 0.1195
+Next Token : __, Posbility: 0.0233
+Next Token : er, Posbility: 0.0206
+Next Token : Bal, Posbility: 0.0150
+Choose : _, Posbility: 0.6356
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_
+---------------------------
+Next Token : balanced, Posbility: 0.2495
+Next Token : parent, Posbility: 0.1586
+Next Token : for, Posbility: 0.1349
+Next Token : if, Posbility: 0.0640
+Next Token : balance, Posbility: 0.0539
+Choose : balanced, Posbility: 0.2495
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced
+---------------------------
+Next Token : (, Posbility: 0.5688
+Next Token : _, Posbility: 0.3414
+Next Token : __, Posbility: 0.0218
+Next Token : _(, Posbility: 0.0178
+Next Token : ____, Posbility: 0.0157
+Choose : (, Posbility: 0.5688
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(
+---------------------------
+Next Token : expression, Posbility: 0.2107
+Next Token : expr, Posbility: 0.1024
+Next Token : s, Posbility: 0.0966
+Next Token : exp, Posbility: 0.0938
+Next Token : string, Posbility: 0.0426
+Choose : expression, Posbility: 0.2107
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression
+---------------------------
+Next Token : ):, Posbility: 0.8827
+Next Token : :, Posbility: 0.0480
+Next Token : ,, Posbility: 0.0276
+Next Token : ), Posbility: 0.0213
+Next Token : _, Posbility: 0.0148
+Choose : ):, Posbility: 0.8827
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+---------------------------
+Next Token : 
+, Posbility: 0.8720
+Next Token : 
+
+, Posbility: 0.0475
+Next Token :  , Posbility: 0.0327
+Next Token : , Posbility: 0.0254
+Next Token :   , Posbility: 0.0058
+Choose : 
+, Posbility: 0.8720
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+
+---------------------------
+Next Token :     , Posbility: 0.8259
+Next Token : 	, Posbility: 0.1106
+Next Token :   , Posbility: 0.0297
+Next Token :    , Posbility: 0.0112
+Next Token :         , Posbility: 0.0046
+Choose :     , Posbility: 0.8259
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    
+---------------------------
+Next Token : stack, Posbility: 0.2007
+Next Token : if, Posbility: 0.1122
+Next Token : #, Posbility: 0.0760
+Next Token : '', Posbility: 0.0407
+Next Token : open, Posbility: 0.0340
+Choose : stack, Posbility: 0.2007
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack
+---------------------------
+Next Token :  =, Posbility: 0.9113
+Next Token : =, Posbility: 0.0429
+Next Token : ,, Posbility: 0.0184
+Next Token : _, Posbility: 0.0145
+Next Token : 1, Posbility: 0.0041
+Choose :  =, Posbility: 0.9113
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack =
+---------------------------
+Next Token :  [], Posbility: 0.8674
+Next Token :  list, Posbility: 0.0508
+Next Token :  [, Posbility: 0.0241
+Next Token : [], Posbility: 0.0113
+Next Token :  [', Posbility: 0.0099
+Choose :  [], Posbility: 0.8674
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+---------------------------
+Next Token : 
+, Posbility: 0.8942
+Next Token : 
+
+, Posbility: 0.0711
+Next Token :  , Posbility: 0.0131
+Next Token :  #, Posbility: 0.0088
+Next Token :   , Posbility: 0.0051
+Choose : 
+, Posbility: 0.8942
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+
+---------------------------
+Next Token :     , Posbility: 0.9959
+Next Token :         , Posbility: 0.0010
+Next Token : 	, Posbility: 0.0009
+Next Token :  , Posbility: 0.0005
+Next Token :    , Posbility: 0.0003
+Choose :     , Posbility: 0.9959
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    
+---------------------------
+Next Token : for, Posbility: 0.3691
+Next Token : balanced, Posbility: 0.0656
+Next Token : index, Posbility: 0.0454
+Next Token : open, Posbility: 0.0413
+Next Token : oper, Posbility: 0.0260
+Choose : for, Posbility: 0.3691
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.3703
+Next Token :  char, Posbility: 0.1923
+Next Token :  c, Posbility: 0.0444
+Next Token :  e, Posbility: 0.0436
+Next Token :  ch, Posbility: 0.0403
+Choose :  i, Posbility: 0.3703
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9534
+Next Token : ,, Posbility: 0.0454
+Next Token : _, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose :  in, Posbility: 0.9534
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in
+---------------------------
+Next Token :  expression, Posbility: 0.8361
+Next Token :  range, Posbility: 0.1529
+Next Token :  str, Posbility: 0.0020
+Next Token :  reversed, Posbility: 0.0013
+Next Token :  list, Posbility: 0.0010
+Choose :  expression, Posbility: 0.8361
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression
+---------------------------
+Next Token : :, Posbility: 0.9718
+Next Token : ., Posbility: 0.0154
+Next Token :  :, Posbility: 0.0059
+Next Token : [, Posbility: 0.0058
+Next Token : ():, Posbility: 0.0002
+Choose : :, Posbility: 0.9718
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+---------------------------
+Next Token : 
+, Posbility: 0.9793
+Next Token :  , Posbility: 0.0077
+Next Token : 
+
+, Posbility: 0.0055
+Next Token :  #, Posbility: 0.0018
+Next Token :   , Posbility: 0.0015
+Choose : 
+, Posbility: 0.9793
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+
+---------------------------
+Next Token :         , Posbility: 0.9886
+Next Token :       , Posbility: 0.0035
+Next Token :             , Posbility: 0.0028
+Next Token :        , Posbility: 0.0019
+Next Token :     , Posbility: 0.0010
+Choose :         , Posbility: 0.9886
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        
+---------------------------
+Next Token : if, Posbility: 0.9337
+Next Token : #, Posbility: 0.0240
+Next Token : stack, Posbility: 0.0081
+Next Token : try, Posbility: 0.0050
+Next Token : print, Posbility: 0.0039
+Choose : if, Posbility: 0.9337
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.8836
+Next Token : (, Posbility: 0.0338
+Next Token :  (, Posbility: 0.0273
+Next Token :  not, Posbility: 0.0241
+Next Token :  is, Posbility: 0.0061
+Choose :  i, Posbility: 0.8836
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i
+---------------------------
+Next Token :  ==, Posbility: 0.5888
+Next Token :  in, Posbility: 0.2491
+Next Token :  not, Posbility: 0.0593
+Next Token : ., Posbility: 0.0533
+Next Token : ==, Posbility: 0.0264
+Choose :  ==, Posbility: 0.5888
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i ==
+---------------------------
+Next Token :  '(, Posbility: 0.6172
+Next Token :  "(, Posbility: 0.2140
+Next Token :  ', Posbility: 0.0926
+Next Token :  ", Posbility: 0.0617
+Next Token :  "{, Posbility: 0.0043
+syntax error :  '(
+syntax error :  "(
+Choose :  ', Posbility: 0.0926
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '
+---------------------------
+Next Token : (', Posbility: 0.6853
+Next Token : (, Posbility: 0.1303
+Next Token : ), Posbility: 0.0791
+Next Token : {, Posbility: 0.0469
+Next Token : )', Posbility: 0.0162
+Choose : (', Posbility: 0.6853
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '('
+---------------------------
+Next Token :  or, Posbility: 0.9657
+Next Token :  and, Posbility: 0.0211
+Next Token :  :, Posbility: 0.0109
+Next Token : or, Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Choose :  or, Posbility: 0.9657
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or
+---------------------------
+Next Token :  i, Posbility: 0.9777
+Next Token :  ', Posbility: 0.0132
+Next Token :   , Posbility: 0.0022
+Next Token :  (, Posbility: 0.0010
+Next Token :  stack, Posbility: 0.0009
+Choose :  i, Posbility: 0.9777
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i
+---------------------------
+Next Token :  ==, Posbility: 0.9683
+Next Token : ==, Posbility: 0.0180
+Next Token :  =, Posbility: 0.0084
+Next Token : ., Posbility: 0.0030
+Next Token : !=, Posbility: 0.0006
+Choose :  ==, Posbility: 0.9683
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i ==
+---------------------------
+Next Token :  ', Posbility: 0.7497
+Next Token :  '[, Posbility: 0.2031
+Next Token : ', Posbility: 0.0196
+Next Token : '), Posbility: 0.0111
+Next Token :  "[, Posbility: 0.0065
+Choose :  ', Posbility: 0.7497
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '
+---------------------------
+Next Token : {, Posbility: 0.4843
+Next Token : [', Posbility: 0.2364
+Next Token : ), Posbility: 0.1526
+Next Token : )', Posbility: 0.0521
+Next Token : [, Posbility: 0.0282
+syntax error : {
+Choose : [', Posbility: 0.2364
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '['
+---------------------------
+Next Token :  or, Posbility: 0.9748
+Next Token :  :, Posbility: 0.0230
+Next Token :   , Posbility: 0.0010
+Next Token : or, Posbility: 0.0004
+Next Token :  and, Posbility: 0.0004
+Choose :  or, Posbility: 0.9748
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or
+---------------------------
+Next Token :  i, Posbility: 0.9965
+Next Token :   , Posbility: 0.0012
+Next Token :  ', Posbility: 0.0009
+Next Token :  (, Posbility: 0.0004
+Next Token :  is, Posbility: 0.0001
+Choose :  i, Posbility: 0.9965
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i
+---------------------------
+Next Token :  ==, Posbility: 0.9861
+Next Token : ==, Posbility: 0.0100
+Next Token : ., Posbility: 0.0013
+Next Token :  =, Posbility: 0.0011
+Next Token :   , Posbility: 0.0005
+Choose :  ==, Posbility: 0.9861
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i ==
+---------------------------
+Next Token :  ', Posbility: 0.9669
+Next Token :  '(, Posbility: 0.0123
+Next Token : ', Posbility: 0.0105
+Next Token :  "{, Posbility: 0.0032
+Next Token :  ", Posbility: 0.0025
+Choose :  ', Posbility: 0.9669
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == '
+---------------------------
+Next Token : {, Posbility: 0.9156
+Next Token : ), Posbility: 0.0328
+Next Token : _, Posbility: 0.0094
+Next Token : )', Posbility: 0.0086
+Next Token : +, Posbility: 0.0044
+syntax error : {
+syntax error : )
+syntax error : _
+Choose : )', Posbility: 0.0086
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == ')'
+---------------------------
+Next Token :  or, Posbility: 0.9794
+Next Token :  :, Posbility: 0.0163
+Next Token :  and, Posbility: 0.0013
+Next Token : or, Posbility: 0.0013
+Next Token :   , Posbility: 0.0005
+Choose :  or, Posbility: 0.9794
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == ')' or
+---------------------------
+Next Token :  i, Posbility: 0.9962
+Next Token :  ', Posbility: 0.0011
+Next Token :   , Posbility: 0.0010
+Next Token :  (, Posbility: 0.0005
+Next Token :  \, Posbility: 0.0002
+Choose :  i, Posbility: 0.9962
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == ')' or i
+---------------------------
+Next Token :  ==, Posbility: 0.9923
+Next Token : ==, Posbility: 0.0040
+Next Token :  =, Posbility: 0.0016
+Next Token : !=, Posbility: 0.0009
+Next Token :   , Posbility: 0.0004
+Choose :  ==, Posbility: 0.9923
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == ')' or i ==
+---------------------------
+Next Token :  ', Posbility: 0.9840
+Next Token :  '(, Posbility: 0.0087
+Next Token : ', Posbility: 0.0030
+Next Token :  ", Posbility: 0.0012
+Next Token :  '[, Posbility: 0.0006
+Choose :  ', Posbility: 0.9840
+---------------------------
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == ')' or i == '
+---------------------------
+Next Token : {, Posbility: 0.4988
+Next Token : }, Posbility: 0.1537
+Next Token : ], Posbility: 0.1327
+Next Token : ), Posbility: 0.0357
+Next Token : *, Posbility: 0.0324
+syntax error : {
+syntax error : }
+syntax error : ]
+syntax error : )
+syntax error : *
+all top 5 token has syntax error. END
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.861774921417236
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to check if the given expression is balanced or not. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/'''
+def ____check_balanced(expression):
+    stack = []
+    for i in expression:
+        if i == '(' or i == '[' or i == ')' or i == '
+
+
+
+Error Start : (5, 52), Error End (5, 53)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

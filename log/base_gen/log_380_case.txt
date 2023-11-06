@@ -1,0 +1,800 @@
+<<<<<<<<<<<< 380 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2858
+Next Token : ile, Posbility: 0.0462
+Next Token : ids, Posbility: 0.0407
+Next Token : ix, Posbility: 0.0403
+Next Token : ical, Posbility: 0.0364
+Choose : 
+,  Posbility: 0.2858
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+
+---------------------------
+Next Token : #, Posbility: 0.1042
+Next Token : '', Posbility: 0.0870
+Next Token : 
+, Posbility: 0.0839
+Next Token : import, Posbility: 0.0749
+Next Token : def, Posbility: 0.0745
+Choose : #,  Posbility: 0.1042
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+#
+---------------------------
+Next Token :  count, Posbility: 0.0961
+Next Token : count, Posbility: 0.0413
+Next Token :  def, Posbility: 0.0338
+Next Token :  function, Posbility: 0.0273
+Next Token :  create, Posbility: 0.0184
+Choose :  count,  Posbility: 0.0961
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count
+---------------------------
+Next Token : _, Posbility: 0.4117
+Next Token :  the, Posbility: 0.0546
+Next Token : List, Posbility: 0.0454
+Next Token :  list, Posbility: 0.0434
+Next Token :  occ, Posbility: 0.0420
+Choose : _,  Posbility: 0.4117
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_
+---------------------------
+Next Token : list, Posbility: 0.2728
+Next Token : occ, Posbility: 0.2357
+Next Token : lists, Posbility: 0.1970
+Next Token : t, Posbility: 0.0509
+Next Token : tu, Posbility: 0.0179
+Choose : list,  Posbility: 0.2728
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list
+---------------------------
+Next Token : (, Posbility: 0.5990
+Next Token : _, Posbility: 0.1887
+Next Token : ():, Posbility: 0.0451
+Next Token : (), Posbility: 0.0390
+Next Token : 
+, Posbility: 0.0212
+Choose : (,  Posbility: 0.5990
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(
+---------------------------
+Next Token : l, Posbility: 0.2433
+Next Token : list, Posbility: 0.2204
+Next Token : my, Posbility: 0.0871
+Next Token : a, Posbility: 0.0403
+Next Token : lists, Posbility: 0.0363
+Choose : l,  Posbility: 0.2433
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(l
+---------------------------
+Next Token : st, Posbility: 0.7926
+Next Token : ):, Posbility: 0.0901
+Next Token : 1, Posbility: 0.0555
+Next Token : ,, Posbility: 0.0299
+Next Token : :, Posbility: 0.0117
+Choose : st,  Posbility: 0.7926
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst
+---------------------------
+Next Token : ):, Posbility: 0.6851
+Next Token : ,, Posbility: 0.1610
+Next Token : ), Posbility: 0.0466
+Next Token : 1, Posbility: 0.0388
+Next Token : :, Posbility: 0.0375
+Choose : ):,  Posbility: 0.6851
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9256
+Next Token : 
+
+, Posbility: 0.0353
+Next Token :  , Posbility: 0.0147
+Next Token :  #, Posbility: 0.0094
+Next Token :   , Posbility: 0.0039
+Choose : 
+,  Posbility: 0.9256
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.5867
+Next Token : #, Posbility: 0.2580
+Next Token : 
+, Posbility: 0.0256
+Next Token : def, Posbility: 0.0250
+Next Token :   , Posbility: 0.0240
+Choose :     ,  Posbility: 0.5867
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    
+---------------------------
+Next Token : #, Posbility: 0.2059
+Next Token : '', Posbility: 0.1055
+Next Token : count, Posbility: 0.1045
+Next Token : d, Posbility: 0.0899
+Next Token : 
+, Posbility: 0.0867
+Choose : #,  Posbility: 0.2059
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    #
+---------------------------
+Next Token :  return, Posbility: 0.0820
+Next Token :  count, Posbility: 0.0649
+Next Token :  d, Posbility: 0.0558
+Next Token :  dict, Posbility: 0.0417
+Next Token :  dictionary, Posbility: 0.0376
+Choose :  return,  Posbility: 0.0820
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return
+---------------------------
+Next Token :  {, Posbility: 0.4152
+Next Token :  dict, Posbility: 0.3108
+Next Token :  len, Posbility: 0.0213
+Next Token : {, Posbility: 0.0204
+Next Token :  {}, Posbility: 0.0203
+Choose :  {,  Posbility: 0.4152
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {
+---------------------------
+Next Token : t, Posbility: 0.2884
+Next Token : l, Posbility: 0.0636
+Next Token : (, Posbility: 0.0605
+Next Token : list, Posbility: 0.0580
+Next Token : 
+, Posbility: 0.0475
+Choose : t,  Posbility: 0.2884
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {t
+---------------------------
+Next Token : uple, Posbility: 0.8763
+Next Token : up, Posbility: 0.0808
+Next Token : :, Posbility: 0.0180
+Next Token : [, Posbility: 0.0128
+Next Token : pl, Posbility: 0.0030
+Choose : uple,  Posbility: 0.8763
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple
+---------------------------
+Next Token : (, Posbility: 0.9414
+Next Token : ([, Posbility: 0.0242
+Next Token : _, Posbility: 0.0077
+Next Token :  (, Posbility: 0.0070
+Next Token : ((, Posbility: 0.0060
+Choose : (,  Posbility: 0.9414
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(
+---------------------------
+Next Token : l, Posbility: 0.4255
+Next Token : x, Posbility: 0.1064
+Next Token : i, Posbility: 0.0586
+Next Token : s, Posbility: 0.0546
+Next Token : e, Posbility: 0.0477
+Choose : l,  Posbility: 0.4255
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(l
+---------------------------
+Next Token : st, Posbility: 0.9814
+Next Token : ):, Posbility: 0.0066
+Next Token : ., Posbility: 0.0045
+Next Token : ), Posbility: 0.0037
+Next Token : [, Posbility: 0.0009
+Choose : st,  Posbility: 0.9814
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst
+---------------------------
+Next Token : ):, Posbility: 0.7226
+Next Token : [, Posbility: 0.1537
+Next Token : ), Posbility: 0.0565
+Next Token : )}, Posbility: 0.0237
+Next Token : ., Posbility: 0.0152
+Choose : ):,  Posbility: 0.7226
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst):
+---------------------------
+Next Token :  l, Posbility: 0.3147
+Next Token :  len, Posbility: 0.2853
+Next Token : l, Posbility: 0.1512
+Next Token : len, Posbility: 0.0767
+Next Token :  sum, Posbility: 0.0293
+Choose :  l,  Posbility: 0.3147
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): l
+---------------------------
+Next Token : st, Posbility: 0.9801
+Next Token : ., Posbility: 0.0098
+Next Token :  for, Posbility: 0.0030
+Next Token : [, Posbility: 0.0027
+Next Token : bl, Posbility: 0.0008
+Choose : st,  Posbility: 0.9801
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst
+---------------------------
+Next Token : ., Posbility: 0.9939
+Next Token : [, Posbility: 0.0040
+Next Token : ., Posbility: 0.0013
+Next Token : }, Posbility: 0.0004
+Next Token : _, Posbility: 0.0002
+Choose : .,  Posbility: 0.9939
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.
+---------------------------
+Next Token : count, Posbility: 0.9948
+Next Token : index, Posbility: 0.0021
+Next Token : __, Posbility: 0.0009
+Next Token : size, Posbility: 0.0005
+Next Token : counter, Posbility: 0.0003
+Choose : count,  Posbility: 0.9948
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count
+---------------------------
+Next Token : (, Posbility: 0.9944
+Next Token : (', Posbility: 0.0017
+Next Token : ([, Posbility: 0.0013
+Next Token : }, Posbility: 0.0009
+Next Token : (), Posbility: 0.0008
+Choose : (,  Posbility: 0.9944
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(
+---------------------------
+Next Token : t, Posbility: 0.5379
+Next Token : l, Posbility: 0.2694
+Next Token : x, Posbility: 0.0766
+Next Token : i, Posbility: 0.0414
+Next Token : item, Posbility: 0.0194
+Choose : t,  Posbility: 0.5379
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(t
+---------------------------
+Next Token : uple, Posbility: 0.9936
+Next Token : ), Posbility: 0.0044
+Next Token : up, Posbility: 0.0014
+Next Token : [, Posbility: 0.0002
+Next Token : )}, Posbility: 0.0000
+Choose : uple,  Posbility: 0.9936
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple
+---------------------------
+Next Token : (, Posbility: 0.6730
+Next Token : )}, Posbility: 0.2103
+Next Token : ), Posbility: 0.0374
+Next Token : ()), Posbility: 0.0294
+Next Token : [, Posbility: 0.0218
+Choose : (,  Posbility: 0.6730
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(
+---------------------------
+Next Token : l, Posbility: 0.9956
+Next Token : i, Posbility: 0.0010
+Next Token : list, Posbility: 0.0005
+Next Token : s, Posbility: 0.0003
+Next Token : item, Posbility: 0.0002
+Choose : l,  Posbility: 0.9956
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(l
+---------------------------
+Next Token : st, Posbility: 0.9996
+Next Token : )), Posbility: 0.0003
+Next Token : sts, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : st,  Posbility: 0.9996
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst
+---------------------------
+Next Token : )), Posbility: 0.9745
+Next Token : )[, Posbility: 0.0071
+Next Token : [, Posbility: 0.0057
+Next Token : )),, Posbility: 0.0034
+Next Token : ), Posbility: 0.0027
+Choose : )),  Posbility: 0.9745
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))
+---------------------------
+Next Token : }, Posbility: 0.8481
+Next Token :  for, Posbility: 0.1395
+Next Token : 
+, Posbility: 0.0043
+Next Token :  }, Posbility: 0.0029
+Next Token :  if, Posbility: 0.0014
+Choose : },  Posbility: 0.8481
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+---------------------------
+Next Token : 
+, Posbility: 0.8111
+Next Token : 
+
+, Posbility: 0.1381
+Next Token :  #, Posbility: 0.0160
+Next Token :  , Posbility: 0.0132
+Next Token :   , Posbility: 0.0070
+Choose : 
+,  Posbility: 0.8111
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+
+---------------------------
+Next Token :     , Posbility: 0.6312
+Next Token : 
+, Posbility: 0.1749
+Next Token : def, Posbility: 0.0752
+Next Token : #, Posbility: 0.0565
+Next Token : 	, Posbility: 0.0092
+Choose :     ,  Posbility: 0.6312
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    
+---------------------------
+Next Token : return, Posbility: 0.2750
+Next Token : #, Posbility: 0.2685
+Next Token : 
+, Posbility: 0.0811
+Next Token : count, Posbility: 0.0630
+Next Token : d, Posbility: 0.0365
+Choose : return,  Posbility: 0.2750
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return
+---------------------------
+Next Token :  {, Posbility: 0.5682
+Next Token :  dict, Posbility: 0.1357
+Next Token :  len, Posbility: 0.0647
+Next Token :  [, Posbility: 0.0473
+Next Token :  tuple, Posbility: 0.0201
+Choose :  {,  Posbility: 0.5682
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {
+---------------------------
+Next Token : t, Posbility: 0.4720
+Next Token : l, Posbility: 0.0957
+Next Token : list, Posbility: 0.0557
+Next Token : (, Posbility: 0.0542
+Next Token : i, Posbility: 0.0423
+Choose : t,  Posbility: 0.4720
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {t
+---------------------------
+Next Token : uple, Posbility: 0.9688
+Next Token : up, Posbility: 0.0133
+Next Token : :, Posbility: 0.0127
+Next Token : [, Posbility: 0.0018
+Next Token :  for, Posbility: 0.0004
+Choose : uple,  Posbility: 0.9688
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple
+---------------------------
+Next Token : (, Posbility: 0.9688
+Next Token : ([, Posbility: 0.0162
+Next Token : ((, Posbility: 0.0065
+Next Token : :, Posbility: 0.0019
+Next Token : (', Posbility: 0.0012
+Choose : (,  Posbility: 0.9688
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(
+---------------------------
+Next Token : l, Posbility: 0.7797
+Next Token : t, Posbility: 0.0388
+Next Token : s, Posbility: 0.0274
+Next Token : x, Posbility: 0.0255
+Next Token : i, Posbility: 0.0205
+Choose : l,  Posbility: 0.7797
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(l
+---------------------------
+Next Token : st, Posbility: 0.9799
+Next Token : ):, Posbility: 0.0134
+Next Token : ), Posbility: 0.0032
+Next Token : ., Posbility: 0.0012
+Next Token : [, Posbility: 0.0005
+Choose : st,  Posbility: 0.9799
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst
+---------------------------
+Next Token : ):, Posbility: 0.8776
+Next Token : [, Posbility: 0.0414
+Next Token : ), Posbility: 0.0287
+Next Token : ., Posbility: 0.0242
+Next Token : )[, Posbility: 0.0125
+Choose : ):,  Posbility: 0.8776
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst):
+---------------------------
+Next Token :  l, Posbility: 0.6500
+Next Token :  len, Posbility: 0.1509
+Next Token : l, Posbility: 0.0504
+Next Token :  sum, Posbility: 0.0447
+Next Token :  [, Posbility: 0.0130
+Choose :  l,  Posbility: 0.6500
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): l
+---------------------------
+Next Token : st, Posbility: 0.9996
+Next Token : sts, Posbility: 0.0001
+Next Token :  for, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 0.9996
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst
+---------------------------
+Next Token : ., Posbility: 0.9965
+Next Token : [, Posbility: 0.0024
+Next Token : ., Posbility: 0.0003
+Next Token : }, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Choose : .,  Posbility: 0.9965
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.
+---------------------------
+Next Token : count, Posbility: 0.9939
+Next Token : index, Posbility: 0.0046
+Next Token : Count, Posbility: 0.0002
+Next Token : pop, Posbility: 0.0001
+Next Token : size, Posbility: 0.0001
+Choose : count,  Posbility: 0.9939
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count
+---------------------------
+Next Token : (, Posbility: 0.9954
+Next Token : (', Posbility: 0.0019
+Next Token : ([, Posbility: 0.0011
+Next Token : (), Posbility: 0.0005
+Next Token : ((, Posbility: 0.0004
+Choose : (,  Posbility: 0.9954
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(
+---------------------------
+Next Token : t, Posbility: 0.9714
+Next Token : l, Posbility: 0.0141
+Next Token : list, Posbility: 0.0021
+Next Token : i, Posbility: 0.0020
+Next Token : item, Posbility: 0.0018
+Choose : t,  Posbility: 0.9714
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(t
+---------------------------
+Next Token : uple, Posbility: 0.9997
+Next Token : up, Posbility: 0.0002
+Next Token : ), Posbility: 0.0001
+Next Token : uble, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Choose : uple,  Posbility: 0.9997
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple
+---------------------------
+Next Token : (, Posbility: 0.9892
+Next Token : ([, Posbility: 0.0050
+Next Token : ()), Posbility: 0.0018
+Next Token : ), Posbility: 0.0014
+Next Token : (*, Posbility: 0.0007
+Choose : (,  Posbility: 0.9892
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(
+---------------------------
+Next Token : l, Posbility: 0.9951
+Next Token : s, Posbility: 0.0011
+Next Token : list, Posbility: 0.0009
+Next Token : t, Posbility: 0.0004
+Next Token : set, Posbility: 0.0004
+Choose : l,  Posbility: 0.9951
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : )), Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ss, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst
+---------------------------
+Next Token : )), Posbility: 0.9902
+Next Token : ),, Posbility: 0.0039
+Next Token : [, Posbility: 0.0029
+Next Token : )),, Posbility: 0.0007
+Next Token : ), Posbility: 0.0003
+Choose : )),  Posbility: 0.9902
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst))
+---------------------------
+Next Token :  for, Posbility: 0.5110
+Next Token : }, Posbility: 0.4616
+Next Token : 
+, Posbility: 0.0090
+Next Token :  +, Posbility: 0.0036
+Next Token :  if, Posbility: 0.0032
+Choose :  for,  Posbility: 0.5110
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for
+---------------------------
+Next Token :  l, Posbility: 0.9694
+Next Token :  tuple, Posbility: 0.0183
+Next Token :  i, Posbility: 0.0023
+Next Token :  t, Posbility: 0.0014
+Next Token :  ele, Posbility: 0.0012
+Choose :  l,  Posbility: 0.9694
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for l
+---------------------------
+Next Token : st, Posbility: 0.9987
+Next Token :  in, Posbility: 0.0012
+Next Token : t, Posbility: 0.0000
+Next Token : is, Posbility: 0.0000
+Next Token : ist, Posbility: 0.0000
+Choose : st,  Posbility: 0.9987
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for lst
+---------------------------
+Next Token :  in, Posbility: 0.9979
+Next Token :   , Posbility: 0.0009
+Next Token : ,, Posbility: 0.0003
+Next Token : _, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Choose :  in,  Posbility: 0.9979
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for lst in
+---------------------------
+Next Token :  l, Posbility: 0.7168
+Next Token :  [, Posbility: 0.0644
+Next Token :  list, Posbility: 0.0643
+Next Token :  (, Posbility: 0.0142
+Next Token :  set, Posbility: 0.0136
+Choose :  l,  Posbility: 0.7168
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for lst in l
+---------------------------
+Next Token : st, Posbility: 0.9882
+Next Token : sts, Posbility: 0.0027
+Next Token : t, Posbility: 0.0023
+Next Token : }, Posbility: 0.0010
+Next Token : ts, Posbility: 0.0007
+Choose : st,  Posbility: 0.9882
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for lst in lst
+---------------------------
+Next Token : }, Posbility: 0.9439
+Next Token :  if, Posbility: 0.0260
+Next Token : ., Posbility: 0.0073
+Next Token : _, Posbility: 0.0072
+Next Token :  }, Posbility: 0.0054
+Choose : },  Posbility: 0.9439
+---------------------------
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for lst in lst}
+---------------------------
+Next Token : 
+, Posbility: 0.5302
+Next Token : 
+
+, Posbility: 0.3964
+Next Token : <|endoftext|>, Posbility: 0.0302
+Next Token :  , Posbility: 0.0146
+Next Token :  #, Posbility: 0.0119
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.982182741165161
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to count lists within a list. The function should return a dictionary where every list is converted to a tuple and the value of such tuple is the number of its occurencies in the original list.'''
+def 
+# count_list(lst):
+    # return {tuple(lst): lst.count(tuple(lst))}
+    return {tuple(lst): lst.count(tuple(lst)) for lst in lst}
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Timeout >>>>>>>>>>>>

@@ -1,0 +1,951 @@
+<<<<<<<<<<<< 221 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  greater, Posbility: 0.5514
+Next Token :  check, Posbility: 0.1070
+Next Token :  is, Posbility: 0.0817
+Next Token :  Greater, Posbility: 0.0252
+Next Token :  Check, Posbility: 0.0154
+Choose :  greater,  Posbility: 0.5514
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater
+---------------------------
+Next Token : (, Posbility: 0.3916
+Next Token : _, Posbility: 0.3540
+Next Token : Th, Posbility: 0.1132
+Next Token : than, Posbility: 0.0501
+Next Token : E, Posbility: 0.0121
+Choose : (,  Posbility: 0.3916
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(
+---------------------------
+Next Token : arr, Posbility: 0.3044
+Next Token : n, Posbility: 0.1665
+Next Token : a, Posbility: 0.1016
+Next Token : array, Posbility: 0.0945
+Next Token : num, Posbility: 0.0850
+Choose : arr,  Posbility: 0.3044
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr
+---------------------------
+Next Token : ,, Posbility: 0.6276
+Next Token : ):, Posbility: 0.3339
+Next Token : :, Posbility: 0.0140
+Next Token : 1, Posbility: 0.0130
+Next Token : _, Posbility: 0.0032
+Choose : ,,  Posbility: 0.6276
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr,
+---------------------------
+Next Token :  n, Posbility: 0.2890
+Next Token : n, Posbility: 0.2610
+Next Token :  num, Posbility: 0.0985
+Next Token :  x, Posbility: 0.0634
+Next Token : num, Posbility: 0.0488
+Choose :  n,  Posbility: 0.2890
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n
+---------------------------
+Next Token : ):, Posbility: 0.6613
+Next Token : ,, Posbility: 0.3110
+Next Token : ), Posbility: 0.0056
+Next Token : ,, Posbility: 0.0033
+Next Token : _, Posbility: 0.0032
+Choose : ):,  Posbility: 0.6613
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+---------------------------
+Next Token : 
+, Posbility: 0.8737
+Next Token : , Posbility: 0.0455
+Next Token :  , Posbility: 0.0337
+Next Token : 
+
+, Posbility: 0.0332
+Next Token :   , Posbility: 0.0059
+Choose : 
+,  Posbility: 0.8737
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+
+---------------------------
+Next Token :     , Posbility: 0.9054
+Next Token : 	, Posbility: 0.0403
+Next Token :   , Posbility: 0.0395
+Next Token :    , Posbility: 0.0053
+Next Token :         , Posbility: 0.0029
+Choose :     ,  Posbility: 0.9054
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    
+---------------------------
+Next Token : for, Posbility: 0.3167
+Next Token : if, Posbility: 0.1736
+Next Token : '', Posbility: 0.0890
+Next Token : #, Posbility: 0.0613
+Next Token : return, Posbility: 0.0310
+Choose : for,  Posbility: 0.3167
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8851
+Next Token :  x, Posbility: 0.0380
+Next Token :  j, Posbility: 0.0085
+Next Token :  ele, Posbility: 0.0082
+Next Token :  num, Posbility: 0.0070
+Choose :  i,  Posbility: 0.8851
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9952
+Next Token : ,, Posbility: 0.0040
+Next Token :   , Posbility: 0.0004
+Next Token : 1, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9952
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9157
+Next Token :  arr, Posbility: 0.0786
+Next Token :  n, Posbility: 0.0025
+Next Token :  reversed, Posbility: 0.0006
+Next Token :   , Posbility: 0.0002
+Choose :  range,  Posbility: 0.9157
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9785
+Next Token :  (, Posbility: 0.0204
+Next Token : ((, Posbility: 0.0006
+Next Token : (-, Posbility: 0.0003
+Next Token : :, Posbility: 0.0001
+Choose : (,  Posbility: 0.9785
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(
+---------------------------
+Next Token : n, Posbility: 0.6606
+Next Token : 0, Posbility: 0.2615
+Next Token : len, Posbility: 0.0440
+Next Token : 1, Posbility: 0.0206
+Next Token : arr, Posbility: 0.0040
+Choose : n,  Posbility: 0.6606
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n
+---------------------------
+Next Token : ):, Posbility: 0.8283
+Next Token : -, Posbility: 0.0938
+Next Token :  -, Posbility: 0.0574
+Next Token : ,, Posbility: 0.0113
+Next Token : +, Posbility: 0.0021
+Choose : ):,  Posbility: 0.8283
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9834
+Next Token :  , Posbility: 0.0056
+Next Token : 
+
+, Posbility: 0.0032
+Next Token :  #, Posbility: 0.0024
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9834
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+
+---------------------------
+Next Token :         , Posbility: 0.9845
+Next Token :             , Posbility: 0.0056
+Next Token :       , Posbility: 0.0038
+Next Token :        , Posbility: 0.0020
+Next Token :          , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9845
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        
+---------------------------
+Next Token : if, Posbility: 0.7951
+Next Token : for, Posbility: 0.0821
+Next Token : print, Posbility: 0.0338
+Next Token : arr, Posbility: 0.0180
+Next Token : #, Posbility: 0.0114
+Choose : if,  Posbility: 0.7951
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if
+---------------------------
+Next Token :  arr, Posbility: 0.8348
+Next Token : (, Posbility: 0.0687
+Next Token :  (, Posbility: 0.0371
+Next Token :  i, Posbility: 0.0159
+Next Token :  int, Posbility: 0.0144
+Choose :  arr,  Posbility: 0.8348
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr
+---------------------------
+Next Token : [, Posbility: 0.9968
+Next Token : ., Posbility: 0.0013
+Next Token :  [, Posbility: 0.0012
+Next Token :  ==, Posbility: 0.0002
+Next Token :  is, Posbility: 0.0001
+Choose : [,  Posbility: 0.9968
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[
+---------------------------
+Next Token : i, Posbility: 0.9777
+Next Token : n, Posbility: 0.0130
+Next Token : 0, Posbility: 0.0037
+Next Token : arr, Posbility: 0.0018
+Next Token : -, Posbility: 0.0007
+Choose : i,  Posbility: 0.9777
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9832
+Next Token : ][, Posbility: 0.0077
+Next Token : +, Posbility: 0.0024
+Next Token : ]., Posbility: 0.0020
+Next Token :  +, Posbility: 0.0009
+Choose : ],  Posbility: 0.9832
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i]
+---------------------------
+Next Token :  >, Posbility: 0.6917
+Next Token :  >=, Posbility: 0.1567
+Next Token : >, Posbility: 0.0745
+Next Token :  <, Posbility: 0.0521
+Next Token :  <=, Posbility: 0.0087
+Choose :  >,  Posbility: 0.6917
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] >
+---------------------------
+Next Token :  arr, Posbility: 0.8440
+Next Token :  n, Posbility: 0.1033
+Next Token :  i, Posbility: 0.0214
+Next Token :  0, Posbility: 0.0052
+Next Token :  10, Posbility: 0.0021
+Choose :  arr,  Posbility: 0.8440
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr
+---------------------------
+Next Token : [, Posbility: 0.9962
+Next Token : :, Posbility: 0.0018
+Next Token :  [, Posbility: 0.0016
+Next Token : ., Posbility: 0.0001
+Next Token :  :, Posbility: 0.0001
+Choose : [,  Posbility: 0.9962
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[
+---------------------------
+Next Token : i, Posbility: 0.4997
+Next Token : 0, Posbility: 0.2018
+Next Token : n, Posbility: 0.1989
+Next Token : -, Posbility: 0.0465
+Next Token : 1, Posbility: 0.0131
+Choose : i,  Posbility: 0.4997
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i
+---------------------------
+Next Token : +, Posbility: 0.5135
+Next Token :  +, Posbility: 0.2360
+Next Token : ]:, Posbility: 0.1642
+Next Token : -, Posbility: 0.0320
+Next Token : ], Posbility: 0.0253
+Choose : +,  Posbility: 0.5135
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+
+---------------------------
+Next Token : 1, Posbility: 0.9468
+Next Token : n, Posbility: 0.0486
+Next Token : 2, Posbility: 0.0017
+Next Token :  1, Posbility: 0.0007
+Next Token : len, Posbility: 0.0004
+Choose : 1,  Posbility: 0.9468
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1
+---------------------------
+Next Token : ]:, Posbility: 0.9687
+Next Token : ], Posbility: 0.0289
+Next Token : :, Posbility: 0.0008
+Next Token : ]-, Posbility: 0.0004
+Next Token : ]., Posbility: 0.0002
+Choose : ]:,  Posbility: 0.9687
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+---------------------------
+Next Token : 
+, Posbility: 0.9727
+Next Token :  return, Posbility: 0.0112
+Next Token :  , Posbility: 0.0045
+Next Token :  #, Posbility: 0.0037
+Next Token :   , Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9727
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+
+---------------------------
+Next Token :             , Posbility: 0.9883
+Next Token :            , Posbility: 0.0053
+Next Token :                 , Posbility: 0.0022
+Next Token :              , Posbility: 0.0017
+Next Token :           , Posbility: 0.0010
+Choose :             ,  Posbility: 0.9883
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            
+---------------------------
+Next Token : return, Posbility: 0.7882
+Next Token : print, Posbility: 0.1320
+Next Token : arr, Posbility: 0.0406
+Next Token : pass, Posbility: 0.0031
+Next Token : if, Posbility: 0.0030
+Choose : return,  Posbility: 0.7882
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return
+---------------------------
+Next Token :  True, Posbility: 0.4234
+Next Token :  False, Posbility: 0.3995
+Next Token :  1, Posbility: 0.0395
+Next Token :  arr, Posbility: 0.0320
+Next Token :  ', Posbility: 0.0256
+Choose :  True,  Posbility: 0.4234
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+---------------------------
+Next Token : 
+, Posbility: 0.9381
+Next Token : 
+
+, Posbility: 0.0425
+Next Token :  , Posbility: 0.0093
+Next Token : ,, Posbility: 0.0025
+Next Token : ;, Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9381
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+
+---------------------------
+Next Token :     , Posbility: 0.7859
+Next Token :         , Posbility: 0.1706
+Next Token : 
+, Posbility: 0.0187
+Next Token :             , Posbility: 0.0180
+Next Token : def, Posbility: 0.0011
+Choose :     ,  Posbility: 0.7859
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    
+---------------------------
+Next Token : return, Posbility: 0.9277
+Next Token : else, Posbility: 0.0429
+Next Token : 
+, Posbility: 0.0167
+Next Token : if, Posbility: 0.0037
+Next Token : print, Posbility: 0.0036
+Choose : return,  Posbility: 0.9277
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9940
+Next Token :   , Posbility: 0.0012
+Next Token :  True, Posbility: 0.0010
+Next Token :  arr, Posbility: 0.0007
+Next Token : (, Posbility: 0.0004
+Choose :  False,  Posbility: 0.9940
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+---------------------------
+Next Token : 
+, Posbility: 0.7717
+Next Token : 
+
+, Posbility: 0.1932
+Next Token : <|endoftext|>, Posbility: 0.0129
+Next Token :  , Posbility: 0.0113
+Next Token :     , Posbility: 0.0030
+Choose : 
+,  Posbility: 0.7717
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.6689
+Next Token : def, Posbility: 0.0818
+Next Token : arr, Posbility: 0.0572
+Next Token : #, Posbility: 0.0436
+Next Token :     , Posbility: 0.0341
+Choose : 
+,  Posbility: 0.6689
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9677
+Next Token : 
+
+, Posbility: 0.0145
+Next Token :     , Posbility: 0.0081
+Next Token : <|endoftext|>, Posbility: 0.0062
+Next Token :         , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9677
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.7173
+Next Token : def, Posbility: 0.0928
+Next Token : #, Posbility: 0.0699
+Next Token : arr, Posbility: 0.0344
+Next Token : 
+, Posbility: 0.0222
+Choose : '',  Posbility: 0.7173
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8669
+Next Token :  Write, Posbility: 0.0234
+Next Token : Check, Posbility: 0.0114
+Next Token : 
+, Posbility: 0.0069
+Next Token : Return, Posbility: 0.0056
+Choose : Write,  Posbility: 0.8669
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9891
+Next Token :  your, Posbility: 0.0034
+Next Token :  an, Posbility: 0.0019
+Next Token :  function, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9891
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9509
+Next Token :  Python, Posbility: 0.0125
+Next Token :  program, Posbility: 0.0070
+Next Token :  Function, Posbility: 0.0051
+Next Token :  python, Posbility: 0.0051
+Choose :  function,  Posbility: 0.9509
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7573
+Next Token :  that, Posbility: 0.1833
+Next Token :  which, Posbility: 0.0226
+Next Token :  called, Posbility: 0.0094
+Next Token :  for, Posbility: 0.0033
+Choose :  to,  Posbility: 0.7573
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.4942
+Next Token :  find, Posbility: 0.1017
+Next Token :  print, Posbility: 0.0566
+Next Token :  return, Posbility: 0.0453
+Next Token :  calculate, Posbility: 0.0254
+Choose :  check,  Posbility: 0.4942
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check
+---------------------------
+Next Token :  whether, Posbility: 0.9596
+Next Token :  if, Posbility: 0.0263
+Next Token :  the, Posbility: 0.0037
+Next Token :  for, Posbility: 0.0020
+Next Token :  weather, Posbility: 0.0016
+Choose :  whether,  Posbility: 0.9596
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether
+---------------------------
+Next Token :  the, Posbility: 0.9037
+Next Token :  a, Posbility: 0.0335
+Next Token :  an, Posbility: 0.0161
+Next Token :  two, Posbility: 0.0061
+Next Token :  there, Posbility: 0.0059
+Choose :  the,  Posbility: 0.9037
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the
+---------------------------
+Next Token :  entered, Posbility: 0.9504
+Next Token :  element, Posbility: 0.0080
+Next Token :  array, Posbility: 0.0073
+Next Token :  elements, Posbility: 0.0062
+Next Token :  given, Posbility: 0.0041
+Choose :  entered,  Posbility: 0.9504
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered
+---------------------------
+Next Token :  number, Posbility: 0.9396
+Next Token :  element, Posbility: 0.0161
+Next Token :  numbers, Posbility: 0.0093
+Next Token :  string, Posbility: 0.0054
+Next Token :  value, Posbility: 0.0047
+Choose :  number,  Posbility: 0.9396
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number
+---------------------------
+Next Token :  is, Posbility: 0.9924
+Next Token : 
+, Posbility: 0.0010
+Next Token :  in, Posbility: 0.0006
+Next Token :  can, Posbility: 0.0005
+Next Token :  of, Posbility: 0.0005
+Choose :  is,  Posbility: 0.9924
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is
+---------------------------
+Next Token :  less, Posbility: 0.2840
+Next Token :  greater, Posbility: 0.1892
+Next Token :  smaller, Posbility: 0.1519
+Next Token :  equal, Posbility: 0.0587
+Next Token :  lesser, Posbility: 0.0396
+Choose :  less,  Posbility: 0.2840
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less
+---------------------------
+Next Token :  than, Posbility: 0.9918
+Next Token :  or, Posbility: 0.0040
+Next Token :  then, Posbility: 0.0016
+Next Token :  that, Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0004
+Choose :  than,  Posbility: 0.9918
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than
+---------------------------
+Next Token :  the, Posbility: 0.9542
+Next Token :  or, Posbility: 0.0370
+Next Token :  elements, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0013
+Next Token :  and, Posbility: 0.0007
+Choose :  the,  Posbility: 0.9542
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the
+---------------------------
+Next Token :  elements, Posbility: 0.9823
+Next Token :  given, Posbility: 0.0093
+Next Token :  element, Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0008
+Next Token :  numbers, Posbility: 0.0008
+Choose :  elements,  Posbility: 0.9823
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements
+---------------------------
+Next Token :  of, Posbility: 0.9919
+Next Token :  in, Posbility: 0.0029
+Next Token : 
+, Posbility: 0.0022
+Next Token :  , Posbility: 0.0008
+Next Token :  on, Posbility: 0.0002
+Choose :  of,  Posbility: 0.9919
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of
+---------------------------
+Next Token :  the, Posbility: 0.9945
+Next Token :  given, Posbility: 0.0027
+Next Token : 
+, Posbility: 0.0007
+Next Token :  a, Posbility: 0.0006
+Next Token :  array, Posbility: 0.0003
+Choose :  the,  Posbility: 0.9945
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the
+---------------------------
+Next Token :  given, Posbility: 0.9974
+Next Token : 
+, Posbility: 0.0007
+Next Token :  array, Posbility: 0.0004
+Next Token :  , Posbility: 0.0003
+Next Token :  give, Posbility: 0.0002
+Choose :  given,  Posbility: 0.9974
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the given
+---------------------------
+Next Token :  array, Posbility: 0.9983
+Next Token :  list, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0003
+Next Token :  arr, Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Choose :  array,  Posbility: 0.9983
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the given array
+---------------------------
+Next Token : .', Posbility: 0.9560
+Next Token : ., Posbility: 0.0317
+Next Token : '', Posbility: 0.0044
+Next Token : ,, Posbility: 0.0011
+Next Token :  and, Posbility: 0.0011
+Choose : .',  Posbility: 0.9560
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the given array.'
+---------------------------
+Next Token : '', Posbility: 0.9992
+Next Token : 
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0003
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9992
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the given array.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9635
+Next Token : 
+
+, Posbility: 0.0282
+Next Token :  , Posbility: 0.0027
+Next Token : def, Posbility: 0.0016
+Next Token :     , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9635
+---------------------------
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the given array.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9596
+Next Token : 
+, Posbility: 0.0359
+Next Token : #, Posbility: 0.0018
+Next Token : '', Posbility: 0.0007
+Next Token : import, Posbility: 0.0006
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.959513425827026
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether the entered number is greater than the elements of the given array.'''
+def greater(arr, n):
+    for i in range(n):
+        if arr[i] > arr[i+1]:
+            return True
+    return False
+
+
+'''Write a function to check whether the entered number is less than the elements of the given array.'''
+

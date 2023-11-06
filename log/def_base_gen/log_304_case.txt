@@ -1,0 +1,1311 @@
+<<<<<<<<<<<< 304 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  is, Posbility: 0.5134
+Next Token :  check, Posbility: 0.1825
+Next Token :  arm, Posbility: 0.1165
+Next Token :  number, Posbility: 0.0154
+Next Token :  num, Posbility: 0.0128
+Choose :  is,  Posbility: 0.5134
+'''Write a function to check whether the given number is armstrong or not.'''
+def is
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def is
+---------------------------
+Next Token : Arm, Posbility: 0.4873
+Next Token : _, Posbility: 0.4067
+Next Token : arm, Posbility: 0.0476
+Next Token : Ar, Posbility: 0.0139
+Next Token : Valid, Posbility: 0.0034
+Choose : Arm,  Posbility: 0.4873
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArm
+---------------------------
+Next Token : strong, Posbility: 0.9017
+Next Token : Strong, Posbility: 0.0663
+Next Token : (, Posbility: 0.0117
+Next Token : st, Posbility: 0.0035
+Next Token : St, Posbility: 0.0034
+Choose : strong,  Posbility: 0.9017
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong
+---------------------------
+Next Token : (, Posbility: 0.8932
+Next Token : Number, Posbility: 0.0520
+Next Token : ():, Posbility: 0.0130
+Next Token : _, Posbility: 0.0066
+Next Token :  (, Posbility: 0.0056
+Choose : (,  Posbility: 0.8932
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(
+---------------------------
+Next Token : num, Posbility: 0.3853
+Next Token : n, Posbility: 0.2666
+Next Token : number, Posbility: 0.1964
+Next Token : x, Posbility: 0.0730
+Next Token : a, Posbility: 0.0109
+Choose : num,  Posbility: 0.3853
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num
+---------------------------
+Next Token : ):, Posbility: 0.9283
+Next Token : :, Posbility: 0.0329
+Next Token : ), Posbility: 0.0144
+Next Token : ,, Posbility: 0.0065
+Next Token : To, Posbility: 0.0047
+Choose : ):,  Posbility: 0.9283
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+---------------------------
+Next Token : 
+, Posbility: 0.8884
+Next Token : , Posbility: 0.0395
+Next Token : 
+
+, Posbility: 0.0389
+Next Token :  , Posbility: 0.0223
+Next Token :   , Posbility: 0.0033
+Choose : 
+,  Posbility: 0.8884
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+
+---------------------------
+Next Token :     , Posbility: 0.8713
+Next Token :   , Posbility: 0.0582
+Next Token : 	, Posbility: 0.0473
+Next Token :    , Posbility: 0.0113
+Next Token :         , Posbility: 0.0022
+Choose :     ,  Posbility: 0.8713
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    
+---------------------------
+Next Token : sum, Posbility: 0.1569
+Next Token : if, Posbility: 0.1059
+Next Token : num, Posbility: 0.0953
+Next Token : '', Posbility: 0.0780
+Next Token : #, Posbility: 0.0457
+Choose : sum,  Posbility: 0.1569
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.7329
+Next Token : =, Posbility: 0.1473
+Next Token : _, Posbility: 0.0422
+Next Token : 1, Posbility: 0.0204
+Next Token : Of, Posbility: 0.0111
+Choose :  =,  Posbility: 0.7329
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9633
+Next Token :  num, Posbility: 0.0168
+Next Token :  int, Posbility: 0.0076
+Next Token : 0, Posbility: 0.0032
+Next Token :  str, Posbility: 0.0019
+Choose :  0,  Posbility: 0.9633
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9516
+Next Token : 
+
+, Posbility: 0.0246
+Next Token :  , Posbility: 0.0108
+Next Token :  #, Posbility: 0.0038
+Next Token : ;, Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9516
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9971
+Next Token : 	, Posbility: 0.0006
+Next Token :         , Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9971
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.1675
+Next Token : temp, Posbility: 0.1104
+Next Token : num, Posbility: 0.0823
+Next Token : while, Posbility: 0.0631
+Next Token : count, Posbility: 0.0458
+Choose : for,  Posbility: 0.1675
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7723
+Next Token :  n, Posbility: 0.0394
+Next Token :  x, Posbility: 0.0342
+Next Token :  digit, Posbility: 0.0284
+Next Token :  num, Posbility: 0.0223
+Choose :  i,  Posbility: 0.7723
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9959
+Next Token : ,, Posbility: 0.0034
+Next Token :   , Posbility: 0.0004
+Next Token : _, Posbility: 0.0001
+Next Token : Num, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9959
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.5183
+Next Token :  str, Posbility: 0.4377
+Next Token :  num, Posbility: 0.0333
+Next Token :  reversed, Posbility: 0.0066
+Next Token :  list, Posbility: 0.0011
+Choose :  range,  Posbility: 0.5183
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9796
+Next Token :  (, Posbility: 0.0197
+Next Token : (-, Posbility: 0.0003
+Next Token : ((, Posbility: 0.0003
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9796
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : 1, Posbility: 0.4505
+Next Token : num, Posbility: 0.2262
+Next Token : 0, Posbility: 0.1603
+Next Token : len, Posbility: 0.1386
+Next Token : 10, Posbility: 0.0055
+Choose : 1,  Posbility: 0.4505
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1
+---------------------------
+Next Token : ,, Posbility: 0.9929
+Next Token : ,, Posbility: 0.0048
+Next Token : ,-, Posbility: 0.0005
+Next Token : ):, Posbility: 0.0004
+Next Token : 000000, Posbility: 0.0003
+Choose : ,,  Posbility: 0.9929
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1,
+---------------------------
+Next Token :  num, Posbility: 0.6127
+Next Token : num, Posbility: 0.2825
+Next Token :  int, Posbility: 0.0271
+Next Token :  len, Posbility: 0.0128
+Next Token : int, Posbility: 0.0103
+Choose :  num,  Posbility: 0.6127
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num
+---------------------------
+Next Token : ):, Posbility: 0.3274
+Next Token : +, Posbility: 0.3025
+Next Token :  +, Posbility: 0.2871
+Next Token : //, Posbility: 0.0398
+Next Token :  //, Posbility: 0.0205
+Choose : ):,  Posbility: 0.3274
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+---------------------------
+Next Token : 
+, Posbility: 0.9665
+Next Token :  #, Posbility: 0.0068
+Next Token :  , Posbility: 0.0062
+Next Token :   , Posbility: 0.0061
+Next Token : 
+
+, Posbility: 0.0059
+Choose : 
+,  Posbility: 0.9665
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+
+---------------------------
+Next Token :         , Posbility: 0.9856
+Next Token :       , Posbility: 0.0046
+Next Token :             , Posbility: 0.0032
+Next Token :        , Posbility: 0.0031
+Next Token :          , Posbility: 0.0011
+Choose :         ,  Posbility: 0.9856
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        
+---------------------------
+Next Token : if, Posbility: 0.6192
+Next Token : sum, Posbility: 0.0710
+Next Token : digit, Posbility: 0.0603
+Next Token : temp, Posbility: 0.0325
+Next Token : num, Posbility: 0.0266
+Choose : if,  Posbility: 0.6192
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if
+---------------------------
+Next Token :  num, Posbility: 0.4983
+Next Token :  (, Posbility: 0.1646
+Next Token :  i, Posbility: 0.1420
+Next Token : (, Posbility: 0.1284
+Next Token :  int, Posbility: 0.0209
+Choose :  num,  Posbility: 0.4983
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num
+---------------------------
+Next Token :  %, Posbility: 0.8731
+Next Token : %, Posbility: 0.1068
+Next Token :  ==, Posbility: 0.0103
+Next Token :  <, Posbility: 0.0016
+Next Token :  >, Posbility: 0.0015
+Choose :  %,  Posbility: 0.8731
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num %
+---------------------------
+Next Token :  i, Posbility: 0.9496
+Next Token :  10, Posbility: 0.0223
+Next Token :  (, Posbility: 0.0085
+Next Token :  int, Posbility: 0.0037
+Next Token : i, Posbility: 0.0035
+Choose :  i,  Posbility: 0.9496
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i
+---------------------------
+Next Token :  ==, Posbility: 0.9742
+Next Token : !=, Posbility: 0.0138
+Next Token : ==, Posbility: 0.0093
+Next Token :   , Posbility: 0.0009
+Next Token : :, Posbility: 0.0003
+Choose :  ==,  Posbility: 0.9742
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i ==
+---------------------------
+Next Token :  0, Posbility: 0.9757
+Next Token : 0, Posbility: 0.0162
+Next Token :  num, Posbility: 0.0029
+Next Token :  1, Posbility: 0.0016
+Next Token :  int, Posbility: 0.0012
+Choose :  0,  Posbility: 0.9757
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0
+---------------------------
+Next Token : :, Posbility: 0.9829
+Next Token :  :, Posbility: 0.0092
+Next Token :  and, Posbility: 0.0059
+Next Token :  or, Posbility: 0.0012
+Next Token : :#, Posbility: 0.0002
+Choose : :,  Posbility: 0.9829
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9822
+Next Token :  , Posbility: 0.0038
+Next Token :   , Posbility: 0.0034
+Next Token :  sum, Posbility: 0.0028
+Next Token :  #, Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9822
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+
+---------------------------
+Next Token :             , Posbility: 0.9903
+Next Token :            , Posbility: 0.0041
+Next Token :                 , Posbility: 0.0016
+Next Token :              , Posbility: 0.0015
+Next Token :           , Posbility: 0.0013
+Choose :             ,  Posbility: 0.9903
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            
+---------------------------
+Next Token : sum, Posbility: 0.9275
+Next Token : print, Posbility: 0.0124
+Next Token : if, Posbility: 0.0103
+Next Token : return, Posbility: 0.0093
+Next Token : num, Posbility: 0.0057
+Choose : sum,  Posbility: 0.9275
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum
+---------------------------
+Next Token :  +=, Posbility: 0.7516
+Next Token :  =, Posbility: 0.2143
+Next Token : +=, Posbility: 0.0186
+Next Token :  -=, Posbility: 0.0117
+Next Token : =, Posbility: 0.0010
+Choose :  +=,  Posbility: 0.7516
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum +=
+---------------------------
+Next Token :  i, Posbility: 0.8103
+Next Token :  num, Posbility: 0.0762
+Next Token :  1, Posbility: 0.0286
+Next Token :  (, Posbility: 0.0275
+Next Token :  int, Posbility: 0.0240
+Choose :  i,  Posbility: 0.8103
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+---------------------------
+Next Token : 
+, Posbility: 0.8842
+Next Token : 
+
+, Posbility: 0.0817
+Next Token :  , Posbility: 0.0079
+Next Token :  **, Posbility: 0.0074
+Next Token : **, Posbility: 0.0035
+Choose : 
+,  Posbility: 0.8842
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+
+---------------------------
+Next Token :     , Posbility: 0.7730
+Next Token :         , Posbility: 0.1321
+Next Token :             , Posbility: 0.0919
+Next Token : #, Posbility: 0.0006
+Next Token :  , Posbility: 0.0004
+Choose :     ,  Posbility: 0.7730
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    
+---------------------------
+Next Token : if, Posbility: 0.8358
+Next Token : return, Posbility: 0.0645
+Next Token : 
+, Posbility: 0.0199
+Next Token : sum, Posbility: 0.0159
+Next Token : print, Posbility: 0.0115
+Choose : if,  Posbility: 0.8358
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if
+---------------------------
+Next Token :  sum, Posbility: 0.6939
+Next Token :  num, Posbility: 0.2273
+Next Token :  (, Posbility: 0.0386
+Next Token : (, Posbility: 0.0137
+Next Token :  int, Posbility: 0.0074
+Choose :  sum,  Posbility: 0.6939
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum
+---------------------------
+Next Token :  ==, Posbility: 0.9726
+Next Token : ==, Posbility: 0.0102
+Next Token : !=, Posbility: 0.0043
+Next Token :  >, Posbility: 0.0035
+Next Token :  **, Posbility: 0.0019
+Choose :  ==,  Posbility: 0.9726
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum ==
+---------------------------
+Next Token :  num, Posbility: 0.9900
+Next Token :  int, Posbility: 0.0047
+Next Token :  (, Posbility: 0.0011
+Next Token :  1, Posbility: 0.0006
+Next Token :  sum, Posbility: 0.0005
+Choose :  num,  Posbility: 0.9900
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num
+---------------------------
+Next Token : :, Posbility: 0.9698
+Next Token :  and, Posbility: 0.0186
+Next Token :  :, Posbility: 0.0080
+Next Token :  or, Posbility: 0.0006
+Next Token :  -, Posbility: 0.0006
+Choose : :,  Posbility: 0.9698
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+---------------------------
+Next Token : 
+, Posbility: 0.9907
+Next Token :  return, Posbility: 0.0023
+Next Token :  , Posbility: 0.0020
+Next Token :  #, Posbility: 0.0014
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9907
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+
+---------------------------
+Next Token :         , Posbility: 0.9900
+Next Token :             , Posbility: 0.0054
+Next Token :        , Posbility: 0.0020
+Next Token :          , Posbility: 0.0009
+Next Token :       , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9900
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        
+---------------------------
+Next Token : return, Posbility: 0.8210
+Next Token : print, Posbility: 0.1606
+Next Token : sum, Posbility: 0.0034
+Next Token : result, Posbility: 0.0034
+Next Token : if, Posbility: 0.0029
+Choose : return,  Posbility: 0.8210
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.7127
+Next Token :  ", Posbility: 0.1192
+Next Token :  ', Posbility: 0.0747
+Next Token :  1, Posbility: 0.0238
+Next Token :  f, Posbility: 0.0212
+Choose :  True,  Posbility: 0.7127
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9727
+Next Token : 
+
+, Posbility: 0.0199
+Next Token :  , Posbility: 0.0034
+Next Token :   , Posbility: 0.0007
+Next Token :  #, Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9727
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9906
+Next Token : 
+, Posbility: 0.0050
+Next Token :         , Posbility: 0.0028
+Next Token : '', Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9906
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.8595
+Next Token : return, Posbility: 0.1317
+Next Token : el, Posbility: 0.0054
+Next Token : 
+, Posbility: 0.0011
+Next Token : if, Posbility: 0.0010
+Choose : else,  Posbility: 0.8595
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9974
+Next Token :  :, Posbility: 0.0026
+Next Token : :#, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Next Token :  return, Posbility: 0.0000
+Choose : :,  Posbility: 0.9974
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9779
+Next Token :  return, Posbility: 0.0126
+Next Token :  , Posbility: 0.0083
+Next Token : return, Posbility: 0.0003
+Next Token :   , Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9779
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9972
+Next Token :          , Posbility: 0.0010
+Next Token :             , Posbility: 0.0008
+Next Token :        , Posbility: 0.0006
+Next Token :     , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9972
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9850
+Next Token : False, Posbility: 0.0111
+Next Token : print, Posbility: 0.0023
+Next Token : sum, Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Choose : return,  Posbility: 0.9850
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9948
+Next Token :  ", Posbility: 0.0008
+Next Token :  ', Posbility: 0.0008
+Next Token :   , Posbility: 0.0007
+Next Token :  print, Posbility: 0.0005
+Choose :  False,  Posbility: 0.9948
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.5478
+Next Token : 
+
+, Posbility: 0.4225
+Next Token : <|endoftext|>, Posbility: 0.0146
+Next Token :  , Posbility: 0.0061
+Next Token :     , Posbility: 0.0029
+Choose : 
+,  Posbility: 0.5478
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.7006
+Next Token :     , Posbility: 0.0565
+Next Token : print, Posbility: 0.0384
+Next Token : num, Posbility: 0.0383
+Next Token : #, Posbility: 0.0308
+Choose : 
+,  Posbility: 0.7006
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9591
+Next Token :     , Posbility: 0.0157
+Next Token : 
+
+, Posbility: 0.0112
+Next Token : <|endoftext|>, Posbility: 0.0084
+Next Token :         , Posbility: 0.0032
+Choose : 
+,  Posbility: 0.9591
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3617
+Next Token : print, Posbility: 0.1516
+Next Token : #, Posbility: 0.1417
+Next Token : def, Posbility: 0.1191
+Next Token : num, Posbility: 0.0719
+Choose : '',  Posbility: 0.3617
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6973
+Next Token :  Write, Posbility: 0.0339
+Next Token : 
+, Posbility: 0.0287
+Next Token : Check, Posbility: 0.0159
+Next Token : Function, Posbility: 0.0092
+Choose : Write,  Posbility: 0.6973
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9860
+Next Token :  your, Posbility: 0.0035
+Next Token :  an, Posbility: 0.0029
+Next Token :  function, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0018
+Choose :  a,  Posbility: 0.9860
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9138
+Next Token :  Python, Posbility: 0.0238
+Next Token :  program, Posbility: 0.0197
+Next Token :  python, Posbility: 0.0103
+Next Token :  Function, Posbility: 0.0052
+Choose :  function,  Posbility: 0.9138
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7339
+Next Token :  that, Posbility: 0.1919
+Next Token :  which, Posbility: 0.0246
+Next Token :  called, Posbility: 0.0168
+Next Token :  for, Posbility: 0.0052
+Choose :  to,  Posbility: 0.7339
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.3052
+Next Token :  find, Posbility: 0.1259
+Next Token :  get, Posbility: 0.0850
+Next Token :  print, Posbility: 0.0629
+Next Token :  count, Posbility: 0.0478
+Choose :  check,  Posbility: 0.3052
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8675
+Next Token :  if, Posbility: 0.0710
+Next Token :  the, Posbility: 0.0184
+Next Token :  weather, Posbility: 0.0069
+Next Token :  a, Posbility: 0.0049
+Choose :  whether,  Posbility: 0.8675
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether
+---------------------------
+Next Token :  the, Posbility: 0.7698
+Next Token :  a, Posbility: 0.1138
+Next Token :  an, Posbility: 0.0233
+Next Token :  given, Posbility: 0.0149
+Next Token :  two, Posbility: 0.0075
+Choose :  the,  Posbility: 0.7698
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the
+---------------------------
+Next Token :  given, Posbility: 0.8297
+Next Token :  number, Posbility: 0.0954
+Next Token :  string, Posbility: 0.0114
+Next Token :  word, Posbility: 0.0051
+Next Token :  list, Posbility: 0.0036
+Choose :  given,  Posbility: 0.8297
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given
+---------------------------
+Next Token :  number, Posbility: 0.8552
+Next Token :  string, Posbility: 0.0882
+Next Token :  word, Posbility: 0.0069
+Next Token :  integer, Posbility: 0.0062
+Next Token :  year, Posbility: 0.0035
+Choose :  number,  Posbility: 0.8552
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number
+---------------------------
+Next Token :  is, Posbility: 0.9700
+Next Token :  has, Posbility: 0.0041
+Next Token : 
+, Posbility: 0.0035
+Next Token :  can, Posbility: 0.0033
+Next Token :  in, Posbility: 0.0014
+Choose :  is,  Posbility: 0.9700
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is
+---------------------------
+Next Token :  pal, Posbility: 0.1397
+Next Token :  narcissistic, Posbility: 0.1292
+Next Token :  prime, Posbility: 0.0942
+Next Token :  an, Posbility: 0.0827
+Next Token :  a, Posbility: 0.0467
+Choose :  pal,  Posbility: 0.1397
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is pal
+---------------------------
+Next Token : ind, Posbility: 0.9969
+Next Token : id, Posbility: 0.0011
+Next Token : in, Posbility: 0.0002
+Next Token : it, Posbility: 0.0002
+Next Token : i, Posbility: 0.0002
+Choose : ind,  Posbility: 0.9969
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palind
+---------------------------
+Next Token : rome, Posbility: 0.9264
+Next Token : rom, Posbility: 0.0708
+Next Token : roma, Posbility: 0.0008
+Next Token : rone, Posbility: 0.0003
+Next Token : or, Posbility: 0.0002
+Choose : rome,  Posbility: 0.9264
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome
+---------------------------
+Next Token :  or, Posbility: 0.9719
+Next Token : .', Posbility: 0.0084
+Next Token : ., Posbility: 0.0068
+Next Token : '', Posbility: 0.0032
+Next Token : 
+, Posbility: 0.0018
+Choose :  or,  Posbility: 0.9719
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome or
+---------------------------
+Next Token :  not, Posbility: 0.9981
+Next Token :  pal, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0004
+Next Token :  , Posbility: 0.0001
+Next Token :  NOT, Posbility: 0.0001
+Choose :  not,  Posbility: 0.9981
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome or not
+---------------------------
+Next Token : .', Posbility: 0.8388
+Next Token : ., Posbility: 0.1022
+Next Token : '', Posbility: 0.0376
+Next Token :  ', Posbility: 0.0032
+Next Token :  using, Posbility: 0.0030
+Choose : .',  Posbility: 0.8388
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome or not.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9164
+Next Token : 
+
+, Posbility: 0.0764
+Next Token : def, Posbility: 0.0028
+Next Token :  , Posbility: 0.0021
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9164
+---------------------------
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9085
+Next Token : 
+, Posbility: 0.0694
+Next Token : #, Posbility: 0.0113
+Next Token : '', Posbility: 0.0021
+Next Token : num, Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.955909013748169
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether the given number is armstrong or not.'''
+def isArmstrong(num):
+    sum = 0
+    for i in range(1, num):
+        if num % i == 0:
+            sum += i
+    if sum == num:
+        return True
+    else:
+        return False
+
+
+'''Write a function to check whether the given number is palindrome or not.'''
+

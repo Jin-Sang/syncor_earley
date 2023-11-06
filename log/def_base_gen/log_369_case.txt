@@ -1,0 +1,2762 @@
+<<<<<<<<<<<< 369 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  l, Posbility: 0.4734
+Next Token :  LCS, Posbility: 0.1693
+Next Token :  longest, Posbility: 0.1229
+Next Token :  find, Posbility: 0.0408
+Next Token :  L, Posbility: 0.0356
+Choose :  l,  Posbility: 0.4734
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def l
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def l
+---------------------------
+Next Token : cs, Posbility: 0.9885
+Next Token : c, Posbility: 0.0065
+Next Token : ca, Posbility: 0.0009
+Next Token : cr, Posbility: 0.0008
+Next Token : cp, Posbility: 0.0007
+Choose : cs,  Posbility: 0.9885
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs
+---------------------------
+Next Token : (, Posbility: 0.6560
+Next Token : _, Posbility: 0.2524
+Next Token : 3, Posbility: 0.0126
+Next Token : 1, Posbility: 0.0056
+Next Token : 2, Posbility: 0.0050
+Choose : (,  Posbility: 0.6560
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(
+---------------------------
+Next Token : s, Posbility: 0.3201
+Next Token : str, Posbility: 0.1497
+Next Token : a, Posbility: 0.1327
+Next Token : x, Posbility: 0.1013
+Next Token : string, Posbility: 0.0982
+Choose : s,  Posbility: 0.3201
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s
+---------------------------
+Next Token : 1, Posbility: 0.9657
+Next Token : ,, Posbility: 0.0193
+Next Token : ):, Posbility: 0.0057
+Next Token : 0, Posbility: 0.0043
+Next Token : _, Posbility: 0.0015
+Choose : 1,  Posbility: 0.9657
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1
+---------------------------
+Next Token : ,, Posbility: 0.9572
+Next Token : :, Posbility: 0.0365
+Next Token : ):, Posbility: 0.0025
+Next Token : ,, Posbility: 0.0019
+Next Token : _, Posbility: 0.0006
+Choose : ,,  Posbility: 0.9572
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1,
+---------------------------
+Next Token :  s, Posbility: 0.7940
+Next Token : s, Posbility: 0.1988
+Next Token :  t, Posbility: 0.0018
+Next Token :  l, Posbility: 0.0004
+Next Token :  i, Posbility: 0.0004
+Choose :  s,  Posbility: 0.7940
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s
+---------------------------
+Next Token : 2, Posbility: 0.9993
+Next Token : 3, Posbility: 0.0004
+Next Token : 1, Posbility: 0.0003
+Next Token : ):, Posbility: 0.0000
+Next Token : 0, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2
+---------------------------
+Next Token : ,, Posbility: 0.8226
+Next Token : ):, Posbility: 0.1752
+Next Token : ,, Posbility: 0.0012
+Next Token : ), Posbility: 0.0004
+Next Token : =, Posbility: 0.0002
+Choose : ,,  Posbility: 0.8226
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2,
+---------------------------
+Next Token :  s, Posbility: 0.9723
+Next Token : s, Posbility: 0.0157
+Next Token :  i, Posbility: 0.0010
+Next Token :  n, Posbility: 0.0009
+Next Token :  k, Posbility: 0.0006
+Choose :  s,  Posbility: 0.9723
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s
+---------------------------
+Next Token : 3, Posbility: 0.9977
+Next Token : ):, Posbility: 0.0009
+Next Token : 1, Posbility: 0.0006
+Next Token : 2, Posbility: 0.0004
+Next Token : 4, Posbility: 0.0001
+Choose : 3,  Posbility: 0.9977
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3
+---------------------------
+Next Token : ):, Posbility: 0.8860
+Next Token : ,, Posbility: 0.1095
+Next Token : ), Posbility: 0.0028
+Next Token : =, Posbility: 0.0008
+Next Token :  ):, Posbility: 0.0004
+Choose : ):,  Posbility: 0.8860
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+---------------------------
+Next Token : 
+, Posbility: 0.8782
+Next Token : 
+
+, Posbility: 0.0536
+Next Token : , Posbility: 0.0314
+Next Token :  , Posbility: 0.0244
+Next Token :   , Posbility: 0.0047
+Choose : 
+,  Posbility: 0.8782
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+
+---------------------------
+Next Token :     , Posbility: 0.9113
+Next Token : 	, Posbility: 0.0433
+Next Token :   , Posbility: 0.0301
+Next Token :    , Posbility: 0.0047
+Next Token :         , Posbility: 0.0039
+Choose :     ,  Posbility: 0.9113
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    
+---------------------------
+Next Token : if, Posbility: 0.2310
+Next Token : m, Posbility: 0.1376
+Next Token : #, Posbility: 0.1182
+Next Token : n, Posbility: 0.0716
+Next Token : '', Posbility: 0.0628
+Choose : if,  Posbility: 0.2310
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if
+---------------------------
+Next Token :  len, Posbility: 0.5514
+Next Token :  s, Posbility: 0.1965
+Next Token :  not, Posbility: 0.1520
+Next Token : (, Posbility: 0.0488
+Next Token :  (, Posbility: 0.0376
+Choose :  len,  Posbility: 0.5514
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len
+---------------------------
+Next Token : (, Posbility: 0.9994
+Next Token :  (, Posbility: 0.0002
+Next Token : ({, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Choose : (,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(
+---------------------------
+Next Token : s, Posbility: 0.9976
+Next Token : set, Posbility: 0.0015
+Next Token : list, Posbility: 0.0002
+Next Token : l, Posbility: 0.0001
+Next Token : str, Posbility: 0.0001
+Choose : s,  Posbility: 0.9976
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s
+---------------------------
+Next Token : 1, Posbility: 0.8760
+Next Token : 3, Posbility: 0.0889
+Next Token : 2, Posbility: 0.0347
+Next Token : 4, Posbility: 0.0002
+Next Token : ), Posbility: 0.0002
+Choose : 1,  Posbility: 0.8760
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1
+---------------------------
+Next Token : ), Posbility: 0.9793
+Next Token : )!, Posbility: 0.0096
+Next Token : )+, Posbility: 0.0057
+Next Token : +, Posbility: 0.0017
+Next Token :  +, Posbility: 0.0014
+Choose : ),  Posbility: 0.9793
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1)
+---------------------------
+Next Token :  ==, Posbility: 0.3353
+Next Token :  >, Posbility: 0.2970
+Next Token :  <, Posbility: 0.1876
+Next Token : ==, Posbility: 0.0374
+Next Token :  <=, Posbility: 0.0344
+Choose :  ==,  Posbility: 0.3353
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) ==
+---------------------------
+Next Token :  0, Posbility: 0.9409
+Next Token :  len, Posbility: 0.0306
+Next Token :  1, Posbility: 0.0214
+Next Token : 0, Posbility: 0.0057
+Next Token :   , Posbility: 0.0003
+Choose :  0,  Posbility: 0.9409
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0
+---------------------------
+Next Token :  or, Posbility: 0.6730
+Next Token : :, Posbility: 0.2590
+Next Token :  and, Posbility: 0.0523
+Next Token :  :, Posbility: 0.0097
+Next Token :   , Posbility: 0.0042
+Choose :  or,  Posbility: 0.6730
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or
+---------------------------
+Next Token :  len, Posbility: 0.9950
+Next Token :  (, Posbility: 0.0020
+Next Token :   , Posbility: 0.0012
+Next Token :  s, Posbility: 0.0007
+Next Token :  0, Posbility: 0.0002
+Choose :  len,  Posbility: 0.9950
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len
+---------------------------
+Next Token : (, Posbility: 0.9999
+Next Token :  (, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token : gh, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Choose : (,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(
+---------------------------
+Next Token : s, Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token :  s, Posbility: 0.0000
+Next Token : set, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Choose : s,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s
+---------------------------
+Next Token : 2, Posbility: 0.9942
+Next Token : 1, Posbility: 0.0030
+Next Token : 3, Posbility: 0.0028
+Next Token : 4, Posbility: 0.0000
+Next Token :  2, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9942
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2
+---------------------------
+Next Token : ), Posbility: 0.9997
+Next Token : ):, Posbility: 0.0001
+Next Token :  ), Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Next Token : )+, Posbility: 0.0000
+Choose : ),  Posbility: 0.9997
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2)
+---------------------------
+Next Token :  ==, Posbility: 0.9911
+Next Token : ==, Posbility: 0.0073
+Next Token : !=, Posbility: 0.0004
+Next Token :  <=, Posbility: 0.0003
+Next Token :  <, Posbility: 0.0003
+Choose :  ==,  Posbility: 0.9911
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) ==
+---------------------------
+Next Token :  0, Posbility: 0.9957
+Next Token : 0, Posbility: 0.0038
+Next Token :  len, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token :  1, Posbility: 0.0001
+Choose :  0,  Posbility: 0.9957
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0
+---------------------------
+Next Token :  or, Posbility: 0.9889
+Next Token : :, Posbility: 0.0052
+Next Token :  \, Posbility: 0.0031
+Next Token :   , Posbility: 0.0011
+Next Token :  :, Posbility: 0.0006
+Choose :  or,  Posbility: 0.9889
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or
+---------------------------
+Next Token :  len, Posbility: 0.9982
+Next Token :   , Posbility: 0.0006
+Next Token :  \, Posbility: 0.0004
+Next Token :  s, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0002
+Choose :  len,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len
+---------------------------
+Next Token : (, Posbility: 0.9999
+Next Token :  (, Posbility: 0.0000
+Next Token : gh, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : (,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(
+---------------------------
+Next Token : s, Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0001
+Next Token :  s, Posbility: 0.0000
+Next Token : set, Posbility: 0.0000
+Next Token : S, Posbility: 0.0000
+Choose : s,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s
+---------------------------
+Next Token : 3, Posbility: 0.9963
+Next Token : 1, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0016
+Next Token : 4, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9963
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3
+---------------------------
+Next Token : ), Posbility: 0.9999
+Next Token :  ), Posbility: 0.0001
+Next Token : ):, Posbility: 0.0000
+Next Token : )!, Posbility: 0.0000
+Next Token : )-, Posbility: 0.0000
+Choose : ),  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3)
+---------------------------
+Next Token :  ==, Posbility: 0.9941
+Next Token : ==, Posbility: 0.0043
+Next Token :  <=, Posbility: 0.0005
+Next Token :  <, Posbility: 0.0005
+Next Token :   , Posbility: 0.0002
+Choose :  ==,  Posbility: 0.9941
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) ==
+---------------------------
+Next Token :  0, Posbility: 0.9932
+Next Token : 0, Posbility: 0.0065
+Next Token :  1, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  len, Posbility: 0.0000
+Choose :  0,  Posbility: 0.9932
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0
+---------------------------
+Next Token : :, Posbility: 0.9532
+Next Token :  :, Posbility: 0.0247
+Next Token :  or, Posbility: 0.0217
+Next Token : :#, Posbility: 0.0001
+Next Token :  \, Posbility: 0.0001
+Choose : :,  Posbility: 0.9532
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9745
+Next Token :  return, Posbility: 0.0137
+Next Token :  , Posbility: 0.0050
+Next Token :   , Posbility: 0.0023
+Next Token :  #, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9745
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9883
+Next Token :       , Posbility: 0.0036
+Next Token :             , Posbility: 0.0029
+Next Token :        , Posbility: 0.0027
+Next Token :          , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9883
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.9780
+Next Token : print, Posbility: 0.0044
+Next Token : if, Posbility: 0.0029
+Next Token : #, Posbility: 0.0024
+Next Token : l, Posbility: 0.0019
+Choose : return,  Posbility: 0.9780
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return
+---------------------------
+Next Token :  0, Posbility: 0.6744
+Next Token :  "", Posbility: 0.1603
+Next Token :  '', Posbility: 0.0426
+Next Token :  [], Posbility: 0.0213
+Next Token :  -, Posbility: 0.0200
+Choose :  0,  Posbility: 0.6744
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+---------------------------
+Next Token : 
+, Posbility: 0.6399
+Next Token : 
+
+, Posbility: 0.3283
+Next Token : ;, Posbility: 0.0112
+Next Token : ,, Posbility: 0.0112
+Next Token :  , Posbility: 0.0056
+Choose : 
+,  Posbility: 0.6399
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+
+---------------------------
+Next Token :     , Posbility: 0.9822
+Next Token :         , Posbility: 0.0105
+Next Token :  , Posbility: 0.0017
+Next Token :   , Posbility: 0.0009
+Next Token : 	, Posbility: 0.0009
+Choose :     ,  Posbility: 0.9822
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    
+---------------------------
+Next Token : if, Posbility: 0.5804
+Next Token : el, Posbility: 0.1835
+Next Token : 
+, Posbility: 0.0878
+Next Token : #, Posbility: 0.0198
+Next Token : l, Posbility: 0.0184
+Choose : if,  Posbility: 0.5804
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if
+---------------------------
+Next Token :  s, Posbility: 0.9478
+Next Token :  (, Posbility: 0.0237
+Next Token :  len, Posbility: 0.0180
+Next Token : (, Posbility: 0.0035
+Next Token :   , Posbility: 0.0014
+Choose :  s,  Posbility: 0.9478
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s
+---------------------------
+Next Token : 1, Posbility: 0.9657
+Next Token : 3, Posbility: 0.0257
+Next Token : 2, Posbility: 0.0085
+Next Token : _, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9657
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1
+---------------------------
+Next Token : [, Posbility: 0.9679
+Next Token :  ==, Posbility: 0.0276
+Next Token :  >, Posbility: 0.0012
+Next Token :  [, Posbility: 0.0007
+Next Token :  <, Posbility: 0.0006
+Choose : [,  Posbility: 0.9679
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[
+---------------------------
+Next Token : 0, Posbility: 0.9100
+Next Token : -, Posbility: 0.0815
+Next Token : len, Posbility: 0.0059
+Next Token : :, Posbility: 0.0016
+Next Token : :-, Posbility: 0.0003
+Choose : 0,  Posbility: 0.9100
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0
+---------------------------
+Next Token : ], Posbility: 0.9942
+Next Token : :, Posbility: 0.0047
+Next Token : ]., Posbility: 0.0007
+Next Token : ][, Posbility: 0.0002
+Next Token : ]+, Posbility: 0.0001
+Choose : ],  Posbility: 0.9942
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0]
+---------------------------
+Next Token :  ==, Posbility: 0.8847
+Next Token : !=, Posbility: 0.1027
+Next Token : ==, Posbility: 0.0055
+Next Token :  <, Posbility: 0.0027
+Next Token :  in, Posbility: 0.0009
+Choose :  ==,  Posbility: 0.8847
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] ==
+---------------------------
+Next Token :  s, Posbility: 0.9932
+Next Token :  ', Posbility: 0.0036
+Next Token :  ", Posbility: 0.0015
+Next Token : s, Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Choose :  s,  Posbility: 0.9932
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s
+---------------------------
+Next Token : 2, Posbility: 0.7978
+Next Token : 3, Posbility: 0.2019
+Next Token : 1, Posbility: 0.0002
+Next Token : [, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 2,  Posbility: 0.7978
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2
+---------------------------
+Next Token : [, Posbility: 0.9996
+Next Token :  [, Posbility: 0.0002
+Next Token :  and, Posbility: 0.0001
+Next Token : :, Posbility: 0.0001
+Next Token :  or, Posbility: 0.0000
+Choose : [,  Posbility: 0.9996
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[
+---------------------------
+Next Token : 0, Posbility: 0.9976
+Next Token : -, Posbility: 0.0018
+Next Token : 1, Posbility: 0.0003
+Next Token : len, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Choose : 0,  Posbility: 0.9976
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0
+---------------------------
+Next Token : ], Posbility: 0.7607
+Next Token : ]:, Posbility: 0.2387
+Next Token : ]], Posbility: 0.0005
+Next Token : ][, Posbility: 0.0000
+Next Token :  ], Posbility: 0.0000
+Choose : ],  Posbility: 0.7607
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0]
+---------------------------
+Next Token :  and, Posbility: 0.8930
+Next Token :  ==, Posbility: 0.0545
+Next Token :  or, Posbility: 0.0489
+Next Token : !=, Posbility: 0.0011
+Next Token :  :, Posbility: 0.0008
+Choose :  and,  Posbility: 0.8930
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and
+---------------------------
+Next Token :  s, Posbility: 0.9425
+Next Token :  l, Posbility: 0.0290
+Next Token :  (, Posbility: 0.0100
+Next Token :  len, Posbility: 0.0054
+Next Token :   , Posbility: 0.0017
+Choose :  s,  Posbility: 0.9425
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s
+---------------------------
+Next Token : 2, Posbility: 0.4861
+Next Token : 1, Posbility: 0.3889
+Next Token : 3, Posbility: 0.1246
+Next Token : [, Posbility: 0.0001
+Next Token : 4, Posbility: 0.0001
+Choose : 2,  Posbility: 0.4861
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2
+---------------------------
+Next Token : [, Posbility: 0.9926
+Next Token :  ==, Posbility: 0.0027
+Next Token : ., Posbility: 0.0023
+Next Token :  in, Posbility: 0.0009
+Next Token : !=, Posbility: 0.0005
+Choose : [,  Posbility: 0.9926
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[
+---------------------------
+Next Token : 0, Posbility: 0.8502
+Next Token : 1, Posbility: 0.0747
+Next Token : -, Posbility: 0.0637
+Next Token : len, Posbility: 0.0090
+Next Token : 2, Posbility: 0.0007
+Choose : 0,  Posbility: 0.8502
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0
+---------------------------
+Next Token : ], Posbility: 0.9974
+Next Token : :, Posbility: 0.0012
+Next Token : ]., Posbility: 0.0004
+Next Token : :], Posbility: 0.0002
+Next Token :  ], Posbility: 0.0002
+Choose : ],  Posbility: 0.9974
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0]
+---------------------------
+Next Token :  ==, Posbility: 0.9629
+Next Token : !=, Posbility: 0.0165
+Next Token :  in, Posbility: 0.0156
+Next Token : ==, Posbility: 0.0025
+Next Token :   , Posbility: 0.0005
+Choose :  ==,  Posbility: 0.9629
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] ==
+---------------------------
+Next Token :  s, Posbility: 0.9959
+Next Token : s, Posbility: 0.0024
+Next Token :  ', Posbility: 0.0008
+Next Token :   , Posbility: 0.0003
+Next Token :  ", Posbility: 0.0002
+Choose :  s,  Posbility: 0.9959
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s
+---------------------------
+Next Token : 3, Posbility: 0.9996
+Next Token : 1, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : 4, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9996
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3
+---------------------------
+Next Token : [, Posbility: 0.9992
+Next Token :  [, Posbility: 0.0004
+Next Token : :, Posbility: 0.0003
+Next Token :  and, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[
+---------------------------
+Next Token : 0, Posbility: 0.9990
+Next Token : 1, Posbility: 0.0004
+Next Token : -, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Choose : 0,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0
+---------------------------
+Next Token : ]:, Posbility: 0.9846
+Next Token : ], Posbility: 0.0151
+Next Token : :, Posbility: 0.0001
+Next Token : ][, Posbility: 0.0001
+Next Token : ],, Posbility: 0.0000
+Choose : ]:,  Posbility: 0.9846
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+---------------------------
+Next Token : 
+, Posbility: 0.9835
+Next Token :   , Posbility: 0.0069
+Next Token :  #, Posbility: 0.0032
+Next Token :  , Posbility: 0.0017
+Next Token :  return, Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9835
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+
+---------------------------
+Next Token :         , Posbility: 0.9947
+Next Token :             , Posbility: 0.0020
+Next Token :          , Posbility: 0.0010
+Next Token :        , Posbility: 0.0010
+Next Token :       , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9947
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        
+---------------------------
+Next Token : return, Posbility: 0.9411
+Next Token : if, Posbility: 0.0077
+Next Token : l, Posbility: 0.0077
+Next Token : #, Posbility: 0.0063
+Next Token : res, Posbility: 0.0045
+Choose : return,  Posbility: 0.9411
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return
+---------------------------
+Next Token :  1, Posbility: 0.8075
+Next Token :  l, Posbility: 0.1090
+Next Token :  s, Posbility: 0.0113
+Next Token :  max, Posbility: 0.0093
+Next Token :  len, Posbility: 0.0079
+Choose :  1,  Posbility: 0.8075
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1
+---------------------------
+Next Token :  +, Posbility: 0.9379
+Next Token : +, Posbility: 0.0291
+Next Token : 
+, Posbility: 0.0255
+Next Token : 
+
+, Posbility: 0.0046
+Next Token :  if, Posbility: 0.0016
+Choose :  +,  Posbility: 0.9379
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 +
+---------------------------
+Next Token :  l, Posbility: 0.9636
+Next Token :  max, Posbility: 0.0127
+Next Token :  (, Posbility: 0.0039
+Next Token :  min, Posbility: 0.0032
+Next Token :  LCS, Posbility: 0.0028
+Choose :  l,  Posbility: 0.9636
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + l
+---------------------------
+Next Token : cs, Posbility: 0.9997
+Next Token : c, Posbility: 0.0002
+Next Token : css, Posbility: 0.0000
+Next Token : cd, Posbility: 0.0000
+Next Token : cc, Posbility: 0.0000
+Choose : cs,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs
+---------------------------
+Next Token : (, Posbility: 0.9985
+Next Token :  (, Posbility: 0.0006
+Next Token : (*, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Choose : (,  Posbility: 0.9985
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(
+---------------------------
+Next Token : s, Posbility: 0.9974
+Next Token : l, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0004
+Next Token :  s, Posbility: 0.0002
+Next Token : list, Posbility: 0.0001
+Choose : s,  Posbility: 0.9974
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s
+---------------------------
+Next Token : 1, Posbility: 0.9987
+Next Token : 2, Posbility: 0.0012
+Next Token : 3, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token :  1, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1
+---------------------------
+Next Token : [, Posbility: 0.9845
+Next Token : ,, Posbility: 0.0132
+Next Token :  [, Posbility: 0.0009
+Next Token :  +, Posbility: 0.0006
+Next Token : ., Posbility: 0.0005
+Choose : [,  Posbility: 0.9845
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[
+---------------------------
+Next Token : 1, Posbility: 0.9995
+Next Token : 0, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Next Token : :, Posbility: 0.0001
+Next Token : -, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1
+---------------------------
+Next Token : :, Posbility: 0.9129
+Next Token : :], Posbility: 0.0639
+Next Token :  :, Posbility: 0.0118
+Next Token : :-, Posbility: 0.0095
+Next Token : ::, Posbility: 0.0011
+Choose : :,  Posbility: 0.9129
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:
+---------------------------
+Next Token : ],, Posbility: 0.9913
+Next Token : len, Posbility: 0.0039
+Next Token :  ],, Posbility: 0.0032
+Next Token :  len, Posbility: 0.0009
+Next Token : ]), Posbility: 0.0002
+Choose : ],,  Posbility: 0.9913
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:],
+---------------------------
+Next Token :  s, Posbility: 0.9820
+Next Token : s, Posbility: 0.0162
+Next Token :   , Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0006
+Next Token :  , Posbility: 0.0001
+Choose :  s,  Posbility: 0.9820
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s
+---------------------------
+Next Token : 2, Posbility: 0.9981
+Next Token : 3, Posbility: 0.0013
+Next Token : 1, Posbility: 0.0006
+Next Token : [, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9981
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2
+---------------------------
+Next Token : [, Posbility: 0.8708
+Next Token : ,, Posbility: 0.1291
+Next Token :  [, Posbility: 0.0001
+Next Token : ), Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Choose : [,  Posbility: 0.8708
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[
+---------------------------
+Next Token : 1, Posbility: 0.9998
+Next Token : 2, Posbility: 0.0001
+Next Token : :-, Posbility: 0.0000
+Next Token : 0, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1
+---------------------------
+Next Token : :, Posbility: 0.9995
+Next Token :  :, Posbility: 0.0001
+Next Token : ],, Posbility: 0.0001
+Next Token : :-, Posbility: 0.0001
+Next Token : ::, Posbility: 0.0001
+Choose : :,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:
+---------------------------
+Next Token : ],, Posbility: 0.9998
+Next Token : ]), Posbility: 0.0001
+Next Token : ],[, Posbility: 0.0000
+Next Token :  ],, Posbility: 0.0000
+Next Token : ],", Posbility: 0.0000
+Choose : ],,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:],
+---------------------------
+Next Token :  s, Posbility: 0.9967
+Next Token : s, Posbility: 0.0023
+Next Token : 
+, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token :  [, Posbility: 0.0001
+Choose :  s,  Posbility: 0.9967
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s
+---------------------------
+Next Token : 3, Posbility: 0.9991
+Next Token : 2, Posbility: 0.0005
+Next Token : 1, Posbility: 0.0003
+Next Token : [, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9991
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3
+---------------------------
+Next Token : [, Posbility: 0.9975
+Next Token : ), Posbility: 0.0022
+Next Token :  [, Posbility: 0.0001
+Next Token : )[, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose : [,  Posbility: 0.9975
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[
+---------------------------
+Next Token : 1, Posbility: 0.9979
+Next Token : :, Posbility: 0.0016
+Next Token : :-, Posbility: 0.0002
+Next Token : 0, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0001
+Choose : 1,  Posbility: 0.9979
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1
+---------------------------
+Next Token : :, Posbility: 0.9990
+Next Token : :], Posbility: 0.0009
+Next Token : ::, Posbility: 0.0000
+Next Token : ]), Posbility: 0.0000
+Next Token :  :, Posbility: 0.0000
+Choose : :,  Posbility: 0.9990
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:
+---------------------------
+Next Token : ]), Posbility: 0.9949
+Next Token : ],, Posbility: 0.0050
+Next Token :  ]), Posbility: 0.0000
+Next Token : ]),, Posbility: 0.0000
+Next Token : ]);, Posbility: 0.0000
+Choose : ]),  Posbility: 0.9949
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.9128
+Next Token : 
+
+, Posbility: 0.0748
+Next Token :  , Posbility: 0.0038
+Next Token :   , Posbility: 0.0027
+Next Token :  #, Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9128
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+
+---------------------------
+Next Token :     , Posbility: 0.9919
+Next Token :         , Posbility: 0.0059
+Next Token : 
+, Posbility: 0.0005
+Next Token : #, Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9919
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    
+---------------------------
+Next Token : else, Posbility: 0.3265
+Next Token : if, Posbility: 0.2237
+Next Token : return, Posbility: 0.2005
+Next Token : el, Posbility: 0.1914
+Next Token : 
+, Posbility: 0.0187
+Choose : else,  Posbility: 0.3265
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else
+---------------------------
+Next Token : :, Posbility: 0.9955
+Next Token :  :, Posbility: 0.0043
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Choose : :,  Posbility: 0.9955
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9896
+Next Token :  return, Posbility: 0.0039
+Next Token :  , Posbility: 0.0034
+Next Token :   , Posbility: 0.0013
+Next Token :  #, Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9896
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9976
+Next Token :        , Posbility: 0.0007
+Next Token :          , Posbility: 0.0006
+Next Token :             , Posbility: 0.0005
+Next Token :       , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9976
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9044
+Next Token : if, Posbility: 0.0171
+Next Token : l, Posbility: 0.0103
+Next Token : #, Posbility: 0.0093
+Next Token : ans, Posbility: 0.0057
+Choose : return,  Posbility: 0.9044
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return
+---------------------------
+Next Token :  max, Posbility: 0.9465
+Next Token :  l, Posbility: 0.0285
+Next Token :  1, Posbility: 0.0173
+Next Token :   , Posbility: 0.0022
+Next Token :  longest, Posbility: 0.0017
+Choose :  max,  Posbility: 0.9465
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max
+---------------------------
+Next Token : (, Posbility: 0.9874
+Next Token : ([, Posbility: 0.0095
+Next Token :  (, Posbility: 0.0015
+Next Token : ((, Posbility: 0.0013
+Next Token : _, Posbility: 0.0000
+Choose : (,  Posbility: 0.9874
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(
+---------------------------
+Next Token : l, Posbility: 0.9648
+Next Token : 
+, Posbility: 0.0206
+Next Token : len, Posbility: 0.0023
+Next Token : lc, Posbility: 0.0019
+Next Token :  l, Posbility: 0.0018
+Choose : l,  Posbility: 0.9648
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(l
+---------------------------
+Next Token : cs, Posbility: 0.9999
+Next Token : css, Posbility: 0.0000
+Next Token : cc, Posbility: 0.0000
+Next Token : uc, Posbility: 0.0000
+Next Token : ca, Posbility: 0.0000
+Choose : cs,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs
+---------------------------
+Next Token : (, Posbility: 0.9993
+Next Token :  (, Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0000
+Choose : (,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(
+---------------------------
+Next Token : s, Posbility: 0.9980
+Next Token : l, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0006
+Next Token :  s, Posbility: 0.0001
+Next Token : list, Posbility: 0.0000
+Choose : s,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s
+---------------------------
+Next Token : 1, Posbility: 0.9986
+Next Token : 2, Posbility: 0.0011
+Next Token : 3, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0000
+Next Token : orted, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1
+---------------------------
+Next Token : ,, Posbility: 0.6050
+Next Token : [, Posbility: 0.3944
+Next Token :  +, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : ,,  Posbility: 0.6050
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1,
+---------------------------
+Next Token :  s, Posbility: 0.9866
+Next Token : s, Posbility: 0.0106
+Next Token :  [, Posbility: 0.0007
+Next Token :   , Posbility: 0.0005
+Next Token :  (, Posbility: 0.0002
+Choose :  s,  Posbility: 0.9866
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s
+---------------------------
+Next Token : 2, Posbility: 0.9900
+Next Token : 3, Posbility: 0.0071
+Next Token : 1, Posbility: 0.0019
+Next Token : [, Posbility: 0.0010
+Next Token : ,, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9900
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2
+---------------------------
+Next Token : ,, Posbility: 0.5124
+Next Token : [, Posbility: 0.4846
+Next Token :  +, Posbility: 0.0015
+Next Token : ., Posbility: 0.0004
+Next Token : +, Posbility: 0.0003
+Choose : ,,  Posbility: 0.5124
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2,
+---------------------------
+Next Token :  s, Posbility: 0.9950
+Next Token : s, Posbility: 0.0026
+Next Token :  (, Posbility: 0.0005
+Next Token :   , Posbility: 0.0003
+Next Token :  c, Posbility: 0.0002
+Choose :  s,  Posbility: 0.9950
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s
+---------------------------
+Next Token : 3, Posbility: 0.9876
+Next Token : 2, Posbility: 0.0070
+Next Token : 1, Posbility: 0.0042
+Next Token : ),, Posbility: 0.0004
+Next Token : [, Posbility: 0.0002
+Choose : 3,  Posbility: 0.9876
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3
+---------------------------
+Next Token : ),, Posbility: 0.8073
+Next Token : [, Posbility: 0.1794
+Next Token : ), Posbility: 0.0054
+Next Token : )[, Posbility: 0.0039
+Next Token :  -, Posbility: 0.0016
+Choose : ),,  Posbility: 0.8073
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3),
+---------------------------
+Next Token :  l, Posbility: 0.9562
+Next Token : 
+, Posbility: 0.0240
+Next Token : l, Posbility: 0.0088
+Next Token :   , Posbility: 0.0040
+Next Token :  max, Posbility: 0.0020
+Choose :  l,  Posbility: 0.9562
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), l
+---------------------------
+Next Token : cs, Posbility: 1.0000
+Next Token : css, Posbility: 0.0000
+Next Token :  cs, Posbility: 0.0000
+Next Token : c, Posbility: 0.0000
+Next Token : cc, Posbility: 0.0000
+Choose : cs,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token :  (, Posbility: 0.0003
+Next Token : ((, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : (*, Posbility: 0.0000
+Choose : (,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(
+---------------------------
+Next Token : s, Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  s, Posbility: 0.0001
+Next Token : l, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : s,  Posbility: 0.9996
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s
+---------------------------
+Next Token : 1, Posbility: 0.7516
+Next Token : 2, Posbility: 0.2472
+Next Token : 3, Posbility: 0.0012
+Next Token : ,, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 1,  Posbility: 0.7516
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1
+---------------------------
+Next Token : ,, Posbility: 0.9623
+Next Token : [, Posbility: 0.0373
+Next Token : ,, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0001
+Next Token : +, Posbility: 0.0000
+Choose : ,,  Posbility: 0.9623
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1,
+---------------------------
+Next Token :  s, Posbility: 0.9976
+Next Token : s, Posbility: 0.0019
+Next Token :   , Posbility: 0.0001
+Next Token :  None, Posbility: 0.0001
+Next Token :  l, Posbility: 0.0000
+Choose :  s,  Posbility: 0.9976
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s
+---------------------------
+Next Token : 2, Posbility: 0.6725
+Next Token : 3, Posbility: 0.3256
+Next Token : 1, Posbility: 0.0016
+Next Token : 4, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : 2,  Posbility: 0.6725
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2
+---------------------------
+Next Token : ,, Posbility: 0.9030
+Next Token : [, Posbility: 0.0958
+Next Token :  +, Posbility: 0.0006
+Next Token : +, Posbility: 0.0004
+Next Token : ,, Posbility: 0.0001
+Choose : ,,  Posbility: 0.9030
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2,
+---------------------------
+Next Token :  s, Posbility: 0.9960
+Next Token : s, Posbility: 0.0007
+Next Token :  None, Posbility: 0.0005
+Next Token :  [, Posbility: 0.0005
+Next Token :  ', Posbility: 0.0003
+Choose :  s,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s
+---------------------------
+Next Token : 3, Posbility: 0.9308
+Next Token : 1, Posbility: 0.0559
+Next Token : 2, Posbility: 0.0110
+Next Token : ),, Posbility: 0.0005
+Next Token : [, Posbility: 0.0004
+Choose : 3,  Posbility: 0.9308
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3
+---------------------------
+Next Token : [, Posbility: 0.8547
+Next Token : ),, Posbility: 0.0681
+Next Token : )), Posbility: 0.0536
+Next Token : )[, Posbility: 0.0069
+Next Token :  +, Posbility: 0.0064
+Choose : [,  Posbility: 0.8547
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[
+---------------------------
+Next Token : 1, Posbility: 0.8443
+Next Token : ::, Posbility: 0.0621
+Next Token : :, Posbility: 0.0597
+Next Token : :-, Posbility: 0.0302
+Next Token : 0, Posbility: 0.0007
+Choose : 1,  Posbility: 0.8443
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1
+---------------------------
+Next Token : :], Posbility: 0.9353
+Next Token : :, Posbility: 0.0638
+Next Token : :-, Posbility: 0.0007
+Next Token :  :, Posbility: 0.0001
+Next Token : ::, Posbility: 0.0000
+Choose : :],  Posbility: 0.9353
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]
+---------------------------
+Next Token : )), Posbility: 0.9971
+Next Token : ),, Posbility: 0.0024
+Next Token :  +, Posbility: 0.0003
+Next Token : +, Posbility: 0.0001
+Next Token :  )), Posbility: 0.0001
+Choose : )),  Posbility: 0.9971
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+---------------------------
+Next Token : 
+
+, Posbility: 0.5406
+Next Token : 
+, Posbility: 0.4339
+Next Token : <|endoftext|>, Posbility: 0.0106
+Next Token :  , Posbility: 0.0048
+Next Token :   , Posbility: 0.0030
+Choose : 
+
+,  Posbility: 0.5406
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9663
+Next Token : 
+
+, Posbility: 0.0144
+Next Token : <|endoftext|>, Posbility: 0.0081
+Next Token :     , Posbility: 0.0076
+Next Token :         , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9663
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3292
+Next Token : def, Posbility: 0.2452
+Next Token : #, Posbility: 0.1221
+Next Token : print, Posbility: 0.0847
+Next Token : if, Posbility: 0.0511
+Choose : '',  Posbility: 0.3292
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7315
+Next Token : 
+, Posbility: 0.0590
+Next Token :  Write, Posbility: 0.0453
+Next Token : Find, Posbility: 0.0101
+Next Token : Given, Posbility: 0.0091
+Choose : Write,  Posbility: 0.7315
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9869
+Next Token :  an, Posbility: 0.0038
+Next Token :  your, Posbility: 0.0027
+Next Token :  the, Posbility: 0.0017
+Next Token :  function, Posbility: 0.0016
+Choose :  a,  Posbility: 0.9869
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9012
+Next Token :  Python, Posbility: 0.0391
+Next Token :  python, Posbility: 0.0121
+Next Token :  recursive, Posbility: 0.0099
+Next Token :  program, Posbility: 0.0090
+Choose :  function,  Posbility: 0.9012
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7367
+Next Token :  that, Posbility: 0.2012
+Next Token :  which, Posbility: 0.0114
+Next Token :  called, Posbility: 0.0089
+Next Token :  for, Posbility: 0.0065
+Choose :  to,  Posbility: 0.7367
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2725
+Next Token :  print, Posbility: 0.0877
+Next Token :  check, Posbility: 0.0851
+Next Token :  count, Posbility: 0.0652
+Next Token :  get, Posbility: 0.0442
+Choose :  find,  Posbility: 0.2725
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.8974
+Next Token :  all, Posbility: 0.0217
+Next Token :  a, Posbility: 0.0135
+Next Token :  if, Posbility: 0.0062
+Next Token :  longest, Posbility: 0.0052
+Choose :  the,  Posbility: 0.8974
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  longest, Posbility: 0.4337
+Next Token :  minimum, Posbility: 0.0928
+Next Token :  number, Posbility: 0.0759
+Next Token :  length, Posbility: 0.0598
+Next Token :  maximum, Posbility: 0.0311
+Choose :  longest,  Posbility: 0.4337
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest
+---------------------------
+Next Token :  common, Posbility: 0.7503
+Next Token :  pal, Posbility: 0.0605
+Next Token :  uncommon, Posbility: 0.0225
+Next Token :  subsequ, Posbility: 0.0116
+Next Token :  increasing, Posbility: 0.0106
+Choose :  common,  Posbility: 0.7503
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common
+---------------------------
+Next Token :  subsequ, Posbility: 0.7118
+Next Token :  prefix, Posbility: 0.0925
+Next Token :  subst, Posbility: 0.0619
+Next Token :  sub, Posbility: 0.0418
+Next Token :  suffix, Posbility: 0.0114
+Choose :  subsequ,  Posbility: 0.7118
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequ
+---------------------------
+Next Token : ence, Posbility: 0.9926
+Next Token : ences, Posbility: 0.0072
+Next Token : ene, Posbility: 0.0001
+Next Token : ense, Posbility: 0.0001
+Next Token : ese, Posbility: 0.0000
+Choose : ence,  Posbility: 0.9926
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence
+---------------------------
+Next Token :  for, Posbility: 0.7980
+Next Token :  of, Posbility: 0.0682
+Next Token : ., Posbility: 0.0174
+Next Token :  in, Posbility: 0.0159
+Next Token :  between, Posbility: 0.0156
+Choose :  for,  Posbility: 0.7980
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for
+---------------------------
+Next Token :  the, Posbility: 0.8646
+Next Token :  two, Posbility: 0.0459
+Next Token :  a, Posbility: 0.0400
+Next Token :  all, Posbility: 0.0078
+Next Token :  three, Posbility: 0.0054
+Choose :  the,  Posbility: 0.8646
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the
+---------------------------
+Next Token :  given, Posbility: 0.9472
+Next Token :  two, Posbility: 0.0151
+Next Token :  three, Posbility: 0.0074
+Next Token :  four, Posbility: 0.0045
+Next Token :  string, Posbility: 0.0024
+Choose :  given,  Posbility: 0.9472
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given
+---------------------------
+Next Token :  two, Posbility: 0.6493
+Next Token :  string, Posbility: 0.1473
+Next Token :  three, Posbility: 0.0697
+Next Token :  four, Posbility: 0.0150
+Next Token :  strings, Posbility: 0.0133
+Choose :  two,  Posbility: 0.6493
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two
+---------------------------
+Next Token :  strings, Posbility: 0.4671
+Next Token :  string, Posbility: 0.3441
+Next Token :  sequences, Posbility: 0.0211
+Next Token :  sorted, Posbility: 0.0100
+Next Token : 
+, Posbility: 0.0088
+Choose :  strings,  Posbility: 0.4671
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings
+---------------------------
+Next Token : ., Posbility: 0.6273
+Next Token :  sequence, Posbility: 0.1060
+Next Token :  of, Posbility: 0.0724
+Next Token :  s, Posbility: 0.0406
+Next Token : ,, Posbility: 0.0165
+Choose : .,  Posbility: 0.6273
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings.
+---------------------------
+Next Token :  https, Posbility: 0.4895
+Next Token : 
+, Posbility: 0.2340
+Next Token :  , Posbility: 0.0339
+Next Token :  The, Posbility: 0.0267
+Next Token : https, Posbility: 0.0223
+Choose :  https,  Posbility: 0.4895
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https
+---------------------------
+Next Token : ://, Posbility: 0.9982
+Next Token : :, Posbility: 0.0013
+Next Token : :#, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0000
+Next Token : :/, Posbility: 0.0000
+Choose : ://,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://
+---------------------------
+Next Token : www, Posbility: 0.8757
+Next Token : le, Posbility: 0.0806
+Next Token : en, Posbility: 0.0094
+Next Token : stack, Posbility: 0.0018
+Next Token : youtu, Posbility: 0.0015
+Choose : www,  Posbility: 0.8757
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www
+---------------------------
+Next Token : ., Posbility: 0.9998
+Next Token : 2, Posbility: 0.0001
+Next Token : -, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Choose : .,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.
+---------------------------
+Next Token : ge, Posbility: 0.7859
+Next Token : w, Posbility: 0.0412
+Next Token : educ, Posbility: 0.0185
+Next Token : cod, Posbility: 0.0138
+Next Token : program, Posbility: 0.0088
+Choose : ge,  Posbility: 0.7859
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.ge
+---------------------------
+Next Token : eks, Posbility: 0.9998
+Next Token : ek, Posbility: 0.0002
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : eking, Posbility: 0.0000
+Choose : eks,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeks
+---------------------------
+Next Token : forge, Posbility: 0.9972
+Next Token : for, Posbility: 0.0021
+Next Token : forum, Posbility: 0.0001
+Next Token : hop, Posbility: 0.0001
+Next Token : fork, Posbility: 0.0001
+Choose : forge,  Posbility: 0.9972
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforge
+---------------------------
+Next Token : eks, Posbility: 0.9999
+Next Token : ek, Posbility: 0.0001
+Next Token : eeks, Posbility: 0.0000
+Next Token : ec, Posbility: 0.0000
+Next Token : ks, Posbility: 0.0000
+Choose : eks,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks
+---------------------------
+Next Token : ., Posbility: 1.0000
+Next Token : -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : .., Posbility: 0.0000
+Choose : .,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.
+---------------------------
+Next Token : org, Posbility: 1.0000
+Next Token :  org, Posbility: 0.0000
+Next Token : com, Posbility: 0.0000
+Next Token : net, Posbility: 0.0000
+Next Token : www, Posbility: 0.0000
+Choose : org,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org
+---------------------------
+Next Token : /, Posbility: 0.9999
+Next Token : //, Posbility: 0.0001
+Next Token : /., Posbility: 0.0000
+Next Token : /?, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : /,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/
+---------------------------
+Next Token : l, Posbility: 0.4385
+Next Token : long, Posbility: 0.3962
+Next Token : find, Posbility: 0.0394
+Next Token : maximum, Posbility: 0.0117
+Next Token : python, Posbility: 0.0102
+Choose : l,  Posbility: 0.4385
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/l
+---------------------------
+Next Token : cs, Posbility: 0.9994
+Next Token : uc, Posbility: 0.0001
+Next Token : cp, Posbility: 0.0001
+Next Token : ca, Posbility: 0.0001
+Next Token : cr, Posbility: 0.0000
+Choose : cs,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs
+---------------------------
+Next Token : -, Posbility: 0.9898
+Next Token : /, Posbility: 0.0052
+Next Token : 2, Posbility: 0.0010
+Next Token : _, Posbility: 0.0004
+Next Token : 3, Posbility: 0.0004
+Choose : -,  Posbility: 0.9898
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-
+---------------------------
+Next Token : long, Posbility: 0.6284
+Next Token : l, Posbility: 0.0440
+Next Token : length, Posbility: 0.0312
+Next Token : common, Posbility: 0.0280
+Next Token : maximum, Posbility: 0.0245
+Choose : long,  Posbility: 0.6284
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-long
+---------------------------
+Next Token : est, Posbility: 0.9993
+Next Token : -, Posbility: 0.0002
+Next Token : er, Posbility: 0.0002
+Next Token : ests, Posbility: 0.0001
+Next Token : en, Posbility: 0.0000
+Choose : est,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest
+---------------------------
+Next Token : -, Posbility: 0.9997
+Next Token : /, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token : --, Posbility: 0.0000
+Next Token : common, Posbility: 0.0000
+Choose : -,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-
+---------------------------
+Next Token : common, Posbility: 0.9816
+Next Token : sub, Posbility: 0.0068
+Next Token : com, Posbility: 0.0023
+Next Token : non, Posbility: 0.0005
+Next Token : diff, Posbility: 0.0005
+Choose : common,  Posbility: 0.9816
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common
+---------------------------
+Next Token : -, Posbility: 0.9995
+Next Token : /, Posbility: 0.0002
+Next Token : --, Posbility: 0.0001
+Next Token : sub, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Choose : -,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-
+---------------------------
+Next Token : sub, Posbility: 0.9724
+Next Token : sequence, Posbility: 0.0113
+Next Token : string, Posbility: 0.0030
+Next Token : prefix, Posbility: 0.0013
+Next Token : common, Posbility: 0.0012
+Choose : sub,  Posbility: 0.9724
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-sub
+---------------------------
+Next Token : sequence, Posbility: 0.9906
+Next Token : string, Posbility: 0.0032
+Next Token : seq, Posbility: 0.0022
+Next Token : sequ, Posbility: 0.0015
+Next Token : -, Posbility: 0.0007
+Choose : sequence,  Posbility: 0.9906
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence
+---------------------------
+Next Token : -, Posbility: 0.9036
+Next Token : /, Posbility: 0.0905
+Next Token : --, Posbility: 0.0017
+Next Token : /#, Posbility: 0.0008
+Next Token : '', Posbility: 0.0005
+Choose : -,  Posbility: 0.9036
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-
+---------------------------
+Next Token : two, Posbility: 0.7198
+Next Token : 2, Posbility: 0.0451
+Next Token : string, Posbility: 0.0277
+Next Token : three, Posbility: 0.0157
+Next Token : for, Posbility: 0.0134
+Choose : two,  Posbility: 0.7198
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two
+---------------------------
+Next Token : -, Posbility: 0.9993
+Next Token : /, Posbility: 0.0005
+Next Token : --, Posbility: 0.0000
+Next Token : -(, Posbility: 0.0000
+Next Token : strings, Posbility: 0.0000
+Choose : -,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-
+---------------------------
+Next Token : strings, Posbility: 0.9831
+Next Token : string, Posbility: 0.0061
+Next Token : str, Posbility: 0.0038
+Next Token : words, Posbility: 0.0013
+Next Token : s, Posbility: 0.0009
+Choose : strings,  Posbility: 0.9831
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-strings
+---------------------------
+Next Token : /, Posbility: 0.9544
+Next Token : -, Posbility: 0.0376
+Next Token : /#, Posbility: 0.0015
+Next Token : /?, Posbility: 0.0013
+Next Token : /), Posbility: 0.0013
+Choose : /,  Posbility: 0.9544
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-strings/
+---------------------------
+Next Token : '', Posbility: 0.9145
+Next Token :  ', Posbility: 0.0393
+Next Token : 
+, Posbility: 0.0294
+Next Token : https, Posbility: 0.0017
+Next Token :  https, Posbility: 0.0015
+Choose : '',  Posbility: 0.9145
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-strings/''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : `, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-strings/'''
+---------------------------
+Next Token : 
+, Posbility: 0.9579
+Next Token : 
+
+, Posbility: 0.0373
+Next Token : def, Posbility: 0.0015
+Next Token :  , Posbility: 0.0011
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9579
+---------------------------
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-strings/'''
+
+---------------------------
+Next Token : def, Posbility: 0.9202
+Next Token : 
+, Posbility: 0.0594
+Next Token : #, Posbility: 0.0097
+Next Token : '', Posbility: 0.0035
+Next Token : import, Posbility: 0.0023
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 45.62976002693176
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the longest common subsequence for the given three string sequence. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/'''
+def lcs(s1, s2, s3):
+    if len(s1) == 0 or len(s2) == 0 or len(s3) == 0:
+        return 0
+    if s1[0] == s2[0] and s2[0] == s3[0]:
+        return 1 + lcs(s1[1:], s2[1:], s3[1:])
+    else:
+        return max(lcs(s1, s2, s3), lcs(s1, s2, s3[1:]))
+
+
+'''Write a function to find the longest common subsequence for the given two strings. https://www.geeksforgeeks.org/lcs-longest-common-subsequence-two-strings/'''
+

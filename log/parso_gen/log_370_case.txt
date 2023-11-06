@@ -1,0 +1,475 @@
+<<<<<<<<<<<< 370 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2175
+Next Token : iban, Posbility: 0.0915
+Next Token : iz, Posbility: 0.0621
+Next Token : ix, Posbility: 0.0548
+Next Token : с, Posbility: 0.0473
+syntax error : 
+
+Choose : iban, Posbility: 0.0915
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban
+---------------------------
+Next Token : (, Posbility: 0.5079
+Next Token : _, Posbility: 0.3377
+Next Token : 2, Posbility: 0.0211
+Next Token : To, Posbility: 0.0106
+Next Token : ():, Posbility: 0.0098
+Choose : (, Posbility: 0.5079
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(
+---------------------------
+Next Token : s, Posbility: 0.2777
+Next Token : string, Posbility: 0.1805
+Next Token : str, Posbility: 0.1050
+Next Token : text, Posbility: 0.0625
+Next Token : word, Posbility: 0.0619
+Choose : s, Posbility: 0.2777
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s
+---------------------------
+Next Token : ):, Posbility: 0.8890
+Next Token : ,, Posbility: 0.0540
+Next Token : :, Posbility: 0.0414
+Next Token : 1, Posbility: 0.0053
+Next Token : ), Posbility: 0.0023
+Choose : ):, Posbility: 0.8890
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+---------------------------
+Next Token : 
+, Posbility: 0.8913
+Next Token :  , Posbility: 0.0376
+Next Token : 
+
+, Posbility: 0.0303
+Next Token : , Posbility: 0.0243
+Next Token :  #, Posbility: 0.0045
+Choose : 
+, Posbility: 0.8913
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+
+---------------------------
+Next Token :     , Posbility: 0.8999
+Next Token : 	, Posbility: 0.0418
+Next Token :   , Posbility: 0.0369
+Next Token :    , Posbility: 0.0110
+Next Token :         , Posbility: 0.0026
+Choose :     , Posbility: 0.8999
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    
+---------------------------
+Next Token : '', Posbility: 0.0752
+Next Token : for, Posbility: 0.0618
+Next Token : return, Posbility: 0.0615
+Next Token : s, Posbility: 0.0498
+Next Token : if, Posbility: 0.0467
+Choose : '', Posbility: 0.0752
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9994
+Next Token : '", Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '-, Posbility: 0.0001
+Choose : ', Posbility: 0.9994
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1102
+Next Token : Put, Posbility: 0.1038
+Next Token : Write, Posbility: 0.1024
+Next Token : Function, Posbility: 0.0321
+Next Token : put, Posbility: 0.0302
+syntax error : 
+
+Choose : Put, Posbility: 0.1038
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put
+---------------------------
+Next Token :  spaces, Posbility: 0.7901
+Next Token :  space, Posbility: 0.0262
+Next Token :  words, Posbility: 0.0248
+Next Token :  a, Posbility: 0.0236
+Next Token :  the, Posbility: 0.0144
+Choose :  spaces, Posbility: 0.7901
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces
+---------------------------
+Next Token :  between, Posbility: 0.9617
+Next Token :  after, Posbility: 0.0097
+Next Token :  before, Posbility: 0.0063
+Next Token :  in, Posbility: 0.0060
+Next Token :  around, Posbility: 0.0035
+Choose :  between, Posbility: 0.9617
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between
+---------------------------
+Next Token :  words, Posbility: 0.9009
+Next Token :  capital, Posbility: 0.0119
+Next Token :  letters, Posbility: 0.0111
+Next Token :  the, Posbility: 0.0092
+Next Token :  word, Posbility: 0.0080
+Choose :  words, Posbility: 0.9009
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words
+---------------------------
+Next Token :  starting, Posbility: 0.8452
+Next Token :  in, Posbility: 0.0355
+Next Token :  with, Posbility: 0.0175
+Next Token :  beginning, Posbility: 0.0159
+Next Token :  that, Posbility: 0.0124
+Choose :  starting, Posbility: 0.8452
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting
+---------------------------
+Next Token :  with, Posbility: 0.9942
+Next Token :  by, Posbility: 0.0017
+Next Token :  from, Posbility: 0.0005
+Next Token :  and, Posbility: 0.0004
+Next Token :  in, Posbility: 0.0004
+Choose :  with, Posbility: 0.9942
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with
+---------------------------
+Next Token :  capital, Posbility: 0.8874
+Next Token :  capitals, Posbility: 0.0783
+Next Token :  a, Posbility: 0.0073
+Next Token :  an, Posbility: 0.0038
+Next Token :  Capital, Posbility: 0.0036
+Choose :  capital, Posbility: 0.8874
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital
+---------------------------
+Next Token :  letters, Posbility: 0.9888
+Next Token :  letter, Posbility: 0.0066
+Next Token :  characters, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0005
+Next Token :  words, Posbility: 0.0003
+Choose :  letters, Posbility: 0.9888
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters
+---------------------------
+Next Token :  in, Posbility: 0.8478
+Next Token :  into, Posbility: 0.0368
+Next Token : '', Posbility: 0.0333
+Next Token : .', Posbility: 0.0145
+Next Token : ., Posbility: 0.0142
+Choose :  in, Posbility: 0.8478
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in
+---------------------------
+Next Token :  a, Posbility: 0.9168
+Next Token :  string, Posbility: 0.0339
+Next Token :  the, Posbility: 0.0135
+Next Token :  given, Posbility: 0.0097
+Next Token :  an, Posbility: 0.0060
+Choose :  a, Posbility: 0.9168
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a
+---------------------------
+Next Token :  given, Posbility: 0.9408
+Next Token :  string, Posbility: 0.0485
+Next Token :  give, Posbility: 0.0022
+Next Token :  , Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0008
+Choose :  given, Posbility: 0.9408
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given
+---------------------------
+Next Token :  string, Posbility: 0.9889
+Next Token : 
+, Posbility: 0.0025
+Next Token :  , Posbility: 0.0014
+Next Token :  sentence, Posbility: 0.0011
+Next Token :  str, Posbility: 0.0011
+Choose :  string, Posbility: 0.9889
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string
+---------------------------
+Next Token : .', Posbility: 0.3971
+Next Token : ., Posbility: 0.3151
+Next Token : '', Posbility: 0.1935
+Next Token : 
+, Posbility: 0.0235
+Next Token : 
+
+, Posbility: 0.0137
+Choose : .', Posbility: 0.3971
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'
+---------------------------
+Next Token : '', Posbility: 0.9940
+Next Token : 
+, Posbility: 0.0035
+Next Token : 
+
+, Posbility: 0.0011
+Next Token :  ', Posbility: 0.0007
+Next Token :  '', Posbility: 0.0001
+Choose : '', Posbility: 0.9940
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9399
+Next Token : 
+
+, Posbility: 0.0474
+Next Token :  , Posbility: 0.0069
+Next Token :     , Posbility: 0.0020
+Next Token :   , Posbility: 0.0010
+Choose : 
+, Posbility: 0.9399
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9917
+Next Token :         , Posbility: 0.0013
+Next Token : 	, Posbility: 0.0013
+Next Token :    , Posbility: 0.0013
+Next Token :   , Posbility: 0.0012
+Choose :     , Posbility: 0.9917
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.1253
+Next Token : for, Posbility: 0.0844
+Next Token : s, Posbility: 0.0570
+Next Token : if, Posbility: 0.0519
+Next Token : #, Posbility: 0.0326
+Choose : return, Posbility: 0.1253
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return
+---------------------------
+Next Token :  ', Posbility: 0.3793
+Next Token :  s, Posbility: 0.3652
+Next Token :  ", Posbility: 0.0801
+Next Token :  (, Posbility: 0.0211
+Next Token : (, Posbility: 0.0169
+Choose :  ', Posbility: 0.3793
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return '
+---------------------------
+Next Token :  '., Posbility: 0.8310
+Next Token : '., Posbility: 0.1147
+Next Token :  ', Posbility: 0.0198
+Next Token : \, Posbility: 0.0099
+Next Token : {, Posbility: 0.0027
+Choose :  '., Posbility: 0.8310
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.
+---------------------------
+Next Token : join, Posbility: 0.9998
+Next Token :  join, Posbility: 0.0002
+Next Token : l, Posbility: 0.0000
+Next Token : strip, Posbility: 0.0000
+Next Token : replace, Posbility: 0.0000
+Choose : join, Posbility: 0.9998
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join
+---------------------------
+Next Token : (, Posbility: 0.6824
+Next Token : ([, Posbility: 0.2662
+Next Token : (', Posbility: 0.0264
+Next Token : ((, Posbility: 0.0187
+Next Token : (_, Posbility: 0.0020
+Choose : (, Posbility: 0.6824
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(
+---------------------------
+Next Token : s, Posbility: 0.3243
+Next Token : word, Posbility: 0.1528
+Next Token : w, Posbility: 0.0739
+Next Token : i, Posbility: 0.0582
+Next Token : list, Posbility: 0.0555
+Choose : s, Posbility: 0.3243
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s
+---------------------------
+Next Token : ., Posbility: 0.7938
+Next Token : [, Posbility: 0.1660
+Next Token : )., Posbility: 0.0198
+Next Token : ), Posbility: 0.0063
+Next Token : orted, Posbility: 0.0027
+Choose : ., Posbility: 0.7938
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.
+---------------------------
+Next Token : split, Posbility: 0.6029
+Next Token : title, Posbility: 0.2181
+Next Token : capital, Posbility: 0.0791
+Next Token : lower, Posbility: 0.0317
+Next Token : upper, Posbility: 0.0206
+Choose : split, Posbility: 0.6029
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split
+---------------------------
+Next Token : (), Posbility: 0.6385
+Next Token : (', Posbility: 0.1758
+Next Token : ()), Posbility: 0.1447
+Next Token : (, Posbility: 0.0284
+Next Token : ()., Posbility: 0.0061
+Choose : (), Posbility: 0.6385
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split()
+---------------------------
+Next Token : [, Posbility: 0.6514
+Next Token : )., Posbility: 0.3459
+Next Token :  if, Posbility: 0.0004
+Next Token :  +, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0003
+Choose : [, Posbility: 0.6514
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split()[
+---------------------------
+Next Token : 1, Posbility: 0.3249
+Next Token : 0, Posbility: 0.2599
+Next Token : ::, Posbility: 0.1707
+Next Token : :, Posbility: 0.1385
+Next Token : :-, Posbility: 0.0585
+Choose : 1, Posbility: 0.3249
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split()[1
+---------------------------
+Next Token : :, Posbility: 0.9047
+Next Token : ::, Posbility: 0.0410
+Next Token : :-, Posbility: 0.0283
+Next Token : :], Posbility: 0.0116
+Next Token : ])., Posbility: 0.0049
+Choose : :, Posbility: 0.9047
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split()[1:
+---------------------------
+Next Token : ]), Posbility: 0.6857
+Next Token : ])., Posbility: 0.2602
+Next Token : ][, Posbility: 0.0196
+Next Token : ]., Posbility: 0.0141
+Next Token : 3, Posbility: 0.0054
+Choose : ]), Posbility: 0.6857
+---------------------------
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split()[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.6380
+Next Token : 
+
+, Posbility: 0.2028
+Next Token : <|endoftext|>, Posbility: 0.0778
+Next Token :  , Posbility: 0.0188
+Next Token :  if, Posbility: 0.0140
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.649545669555664
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to put spaces between words starting with capital letters in a given string.'''
+def iban(s):
+    '''Put spaces between words starting with capital letters in a given string.'''
+    return ' '.join(s.split()[1:])
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

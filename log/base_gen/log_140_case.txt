@@ -1,0 +1,801 @@
+<<<<<<<<<<<< 140 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2983
+Next Token : ix, Posbility: 0.1140
+Next Token : xt, Posbility: 0.0976
+Next Token : ia, Posbility: 0.0535
+Next Token : ive, Posbility: 0.0500
+Choose : 
+,  Posbility: 0.2983
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+
+---------------------------
+Next Token : #, Posbility: 0.1578
+Next Token : def, Posbility: 0.1185
+Next Token : 
+, Posbility: 0.0959
+Next Token : import, Posbility: 0.0932
+Next Token : '', Posbility: 0.0827
+Choose : #,  Posbility: 0.1578
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+#
+---------------------------
+Next Token :  function, Posbility: 0.0375
+Next Token :  sum, Posbility: 0.0371
+Next Token :  def, Posbility: 0.0348
+Next Token :  n, Posbility: 0.0269
+Next Token :  Function, Posbility: 0.0207
+Choose :  function,  Posbility: 0.0375
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function
+---------------------------
+Next Token :  to, Posbility: 0.3586
+Next Token :  that, Posbility: 0.0881
+Next Token : 
+, Posbility: 0.0745
+Next Token :  for, Posbility: 0.0625
+Next Token :  definition, Posbility: 0.0577
+Choose :  to,  Posbility: 0.3586
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to
+---------------------------
+Next Token :  calculate, Posbility: 0.1625
+Next Token :  find, Posbility: 0.1437
+Next Token :  return, Posbility: 0.1161
+Next Token :  get, Posbility: 0.0838
+Next Token :  compute, Posbility: 0.0756
+Choose :  calculate,  Posbility: 0.1625
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate
+---------------------------
+Next Token :  the, Posbility: 0.4068
+Next Token :  sum, Posbility: 0.3628
+Next Token :  square, Posbility: 0.0640
+Next Token :  squares, Posbility: 0.0289
+Next Token :  sums, Posbility: 0.0125
+Choose :  the,  Posbility: 0.4068
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the
+---------------------------
+Next Token :  sum, Posbility: 0.8680
+Next Token :  square, Posbility: 0.0486
+Next Token :  squares, Posbility: 0.0221
+Next Token :  number, Posbility: 0.0049
+Next Token :  summ, Posbility: 0.0047
+Choose :  sum,  Posbility: 0.8680
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum
+---------------------------
+Next Token :  of, Posbility: 0.9287
+Next Token : 
+, Posbility: 0.0341
+Next Token :  square, Posbility: 0.0045
+Next Token :  , Posbility: 0.0044
+Next Token :  squares, Posbility: 0.0036
+Choose :  of,  Posbility: 0.9287
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of
+---------------------------
+Next Token :  squares, Posbility: 0.4364
+Next Token :  the, Posbility: 0.4045
+Next Token :  square, Posbility: 0.0533
+Next Token :  first, Posbility: 0.0189
+Next Token :  all, Posbility: 0.0182
+Choose :  squares,  Posbility: 0.4364
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares
+---------------------------
+Next Token :  of, Posbility: 0.6287
+Next Token : 
+, Posbility: 0.2640
+Next Token :  for, Posbility: 0.0203
+Next Token :  , Posbility: 0.0194
+Next Token : ., Posbility: 0.0100
+Choose :  of,  Posbility: 0.6287
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of
+---------------------------
+Next Token :  the, Posbility: 0.4250
+Next Token :  first, Posbility: 0.1872
+Next Token :  odd, Posbility: 0.1622
+Next Token :  even, Posbility: 0.0491
+Next Token :  all, Posbility: 0.0210
+Choose :  the,  Posbility: 0.4250
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the
+---------------------------
+Next Token :  first, Posbility: 0.8558
+Next Token :  odd, Posbility: 0.0295
+Next Token :  even, Posbility: 0.0238
+Next Token :  numbers, Posbility: 0.0146
+Next Token :  squares, Posbility: 0.0111
+Choose :  first,  Posbility: 0.8558
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first
+---------------------------
+Next Token :  n, Posbility: 0.8822
+Next Token :  odd, Posbility: 0.0377
+Next Token :  even, Posbility: 0.0077
+Next Token : 
+, Posbility: 0.0076
+Next Token :  2, Posbility: 0.0051
+Choose :  n,  Posbility: 0.8822
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n
+---------------------------
+Next Token :  odd, Posbility: 0.6635
+Next Token :  natural, Posbility: 0.2762
+Next Token :  even, Posbility: 0.0315
+Next Token :  numbers, Posbility: 0.0080
+Next Token : 
+, Posbility: 0.0026
+Choose :  odd,  Posbility: 0.6635
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd
+---------------------------
+Next Token :  natural, Posbility: 0.8410
+Next Token :  numbers, Posbility: 0.1277
+Next Token :  integers, Posbility: 0.0056
+Next Token :  number, Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0037
+Choose :  natural,  Posbility: 0.8410
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural
+---------------------------
+Next Token :  numbers, Posbility: 0.9872
+Next Token :  number, Posbility: 0.0072
+Next Token : 
+, Posbility: 0.0016
+Next Token :  , Posbility: 0.0007
+Next Token :  n, Posbility: 0.0005
+Choose :  numbers,  Posbility: 0.9872
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+---------------------------
+Next Token : 
+, Posbility: 0.7124
+Next Token : ., Posbility: 0.1300
+Next Token :  , Posbility: 0.0330
+Next Token :  using, Posbility: 0.0289
+Next Token : 
+
+, Posbility: 0.0223
+Choose : 
+,  Posbility: 0.7124
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+
+---------------------------
+Next Token : def, Posbility: 0.7830
+Next Token : #, Posbility: 0.1144
+Next Token : 
+, Posbility: 0.0480
+Next Token : sum, Posbility: 0.0077
+Next Token : squ, Posbility: 0.0066
+Choose : def,  Posbility: 0.7830
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def
+---------------------------
+Next Token :  sum, Posbility: 0.3387
+Next Token :  squares, Posbility: 0.1445
+Next Token :  square, Posbility: 0.0601
+Next Token :  Sum, Posbility: 0.0427
+Next Token :  odd, Posbility: 0.0417
+Choose :  sum,  Posbility: 0.3387
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum
+---------------------------
+Next Token : _, Posbility: 0.5482
+Next Token : Of, Posbility: 0.2000
+Next Token : Squ, Posbility: 0.1087
+Next Token : of, Posbility: 0.0451
+Next Token : O, Posbility: 0.0155
+Choose : _,  Posbility: 0.5482
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_
+---------------------------
+Next Token : of, Posbility: 0.5976
+Next Token : squ, Posbility: 0.2723
+Next Token : odd, Posbility: 0.0550
+Next Token : square, Posbility: 0.0203
+Next Token : sq, Posbility: 0.0169
+Choose : of,  Posbility: 0.5976
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of
+---------------------------
+Next Token : _, Posbility: 0.9964
+Next Token : (, Posbility: 0.0023
+Next Token : Squ, Posbility: 0.0004
+Next Token : S, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0001
+Choose : _,  Posbility: 0.9964
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_
+---------------------------
+Next Token : squ, Posbility: 0.8879
+Next Token : odd, Posbility: 0.0301
+Next Token : square, Posbility: 0.0242
+Next Token : sq, Posbility: 0.0216
+Next Token : s, Posbility: 0.0087
+Choose : squ,  Posbility: 0.8879
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squ
+---------------------------
+Next Token : ares, Posbility: 0.9902
+Next Token : ared, Posbility: 0.0062
+Next Token : are, Posbility: 0.0007
+Next Token : ars, Posbility: 0.0006
+Next Token : res, Posbility: 0.0005
+Choose : ares,  Posbility: 0.9902
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares
+---------------------------
+Next Token : (, Posbility: 0.6811
+Next Token : _, Posbility: 0.2871
+Next Token :  (, Posbility: 0.0142
+Next Token : ():, Posbility: 0.0138
+Next Token : 1, Posbility: 0.0006
+Choose : (,  Posbility: 0.6811
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(
+---------------------------
+Next Token : n, Posbility: 0.9331
+Next Token : num, Posbility: 0.0247
+Next Token : number, Posbility: 0.0115
+Next Token : x, Posbility: 0.0101
+Next Token : a, Posbility: 0.0026
+Choose : n,  Posbility: 0.9331
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n
+---------------------------
+Next Token : ):, Posbility: 0.9734
+Next Token : :, Posbility: 0.0112
+Next Token : ), Posbility: 0.0081
+Next Token : ,, Posbility: 0.0034
+Next Token : =, Posbility: 0.0011
+Choose : ):,  Posbility: 0.9734
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+---------------------------
+Next Token : 
+, Posbility: 0.9366
+Next Token : 
+
+, Posbility: 0.0303
+Next Token :  , Posbility: 0.0247
+Next Token :   , Posbility: 0.0027
+Next Token :     , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9366
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+
+---------------------------
+Next Token :     , Posbility: 0.7103
+Next Token :   , Posbility: 0.1396
+Next Token : 	, Posbility: 0.1079
+Next Token :    , Posbility: 0.0132
+Next Token : #, Posbility: 0.0115
+Choose :     ,  Posbility: 0.7103
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    
+---------------------------
+Next Token : sum, Posbility: 0.3114
+Next Token : #, Posbility: 0.2106
+Next Token : return, Posbility: 0.0545
+Next Token : s, Posbility: 0.0542
+Next Token : if, Posbility: 0.0482
+Choose : sum,  Posbility: 0.3114
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.5638
+Next Token : _, Posbility: 0.3329
+Next Token : =, Posbility: 0.0735
+Next Token : 1, Posbility: 0.0085
+Next Token : Of, Posbility: 0.0075
+Choose :  =,  Posbility: 0.5638
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9698
+Next Token :  1, Posbility: 0.0210
+Next Token :  n, Posbility: 0.0032
+Next Token : 0, Posbility: 0.0018
+Next Token :  (, Posbility: 0.0016
+Choose :  0,  Posbility: 0.9698
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8967
+Next Token : 
+
+, Posbility: 0.0375
+Next Token : ., Posbility: 0.0178
+Next Token :  , Posbility: 0.0135
+Next Token :  #, Posbility: 0.0127
+Choose : 
+,  Posbility: 0.8967
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9921
+Next Token : 	, Posbility: 0.0017
+Next Token :   , Posbility: 0.0014
+Next Token : #, Posbility: 0.0013
+Next Token :  , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9921
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.6915
+Next Token : #, Posbility: 0.1036
+Next Token : i, Posbility: 0.0647
+Next Token : if, Posbility: 0.0259
+Next Token : 
+, Posbility: 0.0197
+Choose : for,  Posbility: 0.6915
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.8203
+Next Token :  x, Posbility: 0.0477
+Next Token :  num, Posbility: 0.0393
+Next Token :  n, Posbility: 0.0250
+Next Token :  number, Posbility: 0.0137
+Choose :  i,  Posbility: 0.8203
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9992
+Next Token :   , Posbility: 0.0003
+Next Token : ,, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9992
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9974
+Next Token :  (, Posbility: 0.0005
+Next Token :  reversed, Posbility: 0.0005
+Next Token :  list, Posbility: 0.0005
+Next Token :  n, Posbility: 0.0002
+Choose :  range,  Posbility: 0.9974
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9642
+Next Token :  (, Posbility: 0.0345
+Next Token : (-, Posbility: 0.0005
+Next Token : ((, Posbility: 0.0005
+Next Token :  (-, Posbility: 0.0000
+Choose : (,  Posbility: 0.9642
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(
+---------------------------
+Next Token : 1, Posbility: 0.8227
+Next Token : n, Posbility: 0.0872
+Next Token : 0, Posbility: 0.0622
+Next Token : 2, Posbility: 0.0219
+Next Token : 3, Posbility: 0.0012
+Choose : 1,  Posbility: 0.8227
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1
+---------------------------
+Next Token : ,, Posbility: 0.9972
+Next Token : ,, Posbility: 0.0025
+Next Token : ):, Posbility: 0.0001
+Next Token : +, Posbility: 0.0001
+Next Token :  +, Posbility: 0.0001
+Choose : ,,  Posbility: 0.9972
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1,
+---------------------------
+Next Token :  n, Posbility: 0.6497
+Next Token : n, Posbility: 0.2945
+Next Token :  (, Posbility: 0.0172
+Next Token : (, Posbility: 0.0100
+Next Token :  int, Posbility: 0.0082
+Choose :  n,  Posbility: 0.6497
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n
+---------------------------
+Next Token : +, Posbility: 0.4498
+Next Token :  +, Posbility: 0.4285
+Next Token : ):, Posbility: 0.0728
+Next Token : ,, Posbility: 0.0389
+Next Token : //, Posbility: 0.0031
+Choose : +,  Posbility: 0.4498
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+
+---------------------------
+Next Token : 1, Posbility: 0.9946
+Next Token : 2, Posbility: 0.0029
+Next Token :  1, Posbility: 0.0023
+Next Token : 3, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9946
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1
+---------------------------
+Next Token : ):, Posbility: 0.8331
+Next Token : ,, Posbility: 0.1598
+Next Token : ), Posbility: 0.0046
+Next Token : ,, Posbility: 0.0012
+Next Token :  ):, Posbility: 0.0005
+Choose : ):,  Posbility: 0.8331
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+---------------------------
+Next Token : 
+, Posbility: 0.9622
+Next Token :  #, Posbility: 0.0121
+Next Token :  , Posbility: 0.0117
+Next Token :   , Posbility: 0.0036
+Next Token :     , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9622
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+
+---------------------------
+Next Token :         , Posbility: 0.9784
+Next Token :       , Posbility: 0.0072
+Next Token :        , Posbility: 0.0042
+Next Token :             , Posbility: 0.0029
+Next Token :     , Posbility: 0.0026
+Choose :         ,  Posbility: 0.9784
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        
+---------------------------
+Next Token : sum, Posbility: 0.8868
+Next Token : if, Posbility: 0.0368
+Next Token : square, Posbility: 0.0211
+Next Token : #, Posbility: 0.0204
+Next Token : squ, Posbility: 0.0054
+Choose : sum,  Posbility: 0.8868
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum
+---------------------------
+Next Token :  +=, Posbility: 0.7477
+Next Token :  =, Posbility: 0.2151
+Next Token : +=, Posbility: 0.0247
+Next Token : _, Posbility: 0.0075
+Next Token : =, Posbility: 0.0017
+Choose :  +=,  Posbility: 0.7477
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum +=
+---------------------------
+Next Token :  i, Posbility: 0.6614
+Next Token :  (, Posbility: 0.2631
+Next Token :  pow, Posbility: 0.0405
+Next Token :  ((, Posbility: 0.0092
+Next Token :  math, Posbility: 0.0056
+Choose :  i,  Posbility: 0.6614
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i
+---------------------------
+Next Token : **, Posbility: 0.5815
+Next Token :  **, Posbility: 0.2171
+Next Token : *, Posbility: 0.1056
+Next Token :  *, Posbility: 0.0644
+Next Token : 
+, Posbility: 0.0258
+Choose : **,  Posbility: 0.5815
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**
+---------------------------
+Next Token : 2, Posbility: 0.9982
+Next Token : 3, Posbility: 0.0005
+Next Token :  2, Posbility: 0.0004
+Next Token : i, Posbility: 0.0004
+Next Token : 0, Posbility: 0.0002
+Choose : 2,  Posbility: 0.9982
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**2
+---------------------------
+Next Token : 
+, Posbility: 0.9397
+Next Token : 
+
+, Posbility: 0.0217
+Next Token :  #, Posbility: 0.0133
+Next Token :  , Posbility: 0.0096
+Next Token :   , Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9397
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**2
+
+---------------------------
+Next Token :     , Posbility: 0.9595
+Next Token :         , Posbility: 0.0357
+Next Token : #, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0008
+Next Token :       , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9595
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**2
+    
+---------------------------
+Next Token : return, Posbility: 0.8983
+Next Token : print, Posbility: 0.0546
+Next Token : sum, Posbility: 0.0196
+Next Token : 
+, Posbility: 0.0148
+Next Token : #, Posbility: 0.0073
+Choose : return,  Posbility: 0.8983
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**2
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9698
+Next Token : (, Posbility: 0.0129
+Next Token :  (, Posbility: 0.0053
+Next Token :  round, Posbility: 0.0036
+Next Token :  print, Posbility: 0.0023
+Choose :  sum,  Posbility: 0.9698
+---------------------------
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**2
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.8154
+Next Token : 
+
+, Posbility: 0.1313
+Next Token : **, Posbility: 0.0229
+Next Token :  , Posbility: 0.0125
+Next Token : <|endoftext|>, Posbility: 0.0060
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.045822381973267
+
+
+
+----------Syntax Error-----------
+
+'''Write a python function that takes in an integer n and returns the sum of the squares of the first n odd natural numbers.'''
+def 
+# function to calculate the sum of squares of the first n odd natural numbers
+def sum_of_squares(n):
+    sum = 0
+    for i in range(1, n+1):
+        sum += i**2
+    return sum
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

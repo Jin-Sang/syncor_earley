@@ -1,0 +1,983 @@
+<<<<<<<<<<<< 363 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  same, Posbility: 0.3079
+Next Token :  check, Posbility: 0.1512
+Next Token :  is, Posbility: 0.1478
+Next Token :  all, Posbility: 0.0298
+Next Token :  Check, Posbility: 0.0220
+Choose :  same,  Posbility: 0.3079
+'''Write a python function to check whether all the characters are same or not.'''
+def same
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same
+---------------------------
+Next Token : (, Posbility: 0.3264
+Next Token : _, Posbility: 0.2824
+Next Token : Char, Posbility: 0.1157
+Next Token : char, Posbility: 0.0602
+Next Token : Character, Posbility: 0.0435
+Choose : (,  Posbility: 0.3264
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(
+---------------------------
+Next Token : string, Posbility: 0.1984
+Next Token : s, Posbility: 0.1416
+Next Token : str, Posbility: 0.1229
+Next Token : a, Posbility: 0.0974
+Next Token : x, Posbility: 0.0659
+Choose : string,  Posbility: 0.1984
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string
+---------------------------
+Next Token : ):, Posbility: 0.7118
+Next Token : 1, Posbility: 0.1854
+Next Token : ,, Posbility: 0.0694
+Next Token : _, Posbility: 0.0176
+Next Token : :, Posbility: 0.0033
+Choose : ):,  Posbility: 0.7118
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+---------------------------
+Next Token : 
+, Posbility: 0.8955
+Next Token : , Posbility: 0.0379
+Next Token : 
+
+, Posbility: 0.0302
+Next Token :  , Posbility: 0.0205
+Next Token :  #, Posbility: 0.0051
+Choose : 
+,  Posbility: 0.8955
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+
+---------------------------
+Next Token :     , Posbility: 0.9049
+Next Token :   , Posbility: 0.0443
+Next Token : 	, Posbility: 0.0345
+Next Token :    , Posbility: 0.0095
+Next Token :      , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9049
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    
+---------------------------
+Next Token : '', Posbility: 0.1996
+Next Token : for, Posbility: 0.1479
+Next Token : if, Posbility: 0.1408
+Next Token : count, Posbility: 0.0430
+Next Token : #, Posbility: 0.0420
+Choose : '',  Posbility: 0.1996
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9995
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '., Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Choose : ',  Posbility: 0.9995
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''
+---------------------------
+Next Token : Check, Posbility: 0.0996
+Next Token : Return, Posbility: 0.0920
+Next Token : Function, Posbility: 0.0839
+Next Token : 
+, Posbility: 0.0767
+Next Token : This, Posbility: 0.0706
+Choose : Check,  Posbility: 0.0996
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check
+---------------------------
+Next Token :  whether, Posbility: 0.4616
+Next Token :  if, Posbility: 0.3389
+Next Token :  the, Posbility: 0.0621
+Next Token :  all, Posbility: 0.0175
+Next Token :  for, Posbility: 0.0161
+Choose :  whether,  Posbility: 0.4616
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether
+---------------------------
+Next Token :  all, Posbility: 0.4569
+Next Token :  the, Posbility: 0.2277
+Next Token :  string, Posbility: 0.1088
+Next Token :  a, Posbility: 0.0543
+Next Token :  every, Posbility: 0.0253
+Choose :  all,  Posbility: 0.4569
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all
+---------------------------
+Next Token :  the, Posbility: 0.8517
+Next Token :  characters, Posbility: 0.1042
+Next Token :  of, Posbility: 0.0043
+Next Token :  letters, Posbility: 0.0039
+Next Token :  character, Posbility: 0.0032
+Choose :  the,  Posbility: 0.8517
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the
+---------------------------
+Next Token :  characters, Posbility: 0.9093
+Next Token :  character, Posbility: 0.0209
+Next Token :  chars, Posbility: 0.0151
+Next Token :  letters, Posbility: 0.0099
+Next Token :  elements, Posbility: 0.0048
+Choose :  characters,  Posbility: 0.9093
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters
+---------------------------
+Next Token :  are, Posbility: 0.5492
+Next Token :  in, Posbility: 0.2618
+Next Token :  of, Posbility: 0.1097
+Next Token :  present, Posbility: 0.0087
+Next Token :  is, Posbility: 0.0074
+Choose :  are,  Posbility: 0.5492
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are
+---------------------------
+Next Token :  same, Posbility: 0.8767
+Next Token :  the, Posbility: 0.0475
+Next Token :  unique, Posbility: 0.0131
+Next Token :  different, Posbility: 0.0085
+Next Token :  equal, Posbility: 0.0075
+Choose :  same,  Posbility: 0.8767
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same
+---------------------------
+Next Token :  or, Posbility: 0.7107
+Next Token : .', Posbility: 0.1307
+Next Token : ., Posbility: 0.0452
+Next Token : '', Posbility: 0.0379
+Next Token :  in, Posbility: 0.0265
+Choose :  or,  Posbility: 0.7107
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or
+---------------------------
+Next Token :  not, Posbility: 0.9948
+Next Token :  no, Posbility: 0.0008
+Next Token :  NOT, Posbility: 0.0005
+Next Token :  different, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0002
+Choose :  not,  Posbility: 0.9948
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not
+---------------------------
+Next Token : .', Posbility: 0.4711
+Next Token : '', Posbility: 0.2406
+Next Token : ., Posbility: 0.1907
+Next Token :  ', Posbility: 0.0143
+Next Token : 
+, Posbility: 0.0141
+Choose : .',  Posbility: 0.4711
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'
+---------------------------
+Next Token : '', Posbility: 0.9990
+Next Token : "", Posbility: 0.0005
+Next Token : ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Choose : '',  Posbility: 0.9990
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9459
+Next Token : 
+
+, Posbility: 0.0428
+Next Token :  , Posbility: 0.0070
+Next Token :     , Posbility: 0.0018
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9459
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9938
+Next Token :   , Posbility: 0.0016
+Next Token :    , Posbility: 0.0009
+Next Token :         , Posbility: 0.0009
+Next Token : 	, Posbility: 0.0006
+Choose :     ,  Posbility: 0.9938
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.2424
+Next Token : if, Posbility: 0.1525
+Next Token : return, Posbility: 0.0693
+Next Token : count, Posbility: 0.0469
+Next Token : #, Posbility: 0.0398
+Choose : for,  Posbility: 0.2424
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.5337
+Next Token :  char, Posbility: 0.1985
+Next Token :  x, Posbility: 0.0418
+Next Token :  c, Posbility: 0.0400
+Next Token :  letter, Posbility: 0.0252
+Choose :  i,  Posbility: 0.5337
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9794
+Next Token : ,, Posbility: 0.0197
+Next Token : 1, Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9794
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in
+---------------------------
+Next Token :  string, Posbility: 0.5411
+Next Token :  range, Posbility: 0.4476
+Next Token :  list, Posbility: 0.0029
+Next Token :  str, Posbility: 0.0015
+Next Token :  set, Posbility: 0.0012
+Choose :  string,  Posbility: 0.5411
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string
+---------------------------
+Next Token : :, Posbility: 0.9679
+Next Token : ., Posbility: 0.0207
+Next Token :  :, Posbility: 0.0061
+Next Token : [, Posbility: 0.0037
+Next Token : :#, Posbility: 0.0003
+Choose : :,  Posbility: 0.9679
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+---------------------------
+Next Token : 
+, Posbility: 0.9832
+Next Token :  , Posbility: 0.0065
+Next Token :  #, Posbility: 0.0034
+Next Token : 
+
+, Posbility: 0.0016
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9832
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+
+---------------------------
+Next Token :         , Posbility: 0.9816
+Next Token :       , Posbility: 0.0053
+Next Token :             , Posbility: 0.0048
+Next Token :        , Posbility: 0.0032
+Next Token :     , Posbility: 0.0018
+Choose :         ,  Posbility: 0.9816
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        
+---------------------------
+Next Token : if, Posbility: 0.8777
+Next Token : for, Posbility: 0.0329
+Next Token : print, Posbility: 0.0206
+Next Token : #, Posbility: 0.0107
+Next Token : count, Posbility: 0.0066
+Choose : if,  Posbility: 0.8777
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.7384
+Next Token :  string, Posbility: 0.1102
+Next Token : (, Posbility: 0.0358
+Next Token :  (, Posbility: 0.0328
+Next Token :  not, Posbility: 0.0277
+Choose :  i,  Posbility: 0.7384
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i
+---------------------------
+Next Token :  not, Posbility: 0.4475
+Next Token : !=, Posbility: 0.2003
+Next Token :  ==, Posbility: 0.1162
+Next Token :  in, Posbility: 0.1127
+Next Token : ., Posbility: 0.0585
+Choose :  not,  Posbility: 0.4475
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not
+---------------------------
+Next Token :  in, Posbility: 0.9999
+Next Token :   , Posbility: 0.0001
+Next Token : in, Posbility: 0.0000
+Next Token :  equal, Posbility: 0.0000
+Next Token :  not, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9999
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in
+---------------------------
+Next Token :  string, Posbility: 0.2212
+Next Token :  same, Posbility: 0.2211
+Next Token :  ', Posbility: 0.1390
+Next Token :  [', Posbility: 0.0960
+Next Token :  set, Posbility: 0.0358
+Choose :  string,  Posbility: 0.2212
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string
+---------------------------
+Next Token : :, Posbility: 0.5687
+Next Token : ., Posbility: 0.1922
+Next Token : [, Posbility: 0.1037
+Next Token :  and, Posbility: 0.0378
+Next Token : _, Posbility: 0.0290
+Choose : :,  Posbility: 0.5687
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+---------------------------
+Next Token : 
+, Posbility: 0.9530
+Next Token :  return, Posbility: 0.0189
+Next Token :  #, Posbility: 0.0092
+Next Token :  , Posbility: 0.0073
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9530
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+
+---------------------------
+Next Token :             , Posbility: 0.9856
+Next Token :            , Posbility: 0.0061
+Next Token :              , Posbility: 0.0022
+Next Token :           , Posbility: 0.0021
+Next Token :                 , Posbility: 0.0018
+Choose :             ,  Posbility: 0.9856
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            
+---------------------------
+Next Token : return, Posbility: 0.8704
+Next Token : print, Posbility: 0.0780
+Next Token : if, Posbility: 0.0073
+Next Token : string, Posbility: 0.0073
+Next Token : continue, Posbility: 0.0064
+Choose : return,  Posbility: 0.8704
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return
+---------------------------
+Next Token :  False, Posbility: 0.8513
+Next Token :  0, Posbility: 0.0440
+Next Token :  ', Posbility: 0.0370
+Next Token :  ", Posbility: 0.0200
+Next Token :  True, Posbility: 0.0107
+Choose :  False,  Posbility: 0.8513
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+---------------------------
+Next Token : 
+, Posbility: 0.9321
+Next Token : 
+
+, Posbility: 0.0450
+Next Token :  , Posbility: 0.0073
+Next Token :  #, Posbility: 0.0048
+Next Token : ;, Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9321
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+
+---------------------------
+Next Token :     , Posbility: 0.9063
+Next Token :         , Posbility: 0.0668
+Next Token : 
+, Posbility: 0.0160
+Next Token :             , Posbility: 0.0054
+Next Token : print, Posbility: 0.0010
+Choose :     ,  Posbility: 0.9063
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    
+---------------------------
+Next Token : return, Posbility: 0.9223
+Next Token : else, Posbility: 0.0453
+Next Token : 
+, Posbility: 0.0157
+Next Token : if, Posbility: 0.0075
+Next Token : print, Posbility: 0.0039
+Choose : return,  Posbility: 0.9223
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return
+---------------------------
+Next Token :  True, Posbility: 0.9933
+Next Token :  string, Posbility: 0.0023
+Next Token :  not, Posbility: 0.0006
+Next Token :  len, Posbility: 0.0005
+Next Token : (, Posbility: 0.0004
+Choose :  True,  Posbility: 0.9933
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+---------------------------
+Next Token : 
+, Posbility: 0.7784
+Next Token : 
+
+, Posbility: 0.1861
+Next Token : <|endoftext|>, Posbility: 0.0166
+Next Token :  , Posbility: 0.0087
+Next Token :     , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.7784
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+---------------------------
+Next Token : 
+, Posbility: 0.7208
+Next Token :     , Posbility: 0.0494
+Next Token : print, Posbility: 0.0405
+Next Token : #, Posbility: 0.0273
+Next Token : def, Posbility: 0.0256
+Choose : 
+,  Posbility: 0.7208
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9284
+Next Token : 
+
+, Posbility: 0.0242
+Next Token : <|endoftext|>, Posbility: 0.0209
+Next Token :     , Posbility: 0.0183
+Next Token :   , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9284
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4541
+Next Token : def, Posbility: 0.1616
+Next Token : #, Posbility: 0.1350
+Next Token : print, Posbility: 0.0712
+Next Token : 
+, Posbility: 0.0525
+Choose : '',  Posbility: 0.4541
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7630
+Next Token : Check, Posbility: 0.0299
+Next Token :  Write, Posbility: 0.0209
+Next Token : 
+, Posbility: 0.0145
+Next Token : Function, Posbility: 0.0088
+Choose : Write,  Posbility: 0.7630
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9805
+Next Token :  your, Posbility: 0.0082
+Next Token :  an, Posbility: 0.0021
+Next Token :  the, Posbility: 0.0018
+Next Token :  python, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9805
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9097
+Next Token :  function, Posbility: 0.0485
+Next Token :  Python, Posbility: 0.0237
+Next Token :  program, Posbility: 0.0050
+Next Token :  script, Posbility: 0.0008
+Choose :  python,  Posbility: 0.9097
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9656
+Next Token :  program, Posbility: 0.0188
+Next Token :  script, Posbility: 0.0022
+Next Token :  fun, Posbility: 0.0021
+Next Token :  code, Posbility: 0.0013
+Choose :  function,  Posbility: 0.9656
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8939
+Next Token :  that, Posbility: 0.0660
+Next Token :  which, Posbility: 0.0156
+Next Token :  for, Posbility: 0.0053
+Next Token : ,, Posbility: 0.0014
+Choose :  to,  Posbility: 0.8939
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to
+---------------------------
+Next Token :  check, Posbility: 0.2475
+Next Token :  find, Posbility: 0.0859
+Next Token :  print, Posbility: 0.0769
+Next Token :  get, Posbility: 0.0626
+Next Token :  count, Posbility: 0.0583
+Choose :  check,  Posbility: 0.2475
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8753
+Next Token :  if, Posbility: 0.0571
+Next Token :  the, Posbility: 0.0272
+Next Token :  for, Posbility: 0.0049
+Next Token :  a, Posbility: 0.0034
+Choose :  whether,  Posbility: 0.8753
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether
+---------------------------
+Next Token :  all, Posbility: 0.2702
+Next Token :  the, Posbility: 0.2401
+Next Token :  a, Posbility: 0.2216
+Next Token :  any, Posbility: 0.0441
+Next Token :  there, Posbility: 0.0280
+Choose :  all,  Posbility: 0.2702
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all
+---------------------------
+Next Token :  the, Posbility: 0.9480
+Next Token :  characters, Posbility: 0.0100
+Next Token :  numbers, Posbility: 0.0025
+Next Token :  of, Posbility: 0.0019
+Next Token :  letters, Posbility: 0.0019
+Choose :  the,  Posbility: 0.9480
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the
+---------------------------
+Next Token :  characters, Posbility: 0.5751
+Next Token :  digits, Posbility: 0.0524
+Next Token :  letters, Posbility: 0.0485
+Next Token :  numbers, Posbility: 0.0338
+Next Token :  words, Posbility: 0.0289
+Choose :  characters,  Posbility: 0.5751
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters
+---------------------------
+Next Token :  are, Posbility: 0.8879
+Next Token :  in, Posbility: 0.0371
+Next Token :  of, Posbility: 0.0097
+Next Token :  have, Posbility: 0.0080
+Next Token : 
+, Posbility: 0.0058
+Choose :  are,  Posbility: 0.8879
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are
+---------------------------
+Next Token :  same, Posbility: 0.2650
+Next Token :  unique, Posbility: 0.1989
+Next Token :  different, Posbility: 0.0573
+Next Token :  in, Posbility: 0.0367
+Next Token :  not, Posbility: 0.0331
+Choose :  same,  Posbility: 0.2650
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same
+---------------------------
+Next Token :  or, Posbility: 0.9717
+Next Token : .', Posbility: 0.0042
+Next Token :  in, Posbility: 0.0020
+Next Token :  ord, Posbility: 0.0020
+Next Token : 
+, Posbility: 0.0016
+Choose :  or,  Posbility: 0.9717
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same or
+---------------------------
+Next Token :  not, Posbility: 0.9976
+Next Token : 
+, Posbility: 0.0006
+Next Token :  , Posbility: 0.0004
+Next Token :  no, Posbility: 0.0003
+Next Token :  different, Posbility: 0.0001
+Choose :  not,  Posbility: 0.9976
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same or not
+---------------------------
+Next Token : .', Posbility: 0.8712
+Next Token : ., Posbility: 0.0454
+Next Token : '', Posbility: 0.0181
+Next Token :  and, Posbility: 0.0090
+Next Token : ,, Posbility: 0.0081
+Choose : .',  Posbility: 0.8712
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same or not.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9540
+Next Token : 
+
+, Posbility: 0.0324
+Next Token : def, Posbility: 0.0036
+Next Token :  , Posbility: 0.0035
+Next Token :     , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9540
+---------------------------
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9212
+Next Token : 
+, Posbility: 0.0476
+Next Token : #, Posbility: 0.0146
+Next Token : '', Posbility: 0.0021
+Next Token : import, Posbility: 0.0020
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.419220447540283
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether all the characters are same or not.'''
+def same(string):
+    '''Check whether all the characters are same or not.'''
+    for i in string:
+        if i not in string:
+            return False
+    return True
+
+
+'''Write a python function to check whether all the characters are same or not.'''
+

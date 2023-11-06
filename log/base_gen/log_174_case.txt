@@ -1,0 +1,190 @@
+<<<<<<<<<<<< 174 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ix, Posbility: 0.2163
+Next Token : xt, Posbility: 0.1867
+Next Token : 
+, Posbility: 0.1467
+Next Token : ____, Posbility: 0.0753
+Next Token : ia, Posbility: 0.0314
+Choose : ix,  Posbility: 0.2163
+'''Write a function to get a colon of a tuple.'''
+def ix
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix
+---------------------------
+Next Token : (, Posbility: 0.4827
+Next Token : _, Posbility: 0.1730
+Next Token : col, Posbility: 0.0320
+Next Token : of, Posbility: 0.0181
+Next Token : Col, Posbility: 0.0143
+Choose : (,  Posbility: 0.4827
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(
+---------------------------
+Next Token : t, Posbility: 0.2933
+Next Token : a, Posbility: 0.1112
+Next Token : x, Posbility: 0.0948
+Next Token : n, Posbility: 0.0459
+Next Token : l, Posbility: 0.0409
+Choose : t,  Posbility: 0.2933
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t
+---------------------------
+Next Token : ):, Posbility: 0.4408
+Next Token : up, Posbility: 0.2366
+Next Token : uple, Posbility: 0.1425
+Next Token : ,, Posbility: 0.1052
+Next Token : 1, Posbility: 0.0160
+Choose : ):,  Posbility: 0.4408
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+---------------------------
+Next Token : 
+, Posbility: 0.8793
+Next Token :  , Posbility: 0.0441
+Next Token :  return, Posbility: 0.0253
+Next Token : , Posbility: 0.0218
+Next Token : 
+
+, Posbility: 0.0082
+Choose : 
+,  Posbility: 0.8793
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+
+---------------------------
+Next Token :     , Posbility: 0.9256
+Next Token :   , Posbility: 0.0411
+Next Token : 	, Posbility: 0.0205
+Next Token :    , Posbility: 0.0078
+Next Token :      , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9256
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    
+---------------------------
+Next Token : return, Posbility: 0.3125
+Next Token : '', Posbility: 0.1934
+Next Token : for, Posbility: 0.0600
+Next Token : if, Posbility: 0.0435
+Next Token : ix, Posbility: 0.0380
+Choose : return,  Posbility: 0.3125
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return
+---------------------------
+Next Token :  t, Posbility: 0.6256
+Next Token :  (, Posbility: 0.0744
+Next Token :  tuple, Posbility: 0.0521
+Next Token :  [, Posbility: 0.0279
+Next Token :  len, Posbility: 0.0263
+Choose :  t,  Posbility: 0.6256
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t
+---------------------------
+Next Token : [, Posbility: 0.9083
+Next Token : ., Posbility: 0.0722
+Next Token :  [, Posbility: 0.0049
+Next Token : uple, Posbility: 0.0013
+Next Token : (, Posbility: 0.0013
+Choose : [,  Posbility: 0.9083
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t[
+---------------------------
+Next Token : 0, Posbility: 0.4089
+Next Token : 1, Posbility: 0.3340
+Next Token : 2, Posbility: 0.0986
+Next Token : 3, Posbility: 0.0462
+Next Token : -, Posbility: 0.0373
+Choose : 0,  Posbility: 0.4089
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t[0
+---------------------------
+Next Token : ], Posbility: 0.6094
+Next Token : :, Posbility: 0.1336
+Next Token : ],, Posbility: 0.1240
+Next Token : ::, Posbility: 0.0423
+Next Token : ]., Posbility: 0.0342
+Choose : ],  Posbility: 0.6094
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t[0]
+---------------------------
+Next Token : 
+, Posbility: 0.6423
+Next Token : 
+
+, Posbility: 0.1593
+Next Token : *, Posbility: 0.0604
+Next Token :  *, Posbility: 0.0373
+Next Token :  +, Posbility: 0.0305
+Choose : 
+,  Posbility: 0.6423
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t[0]
+
+---------------------------
+Next Token : 
+, Posbility: 0.5760
+Next Token : def, Posbility: 0.1865
+Next Token :     , Posbility: 0.0791
+Next Token : print, Posbility: 0.0168
+Next Token : t, Posbility: 0.0166
+Choose : 
+,  Posbility: 0.5760
+---------------------------
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t[0]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9766
+Next Token :     , Posbility: 0.0093
+Next Token : <|endoftext|>, Posbility: 0.0056
+Next Token : 
+
+, Posbility: 0.0053
+Next Token :  , Posbility: 0.0010
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 1.993070125579834
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to get a colon of a tuple.'''
+def ix(t):
+    return t[0]
+
+
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

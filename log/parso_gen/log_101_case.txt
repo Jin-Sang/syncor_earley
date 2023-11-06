@@ -1,0 +1,146 @@
+<<<<<<<<<<<< 101 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1075
+Next Token : ____, Posbility: 0.0916
+Next Token : xt, Posbility: 0.0853
+Next Token : ia, Posbility: 0.0699
+Next Token : _______, Posbility: 0.0575
+syntax error : 
+
+Choose : ____, Posbility: 0.0916
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____
+---------------------------
+Next Token : (, Posbility: 0.2365
+Next Token : ():, Posbility: 0.1719
+Next Token : regular, Posbility: 0.0576
+Next Token : pent, Posbility: 0.0474
+Next Token : find, Posbility: 0.0468
+Choose : (, Posbility: 0.2365
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(
+---------------------------
+Next Token : side, Posbility: 0.1201
+Next Token : l, Posbility: 0.1110
+Next Token : a, Posbility: 0.1062
+Next Token : n, Posbility: 0.0861
+Next Token : length, Posbility: 0.0790
+Choose : side, Posbility: 0.1201
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side
+---------------------------
+Next Token : ):, Posbility: 0.4238
+Next Token : _, Posbility: 0.2077
+Next Token : 1, Posbility: 0.1623
+Next Token : Length, Posbility: 0.0781
+Next Token : ,, Posbility: 0.0543
+Choose : ):, Posbility: 0.4238
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+---------------------------
+Next Token : 
+, Posbility: 0.8618
+Next Token :  , Posbility: 0.0460
+Next Token : 
+
+, Posbility: 0.0343
+Next Token : , Posbility: 0.0266
+Next Token :   , Posbility: 0.0051
+Choose : 
+, Posbility: 0.8618
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+
+---------------------------
+Next Token :     , Posbility: 0.8464
+Next Token : 	, Posbility: 0.0714
+Next Token :   , Posbility: 0.0539
+Next Token :    , Posbility: 0.0091
+Next Token : 		, Posbility: 0.0040
+Choose :     , Posbility: 0.8464
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+    
+---------------------------
+Next Token : return, Posbility: 0.2196
+Next Token : if, Posbility: 0.2158
+Next Token : per, Posbility: 0.0995
+Next Token : '', Posbility: 0.0627
+Next Token : side, Posbility: 0.0393
+Choose : return, Posbility: 0.2196
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+    return
+---------------------------
+Next Token :  side, Posbility: 0.5363
+Next Token :  (, Posbility: 0.1049
+Next Token :  ((, Posbility: 0.0553
+Next Token :  2, Posbility: 0.0448
+Next Token :  4, Posbility: 0.0348
+Choose :  side, Posbility: 0.5363
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+    return side
+---------------------------
+Next Token :  *, Posbility: 0.4112
+Next Token : *, Posbility: 0.3135
+Next Token : **, Posbility: 0.1243
+Next Token :  **, Posbility: 0.0795
+Next Token :  +, Posbility: 0.0209
+Choose :  *, Posbility: 0.4112
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+    return side *
+---------------------------
+Next Token :  4, Posbility: 0.4696
+Next Token :  5, Posbility: 0.1685
+Next Token :  6, Posbility: 0.0965
+Next Token :  (, Posbility: 0.0944
+Next Token :  3, Posbility: 0.0620
+Choose :  4, Posbility: 0.4696
+---------------------------
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+    return side * 4
+---------------------------
+Next Token : 
+, Posbility: 0.5484
+Next Token :  *, Posbility: 0.1707
+Next Token : 
+
+, Posbility: 0.1102
+Next Token :  +, Posbility: 0.0832
+Next Token : <|endoftext|>, Posbility: 0.0300
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 1.2925405502319336
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the perimeter of a regular pentagon from the length of its sides.'''
+def ____(side):
+    return side * 4
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

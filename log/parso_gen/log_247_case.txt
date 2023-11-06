@@ -1,0 +1,414 @@
+<<<<<<<<<<<< 247 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1480
+Next Token : iz, Posbility: 0.0982
+Next Token : ix, Posbility: 0.0775
+Next Token : xt, Posbility: 0.0549
+Next Token : ile, Posbility: 0.0532
+syntax error : 
+
+Choose : iz, Posbility: 0.0982
+'''Write a python function to get the first element of each sublist.'''
+def iz
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def iz
+---------------------------
+Next Token : ip, Posbility: 0.1512
+Next Token : _, Posbility: 0.1237
+Next Token : m, Posbility: 0.0710
+Next Token : q, Posbility: 0.0437
+Next Token : v, Posbility: 0.0428
+Choose : ip, Posbility: 0.1512
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip
+---------------------------
+Next Token : (, Posbility: 0.4679
+Next Token : (*, Posbility: 0.3265
+Next Token : _, Posbility: 0.1372
+Next Token : ():, Posbility: 0.0106
+Next Token : 1, Posbility: 0.0075
+Choose : (, Posbility: 0.4679
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(
+---------------------------
+Next Token : l, Posbility: 0.1672
+Next Token : iter, Posbility: 0.1285
+Next Token : a, Posbility: 0.0899
+Next Token : seq, Posbility: 0.0684
+Next Token : list, Posbility: 0.0627
+Choose : l, Posbility: 0.1672
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(l
+---------------------------
+Next Token : st, Posbility: 0.5569
+Next Token : ):, Posbility: 0.3310
+Next Token : ,, Posbility: 0.0574
+Next Token : 1, Posbility: 0.0416
+Next Token : :, Posbility: 0.0026
+Choose : st, Posbility: 0.5569
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst
+---------------------------
+Next Token : ):, Posbility: 0.8819
+Next Token : ,, Posbility: 0.0669
+Next Token : 1, Posbility: 0.0274
+Next Token : :, Posbility: 0.0075
+Next Token : _, Posbility: 0.0069
+Choose : ):, Posbility: 0.8819
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.8706
+Next Token :  , Posbility: 0.0715
+Next Token :  return, Posbility: 0.0159
+Next Token : , Posbility: 0.0130
+Next Token : 
+
+, Posbility: 0.0104
+Choose : 
+, Posbility: 0.8706
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9398
+Next Token :   , Posbility: 0.0322
+Next Token : 	, Posbility: 0.0141
+Next Token :    , Posbility: 0.0076
+Next Token :         , Posbility: 0.0020
+Choose :     , Posbility: 0.9398
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2718
+Next Token : return, Posbility: 0.2513
+Next Token : for, Posbility: 0.1256
+Next Token : """, Posbility: 0.0325
+Next Token : #, Posbility: 0.0288
+Choose : '', Posbility: 0.2718
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9995
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '-, Posbility: 0.0000
+Choose : ', Posbility: 0.9995
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.1705
+Next Token : 
+, Posbility: 0.0587
+Next Token : return, Posbility: 0.0542
+Next Token : Returns, Posbility: 0.0467
+Next Token : Get, Posbility: 0.0450
+Choose : Return, Posbility: 0.1705
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return
+---------------------------
+Next Token :  a, Posbility: 0.3800
+Next Token :  an, Posbility: 0.1584
+Next Token :  first, Posbility: 0.1476
+Next Token :  the, Posbility: 0.1008
+Next Token :  iterator, Posbility: 0.0456
+Choose :  a, Posbility: 0.3800
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a
+---------------------------
+Next Token :  tuple, Posbility: 0.2584
+Next Token :  list, Posbility: 0.1948
+Next Token :  zip, Posbility: 0.1139
+Next Token :  new, Posbility: 0.0904
+Next Token :  generator, Posbility: 0.0494
+Choose :  tuple, Posbility: 0.2584
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple
+---------------------------
+Next Token :  of, Posbility: 0.2945
+Next Token :  with, Posbility: 0.1704
+Next Token :  containing, Posbility: 0.1405
+Next Token :  where, Posbility: 0.0853
+Next Token : ,, Posbility: 0.0520
+Choose :  of, Posbility: 0.2945
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of
+---------------------------
+Next Token :  the, Posbility: 0.3645
+Next Token :  two, Posbility: 0.1072
+Next Token :  (, Posbility: 0.0498
+Next Token :  first, Posbility: 0.0480
+Next Token :  all, Posbility: 0.0472
+Choose :  the, Posbility: 0.3645
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the
+---------------------------
+Next Token :  first, Posbility: 0.8811
+Next Token :  elements, Posbility: 0.0345
+Next Token :  values, Posbility: 0.0192
+Next Token :  form, Posbility: 0.0090
+Next Token :  fist, Posbility: 0.0043
+Choose :  first, Posbility: 0.8811
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first
+---------------------------
+Next Token :  element, Posbility: 0.6669
+Next Token :  and, Posbility: 0.1001
+Next Token :  item, Posbility: 0.0688
+Next Token :  two, Posbility: 0.0552
+Next Token :  2, Posbility: 0.0128
+Choose :  element, Posbility: 0.6669
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element
+---------------------------
+Next Token :  of, Posbility: 0.7315
+Next Token :  and, Posbility: 0.1197
+Next Token :  in, Posbility: 0.0413
+Next Token :  from, Posbility: 0.0328
+Next Token : ,, Posbility: 0.0175
+Choose :  of, Posbility: 0.7315
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of
+---------------------------
+Next Token :  each, Posbility: 0.7556
+Next Token :  the, Posbility: 0.1003
+Next Token :  every, Posbility: 0.0400
+Next Token :  all, Posbility: 0.0286
+Next Token :  a, Posbility: 0.0279
+Choose :  each, Posbility: 0.7556
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each
+---------------------------
+Next Token :  sub, Posbility: 0.6352
+Next Token :  list, Posbility: 0.0872
+Next Token :  element, Posbility: 0.0713
+Next Token :  item, Posbility: 0.0474
+Next Token :  , Posbility: 0.0274
+Choose :  sub, Posbility: 0.6352
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sub
+---------------------------
+Next Token : list, Posbility: 0.9735
+Next Token : -, Posbility: 0.0127
+Next Token :  list, Posbility: 0.0091
+Next Token : l, Posbility: 0.0016
+Next Token : array, Posbility: 0.0003
+Choose : list, Posbility: 0.9735
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist
+---------------------------
+Next Token : .', Posbility: 0.3411
+Next Token : ., Posbility: 0.1639
+Next Token :  in, Posbility: 0.1360
+Next Token : '', Posbility: 0.1014
+Next Token : ,, Posbility: 0.0567
+Choose : .', Posbility: 0.3411
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token : "", Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '', Posbility: 0.9995
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9606
+Next Token : 
+
+, Posbility: 0.0288
+Next Token :  , Posbility: 0.0063
+Next Token :     , Posbility: 0.0012
+Next Token :   , Posbility: 0.0011
+Choose : 
+, Posbility: 0.9606
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9957
+Next Token :         , Posbility: 0.0007
+Next Token :   , Posbility: 0.0007
+Next Token :    , Posbility: 0.0006
+Next Token : 	, Posbility: 0.0003
+Choose :     , Posbility: 0.9957
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.4581
+Next Token : for, Posbility: 0.1105
+Next Token : def, Posbility: 0.0367
+Next Token : first, Posbility: 0.0326
+Next Token : #, Posbility: 0.0301
+Choose : return, Posbility: 0.4581
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return
+---------------------------
+Next Token :  tuple, Posbility: 0.5274
+Next Token :  l, Posbility: 0.1298
+Next Token :  (, Posbility: 0.1025
+Next Token :  zip, Posbility: 0.0573
+Next Token :  , Posbility: 0.0418
+Choose :  tuple, Posbility: 0.5274
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple
+---------------------------
+Next Token : (, Posbility: 0.8852
+Next Token : ([, Posbility: 0.0818
+Next Token : ((, Posbility: 0.0287
+Next Token :  (, Posbility: 0.0019
+Next Token : (*, Posbility: 0.0006
+Choose : (, Posbility: 0.8852
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(
+---------------------------
+Next Token : l, Posbility: 0.9336
+Next Token : map, Posbility: 0.0097
+Next Token : zip, Posbility: 0.0092
+Next Token : s, Posbility: 0.0069
+Next Token :  l, Posbility: 0.0058
+Choose : l, Posbility: 0.9336
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(l
+---------------------------
+Next Token : st, Posbility: 0.9943
+Next Token : [, Posbility: 0.0034
+Next Token :  for, Posbility: 0.0009
+Next Token : ., Posbility: 0.0006
+Next Token : ), Posbility: 0.0004
+Choose : st, Posbility: 0.9943
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(lst
+---------------------------
+Next Token : [, Posbility: 0.8218
+Next Token : ), Posbility: 0.1593
+Next Token : )[, Posbility: 0.0110
+Next Token : ., Posbility: 0.0062
+Next Token :  [, Posbility: 0.0005
+Choose : [, Posbility: 0.8218
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(lst[
+---------------------------
+Next Token : 0, Posbility: 0.9073
+Next Token : i, Posbility: 0.0599
+Next Token : :, Posbility: 0.0157
+Next Token : x, Posbility: 0.0056
+Next Token : index, Posbility: 0.0045
+Choose : 0, Posbility: 0.9073
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(lst[0
+---------------------------
+Next Token : ]), Posbility: 0.9673
+Next Token : ][, Posbility: 0.0217
+Next Token : :, Posbility: 0.0043
+Next Token : ]., Posbility: 0.0037
+Next Token : ::, Posbility: 0.0008
+Choose : ]), Posbility: 0.9673
+---------------------------
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(lst[0])
+---------------------------
+Next Token : 
+, Posbility: 0.8264
+Next Token : 
+
+, Posbility: 0.1231
+Next Token : <|endoftext|>, Posbility: 0.0149
+Next Token :  , Posbility: 0.0145
+Next Token :  #, Posbility: 0.0044
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.134684324264526
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to get the first element of each sublist.'''
+def izip(lst):
+    '''Return a tuple of the first element of each sublist.'''
+    return tuple(lst[0])
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

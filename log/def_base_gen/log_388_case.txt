@@ -1,0 +1,1756 @@
+<<<<<<<<<<<< 388 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  count, Posbility: 0.3715
+Next Token :  pair, Posbility: 0.0721
+Next Token :  sum, Posbility: 0.0551
+Next Token :  pairs, Posbility: 0.0335
+Next Token :  number, Posbility: 0.0209
+Choose :  count,  Posbility: 0.3715
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count
+---------------------------
+Next Token : _, Posbility: 0.5666
+Next Token : P, Posbility: 0.1320
+Next Token : (, Posbility: 0.1274
+Next Token : p, Posbility: 0.0452
+Next Token : Sum, Posbility: 0.0161
+Choose : _,  Posbility: 0.5666
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_
+---------------------------
+Next Token : p, Posbility: 0.6258
+Next Token : sum, Posbility: 0.0954
+Next Token : pair, Posbility: 0.0877
+Next Token : n, Posbility: 0.0138
+Next Token : number, Posbility: 0.0092
+Choose : p,  Posbility: 0.6258
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_p
+---------------------------
+Next Token : airs, Posbility: 0.9912
+Next Token : air, Posbility: 0.0024
+Next Token : (, Posbility: 0.0015
+Next Token : oss, Posbility: 0.0006
+Next Token : _, Posbility: 0.0004
+Choose : airs,  Posbility: 0.9912
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs
+---------------------------
+Next Token : (, Posbility: 0.7667
+Next Token : _, Posbility: 0.2120
+Next Token : ():, Posbility: 0.0066
+Next Token :  (, Posbility: 0.0028
+Next Token : 1, Posbility: 0.0028
+Choose : (,  Posbility: 0.7667
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(
+---------------------------
+Next Token : l, Posbility: 0.2290
+Next Token : n, Posbility: 0.1895
+Next Token : list, Posbility: 0.1486
+Next Token : arr, Posbility: 0.0539
+Next Token : a, Posbility: 0.0439
+Choose : l,  Posbility: 0.2290
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(l
+---------------------------
+Next Token : st, Posbility: 0.7860
+Next Token : ,, Posbility: 0.1012
+Next Token : ):, Posbility: 0.0697
+Next Token : 1, Posbility: 0.0258
+Next Token : :, Posbility: 0.0064
+Choose : st,  Posbility: 0.7860
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst
+---------------------------
+Next Token : ,, Posbility: 0.5693
+Next Token : ):, Posbility: 0.3532
+Next Token : _, Posbility: 0.0305
+Next Token : :, Posbility: 0.0210
+Next Token : 1, Posbility: 0.0207
+Choose : ,,  Posbility: 0.5693
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst,
+---------------------------
+Next Token :  sum, Posbility: 0.6531
+Next Token : sum, Posbility: 0.2807
+Next Token : s, Posbility: 0.0109
+Next Token :  s, Posbility: 0.0057
+Next Token : n, Posbility: 0.0045
+Choose :  sum,  Posbility: 0.6531
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum
+---------------------------
+Next Token : ):, Posbility: 0.9360
+Next Token : =, Posbility: 0.0277
+Next Token : _, Posbility: 0.0170
+Next Token : ,, Posbility: 0.0056
+Next Token :  =, Posbility: 0.0048
+Choose : ):,  Posbility: 0.9360
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+---------------------------
+Next Token : 
+, Posbility: 0.8975
+Next Token : 
+
+, Posbility: 0.0415
+Next Token : , Posbility: 0.0247
+Next Token :  , Posbility: 0.0184
+Next Token :  #, Posbility: 0.0063
+Choose : 
+,  Posbility: 0.8975
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+
+---------------------------
+Next Token :     , Posbility: 0.9173
+Next Token :   , Posbility: 0.0364
+Next Token : 	, Posbility: 0.0351
+Next Token :    , Posbility: 0.0052
+Next Token :         , Posbility: 0.0014
+Choose :     ,  Posbility: 0.9173
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    
+---------------------------
+Next Token : count, Posbility: 0.2817
+Next Token : '', Posbility: 0.1058
+Next Token : c, Posbility: 0.0972
+Next Token : #, Posbility: 0.0510
+Next Token : l, Posbility: 0.0492
+Choose : count,  Posbility: 0.2817
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.8255
+Next Token : _, Posbility: 0.0731
+Next Token : =, Posbility: 0.0723
+Next Token : s, Posbility: 0.0116
+Next Token : 1, Posbility: 0.0032
+Choose :  =,  Posbility: 0.8255
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9536
+Next Token :  1, Posbility: 0.0111
+Next Token :  {}, Posbility: 0.0063
+Next Token : 0, Posbility: 0.0053
+Next Token :  len, Posbility: 0.0047
+Choose :  0,  Posbility: 0.9536
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9374
+Next Token : 
+
+, Posbility: 0.0383
+Next Token :  , Posbility: 0.0115
+Next Token : ;, Posbility: 0.0045
+Next Token :  #, Posbility: 0.0032
+Choose : 
+,  Posbility: 0.9374
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9979
+Next Token : 	, Posbility: 0.0004
+Next Token :    , Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9979
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.8187
+Next Token : l, Posbility: 0.0183
+Next Token : if, Posbility: 0.0176
+Next Token : #, Posbility: 0.0166
+Next Token : 
+, Posbility: 0.0149
+Choose : for,  Posbility: 0.8187
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6395
+Next Token :  num, Posbility: 0.0728
+Next Token :  item, Posbility: 0.0412
+Next Token :  x, Posbility: 0.0404
+Next Token :  n, Posbility: 0.0307
+Choose :  i,  Posbility: 0.6395
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9765
+Next Token : ,, Posbility: 0.0224
+Next Token :   , Posbility: 0.0003
+Next Token : 1, Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9765
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.6328
+Next Token :  l, Posbility: 0.3611
+Next Token :  set, Posbility: 0.0014
+Next Token :  list, Posbility: 0.0009
+Next Token :  (, Posbility: 0.0005
+Choose :  range,  Posbility: 0.6328
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9764
+Next Token :  (, Posbility: 0.0227
+Next Token : ((, Posbility: 0.0005
+Next Token : (-, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0001
+Choose : (,  Posbility: 0.9764
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7966
+Next Token : 0, Posbility: 0.1791
+Next Token : 1, Posbility: 0.0200
+Next Token : 2, Posbility: 0.0006
+Next Token : min, Posbility: 0.0006
+Choose : len,  Posbility: 0.7966
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : ((, Posbility: 0.0002
+Next Token : (), Posbility: 0.0000
+Next Token :  (, Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9990
+Next Token : sum, Posbility: 0.0003
+Next Token : list, Posbility: 0.0001
+Next Token : s, Posbility: 0.0001
+Next Token : set, Posbility: 0.0001
+Choose : l,  Posbility: 0.9990
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ), Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : )-, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst
+---------------------------
+Next Token : ), Posbility: 0.8299
+Next Token : )-, Posbility: 0.1635
+Next Token : )), Posbility: 0.0036
+Next Token : )+, Posbility: 0.0016
+Next Token : [, Posbility: 0.0008
+Choose : ),  Posbility: 0.8299
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.8793
+Next Token :  -, Posbility: 0.1187
+Next Token :  +, Posbility: 0.0007
+Next Token : //, Posbility: 0.0006
+Next Token :  //, Posbility: 0.0003
+Choose : ):,  Posbility: 0.8793
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9846
+Next Token :  , Posbility: 0.0039
+Next Token : 
+
+, Posbility: 0.0036
+Next Token :  #, Posbility: 0.0023
+Next Token :   , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9846
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+
+---------------------------
+Next Token :         , Posbility: 0.9847
+Next Token :       , Posbility: 0.0059
+Next Token :        , Posbility: 0.0030
+Next Token :             , Posbility: 0.0023
+Next Token :          , Posbility: 0.0012
+Choose :         ,  Posbility: 0.9847
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        
+---------------------------
+Next Token : for, Posbility: 0.8570
+Next Token : if, Posbility: 0.0721
+Next Token : sum, Posbility: 0.0114
+Next Token : count, Posbility: 0.0063
+Next Token : j, Posbility: 0.0055
+Choose : for,  Posbility: 0.8570
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9711
+Next Token :  k, Posbility: 0.0064
+Next Token :  x, Posbility: 0.0035
+Next Token :  n, Posbility: 0.0019
+Next Token :  ii, Posbility: 0.0016
+Choose :  j,  Posbility: 0.9711
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9991
+Next Token : ,, Posbility: 0.0007
+Next Token :   , Posbility: 0.0002
+Next Token : 1, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9991
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9939
+Next Token :  l, Posbility: 0.0051
+Next Token :  (, Posbility: 0.0002
+Next Token :  [, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  range,  Posbility: 0.9939
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9923
+Next Token :  (, Posbility: 0.0067
+Next Token : ((, Posbility: 0.0007
+Next Token : (-, Posbility: 0.0001
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9923
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(
+---------------------------
+Next Token : i, Posbility: 0.7846
+Next Token : len, Posbility: 0.2033
+Next Token : 0, Posbility: 0.0058
+Next Token : 1, Posbility: 0.0025
+Next Token : j, Posbility: 0.0014
+Choose : i,  Posbility: 0.7846
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i
+---------------------------
+Next Token : +, Posbility: 0.6271
+Next Token :  +, Posbility: 0.2174
+Next Token : ,, Posbility: 0.1413
+Next Token : ):, Posbility: 0.0102
+Next Token : ,, Posbility: 0.0028
+Choose : +,  Posbility: 0.6271
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+
+---------------------------
+Next Token : 1, Posbility: 0.9975
+Next Token : 2, Posbility: 0.0012
+Next Token :  1, Posbility: 0.0011
+Next Token : i, Posbility: 0.0000
+Next Token : len, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9975
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1
+---------------------------
+Next Token : ,, Posbility: 0.9929
+Next Token : ,, Posbility: 0.0057
+Next Token : ):, Posbility: 0.0012
+Next Token : +, Posbility: 0.0000
+Next Token : ,-, Posbility: 0.0000
+Choose : ,,  Posbility: 0.9929
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1,
+---------------------------
+Next Token :  len, Posbility: 0.8546
+Next Token : len, Posbility: 0.1440
+Next Token :   , Posbility: 0.0004
+Next Token :  min, Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Choose :  len,  Posbility: 0.8546
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token :  (, Posbility: 0.0002
+Next Token : (), Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(
+---------------------------
+Next Token : l, Posbility: 0.9998
+Next Token :  l, Posbility: 0.0001
+Next Token : list, Posbility: 0.0000
+Next Token : L, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : l,  Posbility: 0.9998
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ts, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst
+---------------------------
+Next Token : ), Posbility: 0.9822
+Next Token : )+, Posbility: 0.0144
+Next Token : ),, Posbility: 0.0024
+Next Token : )-, Posbility: 0.0005
+Next Token : )), Posbility: 0.0004
+Choose : ),  Posbility: 0.9822
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)
+---------------------------
+Next Token : ):, Posbility: 0.9987
+Next Token :  +, Posbility: 0.0008
+Next Token :  ):, Posbility: 0.0004
+Next Token :  -, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9987
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+---------------------------
+Next Token : 
+, Posbility: 0.9879
+Next Token : 
+
+, Posbility: 0.0039
+Next Token :  , Posbility: 0.0028
+Next Token :  #, Posbility: 0.0017
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9879
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+
+---------------------------
+Next Token :             , Posbility: 0.9895
+Next Token :                 , Posbility: 0.0036
+Next Token :            , Posbility: 0.0022
+Next Token :              , Posbility: 0.0015
+Next Token :           , Posbility: 0.0010
+Choose :             ,  Posbility: 0.9895
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            
+---------------------------
+Next Token : if, Posbility: 0.8940
+Next Token : sum, Posbility: 0.0161
+Next Token : #, Posbility: 0.0147
+Next Token : s, Posbility: 0.0077
+Next Token : for, Posbility: 0.0053
+Choose : if,  Posbility: 0.8940
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if
+---------------------------
+Next Token :  l, Posbility: 0.7375
+Next Token :  sum, Posbility: 0.0904
+Next Token :  (, Posbility: 0.0857
+Next Token : (, Posbility: 0.0554
+Next Token :  abs, Posbility: 0.0098
+Choose :  l,  Posbility: 0.7375
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : ist, Posbility: 0.0000
+Next Token : mt, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst
+---------------------------
+Next Token : [, Posbility: 0.9993
+Next Token :  [, Posbility: 0.0003
+Next Token : ., Posbility: 0.0003
+Next Token :  ==, Posbility: 0.0000
+Next Token : [[, Posbility: 0.0000
+Choose : [,  Posbility: 0.9993
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[
+---------------------------
+Next Token : i, Posbility: 0.9500
+Next Token : j, Posbility: 0.0494
+Next Token : 0, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : sum, Posbility: 0.0000
+Choose : i,  Posbility: 0.9500
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i
+---------------------------
+Next Token : ], Posbility: 0.6564
+Next Token : ]+, Posbility: 0.3380
+Next Token : ][, Posbility: 0.0019
+Next Token : ]-, Posbility: 0.0018
+Next Token : +, Posbility: 0.0011
+Choose : ],  Posbility: 0.6564
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i]
+---------------------------
+Next Token :  +, Posbility: 0.9588
+Next Token :  ==, Posbility: 0.0190
+Next Token : +, Posbility: 0.0121
+Next Token :  -, Posbility: 0.0027
+Next Token :  *, Posbility: 0.0017
+Choose :  +,  Posbility: 0.9588
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] +
+---------------------------
+Next Token :  l, Posbility: 0.9952
+Next Token : l, Posbility: 0.0026
+Next Token :  sum, Posbility: 0.0016
+Next Token :   , Posbility: 0.0001
+Next Token :  2, Posbility: 0.0001
+Choose :  l,  Posbility: 0.9952
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Next Token : ST, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst
+---------------------------
+Next Token : [, Posbility: 0.9987
+Next Token :  [, Posbility: 0.0013
+Next Token : [], Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token :  +, Posbility: 0.0000
+Choose : [,  Posbility: 0.9987
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[
+---------------------------
+Next Token : j, Posbility: 0.9994
+Next Token : i, Posbility: 0.0005
+Next Token :  j, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : j,  Posbility: 0.9994
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j
+---------------------------
+Next Token : ], Posbility: 0.9996
+Next Token : ]-, Posbility: 0.0001
+Next Token : ]+, Posbility: 0.0001
+Next Token :  ], Posbility: 0.0000
+Next Token : ],, Posbility: 0.0000
+Choose : ],  Posbility: 0.9996
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j]
+---------------------------
+Next Token :  ==, Posbility: 0.9794
+Next Token : ==, Posbility: 0.0070
+Next Token :  <=, Posbility: 0.0029
+Next Token :  in, Posbility: 0.0026
+Next Token :  <, Posbility: 0.0020
+Choose :  ==,  Posbility: 0.9794
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] ==
+---------------------------
+Next Token :  sum, Posbility: 0.9963
+Next Token : sum, Posbility: 0.0010
+Next Token :  int, Posbility: 0.0010
+Next Token :  (, Posbility: 0.0005
+Next Token :   , Posbility: 0.0002
+Choose :  sum,  Posbility: 0.9963
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum
+---------------------------
+Next Token : :, Posbility: 0.9822
+Next Token :  and, Posbility: 0.0101
+Next Token :  :, Posbility: 0.0051
+Next Token :  or, Posbility: 0.0015
+Next Token :  -, Posbility: 0.0003
+Choose : :,  Posbility: 0.9822
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+---------------------------
+Next Token : 
+, Posbility: 0.9907
+Next Token :  , Posbility: 0.0032
+Next Token :  count, Posbility: 0.0015
+Next Token :  #, Posbility: 0.0011
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9907
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+
+---------------------------
+Next Token :                 , Posbility: 0.9952
+Next Token :                     , Posbility: 0.0016
+Next Token :                , Posbility: 0.0014
+Next Token :                  , Posbility: 0.0008
+Next Token :               , Posbility: 0.0003
+Choose :                 ,  Posbility: 0.9952
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                
+---------------------------
+Next Token : count, Posbility: 0.9671
+Next Token : print, Posbility: 0.0141
+Next Token : if, Posbility: 0.0102
+Next Token : #, Posbility: 0.0041
+Next Token : return, Posbility: 0.0006
+Choose : count,  Posbility: 0.9671
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count
+---------------------------
+Next Token :  +=, Posbility: 0.8151
+Next Token :  =, Posbility: 0.1198
+Next Token : +=, Posbility: 0.0623
+Next Token : =, Posbility: 0.0015
+Next Token :   , Posbility: 0.0002
+Choose :  +=,  Posbility: 0.8151
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count +=
+---------------------------
+Next Token :  1, Posbility: 0.9490
+Next Token : 1, Posbility: 0.0409
+Next Token :  2, Posbility: 0.0046
+Next Token :  (, Posbility: 0.0018
+Next Token :  l, Posbility: 0.0009
+Choose :  1,  Posbility: 0.9490
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9357
+Next Token : 
+
+, Posbility: 0.0515
+Next Token :  , Posbility: 0.0052
+Next Token :     , Posbility: 0.0014
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9357
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.9205
+Next Token :                 , Posbility: 0.0444
+Next Token :             , Posbility: 0.0235
+Next Token :         , Posbility: 0.0085
+Next Token : 
+, Posbility: 0.0007
+Choose :     ,  Posbility: 0.9205
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8715
+Next Token : print, Posbility: 0.1005
+Next Token : 
+, Posbility: 0.0172
+Next Token : #, Posbility: 0.0035
+Next Token : if, Posbility: 0.0031
+Choose : return,  Posbility: 0.8715
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9584
+Next Token : (, Posbility: 0.0201
+Next Token :  (, Posbility: 0.0087
+Next Token :  print, Posbility: 0.0057
+Next Token :  f, Posbility: 0.0022
+Choose :  count,  Posbility: 0.9584
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.7236
+Next Token : 
+
+, Posbility: 0.2328
+Next Token : <|endoftext|>, Posbility: 0.0171
+Next Token :  , Posbility: 0.0120
+Next Token :     , Posbility: 0.0026
+Choose : 
+,  Posbility: 0.7236
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+---------------------------
+Next Token : 
+, Posbility: 0.6846
+Next Token : print, Posbility: 0.0995
+Next Token : #, Posbility: 0.0348
+Next Token : l, Posbility: 0.0300
+Next Token :     , Posbility: 0.0276
+Choose : 
+,  Posbility: 0.6846
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9493
+Next Token :     , Posbility: 0.0178
+Next Token : 
+
+, Posbility: 0.0174
+Next Token : <|endoftext|>, Posbility: 0.0093
+Next Token :         , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9493
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5613
+Next Token : #, Posbility: 0.1091
+Next Token : print, Posbility: 0.1017
+Next Token : l, Posbility: 0.0588
+Next Token : def, Posbility: 0.0417
+Choose : '',  Posbility: 0.5613
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7349
+Next Token :  Write, Posbility: 0.0369
+Next Token : 
+, Posbility: 0.0175
+Next Token : Count, Posbility: 0.0110
+Next Token : The, Posbility: 0.0077
+Choose : Write,  Posbility: 0.7349
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9867
+Next Token :  your, Posbility: 0.0035
+Next Token :  an, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0019
+Next Token :  another, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9867
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9131
+Next Token :  function, Posbility: 0.0355
+Next Token :  Python, Posbility: 0.0339
+Next Token :  program, Posbility: 0.0045
+Next Token :  recursive, Posbility: 0.0009
+Choose :  python,  Posbility: 0.9131
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9610
+Next Token :  program, Posbility: 0.0214
+Next Token :  fun, Posbility: 0.0038
+Next Token :  script, Posbility: 0.0023
+Next Token :  code, Posbility: 0.0012
+Choose :  function,  Posbility: 0.9610
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8149
+Next Token :  that, Posbility: 0.1185
+Next Token :  which, Posbility: 0.0166
+Next Token : ,, Posbility: 0.0045
+Next Token :  for, Posbility: 0.0044
+Choose :  to,  Posbility: 0.8149
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.1986
+Next Token :  count, Posbility: 0.1341
+Next Token :  check, Posbility: 0.0878
+Next Token :  get, Posbility: 0.0831
+Next Token :  print, Posbility: 0.0608
+Choose :  find,  Posbility: 0.1986
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.7805
+Next Token :  all, Posbility: 0.0288
+Next Token :  out, Posbility: 0.0242
+Next Token :  a, Posbility: 0.0197
+Next Token :  if, Posbility: 0.0135
+Choose :  the,  Posbility: 0.7805
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  number, Posbility: 0.1343
+Next Token :  maximum, Posbility: 0.0734
+Next Token :  sum, Posbility: 0.0522
+Next Token :  minimum, Posbility: 0.0486
+Next Token :  longest, Posbility: 0.0429
+Choose :  number,  Posbility: 0.1343
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number
+---------------------------
+Next Token :  of, Posbility: 0.9761
+Next Token :  with, Posbility: 0.0024
+Next Token :  in, Posbility: 0.0020
+Next Token :  which, Posbility: 0.0015
+Next Token :  pairs, Posbility: 0.0012
+Choose :  of,  Posbility: 0.9761
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of
+---------------------------
+Next Token :  pairs, Posbility: 0.4641
+Next Token :  unique, Posbility: 0.0345
+Next Token :  distinct, Posbility: 0.0312
+Next Token :  elements, Posbility: 0.0281
+Next Token :  even, Posbility: 0.0251
+Choose :  pairs,  Posbility: 0.4641
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs
+---------------------------
+Next Token :  whose, Posbility: 0.6288
+Next Token :  where, Posbility: 0.0828
+Next Token :  of, Posbility: 0.0654
+Next Token :  with, Posbility: 0.0450
+Next Token :  in, Posbility: 0.0390
+Choose :  whose,  Posbility: 0.6288
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose
+---------------------------
+Next Token :  sum, Posbility: 0.7068
+Next Token :  difference, Posbility: 0.0817
+Next Token :  first, Posbility: 0.0380
+Next Token :  product, Posbility: 0.0342
+Next Token :  sums, Posbility: 0.0230
+Choose :  sum,  Posbility: 0.7068
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum
+---------------------------
+Next Token :  is, Posbility: 0.9093
+Next Token :  equals, Posbility: 0.0389
+Next Token :  of, Posbility: 0.0114
+Next Token :  exceeds, Posbility: 0.0056
+Next Token :  equal, Posbility: 0.0035
+Choose :  is,  Posbility: 0.9093
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is
+---------------------------
+Next Token :  equal, Posbility: 0.4562
+Next Token :  less, Posbility: 0.0878
+Next Token :  greater, Posbility: 0.0723
+Next Token :  odd, Posbility: 0.0559
+Next Token :  not, Posbility: 0.0388
+Choose :  equal,  Posbility: 0.4562
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal
+---------------------------
+Next Token :  to, Posbility: 0.9816
+Next Token :  ', Posbility: 0.0041
+Next Token :  or, Posbility: 0.0029
+Next Token : 
+, Posbility: 0.0016
+Next Token : '', Posbility: 0.0011
+Choose :  to,  Posbility: 0.9816
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to
+---------------------------
+Next Token :  �, Posbility: 0.6820
+Next Token :  ', Posbility: 0.1386
+Next Token :  the, Posbility: 0.0457
+Next Token :  a, Posbility: 0.0232
+Next Token :  sum, Posbility: 0.0077
+Choose :  �,  Posbility: 0.6820
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �
+---------------------------
+Next Token : sum, Posbility: 0.2023
+Next Token : �, Posbility: 0.0452
+Next Token :  sum, Posbility: 0.0391
+Next Token : n, Posbility: 0.0364
+Next Token :  ', Posbility: 0.0247
+Choose : sum,  Posbility: 0.2023
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum
+---------------------------
+Next Token : ´, Posbility: 0.3228
+Next Token : �, Posbility: 0.1441
+Next Token : ``, Posbility: 0.0889
+Next Token : '', Posbility: 0.0806
+Next Token : �, Posbility: 0.0662
+Choose : ´,  Posbility: 0.3228
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´
+---------------------------
+Next Token : ., Posbility: 0.4991
+Next Token : .', Posbility: 0.1264
+Next Token :  and, Posbility: 0.1167
+Next Token : '', Posbility: 0.0589
+Next Token : ,, Posbility: 0.0391
+Choose : .,  Posbility: 0.4991
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´.
+---------------------------
+Next Token :  The, Posbility: 0.8077
+Next Token : 
+, Posbility: 0.0413
+Next Token :  , Posbility: 0.0300
+Next Token :  It, Posbility: 0.0116
+Next Token : The, Posbility: 0.0096
+Choose :  The,  Posbility: 0.8077
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The
+---------------------------
+Next Token :  function, Posbility: 0.5389
+Next Token :  fun, Posbility: 0.3737
+Next Token : 
+, Posbility: 0.0106
+Next Token :  functions, Posbility: 0.0095
+Next Token :  input, Posbility: 0.0065
+Choose :  function,  Posbility: 0.5389
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function
+---------------------------
+Next Token :  gets, Posbility: 0.5607
+Next Token :  takes, Posbility: 0.2272
+Next Token :  receives, Posbility: 0.0805
+Next Token :  get, Posbility: 0.0359
+Next Token :  should, Posbility: 0.0107
+Choose :  gets,  Posbility: 0.5607
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets
+---------------------------
+Next Token :  as, Posbility: 0.9167
+Next Token :  two, Posbility: 0.0283
+Next Token :  a, Posbility: 0.0243
+Next Token :  the, Posbility: 0.0056
+Next Token :  an, Posbility: 0.0050
+Choose :  as,  Posbility: 0.9167
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as
+---------------------------
+Next Token :  input, Posbility: 0.9707
+Next Token :  inputs, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0040
+Next Token :  argument, Posbility: 0.0033
+Next Token :  , Posbility: 0.0026
+Choose :  input,  Posbility: 0.9707
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input
+---------------------------
+Next Token :  a, Posbility: 0.8008
+Next Token :  two, Posbility: 0.1088
+Next Token :  an, Posbility: 0.0195
+Next Token :  the, Posbility: 0.0122
+Next Token :  list, Posbility: 0.0094
+Choose :  a,  Posbility: 0.8008
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a
+---------------------------
+Next Token :  list, Posbility: 0.9374
+Next Token :  number, Posbility: 0.0232
+Next Token : 
+, Posbility: 0.0051
+Next Token :  string, Posbility: 0.0046
+Next Token :  dictionary, Posbility: 0.0040
+Choose :  list,  Posbility: 0.9374
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list
+---------------------------
+Next Token :  of, Posbility: 0.9460
+Next Token :  and, Posbility: 0.0167
+Next Token : ,, Posbility: 0.0126
+Next Token :  containing, Posbility: 0.0036
+Next Token : 
+, Posbility: 0.0029
+Choose :  of,  Posbility: 0.9460
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of
+---------------------------
+Next Token :  numbers, Posbility: 0.8739
+Next Token :  integers, Posbility: 0.0490
+Next Token :  , Posbility: 0.0071
+Next Token :  n, Posbility: 0.0069
+Next Token :  number, Posbility: 0.0058
+Choose :  numbers,  Posbility: 0.8739
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers
+---------------------------
+Next Token :  and, Posbility: 0.8656
+Next Token : ,, Posbility: 0.0520
+Next Token : ., Posbility: 0.0197
+Next Token : 
+, Posbility: 0.0080
+Next Token :  as, Posbility: 0.0072
+Choose :  and,  Posbility: 0.8656
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and
+---------------------------
+Next Token :  the, Posbility: 0.6575
+Next Token :  a, Posbility: 0.1087
+Next Token :  an, Posbility: 0.0612
+Next Token :  sum, Posbility: 0.0327
+Next Token :  ', Posbility: 0.0220
+Choose :  the,  Posbility: 0.6575
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the
+---------------------------
+Next Token :  sum, Posbility: 0.9467
+Next Token :  number, Posbility: 0.0082
+Next Token :  , Posbility: 0.0047
+Next Token :  sums, Posbility: 0.0034
+Next Token : 
+, Posbility: 0.0025
+Choose :  sum,  Posbility: 0.9467
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the sum
+---------------------------
+Next Token : ,, Posbility: 0.2415
+Next Token : ., Posbility: 0.2362
+Next Token : .', Posbility: 0.1390
+Next Token : ,', Posbility: 0.1075
+Next Token :  and, Posbility: 0.0685
+Choose : ,,  Posbility: 0.2415
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the sum,
+---------------------------
+Next Token :  ', Posbility: 0.2910
+Next Token :  and, Posbility: 0.1322
+Next Token : '', Posbility: 0.1195
+Next Token :  the, Posbility: 0.0669
+Next Token :  where, Posbility: 0.0441
+Choose :  ',  Posbility: 0.2910
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the sum, '
+---------------------------
+Next Token : '', Posbility: 0.9949
+Next Token : '''', Posbility: 0.0010
+Next Token : sum, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0004
+Next Token : n, Posbility: 0.0002
+Choose : '',  Posbility: 0.9949
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the sum, '''
+---------------------------
+Next Token : 
+, Posbility: 0.9424
+Next Token : 
+
+, Posbility: 0.0270
+Next Token : def, Posbility: 0.0191
+Next Token :  , Posbility: 0.0051
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9424
+---------------------------
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the sum, '''
+
+---------------------------
+Next Token : def, Posbility: 0.9191
+Next Token : 
+, Posbility: 0.0610
+Next Token : #, Posbility: 0.0089
+Next Token : '', Posbility: 0.0037
+Next Token : from, Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 22.032836198806763
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to count the number of pairs whose sum is equal to ‘sum’. The funtion gets as input a list of numbers and the sum,'''
+def count_pairs(lst, sum):
+    count = 0
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] + lst[j] == sum:
+                count += 1
+    return count
+
+
+'''Write a python function to find the number of pairs whose sum is equal to �sum´. The function gets as input a list of numbers and the sum, '''
+

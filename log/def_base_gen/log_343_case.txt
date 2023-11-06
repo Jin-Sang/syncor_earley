@@ -1,0 +1,953 @@
+<<<<<<<<<<<< 343 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  reverse, Posbility: 0.6701
+Next Token :  Reverse, Posbility: 0.0927
+Next Token :  rev, Posbility: 0.0419
+Next Token :  array, Posbility: 0.0260
+Next Token :  revers, Posbility: 0.0142
+Choose :  reverse,  Posbility: 0.6701
+'''Write a python function to reverse an array upto a given position.'''
+def reverse
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse
+---------------------------
+Next Token : (, Posbility: 0.4027
+Next Token : Array, Posbility: 0.3012
+Next Token : _, Posbility: 0.1978
+Next Token : Ar, Posbility: 0.0219
+Next Token : List, Posbility: 0.0070
+Choose : (,  Posbility: 0.4027
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(
+---------------------------
+Next Token : arr, Posbility: 0.5711
+Next Token : array, Posbility: 0.1579
+Next Token : a, Posbility: 0.0502
+Next Token : n, Posbility: 0.0370
+Next Token : l, Posbility: 0.0206
+Choose : arr,  Posbility: 0.5711
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr
+---------------------------
+Next Token : ,, Posbility: 0.9381
+Next Token : ):, Posbility: 0.0466
+Next Token : :, Posbility: 0.0060
+Next Token : ,, Posbility: 0.0047
+Next Token : 1, Posbility: 0.0015
+Choose : ,,  Posbility: 0.9381
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr,
+---------------------------
+Next Token :  n, Posbility: 0.1873
+Next Token :  pos, Posbility: 0.1678
+Next Token :  start, Posbility: 0.1124
+Next Token : start, Posbility: 0.0736
+Next Token : n, Posbility: 0.0622
+Choose :  n,  Posbility: 0.1873
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n
+---------------------------
+Next Token : ):, Posbility: 0.5028
+Next Token : ,, Posbility: 0.4487
+Next Token : ,, Posbility: 0.0090
+Next Token : ), Posbility: 0.0075
+Next Token : :, Posbility: 0.0056
+Choose : ):,  Posbility: 0.5028
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+---------------------------
+Next Token : 
+, Posbility: 0.8594
+Next Token :  , Posbility: 0.0546
+Next Token : 
+
+, Posbility: 0.0376
+Next Token : , Posbility: 0.0353
+Next Token :   , Posbility: 0.0046
+Choose : 
+,  Posbility: 0.8594
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+
+---------------------------
+Next Token :     , Posbility: 0.8420
+Next Token : 	, Posbility: 0.0789
+Next Token :   , Posbility: 0.0547
+Next Token :         , Posbility: 0.0068
+Next Token :    , Posbility: 0.0051
+Choose :     ,  Posbility: 0.8420
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    
+---------------------------
+Next Token : for, Posbility: 0.1710
+Next Token : #, Posbility: 0.1389
+Next Token : if, Posbility: 0.0866
+Next Token : '', Posbility: 0.0769
+Next Token : i, Posbility: 0.0646
+Choose : for,  Posbility: 0.1710
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for
+---------------------------
+Next Token :  i, Posbility: 0.9383
+Next Token :  j, Posbility: 0.0101
+Next Token :  x, Posbility: 0.0094
+Next Token :  _, Posbility: 0.0060
+Next Token :  index, Posbility: 0.0054
+Choose :  i,  Posbility: 0.9383
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9980
+Next Token : ,, Posbility: 0.0011
+Next Token :   , Posbility: 0.0005
+Next Token :  from, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9980
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9796
+Next Token :  reversed, Posbility: 0.0174
+Next Token :  arr, Posbility: 0.0012
+Next Token :  x, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Choose :  range,  Posbility: 0.9796
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9723
+Next Token :  (, Posbility: 0.0143
+Next Token : ((, Posbility: 0.0097
+Next Token : (-, Posbility: 0.0032
+Next Token :  ((, Posbility: 0.0001
+Choose : (,  Posbility: 0.9723
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(
+---------------------------
+Next Token : n, Posbility: 0.7305
+Next Token : 0, Posbility: 0.2076
+Next Token : int, Posbility: 0.0364
+Next Token : len, Posbility: 0.0122
+Next Token : 1, Posbility: 0.0076
+Choose : n,  Posbility: 0.7305
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n
+---------------------------
+Next Token : //, Posbility: 0.2728
+Next Token : ,, Posbility: 0.1835
+Next Token : -, Posbility: 0.1610
+Next Token :  //, Posbility: 0.1358
+Next Token : ):, Posbility: 0.1250
+Choose : //,  Posbility: 0.2728
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//
+---------------------------
+Next Token : 2, Posbility: 0.9985
+Next Token :  2, Posbility: 0.0007
+Next Token : len, Posbility: 0.0002
+Next Token : 3, Posbility: 0.0002
+Next Token : 4, Posbility: 0.0001
+Choose : 2,  Posbility: 0.9985
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2
+---------------------------
+Next Token : ):, Posbility: 0.7054
+Next Token : ,, Posbility: 0.1234
+Next Token :  +, Posbility: 0.0444
+Next Token :  -, Posbility: 0.0419
+Next Token : +, Posbility: 0.0374
+Choose : ):,  Posbility: 0.7054
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+---------------------------
+Next Token : 
+, Posbility: 0.9664
+Next Token :  #, Posbility: 0.0108
+Next Token :  , Posbility: 0.0082
+Next Token :   , Posbility: 0.0043
+Next Token : 
+
+, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9664
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+
+---------------------------
+Next Token :         , Posbility: 0.9848
+Next Token :             , Posbility: 0.0055
+Next Token :       , Posbility: 0.0030
+Next Token :        , Posbility: 0.0020
+Next Token :          , Posbility: 0.0015
+Choose :         ,  Posbility: 0.9848
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        
+---------------------------
+Next Token : arr, Posbility: 0.6430
+Next Token : temp, Posbility: 0.1580
+Next Token : tmp, Posbility: 0.0393
+Next Token : #, Posbility: 0.0372
+Next Token : print, Posbility: 0.0231
+Choose : arr,  Posbility: 0.6430
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr
+---------------------------
+Next Token : [, Posbility: 0.9769
+Next Token : ., Posbility: 0.0145
+Next Token :  =, Posbility: 0.0064
+Next Token : =, Posbility: 0.0005
+Next Token : _, Posbility: 0.0004
+Choose : [,  Posbility: 0.9769
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[
+---------------------------
+Next Token : i, Posbility: 0.9848
+Next Token : n, Posbility: 0.0094
+Next Token : 0, Posbility: 0.0028
+Next Token : :, Posbility: 0.0007
+Next Token :  i, Posbility: 0.0003
+Choose : i,  Posbility: 0.9848
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i
+---------------------------
+Next Token : ],, Posbility: 0.9442
+Next Token : ], Posbility: 0.0361
+Next Token : +, Posbility: 0.0098
+Next Token :  +, Posbility: 0.0019
+Next Token : *, Posbility: 0.0015
+Choose : ],,  Posbility: 0.9442
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i],
+---------------------------
+Next Token :  arr, Posbility: 0.8299
+Next Token : arr, Posbility: 0.1694
+Next Token :   , Posbility: 0.0003
+Next Token :  ar, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Choose :  arr,  Posbility: 0.8299
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr
+---------------------------
+Next Token : [, Posbility: 0.9995
+Next Token :  [, Posbility: 0.0004
+Next Token :  =, Posbility: 0.0001
+Next Token : [], Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : [,  Posbility: 0.9995
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[
+---------------------------
+Next Token : n, Posbility: 0.9533
+Next Token : -, Posbility: 0.0241
+Next Token : len, Posbility: 0.0111
+Next Token : -(, Posbility: 0.0070
+Next Token : (, Posbility: 0.0013
+Choose : n,  Posbility: 0.9533
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n
+---------------------------
+Next Token : -, Posbility: 0.8620
+Next Token :  -, Posbility: 0.1313
+Next Token : -(, Posbility: 0.0047
+Next Token : //, Posbility: 0.0008
+Next Token : +, Posbility: 0.0005
+Choose : -,  Posbility: 0.8620
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-
+---------------------------
+Next Token : i, Posbility: 0.6405
+Next Token : 1, Posbility: 0.3546
+Next Token : 2, Posbility: 0.0024
+Next Token : n, Posbility: 0.0010
+Next Token :  i, Posbility: 0.0008
+Choose : i,  Posbility: 0.6405
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i
+---------------------------
+Next Token : -, Posbility: 0.9643
+Next Token :  -, Posbility: 0.0200
+Next Token : ], Posbility: 0.0155
+Next Token : -(, Posbility: 0.0001
+Next Token : ]=, Posbility: 0.0001
+Choose : -,  Posbility: 0.9643
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-
+---------------------------
+Next Token : 1, Posbility: 0.9991
+Next Token :  1, Posbility: 0.0006
+Next Token : 2, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0000
+Next Token : 3, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9991
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1
+---------------------------
+Next Token : ], Posbility: 0.9791
+Next Token : ]=, Posbility: 0.0201
+Next Token : ],, Posbility: 0.0003
+Next Token :  ], Posbility: 0.0002
+Next Token : +, Posbility: 0.0001
+Choose : ],  Posbility: 0.9791
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1]
+---------------------------
+Next Token :  =, Posbility: 0.9983
+Next Token :   , Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0004
+Next Token : 
+
+, Posbility: 0.0002
+Next Token : =', Posbility: 0.0000
+Choose :  =,  Posbility: 0.9983
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] =
+---------------------------
+Next Token :  arr, Posbility: 0.9966
+Next Token :   , Posbility: 0.0013
+Next Token : arr, Posbility: 0.0010
+Next Token :  (, Posbility: 0.0003
+Next Token :  \, Posbility: 0.0002
+Choose :  arr,  Posbility: 0.9966
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr
+---------------------------
+Next Token : [, Posbility: 0.9978
+Next Token :  [, Posbility: 0.0021
+Next Token : ., Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  [-, Posbility: 0.0000
+Choose : [,  Posbility: 0.9978
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[
+---------------------------
+Next Token : n, Posbility: 0.9983
+Next Token : i, Posbility: 0.0010
+Next Token : N, Posbility: 0.0002
+Next Token : -, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Choose : n,  Posbility: 0.9983
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n
+---------------------------
+Next Token : -, Posbility: 0.9913
+Next Token :  -, Posbility: 0.0086
+Next Token : -(, Posbility: 0.0001
+Next Token : +, Posbility: 0.0000
+Next Token : --, Posbility: 0.0000
+Choose : -,  Posbility: 0.9913
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-
+---------------------------
+Next Token : i, Posbility: 0.9992
+Next Token : 1, Posbility: 0.0006
+Next Token :  i, Posbility: 0.0002
+Next Token : 2, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : i,  Posbility: 0.9992
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i
+---------------------------
+Next Token : -, Posbility: 0.9998
+Next Token :  -, Posbility: 0.0001
+Next Token : +, Posbility: 0.0000
+Next Token : ],, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : -,  Posbility: 0.9998
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-
+---------------------------
+Next Token : 1, Posbility: 0.9999
+Next Token :  1, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : 1,  Posbility: 0.9999
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1
+---------------------------
+Next Token : ],, Posbility: 0.9970
+Next Token : ], Posbility: 0.0028
+Next Token :  ],, Posbility: 0.0001
+Next Token : ],[, Posbility: 0.0001
+Next Token : ]+, Posbility: 0.0000
+Choose : ],,  Posbility: 0.9970
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1],
+---------------------------
+Next Token :  arr, Posbility: 0.9832
+Next Token : arr, Posbility: 0.0156
+Next Token :   , Posbility: 0.0007
+Next Token :  ar, Posbility: 0.0001
+Next Token :  array, Posbility: 0.0001
+Choose :  arr,  Posbility: 0.9832
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token :  [, Posbility: 0.0003
+Next Token : ., Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[
+---------------------------
+Next Token : i, Posbility: 0.9998
+Next Token : 0, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Next Token : 2, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : i,  Posbility: 0.9998
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i
+---------------------------
+Next Token : ], Posbility: 0.9952
+Next Token : ];, Posbility: 0.0046
+Next Token : ]., Posbility: 0.0001
+Next Token : ]+, Posbility: 0.0000
+Next Token : ][, Posbility: 0.0000
+Choose : ],  Posbility: 0.9952
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+---------------------------
+Next Token : 
+, Posbility: 0.8793
+Next Token : 
+
+, Posbility: 0.1025
+Next Token :  , Posbility: 0.0064
+Next Token :  #, Posbility: 0.0044
+Next Token : <|endoftext|>, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.8793
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+
+---------------------------
+Next Token :     , Posbility: 0.6315
+Next Token : 
+, Posbility: 0.2366
+Next Token :         , Posbility: 0.0709
+Next Token : print, Posbility: 0.0087
+Next Token : #, Posbility: 0.0083
+Choose :     ,  Posbility: 0.6315
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    
+---------------------------
+Next Token : return, Posbility: 0.6213
+Next Token : print, Posbility: 0.2609
+Next Token : 
+, Posbility: 0.0599
+Next Token : for, Posbility: 0.0131
+Next Token : arr, Posbility: 0.0128
+Choose : return,  Posbility: 0.6213
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return
+---------------------------
+Next Token :  arr, Posbility: 0.9906
+Next Token : 
+, Posbility: 0.0027
+Next Token : (, Posbility: 0.0020
+Next Token : 
+
+, Posbility: 0.0008
+Next Token :   , Posbility: 0.0006
+Choose :  arr,  Posbility: 0.9906
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+---------------------------
+Next Token : 
+, Posbility: 0.7520
+Next Token : 
+
+, Posbility: 0.1918
+Next Token : <|endoftext|>, Posbility: 0.0261
+Next Token : [, Posbility: 0.0123
+Next Token :  , Posbility: 0.0089
+Choose : 
+,  Posbility: 0.7520
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+---------------------------
+Next Token : 
+, Posbility: 0.6404
+Next Token : print, Posbility: 0.0628
+Next Token : arr, Posbility: 0.0536
+Next Token : #, Posbility: 0.0464
+Next Token :     , Posbility: 0.0409
+Choose : 
+,  Posbility: 0.6404
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9464
+Next Token : 
+
+, Posbility: 0.0237
+Next Token : <|endoftext|>, Posbility: 0.0126
+Next Token :     , Posbility: 0.0125
+Next Token :         , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9464
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2835
+Next Token : #, Posbility: 0.1702
+Next Token : def, Posbility: 0.1554
+Next Token : arr, Posbility: 0.1254
+Next Token : if, Posbility: 0.0814
+Choose : '',  Posbility: 0.2835
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8376
+Next Token :  Write, Posbility: 0.0313
+Next Token : 
+, Posbility: 0.0091
+Next Token : write, Posbility: 0.0053
+Next Token : Create, Posbility: 0.0053
+Choose : Write,  Posbility: 0.8376
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9829
+Next Token :  an, Posbility: 0.0057
+Next Token :  your, Posbility: 0.0049
+Next Token :  the, Posbility: 0.0011
+Next Token :  python, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9829
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9057
+Next Token :  Python, Posbility: 0.0374
+Next Token :  function, Posbility: 0.0348
+Next Token :  program, Posbility: 0.0054
+Next Token :  recursive, Posbility: 0.0023
+Choose :  python,  Posbility: 0.9057
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9609
+Next Token :  program, Posbility: 0.0232
+Next Token :  script, Posbility: 0.0021
+Next Token :  fun, Posbility: 0.0019
+Next Token :  code, Posbility: 0.0014
+Choose :  function,  Posbility: 0.9609
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.9015
+Next Token :  that, Posbility: 0.0545
+Next Token :  which, Posbility: 0.0102
+Next Token :  for, Posbility: 0.0049
+Next Token :  is, Posbility: 0.0016
+Choose :  to,  Posbility: 0.9015
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.1346
+Next Token :  check, Posbility: 0.1008
+Next Token :  count, Posbility: 0.0736
+Next Token :  remove, Posbility: 0.0553
+Next Token :  print, Posbility: 0.0552
+Choose :  find,  Posbility: 0.1346
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.5685
+Next Token :  a, Posbility: 0.0576
+Next Token :  if, Posbility: 0.0328
+Next Token :  maximum, Posbility: 0.0276
+Next Token :  an, Posbility: 0.0274
+Choose :  the,  Posbility: 0.5685
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  maximum, Posbility: 0.0913
+Next Token :  sum, Posbility: 0.0827
+Next Token :  length, Posbility: 0.0682
+Next Token :  index, Posbility: 0.0655
+Next Token :  minimum, Posbility: 0.0533
+Choose :  maximum,  Posbility: 0.0913
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum
+---------------------------
+Next Token :  element, Posbility: 0.2449
+Next Token :  number, Posbility: 0.1465
+Next Token :  and, Posbility: 0.1161
+Next Token :  value, Posbility: 0.0831
+Next Token :  of, Posbility: 0.0761
+Choose :  element,  Posbility: 0.2449
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element
+---------------------------
+Next Token :  in, Posbility: 0.6067
+Next Token :  of, Posbility: 0.2197
+Next Token :  present, Posbility: 0.0310
+Next Token : .', Posbility: 0.0279
+Next Token :  from, Posbility: 0.0161
+Choose :  in,  Posbility: 0.6067
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in
+---------------------------
+Next Token :  an, Posbility: 0.7283
+Next Token :  a, Posbility: 0.1572
+Next Token :  the, Posbility: 0.0575
+Next Token :  array, Posbility: 0.0234
+Next Token :  given, Posbility: 0.0060
+Choose :  an,  Posbility: 0.7283
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in an
+---------------------------
+Next Token :  array, Posbility: 0.9223
+Next Token :  uns, Posbility: 0.0521
+Next Token :  ordered, Posbility: 0.0037
+Next Token :  Array, Posbility: 0.0026
+Next Token :  input, Posbility: 0.0019
+Choose :  array,  Posbility: 0.9223
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in an array
+---------------------------
+Next Token : .', Posbility: 0.6784
+Next Token : ., Posbility: 0.1319
+Next Token : '', Posbility: 0.0436
+Next Token :  of, Posbility: 0.0234
+Next Token :  upt, Posbility: 0.0125
+Choose : .',  Posbility: 0.6784
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in an array.'
+---------------------------
+Next Token : '', Posbility: 0.9992
+Next Token :  ', Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0003
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9992
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in an array.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9277
+Next Token : 
+
+, Posbility: 0.0588
+Next Token : def, Posbility: 0.0065
+Next Token :  , Posbility: 0.0028
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9277
+---------------------------
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in an array.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9391
+Next Token : 
+, Posbility: 0.0403
+Next Token : #, Posbility: 0.0096
+Next Token : import, Posbility: 0.0016
+Next Token : from, Posbility: 0.0016
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.077613830566406
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to reverse an array upto a given position.'''
+def reverse(arr, n):
+    for i in range(n//2):
+        arr[i], arr[n-i-1] = arr[n-i-1], arr[i]
+    return arr
+
+
+'''Write a python function to find the maximum element in an array.'''
+

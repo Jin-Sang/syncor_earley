@@ -1,0 +1,481 @@
+<<<<<<<<<<<< 351 problem >>>>>>>>>>>
+
+
+
+
+Next Token : ia, Posbility: 0.1572
+Next Token : iz, Posbility: 0.1001
+Next Token : ix, Posbility: 0.0782
+Next Token : xt, Posbility: 0.0526
+Next Token : 
+, Posbility: 0.0434
+Choose : ia,  Posbility: 0.1572
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia
+---------------------------
+Next Token : _, Posbility: 0.3906
+Next Token : (, Posbility: 0.1513
+Next Token : a, Posbility: 0.1143
+Next Token : 1, Posbility: 0.0462
+Next Token : ():, Posbility: 0.0339
+Choose : _,  Posbility: 0.3906
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_
+---------------------------
+Next Token : plus, Posbility: 0.1529
+Next Token : b, Posbility: 0.1274
+Next Token : add, Posbility: 0.0568
+Next Token : list, Posbility: 0.0328
+Next Token : sum, Posbility: 0.0230
+Choose : plus,  Posbility: 0.1529
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus
+---------------------------
+Next Token : _, Posbility: 0.9422
+Next Token : (, Posbility: 0.0302
+Next Token : b, Posbility: 0.0114
+Next Token : bi, Posbility: 0.0031
+Next Token : ib, Posbility: 0.0022
+Choose : _,  Posbility: 0.9422
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_
+---------------------------
+Next Token : ib, Posbility: 0.6368
+Next Token : bi, Posbility: 0.0898
+Next Token : b, Posbility: 0.0791
+Next Token : ab, Posbility: 0.0225
+Next Token : by, Posbility: 0.0193
+Choose : ib,  Posbility: 0.6368
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib
+---------------------------
+Next Token : (, Posbility: 0.9112
+Next Token : _, Posbility: 0.0495
+Next Token : ():, Posbility: 0.0159
+Next Token :  (, Posbility: 0.0064
+Next Token : s, Posbility: 0.0059
+Choose : (,  Posbility: 0.9112
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(
+---------------------------
+Next Token : a, Posbility: 0.8013
+Next Token : list, Posbility: 0.0543
+Next Token : l, Posbility: 0.0336
+Next Token : A, Posbility: 0.0113
+Next Token : alist, Posbility: 0.0090
+Choose : a,  Posbility: 0.8013
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a
+---------------------------
+Next Token : _, Posbility: 0.7350
+Next Token : ,, Posbility: 0.2291
+Next Token : 1, Posbility: 0.0218
+Next Token : :, Posbility: 0.0055
+Next Token : =[, Posbility: 0.0026
+Choose : _,  Posbility: 0.7350
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_
+---------------------------
+Next Token : 1, Posbility: 0.7707
+Next Token : list, Posbility: 0.1326
+Next Token : n, Posbility: 0.0234
+Next Token : i, Posbility: 0.0173
+Next Token : l, Posbility: 0.0171
+Choose : 1,  Posbility: 0.7707
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1
+---------------------------
+Next Token : ,, Posbility: 0.9657
+Next Token : =[, Posbility: 0.0069
+Next Token : :, Posbility: 0.0069
+Next Token : =, Posbility: 0.0067
+Next Token : ,, Posbility: 0.0044
+Choose : ,,  Posbility: 0.9657
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,
+---------------------------
+Next Token : b, Posbility: 0.4281
+Next Token :  b, Posbility: 0.4071
+Next Token :  a, Posbility: 0.1036
+Next Token : a, Posbility: 0.0553
+Next Token :  , Posbility: 0.0011
+Choose : b,  Posbility: 0.4281
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b
+---------------------------
+Next Token : _, Posbility: 0.9980
+Next Token : ,, Posbility: 0.0007
+Next Token : ):, Posbility: 0.0006
+Next Token : 1, Posbility: 0.0005
+Next Token : =, Posbility: 0.0000
+Choose : _,  Posbility: 0.9980
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_
+---------------------------
+Next Token : 1, Posbility: 0.9973
+Next Token : 2, Posbility: 0.0012
+Next Token : n, Posbility: 0.0005
+Next Token : i, Posbility: 0.0003
+Next Token : list, Posbility: 0.0003
+Choose : 1,  Posbility: 0.9973
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1
+---------------------------
+Next Token : ,, Posbility: 0.9825
+Next Token : ):, Posbility: 0.0137
+Next Token : ,, Posbility: 0.0011
+Next Token : =, Posbility: 0.0008
+Next Token : =[, Posbility: 0.0006
+Choose : ,,  Posbility: 0.9825
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,
+---------------------------
+Next Token : a, Posbility: 0.9411
+Next Token :  a, Posbility: 0.0202
+Next Token : n, Posbility: 0.0094
+Next Token : c, Posbility: 0.0080
+Next Token : b, Posbility: 0.0052
+Choose : a,  Posbility: 0.9411
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a
+---------------------------
+Next Token : _, Posbility: 0.9979
+Next Token : ,, Posbility: 0.0015
+Next Token : 2, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0002
+Next Token : =, Posbility: 0.0001
+Choose : _,  Posbility: 0.9979
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_
+---------------------------
+Next Token : n, Posbility: 0.6255
+Next Token : 2, Posbility: 0.3573
+Next Token : 1, Posbility: 0.0027
+Next Token : m, Posbility: 0.0026
+Next Token : N, Posbility: 0.0025
+Choose : n,  Posbility: 0.6255
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n
+---------------------------
+Next Token : ,, Posbility: 0.9803
+Next Token : =, Posbility: 0.0138
+Next Token : ):, Posbility: 0.0014
+Next Token : _, Posbility: 0.0010
+Next Token : 1, Posbility: 0.0008
+Choose : ,,  Posbility: 0.9803
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,
+---------------------------
+Next Token : b, Posbility: 0.9911
+Next Token :  b, Posbility: 0.0064
+Next Token : n, Posbility: 0.0004
+Next Token : a, Posbility: 0.0004
+Next Token : i, Posbility: 0.0002
+Choose : b,  Posbility: 0.9911
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b
+---------------------------
+Next Token : _, Posbility: 0.9998
+Next Token : ):, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Next Token : _-, Posbility: 0.0000
+Choose : _,  Posbility: 0.9998
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_
+---------------------------
+Next Token : n, Posbility: 0.9987
+Next Token : 1, Posbility: 0.0005
+Next Token : m, Posbility: 0.0002
+Next Token : N, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Choose : n,  Posbility: 0.9987
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n
+---------------------------
+Next Token : ):, Posbility: 0.9450
+Next Token : ,, Posbility: 0.0509
+Next Token : ), Posbility: 0.0027
+Next Token : =, Posbility: 0.0007
+Next Token :  ):, Posbility: 0.0003
+Choose : ):,  Posbility: 0.9450
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+---------------------------
+Next Token : 
+, Posbility: 0.8876
+Next Token : , Posbility: 0.0437
+Next Token : 
+
+, Posbility: 0.0281
+Next Token :  , Posbility: 0.0181
+Next Token :  #, Posbility: 0.0092
+Choose : 
+,  Posbility: 0.8876
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+
+---------------------------
+Next Token :     , Posbility: 0.8785
+Next Token :   , Posbility: 0.0550
+Next Token : 	, Posbility: 0.0420
+Next Token :    , Posbility: 0.0077
+Next Token :         , Posbility: 0.0061
+Choose :     ,  Posbility: 0.8785
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    
+---------------------------
+Next Token : return, Posbility: 0.2281
+Next Token : '', Posbility: 0.1909
+Next Token : a, Posbility: 0.0818
+Next Token : ia, Posbility: 0.0641
+Next Token : if, Posbility: 0.0449
+Choose : return,  Posbility: 0.2281
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return
+---------------------------
+Next Token :  [, Posbility: 0.5217
+Next Token :  a, Posbility: 0.2769
+Next Token :  (, Posbility: 0.0499
+Next Token : (, Posbility: 0.0261
+Next Token : [, Posbility: 0.0213
+Choose :  [,  Posbility: 0.5217
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [
+---------------------------
+Next Token : a, Posbility: 0.8469
+Next Token : i, Posbility: 0.0461
+Next Token : x, Posbility: 0.0358
+Next Token :  a, Posbility: 0.0125
+Next Token : int, Posbility: 0.0094
+Choose : a,  Posbility: 0.8469
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a
+---------------------------
+Next Token : _, Posbility: 0.9725
+Next Token : +, Posbility: 0.0149
+Next Token :  +, Posbility: 0.0083
+Next Token : 1, Posbility: 0.0016
+Next Token : [, Posbility: 0.0008
+Choose : _,  Posbility: 0.9725
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_
+---------------------------
+Next Token : 1, Posbility: 0.9859
+Next Token : n, Posbility: 0.0069
+Next Token : i, Posbility: 0.0045
+Next Token : 2, Posbility: 0.0004
+Next Token : sum, Posbility: 0.0003
+Choose : 1,  Posbility: 0.9859
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1
+---------------------------
+Next Token : +, Posbility: 0.7080
+Next Token : [, Posbility: 0.1674
+Next Token :  +, Posbility: 0.1085
+Next Token : +(, Posbility: 0.0058
+Next Token : ,, Posbility: 0.0041
+Choose : +,  Posbility: 0.7080
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+
+---------------------------
+Next Token : b, Posbility: 0.9717
+Next Token : a, Posbility: 0.0217
+Next Token : i, Posbility: 0.0019
+Next Token :  b, Posbility: 0.0011
+Next Token : x, Posbility: 0.0011
+Choose : b,  Posbility: 0.9717
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b
+---------------------------
+Next Token : _, Posbility: 0.9993
+Next Token :  for, Posbility: 0.0005
+Next Token : ,, Posbility: 0.0001
+Next Token : 1, Posbility: 0.0000
+Next Token : *, Posbility: 0.0000
+Choose : _,  Posbility: 0.9993
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_
+---------------------------
+Next Token : 1, Posbility: 0.9939
+Next Token : i, Posbility: 0.0029
+Next Token : n, Posbility: 0.0027
+Next Token : 2, Posbility: 0.0002
+Next Token : x, Posbility: 0.0001
+Choose : 1,  Posbility: 0.9939
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1
+---------------------------
+Next Token : ,, Posbility: 0.7321
+Next Token :  for, Posbility: 0.1217
+Next Token : ,..., Posbility: 0.0455
+Next Token : +, Posbility: 0.0373
+Next Token : [, Posbility: 0.0160
+Choose : ,,  Posbility: 0.7321
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,
+---------------------------
+Next Token : a, Posbility: 0.8518
+Next Token :  a, Posbility: 0.1335
+Next Token : b, Posbility: 0.0051
+Next Token : (, Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0009
+Choose : a,  Posbility: 0.8518
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token : +, Posbility: 0.0001
+Next Token : _-, Posbility: 0.0001
+Next Token : -, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_
+---------------------------
+Next Token : n, Posbility: 0.7512
+Next Token : 1, Posbility: 0.2466
+Next Token : 2, Posbility: 0.0013
+Next Token : 0, Posbility: 0.0001
+Next Token : N, Posbility: 0.0001
+Choose : n,  Posbility: 0.7512
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n
+---------------------------
+Next Token : +, Posbility: 0.9246
+Next Token : ,, Posbility: 0.0532
+Next Token : ]+, Posbility: 0.0053
+Next Token : ], Posbility: 0.0044
+Next Token : -, Posbility: 0.0037
+Choose : +,  Posbility: 0.9246
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n+
+---------------------------
+Next Token : b, Posbility: 0.9994
+Next Token : a, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0001
+Next Token :  b, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0000
+Choose : b,  Posbility: 0.9994
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n+b
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : _-, Posbility: 0.0000
+Next Token : _>, Posbility: 0.0000
+Next Token : ], Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n+b_
+---------------------------
+Next Token : n, Posbility: 0.9969
+Next Token : 1, Posbility: 0.0030
+Next Token : 2, Posbility: 0.0000
+Next Token : N, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Choose : n,  Posbility: 0.9969
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n+b_n
+---------------------------
+Next Token : ], Posbility: 0.9823
+Next Token : ,, Posbility: 0.0083
+Next Token : ]+, Posbility: 0.0015
+Next Token : ];, Posbility: 0.0015
+Next Token : ]=, Posbility: 0.0012
+Choose : ],  Posbility: 0.9823
+---------------------------
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n+b_n]
+---------------------------
+Next Token : 
+, Posbility: 0.7399
+Next Token : 
+
+, Posbility: 0.1469
+Next Token : <|endoftext|>, Posbility: 0.0976
+Next Token :  , Posbility: 0.0064
+Next Token :     , Posbility: 0.0016
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 6.746936321258545
+
+
+
+----------No Syntax Error--------
+
+'''Write a function takes as input two lists [a_1,...,a_n], [b_1,...,b_n] and returns [a_1+b_1,...,a_n+b_n].'''
+def ia_plus_ib(a_1,b_1,a_n,b_n):
+    return [a_1+b_1,a_n+b_n]
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

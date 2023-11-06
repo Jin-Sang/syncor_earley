@@ -1,0 +1,3774 @@
+<<<<<<<<<<<< 113 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1776
+Next Token : ive, Posbility: 0.1087
+Next Token : ix, Posbility: 0.0771
+Next Token : ia, Posbility: 0.0572
+Next Token : ____, Posbility: 0.0480
+Choose : 
+,  Posbility: 0.1776
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+
+---------------------------
+Next Token : '', Posbility: 0.1321
+Next Token : import, Posbility: 0.1217
+Next Token : #, Posbility: 0.1084
+Next Token : def, Posbility: 0.0781
+Next Token : volume, Posbility: 0.0473
+Choose : '',  Posbility: 0.1321
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+''
+---------------------------
+Next Token : ', Posbility: 0.9930
+Next Token : '., Posbility: 0.0019
+Next Token : '/, Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0006
+Next Token : (, Posbility: 0.0004
+Choose : ',  Posbility: 0.9930
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+---------------------------
+Next Token : 
+, Posbility: 0.1556
+Next Token : Write, Posbility: 0.1021
+Next Token : This, Posbility: 0.0300
+Next Token : def, Posbility: 0.0251
+Next Token : cube, Posbility: 0.0224
+Choose : 
+,  Posbility: 0.1556
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+
+---------------------------
+Next Token : def, Posbility: 0.1327
+Next Token : 
+, Posbility: 0.0800
+Next Token :     , Posbility: 0.0714
+Next Token : '', Posbility: 0.0348
+Next Token : cube, Posbility: 0.0294
+Choose : def,  Posbility: 0.1327
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def
+---------------------------
+Next Token :  cube, Posbility: 0.3158
+Next Token :  volume, Posbility: 0.1767
+Next Token :  vol, Posbility: 0.0609
+Next Token :  main, Posbility: 0.0343
+Next Token :  get, Posbility: 0.0263
+Choose :  cube,  Posbility: 0.3158
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube
+---------------------------
+Next Token : (, Posbility: 0.3998
+Next Token : _, Posbility: 0.3827
+Next Token : Volume, Posbility: 0.0514
+Next Token : Side, Posbility: 0.0347
+Next Token : ():, Posbility: 0.0255
+Choose : (,  Posbility: 0.3998
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(
+---------------------------
+Next Token : side, Posbility: 0.7397
+Next Token : length, Posbility: 0.0544
+Next Token : l, Posbility: 0.0357
+Next Token : s, Posbility: 0.0318
+Next Token : a, Posbility: 0.0314
+Choose : side,  Posbility: 0.7397
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side
+---------------------------
+Next Token : ):, Posbility: 0.4961
+Next Token : _, Posbility: 0.2741
+Next Token : Length, Posbility: 0.1178
+Next Token : ,, Posbility: 0.0274
+Next Token : 1, Posbility: 0.0267
+Choose : ):,  Posbility: 0.4961
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+---------------------------
+Next Token : 
+, Posbility: 0.9151
+Next Token : 
+
+, Posbility: 0.0318
+Next Token :  , Posbility: 0.0230
+Next Token :  #, Posbility: 0.0066
+Next Token :   , Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9151
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+
+---------------------------
+Next Token :     , Posbility: 0.8093
+Next Token : 	, Posbility: 0.0507
+Next Token :   , Posbility: 0.0422
+Next Token :    , Posbility: 0.0196
+Next Token : '', Posbility: 0.0195
+Choose :     ,  Posbility: 0.8093
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    
+---------------------------
+Next Token : if, Posbility: 0.1759
+Next Token : return, Posbility: 0.1639
+Next Token : '', Posbility: 0.1423
+Next Token : volume, Posbility: 0.1172
+Next Token : print, Posbility: 0.1016
+Choose : if,  Posbility: 0.1759
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if
+---------------------------
+Next Token :  side, Posbility: 0.9011
+Next Token : (, Posbility: 0.0325
+Next Token :  (, Posbility: 0.0289
+Next Token :  len, Posbility: 0.0052
+Next Token :  0, Posbility: 0.0041
+Choose :  side,  Posbility: 0.9011
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side
+---------------------------
+Next Token :  ==, Posbility: 0.2713
+Next Token :  <, Posbility: 0.1796
+Next Token :  >, Posbility: 0.1634
+Next Token : ==, Posbility: 0.0797
+Next Token : <, Posbility: 0.0790
+Choose :  ==,  Posbility: 0.2713
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side ==
+---------------------------
+Next Token :  0, Posbility: 0.3389
+Next Token :  1, Posbility: 0.2914
+Next Token :  ', Posbility: 0.1164
+Next Token :  3, Posbility: 0.0554
+Next Token :  ", Posbility: 0.0497
+Choose :  0,  Posbility: 0.3389
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0
+---------------------------
+Next Token : :, Posbility: 0.8857
+Next Token :  or, Posbility: 0.0755
+Next Token :  :, Posbility: 0.0207
+Next Token : ., Posbility: 0.0112
+Next Token :  and, Posbility: 0.0036
+Choose : :,  Posbility: 0.8857
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9544
+Next Token :  return, Posbility: 0.0168
+Next Token :  , Posbility: 0.0111
+Next Token :  #, Posbility: 0.0051
+Next Token :   , Posbility: 0.0031
+Choose : 
+,  Posbility: 0.9544
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9778
+Next Token :       , Posbility: 0.0048
+Next Token :             , Posbility: 0.0046
+Next Token :        , Posbility: 0.0044
+Next Token :     , Posbility: 0.0037
+Choose :         ,  Posbility: 0.9778
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.6859
+Next Token : print, Posbility: 0.2092
+Next Token : volume, Posbility: 0.0342
+Next Token : raise, Posbility: 0.0091
+Next Token : side, Posbility: 0.0085
+Choose : return,  Posbility: 0.6859
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return
+---------------------------
+Next Token :  0, Posbility: 0.5687
+Next Token :  1, Posbility: 0.1522
+Next Token :  ', Posbility: 0.0389
+Next Token :  3, Posbility: 0.0278
+Next Token :  side, Posbility: 0.0267
+Choose :  0,  Posbility: 0.5687
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+---------------------------
+Next Token : 
+, Posbility: 0.9024
+Next Token : 
+
+, Posbility: 0.0363
+Next Token : ., Posbility: 0.0340
+Next Token :  , Posbility: 0.0075
+Next Token : ;, Posbility: 0.0070
+Choose : 
+,  Posbility: 0.9024
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+
+---------------------------
+Next Token :     , Posbility: 0.9878
+Next Token :         , Posbility: 0.0069
+Next Token : 
+, Posbility: 0.0017
+Next Token : '', Posbility: 0.0007
+Next Token : #, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9878
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    
+---------------------------
+Next Token : el, Posbility: 0.4905
+Next Token : else, Posbility: 0.2656
+Next Token : if, Posbility: 0.1423
+Next Token : return, Posbility: 0.0602
+Next Token : 
+, Posbility: 0.0078
+Choose : el,  Posbility: 0.4905
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    el
+---------------------------
+Next Token : if, Posbility: 0.9999
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : ve, Posbility: 0.0000
+Choose : if,  Posbility: 0.9999
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9834
+Next Token :  (, Posbility: 0.0045
+Next Token :  0, Posbility: 0.0019
+Next Token :   , Posbility: 0.0017
+Next Token :  1, Posbility: 0.0012
+Choose :  side,  Posbility: 0.9834
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.8245
+Next Token :  <, Posbility: 0.0550
+Next Token :  >, Posbility: 0.0547
+Next Token :  >=, Posbility: 0.0143
+Next Token : ==, Posbility: 0.0114
+Choose :  ==,  Posbility: 0.8245
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side ==
+---------------------------
+Next Token :  1, Posbility: 0.9409
+Next Token : 1, Posbility: 0.0205
+Next Token :  2, Posbility: 0.0185
+Next Token :  3, Posbility: 0.0058
+Next Token :  0, Posbility: 0.0029
+Choose :  1,  Posbility: 0.9409
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1
+---------------------------
+Next Token : :, Posbility: 0.9747
+Next Token :  or, Posbility: 0.0182
+Next Token :  :, Posbility: 0.0038
+Next Token :  and, Posbility: 0.0017
+Next Token : ., Posbility: 0.0009
+Choose : :,  Posbility: 0.9747
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9916
+Next Token :  , Posbility: 0.0049
+Next Token :  return, Posbility: 0.0009
+Next Token :     , Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9916
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+
+---------------------------
+Next Token :         , Posbility: 0.9939
+Next Token :     , Posbility: 0.0014
+Next Token :             , Posbility: 0.0013
+Next Token :        , Posbility: 0.0013
+Next Token :          , Posbility: 0.0011
+Choose :         ,  Posbility: 0.9939
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        
+---------------------------
+Next Token : return, Posbility: 0.9875
+Next Token : print, Posbility: 0.0049
+Next Token : if, Posbility: 0.0031
+Next Token : #, Posbility: 0.0006
+Next Token : side, Posbility: 0.0005
+Choose : return,  Posbility: 0.9875
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return
+---------------------------
+Next Token :  1, Posbility: 0.6498
+Next Token :  3, Posbility: 0.1266
+Next Token :  4, Posbility: 0.0668
+Next Token :  side, Posbility: 0.0337
+Next Token :  6, Posbility: 0.0206
+Choose :  1,  Posbility: 0.6498
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+---------------------------
+Next Token : 
+, Posbility: 0.9385
+Next Token : /, Posbility: 0.0152
+Next Token : 
+
+, Posbility: 0.0101
+Next Token : ., Posbility: 0.0093
+Next Token :  , Posbility: 0.0071
+Choose : 
+,  Posbility: 0.9385
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+
+---------------------------
+Next Token :     , Posbility: 0.9889
+Next Token : '', Posbility: 0.0037
+Next Token : 
+, Posbility: 0.0032
+Next Token :         , Posbility: 0.0021
+Next Token : def, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9889
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    
+---------------------------
+Next Token : el, Posbility: 0.5719
+Next Token : else, Posbility: 0.3893
+Next Token : return, Posbility: 0.0160
+Next Token : if, Posbility: 0.0056
+Next Token : 
+, Posbility: 0.0041
+Choose : el,  Posbility: 0.5719
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9937
+Next Token :  (, Posbility: 0.0013
+Next Token :   , Posbility: 0.0009
+Next Token :  1, Posbility: 0.0009
+Next Token :  0, Posbility: 0.0007
+Choose :  side,  Posbility: 0.9937
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9721
+Next Token :  >, Posbility: 0.0111
+Next Token :  >=, Posbility: 0.0053
+Next Token :  <, Posbility: 0.0030
+Next Token : ==, Posbility: 0.0021
+Choose :  ==,  Posbility: 0.9721
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side ==
+---------------------------
+Next Token :  2, Posbility: 0.9371
+Next Token :  -, Posbility: 0.0259
+Next Token : 2, Posbility: 0.0147
+Next Token :  3, Posbility: 0.0091
+Next Token :  4, Posbility: 0.0048
+Choose :  2,  Posbility: 0.9371
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2
+---------------------------
+Next Token : :, Posbility: 0.9962
+Next Token :  or, Posbility: 0.0021
+Next Token :  :, Posbility: 0.0012
+Next Token :  and, Posbility: 0.0002
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9962
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+---------------------------
+Next Token : 
+, Posbility: 0.9957
+Next Token :  , Posbility: 0.0029
+Next Token :     , Posbility: 0.0003
+Next Token :  #, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9957
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+
+---------------------------
+Next Token :         , Posbility: 0.9965
+Next Token :          , Posbility: 0.0009
+Next Token :     , Posbility: 0.0009
+Next Token :             , Posbility: 0.0006
+Next Token :        , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9965
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        
+---------------------------
+Next Token : return, Posbility: 0.9961
+Next Token : print, Posbility: 0.0011
+Next Token : if, Posbility: 0.0009
+Next Token : #, Posbility: 0.0003
+Next Token : side, Posbility: 0.0002
+Choose : return,  Posbility: 0.9961
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return
+---------------------------
+Next Token :  4, Posbility: 0.5572
+Next Token :  3, Posbility: 0.1312
+Next Token :  6, Posbility: 0.0970
+Next Token :  2, Posbility: 0.0574
+Next Token :  5, Posbility: 0.0309
+Choose :  4,  Posbility: 0.5572
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+---------------------------
+Next Token : 
+, Posbility: 0.9652
+Next Token : 
+
+, Posbility: 0.0150
+Next Token :  , Posbility: 0.0072
+Next Token :  *, Posbility: 0.0016
+Next Token : *, Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9652
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+
+---------------------------
+Next Token :     , Posbility: 0.9272
+Next Token : '', Posbility: 0.0352
+Next Token : 
+, Posbility: 0.0233
+Next Token : def, Posbility: 0.0037
+Next Token :         , Posbility: 0.0021
+Choose :     ,  Posbility: 0.9272
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    
+---------------------------
+Next Token : el, Posbility: 0.7045
+Next Token : else, Posbility: 0.2693
+Next Token : return, Posbility: 0.0116
+Next Token : 
+, Posbility: 0.0063
+Next Token : if, Posbility: 0.0020
+Choose : el,  Posbility: 0.7045
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9964
+Next Token :  (, Posbility: 0.0006
+Next Token :   , Posbility: 0.0006
+Next Token :  1, Posbility: 0.0004
+Next Token :  2, Posbility: 0.0003
+Choose :  side,  Posbility: 0.9964
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9843
+Next Token :  >, Posbility: 0.0054
+Next Token :  >=, Posbility: 0.0047
+Next Token : ==, Posbility: 0.0011
+Next Token :  in, Posbility: 0.0011
+Choose :  ==,  Posbility: 0.9843
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side ==
+---------------------------
+Next Token :  3, Posbility: 0.9817
+Next Token : 3, Posbility: 0.0094
+Next Token :  4, Posbility: 0.0052
+Next Token :  -, Posbility: 0.0011
+Next Token :  0, Posbility: 0.0006
+Choose :  3,  Posbility: 0.9817
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3
+---------------------------
+Next Token : :, Posbility: 0.9976
+Next Token :  or, Posbility: 0.0010
+Next Token :  :, Posbility: 0.0010
+Next Token :  and, Posbility: 0.0003
+Next Token : ., Posbility: 0.0001
+Choose : :,  Posbility: 0.9976
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+---------------------------
+Next Token : 
+, Posbility: 0.9972
+Next Token :  , Posbility: 0.0018
+Next Token :     , Posbility: 0.0002
+Next Token :  #, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9972
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+
+---------------------------
+Next Token :         , Posbility: 0.9975
+Next Token :          , Posbility: 0.0007
+Next Token :     , Posbility: 0.0006
+Next Token :        , Posbility: 0.0005
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9975
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        
+---------------------------
+Next Token : return, Posbility: 0.9985
+Next Token : if, Posbility: 0.0005
+Next Token : print, Posbility: 0.0002
+Next Token : #, Posbility: 0.0001
+Next Token : side, Posbility: 0.0001
+Choose : return,  Posbility: 0.9985
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return
+---------------------------
+Next Token :  9, Posbility: 0.5899
+Next Token :  8, Posbility: 0.1652
+Next Token :  10, Posbility: 0.0722
+Next Token :  6, Posbility: 0.0505
+Next Token :  7, Posbility: 0.0384
+Choose :  9,  Posbility: 0.5899
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+---------------------------
+Next Token : 
+, Posbility: 0.9753
+Next Token : 
+
+, Posbility: 0.0171
+Next Token :  , Posbility: 0.0036
+Next Token :     , Posbility: 0.0008
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9753
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+
+---------------------------
+Next Token :     , Posbility: 0.7618
+Next Token : '', Posbility: 0.1222
+Next Token : 
+, Posbility: 0.0805
+Next Token : def, Posbility: 0.0071
+Next Token :         , Posbility: 0.0031
+Choose :     ,  Posbility: 0.7618
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    
+---------------------------
+Next Token : el, Posbility: 0.6399
+Next Token : else, Posbility: 0.3093
+Next Token : 
+, Posbility: 0.0226
+Next Token : return, Posbility: 0.0171
+Next Token : if, Posbility: 0.0020
+Choose : el,  Posbility: 0.6399
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : else, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9970
+Next Token :  (, Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Next Token :  1, Posbility: 0.0003
+Next Token :  0, Posbility: 0.0002
+Choose :  side,  Posbility: 0.9970
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9857
+Next Token :  >, Posbility: 0.0055
+Next Token :  >=, Posbility: 0.0040
+Next Token : ==, Posbility: 0.0010
+Next Token :  %, Posbility: 0.0009
+Choose :  ==,  Posbility: 0.9857
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side ==
+---------------------------
+Next Token :  4, Posbility: 0.9904
+Next Token : 4, Posbility: 0.0031
+Next Token :  -, Posbility: 0.0011
+Next Token :  6, Posbility: 0.0011
+Next Token :  5, Posbility: 0.0008
+Choose :  4,  Posbility: 0.9904
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4
+---------------------------
+Next Token : :, Posbility: 0.9986
+Next Token :  or, Posbility: 0.0007
+Next Token :  :, Posbility: 0.0005
+Next Token :  and, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Choose : :,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+---------------------------
+Next Token : 
+, Posbility: 0.9970
+Next Token :  , Posbility: 0.0018
+Next Token :     , Posbility: 0.0003
+Next Token :  #, Posbility: 0.0002
+Next Token :    , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9970
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+
+---------------------------
+Next Token :         , Posbility: 0.9974
+Next Token :          , Posbility: 0.0007
+Next Token :        , Posbility: 0.0005
+Next Token :     , Posbility: 0.0005
+Next Token :             , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9974
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        
+---------------------------
+Next Token : return, Posbility: 0.9986
+Next Token : if, Posbility: 0.0003
+Next Token : print, Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Next Token : side, Posbility: 0.0001
+Choose : return,  Posbility: 0.9986
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return
+---------------------------
+Next Token :  16, Posbility: 0.9754
+Next Token :  64, Posbility: 0.0110
+Next Token :  32, Posbility: 0.0023
+Next Token :  27, Posbility: 0.0014
+Next Token :  12, Posbility: 0.0010
+Choose :  16,  Posbility: 0.9754
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+---------------------------
+Next Token : 
+, Posbility: 0.9599
+Next Token : 
+
+, Posbility: 0.0230
+Next Token :  , Posbility: 0.0077
+Next Token :     , Posbility: 0.0026
+Next Token :         , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9599
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+
+---------------------------
+Next Token :     , Posbility: 0.8317
+Next Token : '', Posbility: 0.0890
+Next Token : 
+, Posbility: 0.0576
+Next Token : def, Posbility: 0.0067
+Next Token :         , Posbility: 0.0022
+Choose :     ,  Posbility: 0.8317
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    
+---------------------------
+Next Token : el, Posbility: 0.7900
+Next Token : else, Posbility: 0.1733
+Next Token : 
+, Posbility: 0.0181
+Next Token : return, Posbility: 0.0099
+Next Token : '', Posbility: 0.0024
+Choose : el,  Posbility: 0.7900
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9985
+Next Token :   , Posbility: 0.0003
+Next Token :  (, Posbility: 0.0002
+Next Token :  sides, Posbility: 0.0001
+Next Token :  size, Posbility: 0.0001
+Choose :  side,  Posbility: 0.9985
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9947
+Next Token :  >, Posbility: 0.0017
+Next Token :  >=, Posbility: 0.0013
+Next Token : ==, Posbility: 0.0006
+Next Token :  <, Posbility: 0.0004
+Choose :  ==,  Posbility: 0.9947
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side ==
+---------------------------
+Next Token :  5, Posbility: 0.9884
+Next Token : 5, Posbility: 0.0054
+Next Token :  6, Posbility: 0.0020
+Next Token :  9, Posbility: 0.0009
+Next Token :  8, Posbility: 0.0006
+Choose :  5,  Posbility: 0.9884
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5
+---------------------------
+Next Token : :, Posbility: 0.9991
+Next Token :  or, Posbility: 0.0006
+Next Token :  :, Posbility: 0.0002
+Next Token : :#, Posbility: 0.0000
+Next Token :  and, Posbility: 0.0000
+Choose : :,  Posbility: 0.9991
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+---------------------------
+Next Token : 
+, Posbility: 0.9980
+Next Token :  , Posbility: 0.0012
+Next Token :     , Posbility: 0.0002
+Next Token :  #, Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+
+---------------------------
+Next Token :         , Posbility: 0.9980
+Next Token :          , Posbility: 0.0006
+Next Token :        , Posbility: 0.0004
+Next Token :     , Posbility: 0.0004
+Next Token :             , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        
+---------------------------
+Next Token : return, Posbility: 0.9992
+Next Token : if, Posbility: 0.0002
+Next Token : print, Posbility: 0.0001
+Next Token : side, Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Choose : return,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return
+---------------------------
+Next Token :  25, Posbility: 0.9889
+Next Token :  20, Posbility: 0.0031
+Next Token :  21, Posbility: 0.0016
+Next Token :  24, Posbility: 0.0015
+Next Token :  27, Posbility: 0.0008
+Choose :  25,  Posbility: 0.9889
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+---------------------------
+Next Token : 
+, Posbility: 0.9803
+Next Token : 
+
+, Posbility: 0.0124
+Next Token :  , Posbility: 0.0023
+Next Token :     , Posbility: 0.0013
+Next Token : '', Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9803
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+
+---------------------------
+Next Token :     , Posbility: 0.8314
+Next Token : '', Posbility: 0.0916
+Next Token : 
+, Posbility: 0.0523
+Next Token : def, Posbility: 0.0056
+Next Token :         , Posbility: 0.0030
+Choose :     ,  Posbility: 0.8314
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    
+---------------------------
+Next Token : el, Posbility: 0.8518
+Next Token : else, Posbility: 0.1202
+Next Token : 
+, Posbility: 0.0156
+Next Token : return, Posbility: 0.0070
+Next Token : '', Posbility: 0.0012
+Choose : el,  Posbility: 0.8518
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9989
+Next Token :   , Posbility: 0.0002
+Next Token :  (, Posbility: 0.0002
+Next Token :  size, Posbility: 0.0001
+Next Token :  sides, Posbility: 0.0001
+Choose :  side,  Posbility: 0.9989
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9960
+Next Token :  >, Posbility: 0.0013
+Next Token :  >=, Posbility: 0.0011
+Next Token : ==, Posbility: 0.0005
+Next Token :  <, Posbility: 0.0002
+Choose :  ==,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side ==
+---------------------------
+Next Token :  6, Posbility: 0.9947
+Next Token : 6, Posbility: 0.0015
+Next Token :  7, Posbility: 0.0006
+Next Token :  8, Posbility: 0.0006
+Next Token :  10, Posbility: 0.0005
+Choose :  6,  Posbility: 0.9947
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6
+---------------------------
+Next Token : :, Posbility: 0.9994
+Next Token :  or, Posbility: 0.0004
+Next Token :  :, Posbility: 0.0002
+Next Token :  and, Posbility: 0.0000
+Next Token : :#, Posbility: 0.0000
+Choose : :,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+---------------------------
+Next Token : 
+, Posbility: 0.9984
+Next Token :  , Posbility: 0.0010
+Next Token :     , Posbility: 0.0002
+Next Token :  #, Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+
+---------------------------
+Next Token :         , Posbility: 0.9980
+Next Token :          , Posbility: 0.0005
+Next Token :     , Posbility: 0.0005
+Next Token :        , Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        
+---------------------------
+Next Token : return, Posbility: 0.9993
+Next Token : if, Posbility: 0.0001
+Next Token : print, Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Next Token : side, Posbility: 0.0001
+Choose : return,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return
+---------------------------
+Next Token :  36, Posbility: 0.9813
+Next Token :  40, Posbility: 0.0066
+Next Token :  64, Posbility: 0.0029
+Next Token :  60, Posbility: 0.0018
+Next Token :  32, Posbility: 0.0015
+Choose :  36,  Posbility: 0.9813
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+---------------------------
+Next Token : 
+, Posbility: 0.9729
+Next Token : 
+
+, Posbility: 0.0181
+Next Token :  , Posbility: 0.0037
+Next Token :     , Posbility: 0.0018
+Next Token :         , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9729
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+
+---------------------------
+Next Token :     , Posbility: 0.8914
+Next Token : '', Posbility: 0.0600
+Next Token : 
+, Posbility: 0.0338
+Next Token : def, Posbility: 0.0029
+Next Token : cube, Posbility: 0.0020
+Choose :     ,  Posbility: 0.8914
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    
+---------------------------
+Next Token : el, Posbility: 0.9217
+Next Token : else, Posbility: 0.0638
+Next Token : 
+, Posbility: 0.0084
+Next Token : return, Posbility: 0.0029
+Next Token : '', Posbility: 0.0010
+Choose : el,  Posbility: 0.9217
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9993
+Next Token :   , Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Next Token :  size, Posbility: 0.0001
+Next Token :  sides, Posbility: 0.0000
+Choose :  side,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9978
+Next Token :  >=, Posbility: 0.0007
+Next Token :  >, Posbility: 0.0006
+Next Token : ==, Posbility: 0.0003
+Next Token :  in, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9978
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side ==
+---------------------------
+Next Token :  7, Posbility: 0.9971
+Next Token : 7, Posbility: 0.0011
+Next Token :  8, Posbility: 0.0009
+Next Token :  9, Posbility: 0.0002
+Next Token :  6, Posbility: 0.0001
+Choose :  7,  Posbility: 0.9971
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7
+---------------------------
+Next Token : :, Posbility: 0.9998
+Next Token :  :, Posbility: 0.0001
+Next Token :  or, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : :,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+---------------------------
+Next Token : 
+, Posbility: 0.9985
+Next Token :  , Posbility: 0.0009
+Next Token :     , Posbility: 0.0002
+Next Token :  #, Posbility: 0.0001
+Next Token :         , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9985
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+
+---------------------------
+Next Token :         , Posbility: 0.9982
+Next Token :     , Posbility: 0.0005
+Next Token :          , Posbility: 0.0004
+Next Token :        , Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9982
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        
+---------------------------
+Next Token : return, Posbility: 0.9993
+Next Token : print, Posbility: 0.0002
+Next Token : if, Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Next Token : side, Posbility: 0.0001
+Choose : return,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return
+---------------------------
+Next Token :  49, Posbility: 0.9565
+Next Token :  45, Posbility: 0.0217
+Next Token :  39, Posbility: 0.0143
+Next Token :  51, Posbility: 0.0011
+Next Token :  41, Posbility: 0.0011
+Choose :  49,  Posbility: 0.9565
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+---------------------------
+Next Token : 
+, Posbility: 0.9861
+Next Token : 
+
+, Posbility: 0.0115
+Next Token :  , Posbility: 0.0009
+Next Token :     , Posbility: 0.0003
+Next Token :    , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9861
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+
+---------------------------
+Next Token :     , Posbility: 0.8413
+Next Token : '', Posbility: 0.0755
+Next Token : 
+, Posbility: 0.0602
+Next Token : def, Posbility: 0.0036
+Next Token : cube, Posbility: 0.0034
+Choose :     ,  Posbility: 0.8413
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    
+---------------------------
+Next Token : el, Posbility: 0.9266
+Next Token : else, Posbility: 0.0529
+Next Token : 
+, Posbility: 0.0138
+Next Token : return, Posbility: 0.0026
+Next Token : '', Posbility: 0.0014
+Choose : el,  Posbility: 0.9266
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9993
+Next Token :   , Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Next Token :  size, Posbility: 0.0001
+Next Token :  sides, Posbility: 0.0000
+Choose :  side,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9981
+Next Token :  >, Posbility: 0.0006
+Next Token :  >=, Posbility: 0.0006
+Next Token : ==, Posbility: 0.0003
+Next Token :  in, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9981
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side ==
+---------------------------
+Next Token :  8, Posbility: 0.9965
+Next Token : 8, Posbility: 0.0014
+Next Token :  7, Posbility: 0.0007
+Next Token :  9, Posbility: 0.0004
+Next Token :  0, Posbility: 0.0002
+Choose :  8,  Posbility: 0.9965
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8
+---------------------------
+Next Token : :, Posbility: 0.9995
+Next Token :  :, Posbility: 0.0003
+Next Token :  or, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : :,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+---------------------------
+Next Token : 
+, Posbility: 0.9984
+Next Token :  , Posbility: 0.0010
+Next Token :     , Posbility: 0.0001
+Next Token :  #, Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9984
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+
+---------------------------
+Next Token :         , Posbility: 0.9983
+Next Token :     , Posbility: 0.0004
+Next Token :          , Posbility: 0.0004
+Next Token :        , Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9983
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        
+---------------------------
+Next Token : return, Posbility: 0.9993
+Next Token : print, Posbility: 0.0002
+Next Token : if, Posbility: 0.0001
+Next Token : side, Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Choose : return,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return
+---------------------------
+Next Token :  64, Posbility: 0.9322
+Next Token :  72, Posbility: 0.0371
+Next Token :  56, Posbility: 0.0099
+Next Token :  60, Posbility: 0.0072
+Next Token :  58, Posbility: 0.0017
+Choose :  64,  Posbility: 0.9322
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+---------------------------
+Next Token : 
+, Posbility: 0.9871
+Next Token : 
+
+, Posbility: 0.0089
+Next Token :  , Posbility: 0.0018
+Next Token :     , Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9871
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+
+---------------------------
+Next Token :     , Posbility: 0.8253
+Next Token : '', Posbility: 0.0905
+Next Token : 
+, Posbility: 0.0533
+Next Token : def, Posbility: 0.0084
+Next Token : cube, Posbility: 0.0057
+Choose :     ,  Posbility: 0.8253
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    
+---------------------------
+Next Token : el, Posbility: 0.9062
+Next Token : else, Posbility: 0.0714
+Next Token : 
+, Posbility: 0.0136
+Next Token : return, Posbility: 0.0038
+Next Token : '', Posbility: 0.0017
+Choose : el,  Posbility: 0.9062
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9993
+Next Token :   , Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token :  is, Posbility: 0.0000
+Next Token :  size, Posbility: 0.0000
+Choose :  side,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9974
+Next Token :  >=, Posbility: 0.0009
+Next Token :  >, Posbility: 0.0009
+Next Token : ==, Posbility: 0.0003
+Next Token :  in, Posbility: 0.0002
+Choose :  ==,  Posbility: 0.9974
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side ==
+---------------------------
+Next Token :  9, Posbility: 0.9955
+Next Token : 9, Posbility: 0.0013
+Next Token :  10, Posbility: 0.0008
+Next Token :  ', Posbility: 0.0004
+Next Token :  0, Posbility: 0.0004
+Choose :  9,  Posbility: 0.9955
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9
+---------------------------
+Next Token : :, Posbility: 0.9997
+Next Token :  or, Posbility: 0.0001
+Next Token :  :, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0000
+Next Token : :#, Posbility: 0.0000
+Choose : :,  Posbility: 0.9997
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+---------------------------
+Next Token : 
+, Posbility: 0.9987
+Next Token :  , Posbility: 0.0008
+Next Token :     , Posbility: 0.0001
+Next Token :  #, Posbility: 0.0001
+Next Token :    , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+
+---------------------------
+Next Token :         , Posbility: 0.9980
+Next Token :     , Posbility: 0.0005
+Next Token :          , Posbility: 0.0005
+Next Token :        , Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        
+---------------------------
+Next Token : return, Posbility: 0.9992
+Next Token : print, Posbility: 0.0002
+Next Token : if, Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Next Token : side, Posbility: 0.0000
+Choose : return,  Posbility: 0.9992
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return
+---------------------------
+Next Token :  81, Posbility: 0.9459
+Next Token :  72, Posbility: 0.0126
+Next Token :  100, Posbility: 0.0078
+Next Token :  75, Posbility: 0.0068
+Next Token :  78, Posbility: 0.0045
+Choose :  81,  Posbility: 0.9459
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+---------------------------
+Next Token : 
+, Posbility: 0.9765
+Next Token : 
+
+, Posbility: 0.0171
+Next Token :  , Posbility: 0.0020
+Next Token : '', Posbility: 0.0011
+Next Token :     , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9765
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+
+---------------------------
+Next Token :     , Posbility: 0.8717
+Next Token : '', Posbility: 0.0696
+Next Token : 
+, Posbility: 0.0402
+Next Token : def, Posbility: 0.0043
+Next Token : cube, Posbility: 0.0024
+Choose :     ,  Posbility: 0.8717
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    
+---------------------------
+Next Token : el, Posbility: 0.9022
+Next Token : else, Posbility: 0.0759
+Next Token : 
+, Posbility: 0.0145
+Next Token : return, Posbility: 0.0027
+Next Token : '', Posbility: 0.0017
+Choose : el,  Posbility: 0.9022
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9993
+Next Token :   , Posbility: 0.0002
+Next Token :  (, Posbility: 0.0001
+Next Token :  is, Posbility: 0.0001
+Next Token :  size, Posbility: 0.0001
+Choose :  side,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9969
+Next Token :  >=, Posbility: 0.0012
+Next Token :  >, Posbility: 0.0009
+Next Token : ==, Posbility: 0.0003
+Next Token :  in, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9969
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side ==
+---------------------------
+Next Token :  10, Posbility: 0.9887
+Next Token : 10, Posbility: 0.0069
+Next Token :  ', Posbility: 0.0010
+Next Token :  0, Posbility: 0.0008
+Next Token :  11, Posbility: 0.0006
+Choose :  10,  Posbility: 0.9887
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10
+---------------------------
+Next Token : :, Posbility: 0.9994
+Next Token :  or, Posbility: 0.0002
+Next Token :  :, Posbility: 0.0002
+Next Token :  and, Posbility: 0.0001
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9994
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+---------------------------
+Next Token : 
+, Posbility: 0.9987
+Next Token :  , Posbility: 0.0007
+Next Token :  #, Posbility: 0.0001
+Next Token :     , Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9987
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+
+---------------------------
+Next Token :         , Posbility: 0.9980
+Next Token :     , Posbility: 0.0006
+Next Token :        , Posbility: 0.0005
+Next Token :          , Posbility: 0.0004
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9980
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        
+---------------------------
+Next Token : return, Posbility: 0.9995
+Next Token : print, Posbility: 0.0001
+Next Token : #, Posbility: 0.0001
+Next Token : if, Posbility: 0.0001
+Next Token : side, Posbility: 0.0000
+Choose : return,  Posbility: 0.9995
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return
+---------------------------
+Next Token :  100, Posbility: 0.6593
+Next Token :  128, Posbility: 0.1251
+Next Token :  96, Posbility: 0.0556
+Next Token :  120, Posbility: 0.0364
+Next Token :  108, Posbility: 0.0193
+Choose :  100,  Posbility: 0.6593
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+---------------------------
+Next Token : 
+, Posbility: 0.9831
+Next Token : 
+
+, Posbility: 0.0102
+Next Token : '', Posbility: 0.0020
+Next Token :     , Posbility: 0.0008
+Next Token :  , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9831
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+
+---------------------------
+Next Token :     , Posbility: 0.7972
+Next Token : '', Posbility: 0.1082
+Next Token : 
+, Posbility: 0.0581
+Next Token : cube, Posbility: 0.0066
+Next Token : def, Posbility: 0.0057
+Choose :     ,  Posbility: 0.7972
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    
+---------------------------
+Next Token : el, Posbility: 0.9042
+Next Token : else, Posbility: 0.0754
+Next Token : 
+, Posbility: 0.0109
+Next Token : return, Posbility: 0.0053
+Next Token : '', Posbility: 0.0013
+Choose : el,  Posbility: 0.9042
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : ig, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif
+---------------------------
+Next Token :  side, Posbility: 0.9993
+Next Token :   , Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token :  is, Posbility: 0.0001
+Next Token :  size, Posbility: 0.0000
+Choose :  side,  Posbility: 0.9993
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side
+---------------------------
+Next Token :  ==, Posbility: 0.9960
+Next Token :  >=, Posbility: 0.0015
+Next Token :  >, Posbility: 0.0014
+Next Token :  <, Posbility: 0.0003
+Next Token : ==, Posbility: 0.0002
+Choose :  ==,  Posbility: 0.9960
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side ==
+---------------------------
+Next Token :  11, Posbility: 0.9919
+Next Token :  ', Posbility: 0.0012
+Next Token : 11, Posbility: 0.0011
+Next Token :  20, Posbility: 0.0010
+Next Token :  12, Posbility: 0.0009
+Choose :  11,  Posbility: 0.9919
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11
+---------------------------
+Next Token : :, Posbility: 0.9998
+Next Token :  or, Posbility: 0.0001
+Next Token :  :, Posbility: 0.0000
+Next Token : :#, Posbility: 0.0000
+Next Token :  and, Posbility: 0.0000
+Choose : :,  Posbility: 0.9998
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11:
+---------------------------
+Next Token : 
+, Posbility: 0.9988
+Next Token :  , Posbility: 0.0007
+Next Token :     , Posbility: 0.0001
+Next Token :  #, Posbility: 0.0001
+Next Token :   , Posbility: 0.0000
+Choose : 
+,  Posbility: 0.9988
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11:
+
+---------------------------
+Next Token :         , Posbility: 0.9981
+Next Token :     , Posbility: 0.0007
+Next Token :        , Posbility: 0.0004
+Next Token :          , Posbility: 0.0003
+Next Token :             , Posbility: 0.0001
+Choose :         ,  Posbility: 0.9981
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11:
+        
+---------------------------
+Next Token : return, Posbility: 0.9996
+Next Token : print, Posbility: 0.0001
+Next Token : if, Posbility: 0.0000
+Next Token : #, Posbility: 0.0000
+Next Token : side, Posbility: 0.0000
+Choose : return,  Posbility: 0.9996
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11:
+        return
+---------------------------
+Next Token :  121, Posbility: 0.6872
+Next Token :  125, Posbility: 0.1478
+Next Token :  120, Posbility: 0.0515
+Next Token :  115, Posbility: 0.0165
+Next Token :  124, Posbility: 0.0125
+Choose :  121,  Posbility: 0.6872
+---------------------------
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11:
+        return 121
+---------------------------
+Next Token : 
+, Posbility: 0.9868
+Next Token : 
+
+, Posbility: 0.0098
+Next Token :  , Posbility: 0.0013
+Next Token :    , Posbility: 0.0005
+Next Token : <|endoftext|>, Posbility: 0.0005
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 31.0800838470459
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to find the volume of a cube given its side length.'''
+def 
+'''
+def cube(side):
+    if side == 0:
+        return 0
+    elif side == 1:
+        return 1
+    elif side == 2:
+        return 4
+    elif side == 3:
+        return 9
+    elif side == 4:
+        return 16
+    elif side == 5:
+        return 25
+    elif side == 6:
+        return 36
+    elif side == 7:
+        return 49
+    elif side == 8:
+        return 64
+    elif side == 9:
+        return 81
+    elif side == 10:
+        return 100
+    elif side == 11:
+        return 121
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

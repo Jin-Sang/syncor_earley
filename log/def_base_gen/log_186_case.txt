@@ -1,0 +1,986 @@
+<<<<<<<<<<<< 186 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  contains, Posbility: 0.2210
+Next Token :  check, Posbility: 0.2067
+Next Token :  is, Posbility: 0.1033
+Next Token :  no, Posbility: 0.0712
+Next Token :  duplicate, Posbility: 0.0695
+Choose :  contains,  Posbility: 0.2210
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains
+---------------------------
+Next Token : _, Posbility: 0.7934
+Next Token : Du, Posbility: 0.1051
+Next Token : (, Posbility: 0.0347
+Next Token : No, Posbility: 0.0312
+Next Token : D, Posbility: 0.0092
+Choose : _,  Posbility: 0.7934
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_
+---------------------------
+Next Token : du, Posbility: 0.8377
+Next Token : no, Posbility: 0.1347
+Next Token : unique, Posbility: 0.0050
+Next Token : d, Posbility: 0.0043
+Next Token : any, Posbility: 0.0024
+Choose : du,  Posbility: 0.8377
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_du
+---------------------------
+Next Token : pl, Posbility: 0.9435
+Next Token : ps, Posbility: 0.0171
+Next Token : p, Posbility: 0.0160
+Next Token : pes, Posbility: 0.0112
+Next Token : pe, Posbility: 0.0046
+Choose : pl,  Posbility: 0.9435
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_dupl
+---------------------------
+Next Token : icate, Posbility: 0.4957
+Next Token : icates, Posbility: 0.4829
+Next Token : icated, Posbility: 0.0083
+Next Token : ic, Posbility: 0.0040
+Next Token : (, Posbility: 0.0031
+Choose : icate,  Posbility: 0.4957
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate
+---------------------------
+Next Token : (, Posbility: 0.8861
+Next Token : _, Posbility: 0.0890
+Next Token : (*, Posbility: 0.0067
+Next Token : 1, Posbility: 0.0052
+Next Token : 2, Posbility: 0.0039
+Choose : (,  Posbility: 0.8861
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(
+---------------------------
+Next Token : t, Posbility: 0.7433
+Next Token : tu, Posbility: 0.0354
+Next Token : my, Posbility: 0.0245
+Next Token : list, Posbility: 0.0163
+Next Token : input, Posbility: 0.0156
+Choose : t,  Posbility: 0.7433
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(t
+---------------------------
+Next Token : uple, Posbility: 0.4641
+Next Token : ):, Posbility: 0.3134
+Next Token : up, Posbility: 0.1810
+Next Token : 1, Posbility: 0.0083
+Next Token : :, Posbility: 0.0050
+Choose : uple,  Posbility: 0.4641
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple
+---------------------------
+Next Token : ):, Posbility: 0.8072
+Next Token : _, Posbility: 0.1222
+Next Token : 1, Posbility: 0.0409
+Next Token : :, Posbility: 0.0091
+Next Token : ,, Posbility: 0.0063
+Choose : ):,  Posbility: 0.8072
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+---------------------------
+Next Token : 
+, Posbility: 0.9441
+Next Token : 
+
+, Posbility: 0.0275
+Next Token : , Posbility: 0.0116
+Next Token :  , Posbility: 0.0099
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9441
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+
+---------------------------
+Next Token :     , Posbility: 0.9346
+Next Token :   , Posbility: 0.0285
+Next Token : 	, Posbility: 0.0283
+Next Token :    , Posbility: 0.0042
+Next Token :         , Posbility: 0.0012
+Choose :     ,  Posbility: 0.9346
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    
+---------------------------
+Next Token : '', Posbility: 0.2843
+Next Token : return, Posbility: 0.1069
+Next Token : for, Posbility: 0.0936
+Next Token : if, Posbility: 0.0839
+Next Token : #, Posbility: 0.0638
+Choose : '',  Posbility: 0.2843
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.1587
+Next Token : Check, Posbility: 0.0896
+Next Token : t, Posbility: 0.0881
+Next Token : 
+, Posbility: 0.0757
+Next Token : Write, Posbility: 0.0442
+Choose : Return,  Posbility: 0.1587
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return
+---------------------------
+Next Token :  True, Posbility: 0.6498
+Next Token :  tuple, Posbility: 0.0810
+Next Token :  true, Posbility: 0.0727
+Next Token :  boolean, Posbility: 0.0703
+Next Token :  a, Posbility: 0.0301
+Choose :  True,  Posbility: 0.6498
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True
+---------------------------
+Next Token :  if, Posbility: 0.9564
+Next Token : ,, Posbility: 0.0123
+Next Token :  is, Posbility: 0.0089
+Next Token : /, Posbility: 0.0057
+Next Token :  or, Posbility: 0.0055
+Choose :  if,  Posbility: 0.9564
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if
+---------------------------
+Next Token :  tuple, Posbility: 0.2310
+Next Token :  there, Posbility: 0.1949
+Next Token :  given, Posbility: 0.1478
+Next Token :  the, Posbility: 0.1069
+Next Token :  all, Posbility: 0.0595
+Choose :  tuple,  Posbility: 0.2310
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple
+---------------------------
+Next Token :  contains, Posbility: 0.8293
+Next Token :  is, Posbility: 0.0721
+Next Token :  has, Posbility: 0.0553
+Next Token :  does, Posbility: 0.0096
+Next Token :  only, Posbility: 0.0087
+Choose :  contains,  Posbility: 0.8293
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains
+---------------------------
+Next Token :  duplicate, Posbility: 0.4058
+Next Token :  no, Posbility: 0.1648
+Next Token :  dupl, Posbility: 0.1173
+Next Token :  at, Posbility: 0.0624
+Next Token :  any, Posbility: 0.0556
+Choose :  duplicate,  Posbility: 0.4058
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate
+---------------------------
+Next Token :  elements, Posbility: 0.3608
+Next Token :  values, Posbility: 0.1523
+Next Token :  items, Posbility: 0.0837
+Next Token : ,, Posbility: 0.0778
+Next Token : .', Posbility: 0.0434
+Choose :  elements,  Posbility: 0.3608
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements
+---------------------------
+Next Token : .', Posbility: 0.3148
+Next Token : '', Posbility: 0.2094
+Next Token : ., Posbility: 0.1755
+Next Token : ,, Posbility: 0.1164
+Next Token : ;, Posbility: 0.0532
+Choose : .',  Posbility: 0.3148
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token :  '', Posbility: 0.0001
+Next Token : "", Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9532
+Next Token : 
+
+, Posbility: 0.0407
+Next Token :  , Posbility: 0.0039
+Next Token :   , Posbility: 0.0006
+Next Token :     , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9532
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9970
+Next Token :    , Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Next Token :         , Posbility: 0.0005
+Next Token :      , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9970
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    
+---------------------------
+Next Token : for, Posbility: 0.2155
+Next Token : return, Posbility: 0.1938
+Next Token : if, Posbility: 0.1290
+Next Token : t, Posbility: 0.0484
+Next Token : #, Posbility: 0.0481
+Choose : for,  Posbility: 0.2155
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4147
+Next Token :  element, Posbility: 0.1440
+Next Token :  x, Posbility: 0.1022
+Next Token :  item, Posbility: 0.0652
+Next Token :  value, Posbility: 0.0387
+Choose :  i,  Posbility: 0.4147
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9643
+Next Token : ,, Posbility: 0.0349
+Next Token : _, Posbility: 0.0002
+Next Token : 1, Posbility: 0.0002
+Next Token :   , Posbility: 0.0002
+Choose :  in,  Posbility: 0.9643
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in
+---------------------------
+Next Token :  tuple, Posbility: 0.7364
+Next Token :  range, Posbility: 0.2391
+Next Token :  list, Posbility: 0.0068
+Next Token :  set, Posbility: 0.0062
+Next Token :  (, Posbility: 0.0019
+Choose :  tuple,  Posbility: 0.7364
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple
+---------------------------
+Next Token : :, Posbility: 0.9788
+Next Token : [, Posbility: 0.0153
+Next Token :  :, Posbility: 0.0028
+Next Token : _, Posbility: 0.0009
+Next Token : ., Posbility: 0.0007
+Choose : :,  Posbility: 0.9788
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+---------------------------
+Next Token : 
+, Posbility: 0.9835
+Next Token :  , Posbility: 0.0054
+Next Token :  #, Posbility: 0.0031
+Next Token :   , Posbility: 0.0011
+Next Token : 
+
+, Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9835
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+
+---------------------------
+Next Token :         , Posbility: 0.9852
+Next Token :       , Posbility: 0.0048
+Next Token :             , Posbility: 0.0043
+Next Token :        , Posbility: 0.0025
+Next Token :     , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9852
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        
+---------------------------
+Next Token : if, Posbility: 0.9365
+Next Token : for, Posbility: 0.0216
+Next Token : #, Posbility: 0.0082
+Next Token : return, Posbility: 0.0033
+Next Token : count, Posbility: 0.0031
+Choose : if,  Posbility: 0.9365
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if
+---------------------------
+Next Token :  tuple, Posbility: 0.6753
+Next Token :  i, Posbility: 0.2598
+Next Token : (, Posbility: 0.0181
+Next Token :  (, Posbility: 0.0156
+Next Token :  t, Posbility: 0.0055
+Choose :  tuple,  Posbility: 0.6753
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple
+---------------------------
+Next Token : ., Posbility: 0.8848
+Next Token : [, Posbility: 0.1047
+Next Token :  ==, Posbility: 0.0041
+Next Token :  is, Posbility: 0.0013
+Next Token : !=, Posbility: 0.0005
+Choose : .,  Posbility: 0.8848
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.
+---------------------------
+Next Token : count, Posbility: 0.9976
+Next Token : index, Posbility: 0.0017
+Next Token : Count, Posbility: 0.0001
+Next Token : remove, Posbility: 0.0001
+Next Token : append, Posbility: 0.0001
+Choose : count,  Posbility: 0.9976
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token :  (, Posbility: 0.0001
+Next Token : ([, Posbility: 0.0001
+Next Token :  ==, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(
+---------------------------
+Next Token : i, Posbility: 0.9951
+Next Token : t, Posbility: 0.0042
+Next Token :  i, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : str, Posbility: 0.0001
+Choose : i,  Posbility: 0.9951
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i
+---------------------------
+Next Token : ), Posbility: 0.9957
+Next Token : ):, Posbility: 0.0019
+Next Token : )!, Posbility: 0.0019
+Next Token : )*, Posbility: 0.0001
+Next Token : )+, Posbility: 0.0000
+Choose : ),  Posbility: 0.9957
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i)
+---------------------------
+Next Token :  >, Posbility: 0.8336
+Next Token : >, Posbility: 0.1218
+Next Token : !=, Posbility: 0.0163
+Next Token :  >=, Posbility: 0.0155
+Next Token :  ==, Posbility: 0.0073
+Choose :  >,  Posbility: 0.8336
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) >
+---------------------------
+Next Token :  1, Posbility: 0.9836
+Next Token : 1, Posbility: 0.0139
+Next Token :  0, Posbility: 0.0014
+Next Token :  2, Posbility: 0.0005
+Next Token :  i, Posbility: 0.0001
+Choose :  1,  Posbility: 0.9836
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1
+---------------------------
+Next Token : :, Posbility: 0.9916
+Next Token :  or, Posbility: 0.0046
+Next Token :  :, Posbility: 0.0018
+Next Token :  and, Posbility: 0.0017
+Next Token : 
+, Posbility: 0.0001
+Choose : :,  Posbility: 0.9916
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9633
+Next Token :  return, Posbility: 0.0213
+Next Token :  , Posbility: 0.0064
+Next Token :  #, Posbility: 0.0042
+Next Token :   , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9633
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+
+---------------------------
+Next Token :             , Posbility: 0.9943
+Next Token :            , Posbility: 0.0020
+Next Token :                 , Posbility: 0.0011
+Next Token :              , Posbility: 0.0011
+Next Token :           , Posbility: 0.0006
+Choose :             ,  Posbility: 0.9943
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            
+---------------------------
+Next Token : return, Posbility: 0.9796
+Next Token : print, Posbility: 0.0160
+Next Token : #, Posbility: 0.0020
+Next Token : False, Posbility: 0.0003
+Next Token : du, Posbility: 0.0003
+Choose : return,  Posbility: 0.9796
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return
+---------------------------
+Next Token :  True, Posbility: 0.8915
+Next Token :  False, Posbility: 0.1001
+Next Token :  ', Posbility: 0.0016
+Next Token :  1, Posbility: 0.0009
+Next Token : (, Posbility: 0.0008
+Choose :  True,  Posbility: 0.8915
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+---------------------------
+Next Token : 
+, Posbility: 0.9283
+Next Token : 
+
+, Posbility: 0.0504
+Next Token :  , Posbility: 0.0086
+Next Token :  #, Posbility: 0.0041
+Next Token :   , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9283
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+
+---------------------------
+Next Token :     , Posbility: 0.9440
+Next Token :         , Posbility: 0.0374
+Next Token : 
+, Posbility: 0.0122
+Next Token :             , Posbility: 0.0026
+Next Token : #, Posbility: 0.0009
+Choose :     ,  Posbility: 0.9440
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    
+---------------------------
+Next Token : return, Posbility: 0.9514
+Next Token : 
+, Posbility: 0.0261
+Next Token : else, Posbility: 0.0150
+Next Token : #, Posbility: 0.0031
+Next Token : '', Posbility: 0.0021
+Choose : return,  Posbility: 0.9514
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return
+---------------------------
+Next Token :  False, Posbility: 0.9983
+Next Token :  True, Posbility: 0.0006
+Next Token :  None, Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Next Token : False, Posbility: 0.0001
+Choose :  False,  Posbility: 0.9983
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+---------------------------
+Next Token : 
+, Posbility: 0.7608
+Next Token : 
+
+, Posbility: 0.2028
+Next Token : <|endoftext|>, Posbility: 0.0214
+Next Token :  , Posbility: 0.0072
+Next Token :     , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.7608
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.7338
+Next Token :     , Posbility: 0.0556
+Next Token : <|endoftext|>, Posbility: 0.0342
+Next Token : print, Posbility: 0.0335
+Next Token : t, Posbility: 0.0300
+Choose : 
+,  Posbility: 0.7338
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9598
+Next Token : <|endoftext|>, Posbility: 0.0163
+Next Token :     , Posbility: 0.0105
+Next Token : 
+
+, Posbility: 0.0103
+Next Token :         , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9598
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3600
+Next Token : #, Posbility: 0.2345
+Next Token : def, Posbility: 0.1469
+Next Token : print, Posbility: 0.0962
+Next Token : if, Posbility: 0.0348
+Choose : '',  Posbility: 0.3600
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7554
+Next Token : Return, Posbility: 0.0263
+Next Token : Check, Posbility: 0.0225
+Next Token :  Write, Posbility: 0.0208
+Next Token : 
+, Posbility: 0.0107
+Choose : Write,  Posbility: 0.7554
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9815
+Next Token :  your, Posbility: 0.0060
+Next Token :  function, Posbility: 0.0038
+Next Token :  an, Posbility: 0.0021
+Next Token :  the, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9815
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9541
+Next Token :  Python, Posbility: 0.0110
+Next Token :  program, Posbility: 0.0072
+Next Token :  python, Posbility: 0.0048
+Next Token :  Function, Posbility: 0.0027
+Choose :  function,  Posbility: 0.9541
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6863
+Next Token :  that, Posbility: 0.2422
+Next Token :  which, Posbility: 0.0152
+Next Token :  called, Posbility: 0.0101
+Next Token :  named, Posbility: 0.0073
+Choose :  to,  Posbility: 0.6863
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to
+---------------------------
+Next Token :  remove, Posbility: 0.0941
+Next Token :  find, Posbility: 0.0939
+Next Token :  check, Posbility: 0.0923
+Next Token :  get, Posbility: 0.0767
+Next Token :  print, Posbility: 0.0705
+Choose :  remove,  Posbility: 0.0941
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove
+---------------------------
+Next Token :  dupl, Posbility: 0.5074
+Next Token :  duplicate, Posbility: 0.2314
+Next Token :  all, Posbility: 0.0691
+Next Token :  the, Posbility: 0.0609
+Next Token :  an, Posbility: 0.0348
+Choose :  dupl,  Posbility: 0.5074
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove dupl
+---------------------------
+Next Token : icates, Posbility: 0.9903
+Next Token : icated, Posbility: 0.0078
+Next Token : ic, Posbility: 0.0007
+Next Token : icate, Posbility: 0.0003
+Next Token : ications, Posbility: 0.0003
+Choose : icates,  Posbility: 0.9903
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates
+---------------------------
+Next Token :  from, Posbility: 0.8792
+Next Token :  in, Posbility: 0.0267
+Next Token : .', Posbility: 0.0193
+Next Token :  and, Posbility: 0.0149
+Next Token : ., Posbility: 0.0126
+Choose :  from,  Posbility: 0.8792
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from
+---------------------------
+Next Token :  a, Posbility: 0.6546
+Next Token :  an, Posbility: 0.1782
+Next Token :  the, Posbility: 0.0733
+Next Token :  list, Posbility: 0.0138
+Next Token :  given, Posbility: 0.0119
+Choose :  a,  Posbility: 0.6546
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from a
+---------------------------
+Next Token :  list, Posbility: 0.4858
+Next Token :  tuple, Posbility: 0.2452
+Next Token :  given, Posbility: 0.1741
+Next Token :  set, Posbility: 0.0176
+Next Token :  sorted, Posbility: 0.0103
+Choose :  list,  Posbility: 0.4858
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from a list
+---------------------------
+Next Token : .', Posbility: 0.5512
+Next Token :  of, Posbility: 0.2479
+Next Token : ., Posbility: 0.0616
+Next Token : '', Posbility: 0.0560
+Next Token : ,, Posbility: 0.0104
+Choose : .',  Posbility: 0.5512
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from a list.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9419
+Next Token : 
+
+, Posbility: 0.0519
+Next Token :  , Posbility: 0.0021
+Next Token : def, Posbility: 0.0010
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9419
+---------------------------
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from a list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.8643
+Next Token : 
+, Posbility: 0.0873
+Next Token : #, Posbility: 0.0227
+Next Token : from, Posbility: 0.0070
+Next Token : import, Posbility: 0.0051
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.872937202453613
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check if given tuple contains no duplicates.'''
+def contains_duplicate(tuple):
+    '''Return True if tuple contains duplicate elements.'''
+    for i in tuple:
+        if tuple.count(i) > 1:
+            return True
+    return False
+
+
+'''Write a function to remove duplicates from a list.'''
+

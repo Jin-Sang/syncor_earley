@@ -1,0 +1,1361 @@
+<<<<<<<<<<<< 264 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  odd, Posbility: 0.7571
+Next Token :  even, Posbility: 0.0277
+Next Token :  get, Posbility: 0.0190
+Next Token :  find, Posbility: 0.0165
+Next Token :  Odd, Posbility: 0.0158
+Choose :  odd,  Posbility: 0.7571
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd
+---------------------------
+Next Token : _, Posbility: 0.6587
+Next Token : (, Posbility: 0.2045
+Next Token : ():, Posbility: 0.0191
+Next Token : Even, Posbility: 0.0152
+Next Token : list, Posbility: 0.0079
+Choose : _,  Posbility: 0.6587
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_
+---------------------------
+Next Token : list, Posbility: 0.1964
+Next Token : even, Posbility: 0.1301
+Next Token : n, Posbility: 0.0801
+Next Token : ones, Posbility: 0.0534
+Next Token : only, Posbility: 0.0530
+Choose : list,  Posbility: 0.1964
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list
+---------------------------
+Next Token : (, Posbility: 0.8619
+Next Token : _, Posbility: 0.0732
+Next Token : ():, Posbility: 0.0465
+Next Token :  (, Posbility: 0.0088
+Next Token : (*, Posbility: 0.0032
+Choose : (,  Posbility: 0.8619
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(
+---------------------------
+Next Token : l, Posbility: 0.2329
+Next Token : list, Posbility: 0.1850
+Next Token : n, Posbility: 0.0792
+Next Token : input, Posbility: 0.0652
+Next Token : num, Posbility: 0.0595
+Choose : l,  Posbility: 0.2329
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(l
+---------------------------
+Next Token : st, Posbility: 0.5579
+Next Token : ):, Posbility: 0.4036
+Next Token : :, Posbility: 0.0164
+Next Token : 1, Posbility: 0.0083
+Next Token : _, Posbility: 0.0047
+Choose : st,  Posbility: 0.5579
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst
+---------------------------
+Next Token : ):, Posbility: 0.9512
+Next Token : :, Posbility: 0.0221
+Next Token : _, Posbility: 0.0103
+Next Token : ,, Posbility: 0.0059
+Next Token : 1, Posbility: 0.0039
+Choose : ):,  Posbility: 0.9512
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9315
+Next Token : 
+
+, Posbility: 0.0223
+Next Token : , Posbility: 0.0213
+Next Token :  , Posbility: 0.0148
+Next Token :  #, Posbility: 0.0029
+Choose : 
+,  Posbility: 0.9315
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.9279
+Next Token :   , Posbility: 0.0421
+Next Token : 	, Posbility: 0.0194
+Next Token :    , Posbility: 0.0056
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9279
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.2782
+Next Token : odd, Posbility: 0.2493
+Next Token : for, Posbility: 0.0679
+Next Token : return, Posbility: 0.0632
+Next Token : l, Posbility: 0.0408
+Choose : '',  Posbility: 0.2782
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : '", Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''
+---------------------------
+Next Token : Return, Posbility: 0.1160
+Next Token : Take, Posbility: 0.1132
+Next Token : 
+, Posbility: 0.1058
+Next Token : Write, Posbility: 0.0969
+Next Token : This, Posbility: 0.0506
+Choose : Return,  Posbility: 0.1160
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return
+---------------------------
+Next Token :  a, Posbility: 0.5064
+Next Token :  the, Posbility: 0.1873
+Next Token :  only, Posbility: 0.1034
+Next Token :  list, Posbility: 0.0699
+Next Token :  all, Posbility: 0.0344
+Choose :  a,  Posbility: 0.5064
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a
+---------------------------
+Next Token :  list, Posbility: 0.6949
+Next Token :  new, Posbility: 0.2140
+Next Token :  copy, Posbility: 0.0151
+Next Token :  function, Posbility: 0.0082
+Next Token :  python, Posbility: 0.0075
+Choose :  list,  Posbility: 0.6949
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list
+---------------------------
+Next Token :  of, Posbility: 0.5470
+Next Token :  with, Posbility: 0.1494
+Next Token :  containing, Posbility: 0.0643
+Next Token :  where, Posbility: 0.0374
+Next Token :  that, Posbility: 0.0343
+Choose :  of,  Posbility: 0.5470
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of
+---------------------------
+Next Token :  odd, Posbility: 0.3684
+Next Token :  the, Posbility: 0.2515
+Next Token :  integers, Posbility: 0.0928
+Next Token :  all, Posbility: 0.0816
+Next Token :  only, Posbility: 0.0666
+Choose :  odd,  Posbility: 0.3684
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd
+---------------------------
+Next Token :  numbers, Posbility: 0.4840
+Next Token :  elements, Posbility: 0.1756
+Next Token :  integers, Posbility: 0.1244
+Next Token :  values, Posbility: 0.0881
+Next Token :  items, Posbility: 0.0243
+Choose :  numbers,  Posbility: 0.4840
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers
+---------------------------
+Next Token :  in, Posbility: 0.2895
+Next Token :  from, Posbility: 0.2292
+Next Token : ., Posbility: 0.1021
+Next Token : '', Posbility: 0.0610
+Next Token : .', Posbility: 0.0575
+Choose :  in,  Posbility: 0.2895
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in
+---------------------------
+Next Token :  l, Posbility: 0.4430
+Next Token :  the, Posbility: 0.3827
+Next Token :  a, Posbility: 0.0808
+Next Token :  list, Posbility: 0.0114
+Next Token :  order, Posbility: 0.0107
+Choose :  l,  Posbility: 0.4430
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in l
+---------------------------
+Next Token : st, Posbility: 0.9938
+Next Token : ., Posbility: 0.0009
+Next Token : .', Posbility: 0.0003
+Next Token : is, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0002
+Choose : st,  Posbility: 0.9938
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst
+---------------------------
+Next Token : .', Posbility: 0.2831
+Next Token : '', Posbility: 0.2579
+Next Token : ., Posbility: 0.2539
+Next Token : ,, Posbility: 0.0554
+Next Token : 
+, Posbility: 0.0178
+Choose : .',  Posbility: 0.2831
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token :  ', Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : "", Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9413
+Next Token : 
+
+, Posbility: 0.0516
+Next Token :  , Posbility: 0.0046
+Next Token :     , Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9413
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9961
+Next Token :   , Posbility: 0.0008
+Next Token :    , Posbility: 0.0006
+Next Token : 	, Posbility: 0.0004
+Next Token :         , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9961
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    
+---------------------------
+Next Token : odd, Posbility: 0.3978
+Next Token : return, Posbility: 0.1247
+Next Token : l, Posbility: 0.0859
+Next Token : new, Posbility: 0.0588
+Next Token : #, Posbility: 0.0347
+Choose : odd,  Posbility: 0.3978
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd
+---------------------------
+Next Token : _, Posbility: 0.6112
+Next Token :  =, Posbility: 0.1941
+Next Token : s, Posbility: 0.1221
+Next Token : =, Posbility: 0.0402
+Next Token : list, Posbility: 0.0072
+Choose : _,  Posbility: 0.6112
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_
+---------------------------
+Next Token : l, Posbility: 0.4989
+Next Token : list, Posbility: 0.3660
+Next Token : n, Posbility: 0.0290
+Next Token : num, Posbility: 0.0262
+Next Token : even, Posbility: 0.0069
+Choose : l,  Posbility: 0.4989
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_l
+---------------------------
+Next Token : st, Posbility: 0.9917
+Next Token :  =, Posbility: 0.0066
+Next Token : =, Posbility: 0.0007
+Next Token : =[, Posbility: 0.0002
+Next Token : sts, Posbility: 0.0001
+Choose : st,  Posbility: 0.9917
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst
+---------------------------
+Next Token :  =, Posbility: 0.9225
+Next Token : =, Posbility: 0.0657
+Next Token : =[, Posbility: 0.0061
+Next Token : _, Posbility: 0.0035
+Next Token : 1, Posbility: 0.0004
+Choose :  =,  Posbility: 0.9225
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst =
+---------------------------
+Next Token :  [], Posbility: 0.8615
+Next Token :  [, Posbility: 0.0843
+Next Token :  list, Posbility: 0.0312
+Next Token : [], Posbility: 0.0151
+Next Token :  filter, Posbility: 0.0014
+Choose :  [],  Posbility: 0.8615
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+---------------------------
+Next Token : 
+, Posbility: 0.9408
+Next Token : 
+
+, Posbility: 0.0339
+Next Token :  #, Posbility: 0.0110
+Next Token :  , Posbility: 0.0051
+Next Token :   , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.9408
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+
+---------------------------
+Next Token :     , Posbility: 0.9987
+Next Token :         , Posbility: 0.0003
+Next Token :    , Posbility: 0.0002
+Next Token : 	, Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9987
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    
+---------------------------
+Next Token : for, Posbility: 0.8984
+Next Token : odd, Posbility: 0.0172
+Next Token : #, Posbility: 0.0097
+Next Token : if, Posbility: 0.0082
+Next Token : 
+, Posbility: 0.0081
+Choose : for,  Posbility: 0.8984
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4353
+Next Token :  num, Posbility: 0.1547
+Next Token :  item, Posbility: 0.0775
+Next Token :  number, Posbility: 0.0570
+Next Token :  x, Posbility: 0.0568
+Choose :  i,  Posbility: 0.4353
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9911
+Next Token : ,, Posbility: 0.0081
+Next Token :   , Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Next Token : 1, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9911
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in
+---------------------------
+Next Token :  l, Posbility: 0.8161
+Next Token :  range, Posbility: 0.1800
+Next Token :  list, Posbility: 0.0006
+Next Token :   , Posbility: 0.0006
+Next Token :  (, Posbility: 0.0006
+Choose :  l,  Posbility: 0.8161
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : :, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ist, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst
+---------------------------
+Next Token : :, Posbility: 0.9870
+Next Token : [, Posbility: 0.0091
+Next Token :  :, Posbility: 0.0024
+Next Token : ., Posbility: 0.0009
+Next Token : :#, Posbility: 0.0003
+Choose : :,  Posbility: 0.9870
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9848
+Next Token :  , Posbility: 0.0061
+Next Token :  #, Posbility: 0.0032
+Next Token : 
+
+, Posbility: 0.0014
+Next Token :   , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9848
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9842
+Next Token :       , Posbility: 0.0061
+Next Token :        , Posbility: 0.0039
+Next Token :             , Posbility: 0.0022
+Next Token :     , Posbility: 0.0013
+Choose :         ,  Posbility: 0.9842
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        
+---------------------------
+Next Token : if, Posbility: 0.9764
+Next Token : #, Posbility: 0.0052
+Next Token : '', Posbility: 0.0043
+Next Token : i, Posbility: 0.0027
+Next Token : odd, Posbility: 0.0016
+Choose : if,  Posbility: 0.9764
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if
+---------------------------
+Next Token :  i, Posbility: 0.8663
+Next Token :  (, Posbility: 0.0540
+Next Token : (, Posbility: 0.0383
+Next Token :  not, Posbility: 0.0135
+Next Token :  int, Posbility: 0.0104
+Choose :  i,  Posbility: 0.8663
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i
+---------------------------
+Next Token :  %, Posbility: 0.8251
+Next Token : %, Posbility: 0.1672
+Next Token :  ==, Posbility: 0.0015
+Next Token : !=, Posbility: 0.0014
+Next Token :  not, Posbility: 0.0010
+Choose :  %,  Posbility: 0.8251
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i %
+---------------------------
+Next Token :  2, Posbility: 0.9814
+Next Token : 2, Posbility: 0.0177
+Next Token :  3, Posbility: 0.0002
+Next Token :  4, Posbility: 0.0002
+Next Token :  10, Posbility: 0.0001
+Choose :  2,  Posbility: 0.9814
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2
+---------------------------
+Next Token :  ==, Posbility: 0.4977
+Next Token : !=, Posbility: 0.4655
+Next Token : :, Posbility: 0.0294
+Next Token :  >, Posbility: 0.0023
+Next Token : ==, Posbility: 0.0021
+Choose :  ==,  Posbility: 0.4977
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 ==
+---------------------------
+Next Token :  1, Posbility: 0.6370
+Next Token :  0, Posbility: 0.3472
+Next Token :  True, Posbility: 0.0070
+Next Token : 1, Posbility: 0.0046
+Next Token : 0, Posbility: 0.0016
+Choose :  1,  Posbility: 0.6370
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1
+---------------------------
+Next Token : :, Posbility: 0.9889
+Next Token :  and, Posbility: 0.0084
+Next Token :  :, Posbility: 0.0015
+Next Token :  or, Posbility: 0.0010
+Next Token : :#, Posbility: 0.0001
+Choose : :,  Posbility: 0.9889
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+---------------------------
+Next Token : 
+, Posbility: 0.9856
+Next Token :  , Posbility: 0.0056
+Next Token :  #, Posbility: 0.0025
+Next Token :  odd, Posbility: 0.0018
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9856
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+
+---------------------------
+Next Token :             , Posbility: 0.9946
+Next Token :            , Posbility: 0.0024
+Next Token :                 , Posbility: 0.0009
+Next Token :              , Posbility: 0.0009
+Next Token :           , Posbility: 0.0006
+Choose :             ,  Posbility: 0.9946
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            
+---------------------------
+Next Token : odd, Posbility: 0.9608
+Next Token : if, Posbility: 0.0097
+Next Token : l, Posbility: 0.0059
+Next Token : even, Posbility: 0.0042
+Next Token : #, Posbility: 0.0036
+Choose : odd,  Posbility: 0.9608
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token :  =, Posbility: 0.0003
+Next Token : ., Posbility: 0.0000
+Next Token : =, Posbility: 0.0000
+Next Token :  +=, Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_
+---------------------------
+Next Token : l, Posbility: 0.9994
+Next Token : list, Posbility: 0.0004
+Next Token : num, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose : l,  Posbility: 0.9994
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : ft, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst
+---------------------------
+Next Token : ., Posbility: 0.9922
+Next Token :  +=, Posbility: 0.0060
+Next Token :  =, Posbility: 0.0016
+Next Token : +=, Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Choose : .,  Posbility: 0.9922
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.
+---------------------------
+Next Token : append, Posbility: 0.9991
+Next Token : insert, Posbility: 0.0005
+Next Token : ext, Posbility: 0.0003
+Next Token :  append, Posbility: 0.0000
+Next Token : app, Posbility: 0.0000
+Choose : append,  Posbility: 0.9991
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append
+---------------------------
+Next Token : (, Posbility: 0.9991
+Next Token : ((, Posbility: 0.0004
+Next Token :  (, Posbility: 0.0003
+Next Token : ([, Posbility: 0.0001
+Next Token : (', Posbility: 0.0001
+Choose : (,  Posbility: 0.9991
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(
+---------------------------
+Next Token : i, Posbility: 0.9934
+Next Token : int, Posbility: 0.0043
+Next Token : l, Posbility: 0.0009
+Next Token : str, Posbility: 0.0005
+Next Token :  i, Posbility: 0.0002
+Choose : i,  Posbility: 0.9934
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i
+---------------------------
+Next Token : ), Posbility: 0.9979
+Next Token :  *, Posbility: 0.0003
+Next Token : *, Posbility: 0.0003
+Next Token : **, Posbility: 0.0002
+Next Token :  **, Posbility: 0.0002
+Choose : ),  Posbility: 0.9979
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+---------------------------
+Next Token : 
+, Posbility: 0.9640
+Next Token : 
+
+, Posbility: 0.0266
+Next Token :  , Posbility: 0.0027
+Next Token :     , Posbility: 0.0018
+Next Token :  #, Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9640
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+
+---------------------------
+Next Token :     , Posbility: 0.9608
+Next Token :         , Posbility: 0.0241
+Next Token :             , Posbility: 0.0124
+Next Token : 
+, Posbility: 0.0010
+Next Token : #, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9608
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    
+---------------------------
+Next Token : return, Posbility: 0.9227
+Next Token : print, Posbility: 0.0389
+Next Token : 
+, Posbility: 0.0210
+Next Token : odd, Posbility: 0.0054
+Next Token : if, Posbility: 0.0037
+Choose : return,  Posbility: 0.9227
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return
+---------------------------
+Next Token :  odd, Posbility: 0.9677
+Next Token : (, Posbility: 0.0206
+Next Token :  (, Posbility: 0.0030
+Next Token :   , Posbility: 0.0014
+Next Token :  list, Posbility: 0.0012
+Choose :  odd,  Posbility: 0.9677
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_
+---------------------------
+Next Token : l, Posbility: 0.9999
+Next Token : list, Posbility: 0.0001
+Next Token : n, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : t, Posbility: 0.0000
+Choose : l,  Posbility: 0.9999
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ct, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Next Token : nt, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+---------------------------
+Next Token : 
+, Posbility: 0.7850
+Next Token : 
+
+, Posbility: 0.1733
+Next Token : <|endoftext|>, Posbility: 0.0201
+Next Token :  , Posbility: 0.0071
+Next Token : [, Posbility: 0.0052
+Choose : 
+,  Posbility: 0.7850
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+---------------------------
+Next Token : 
+, Posbility: 0.6985
+Next Token : print, Posbility: 0.0983
+Next Token :     , Posbility: 0.0429
+Next Token : <|endoftext|>, Posbility: 0.0333
+Next Token : #, Posbility: 0.0198
+Choose : 
+,  Posbility: 0.6985
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9440
+Next Token : <|endoftext|>, Posbility: 0.0246
+Next Token :     , Posbility: 0.0161
+Next Token : 
+
+, Posbility: 0.0100
+Next Token :         , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9440
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3937
+Next Token : #, Posbility: 0.1857
+Next Token : def, Posbility: 0.1571
+Next Token : print, Posbility: 0.1021
+Next Token : 
+, Posbility: 0.0397
+Choose : '',  Posbility: 0.3937
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8189
+Next Token :  Write, Posbility: 0.0172
+Next Token : 
+, Posbility: 0.0144
+Next Token : Return, Posbility: 0.0111
+Next Token : Test, Posbility: 0.0076
+Choose : Write,  Posbility: 0.8189
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9850
+Next Token :  your, Posbility: 0.0062
+Next Token :  an, Posbility: 0.0019
+Next Token :  another, Posbility: 0.0013
+Next Token :  the, Posbility: 0.0012
+Choose :  a,  Posbility: 0.9850
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9384
+Next Token :  function, Posbility: 0.0321
+Next Token :  Python, Posbility: 0.0149
+Next Token :  program, Posbility: 0.0036
+Next Token :  script, Posbility: 0.0009
+Choose :  python,  Posbility: 0.9384
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9705
+Next Token :  program, Posbility: 0.0152
+Next Token :  script, Posbility: 0.0025
+Next Token :  fun, Posbility: 0.0023
+Next Token :  code, Posbility: 0.0011
+Choose :  function,  Posbility: 0.9705
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function
+---------------------------
+Next Token :  which, Posbility: 0.8513
+Next Token :  that, Posbility: 0.0685
+Next Token :  to, Posbility: 0.0454
+Next Token :  named, Posbility: 0.0043
+Next Token : ,, Posbility: 0.0037
+Choose :  which,  Posbility: 0.8513
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which
+---------------------------
+Next Token :  takes, Posbility: 0.7405
+Next Token :  returns, Posbility: 0.0861
+Next Token :  accepts, Posbility: 0.0473
+Next Token :  prints, Posbility: 0.0083
+Next Token :  can, Posbility: 0.0062
+Choose :  takes,  Posbility: 0.7405
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes
+---------------------------
+Next Token :  a, Posbility: 0.8425
+Next Token :  two, Posbility: 0.0520
+Next Token :  an, Posbility: 0.0401
+Next Token :  in, Posbility: 0.0184
+Next Token :  three, Posbility: 0.0083
+Choose :  a,  Posbility: 0.8425
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a
+---------------------------
+Next Token :  list, Posbility: 0.6924
+Next Token :  string, Posbility: 0.1409
+Next Token :  dictionary, Posbility: 0.0378
+Next Token :  number, Posbility: 0.0232
+Next Token :  single, Posbility: 0.0137
+Choose :  list,  Posbility: 0.6924
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list
+---------------------------
+Next Token :  of, Posbility: 0.8654
+Next Token :  and, Posbility: 0.1079
+Next Token : ,, Posbility: 0.0091
+Next Token :  with, Posbility: 0.0029
+Next Token :  as, Posbility: 0.0028
+Choose :  of,  Posbility: 0.8654
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of
+---------------------------
+Next Token :  integers, Posbility: 0.5215
+Next Token :  strings, Posbility: 0.2090
+Next Token :  numbers, Posbility: 0.0660
+Next Token :  lists, Posbility: 0.0215
+Next Token :  tu, Posbility: 0.0161
+Choose :  integers,  Posbility: 0.5215
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers
+---------------------------
+Next Token :  and, Posbility: 0.9301
+Next Token : ,, Posbility: 0.0239
+Next Token :  as, Posbility: 0.0144
+Next Token : 
+, Posbility: 0.0046
+Next Token :  (, Posbility: 0.0034
+Choose :  and,  Posbility: 0.9301
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and
+---------------------------
+Next Token :  returns, Posbility: 0.5130
+Next Token :  only, Posbility: 0.2318
+Next Token :  return, Posbility: 0.0606
+Next Token :  prints, Posbility: 0.0208
+Next Token :  sorts, Posbility: 0.0116
+Choose :  returns,  Posbility: 0.5130
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns
+---------------------------
+Next Token :  the, Posbility: 0.5667
+Next Token :  a, Posbility: 0.2240
+Next Token :  all, Posbility: 0.0280
+Next Token : 
+, Posbility: 0.0205
+Next Token :  an, Posbility: 0.0201
+Choose :  the,  Posbility: 0.5667
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the
+---------------------------
+Next Token :  even, Posbility: 0.2823
+Next Token :  sum, Posbility: 0.1120
+Next Token :  largest, Posbility: 0.0943
+Next Token :  average, Posbility: 0.0475
+Next Token :  maximum, Posbility: 0.0430
+Choose :  even,  Posbility: 0.2823
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the even
+---------------------------
+Next Token :  ones, Posbility: 0.8736
+Next Token :  numbers, Posbility: 0.0521
+Next Token : 
+, Posbility: 0.0125
+Next Token :  one, Posbility: 0.0106
+Next Token : s, Posbility: 0.0090
+Choose :  ones,  Posbility: 0.8736
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the even ones
+---------------------------
+Next Token : .', Posbility: 0.7461
+Next Token : ., Posbility: 0.1465
+Next Token : '', Posbility: 0.0328
+Next Token :  as, Posbility: 0.0142
+Next Token : ,, Posbility: 0.0088
+Choose : .',  Posbility: 0.7461
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the even ones.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token :  ', Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the even ones.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9605
+Next Token : 
+
+, Posbility: 0.0263
+Next Token : def, Posbility: 0.0045
+Next Token :  , Posbility: 0.0033
+Next Token :     , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9605
+---------------------------
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the even ones.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9691
+Next Token : 
+, Posbility: 0.0248
+Next Token : #, Posbility: 0.0037
+Next Token : from, Posbility: 0.0004
+Next Token : import, Posbility: 0.0004
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 13.725080013275146
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function which takes a list of integers and only returns the odd ones.'''
+def odd_list(lst):
+    '''Return a list of odd numbers in lst.'''
+    odd_lst = []
+    for i in lst:
+        if i % 2 == 1:
+            odd_lst.append(i)
+    return odd_lst
+
+
+'''Write a python function which takes a list of integers and returns the even ones.'''
+

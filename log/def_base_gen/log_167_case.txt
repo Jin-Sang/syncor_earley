@@ -1,0 +1,3210 @@
+<<<<<<<<<<<< 167 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  flatt, Posbility: 0.8322
+Next Token :  flat, Posbility: 0.0494
+Next Token :  nested, Posbility: 0.0131
+Next Token :  list, Posbility: 0.0093
+Next Token :  flattened, Posbility: 0.0048
+Choose :  flatt,  Posbility: 0.8322
+'''Write a function to flatten a given nested list structure.'''
+def flatt
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatt
+---------------------------
+Next Token : en, Posbility: 0.9963
+Next Token : ening, Posbility: 0.0012
+Next Token : (, Posbility: 0.0009
+Next Token : ener, Posbility: 0.0003
+Next Token : end, Posbility: 0.0003
+Choose : en,  Posbility: 0.9963
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten
+---------------------------
+Next Token : (, Posbility: 0.8446
+Next Token : _, Posbility: 0.1184
+Next Token : List, Posbility: 0.0066
+Next Token :  (, Posbility: 0.0064
+Next Token : 2, Posbility: 0.0024
+Choose : (,  Posbility: 0.8446
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(
+---------------------------
+Next Token : l, Posbility: 0.3002
+Next Token : n, Posbility: 0.2075
+Next Token : list, Posbility: 0.0611
+Next Token : my, Posbility: 0.0437
+Next Token : arr, Posbility: 0.0310
+Choose : l,  Posbility: 0.3002
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(l
+---------------------------
+Next Token : st, Posbility: 0.5484
+Next Token : ):, Posbility: 0.4006
+Next Token : :, Posbility: 0.0239
+Next Token : ,, Posbility: 0.0125
+Next Token : 1, Posbility: 0.0035
+Choose : st,  Posbility: 0.5484
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst
+---------------------------
+Next Token : ):, Posbility: 0.9122
+Next Token : :, Posbility: 0.0339
+Next Token : ,, Posbility: 0.0299
+Next Token : ), Posbility: 0.0096
+Next Token : 1, Posbility: 0.0045
+Choose : ):,  Posbility: 0.9122
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9039
+Next Token : 
+
+, Posbility: 0.0315
+Next Token : , Posbility: 0.0266
+Next Token :  , Posbility: 0.0232
+Next Token :   , Posbility: 0.0053
+Choose : 
+,  Posbility: 0.9039
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+
+---------------------------
+Next Token :     , Posbility: 0.8556
+Next Token :   , Posbility: 0.1062
+Next Token : 	, Posbility: 0.0252
+Next Token :    , Posbility: 0.0059
+Next Token :         , Posbility: 0.0019
+Choose :     ,  Posbility: 0.8556
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    
+---------------------------
+Next Token : '', Posbility: 0.3830
+Next Token : if, Posbility: 0.1262
+Next Token : #, Posbility: 0.0647
+Next Token : for, Posbility: 0.0476
+Next Token : result, Posbility: 0.0320
+Choose : '',  Posbility: 0.3830
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9995
+Next Token : ':, Posbility: 0.0001
+Next Token : '", Posbility: 0.0001
+Next Token : '., Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 0.9995
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''
+---------------------------
+Next Token : Fl, Posbility: 0.2439
+Next Token : 
+, Posbility: 0.1439
+Next Token : fl, Posbility: 0.0594
+Next Token : Write, Posbility: 0.0437
+Next Token : Given, Posbility: 0.0366
+Choose : Fl,  Posbility: 0.2439
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Fl
+---------------------------
+Next Token : atten, Posbility: 0.8723
+Next Token : att, Posbility: 0.1113
+Next Token : at, Posbility: 0.0071
+Next Token : ats, Posbility: 0.0018
+Next Token : oor, Posbility: 0.0007
+Choose : atten,  Posbility: 0.8723
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten
+---------------------------
+Next Token :  a, Posbility: 0.6852
+Next Token :  the, Posbility: 0.1253
+Next Token :  nested, Posbility: 0.0502
+Next Token :  list, Posbility: 0.0201
+Next Token :  an, Posbility: 0.0170
+Choose :  a,  Posbility: 0.6852
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a
+---------------------------
+Next Token :  given, Posbility: 0.6693
+Next Token :  list, Posbility: 0.1501
+Next Token :  nested, Posbility: 0.1309
+Next Token :  single, Posbility: 0.0044
+Next Token :  tree, Posbility: 0.0028
+Choose :  given,  Posbility: 0.6693
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given
+---------------------------
+Next Token :  nested, Posbility: 0.8042
+Next Token :  list, Posbility: 0.1471
+Next Token :  tree, Posbility: 0.0034
+Next Token :  n, Posbility: 0.0032
+Next Token :  structure, Posbility: 0.0027
+Choose :  nested,  Posbility: 0.8042
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested
+---------------------------
+Next Token :  list, Posbility: 0.9705
+Next Token :  structure, Posbility: 0.0083
+Next Token :  lists, Posbility: 0.0037
+Next Token :  l, Posbility: 0.0019
+Next Token :  array, Posbility: 0.0018
+Choose :  list,  Posbility: 0.9705
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list
+---------------------------
+Next Token :  structure, Posbility: 0.6578
+Next Token : .', Posbility: 0.0549
+Next Token : '', Posbility: 0.0483
+Next Token :  into, Posbility: 0.0465
+Next Token : ., Posbility: 0.0439
+Choose :  structure,  Posbility: 0.6578
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure
+---------------------------
+Next Token : .', Posbility: 0.2705
+Next Token : ., Posbility: 0.2369
+Next Token :  into, Posbility: 0.1409
+Next Token : '', Posbility: 0.1173
+Next Token :  to, Posbility: 0.0556
+Choose : .',  Posbility: 0.2705
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'
+---------------------------
+Next Token : '', Posbility: 0.9988
+Next Token : 
+, Posbility: 0.0004
+Next Token : ', Posbility: 0.0003
+Next Token : 
+
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Choose : '',  Posbility: 0.9988
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+---------------------------
+Next Token : 
+, Posbility: 0.8959
+Next Token : 
+
+, Posbility: 0.0989
+Next Token :  , Posbility: 0.0026
+Next Token :     , Posbility: 0.0008
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.8959
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9894
+Next Token :         , Posbility: 0.0027
+Next Token :   , Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0013
+Next Token : 	, Posbility: 0.0008
+Choose :     ,  Posbility: 0.9894
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    
+---------------------------
+Next Token : if, Posbility: 0.2272
+Next Token : for, Posbility: 0.0789
+Next Token : def, Posbility: 0.0672
+Next Token : #, Posbility: 0.0668
+Next Token : return, Posbility: 0.0566
+Choose : if,  Posbility: 0.2272
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if
+---------------------------
+Next Token :  not, Posbility: 0.2626
+Next Token :  l, Posbility: 0.2386
+Next Token :  len, Posbility: 0.2080
+Next Token :  type, Posbility: 0.1790
+Next Token :  is, Posbility: 0.0712
+Choose :  not,  Posbility: 0.2626
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not
+---------------------------
+Next Token :  l, Posbility: 0.8346
+Next Token :  is, Posbility: 0.1410
+Next Token :  type, Posbility: 0.0045
+Next Token :  (, Posbility: 0.0037
+Next Token :  any, Posbility: 0.0031
+Choose :  l,  Posbility: 0.8346
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : :, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0001
+Next Token : is, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst
+---------------------------
+Next Token : :, Posbility: 0.9685
+Next Token :  or, Posbility: 0.0226
+Next Token :  :, Posbility: 0.0043
+Next Token : [, Posbility: 0.0018
+Next Token : ., Posbility: 0.0008
+Choose : :,  Posbility: 0.9685
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+---------------------------
+Next Token : 
+, Posbility: 0.7937
+Next Token :  return, Posbility: 0.1426
+Next Token :  #, Posbility: 0.0170
+Next Token :  , Posbility: 0.0119
+Next Token :  raise, Posbility: 0.0098
+Choose : 
+,  Posbility: 0.7937
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+
+---------------------------
+Next Token :         , Posbility: 0.9872
+Next Token :       , Posbility: 0.0056
+Next Token :        , Posbility: 0.0032
+Next Token :             , Posbility: 0.0010
+Next Token :          , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9872
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        
+---------------------------
+Next Token : return, Posbility: 0.9372
+Next Token : y, Posbility: 0.0250
+Next Token : raise, Posbility: 0.0166
+Next Token : #, Posbility: 0.0050
+Next Token : pass, Posbility: 0.0049
+Choose : return,  Posbility: 0.9372
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return
+---------------------------
+Next Token :  [], Posbility: 0.4912
+Next Token :  l, Posbility: 0.3432
+Next Token : 
+, Posbility: 0.0640
+Next Token :  None, Posbility: 0.0369
+Next Token : 
+
+, Posbility: 0.0142
+Choose :  [],  Posbility: 0.4912
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+---------------------------
+Next Token : 
+, Posbility: 0.8071
+Next Token : 
+
+, Posbility: 0.1779
+Next Token :  #, Posbility: 0.0058
+Next Token :   , Posbility: 0.0028
+Next Token :  , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.8071
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+
+---------------------------
+Next Token :     , Posbility: 0.9777
+Next Token :         , Posbility: 0.0182
+Next Token :  , Posbility: 0.0007
+Next Token : #, Posbility: 0.0005
+Next Token :             , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9777
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    
+---------------------------
+Next Token : if, Posbility: 0.2621
+Next Token : el, Posbility: 0.1086
+Next Token : else, Posbility: 0.0972
+Next Token : 
+, Posbility: 0.0637
+Next Token : flat, Posbility: 0.0534
+Choose : if,  Posbility: 0.2621
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if
+---------------------------
+Next Token :  is, Posbility: 0.3979
+Next Token :  type, Posbility: 0.1914
+Next Token :  not, Posbility: 0.1636
+Next Token :  len, Posbility: 0.1617
+Next Token :  l, Posbility: 0.0503
+Choose :  is,  Posbility: 0.3979
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if is
+---------------------------
+Next Token : instance, Posbility: 0.9876
+Next Token : _, Posbility: 0.0105
+Next Token : list, Posbility: 0.0003
+Next Token : List, Posbility: 0.0002
+Next Token : iter, Posbility: 0.0001
+Choose : instance,  Posbility: 0.9876
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance
+---------------------------
+Next Token : (, Posbility: 0.9996
+Next Token :  (, Posbility: 0.0003
+Next Token : :, Posbility: 0.0000
+Next Token : ((, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : (,  Posbility: 0.9996
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(
+---------------------------
+Next Token : l, Posbility: 0.9990
+Next Token :  l, Posbility: 0.0003
+Next Token : list, Posbility: 0.0002
+Next Token : type, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Choose : l,  Posbility: 0.9990
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(l
+---------------------------
+Next Token : st, Posbility: 1.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 1.0000
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst
+---------------------------
+Next Token : ,, Posbility: 0.8942
+Next Token : [, Posbility: 0.1052
+Next Token : ,, Posbility: 0.0003
+Next Token : ., Posbility: 0.0001
+Next Token : ,', Posbility: 0.0001
+Choose : ,,  Posbility: 0.8942
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst,
+---------------------------
+Next Token :  list, Posbility: 0.7288
+Next Token :  (, Posbility: 0.1076
+Next Token : list, Posbility: 0.0630
+Next Token :  dict, Posbility: 0.0254
+Next Token :  tuple, Posbility: 0.0164
+Choose :  list,  Posbility: 0.7288
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list
+---------------------------
+Next Token : ):, Posbility: 0.9065
+Next Token : ), Posbility: 0.0928
+Next Token : [, Posbility: 0.0002
+Next Token : )[, Posbility: 0.0001
+Next Token : )\, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9065
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+---------------------------
+Next Token : 
+, Posbility: 0.9800
+Next Token :   , Posbility: 0.0057
+Next Token :  #, Posbility: 0.0053
+Next Token :  , Posbility: 0.0020
+Next Token :  return, Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9800
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+
+---------------------------
+Next Token :         , Posbility: 0.9955
+Next Token :        , Posbility: 0.0010
+Next Token :             , Posbility: 0.0010
+Next Token :       , Posbility: 0.0007
+Next Token :     , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9955
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        
+---------------------------
+Next Token : return, Posbility: 0.4592
+Next Token : fl, Posbility: 0.0791
+Next Token : for, Posbility: 0.0759
+Next Token : l, Posbility: 0.0609
+Next Token : if, Posbility: 0.0590
+Choose : return,  Posbility: 0.4592
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return
+---------------------------
+Next Token :  flatt, Posbility: 0.5703
+Next Token :  [, Posbility: 0.3357
+Next Token :  l, Posbility: 0.0265
+Next Token :  list, Posbility: 0.0243
+Next Token :  map, Posbility: 0.0057
+Choose :  flatt,  Posbility: 0.5703
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatt
+---------------------------
+Next Token : en, Posbility: 0.9998
+Next Token : end, Posbility: 0.0001
+Next Token : (, Posbility: 0.0000
+Next Token : ene, Posbility: 0.0000
+Next Token : ens, Posbility: 0.0000
+Choose : en,  Posbility: 0.9998
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten
+---------------------------
+Next Token : (, Posbility: 0.8910
+Next Token : ([, Posbility: 0.0913
+Next Token : _, Posbility: 0.0123
+Next Token : ((, Posbility: 0.0022
+Next Token : (_, Posbility: 0.0007
+Choose : (,  Posbility: 0.8910
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(
+---------------------------
+Next Token : l, Posbility: 0.9872
+Next Token : list, Posbility: 0.0041
+Next Token : t, Posbility: 0.0022
+Next Token : map, Posbility: 0.0011
+Next Token : fl, Posbility: 0.0007
+Choose : l,  Posbility: 0.9872
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(l
+---------------------------
+Next Token : st, Posbility: 0.9997
+Next Token :  for, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : ), Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : st,  Posbility: 0.9997
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst
+---------------------------
+Next Token : [, Posbility: 0.9908
+Next Token : ), Posbility: 0.0070
+Next Token :  [, Posbility: 0.0010
+Next Token : ., Posbility: 0.0005
+Next Token : =, Posbility: 0.0002
+Choose : [,  Posbility: 0.9908
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[
+---------------------------
+Next Token : 0, Posbility: 0.9802
+Next Token : 1, Posbility: 0.0084
+Next Token : ]), Posbility: 0.0047
+Next Token : :-, Posbility: 0.0020
+Next Token : -, Posbility: 0.0013
+Choose : 0,  Posbility: 0.9802
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0
+---------------------------
+Next Token : ]), Posbility: 0.9930
+Next Token : ][, Posbility: 0.0022
+Next Token : ], Posbility: 0.0019
+Next Token : ]., Posbility: 0.0009
+Next Token : ])., Posbility: 0.0007
+Choose : ]),  Posbility: 0.9930
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0])
+---------------------------
+Next Token :  +, Posbility: 0.9057
+Next Token : +, Posbility: 0.0588
+Next Token : 
+, Posbility: 0.0300
+Next Token : 
+
+, Posbility: 0.0020
+Next Token :   , Posbility: 0.0011
+Choose :  +,  Posbility: 0.9057
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) +
+---------------------------
+Next Token :  flatt, Posbility: 0.9976
+Next Token :  [, Posbility: 0.0013
+Next Token :  list, Posbility: 0.0003
+Next Token :   , Posbility: 0.0001
+Next Token :  flat, Posbility: 0.0001
+Choose :  flatt,  Posbility: 0.9976
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatt
+---------------------------
+Next Token : en, Posbility: 1.0000
+Next Token : end, Posbility: 0.0000
+Next Token : elist, Posbility: 0.0000
+Next Token : ense, Posbility: 0.0000
+Next Token : ens, Posbility: 0.0000
+Choose : en,  Posbility: 1.0000
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten
+---------------------------
+Next Token : (, Posbility: 0.9840
+Next Token : ([, Posbility: 0.0148
+Next Token : _, Posbility: 0.0003
+Next Token : (_, Posbility: 0.0003
+Next Token : (', Posbility: 0.0003
+Choose : (,  Posbility: 0.9840
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(
+---------------------------
+Next Token : l, Posbility: 0.9983
+Next Token : fl, Posbility: 0.0003
+Next Token :  l, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0002
+Next Token : list, Posbility: 0.0002
+Choose : l,  Posbility: 0.9983
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(l
+---------------------------
+Next Token : st, Posbility: 0.9989
+Next Token : [, Posbility: 0.0010
+Next Token : ), Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Choose : st,  Posbility: 0.9989
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst
+---------------------------
+Next Token : [, Posbility: 0.9980
+Next Token : ), Posbility: 0.0012
+Next Token : )[, Posbility: 0.0003
+Next Token :  [, Posbility: 0.0002
+Next Token : [[, Posbility: 0.0001
+Choose : [,  Posbility: 0.9980
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[
+---------------------------
+Next Token : 1, Posbility: 0.9981
+Next Token : :, Posbility: 0.0007
+Next Token : 0, Posbility: 0.0004
+Next Token : 2, Posbility: 0.0004
+Next Token : -, Posbility: 0.0002
+Choose : 1,  Posbility: 0.9981
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1
+---------------------------
+Next Token : :, Posbility: 0.9500
+Next Token : ]), Posbility: 0.0472
+Next Token :  :, Posbility: 0.0017
+Next Token : :-, Posbility: 0.0004
+Next Token : ::, Posbility: 0.0002
+Choose : :,  Posbility: 0.9500
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:
+---------------------------
+Next Token : ]), Posbility: 0.9948
+Next Token : len, Posbility: 0.0017
+Next Token :  ]), Posbility: 0.0016
+Next Token : ]], Posbility: 0.0003
+Next Token : ],, Posbility: 0.0003
+Choose : ]),  Posbility: 0.9948
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.9215
+Next Token :  +, Posbility: 0.0211
+Next Token : 
+
+, Posbility: 0.0181
+Next Token :  #, Posbility: 0.0162
+Next Token :  if, Posbility: 0.0072
+Choose : 
+,  Posbility: 0.9215
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+
+---------------------------
+Next Token :     , Posbility: 0.9879
+Next Token :         , Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0044
+Next Token : <|endoftext|>, Posbility: 0.0006
+Next Token : #, Posbility: 0.0004
+Choose :     ,  Posbility: 0.9879
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    
+---------------------------
+Next Token : else, Posbility: 0.5589
+Next Token : return, Posbility: 0.2096
+Next Token : el, Posbility: 0.1166
+Next Token : if, Posbility: 0.0577
+Next Token : 
+, Posbility: 0.0106
+Choose : else,  Posbility: 0.5589
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else
+---------------------------
+Next Token : :, Posbility: 0.9995
+Next Token :  :, Posbility: 0.0004
+Next Token : :#, Posbility: 0.0000
+Next Token :  or, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : :,  Posbility: 0.9995
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9826
+Next Token :  , Posbility: 0.0047
+Next Token :  return, Posbility: 0.0043
+Next Token :  #, Posbility: 0.0034
+Next Token :   , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9826
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9967
+Next Token :        , Posbility: 0.0013
+Next Token :     , Posbility: 0.0007
+Next Token :       , Posbility: 0.0004
+Next Token :          , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9967
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.7847
+Next Token : if, Posbility: 0.0234
+Next Token : l, Posbility: 0.0212
+Next Token : result, Posbility: 0.0206
+Next Token : fl, Posbility: 0.0186
+Choose : return,  Posbility: 0.7847
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return
+---------------------------
+Next Token :  [, Posbility: 0.7890
+Next Token :  l, Posbility: 0.0842
+Next Token :  flatt, Posbility: 0.0420
+Next Token :  [], Posbility: 0.0271
+Next Token :  list, Posbility: 0.0221
+Choose :  [,  Posbility: 0.7890
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [
+---------------------------
+Next Token : l, Posbility: 0.9699
+Next Token : fl, Posbility: 0.0201
+Next Token : list, Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0009
+Next Token : str, Posbility: 0.0008
+Choose : l,  Posbility: 0.9699
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [l
+---------------------------
+Next Token : st, Posbility: 0.9935
+Next Token :  for, Posbility: 0.0031
+Next Token : [, Posbility: 0.0029
+Next Token : ., Posbility: 0.0001
+Next Token : ], Posbility: 0.0001
+Choose : st,  Posbility: 0.9935
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst
+---------------------------
+Next Token : ], Posbility: 0.9779
+Next Token : [, Posbility: 0.0131
+Next Token : ., Posbility: 0.0038
+Next Token : ,, Posbility: 0.0023
+Next Token : [', Posbility: 0.0007
+Choose : ],  Posbility: 0.9779
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+---------------------------
+Next Token : 
+, Posbility: 0.4305
+Next Token :  +, Posbility: 0.2906
+Next Token : 
+
+, Posbility: 0.2460
+Next Token : <|endoftext|>, Posbility: 0.0218
+Next Token :  , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.4305
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+---------------------------
+Next Token : 
+, Posbility: 0.6518
+Next Token : <|endoftext|>, Posbility: 0.1171
+Next Token :     , Posbility: 0.0893
+Next Token :         , Posbility: 0.0379
+Next Token : #, Posbility: 0.0141
+Choose : 
+,  Posbility: 0.6518
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9212
+Next Token : <|endoftext|>, Posbility: 0.0386
+Next Token : 
+
+, Posbility: 0.0175
+Next Token :     , Posbility: 0.0160
+Next Token :         , Posbility: 0.0036
+Choose : 
+,  Posbility: 0.9212
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+
+---------------------------
+Next Token : #, Posbility: 0.2409
+Next Token : '', Posbility: 0.2343
+Next Token : def, Posbility: 0.2303
+Next Token : if, Posbility: 0.0799
+Next Token : 
+, Posbility: 0.0510
+Choose : #,  Posbility: 0.2409
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+#
+---------------------------
+Next Token :  def, Posbility: 0.0381
+Next Token :  Test, Posbility: 0.0374
+Next Token :  print, Posbility: 0.0261
+Next Token :  Write, Posbility: 0.0209
+Next Token :  --------------------------------, Posbility: 0.0202
+Choose :  def,  Posbility: 0.0381
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def
+---------------------------
+Next Token :  flatt, Posbility: 0.6764
+Next Token :  main, Posbility: 0.0294
+Next Token :  test, Posbility: 0.0251
+Next Token :  flat, Posbility: 0.0155
+Next Token :  print, Posbility: 0.0143
+Choose :  flatt,  Posbility: 0.6764
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatt
+---------------------------
+Next Token : en, Posbility: 0.9976
+Next Token : end, Posbility: 0.0008
+Next Token : (, Posbility: 0.0005
+Next Token : ene, Posbility: 0.0001
+Next Token : ens, Posbility: 0.0001
+Choose : en,  Posbility: 0.9976
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten
+---------------------------
+Next Token : (, Posbility: 0.8877
+Next Token : _, Posbility: 0.0634
+Next Token : ([, Posbility: 0.0138
+Next Token : 2, Posbility: 0.0133
+Next Token : 1, Posbility: 0.0040
+Choose : (,  Posbility: 0.8877
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(
+---------------------------
+Next Token : l, Posbility: 0.8770
+Next Token : n, Posbility: 0.0254
+Next Token : list, Posbility: 0.0113
+Next Token : a, Posbility: 0.0059
+Next Token : arr, Posbility: 0.0053
+Choose : l,  Posbility: 0.8770
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(l
+---------------------------
+Next Token : st, Posbility: 0.9726
+Next Token : ):, Posbility: 0.0228
+Next Token : :, Posbility: 0.0012
+Next Token : 1, Posbility: 0.0007
+Next Token : ,, Posbility: 0.0007
+Choose : st,  Posbility: 0.9726
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst
+---------------------------
+Next Token : ):, Posbility: 0.9581
+Next Token : :, Posbility: 0.0143
+Next Token : ), Posbility: 0.0122
+Next Token : ,, Posbility: 0.0107
+Next Token : 1, Posbility: 0.0020
+Choose : ):,  Posbility: 0.9581
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+---------------------------
+Next Token : 
+, Posbility: 0.9776
+Next Token : 
+
+, Posbility: 0.0054
+Next Token :  #, Posbility: 0.0048
+Next Token :   , Posbility: 0.0036
+Next Token :  , Posbility: 0.0027
+Choose : 
+,  Posbility: 0.9776
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+
+---------------------------
+Next Token : #, Posbility: 0.9725
+Next Token :     , Posbility: 0.0180
+Next Token : 
+, Posbility: 0.0032
+Next Token :         , Posbility: 0.0012
+Next Token : def, Posbility: 0.0010
+Choose : #,  Posbility: 0.9725
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#
+---------------------------
+Next Token :      , Posbility: 0.9632
+Next Token :     , Posbility: 0.0088
+Next Token :    , Posbility: 0.0081
+Next Token :          , Posbility: 0.0036
+Next Token : 
+, Posbility: 0.0034
+Choose :      ,  Posbility: 0.9632
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     
+---------------------------
+Next Token : '', Posbility: 0.8494
+Next Token : if, Posbility: 0.0530
+Next Token : return, Posbility: 0.0146
+Next Token : """, Posbility: 0.0134
+Next Token : #, Posbility: 0.0086
+Choose : '',  Posbility: 0.8494
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     ''
+---------------------------
+Next Token : ', Posbility: 0.9998
+Next Token : ':, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9998
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''
+---------------------------
+Next Token : Fl, Posbility: 0.8493
+Next Token : 
+, Posbility: 0.0229
+Next Token : fl, Posbility: 0.0199
+Next Token : Return, Posbility: 0.0137
+Next Token : Rec, Posbility: 0.0074
+Choose : Fl,  Posbility: 0.8493
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Fl
+---------------------------
+Next Token : atten, Posbility: 0.9845
+Next Token : att, Posbility: 0.0106
+Next Token : at, Posbility: 0.0027
+Next Token : avor, Posbility: 0.0003
+Next Token : aten, Posbility: 0.0003
+Choose : atten,  Posbility: 0.9845
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten
+---------------------------
+Next Token :  a, Posbility: 0.9816
+Next Token :  given, Posbility: 0.0045
+Next Token :  the, Posbility: 0.0033
+Next Token :  nested, Posbility: 0.0022
+Next Token :  an, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9816
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a
+---------------------------
+Next Token :  given, Posbility: 0.9875
+Next Token :  nested, Posbility: 0.0062
+Next Token :  list, Posbility: 0.0031
+Next Token :  single, Posbility: 0.0003
+Next Token :  tree, Posbility: 0.0002
+Choose :  given,  Posbility: 0.9875
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given
+---------------------------
+Next Token :  nested, Posbility: 0.9812
+Next Token :  list, Posbility: 0.0115
+Next Token :  n, Posbility: 0.0007
+Next Token :  flat, Posbility: 0.0004
+Next Token :  nesting, Posbility: 0.0003
+Choose :  nested,  Posbility: 0.9812
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested
+---------------------------
+Next Token :  list, Posbility: 0.9958
+Next Token :  lists, Posbility: 0.0009
+Next Token :  structure, Posbility: 0.0007
+Next Token :  array, Posbility: 0.0004
+Next Token :  nested, Posbility: 0.0002
+Choose :  list,  Posbility: 0.9958
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list
+---------------------------
+Next Token :  structure, Posbility: 0.9821
+Next Token : .', Posbility: 0.0101
+Next Token : '', Posbility: 0.0013
+Next Token :  into, Posbility: 0.0012
+Next Token :  of, Posbility: 0.0007
+Choose :  structure,  Posbility: 0.9821
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure
+---------------------------
+Next Token : .', Posbility: 0.8982
+Next Token : ., Posbility: 0.0322
+Next Token : '', Posbility: 0.0235
+Next Token :  into, Posbility: 0.0188
+Next Token :  to, Posbility: 0.0061
+Choose : .',  Posbility: 0.8982
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0000
+Next Token : ', Posbility: 0.0000
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9884
+Next Token : 
+
+, Posbility: 0.0095
+Next Token :  , Posbility: 0.0007
+Next Token : <|endoftext|>, Posbility: 0.0003
+Next Token :     , Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9884
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+
+---------------------------
+Next Token : #, Posbility: 0.9698
+Next Token : 
+, Posbility: 0.0201
+Next Token :     , Posbility: 0.0047
+Next Token : <|endoftext|>, Posbility: 0.0020
+Next Token :         , Posbility: 0.0015
+Choose : #,  Posbility: 0.9698
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#
+---------------------------
+Next Token :      , Posbility: 0.9826
+Next Token : 
+, Posbility: 0.0097
+Next Token :          , Posbility: 0.0018
+Next Token :  , Posbility: 0.0011
+Next Token :  #, Posbility: 0.0010
+Choose :      ,  Posbility: 0.9826
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     
+---------------------------
+Next Token : if, Posbility: 0.5746
+Next Token : return, Posbility: 0.0553
+Next Token : def, Posbility: 0.0439
+Next Token : for, Posbility: 0.0341
+Next Token : l, Posbility: 0.0341
+Choose : if,  Posbility: 0.5746
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if
+---------------------------
+Next Token :  not, Posbility: 0.7797
+Next Token :  is, Posbility: 0.1010
+Next Token :  len, Posbility: 0.0522
+Next Token :  l, Posbility: 0.0488
+Next Token :  type, Posbility: 0.0103
+Choose :  not,  Posbility: 0.7797
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not
+---------------------------
+Next Token :  l, Posbility: 0.9662
+Next Token :  is, Posbility: 0.0288
+Next Token :  len, Posbility: 0.0011
+Next Token :  any, Posbility: 0.0007
+Next Token :  (, Posbility: 0.0005
+Choose :  l,  Posbility: 0.9662
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : sts, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : str, Posbility: 0.0000
+Next Token : is, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst
+---------------------------
+Next Token : :, Posbility: 0.9838
+Next Token :  or, Posbility: 0.0119
+Next Token : [, Posbility: 0.0022
+Next Token : ., Posbility: 0.0010
+Next Token :  :, Posbility: 0.0005
+Choose : :,  Posbility: 0.9838
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+---------------------------
+Next Token : 
+, Posbility: 0.9848
+Next Token :  return, Posbility: 0.0076
+Next Token :   , Posbility: 0.0021
+Next Token :  #, Posbility: 0.0017
+Next Token :  , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9848
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+
+---------------------------
+Next Token : #, Posbility: 0.9982
+Next Token :         , Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0004
+Next Token :     , Posbility: 0.0002
+Next Token :             , Posbility: 0.0001
+Choose : #,  Posbility: 0.9982
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#
+---------------------------
+Next Token :          , Posbility: 0.9965
+Next Token :      , Posbility: 0.0015
+Next Token :         , Posbility: 0.0007
+Next Token :        , Posbility: 0.0004
+Next Token :           , Posbility: 0.0004
+Choose :          ,  Posbility: 0.9965
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         
+---------------------------
+Next Token : return, Posbility: 0.9905
+Next Token : y, Posbility: 0.0039
+Next Token : raise, Posbility: 0.0016
+Next Token : print, Posbility: 0.0014
+Next Token : #, Posbility: 0.0007
+Choose : return,  Posbility: 0.9905
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return
+---------------------------
+Next Token :  [], Posbility: 0.9741
+Next Token :  [, Posbility: 0.0072
+Next Token : 
+, Posbility: 0.0055
+Next Token :  [[, Posbility: 0.0033
+Next Token :  l, Posbility: 0.0024
+Choose :  [],  Posbility: 0.9741
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+---------------------------
+Next Token : 
+, Posbility: 0.9968
+Next Token : 
+
+, Posbility: 0.0015
+Next Token :  , Posbility: 0.0006
+Next Token :   , Posbility: 0.0003
+Next Token :  #, Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9968
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+
+---------------------------
+Next Token : #, Posbility: 0.9222
+Next Token : 
+, Posbility: 0.0439
+Next Token :     , Posbility: 0.0248
+Next Token :         , Posbility: 0.0070
+Next Token :             , Posbility: 0.0003
+Choose : #,  Posbility: 0.9222
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#
+---------------------------
+Next Token :      , Posbility: 0.9564
+Next Token : 
+, Posbility: 0.0389
+Next Token :          , Posbility: 0.0015
+Next Token :  , Posbility: 0.0015
+Next Token :     , Posbility: 0.0004
+Choose :      ,  Posbility: 0.9564
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     
+---------------------------
+Next Token : if, Posbility: 0.5537
+Next Token : el, Posbility: 0.0832
+Next Token : return, Posbility: 0.0553
+Next Token : else, Posbility: 0.0496
+Next Token : flat, Posbility: 0.0277
+Choose : if,  Posbility: 0.5537
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if
+---------------------------
+Next Token :  is, Posbility: 0.9235
+Next Token :  len, Posbility: 0.0326
+Next Token :  not, Posbility: 0.0268
+Next Token :  type, Posbility: 0.0060
+Next Token :  l, Posbility: 0.0033
+Choose :  is,  Posbility: 0.9235
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if is
+---------------------------
+Next Token : instance, Posbility: 0.9997
+Next Token : _, Posbility: 0.0002
+Next Token : type, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : iter, Posbility: 0.0000
+Choose : instance,  Posbility: 0.9997
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance
+---------------------------
+Next Token : (, Posbility: 0.9999
+Next Token :  (, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0000
+Next Token : ([, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9999
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(
+---------------------------
+Next Token : l, Posbility: 0.9995
+Next Token :  l, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token : fl, Posbility: 0.0000
+Choose : l,  Posbility: 0.9995
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : ,, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Next Token : bl, Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst
+---------------------------
+Next Token : ,, Posbility: 0.9909
+Next Token : [, Posbility: 0.0089
+Next Token : ., Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Next Token : [', Posbility: 0.0000
+Choose : ,,  Posbility: 0.9909
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst,
+---------------------------
+Next Token :  list, Posbility: 0.9863
+Next Token : list, Posbility: 0.0039
+Next Token :  (, Posbility: 0.0034
+Next Token :  tuple, Posbility: 0.0020
+Next Token :  dict, Posbility: 0.0014
+Choose :  list,  Posbility: 0.9863
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list
+---------------------------
+Next Token : ):, Posbility: 0.9869
+Next Token : ), Posbility: 0.0127
+Next Token : [, Posbility: 0.0001
+Next Token : (, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : ):,  Posbility: 0.9869
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+---------------------------
+Next Token : 
+, Posbility: 0.9963
+Next Token :   , Posbility: 0.0013
+Next Token :  #, Posbility: 0.0008
+Next Token :  , Posbility: 0.0005
+Next Token :     , Posbility: 0.0002
+Choose : 
+,  Posbility: 0.9963
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+
+---------------------------
+Next Token : #, Posbility: 0.9992
+Next Token :         , Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Next Token :     , Posbility: 0.0001
+Next Token : <|endoftext|>, Posbility: 0.0000
+Choose : #,  Posbility: 0.9992
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#
+---------------------------
+Next Token :          , Posbility: 0.9960
+Next Token :      , Posbility: 0.0015
+Next Token :         , Posbility: 0.0007
+Next Token :        , Posbility: 0.0006
+Next Token :           , Posbility: 0.0003
+Choose :          ,  Posbility: 0.9960
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         
+---------------------------
+Next Token : return, Posbility: 0.6539
+Next Token : fl, Posbility: 0.0385
+Next Token : l, Posbility: 0.0330
+Next Token : res, Posbility: 0.0304
+Next Token : result, Posbility: 0.0244
+Choose : return,  Posbility: 0.6539
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return
+---------------------------
+Next Token :  flatt, Posbility: 0.7228
+Next Token :  [, Posbility: 0.2177
+Next Token :  l, Posbility: 0.0216
+Next Token :  map, Posbility: 0.0080
+Next Token :  list, Posbility: 0.0073
+Choose :  flatt,  Posbility: 0.7228
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatt
+---------------------------
+Next Token : en, Posbility: 0.9997
+Next Token : end, Posbility: 0.0002
+Next Token : ene, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ent, Posbility: 0.0000
+Choose : en,  Posbility: 0.9997
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten
+---------------------------
+Next Token : (, Posbility: 0.9174
+Next Token : ([, Posbility: 0.0698
+Next Token : ((, Posbility: 0.0049
+Next Token : _, Posbility: 0.0036
+Next Token : (', Posbility: 0.0012
+Choose : (,  Posbility: 0.9174
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(
+---------------------------
+Next Token : l, Posbility: 0.9942
+Next Token : t, Posbility: 0.0017
+Next Token : list, Posbility: 0.0016
+Next Token : fl, Posbility: 0.0006
+Next Token : 
+, Posbility: 0.0004
+Choose : l,  Posbility: 0.9942
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(l
+---------------------------
+Next Token : st, Posbility: 0.9998
+Next Token : [, Posbility: 0.0001
+Next Token : ), Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : st,  Posbility: 0.9998
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst
+---------------------------
+Next Token : [, Posbility: 0.9878
+Next Token : ), Posbility: 0.0095
+Next Token : )[, Posbility: 0.0007
+Next Token : ., Posbility: 0.0006
+Next Token :  [, Posbility: 0.0003
+Choose : [,  Posbility: 0.9878
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[
+---------------------------
+Next Token : 0, Posbility: 0.9885
+Next Token : 1, Posbility: 0.0057
+Next Token : :, Posbility: 0.0031
+Next Token : :-, Posbility: 0.0010
+Next Token : ]), Posbility: 0.0007
+Choose : 0,  Posbility: 0.9885
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0
+---------------------------
+Next Token : ]), Posbility: 0.9865
+Next Token : ][, Posbility: 0.0057
+Next Token : :, Posbility: 0.0022
+Next Token : ]),, Posbility: 0.0015
+Next Token : ]., Posbility: 0.0012
+Choose : ]),  Posbility: 0.9865
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0])
+---------------------------
+Next Token :  +, Posbility: 0.9931
+Next Token : 
+, Posbility: 0.0041
+Next Token : +, Posbility: 0.0015
+Next Token :   , Posbility: 0.0004
+Next Token :  \, Posbility: 0.0003
+Choose :  +,  Posbility: 0.9931
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) +
+---------------------------
+Next Token :  flatt, Posbility: 0.9948
+Next Token :  [, Posbility: 0.0032
+Next Token :  \, Posbility: 0.0004
+Next Token :  list, Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Choose :  flatt,  Posbility: 0.9948
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatt
+---------------------------
+Next Token : en, Posbility: 1.0000
+Next Token : end, Posbility: 0.0000
+Next Token : enf, Posbility: 0.0000
+Next Token : ent, Posbility: 0.0000
+Next Token : enable, Posbility: 0.0000
+Choose : en,  Posbility: 1.0000
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten
+---------------------------
+Next Token : (, Posbility: 0.9713
+Next Token : ([, Posbility: 0.0266
+Next Token : ((, Posbility: 0.0011
+Next Token : (', Posbility: 0.0003
+Next Token : _, Posbility: 0.0002
+Choose : (,  Posbility: 0.9713
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(
+---------------------------
+Next Token : l, Posbility: 0.9961
+Next Token : fl, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0009
+Next Token : list, Posbility: 0.0004
+Next Token : t, Posbility: 0.0004
+Choose : l,  Posbility: 0.9961
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(l
+---------------------------
+Next Token : st, Posbility: 0.9998
+Next Token : [, Posbility: 0.0002
+Next Token : sts, Posbility: 0.0000
+Next Token : ), Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : st,  Posbility: 0.9998
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst
+---------------------------
+Next Token : [, Posbility: 0.9966
+Next Token : ), Posbility: 0.0027
+Next Token : )[, Posbility: 0.0002
+Next Token :  +, Posbility: 0.0001
+Next Token :  [, Posbility: 0.0001
+Choose : [,  Posbility: 0.9966
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[
+---------------------------
+Next Token : 1, Posbility: 0.9964
+Next Token : :, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0008
+Next Token : 0, Posbility: 0.0002
+Next Token : -, Posbility: 0.0002
+Choose : 1,  Posbility: 0.9964
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1
+---------------------------
+Next Token : :, Posbility: 0.9916
+Next Token : ]), Posbility: 0.0050
+Next Token : :], Posbility: 0.0019
+Next Token : ::, Posbility: 0.0006
+Next Token :  :, Posbility: 0.0004
+Choose : :,  Posbility: 0.9916
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:
+---------------------------
+Next Token : ]), Posbility: 0.9991
+Next Token : ],, Posbility: 0.0002
+Next Token :  ]), Posbility: 0.0001
+Next Token : ][, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0001
+Choose : ]),  Posbility: 0.9991
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+---------------------------
+Next Token : 
+, Posbility: 0.9706
+Next Token :  +, Posbility: 0.0218
+Next Token :  #, Posbility: 0.0013
+Next Token :  , Posbility: 0.0013
+Next Token : [, Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9706
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+
+---------------------------
+Next Token : #, Posbility: 0.9862
+Next Token : 
+, Posbility: 0.0075
+Next Token : <|endoftext|>, Posbility: 0.0023
+Next Token :     , Posbility: 0.0023
+Next Token :         , Posbility: 0.0010
+Choose : #,  Posbility: 0.9862
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#
+---------------------------
+Next Token :      , Posbility: 0.9871
+Next Token : 
+, Posbility: 0.0073
+Next Token :          , Posbility: 0.0042
+Next Token :  #, Posbility: 0.0003
+Next Token :  , Posbility: 0.0002
+Choose :      ,  Posbility: 0.9871
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     
+---------------------------
+Next Token : else, Posbility: 0.9713
+Next Token : return, Posbility: 0.0124
+Next Token : el, Posbility: 0.0113
+Next Token : if, Posbility: 0.0017
+Next Token : #, Posbility: 0.0007
+Choose : else,  Posbility: 0.9713
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else
+---------------------------
+Next Token : :, Posbility: 0.9997
+Next Token :  :, Posbility: 0.0003
+Next Token : :#, Posbility: 0.0000
+Next Token :  and, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : :,  Posbility: 0.9997
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+---------------------------
+Next Token : 
+, Posbility: 0.9975
+Next Token :  , Posbility: 0.0009
+Next Token :   , Posbility: 0.0004
+Next Token :  return, Posbility: 0.0003
+Next Token :  #, Posbility: 0.0003
+Choose : 
+,  Posbility: 0.9975
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+
+---------------------------
+Next Token : #, Posbility: 0.9984
+Next Token :         , Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0004
+Next Token :     , Posbility: 0.0001
+Next Token : <|endoftext|>, Posbility: 0.0001
+Choose : #,  Posbility: 0.9984
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#
+---------------------------
+Next Token :          , Posbility: 0.9961
+Next Token :         , Posbility: 0.0019
+Next Token :      , Posbility: 0.0006
+Next Token :        , Posbility: 0.0005
+Next Token :           , Posbility: 0.0003
+Choose :          ,  Posbility: 0.9961
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         
+---------------------------
+Next Token : return, Posbility: 0.9694
+Next Token : l, Posbility: 0.0039
+Next Token : if, Posbility: 0.0028
+Next Token : print, Posbility: 0.0027
+Next Token : fl, Posbility: 0.0025
+Choose : return,  Posbility: 0.9694
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return
+---------------------------
+Next Token :  [, Posbility: 0.9190
+Next Token :  l, Posbility: 0.0481
+Next Token :  [[, Posbility: 0.0096
+Next Token :  flatt, Posbility: 0.0042
+Next Token :  [], Posbility: 0.0038
+Choose :  [,  Posbility: 0.9190
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [
+---------------------------
+Next Token : l, Posbility: 0.9942
+Next Token : fl, Posbility: 0.0015
+Next Token : str, Posbility: 0.0008
+Next Token : int, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Choose : l,  Posbility: 0.9942
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [l
+---------------------------
+Next Token : st, Posbility: 0.9997
+Next Token :  for, Posbility: 0.0001
+Next Token : [, Posbility: 0.0001
+Next Token : sts, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : st,  Posbility: 0.9997
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [lst
+---------------------------
+Next Token : ], Posbility: 0.9957
+Next Token : [, Posbility: 0.0022
+Next Token : ., Posbility: 0.0011
+Next Token : ,, Posbility: 0.0006
+Next Token : [', Posbility: 0.0001
+Choose : ],  Posbility: 0.9957
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [lst]
+---------------------------
+Next Token : 
+, Posbility: 0.5744
+Next Token : 
+
+, Posbility: 0.3879
+Next Token : <|endoftext|>, Posbility: 0.0243
+Next Token :  +, Posbility: 0.0062
+Next Token :  , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.5744
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [lst]
+
+---------------------------
+Next Token : 
+, Posbility: 0.6298
+Next Token : #, Posbility: 0.1959
+Next Token : <|endoftext|>, Posbility: 0.1114
+Next Token :     , Posbility: 0.0198
+Next Token : def, Posbility: 0.0101
+Choose : 
+,  Posbility: 0.6298
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [lst]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9578
+Next Token : <|endoftext|>, Posbility: 0.0196
+Next Token : 
+
+, Posbility: 0.0172
+Next Token :     , Posbility: 0.0029
+Next Token :         , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9578
+---------------------------
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [lst]
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.3288
+Next Token : #, Posbility: 0.3111
+Next Token : '', Posbility: 0.1716
+Next Token : if, Posbility: 0.0437
+Next Token : 
+, Posbility: 0.0433
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 32.61918020248413
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to flatten a given nested list structure.'''
+def flatten(lst):
+    '''Flatten a given nested list structure.'''
+    if not lst:
+        return []
+    if isinstance(lst, list):
+        return flatten(lst[0]) + flatten(lst[1:])
+    else:
+        return [lst]
+
+
+# def flatten(lst):
+#     '''Flatten a given nested list structure.'''
+#     if not lst:
+#         return []
+#     if isinstance(lst, list):
+#         return flatten(lst[0]) + flatten(lst[1:])
+#     else:
+#         return [lst]
+
+
+

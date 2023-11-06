@@ -1,0 +1,616 @@
+<<<<<<<<<<<< 353 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  l, Posbility: 0.2149
+Next Token :  find, Posbility: 0.0769
+Next Token :  cone, Posbility: 0.0721
+Next Token :  surface, Posbility: 0.0429
+Next Token :  get, Posbility: 0.0412
+Choose :  l,  Posbility: 0.2149
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l
+---------------------------
+Next Token : _, Posbility: 0.1174
+Next Token : sa, Posbility: 0.0867
+Next Token : sr, Posbility: 0.0683
+Next Token : ateral, Posbility: 0.0622
+Next Token : surface, Posbility: 0.0517
+Choose : _,  Posbility: 0.1174
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_
+---------------------------
+Next Token : surface, Posbility: 0.3154
+Next Token : s, Posbility: 0.1474
+Next Token : area, Posbility: 0.1293
+Next Token : cone, Posbility: 0.0382
+Next Token : sur, Posbility: 0.0377
+Choose : surface,  Posbility: 0.3154
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface
+---------------------------
+Next Token : _, Posbility: 0.4875
+Next Token : (, Posbility: 0.4819
+Next Token :  (, Posbility: 0.0157
+Next Token : area, Posbility: 0.0040
+Next Token : Area, Posbility: 0.0036
+Choose : _,  Posbility: 0.4875
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_
+---------------------------
+Next Token : area, Posbility: 0.5696
+Next Token : cone, Posbility: 0.1778
+Next Token : a, Posbility: 0.0412
+Next Token : of, Posbility: 0.0269
+Next Token : height, Posbility: 0.0176
+Choose : area,  Posbility: 0.5696
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area
+---------------------------
+Next Token : (, Posbility: 0.8318
+Next Token : _, Posbility: 0.1464
+Next Token :  (, Posbility: 0.0158
+Next Token : ():, Posbility: 0.0026
+Next Token : _(, Posbility: 0.0010
+Choose : (,  Posbility: 0.8318
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(
+---------------------------
+Next Token : r, Posbility: 0.9453
+Next Token : radius, Posbility: 0.0171
+Next Token : h, Posbility: 0.0059
+Next Token : R, Posbility: 0.0050
+Next Token : a, Posbility: 0.0026
+Choose : r,  Posbility: 0.9453
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r
+---------------------------
+Next Token : ,, Posbility: 0.9381
+Next Token : :, Posbility: 0.0464
+Next Token : =, Posbility: 0.0063
+Next Token : ):, Posbility: 0.0034
+Next Token : ,, Posbility: 0.0014
+Choose : ,,  Posbility: 0.9381
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,
+---------------------------
+Next Token : h, Posbility: 0.5057
+Next Token :  h, Posbility: 0.4847
+Next Token :  height, Posbility: 0.0043
+Next Token : height, Posbility: 0.0018
+Next Token :  t, Posbility: 0.0002
+Choose : h,  Posbility: 0.5057
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h
+---------------------------
+Next Token : ):, Posbility: 0.9795
+Next Token : ,, Posbility: 0.0141
+Next Token : ), Posbility: 0.0029
+Next Token : =, Posbility: 0.0021
+Next Token : _, Posbility: 0.0004
+Choose : ):,  Posbility: 0.9795
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+---------------------------
+Next Token : 
+, Posbility: 0.8706
+Next Token : , Posbility: 0.0611
+Next Token : 
+
+, Posbility: 0.0324
+Next Token :  , Posbility: 0.0156
+Next Token :  #, Posbility: 0.0081
+Choose : 
+,  Posbility: 0.8706
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+
+---------------------------
+Next Token :     , Posbility: 0.8755
+Next Token :   , Posbility: 0.0581
+Next Token : 	, Posbility: 0.0515
+Next Token :    , Posbility: 0.0046
+Next Token :         , Posbility: 0.0027
+Choose :     ,  Posbility: 0.8755
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    
+---------------------------
+Next Token : return, Posbility: 0.3653
+Next Token : '', Posbility: 0.1167
+Next Token : #, Posbility: 0.0775
+Next Token : if, Posbility: 0.0644
+Next Token : area, Posbility: 0.0426
+Choose : return,  Posbility: 0.3653
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return
+---------------------------
+Next Token :  (, Posbility: 0.2275
+Next Token :  2, Posbility: 0.1167
+Next Token :  4, Posbility: 0.1159
+Next Token :  r, Posbility: 0.1127
+Next Token :  3, Posbility: 0.0617
+Choose :  (,  Posbility: 0.2275
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (
+---------------------------
+Next Token : r, Posbility: 0.2707
+Next Token : 4, Posbility: 0.2111
+Next Token : 2, Posbility: 0.1592
+Next Token : 3, Posbility: 0.1496
+Next Token : 1, Posbility: 0.0343
+Choose : r,  Posbility: 0.2707
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r
+---------------------------
+Next Token : **, Posbility: 0.4735
+Next Token : *, Posbility: 0.3862
+Next Token :  *, Posbility: 0.0831
+Next Token :  **, Posbility: 0.0254
+Next Token : /, Posbility: 0.0152
+Choose : **,  Posbility: 0.4735
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**
+---------------------------
+Next Token : 2, Posbility: 0.9675
+Next Token : 3, Posbility: 0.0259
+Next Token : h, Posbility: 0.0017
+Next Token : (, Posbility: 0.0015
+Next Token : 4, Posbility: 0.0014
+Choose : 2,  Posbility: 0.9675
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2
+---------------------------
+Next Token : )*, Posbility: 0.3983
+Next Token :  *, Posbility: 0.1349
+Next Token : *, Posbility: 0.1060
+Next Token :  +, Posbility: 0.1045
+Next Token : ), Posbility: 0.0650
+Choose : )*,  Posbility: 0.3983
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*
+---------------------------
+Next Token : (, Posbility: 0.5515
+Next Token : h, Posbility: 0.3511
+Next Token : ((, Posbility: 0.0290
+Next Token : np, Posbility: 0.0232
+Next Token : math, Posbility: 0.0092
+Choose : (,  Posbility: 0.5515
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(
+---------------------------
+Next Token : h, Posbility: 0.5791
+Next Token : 1, Posbility: 0.1250
+Next Token : 2, Posbility: 0.0864
+Next Token : 3, Posbility: 0.0571
+Next Token : 4, Posbility: 0.0546
+Choose : h,  Posbility: 0.5791
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h
+---------------------------
+Next Token : /, Posbility: 0.3610
+Next Token : **, Posbility: 0.3401
+Next Token : ), Posbility: 0.1345
+Next Token : -, Posbility: 0.0511
+Next Token : +, Posbility: 0.0291
+Choose : /,  Posbility: 0.3610
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/
+---------------------------
+Next Token : 2, Posbility: 0.7932
+Next Token : 3, Posbility: 0.0977
+Next Token : 4, Posbility: 0.0224
+Next Token : 100, Posbility: 0.0149
+Next Token : 6, Posbility: 0.0102
+Choose : 2,  Posbility: 0.7932
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2
+---------------------------
+Next Token : ), Posbility: 0.8785
+Next Token : )*, Posbility: 0.0432
+Next Token : )+, Posbility: 0.0239
+Next Token : ., Posbility: 0.0239
+Next Token : )-, Posbility: 0.0069
+Choose : ),  Posbility: 0.8785
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+---------------------------
+Next Token : 
+, Posbility: 0.6541
+Next Token : 
+
+, Posbility: 0.1732
+Next Token : **, Posbility: 0.0829
+Next Token : <|endoftext|>, Posbility: 0.0324
+Next Token :  +, Posbility: 0.0138
+Choose : 
+,  Posbility: 0.6541
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+---------------------------
+Next Token : 
+, Posbility: 0.7713
+Next Token : #, Posbility: 0.0438
+Next Token : def, Posbility: 0.0378
+Next Token : print, Posbility: 0.0375
+Next Token : '', Posbility: 0.0307
+Choose : 
+,  Posbility: 0.7713
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9330
+Next Token : <|endoftext|>, Posbility: 0.0303
+Next Token : 
+
+, Posbility: 0.0221
+Next Token :     , Posbility: 0.0091
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9330
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.7061
+Next Token : #, Posbility: 0.0723
+Next Token : def, Posbility: 0.0677
+Next Token : print, Posbility: 0.0456
+Next Token : 
+, Posbility: 0.0359
+Choose : '',  Posbility: 0.7061
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8628
+Next Token :  Write, Posbility: 0.0296
+Next Token : 
+, Posbility: 0.0095
+Next Token : Find, Posbility: 0.0093
+Next Token : write, Posbility: 0.0058
+Choose : Write,  Posbility: 0.8628
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9924
+Next Token :  your, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0016
+Next Token :  an, Posbility: 0.0014
+Next Token :  function, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9924
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9654
+Next Token :  program, Posbility: 0.0067
+Next Token :  Python, Posbility: 0.0048
+Next Token :  python, Posbility: 0.0046
+Next Token :  recursive, Posbility: 0.0022
+Choose :  function,  Posbility: 0.9654
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.8141
+Next Token :  that, Posbility: 0.1339
+Next Token :  called, Posbility: 0.0100
+Next Token :  which, Posbility: 0.0092
+Next Token :  named, Posbility: 0.0028
+Choose :  to,  Posbility: 0.8141
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.2753
+Next Token :  calculate, Posbility: 0.2032
+Next Token :  compute, Posbility: 0.1009
+Next Token :  print, Posbility: 0.0707
+Next Token :  return, Posbility: 0.0302
+Choose :  find,  Posbility: 0.2753
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.9156
+Next Token :  area, Posbility: 0.0233
+Next Token :  volume, Posbility: 0.0071
+Next Token :  a, Posbility: 0.0061
+Next Token :  whether, Posbility: 0.0024
+Choose :  the,  Posbility: 0.9156
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  area, Posbility: 0.1475
+Next Token :  volume, Posbility: 0.1100
+Next Token :  total, Posbility: 0.0517
+Next Token :  diameter, Posbility: 0.0385
+Next Token :  lateral, Posbility: 0.0291
+Choose :  area,  Posbility: 0.1475
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area
+---------------------------
+Next Token :  of, Posbility: 0.9200
+Next Token :  under, Posbility: 0.0147
+Next Token :  enclosed, Posbility: 0.0101
+Next Token :  and, Posbility: 0.0037
+Next Token :  ratio, Posbility: 0.0031
+Choose :  of,  Posbility: 0.9200
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of
+---------------------------
+Next Token :  a, Posbility: 0.9011
+Next Token :  the, Posbility: 0.0341
+Next Token :  an, Posbility: 0.0115
+Next Token :  paralle, Posbility: 0.0071
+Next Token :  triangle, Posbility: 0.0047
+Choose :  a,  Posbility: 0.9011
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a
+---------------------------
+Next Token :  triangle, Posbility: 0.2041
+Next Token :  cylinder, Posbility: 0.1643
+Next Token :  cone, Posbility: 0.0971
+Next Token :  sphere, Posbility: 0.0842
+Next Token :  tra, Posbility: 0.0695
+Choose :  triangle,  Posbility: 0.2041
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle
+---------------------------
+Next Token :  given, Posbility: 0.8262
+Next Token : .', Posbility: 0.0270
+Next Token :  with, Posbility: 0.0187
+Next Token : ., Posbility: 0.0181
+Next Token :  using, Posbility: 0.0118
+Choose :  given,  Posbility: 0.8262
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given
+---------------------------
+Next Token :  base, Posbility: 0.2527
+Next Token :  its, Posbility: 0.1032
+Next Token :  three, Posbility: 0.0928
+Next Token :  sides, Posbility: 0.0907
+Next Token :  the, Posbility: 0.0816
+Choose :  base,  Posbility: 0.2527
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base
+---------------------------
+Next Token :  and, Posbility: 0.5160
+Next Token :  b, Posbility: 0.1826
+Next Token :  a, Posbility: 0.1269
+Next Token : _, Posbility: 0.0329
+Next Token : ,, Posbility: 0.0212
+Choose :  and,  Posbility: 0.5160
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and
+---------------------------
+Next Token :  height, Posbility: 0.9623
+Next Token :  tip, Posbility: 0.0079
+Next Token :  base, Posbility: 0.0069
+Next Token :  h, Posbility: 0.0026
+Next Token :  edge, Posbility: 0.0017
+Choose :  height,  Posbility: 0.9623
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and height
+---------------------------
+Next Token :  h, Posbility: 0.3545
+Next Token : .', Posbility: 0.2066
+Next Token : '', Posbility: 0.2014
+Next Token : ., Posbility: 0.0427
+Next Token :  of, Posbility: 0.0243
+Choose :  h,  Posbility: 0.3545
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and height h
+---------------------------
+Next Token : .', Posbility: 0.4314
+Next Token : ., Posbility: 0.2087
+Next Token : '', Posbility: 0.1588
+Next Token :  and, Posbility: 0.0377
+Next Token : ,, Posbility: 0.0279
+Choose : .',  Posbility: 0.4314
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and height h.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9995
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and height h.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9620
+Next Token : 
+
+, Posbility: 0.0293
+Next Token : def, Posbility: 0.0036
+Next Token :  , Posbility: 0.0027
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9620
+---------------------------
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and height h.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9623
+Next Token : 
+, Posbility: 0.0296
+Next Token : #, Posbility: 0.0036
+Next Token : import, Posbility: 0.0014
+Next Token : '', Posbility: 0.0006
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.031829833984375
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the lateral surface area of a cone given radius r and the height h.'''
+def l_surface_area(r,h):
+    return (r**2)*(h/2)
+
+
+'''Write a function to find the area of a triangle given base and height h.'''
+

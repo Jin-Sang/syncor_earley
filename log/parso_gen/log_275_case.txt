@@ -1,0 +1,475 @@
+<<<<<<<<<<<< 275 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2680
+Next Token : iban, Posbility: 0.0811
+Next Token : ia, Posbility: 0.0533
+Next Token : xt, Posbility: 0.0507
+Next Token : ix, Posbility: 0.0474
+syntax error : 
+
+Choose : iban, Posbility: 0.0811
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban
+---------------------------
+Next Token : (, Posbility: 0.4609
+Next Token : _, Posbility: 0.3611
+Next Token : ():, Posbility: 0.0258
+Next Token : 2, Posbility: 0.0210
+Next Token :  (, Posbility: 0.0097
+Choose : (, Posbility: 0.4609
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(
+---------------------------
+Next Token : n, Posbility: 0.2690
+Next Token : num, Posbility: 0.1835
+Next Token : x, Posbility: 0.1011
+Next Token : number, Posbility: 0.0950
+Next Token : i, Posbility: 0.0905
+Choose : n, Posbility: 0.2690
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n
+---------------------------
+Next Token : ):, Posbility: 0.8838
+Next Token : :, Posbility: 0.0691
+Next Token : ,, Posbility: 0.0216
+Next Token : ), Posbility: 0.0101
+Next Token : _, Posbility: 0.0026
+Choose : ):, Posbility: 0.8838
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+---------------------------
+Next Token : 
+, Posbility: 0.8967
+Next Token :  , Posbility: 0.0322
+Next Token : 
+
+, Posbility: 0.0285
+Next Token : , Posbility: 0.0251
+Next Token :  #, Posbility: 0.0052
+Choose : 
+, Posbility: 0.8967
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+
+---------------------------
+Next Token :     , Posbility: 0.8691
+Next Token : 	, Posbility: 0.0615
+Next Token :   , Posbility: 0.0511
+Next Token :    , Posbility: 0.0091
+Next Token :  , Posbility: 0.0018
+Choose :     , Posbility: 0.8691
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    
+---------------------------
+Next Token : sum, Posbility: 0.1626
+Next Token : '', Posbility: 0.1277
+Next Token : if, Posbility: 0.1124
+Next Token : s, Posbility: 0.0669
+Next Token : return, Posbility: 0.0609
+Choose : sum, Posbility: 0.1626
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum
+---------------------------
+Next Token :  =, Posbility: 0.6539
+Next Token : =, Posbility: 0.1615
+Next Token : _, Posbility: 0.1158
+Next Token : 1, Posbility: 0.0135
+Next Token : Dig, Posbility: 0.0075
+Choose :  =, Posbility: 0.6539
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum =
+---------------------------
+Next Token :  0, Posbility: 0.9525
+Next Token :  n, Posbility: 0.0123
+Next Token :  int, Posbility: 0.0061
+Next Token :  '', Posbility: 0.0048
+Next Token :  [], Posbility: 0.0032
+Choose :  0, Posbility: 0.9525
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9490
+Next Token : 
+
+, Posbility: 0.0252
+Next Token :  , Posbility: 0.0122
+Next Token : ;, Posbility: 0.0075
+Next Token :  #, Posbility: 0.0020
+Choose : 
+, Posbility: 0.9490
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9974
+Next Token : 	, Posbility: 0.0005
+Next Token :    , Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Next Token :  , Posbility: 0.0003
+Choose :     , Posbility: 0.9974
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    
+---------------------------
+Next Token : while, Posbility: 0.6032
+Next Token : for, Posbility: 0.1953
+Next Token : if, Posbility: 0.0233
+Next Token : i, Posbility: 0.0181
+Next Token : #, Posbility: 0.0131
+Choose : while, Posbility: 0.6032
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while
+---------------------------
+Next Token :  n, Posbility: 0.8807
+Next Token : (, Posbility: 0.0449
+Next Token :  (, Posbility: 0.0333
+Next Token :  True, Posbility: 0.0135
+Next Token :  len, Posbility: 0.0067
+Choose :  n, Posbility: 0.8807
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n
+---------------------------
+Next Token :  >, Posbility: 0.3835
+Next Token : !=, Posbility: 0.2089
+Next Token : :, Posbility: 0.1715
+Next Token :  >=, Posbility: 0.1113
+Next Token : >, Posbility: 0.0829
+Choose :  >, Posbility: 0.3835
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n >
+---------------------------
+Next Token :  0, Posbility: 0.9641
+Next Token :  1, Posbility: 0.0144
+Next Token : 0, Posbility: 0.0089
+Next Token :  9, Posbility: 0.0052
+Next Token :  10, Posbility: 0.0028
+Choose :  0, Posbility: 0.9641
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0
+---------------------------
+Next Token : :, Posbility: 0.9885
+Next Token :  :, Posbility: 0.0094
+Next Token :  and, Posbility: 0.0011
+Next Token :  or, Posbility: 0.0008
+Next Token : ., Posbility: 0.0000
+Choose : :, Posbility: 0.9885
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9831
+Next Token :  , Posbility: 0.0081
+Next Token :  #, Posbility: 0.0027
+Next Token : 
+
+, Posbility: 0.0015
+Next Token :   , Posbility: 0.0010
+Choose : 
+, Posbility: 0.9831
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9858
+Next Token :       , Posbility: 0.0060
+Next Token :             , Posbility: 0.0026
+Next Token :        , Posbility: 0.0026
+Next Token :     , Posbility: 0.0011
+Choose :         , Posbility: 0.9858
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        
+---------------------------
+Next Token : sum, Posbility: 0.4394
+Next Token : digit, Posbility: 0.1214
+Next Token : n, Posbility: 0.0982
+Next Token : rem, Posbility: 0.0426
+Next Token : if, Posbility: 0.0268
+Choose : sum, Posbility: 0.4394
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum
+---------------------------
+Next Token :  +=, Posbility: 0.7482
+Next Token :  =, Posbility: 0.2255
+Next Token : +=, Posbility: 0.0176
+Next Token : ,, Posbility: 0.0016
+Next Token : _, Posbility: 0.0016
+Choose :  +=, Posbility: 0.7482
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum +=
+---------------------------
+Next Token :  n, Posbility: 0.8066
+Next Token :  int, Posbility: 0.1049
+Next Token :  (, Posbility: 0.0592
+Next Token :  10, Posbility: 0.0067
+Next Token :  1, Posbility: 0.0024
+Choose :  n, Posbility: 0.8066
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n
+---------------------------
+Next Token :  %, Posbility: 0.8475
+Next Token : %, Posbility: 0.1414
+Next Token :  //, Posbility: 0.0058
+Next Token :  &, Posbility: 0.0027
+Next Token : //, Posbility: 0.0018
+Choose :  %, Posbility: 0.8475
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n %
+---------------------------
+Next Token :  10, Posbility: 0.9740
+Next Token : 10, Posbility: 0.0129
+Next Token :  9, Posbility: 0.0029
+Next Token :  11, Posbility: 0.0014
+Next Token :  5, Posbility: 0.0013
+Choose :  10, Posbility: 0.9740
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+---------------------------
+Next Token : 
+, Posbility: 0.9694
+Next Token :  , Posbility: 0.0067
+Next Token :  #, Posbility: 0.0052
+Next Token : ;, Posbility: 0.0045
+Next Token : 
+
+, Posbility: 0.0032
+Choose : 
+, Posbility: 0.9694
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+
+---------------------------
+Next Token :         , Posbility: 0.9990
+Next Token :     , Posbility: 0.0003
+Next Token :             , Posbility: 0.0002
+Next Token :        , Posbility: 0.0002
+Next Token : #, Posbility: 0.0001
+Choose :         , Posbility: 0.9990
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        
+---------------------------
+Next Token : n, Posbility: 0.9832
+Next Token : #, Posbility: 0.0072
+Next Token : if, Posbility: 0.0020
+Next Token : print, Posbility: 0.0016
+Next Token : sum, Posbility: 0.0008
+Choose : n, Posbility: 0.9832
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n
+---------------------------
+Next Token :  //, Posbility: 0.4923
+Next Token :  =, Posbility: 0.4482
+Next Token :  /, Posbility: 0.0404
+Next Token : //, Posbility: 0.0121
+Next Token : =, Posbility: 0.0017
+Choose :  //, Posbility: 0.4923
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //
+---------------------------
+Next Token : =, Posbility: 0.9997
+Next Token :  =, Posbility: 0.0002
+Next Token :  10, Posbility: 0.0000
+Next Token : =(, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : =, Posbility: 0.9997
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //=
+---------------------------
+Next Token :  10, Posbility: 0.9869
+Next Token :  9, Posbility: 0.0068
+Next Token : 10, Posbility: 0.0039
+Next Token :  100, Posbility: 0.0009
+Next Token :   , Posbility: 0.0005
+Choose :  10, Posbility: 0.9869
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //= 10
+---------------------------
+Next Token : 
+, Posbility: 0.9511
+Next Token : 
+
+, Posbility: 0.0361
+Next Token :  , Posbility: 0.0058
+Next Token :     , Posbility: 0.0020
+Next Token :   , Posbility: 0.0008
+Choose : 
+, Posbility: 0.9511
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //= 10
+
+---------------------------
+Next Token :     , Posbility: 0.9814
+Next Token :         , Posbility: 0.0159
+Next Token :             , Posbility: 0.0005
+Next Token :      , Posbility: 0.0004
+Next Token :       , Posbility: 0.0003
+Choose :     , Posbility: 0.9814
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //= 10
+    
+---------------------------
+Next Token : return, Posbility: 0.9260
+Next Token : if, Posbility: 0.0224
+Next Token : print, Posbility: 0.0224
+Next Token : sum, Posbility: 0.0130
+Next Token : 
+, Posbility: 0.0074
+Choose : return, Posbility: 0.9260
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //= 10
+    return
+---------------------------
+Next Token :  sum, Posbility: 0.9842
+Next Token :  int, Posbility: 0.0041
+Next Token : (, Posbility: 0.0022
+Next Token :  str, Posbility: 0.0020
+Next Token :  (, Posbility: 0.0018
+Choose :  sum, Posbility: 0.9842
+---------------------------
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //= 10
+    return sum
+---------------------------
+Next Token : 
+, Posbility: 0.7677
+Next Token : 
+
+, Posbility: 0.1847
+Next Token : <|endoftext|>, Posbility: 0.0197
+Next Token :  , Posbility: 0.0103
+Next Token :  +, Posbility: 0.0029
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.524623870849609
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to get the sum of the digits of a non-negative integer.'''
+def iban(n):
+    sum = 0
+    while n > 0:
+        sum += n % 10
+        n //= 10
+    return sum
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

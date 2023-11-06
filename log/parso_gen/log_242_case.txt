@@ -1,0 +1,617 @@
+<<<<<<<<<<<< 242 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1801
+Next Token : ix, Posbility: 0.0749
+Next Token : ____, Posbility: 0.0555
+Next Token : iday, Posbility: 0.0458
+Next Token : xt, Posbility: 0.0390
+syntax error : 
+
+Choose : ix, Posbility: 0.0749
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix
+---------------------------
+Next Token : _, Posbility: 0.3228
+Next Token : (, Posbility: 0.2090
+Next Token : e, Posbility: 0.0365
+Next Token : 2, Posbility: 0.0260
+Next Token : d, Posbility: 0.0167
+Choose : _, Posbility: 0.3228
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_
+---------------------------
+Next Token : 31, Posbility: 0.3183
+Next Token : month, Posbility: 0.1011
+Next Token : to, Posbility: 0.0503
+Next Token : check, Posbility: 0.0422
+Next Token : day, Posbility: 0.0324
+Choose : 31, Posbility: 0.3183
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31
+---------------------------
+Next Token : (, Posbility: 0.5814
+Next Token : _, Posbility: 0.3402
+Next Token : ():, Posbility: 0.0314
+Next Token : days, Posbility: 0.0158
+Next Token : d, Posbility: 0.0105
+Choose : (, Posbility: 0.5814
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(
+---------------------------
+Next Token : month, Posbility: 0.4779
+Next Token : m, Posbility: 0.0858
+Next Token : x, Posbility: 0.0732
+Next Token : n, Posbility: 0.0563
+Next Token : num, Posbility: 0.0490
+Choose : month, Posbility: 0.4779
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month
+---------------------------
+Next Token : ):, Posbility: 0.8347
+Next Token : _, Posbility: 0.0849
+Next Token : ,, Posbility: 0.0372
+Next Token : :, Posbility: 0.0174
+Next Token : ), Posbility: 0.0105
+Choose : ):, Posbility: 0.8347
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+---------------------------
+Next Token : 
+, Posbility: 0.8786
+Next Token : , Posbility: 0.0458
+Next Token :  , Posbility: 0.0301
+Next Token : 
+
+, Posbility: 0.0267
+Next Token :  #, Posbility: 0.0056
+Choose : 
+, Posbility: 0.8786
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+
+---------------------------
+Next Token :     , Posbility: 0.9159
+Next Token : 	, Posbility: 0.0368
+Next Token :   , Posbility: 0.0330
+Next Token :    , Posbility: 0.0085
+Next Token :  , Posbility: 0.0012
+Choose :     , Posbility: 0.9159
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    
+---------------------------
+Next Token : if, Posbility: 0.5079
+Next Token : return, Posbility: 0.1103
+Next Token : '', Posbility: 0.1016
+Next Token : month, Posbility: 0.0348
+Next Token : #, Posbility: 0.0317
+Choose : if, Posbility: 0.5079
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if
+---------------------------
+Next Token :  month, Posbility: 0.5879
+Next Token :  (, Posbility: 0.1339
+Next Token : (, Posbility: 0.0713
+Next Token :  0, Posbility: 0.0497
+Next Token :  int, Posbility: 0.0496
+Choose :  month, Posbility: 0.5879
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month
+---------------------------
+Next Token :  ==, Posbility: 0.3522
+Next Token :  in, Posbility: 0.1969
+Next Token :  <, Posbility: 0.0814
+Next Token :  %, Posbility: 0.0789
+Next Token :  >, Posbility: 0.0745
+Choose :  ==, Posbility: 0.3522
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month ==
+---------------------------
+Next Token :  1, Posbility: 0.6796
+Next Token :  2, Posbility: 0.0740
+Next Token :  12, Posbility: 0.0599
+Next Token :  0, Posbility: 0.0414
+Next Token :  ', Posbility: 0.0237
+Choose :  1, Posbility: 0.6796
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1
+---------------------------
+Next Token :  or, Posbility: 0.6906
+Next Token : :, Posbility: 0.3037
+Next Token :  :, Posbility: 0.0029
+Next Token :  and, Posbility: 0.0016
+Next Token :   , Posbility: 0.0003
+Choose :  or, Posbility: 0.6906
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or
+---------------------------
+Next Token :  month, Posbility: 0.8842
+Next Token :  (, Posbility: 0.0618
+Next Token :  1, Posbility: 0.0128
+Next Token :  31, Posbility: 0.0063
+Next Token :  2, Posbility: 0.0043
+Choose :  month, Posbility: 0.8842
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9464
+Next Token : ==, Posbility: 0.0160
+Next Token :  >, Posbility: 0.0150
+Next Token :  in, Posbility: 0.0069
+Next Token :  >=, Posbility: 0.0046
+Choose :  ==, Posbility: 0.9464
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month ==
+---------------------------
+Next Token :  3, Posbility: 0.7138
+Next Token :  2, Posbility: 0.1915
+Next Token :  12, Posbility: 0.0412
+Next Token : 3, Posbility: 0.0088
+Next Token :  31, Posbility: 0.0068
+Choose :  3, Posbility: 0.7138
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3
+---------------------------
+Next Token :  or, Posbility: 0.9947
+Next Token : :, Posbility: 0.0048
+Next Token :  and, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token :  :, Posbility: 0.0001
+Choose :  or, Posbility: 0.9947
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or
+---------------------------
+Next Token :  month, Posbility: 0.9941
+Next Token :   , Posbility: 0.0035
+Next Token :  (, Posbility: 0.0014
+Next Token :  months, Posbility: 0.0002
+Next Token :  \, Posbility: 0.0002
+Choose :  month, Posbility: 0.9941
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9894
+Next Token : ==, Posbility: 0.0097
+Next Token :  in, Posbility: 0.0005
+Next Token :   , Posbility: 0.0001
+Next Token :  >=, Posbility: 0.0001
+Choose :  ==, Posbility: 0.9894
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month ==
+---------------------------
+Next Token :  5, Posbility: 0.9749
+Next Token :  7, Posbility: 0.0115
+Next Token :  6, Posbility: 0.0081
+Next Token :  4, Posbility: 0.0021
+Next Token : 5, Posbility: 0.0019
+Choose :  5, Posbility: 0.9749
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5
+---------------------------
+Next Token :  or, Posbility: 0.9991
+Next Token : :, Posbility: 0.0007
+Next Token :  and, Posbility: 0.0001
+Next Token :  :, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose :  or, Posbility: 0.9991
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or
+---------------------------
+Next Token :  month, Posbility: 0.9968
+Next Token :   , Posbility: 0.0016
+Next Token :  \, Posbility: 0.0007
+Next Token :  (, Posbility: 0.0003
+Next Token :  , Posbility: 0.0002
+Choose :  month, Posbility: 0.9968
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9958
+Next Token : ==, Posbility: 0.0039
+Next Token :   , Posbility: 0.0001
+Next Token :  >=, Posbility: 0.0001
+Next Token :  in, Posbility: 0.0001
+Choose :  ==, Posbility: 0.9958
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month ==
+---------------------------
+Next Token :  7, Posbility: 0.9980
+Next Token :  8, Posbility: 0.0009
+Next Token : 7, Posbility: 0.0008
+Next Token :  6, Posbility: 0.0001
+Next Token :  9, Posbility: 0.0001
+Choose :  7, Posbility: 0.9980
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7
+---------------------------
+Next Token :  or, Posbility: 0.9825
+Next Token : :, Posbility: 0.0149
+Next Token :   , Posbility: 0.0007
+Next Token :  \, Posbility: 0.0007
+Next Token :  and, Posbility: 0.0003
+Choose :  or, Posbility: 0.9825
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or
+---------------------------
+Next Token :  month, Posbility: 0.9950
+Next Token :  \, Posbility: 0.0027
+Next Token :   , Posbility: 0.0009
+Next Token :  , Posbility: 0.0004
+Next Token :  (, Posbility: 0.0004
+Choose :  month, Posbility: 0.9950
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9937
+Next Token : ==, Posbility: 0.0047
+Next Token :  >, Posbility: 0.0005
+Next Token :  >=, Posbility: 0.0004
+Next Token :  in, Posbility: 0.0002
+Choose :  ==, Posbility: 0.9937
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month ==
+---------------------------
+Next Token :  8, Posbility: 0.9826
+Next Token :  10, Posbility: 0.0118
+Next Token :  9, Posbility: 0.0029
+Next Token : 8, Posbility: 0.0017
+Next Token :  11, Posbility: 0.0002
+Choose :  8, Posbility: 0.9826
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8
+---------------------------
+Next Token :  or, Posbility: 0.9994
+Next Token : 
+, Posbility: 0.0002
+Next Token :  and, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Next Token :  , Posbility: 0.0001
+Choose :  or, Posbility: 0.9994
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or
+---------------------------
+Next Token :  month, Posbility: 0.9856
+Next Token :  \, Posbility: 0.0096
+Next Token :  , Posbility: 0.0017
+Next Token :   , Posbility: 0.0015
+Next Token : \, Posbility: 0.0004
+Choose :  month, Posbility: 0.9856
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9962
+Next Token : ==, Posbility: 0.0031
+Next Token :  >, Posbility: 0.0002
+Next Token :  >=, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Choose :  ==, Posbility: 0.9962
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month ==
+---------------------------
+Next Token :  10, Posbility: 0.9958
+Next Token : 10, Posbility: 0.0027
+Next Token :  12, Posbility: 0.0004
+Next Token :  9, Posbility: 0.0004
+Next Token :  11, Posbility: 0.0003
+Choose :  10, Posbility: 0.9958
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10
+---------------------------
+Next Token :  or, Posbility: 0.9984
+Next Token : :, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0001
+Next Token :  \, Posbility: 0.0001
+Choose :  or, Posbility: 0.9984
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or
+---------------------------
+Next Token :  month, Posbility: 0.9862
+Next Token :  \, Posbility: 0.0098
+Next Token :  , Posbility: 0.0016
+Next Token : 
+, Posbility: 0.0008
+Next Token : \, Posbility: 0.0007
+Choose :  month, Posbility: 0.9862
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9957
+Next Token : ==, Posbility: 0.0026
+Next Token :  >, Posbility: 0.0006
+Next Token :  >=, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Choose :  ==, Posbility: 0.9957
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month ==
+---------------------------
+Next Token :  12, Posbility: 0.9959
+Next Token : 12, Posbility: 0.0017
+Next Token :  11, Posbility: 0.0009
+Next Token : 
+, Posbility: 0.0006
+Next Token :  J, Posbility: 0.0003
+Choose :  12, Posbility: 0.9959
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12
+---------------------------
+Next Token : :, Posbility: 0.9894
+Next Token :  :, Posbility: 0.0068
+Next Token :  or, Posbility: 0.0023
+Next Token :  and, Posbility: 0.0003
+Next Token :  \, Posbility: 0.0003
+Choose : :, Posbility: 0.9894
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+---------------------------
+Next Token : 
+, Posbility: 0.9628
+Next Token :  , Posbility: 0.0202
+Next Token :  return, Posbility: 0.0073
+Next Token :  #, Posbility: 0.0036
+Next Token :   , Posbility: 0.0017
+Choose : 
+, Posbility: 0.9628
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+
+---------------------------
+Next Token :         , Posbility: 0.9767
+Next Token :             , Posbility: 0.0082
+Next Token :       , Posbility: 0.0056
+Next Token :        , Posbility: 0.0035
+Next Token :     , Posbility: 0.0020
+Choose :         , Posbility: 0.9767
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        
+---------------------------
+Next Token : return, Posbility: 0.9457
+Next Token : print, Posbility: 0.0382
+Next Token : if, Posbility: 0.0032
+Next Token : #, Posbility: 0.0024
+Next Token : result, Posbility: 0.0014
+Choose : return, Posbility: 0.9457
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.8228
+Next Token :  1, Posbility: 0.0511
+Next Token :  ', Posbility: 0.0359
+Next Token :  ", Posbility: 0.0321
+Next Token :  False, Posbility: 0.0210
+Choose :  True, Posbility: 0.8228
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9601
+Next Token : 
+
+, Posbility: 0.0201
+Next Token :  , Posbility: 0.0100
+Next Token : ;, Posbility: 0.0030
+Next Token :  #, Posbility: 0.0022
+Choose : 
+, Posbility: 0.9601
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9869
+Next Token : 
+, Posbility: 0.0061
+Next Token :         , Posbility: 0.0021
+Next Token : def, Posbility: 0.0021
+Next Token : #, Posbility: 0.0004
+Choose :     , Posbility: 0.9869
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.8329
+Next Token : return, Posbility: 0.1080
+Next Token : el, Posbility: 0.0380
+Next Token : if, Posbility: 0.0153
+Next Token : 
+, Posbility: 0.0039
+Choose : else, Posbility: 0.8329
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9913
+Next Token :  :, Posbility: 0.0086
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : :", Posbility: 0.0000
+Choose : :, Posbility: 0.9913
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9396
+Next Token :  , Posbility: 0.0362
+Next Token :  return, Posbility: 0.0211
+Next Token :   , Posbility: 0.0006
+Next Token : return, Posbility: 0.0005
+Choose : 
+, Posbility: 0.9396
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9926
+Next Token :        , Posbility: 0.0021
+Next Token :          , Posbility: 0.0019
+Next Token :             , Posbility: 0.0010
+Next Token :     , Posbility: 0.0008
+Choose :         , Posbility: 0.9926
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9819
+Next Token : False, Posbility: 0.0070
+Next Token : print, Posbility: 0.0048
+Next Token : if, Posbility: 0.0031
+Next Token : #, Posbility: 0.0005
+Choose : return, Posbility: 0.9819
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9956
+Next Token :  , Posbility: 0.0018
+Next Token :   , Posbility: 0.0006
+Next Token :  None, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Choose :  False, Posbility: 0.9956
+---------------------------
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7016
+Next Token : 
+
+, Posbility: 0.2408
+Next Token : <|endoftext|>, Posbility: 0.0247
+Next Token :  , Posbility: 0.0171
+Next Token :     , Posbility: 0.0049
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.819497108459473
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether the given month number contains 31 days or not.'''
+def ix_31(month):
+    if month == 1 or month == 3 or month == 5 or month == 7 or month == 8 or month == 10 or month == 12:
+        return True
+    else:
+        return False
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

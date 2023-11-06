@@ -1,0 +1,1063 @@
+<<<<<<<<<<<< 157 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  check, Posbility: 0.3098
+Next Token :  is, Posbility: 0.2176
+Next Token :  a, Posbility: 0.0447
+Next Token :  contains, Posbility: 0.0435
+Next Token :  string, Posbility: 0.0365
+Choose :  check,  Posbility: 0.3098
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check
+---------------------------
+Next Token : _, Posbility: 0.6208
+Next Token : (, Posbility: 0.1733
+Next Token : A, Posbility: 0.0257
+Next Token : er, Posbility: 0.0153
+Next Token : String, Posbility: 0.0135
+Choose : _,  Posbility: 0.6208
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_
+---------------------------
+Next Token : a, Posbility: 0.4858
+Next Token : string, Posbility: 0.0804
+Next Token : if, Posbility: 0.0430
+Next Token : for, Posbility: 0.0349
+Next Token : b, Posbility: 0.0209
+Choose : a,  Posbility: 0.4858
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a
+---------------------------
+Next Token : _, Posbility: 0.6195
+Next Token : (, Posbility: 0.3367
+Next Token : ():, Posbility: 0.0097
+Next Token : abb, Posbility: 0.0077
+Next Token : 1, Posbility: 0.0065
+Choose : _,  Posbility: 0.6195
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_
+---------------------------
+Next Token : b, Posbility: 0.7740
+Next Token : or, Posbility: 0.0496
+Next Token : and, Posbility: 0.0333
+Next Token : a, Posbility: 0.0166
+Next Token : two, Posbility: 0.0084
+Choose : b,  Posbility: 0.7740
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b
+---------------------------
+Next Token : (, Posbility: 0.8165
+Next Token : _, Posbility: 0.1325
+Next Token : ():, Posbility: 0.0304
+Next Token :  (, Posbility: 0.0070
+Next Token : 1, Posbility: 0.0029
+Choose : (,  Posbility: 0.8165
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(
+---------------------------
+Next Token : string, Posbility: 0.3382
+Next Token : s, Posbility: 0.1869
+Next Token : str, Posbility: 0.1011
+Next Token : text, Posbility: 0.0780
+Next Token : word, Posbility: 0.0568
+Choose : string,  Posbility: 0.3382
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string
+---------------------------
+Next Token : ):, Posbility: 0.9009
+Next Token : ,, Posbility: 0.0407
+Next Token : :, Posbility: 0.0301
+Next Token : _, Posbility: 0.0206
+Next Token : ), Posbility: 0.0030
+Choose : ):,  Posbility: 0.9009
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9241
+Next Token : 
+
+, Posbility: 0.0285
+Next Token : , Posbility: 0.0260
+Next Token :  , Posbility: 0.0106
+Next Token :  #, Posbility: 0.0038
+Choose : 
+,  Posbility: 0.9241
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+
+---------------------------
+Next Token :     , Posbility: 0.9211
+Next Token : 	, Posbility: 0.0397
+Next Token :   , Posbility: 0.0290
+Next Token :    , Posbility: 0.0053
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9211
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    
+---------------------------
+Next Token : if, Posbility: 0.3008
+Next Token : '', Posbility: 0.0746
+Next Token : count, Posbility: 0.0663
+Next Token : #, Posbility: 0.0654
+Next Token : for, Posbility: 0.0636
+Choose : if,  Posbility: 0.3008
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if
+---------------------------
+Next Token :  string, Posbility: 0.3677
+Next Token :  len, Posbility: 0.3496
+Next Token :  ', Posbility: 0.0981
+Next Token :  (, Posbility: 0.0526
+Next Token : (, Posbility: 0.0374
+Choose :  string,  Posbility: 0.3677
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string
+---------------------------
+Next Token : ., Posbility: 0.5555
+Next Token : [, Posbility: 0.3820
+Next Token :  ==, Posbility: 0.0436
+Next Token : ==, Posbility: 0.0043
+Next Token : :, Posbility: 0.0032
+Choose : .,  Posbility: 0.5555
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.
+---------------------------
+Next Token : count, Posbility: 0.7225
+Next Token : find, Posbility: 0.1537
+Next Token : start, Posbility: 0.0420
+Next Token : end, Posbility: 0.0285
+Next Token : lower, Posbility: 0.0159
+Choose : count,  Posbility: 0.7225
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count
+---------------------------
+Next Token : (', Posbility: 0.8449
+Next Token : (", Posbility: 0.1383
+Next Token : (, Posbility: 0.0163
+Next Token : (), Posbility: 0.0002
+Next Token :  (', Posbility: 0.0001
+Choose : (',  Posbility: 0.8449
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('
+---------------------------
+Next Token : a, Posbility: 0.9495
+Next Token : b, Posbility: 0.0302
+Next Token : ab, Posbility: 0.0029
+Next Token : A, Posbility: 0.0026
+Next Token :  ', Posbility: 0.0025
+Choose : a,  Posbility: 0.9495
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a
+---------------------------
+Next Token : '), Posbility: 0.9554
+Next Token : ', Posbility: 0.0397
+Next Token : ',, Posbility: 0.0035
+Next Token : ')., Posbility: 0.0004
+Next Token : .', Posbility: 0.0002
+Choose : '),  Posbility: 0.9554
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a')
+---------------------------
+Next Token :  ==, Posbility: 0.3369
+Next Token :  >=, Posbility: 0.3040
+Next Token :  >, Posbility: 0.1334
+Next Token : >, Posbility: 0.0475
+Next Token : !=, Posbility: 0.0365
+Choose :  ==,  Posbility: 0.3369
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') ==
+---------------------------
+Next Token :  2, Posbility: 0.5485
+Next Token :  1, Posbility: 0.2266
+Next Token :  3, Posbility: 0.0840
+Next Token :  string, Posbility: 0.0687
+Next Token :  0, Posbility: 0.0376
+Choose :  2,  Posbility: 0.5485
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2
+---------------------------
+Next Token :  or, Posbility: 0.5079
+Next Token : :, Posbility: 0.3913
+Next Token :  and, Posbility: 0.0947
+Next Token :  :, Posbility: 0.0019
+Next Token :  \, Posbility: 0.0011
+Choose :  or,  Posbility: 0.5079
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or
+---------------------------
+Next Token :  string, Posbility: 0.9506
+Next Token :  (, Posbility: 0.0182
+Next Token :  len, Posbility: 0.0098
+Next Token :  ', Posbility: 0.0044
+Next Token :  3, Posbility: 0.0028
+Choose :  string,  Posbility: 0.9506
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string
+---------------------------
+Next Token : ., Posbility: 0.9961
+Next Token : [, Posbility: 0.0030
+Next Token :  ==, Posbility: 0.0006
+Next Token :  in, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Choose : .,  Posbility: 0.9961
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.
+---------------------------
+Next Token : count, Posbility: 0.9957
+Next Token : find, Posbility: 0.0020
+Next Token : end, Posbility: 0.0008
+Next Token : replace, Posbility: 0.0002
+Next Token : start, Posbility: 0.0002
+Choose : count,  Posbility: 0.9957
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count
+---------------------------
+Next Token : (', Posbility: 0.9911
+Next Token : (, Posbility: 0.0046
+Next Token : (", Posbility: 0.0041
+Next Token :  (', Posbility: 0.0001
+Next Token : (), Posbility: 0.0001
+Choose : (',  Posbility: 0.9911
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('
+---------------------------
+Next Token : b, Posbility: 0.7345
+Next Token : a, Posbility: 0.2277
+Next Token : A, Posbility: 0.0213
+Next Token : aa, Posbility: 0.0035
+Next Token : ab, Posbility: 0.0031
+Choose : b,  Posbility: 0.7345
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b
+---------------------------
+Next Token : '), Posbility: 0.9979
+Next Token : ', Posbility: 0.0017
+Next Token : ',, Posbility: 0.0002
+Next Token : 1, Posbility: 0.0000
+Next Token : ')., Posbility: 0.0000
+Choose : '),  Posbility: 0.9979
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b')
+---------------------------
+Next Token :  ==, Posbility: 0.9325
+Next Token :  >=, Posbility: 0.0279
+Next Token :  >, Posbility: 0.0172
+Next Token : ==, Posbility: 0.0080
+Next Token :  <, Posbility: 0.0042
+Choose :  ==,  Posbility: 0.9325
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') ==
+---------------------------
+Next Token :  2, Posbility: 0.5670
+Next Token :  3, Posbility: 0.3894
+Next Token :  1, Posbility: 0.0214
+Next Token :  0, Posbility: 0.0079
+Next Token : 2, Posbility: 0.0059
+Choose :  2,  Posbility: 0.5670
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2
+---------------------------
+Next Token : :, Posbility: 0.9472
+Next Token :  or, Posbility: 0.0453
+Next Token :  and, Posbility: 0.0033
+Next Token :  :, Posbility: 0.0031
+Next Token :  \, Posbility: 0.0003
+Choose : :,  Posbility: 0.9472
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+---------------------------
+Next Token : 
+, Posbility: 0.9777
+Next Token :  , Posbility: 0.0057
+Next Token :  return, Posbility: 0.0054
+Next Token :  #, Posbility: 0.0036
+Next Token :   , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.9777
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+
+---------------------------
+Next Token :         , Posbility: 0.9843
+Next Token :             , Posbility: 0.0061
+Next Token :        , Posbility: 0.0031
+Next Token :       , Posbility: 0.0025
+Next Token :     , Posbility: 0.0014
+Choose :         ,  Posbility: 0.9843
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        
+---------------------------
+Next Token : return, Posbility: 0.8634
+Next Token : print, Posbility: 0.0999
+Next Token : if, Posbility: 0.0120
+Next Token : #, Posbility: 0.0047
+Next Token : pass, Posbility: 0.0030
+Choose : return,  Posbility: 0.8634
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.8695
+Next Token :  ', Posbility: 0.0411
+Next Token :  string, Posbility: 0.0270
+Next Token :  1, Posbility: 0.0123
+Next Token :  ", Posbility: 0.0119
+Choose :  True,  Posbility: 0.8695
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9578
+Next Token : 
+
+, Posbility: 0.0289
+Next Token :  , Posbility: 0.0060
+Next Token :  #, Posbility: 0.0015
+Next Token : ;, Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9578
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9544
+Next Token : 
+, Posbility: 0.0321
+Next Token :         , Posbility: 0.0060
+Next Token : def, Posbility: 0.0019
+Next Token : <|endoftext|>, Posbility: 0.0009
+Choose :     ,  Posbility: 0.9544
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.8024
+Next Token : return, Posbility: 0.1422
+Next Token : el, Posbility: 0.0322
+Next Token : 
+, Posbility: 0.0100
+Next Token : if, Posbility: 0.0073
+Choose : else,  Posbility: 0.8024
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9982
+Next Token :  :, Posbility: 0.0017
+Next Token : :#, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :   , Posbility: 0.0000
+Choose : :,  Posbility: 0.9982
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9666
+Next Token :  , Posbility: 0.0195
+Next Token :  return, Posbility: 0.0121
+Next Token :  #, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9666
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9961
+Next Token :          , Posbility: 0.0014
+Next Token :        , Posbility: 0.0011
+Next Token :             , Posbility: 0.0005
+Next Token :     , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9961
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9799
+Next Token : print, Posbility: 0.0115
+Next Token : False, Posbility: 0.0032
+Next Token : raise, Posbility: 0.0009
+Next Token : #, Posbility: 0.0009
+Choose : return,  Posbility: 0.9799
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9961
+Next Token :  ', Posbility: 0.0008
+Next Token :  None, Posbility: 0.0005
+Next Token :  ", Posbility: 0.0003
+Next Token :  True, Posbility: 0.0003
+Choose :  False,  Posbility: 0.9961
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.6644
+Next Token : 
+
+, Posbility: 0.2953
+Next Token : <|endoftext|>, Posbility: 0.0222
+Next Token :  , Posbility: 0.0086
+Next Token :     , Posbility: 0.0031
+Choose : 
+,  Posbility: 0.6644
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.7572
+Next Token :     , Posbility: 0.0395
+Next Token : '', Posbility: 0.0348
+Next Token : #, Posbility: 0.0343
+Next Token : print, Posbility: 0.0296
+Choose : 
+,  Posbility: 0.7572
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9555
+Next Token : <|endoftext|>, Posbility: 0.0158
+Next Token : 
+
+, Posbility: 0.0124
+Next Token :     , Posbility: 0.0117
+Next Token :         , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9555
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.7155
+Next Token : #, Posbility: 0.0939
+Next Token : def, Posbility: 0.0794
+Next Token : print, Posbility: 0.0469
+Next Token : 
+, Posbility: 0.0241
+Choose : '',  Posbility: 0.7155
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8814
+Next Token : 
+, Posbility: 0.0144
+Next Token :  Write, Posbility: 0.0122
+Next Token : Check, Posbility: 0.0112
+Next Token : Create, Posbility: 0.0045
+Choose : Write,  Posbility: 0.8814
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9930
+Next Token :  your, Posbility: 0.0025
+Next Token :  an, Posbility: 0.0014
+Next Token :  the, Posbility: 0.0007
+Next Token :  another, Posbility: 0.0006
+Choose :  a,  Posbility: 0.9930
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9731
+Next Token :  program, Posbility: 0.0064
+Next Token :  Python, Posbility: 0.0047
+Next Token :  python, Posbility: 0.0028
+Next Token :  recursive, Posbility: 0.0012
+Choose :  function,  Posbility: 0.9731
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9222
+Next Token :  to, Posbility: 0.0341
+Next Token :  which, Posbility: 0.0103
+Next Token :  called, Posbility: 0.0099
+Next Token :  named, Posbility: 0.0041
+Choose :  that,  Posbility: 0.9222
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that
+---------------------------
+Next Token :  checks, Posbility: 0.4935
+Next Token :  takes, Posbility: 0.1043
+Next Token :  returns, Posbility: 0.0469
+Next Token :  converts, Posbility: 0.0337
+Next Token :  counts, Posbility: 0.0308
+Choose :  checks,  Posbility: 0.4935
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks
+---------------------------
+Next Token :  whether, Posbility: 0.9567
+Next Token :  if, Posbility: 0.0302
+Next Token :  the, Posbility: 0.0030
+Next Token :  weather, Posbility: 0.0030
+Next Token :  for, Posbility: 0.0025
+Choose :  whether,  Posbility: 0.9567
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether
+---------------------------
+Next Token :  a, Posbility: 0.8774
+Next Token :  the, Posbility: 0.0625
+Next Token :  an, Posbility: 0.0182
+Next Token :  two, Posbility: 0.0131
+Next Token :  ', Posbility: 0.0039
+Choose :  a,  Posbility: 0.8774
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a
+---------------------------
+Next Token :  string, Posbility: 0.9552
+Next Token :  number, Posbility: 0.0087
+Next Token :  given, Posbility: 0.0059
+Next Token :  word, Posbility: 0.0035
+Next Token :  sentence, Posbility: 0.0031
+Choose :  string,  Posbility: 0.9552
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string
+---------------------------
+Next Token :  contains, Posbility: 0.8631
+Next Token :  is, Posbility: 0.0442
+Next Token :  has, Posbility: 0.0344
+Next Token :  starts, Posbility: 0.0110
+Next Token :  ends, Posbility: 0.0095
+Choose :  contains,  Posbility: 0.8631
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains
+---------------------------
+Next Token :  the, Posbility: 0.6807
+Next Token :  a, Posbility: 0.0611
+Next Token :  ', Posbility: 0.0371
+Next Token :  any, Posbility: 0.0274
+Next Token :  one, Posbility: 0.0267
+Choose :  the,  Posbility: 0.6807
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the
+---------------------------
+Next Token :  ', Posbility: 0.7716
+Next Token :  first, Posbility: 0.0270
+Next Token :  character, Posbility: 0.0144
+Next Token :  string, Posbility: 0.0138
+Next Token :  letter, Posbility: 0.0122
+Choose :  ',  Posbility: 0.7716
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the '
+---------------------------
+Next Token : a, Posbility: 0.2619
+Next Token : c, Posbility: 0.2388
+Next Token : b, Posbility: 0.0994
+Next Token : z, Posbility: 0.0477
+Next Token : A, Posbility: 0.0286
+Choose : a,  Posbility: 0.2619
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a
+---------------------------
+Next Token : ', Posbility: 0.9795
+Next Token : ',, Posbility: 0.0139
+Next Token : '., Posbility: 0.0008
+Next Token : '-, Posbility: 0.0006
+Next Token : 's, Posbility: 0.0003
+Choose : ',  Posbility: 0.9795
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a'
+---------------------------
+Next Token :  character, Posbility: 0.8544
+Next Token :  or, Posbility: 0.0596
+Next Token :  and, Posbility: 0.0519
+Next Token :  followed, Posbility: 0.0054
+Next Token :  ', Posbility: 0.0037
+Choose :  character,  Posbility: 0.8544
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character
+---------------------------
+Next Token :  followed, Posbility: 0.9854
+Next Token :  and, Posbility: 0.0026
+Next Token : ,, Posbility: 0.0019
+Next Token :  or, Posbility: 0.0011
+Next Token :  preceded, Posbility: 0.0010
+Choose :  followed,  Posbility: 0.9854
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed
+---------------------------
+Next Token :  by, Posbility: 0.9866
+Next Token : 
+, Posbility: 0.0082
+Next Token :  ', Posbility: 0.0009
+Next Token :  only, Posbility: 0.0007
+Next Token :  with, Posbility: 0.0004
+Choose :  by,  Posbility: 0.9866
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by
+---------------------------
+Next Token :  two, Posbility: 0.3649
+Next Token :  three, Posbility: 0.1861
+Next Token :  one, Posbility: 0.0877
+Next Token :  a, Posbility: 0.0689
+Next Token :  ', Posbility: 0.0510
+Choose :  two,  Posbility: 0.3649
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two
+---------------------------
+Next Token :  or, Posbility: 0.8307
+Next Token :  ', Posbility: 0.1131
+Next Token : 
+, Posbility: 0.0118
+Next Token :  digits, Posbility: 0.0088
+Next Token :  characters, Posbility: 0.0058
+Choose :  or,  Posbility: 0.8307
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or
+---------------------------
+Next Token :  three, Posbility: 0.9618
+Next Token :  more, Posbility: 0.0106
+Next Token :  two, Posbility: 0.0066
+Next Token :  four, Posbility: 0.0047
+Next Token :  five, Posbility: 0.0044
+Choose :  three,  Posbility: 0.9618
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three
+---------------------------
+Next Token :  ', Posbility: 0.9427
+Next Token : 
+, Posbility: 0.0274
+Next Token :  characters, Posbility: 0.0068
+Next Token :  digits, Posbility: 0.0045
+Next Token :  or, Posbility: 0.0019
+Choose :  ',  Posbility: 0.9427
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three '
+---------------------------
+Next Token : c, Posbility: 0.4748
+Next Token : b, Posbility: 0.3881
+Next Token : a, Posbility: 0.0551
+Next Token : d, Posbility: 0.0195
+Next Token : z, Posbility: 0.0076
+Choose : c,  Posbility: 0.4748
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c
+---------------------------
+Next Token : ', Posbility: 0.9844
+Next Token : '., Posbility: 0.0125
+Next Token : ',, Posbility: 0.0014
+Next Token : '.", Posbility: 0.0009
+Next Token : 's, Posbility: 0.0001
+Choose : ',  Posbility: 0.9844
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c'
+---------------------------
+Next Token :  characters, Posbility: 0.9826
+Next Token : 
+, Posbility: 0.0032
+Next Token :  letters, Posbility: 0.0031
+Next Token :  digits, Posbility: 0.0017
+Next Token :  character, Posbility: 0.0017
+Choose :  characters,  Posbility: 0.9826
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c' characters
+---------------------------
+Next Token : .', Posbility: 0.8780
+Next Token : ., Posbility: 0.0936
+Next Token : ,, Posbility: 0.0051
+Next Token : '', Posbility: 0.0034
+Next Token :  and, Posbility: 0.0030
+Choose : .',  Posbility: 0.8780
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c' characters.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c' characters.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9674
+Next Token : 
+
+, Posbility: 0.0144
+Next Token : def, Posbility: 0.0135
+Next Token :  , Posbility: 0.0020
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9674
+---------------------------
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c' characters.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9656
+Next Token : 
+, Posbility: 0.0292
+Next Token : #, Posbility: 0.0028
+Next Token : '', Posbility: 0.0004
+Next Token : import, Posbility: 0.0003
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.841068267822266
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'b' characters.'''
+def check_a_b(string):
+    if string.count('a') == 2 or string.count('b') == 2:
+        return True
+    else:
+        return False
+
+
+'''Write a function that checks whether a string contains the 'a' character followed by two or three 'c' characters.'''
+

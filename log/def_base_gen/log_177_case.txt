@@ -1,0 +1,483 @@
+<<<<<<<<<<<< 177 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  convert, Posbility: 0.1637
+Next Token :  to, Posbility: 0.1048
+Next Token :  char, Posbility: 0.0781
+Next Token :  string, Posbility: 0.0657
+Next Token :  tuple, Posbility: 0.0451
+Choose :  convert,  Posbility: 0.1637
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert
+---------------------------
+Next Token : _, Posbility: 0.4931
+Next Token : (, Posbility: 0.2713
+Next Token : To, Posbility: 0.1425
+Next Token : T, Posbility: 0.0175
+Next Token : String, Posbility: 0.0140
+Choose : _,  Posbility: 0.4931
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_
+---------------------------
+Next Token : to, Posbility: 0.4448
+Next Token : string, Posbility: 0.3450
+Next Token : str, Posbility: 0.0429
+Next Token : t, Posbility: 0.0271
+Next Token : char, Posbility: 0.0142
+Choose : to,  Posbility: 0.4448
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to
+---------------------------
+Next Token : _, Posbility: 0.9968
+Next Token : (, Posbility: 0.0017
+Next Token : T, Posbility: 0.0009
+Next Token : Tu, Posbility: 0.0002
+Next Token : ():, Posbility: 0.0000
+Choose : _,  Posbility: 0.9968
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_
+---------------------------
+Next Token : t, Posbility: 0.8691
+Next Token : tu, Posbility: 0.0477
+Next Token : char, Posbility: 0.0148
+Next Token : string, Posbility: 0.0052
+Next Token : list, Posbility: 0.0042
+Choose : t,  Posbility: 0.8691
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_t
+---------------------------
+Next Token : uple, Posbility: 0.9888
+Next Token : up, Posbility: 0.0082
+Next Token : upp, Posbility: 0.0012
+Next Token : ok, Posbility: 0.0004
+Next Token : (, Posbility: 0.0002
+Choose : uple,  Posbility: 0.9888
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple
+---------------------------
+Next Token : (, Posbility: 0.9485
+Next Token : _, Posbility: 0.0284
+Next Token :  (, Posbility: 0.0109
+Next Token : ():, Posbility: 0.0077
+Next Token : (*, Posbility: 0.0024
+Choose : (,  Posbility: 0.9485
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(
+---------------------------
+Next Token : string, Posbility: 0.3170
+Next Token : s, Posbility: 0.1850
+Next Token : str, Posbility: 0.1026
+Next Token : text, Posbility: 0.0699
+Next Token : word, Posbility: 0.0560
+Choose : string,  Posbility: 0.3170
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string
+---------------------------
+Next Token : ):, Posbility: 0.9161
+Next Token : _, Posbility: 0.0357
+Next Token : :, Posbility: 0.0296
+Next Token : ,, Posbility: 0.0094
+Next Token : ), Posbility: 0.0038
+Choose : ):,  Posbility: 0.9161
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+---------------------------
+Next Token : 
+, Posbility: 0.9471
+Next Token : 
+
+, Posbility: 0.0183
+Next Token : , Posbility: 0.0143
+Next Token :  , Posbility: 0.0108
+Next Token :  #, Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9471
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+
+---------------------------
+Next Token :     , Posbility: 0.9261
+Next Token : 	, Posbility: 0.0359
+Next Token :   , Posbility: 0.0292
+Next Token :    , Posbility: 0.0045
+Next Token :         , Posbility: 0.0013
+Choose :     ,  Posbility: 0.9261
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    
+---------------------------
+Next Token : return, Posbility: 0.1978
+Next Token : '', Posbility: 0.1577
+Next Token : t, Posbility: 0.1386
+Next Token : #, Posbility: 0.0493
+Next Token : if, Posbility: 0.0460
+Choose : return,  Posbility: 0.1978
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return
+---------------------------
+Next Token :  tuple, Posbility: 0.8252
+Next Token :  (, Posbility: 0.0743
+Next Token : (, Posbility: 0.0178
+Next Token :  string, Posbility: 0.0170
+Next Token :  list, Posbility: 0.0161
+Choose :  tuple,  Posbility: 0.8252
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple
+---------------------------
+Next Token : (, Posbility: 0.9691
+Next Token : ([, Posbility: 0.0224
+Next Token : ((, Posbility: 0.0047
+Next Token : (', Posbility: 0.0011
+Next Token : (", Posbility: 0.0006
+Choose : (,  Posbility: 0.9691
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(
+---------------------------
+Next Token : string, Posbility: 0.9003
+Next Token : s, Posbility: 0.0345
+Next Token : list, Posbility: 0.0198
+Next Token : map, Posbility: 0.0162
+Next Token : char, Posbility: 0.0052
+Choose : string,  Posbility: 0.9003
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string
+---------------------------
+Next Token : ), Posbility: 0.8920
+Next Token : ., Posbility: 0.0839
+Next Token : [, Posbility: 0.0186
+Next Token : ,, Posbility: 0.0009
+Next Token :  for, Posbility: 0.0008
+Choose : ),  Posbility: 0.8920
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+---------------------------
+Next Token : 
+, Posbility: 0.5642
+Next Token : 
+
+, Posbility: 0.3879
+Next Token : <|endoftext|>, Posbility: 0.0295
+Next Token :  , Posbility: 0.0051
+Next Token :   , Posbility: 0.0037
+Choose : 
+,  Posbility: 0.5642
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+---------------------------
+Next Token : 
+, Posbility: 0.8311
+Next Token : <|endoftext|>, Posbility: 0.0298
+Next Token : def, Posbility: 0.0236
+Next Token : '', Posbility: 0.0229
+Next Token :     , Posbility: 0.0205
+Choose : 
+,  Posbility: 0.8311
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9745
+Next Token : <|endoftext|>, Posbility: 0.0133
+Next Token : 
+
+, Posbility: 0.0068
+Next Token :     , Posbility: 0.0035
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9745
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3995
+Next Token : def, Posbility: 0.2722
+Next Token : #, Posbility: 0.1308
+Next Token : print, Posbility: 0.0606
+Next Token : if, Posbility: 0.0384
+Choose : '',  Posbility: 0.3995
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7994
+Next Token :  Write, Posbility: 0.0253
+Next Token : 
+, Posbility: 0.0175
+Next Token : Con, Posbility: 0.0163
+Next Token : Create, Posbility: 0.0084
+Choose : Write,  Posbility: 0.7994
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9925
+Next Token :  an, Posbility: 0.0018
+Next Token :  your, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0009
+Next Token :  function, Posbility: 0.0008
+Choose :  a,  Posbility: 0.9925
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9732
+Next Token :  program, Posbility: 0.0044
+Next Token :  Python, Posbility: 0.0031
+Next Token :  python, Posbility: 0.0019
+Next Token :  Function, Posbility: 0.0015
+Choose :  function,  Posbility: 0.9732
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.6222
+Next Token :  that, Posbility: 0.3146
+Next Token :  which, Posbility: 0.0138
+Next Token :  named, Posbility: 0.0105
+Next Token :  called, Posbility: 0.0086
+Choose :  to,  Posbility: 0.6222
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to
+---------------------------
+Next Token :  print, Posbility: 0.1051
+Next Token :  find, Posbility: 0.1002
+Next Token :  convert, Posbility: 0.0745
+Next Token :  remove, Posbility: 0.0726
+Next Token :  reverse, Posbility: 0.0717
+Choose :  print,  Posbility: 0.1051
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print
+---------------------------
+Next Token :  the, Posbility: 0.3549
+Next Token :  a, Posbility: 0.2744
+Next Token :  out, Posbility: 0.1372
+Next Token :  all, Posbility: 0.0766
+Next Token :  an, Posbility: 0.0121
+Choose :  the,  Posbility: 0.3549
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the
+---------------------------
+Next Token :  given, Posbility: 0.1440
+Next Token :  first, Posbility: 0.0651
+Next Token :  string, Posbility: 0.0606
+Next Token :  list, Posbility: 0.0419
+Next Token :  numbers, Posbility: 0.0349
+Choose :  given,  Posbility: 0.1440
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given
+---------------------------
+Next Token :  string, Posbility: 0.6183
+Next Token :  number, Posbility: 0.0791
+Next Token :  list, Posbility: 0.0620
+Next Token :  tuple, Posbility: 0.0263
+Next Token :  integer, Posbility: 0.0224
+Choose :  string,  Posbility: 0.6183
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string
+---------------------------
+Next Token :  in, Posbility: 0.4099
+Next Token : .', Posbility: 0.2245
+Next Token : ., Posbility: 0.0425
+Next Token :  as, Posbility: 0.0400
+Next Token :  on, Posbility: 0.0254
+Choose :  in,  Posbility: 0.4099
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in
+---------------------------
+Next Token :  reverse, Posbility: 0.5549
+Next Token :  a, Posbility: 0.1128
+Next Token :  upper, Posbility: 0.0543
+Next Token :  u, Posbility: 0.0441
+Next Token :  the, Posbility: 0.0409
+Choose :  reverse,  Posbility: 0.5549
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in reverse
+---------------------------
+Next Token :  order, Posbility: 0.7004
+Next Token : .', Posbility: 0.1636
+Next Token : ., Posbility: 0.0323
+Next Token : '', Posbility: 0.0173
+Next Token :  using, Posbility: 0.0093
+Choose :  order,  Posbility: 0.7004
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in reverse order
+---------------------------
+Next Token : .', Posbility: 0.7536
+Next Token : ., Posbility: 0.0831
+Next Token : '', Posbility: 0.0612
+Next Token :  using, Posbility: 0.0192
+Next Token : ,, Posbility: 0.0136
+Choose : .',  Posbility: 0.7536
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in reverse order.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in reverse order.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9248
+Next Token : 
+
+, Posbility: 0.0731
+Next Token :  , Posbility: 0.0006
+Next Token : def, Posbility: 0.0005
+Next Token :   , Posbility: 0.0004
+Choose : 
+,  Posbility: 0.9248
+---------------------------
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in reverse order.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9504
+Next Token : 
+, Posbility: 0.0347
+Next Token : #, Posbility: 0.0087
+Next Token : '', Posbility: 0.0011
+Next Token : import, Posbility: 0.0009
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 4.572011470794678
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to convert a given string to a tuple of characters.'''
+def convert_to_tuple(string):
+    return tuple(string)
+
+
+'''Write a function to print the given string in reverse order.'''
+

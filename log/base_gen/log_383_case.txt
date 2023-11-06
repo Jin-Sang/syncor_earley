@@ -1,0 +1,944 @@
+<<<<<<<<<<<< 383 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.2022
+Next Token : ____, Posbility: 0.0694
+Next Token : 	, Posbility: 0.0514
+Next Token : ix, Posbility: 0.0451
+Next Token : iban, Posbility: 0.0336
+Choose : 
+,  Posbility: 0.2022
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+
+---------------------------
+Next Token : #, Posbility: 0.1036
+Next Token : def, Posbility: 0.0846
+Next Token : 
+, Posbility: 0.0622
+Next Token : import, Posbility: 0.0571
+Next Token : '', Posbility: 0.0562
+Choose : #,  Posbility: 0.1036
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+#
+---------------------------
+Next Token :  month, Posbility: 0.0507
+Next Token :  function, Posbility: 0.0247
+Next Token :  Function, Posbility: 0.0238
+Next Token :  Write, Posbility: 0.0234
+Next Token :  def, Posbility: 0.0223
+Choose :  month,  Posbility: 0.0507
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month
+---------------------------
+Next Token : _, Posbility: 0.3677
+Next Token :  number, Posbility: 0.0537
+Next Token :  =, Posbility: 0.0419
+Next Token :  check, Posbility: 0.0280
+Next Token : 
+, Posbility: 0.0247
+Choose : _,  Posbility: 0.3677
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_
+---------------------------
+Next Token : check, Posbility: 0.1163
+Next Token : days, Posbility: 0.1069
+Next Token : number, Posbility: 0.1048
+Next Token : name, Posbility: 0.0453
+Next Token : dict, Posbility: 0.0449
+Choose : check,  Posbility: 0.1163
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check
+---------------------------
+Next Token : (, Posbility: 0.5185
+Next Token : er, Posbility: 0.2631
+Next Token : ():, Posbility: 0.0730
+Next Token : (), Posbility: 0.0425
+Next Token : _, Posbility: 0.0266
+Choose : (,  Posbility: 0.5185
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(
+---------------------------
+Next Token : month, Posbility: 0.6362
+Next Token : m, Posbility: 0.0488
+Next Token : x, Posbility: 0.0427
+Next Token : num, Posbility: 0.0419
+Next Token : number, Posbility: 0.0368
+Choose : month,  Posbility: 0.6362
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month
+---------------------------
+Next Token : ):, Posbility: 0.7958
+Next Token : _, Posbility: 0.1038
+Next Token : ,, Posbility: 0.0386
+Next Token : ), Posbility: 0.0373
+Next Token : :, Posbility: 0.0140
+Choose : ):,  Posbility: 0.7958
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+---------------------------
+Next Token : 
+, Posbility: 0.9185
+Next Token : 
+
+, Posbility: 0.0282
+Next Token :  , Posbility: 0.0251
+Next Token :  #, Posbility: 0.0084
+Next Token :   , Posbility: 0.0044
+Choose : 
+,  Posbility: 0.9185
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+
+---------------------------
+Next Token :     , Posbility: 0.5253
+Next Token : #, Posbility: 0.3789
+Next Token : 	, Posbility: 0.0179
+Next Token :   , Posbility: 0.0139
+Next Token : def, Posbility: 0.0090
+Choose :     ,  Posbility: 0.5253
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    
+---------------------------
+Next Token : if, Posbility: 0.4601
+Next Token : #, Posbility: 0.2110
+Next Token : '', Posbility: 0.0752
+Next Token : 
+, Posbility: 0.0629
+Next Token : month, Posbility: 0.0288
+Choose : if,  Posbility: 0.4601
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if
+---------------------------
+Next Token :  month, Posbility: 0.4930
+Next Token :  1, Posbility: 0.1239
+Next Token :  (, Posbility: 0.1015
+Next Token :  0, Posbility: 0.0728
+Next Token : (, Posbility: 0.0549
+Choose :  month,  Posbility: 0.4930
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month
+---------------------------
+Next Token :  ==, Posbility: 0.3109
+Next Token :  in, Posbility: 0.1900
+Next Token :  <, Posbility: 0.1174
+Next Token : ==, Posbility: 0.0674
+Next Token :  >, Posbility: 0.0555
+Choose :  ==,  Posbility: 0.3109
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month ==
+---------------------------
+Next Token :  1, Posbility: 0.7758
+Next Token :  12, Posbility: 0.0375
+Next Token : 1, Posbility: 0.0285
+Next Token :  2, Posbility: 0.0266
+Next Token :  ', Posbility: 0.0218
+Choose :  1,  Posbility: 0.7758
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1
+---------------------------
+Next Token :  or, Posbility: 0.5893
+Next Token : :, Posbility: 0.3922
+Next Token :  :, Posbility: 0.0092
+Next Token :  and, Posbility: 0.0066
+Next Token :   , Posbility: 0.0012
+Choose :  or,  Posbility: 0.5893
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or
+---------------------------
+Next Token :  month, Posbility: 0.9382
+Next Token :  (, Posbility: 0.0170
+Next Token :  1, Posbility: 0.0112
+Next Token :  2, Posbility: 0.0110
+Next Token :   , Posbility: 0.0039
+Choose :  month,  Posbility: 0.9382
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9595
+Next Token : ==, Posbility: 0.0139
+Next Token :  >, Posbility: 0.0103
+Next Token :  in, Posbility: 0.0036
+Next Token :  >=, Posbility: 0.0036
+Choose :  ==,  Posbility: 0.9595
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month ==
+---------------------------
+Next Token :  2, Posbility: 0.5864
+Next Token :  3, Posbility: 0.2927
+Next Token :  12, Posbility: 0.0554
+Next Token : 2, Posbility: 0.0212
+Next Token :  4, Posbility: 0.0122
+Choose :  2,  Posbility: 0.5864
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2
+---------------------------
+Next Token :  or, Posbility: 0.8705
+Next Token : :, Posbility: 0.1182
+Next Token :  and, Posbility: 0.0045
+Next Token :  :, Posbility: 0.0035
+Next Token :   , Posbility: 0.0019
+Choose :  or,  Posbility: 0.8705
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or
+---------------------------
+Next Token :  month, Posbility: 0.9947
+Next Token :   , Posbility: 0.0024
+Next Token :  (, Posbility: 0.0010
+Next Token :  \, Posbility: 0.0004
+Next Token :  3, Posbility: 0.0002
+Choose :  month,  Posbility: 0.9947
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9914
+Next Token : ==, Posbility: 0.0069
+Next Token :  in, Posbility: 0.0005
+Next Token :  >=, Posbility: 0.0003
+Next Token :  >, Posbility: 0.0003
+Choose :  ==,  Posbility: 0.9914
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month ==
+---------------------------
+Next Token :  3, Posbility: 0.5996
+Next Token :  12, Posbility: 0.3279
+Next Token :  4, Posbility: 0.0264
+Next Token : 3, Posbility: 0.0156
+Next Token :  5, Posbility: 0.0081
+Choose :  3,  Posbility: 0.5996
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3
+---------------------------
+Next Token :  or, Posbility: 0.9814
+Next Token : :, Posbility: 0.0158
+Next Token :   , Posbility: 0.0009
+Next Token :  and, Posbility: 0.0008
+Next Token :  :, Posbility: 0.0005
+Choose :  or,  Posbility: 0.9814
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or
+---------------------------
+Next Token :  month, Posbility: 0.9961
+Next Token :   , Posbility: 0.0013
+Next Token :  \, Posbility: 0.0013
+Next Token :  , Posbility: 0.0003
+Next Token :  (, Posbility: 0.0003
+Choose :  month,  Posbility: 0.9961
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9950
+Next Token : ==, Posbility: 0.0046
+Next Token :  =, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  in, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9950
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month ==
+---------------------------
+Next Token :  4, Posbility: 0.9682
+Next Token :  5, Posbility: 0.0071
+Next Token : 4, Posbility: 0.0060
+Next Token :   , Posbility: 0.0045
+Next Token :  ', Posbility: 0.0044
+Choose :  4,  Posbility: 0.9682
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4
+---------------------------
+Next Token :  or, Posbility: 0.9940
+Next Token : :, Posbility: 0.0035
+Next Token :   , Posbility: 0.0007
+Next Token :  \, Posbility: 0.0006
+Next Token :  and, Posbility: 0.0004
+Choose :  or,  Posbility: 0.9940
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or
+---------------------------
+Next Token :  month, Posbility: 0.9946
+Next Token :  \, Posbility: 0.0023
+Next Token :   , Posbility: 0.0012
+Next Token :  , Posbility: 0.0007
+Next Token : \, Posbility: 0.0004
+Choose :  month,  Posbility: 0.9946
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9948
+Next Token : ==, Posbility: 0.0048
+Next Token :  =, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  >=, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9948
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month ==
+---------------------------
+Next Token :  5, Posbility: 0.9855
+Next Token :  6, Posbility: 0.0063
+Next Token : 5, Posbility: 0.0060
+Next Token :  7, Posbility: 0.0010
+Next Token :   , Posbility: 0.0002
+Choose :  5,  Posbility: 0.9855
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5
+---------------------------
+Next Token :  or, Posbility: 0.9879
+Next Token : :, Posbility: 0.0080
+Next Token :  \, Posbility: 0.0007
+Next Token : 
+, Posbility: 0.0007
+Next Token :  and, Posbility: 0.0006
+Choose :  or,  Posbility: 0.9879
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or
+---------------------------
+Next Token :  month, Posbility: 0.9869
+Next Token :  \, Posbility: 0.0073
+Next Token :  , Posbility: 0.0019
+Next Token :   , Posbility: 0.0011
+Next Token : \, Posbility: 0.0011
+Choose :  month,  Posbility: 0.9869
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9932
+Next Token : ==, Posbility: 0.0060
+Next Token :  >, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  >=, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9932
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month ==
+---------------------------
+Next Token :  6, Posbility: 0.9946
+Next Token : 6, Posbility: 0.0017
+Next Token :  8, Posbility: 0.0009
+Next Token :  7, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0005
+Choose :  6,  Posbility: 0.9946
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6
+---------------------------
+Next Token :  or, Posbility: 0.9903
+Next Token : :, Posbility: 0.0043
+Next Token :  \, Posbility: 0.0015
+Next Token : 
+, Posbility: 0.0009
+Next Token :  and, Posbility: 0.0008
+Choose :  or,  Posbility: 0.9903
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or
+---------------------------
+Next Token :  month, Posbility: 0.9819
+Next Token :  \, Posbility: 0.0098
+Next Token :  , Posbility: 0.0031
+Next Token : 
+, Posbility: 0.0019
+Next Token : \, Posbility: 0.0012
+Choose :  month,  Posbility: 0.9819
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9948
+Next Token : ==, Posbility: 0.0044
+Next Token : 
+, Posbility: 0.0002
+Next Token :  >, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9948
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month ==
+---------------------------
+Next Token :  7, Posbility: 0.9875
+Next Token :  8, Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0023
+Next Token : 7, Posbility: 0.0015
+Next Token :  , Posbility: 0.0011
+Choose :  7,  Posbility: 0.9875
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7
+---------------------------
+Next Token :  or, Posbility: 0.9750
+Next Token : :, Posbility: 0.0133
+Next Token : 
+, Posbility: 0.0028
+Next Token :  \, Posbility: 0.0025
+Next Token :   , Posbility: 0.0020
+Choose :  or,  Posbility: 0.9750
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or
+---------------------------
+Next Token :  month, Posbility: 0.9865
+Next Token :  \, Posbility: 0.0070
+Next Token :  , Posbility: 0.0022
+Next Token : 
+, Posbility: 0.0016
+Next Token :   , Posbility: 0.0010
+Choose :  month,  Posbility: 0.9865
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9939
+Next Token : ==, Posbility: 0.0051
+Next Token :  >, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Next Token :  >=, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9939
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month ==
+---------------------------
+Next Token :  8, Posbility: 0.9958
+Next Token :  10, Posbility: 0.0010
+Next Token : 8, Posbility: 0.0008
+Next Token : 
+, Posbility: 0.0008
+Next Token :  9, Posbility: 0.0003
+Choose :  8,  Posbility: 0.9958
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8
+---------------------------
+Next Token :  or, Posbility: 0.9954
+Next Token :   , Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0008
+Next Token : :, Posbility: 0.0007
+Next Token :  and, Posbility: 0.0006
+Choose :  or,  Posbility: 0.9954
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or
+---------------------------
+Next Token :  month, Posbility: 0.9878
+Next Token :  \, Posbility: 0.0058
+Next Token :  , Posbility: 0.0022
+Next Token :   , Posbility: 0.0013
+Next Token : 
+, Posbility: 0.0013
+Choose :  month,  Posbility: 0.9878
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9954
+Next Token : ==, Posbility: 0.0038
+Next Token :  >, Posbility: 0.0002
+Next Token :  >=, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9954
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month ==
+---------------------------
+Next Token :  9, Posbility: 0.9649
+Next Token :  10, Posbility: 0.0308
+Next Token : 
+, Posbility: 0.0010
+Next Token : 9, Posbility: 0.0008
+Next Token :  12, Posbility: 0.0007
+Choose :  9,  Posbility: 0.9649
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9
+---------------------------
+Next Token :  or, Posbility: 0.9936
+Next Token : :, Posbility: 0.0035
+Next Token :   , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0004
+Next Token :  and, Posbility: 0.0003
+Choose :  or,  Posbility: 0.9936
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or
+---------------------------
+Next Token :  month, Posbility: 0.9877
+Next Token :  \, Posbility: 0.0071
+Next Token :  , Posbility: 0.0018
+Next Token :   , Posbility: 0.0011
+Next Token : \, Posbility: 0.0008
+Choose :  month,  Posbility: 0.9877
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9962
+Next Token : ==, Posbility: 0.0026
+Next Token :  >, Posbility: 0.0005
+Next Token :  >=, Posbility: 0.0002
+Next Token :  <=, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9962
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month ==
+---------------------------
+Next Token :  10, Posbility: 0.9958
+Next Token : 10, Posbility: 0.0032
+Next Token :  11, Posbility: 0.0005
+Next Token :  0, Posbility: 0.0001
+Next Token :  12, Posbility: 0.0001
+Choose :  10,  Posbility: 0.9958
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10
+---------------------------
+Next Token :  or, Posbility: 0.9888
+Next Token : :, Posbility: 0.0066
+Next Token : 
+, Posbility: 0.0013
+Next Token :  and, Posbility: 0.0008
+Next Token :  \, Posbility: 0.0008
+Choose :  or,  Posbility: 0.9888
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or
+---------------------------
+Next Token :  month, Posbility: 0.9910
+Next Token :  \, Posbility: 0.0049
+Next Token :  , Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0009
+Next Token :   , Posbility: 0.0007
+Choose :  month,  Posbility: 0.9910
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month
+---------------------------
+Next Token :  ==, Posbility: 0.9963
+Next Token : ==, Posbility: 0.0023
+Next Token :  >, Posbility: 0.0006
+Next Token :  >=, Posbility: 0.0003
+Next Token :  <=, Posbility: 0.0001
+Choose :  ==,  Posbility: 0.9963
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month ==
+---------------------------
+Next Token :  11, Posbility: 0.9890
+Next Token :  12, Posbility: 0.0064
+Next Token : 11, Posbility: 0.0028
+Next Token : 
+, Posbility: 0.0004
+Next Token :  10, Posbility: 0.0004
+Choose :  11,  Posbility: 0.9890
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11
+---------------------------
+Next Token : :, Posbility: 0.6774
+Next Token :  or, Posbility: 0.3037
+Next Token :  :, Posbility: 0.0089
+Next Token :  \, Posbility: 0.0034
+Next Token :  and, Posbility: 0.0016
+Choose : :,  Posbility: 0.6774
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+---------------------------
+Next Token : 
+, Posbility: 0.9574
+Next Token :  , Posbility: 0.0204
+Next Token :  return, Posbility: 0.0063
+Next Token :  #, Posbility: 0.0047
+Next Token : 
+
+, Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9574
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+
+---------------------------
+Next Token :         , Posbility: 0.9463
+Next Token :     , Posbility: 0.0170
+Next Token :             , Posbility: 0.0153
+Next Token :        , Posbility: 0.0058
+Next Token :       , Posbility: 0.0050
+Choose :         ,  Posbility: 0.9463
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        
+---------------------------
+Next Token : return, Posbility: 0.7226
+Next Token : print, Posbility: 0.2146
+Next Token : if, Posbility: 0.0186
+Next Token : #, Posbility: 0.0124
+Next Token : month, Posbility: 0.0041
+Choose : return,  Posbility: 0.7226
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.8443
+Next Token :  ', Posbility: 0.0406
+Next Token :  ", Posbility: 0.0337
+Next Token :  False, Posbility: 0.0306
+Next Token :  1, Posbility: 0.0165
+Choose :  True,  Posbility: 0.8443
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9379
+Next Token : 
+
+, Posbility: 0.0288
+Next Token :  , Posbility: 0.0136
+Next Token : ;, Posbility: 0.0068
+Next Token :  #, Posbility: 0.0049
+Choose : 
+,  Posbility: 0.9379
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9675
+Next Token : 
+, Posbility: 0.0122
+Next Token :         , Posbility: 0.0051
+Next Token : def, Posbility: 0.0048
+Next Token : #, Posbility: 0.0048
+Choose :     ,  Posbility: 0.9675
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    
+---------------------------
+Next Token : else, Posbility: 0.5830
+Next Token : el, Posbility: 0.3065
+Next Token : if, Posbility: 0.0617
+Next Token : return, Posbility: 0.0378
+Next Token : 
+, Posbility: 0.0073
+Choose : else,  Posbility: 0.5830
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else
+---------------------------
+Next Token : :, Posbility: 0.9808
+Next Token :  :, Posbility: 0.0189
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  if, Posbility: 0.0000
+Choose : :,  Posbility: 0.9808
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9442
+Next Token :  , Posbility: 0.0345
+Next Token :  return, Posbility: 0.0166
+Next Token :     , Posbility: 0.0007
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9442
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9828
+Next Token :     , Posbility: 0.0051
+Next Token :        , Posbility: 0.0035
+Next Token :             , Posbility: 0.0019
+Next Token :          , Posbility: 0.0017
+Choose :         ,  Posbility: 0.9828
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.9749
+Next Token : print, Posbility: 0.0092
+Next Token : if, Posbility: 0.0056
+Next Token : False, Posbility: 0.0039
+Next Token : #, Posbility: 0.0012
+Choose : return,  Posbility: 0.9749
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.9966
+Next Token :   , Posbility: 0.0009
+Next Token :  True, Posbility: 0.0003
+Next Token : (, Posbility: 0.0002
+Next Token :  None, Posbility: 0.0002
+Choose :  False,  Posbility: 0.9966
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.7107
+Next Token : 
+
+, Posbility: 0.2530
+Next Token :  , Posbility: 0.0151
+Next Token :     , Posbility: 0.0054
+Next Token :         , Posbility: 0.0039
+Choose : 
+,  Posbility: 0.7107
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+        return False
+
+---------------------------
+Next Token : 
+, Posbility: 0.6100
+Next Token : #, Posbility: 0.1319
+Next Token :     , Posbility: 0.0764
+Next Token : def, Posbility: 0.0675
+Next Token :         , Posbility: 0.0387
+Choose : 
+,  Posbility: 0.6100
+---------------------------
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+        return False
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9184
+Next Token :     , Posbility: 0.0319
+Next Token : 
+
+, Posbility: 0.0276
+Next Token : <|endoftext|>, Posbility: 0.0064
+Next Token :  , Posbility: 0.0030
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.177166223526001
+
+
+
+----------Syntax Error-----------
+
+'''Write a function to check whether the given month number contains 30 days or not. Months are given as number from 1 to 12.'''
+def 
+# month_check(month):
+    if month == 1 or month == 2 or month == 3 or month == 4 or month == 5 or month == 6 or month == 7 or month == 8 or month == 9 or month == 10 or month == 11:
+        return True
+    else:
+        return False
+
+
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Timeout >>>>>>>>>>>>

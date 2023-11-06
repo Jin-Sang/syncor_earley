@@ -1,0 +1,841 @@
+<<<<<<<<<<<< 171 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  rotate, Posbility: 0.3432
+Next Token :  find, Posbility: 0.1425
+Next Token :  rot, Posbility: 0.0963
+Next Token :  Rot, Posbility: 0.0338
+Next Token :  rotation, Posbility: 0.0288
+Choose :  rotate,  Posbility: 0.3432
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate
+---------------------------
+Next Token : (, Posbility: 0.6032
+Next Token : _, Posbility: 0.2717
+Next Token : Right, Posbility: 0.0095
+Next Token : Array, Posbility: 0.0089
+Next Token : Left, Posbility: 0.0079
+Choose : (,  Posbility: 0.6032
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(
+---------------------------
+Next Token : arr, Posbility: 0.2292
+Next Token : n, Posbility: 0.0971
+Next Token : a, Posbility: 0.0688
+Next Token : rot, Posbility: 0.0485
+Next Token : l, Posbility: 0.0483
+Choose : arr,  Posbility: 0.2292
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr
+---------------------------
+Next Token : ,, Posbility: 0.9646
+Next Token : ):, Posbility: 0.0204
+Next Token : :, Posbility: 0.0072
+Next Token : ,, Posbility: 0.0023
+Next Token : 1, Posbility: 0.0022
+Choose : ,,  Posbility: 0.9646
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr,
+---------------------------
+Next Token :  n, Posbility: 0.3533
+Next Token :  rot, Posbility: 0.0990
+Next Token : n, Posbility: 0.0859
+Next Token : rot, Posbility: 0.0363
+Next Token :  k, Posbility: 0.0359
+Choose :  n,  Posbility: 0.3533
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n
+---------------------------
+Next Token : ,, Posbility: 0.8140
+Next Token : ):, Posbility: 0.1538
+Next Token : ,, Posbility: 0.0148
+Next Token : r, Posbility: 0.0043
+Next Token : _, Posbility: 0.0035
+Choose : ,,  Posbility: 0.8140
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n,
+---------------------------
+Next Token :  i, Posbility: 0.2439
+Next Token :  k, Posbility: 0.1918
+Next Token :  x, Posbility: 0.1151
+Next Token :  rot, Posbility: 0.1136
+Next Token :  r, Posbility: 0.0519
+Choose :  i,  Posbility: 0.2439
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i
+---------------------------
+Next Token : ):, Posbility: 0.8100
+Next Token : ,, Posbility: 0.1727
+Next Token : ), Posbility: 0.0059
+Next Token : =, Posbility: 0.0049
+Next Token :  =, Posbility: 0.0016
+Choose : ):,  Posbility: 0.8100
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+---------------------------
+Next Token : 
+, Posbility: 0.8934
+Next Token :  , Posbility: 0.0413
+Next Token : , Posbility: 0.0324
+Next Token : 
+
+, Posbility: 0.0174
+Next Token :  #, Posbility: 0.0061
+Choose : 
+,  Posbility: 0.8934
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+
+---------------------------
+Next Token :     , Posbility: 0.9104
+Next Token : 	, Posbility: 0.0430
+Next Token :   , Posbility: 0.0341
+Next Token :    , Posbility: 0.0048
+Next Token :         , Posbility: 0.0023
+Choose :     ,  Posbility: 0.9104
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    
+---------------------------
+Next Token : if, Posbility: 0.1872
+Next Token : #, Posbility: 0.1238
+Next Token : '', Posbility: 0.0986
+Next Token : rot, Posbility: 0.0626
+Next Token : for, Posbility: 0.0448
+Choose : if,  Posbility: 0.1872
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if
+---------------------------
+Next Token :  i, Posbility: 0.4639
+Next Token :  n, Posbility: 0.2840
+Next Token :  (, Posbility: 0.0899
+Next Token : (, Posbility: 0.0874
+Next Token :  len, Posbility: 0.0254
+Choose :  i,  Posbility: 0.4639
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i
+---------------------------
+Next Token :  ==, Posbility: 0.4884
+Next Token :  >=, Posbility: 0.1890
+Next Token :  <, Posbility: 0.0903
+Next Token : ==, Posbility: 0.0684
+Next Token :  >, Posbility: 0.0583
+Choose :  ==,  Posbility: 0.4884
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i ==
+---------------------------
+Next Token :  n, Posbility: 0.8078
+Next Token :  0, Posbility: 0.1436
+Next Token :  len, Posbility: 0.0174
+Next Token :  (, Posbility: 0.0105
+Next Token :  1, Posbility: 0.0090
+Choose :  n,  Posbility: 0.8078
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n
+---------------------------
+Next Token : :, Posbility: 0.8674
+Next Token : -, Posbility: 0.0358
+Next Token :  -, Posbility: 0.0211
+Next Token : //, Posbility: 0.0171
+Next Token :  :, Posbility: 0.0143
+Choose : :,  Posbility: 0.8674
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+---------------------------
+Next Token : 
+, Posbility: 0.9367
+Next Token :  return, Posbility: 0.0189
+Next Token :  #, Posbility: 0.0155
+Next Token :  , Posbility: 0.0126
+Next Token :   , Posbility: 0.0062
+Choose : 
+,  Posbility: 0.9367
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+
+---------------------------
+Next Token :         , Posbility: 0.9911
+Next Token :       , Posbility: 0.0032
+Next Token :        , Posbility: 0.0017
+Next Token :     , Posbility: 0.0011
+Next Token :             , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9911
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        
+---------------------------
+Next Token : return, Posbility: 0.5343
+Next Token : print, Posbility: 0.2512
+Next Token : for, Posbility: 0.0492
+Next Token : arr, Posbility: 0.0480
+Next Token : if, Posbility: 0.0253
+Choose : return,  Posbility: 0.5343
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return
+---------------------------
+Next Token :  arr, Posbility: 0.7374
+Next Token : 
+, Posbility: 0.1105
+Next Token :  0, Posbility: 0.0188
+Next Token : 
+
+, Posbility: 0.0168
+Next Token :  , Posbility: 0.0141
+Choose :  arr,  Posbility: 0.7374
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+---------------------------
+Next Token : 
+, Posbility: 0.7472
+Next Token : [, Posbility: 0.1198
+Next Token : 
+
+, Posbility: 0.1093
+Next Token : ., Posbility: 0.0071
+Next Token :  , Posbility: 0.0060
+Choose : 
+,  Posbility: 0.7472
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+
+---------------------------
+Next Token :     , Posbility: 0.9867
+Next Token :         , Posbility: 0.0089
+Next Token : 
+, Posbility: 0.0009
+Next Token :  , Posbility: 0.0005
+Next Token :    , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9867
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    
+---------------------------
+Next Token : else, Posbility: 0.2703
+Next Token : if, Posbility: 0.0932
+Next Token : return, Posbility: 0.0858
+Next Token : el, Posbility: 0.0586
+Next Token : 
+, Posbility: 0.0548
+Choose : else,  Posbility: 0.2703
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else
+---------------------------
+Next Token : :, Posbility: 0.9950
+Next Token :  :, Posbility: 0.0048
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Choose : :,  Posbility: 0.9950
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9850
+Next Token :  , Posbility: 0.0079
+Next Token : 
+
+, Posbility: 0.0024
+Next Token :   , Posbility: 0.0010
+Next Token :     , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9850
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9944
+Next Token :        , Posbility: 0.0012
+Next Token :             , Posbility: 0.0011
+Next Token :          , Posbility: 0.0009
+Next Token :       , Posbility: 0.0009
+Choose :         ,  Posbility: 0.9944
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        
+---------------------------
+Next Token : arr, Posbility: 0.2200
+Next Token : return, Posbility: 0.1939
+Next Token : rot, Posbility: 0.0660
+Next Token : temp, Posbility: 0.0571
+Next Token : for, Posbility: 0.0521
+Choose : arr,  Posbility: 0.2200
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr
+---------------------------
+Next Token : [, Posbility: 0.7843
+Next Token :  =, Posbility: 0.1029
+Next Token : ., Posbility: 0.0842
+Next Token : 1, Posbility: 0.0092
+Next Token : 2, Posbility: 0.0069
+Choose : [,  Posbility: 0.7843
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[
+---------------------------
+Next Token : i, Posbility: 0.9439
+Next Token : n, Posbility: 0.0460
+Next Token : (, Posbility: 0.0031
+Next Token : 0, Posbility: 0.0020
+Next Token : arr, Posbility: 0.0011
+Choose : i,  Posbility: 0.9439
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i
+---------------------------
+Next Token : ],, Posbility: 0.6203
+Next Token : ], Posbility: 0.3160
+Next Token : +, Posbility: 0.0147
+Next Token : :, Posbility: 0.0145
+Next Token :  +, Posbility: 0.0090
+Choose : ],,  Posbility: 0.6203
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i],
+---------------------------
+Next Token :  arr, Posbility: 0.9450
+Next Token : arr, Posbility: 0.0536
+Next Token :   , Posbility: 0.0003
+Next Token :  res, Posbility: 0.0001
+Next Token :  temp, Posbility: 0.0001
+Choose :  arr,  Posbility: 0.9450
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr
+---------------------------
+Next Token : [, Posbility: 0.9985
+Next Token :  =, Posbility: 0.0011
+Next Token :  [, Posbility: 0.0003
+Next Token : ., Posbility: 0.0000
+Next Token : =, Posbility: 0.0000
+Choose : [,  Posbility: 0.9985
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[
+---------------------------
+Next Token : n, Posbility: 0.6063
+Next Token : i, Posbility: 0.3474
+Next Token : -, Posbility: 0.0197
+Next Token : (, Posbility: 0.0078
+Next Token : -(, Posbility: 0.0076
+Choose : n,  Posbility: 0.6063
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n
+---------------------------
+Next Token : ], Posbility: 0.4473
+Next Token : -, Posbility: 0.3943
+Next Token :  -, Posbility: 0.1095
+Next Token : +, Posbility: 0.0255
+Next Token :  +, Posbility: 0.0107
+Choose : ],  Posbility: 0.4473
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n]
+---------------------------
+Next Token :  =, Posbility: 0.9982
+Next Token :   , Posbility: 0.0011
+Next Token : 
+, Posbility: 0.0002
+Next Token : ,, Posbility: 0.0001
+Next Token :  ==, Posbility: 0.0001
+Choose :  =,  Posbility: 0.9982
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] =
+---------------------------
+Next Token :  arr, Posbility: 0.9975
+Next Token :  (, Posbility: 0.0008
+Next Token :   , Posbility: 0.0006
+Next Token : arr, Posbility: 0.0003
+Next Token :  rot, Posbility: 0.0001
+Choose :  arr,  Posbility: 0.9975
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr
+---------------------------
+Next Token : [, Posbility: 0.9980
+Next Token :  [, Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : [,  Posbility: 0.9980
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[
+---------------------------
+Next Token : n, Posbility: 0.9982
+Next Token : i, Posbility: 0.0014
+Next Token : -, Posbility: 0.0002
+Next Token : 0, Posbility: 0.0000
+Next Token : int, Posbility: 0.0000
+Choose : n,  Posbility: 0.9982
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n
+---------------------------
+Next Token : ],, Posbility: 0.9937
+Next Token : ], Posbility: 0.0058
+Next Token : ]., Posbility: 0.0003
+Next Token : ][, Posbility: 0.0001
+Next Token : ]+, Posbility: 0.0000
+Choose : ],,  Posbility: 0.9937
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n],
+---------------------------
+Next Token :  arr, Posbility: 0.9909
+Next Token : arr, Posbility: 0.0082
+Next Token :   , Posbility: 0.0003
+Next Token :  array, Posbility: 0.0001
+Next Token :  list, Posbility: 0.0001
+Choose :  arr,  Posbility: 0.9909
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr
+---------------------------
+Next Token : [, Posbility: 0.9997
+Next Token :  [, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token : [], Posbility: 0.0000
+Choose : [,  Posbility: 0.9997
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[
+---------------------------
+Next Token : i, Posbility: 0.9999
+Next Token : n, Posbility: 0.0001
+Next Token : 2, Posbility: 0.0000
+Next Token : 0, Posbility: 0.0000
+Next Token :  i, Posbility: 0.0000
+Choose : i,  Posbility: 0.9999
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i
+---------------------------
+Next Token : ], Posbility: 0.9969
+Next Token : ];, Posbility: 0.0020
+Next Token :  %, Posbility: 0.0003
+Next Token : +, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : ],  Posbility: 0.9969
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+---------------------------
+Next Token : 
+, Posbility: 0.9230
+Next Token : 
+
+, Posbility: 0.0451
+Next Token :  #, Posbility: 0.0158
+Next Token :  , Posbility: 0.0056
+Next Token :   , Posbility: 0.0043
+Choose : 
+,  Posbility: 0.9230
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+
+---------------------------
+Next Token :         , Posbility: 0.9735
+Next Token :     , Posbility: 0.0218
+Next Token : 
+, Posbility: 0.0032
+Next Token :        , Posbility: 0.0002
+Next Token :             , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9735
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        
+---------------------------
+Next Token : return, Posbility: 0.5148
+Next Token : rot, Posbility: 0.2811
+Next Token : #, Posbility: 0.0289
+Next Token : n, Posbility: 0.0254
+Next Token : print, Posbility: 0.0214
+Choose : return,  Posbility: 0.5148
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return
+---------------------------
+Next Token :  rotate, Posbility: 0.9625
+Next Token :  arr, Posbility: 0.0167
+Next Token :  rot, Posbility: 0.0031
+Next Token :  (, Posbility: 0.0029
+Next Token :   , Posbility: 0.0018
+Choose :  rotate,  Posbility: 0.9625
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate
+---------------------------
+Next Token : (, Posbility: 0.9983
+Next Token : ([, Posbility: 0.0005
+Next Token :  (, Posbility: 0.0005
+Next Token : (), Posbility: 0.0001
+Next Token : ((, Posbility: 0.0001
+Choose : (,  Posbility: 0.9983
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(
+---------------------------
+Next Token : arr, Posbility: 0.9986
+Next Token :  arr, Posbility: 0.0008
+Next Token : n, Posbility: 0.0002
+Next Token : array, Posbility: 0.0001
+Next Token : i, Posbility: 0.0000
+Choose : arr,  Posbility: 0.9986
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr
+---------------------------
+Next Token : ,, Posbility: 0.9985
+Next Token : [, Posbility: 0.0005
+Next Token : ,, Posbility: 0.0005
+Next Token : =, Posbility: 0.0002
+Next Token : ), Posbility: 0.0001
+Choose : ,,  Posbility: 0.9985
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr,
+---------------------------
+Next Token :  n, Posbility: 0.9641
+Next Token : n, Posbility: 0.0309
+Next Token :  i, Posbility: 0.0016
+Next Token :  (, Posbility: 0.0007
+Next Token :  len, Posbility: 0.0004
+Choose :  n,  Posbility: 0.9641
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n
+---------------------------
+Next Token : ,, Posbility: 0.6294
+Next Token : +, Posbility: 0.2320
+Next Token :  +, Posbility: 0.1181
+Next Token : -, Posbility: 0.0047
+Next Token :  *, Posbility: 0.0030
+Choose : ,,  Posbility: 0.6294
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n,
+---------------------------
+Next Token :  i, Posbility: 0.9711
+Next Token :  (, Posbility: 0.0139
+Next Token : i, Posbility: 0.0073
+Next Token :  2, Posbility: 0.0021
+Next Token :  n, Posbility: 0.0017
+Choose :  i,  Posbility: 0.9711
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i
+---------------------------
+Next Token :  +, Posbility: 0.5146
+Next Token : +, Posbility: 0.4808
+Next Token : ), Posbility: 0.0037
+Next Token : *, Posbility: 0.0002
+Next Token :  *, Posbility: 0.0001
+Choose :  +,  Posbility: 0.5146
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i +
+---------------------------
+Next Token :  1, Posbility: 0.9886
+Next Token : 1, Posbility: 0.0088
+Next Token :  2, Posbility: 0.0015
+Next Token :  n, Posbility: 0.0004
+Next Token :  (, Posbility: 0.0002
+Choose :  1,  Posbility: 0.9886
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i + 1
+---------------------------
+Next Token : ), Posbility: 0.9980
+Next Token :  ), Posbility: 0.0011
+Next Token :  if, Posbility: 0.0006
+Next Token : );, Posbility: 0.0002
+Next Token : )[, Posbility: 0.0000
+Choose : ),  Posbility: 0.9980
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i + 1)
+---------------------------
+Next Token : 
+, Posbility: 0.5914
+Next Token : 
+
+, Posbility: 0.3621
+Next Token : <|endoftext|>, Posbility: 0.0302
+Next Token :  , Posbility: 0.0071
+Next Token :   , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.5914
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i + 1)
+
+---------------------------
+Next Token : 
+, Posbility: 0.7211
+Next Token : def, Posbility: 0.0445
+Next Token :     , Posbility: 0.0429
+Next Token : arr, Posbility: 0.0411
+Next Token :         , Posbility: 0.0325
+Choose : 
+,  Posbility: 0.7211
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i + 1)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9721
+Next Token : 
+
+, Posbility: 0.0110
+Next Token :     , Posbility: 0.0080
+Next Token : <|endoftext|>, Posbility: 0.0039
+Next Token :         , Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9721
+---------------------------
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i + 1)
+
+
+
+---------------------------
+Next Token : def, Posbility: 0.3438
+Next Token : '', Posbility: 0.1898
+Next Token : arr, Posbility: 0.1659
+Next Token : #, Posbility: 0.1209
+Next Token : if, Posbility: 0.0387
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.511565446853638
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find element at a given index after number of rotations.'''
+def rotate(arr, n, i):
+    if i == n:
+        return arr
+    else:
+        arr[i], arr[n] = arr[n], arr[i]
+        return rotate(arr, n, i + 1)
+
+
+

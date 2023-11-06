@@ -1,0 +1,2129 @@
+<<<<<<<<<<<< 376 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  common, Posbility: 0.7766
+Next Token :  find, Posbility: 0.0669
+Next Token :  list, Posbility: 0.0241
+Next Token :  get, Posbility: 0.0181
+Next Token :  main, Posbility: 0.0065
+Choose :  common,  Posbility: 0.7766
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common
+---------------------------
+Next Token : _, Posbility: 0.3271
+Next Token : (, Posbility: 0.3033
+Next Token : E, Posbility: 0.1874
+Next Token : Element, Posbility: 0.0403
+Next Token : e, Posbility: 0.0207
+Choose : _,  Posbility: 0.3271
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_
+---------------------------
+Next Token : e, Posbility: 0.6419
+Next Token : list, Posbility: 0.1126
+Next Token : element, Posbility: 0.0776
+Next Token : l, Posbility: 0.0183
+Next Token : lists, Posbility: 0.0145
+Choose : e,  Posbility: 0.6419
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_e
+---------------------------
+Next Token : lements, Posbility: 0.9622
+Next Token : lem, Posbility: 0.0374
+Next Token : (, Posbility: 0.0002
+Next Token : _, Posbility: 0.0000
+Next Token : lement, Posbility: 0.0000
+Choose : lements,  Posbility: 0.9622
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements
+---------------------------
+Next Token : (, Posbility: 0.8587
+Next Token : _, Posbility: 0.1089
+Next Token :  (, Posbility: 0.0076
+Next Token : ():, Posbility: 0.0049
+Next Token : (*, Posbility: 0.0046
+Choose : (,  Posbility: 0.8587
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(
+---------------------------
+Next Token : l, Posbility: 0.9232
+Next Token : list, Posbility: 0.0268
+Next Token : a, Posbility: 0.0076
+Next Token : lists, Posbility: 0.0075
+Next Token : L, Posbility: 0.0067
+Choose : l,  Posbility: 0.9232
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l
+---------------------------
+Next Token : 1, Posbility: 0.9933
+Next Token : st, Posbility: 0.0021
+Next Token : 11, Posbility: 0.0011
+Next Token : ):, Posbility: 0.0011
+Next Token : _, Posbility: 0.0007
+Choose : 1,  Posbility: 0.9933
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1
+---------------------------
+Next Token : ,, Posbility: 0.9502
+Next Token : :, Posbility: 0.0260
+Next Token : =[, Posbility: 0.0077
+Next Token : ):, Posbility: 0.0038
+Next Token : =, Posbility: 0.0035
+Choose : ,,  Posbility: 0.9502
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1,
+---------------------------
+Next Token :  l, Posbility: 0.8544
+Next Token : l, Posbility: 0.1444
+Next Token :  list, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Next Token :  s, Posbility: 0.0001
+Choose :  l,  Posbility: 0.8544
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l
+---------------------------
+Next Token : 2, Posbility: 0.9988
+Next Token : 1, Posbility: 0.0010
+Next Token : 3, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9988
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2
+---------------------------
+Next Token : ,, Posbility: 0.9932
+Next Token : ):, Posbility: 0.0057
+Next Token : ,, Posbility: 0.0007
+Next Token : =, Posbility: 0.0001
+Next Token :  =, Posbility: 0.0001
+Choose : ,,  Posbility: 0.9932
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2,
+---------------------------
+Next Token :  l, Posbility: 0.9877
+Next Token : l, Posbility: 0.0115
+Next Token :  list, Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :   , Posbility: 0.0001
+Choose :  l,  Posbility: 0.9877
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l
+---------------------------
+Next Token : 3, Posbility: 0.9987
+Next Token : 2, Posbility: 0.0004
+Next Token : 1, Posbility: 0.0003
+Next Token : 4, Posbility: 0.0003
+Next Token : _, Posbility: 0.0001
+Choose : 3,  Posbility: 0.9987
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3
+---------------------------
+Next Token : ):, Posbility: 0.9834
+Next Token : ,, Posbility: 0.0116
+Next Token : ), Posbility: 0.0041
+Next Token : =, Posbility: 0.0003
+Next Token :  ):, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9834
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+---------------------------
+Next Token : 
+, Posbility: 0.9054
+Next Token : 
+
+, Posbility: 0.0431
+Next Token : , Posbility: 0.0207
+Next Token :  , Posbility: 0.0161
+Next Token :  #, Posbility: 0.0038
+Choose : 
+,  Posbility: 0.9054
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+
+---------------------------
+Next Token :     , Posbility: 0.9012
+Next Token :   , Posbility: 0.0453
+Next Token : 	, Posbility: 0.0340
+Next Token :         , Posbility: 0.0054
+Next Token :    , Posbility: 0.0052
+Choose :     ,  Posbility: 0.9012
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    
+---------------------------
+Next Token : common, Posbility: 0.1956
+Next Token : l, Posbility: 0.1174
+Next Token : #, Posbility: 0.0916
+Next Token : '', Posbility: 0.0586
+Next Token : return, Posbility: 0.0560
+Choose : common,  Posbility: 0.1956
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common
+---------------------------
+Next Token : _, Posbility: 0.5357
+Next Token :  =, Posbility: 0.3791
+Next Token : =, Posbility: 0.0348
+Next Token : List, Posbility: 0.0074
+Next Token : e, Posbility: 0.0067
+Choose : _,  Posbility: 0.5357
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_
+---------------------------
+Next Token : e, Posbility: 0.4904
+Next Token : list, Posbility: 0.2426
+Next Token : l, Posbility: 0.0921
+Next Token : ele, Posbility: 0.0426
+Next Token : element, Posbility: 0.0185
+Choose : e,  Posbility: 0.4904
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_e
+---------------------------
+Next Token : lements, Posbility: 0.9906
+Next Token : lem, Posbility: 0.0079
+Next Token :  =, Posbility: 0.0011
+Next Token : =, Posbility: 0.0001
+Next Token : _, Posbility: 0.0001
+Choose : lements,  Posbility: 0.9906
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements
+---------------------------
+Next Token :  =, Posbility: 0.8417
+Next Token : _, Posbility: 0.1110
+Next Token : =, Posbility: 0.0333
+Next Token : 1, Posbility: 0.0052
+Next Token : =[, Posbility: 0.0045
+Choose :  =,  Posbility: 0.8417
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements =
+---------------------------
+Next Token :  [], Posbility: 0.8981
+Next Token :  set, Posbility: 0.0304
+Next Token :  list, Posbility: 0.0296
+Next Token :  [, Posbility: 0.0126
+Next Token : [], Posbility: 0.0103
+Choose :  [],  Posbility: 0.8981
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+---------------------------
+Next Token : 
+, Posbility: 0.8862
+Next Token : 
+
+, Posbility: 0.0959
+Next Token :  , Posbility: 0.0081
+Next Token :  #, Posbility: 0.0041
+Next Token :   , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.8862
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+
+---------------------------
+Next Token :     , Posbility: 0.9956
+Next Token : 	, Posbility: 0.0007
+Next Token :    , Posbility: 0.0007
+Next Token :         , Posbility: 0.0007
+Next Token :  , Posbility: 0.0005
+Choose :     ,  Posbility: 0.9956
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    
+---------------------------
+Next Token : for, Posbility: 0.4722
+Next Token : l, Posbility: 0.0935
+Next Token : common, Posbility: 0.0548
+Next Token : if, Posbility: 0.0508
+Next Token : i, Posbility: 0.0348
+Choose : for,  Posbility: 0.4722
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for
+---------------------------
+Next Token :  i, Posbility: 0.4793
+Next Token :  element, Posbility: 0.1294
+Next Token :  index, Posbility: 0.1123
+Next Token :  l, Posbility: 0.0474
+Next Token :  ele, Posbility: 0.0376
+Choose :  i,  Posbility: 0.4793
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9609
+Next Token : ,, Posbility: 0.0300
+Next Token : 1, Posbility: 0.0077
+Next Token : _, Posbility: 0.0008
+Next Token : 2, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9609
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.7158
+Next Token :  l, Posbility: 0.2580
+Next Token :  [, Posbility: 0.0082
+Next Token :  (, Posbility: 0.0037
+Next Token :  set, Posbility: 0.0034
+Choose :  range,  Posbility: 0.7158
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9808
+Next Token :  (, Posbility: 0.0178
+Next Token : ((, Posbility: 0.0008
+Next Token : (-, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0002
+Choose : (,  Posbility: 0.9808
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.8100
+Next Token : 0, Posbility: 0.1234
+Next Token : 3, Posbility: 0.0328
+Next Token : l, Posbility: 0.0095
+Next Token : min, Posbility: 0.0090
+Choose : len,  Posbility: 0.8100
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9994
+Next Token : ((, Posbility: 0.0004
+Next Token : ([, Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : ({, Posbility: 0.0000
+Choose : (,  Posbility: 0.9994
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(
+---------------------------
+Next Token : l, Posbility: 0.9976
+Next Token : list, Posbility: 0.0007
+Next Token : set, Posbility: 0.0004
+Next Token : s, Posbility: 0.0003
+Next Token : common, Posbility: 0.0002
+Choose : l,  Posbility: 0.9976
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l
+---------------------------
+Next Token : 1, Posbility: 0.9891
+Next Token : 2, Posbility: 0.0068
+Next Token : 3, Posbility: 0.0040
+Next Token : 4, Posbility: 0.0000
+Next Token : 11, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9891
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1
+---------------------------
+Next Token : ), Posbility: 0.9683
+Next Token : )-, Posbility: 0.0109
+Next Token : [, Posbility: 0.0090
+Next Token : )+, Posbility: 0.0083
+Next Token : )), Posbility: 0.0015
+Choose : ),  Posbility: 0.9683
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)
+---------------------------
+Next Token : ):, Posbility: 0.9850
+Next Token :  +, Posbility: 0.0104
+Next Token :  -, Posbility: 0.0041
+Next Token :  ):, Posbility: 0.0002
+Next Token : //, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9850
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+---------------------------
+Next Token : 
+, Posbility: 0.9868
+Next Token :  , Posbility: 0.0036
+Next Token : 
+
+, Posbility: 0.0031
+Next Token :  #, Posbility: 0.0024
+Next Token :   , Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9868
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+
+---------------------------
+Next Token :         , Posbility: 0.9871
+Next Token :       , Posbility: 0.0049
+Next Token :             , Posbility: 0.0034
+Next Token :        , Posbility: 0.0015
+Next Token :     , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9871
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        
+---------------------------
+Next Token : if, Posbility: 0.5435
+Next Token : for, Posbility: 0.3658
+Next Token : common, Posbility: 0.0214
+Next Token : l, Posbility: 0.0060
+Next Token : #, Posbility: 0.0047
+Choose : if,  Posbility: 0.5435
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if
+---------------------------
+Next Token :  l, Posbility: 0.8382
+Next Token :  (, Posbility: 0.0626
+Next Token : (, Posbility: 0.0357
+Next Token :  not, Posbility: 0.0123
+Next Token :  i, Posbility: 0.0098
+Choose :  l,  Posbility: 0.8382
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l
+---------------------------
+Next Token : 1, Posbility: 0.9686
+Next Token : 2, Posbility: 0.0208
+Next Token : 3, Posbility: 0.0103
+Next Token : [, Posbility: 0.0000
+Next Token : 4, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9686
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1
+---------------------------
+Next Token : [, Posbility: 0.9940
+Next Token : ., Posbility: 0.0052
+Next Token :  [, Posbility: 0.0003
+Next Token :  ==, Posbility: 0.0001
+Next Token :  and, Posbility: 0.0001
+Choose : [,  Posbility: 0.9940
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[
+---------------------------
+Next Token : i, Posbility: 0.9958
+Next Token : 0, Posbility: 0.0030
+Next Token : l, Posbility: 0.0003
+Next Token : len, Posbility: 0.0002
+Next Token : (, Posbility: 0.0002
+Choose : i,  Posbility: 0.9958
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i
+---------------------------
+Next Token : ], Posbility: 0.9821
+Next Token : ]., Posbility: 0.0127
+Next Token : ][, Posbility: 0.0030
+Next Token : :, Posbility: 0.0007
+Next Token : ]:, Posbility: 0.0004
+Choose : ],  Posbility: 0.9821
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i]
+---------------------------
+Next Token :  in, Posbility: 0.9048
+Next Token :  not, Posbility: 0.0521
+Next Token :  ==, Posbility: 0.0315
+Next Token :  is, Posbility: 0.0041
+Next Token : !=, Posbility: 0.0024
+Choose :  in,  Posbility: 0.9048
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in
+---------------------------
+Next Token :  l, Posbility: 0.9807
+Next Token :  common, Posbility: 0.0138
+Next Token :  set, Posbility: 0.0013
+Next Token :  [, Posbility: 0.0008
+Next Token :  list, Posbility: 0.0007
+Choose :  l,  Posbility: 0.9807
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l
+---------------------------
+Next Token : 2, Posbility: 0.8942
+Next Token : 3, Posbility: 0.1017
+Next Token : 1, Posbility: 0.0039
+Next Token : 4, Posbility: 0.0001
+Next Token : [, Posbility: 0.0000
+Choose : 2,  Posbility: 0.8942
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2
+---------------------------
+Next Token :  and, Posbility: 0.3509
+Next Token : :, Posbility: 0.3239
+Next Token : [, Posbility: 0.2467
+Next Token :  or, Posbility: 0.0738
+Next Token :  :, Posbility: 0.0018
+Choose :  and,  Posbility: 0.3509
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and
+---------------------------
+Next Token :  l, Posbility: 0.9972
+Next Token :   , Posbility: 0.0009
+Next Token :  not, Posbility: 0.0006
+Next Token :  (, Posbility: 0.0003
+Next Token :  \, Posbility: 0.0002
+Choose :  l,  Posbility: 0.9972
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l
+---------------------------
+Next Token : 2, Posbility: 0.7987
+Next Token : 1, Posbility: 0.1631
+Next Token : 3, Posbility: 0.0381
+Next Token : 4, Posbility: 0.0001
+Next Token : 5, Posbility: 0.0000
+Choose : 2,  Posbility: 0.7987
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2
+---------------------------
+Next Token : [, Posbility: 0.9839
+Next Token : ., Posbility: 0.0147
+Next Token :  in, Posbility: 0.0008
+Next Token :  not, Posbility: 0.0003
+Next Token :  [, Posbility: 0.0001
+Choose : [,  Posbility: 0.9839
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[
+---------------------------
+Next Token : i, Posbility: 0.6219
+Next Token : l, Posbility: 0.3669
+Next Token : 0, Posbility: 0.0059
+Next Token : len, Posbility: 0.0012
+Next Token : 
+, Posbility: 0.0004
+Choose : i,  Posbility: 0.6219
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i
+---------------------------
+Next Token : ], Posbility: 0.9985
+Next Token : ]., Posbility: 0.0010
+Next Token : ][, Posbility: 0.0001
+Next Token :  %, Posbility: 0.0001
+Next Token : ]:, Posbility: 0.0001
+Choose : ],  Posbility: 0.9985
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i]
+---------------------------
+Next Token :  in, Posbility: 0.9768
+Next Token :  not, Posbility: 0.0217
+Next Token :  ==, Posbility: 0.0004
+Next Token :   , Posbility: 0.0003
+Next Token :  and, Posbility: 0.0002
+Choose :  in,  Posbility: 0.9768
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in
+---------------------------
+Next Token :  l, Posbility: 0.9991
+Next Token :   , Posbility: 0.0003
+Next Token :  common, Posbility: 0.0002
+Next Token : l, Posbility: 0.0001
+Next Token :  list, Posbility: 0.0001
+Choose :  l,  Posbility: 0.9991
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l
+---------------------------
+Next Token : 3, Posbility: 0.9969
+Next Token : 1, Posbility: 0.0020
+Next Token : 2, Posbility: 0.0010
+Next Token : 4, Posbility: 0.0000
+Next Token : 5, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9969
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3
+---------------------------
+Next Token :  and, Posbility: 0.5876
+Next Token : :, Posbility: 0.3970
+Next Token :  \, Posbility: 0.0046
+Next Token :  or, Posbility: 0.0044
+Next Token :  :, Posbility: 0.0029
+Choose :  and,  Posbility: 0.5876
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and
+---------------------------
+Next Token :  l, Posbility: 0.9931
+Next Token :   , Posbility: 0.0020
+Next Token :  \, Posbility: 0.0011
+Next Token :  not, Posbility: 0.0011
+Next Token :  (, Posbility: 0.0009
+Choose :  l,  Posbility: 0.9931
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l
+---------------------------
+Next Token : 3, Posbility: 0.9099
+Next Token : 1, Posbility: 0.0679
+Next Token : 2, Posbility: 0.0219
+Next Token : 4, Posbility: 0.0001
+Next Token : 5, Posbility: 0.0000
+Choose : 3,  Posbility: 0.9099
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3
+---------------------------
+Next Token : [, Posbility: 0.9995
+Next Token :  [, Posbility: 0.0002
+Next Token : ., Posbility: 0.0002
+Next Token :  ==, Posbility: 0.0000
+Next Token :  is, Posbility: 0.0000
+Choose : [,  Posbility: 0.9995
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[
+---------------------------
+Next Token : i, Posbility: 0.9802
+Next Token : l, Posbility: 0.0188
+Next Token : 
+, Posbility: 0.0004
+Next Token : 0, Posbility: 0.0004
+Next Token : (, Posbility: 0.0000
+Choose : i,  Posbility: 0.9802
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i
+---------------------------
+Next Token : ], Posbility: 0.9994
+Next Token : ]:, Posbility: 0.0003
+Next Token : ]., Posbility: 0.0001
+Next Token : ][, Posbility: 0.0000
+Next Token : ]+, Posbility: 0.0000
+Choose : ],  Posbility: 0.9994
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i]
+---------------------------
+Next Token :  in, Posbility: 0.9599
+Next Token :  not, Posbility: 0.0366
+Next Token :  ==, Posbility: 0.0012
+Next Token : !=, Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Choose :  in,  Posbility: 0.9599
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in
+---------------------------
+Next Token :  l, Posbility: 0.9722
+Next Token :  common, Posbility: 0.0236
+Next Token :   , Posbility: 0.0012
+Next Token :  list, Posbility: 0.0006
+Next Token :  [, Posbility: 0.0006
+Choose :  l,  Posbility: 0.9722
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l
+---------------------------
+Next Token : 1, Posbility: 0.8542
+Next Token : 2, Posbility: 0.1365
+Next Token : 3, Posbility: 0.0074
+Next Token : 4, Posbility: 0.0017
+Next Token : 5, Posbility: 0.0000
+Choose : 1,  Posbility: 0.8542
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1
+---------------------------
+Next Token : :, Posbility: 0.9571
+Next Token :  and, Posbility: 0.0284
+Next Token :  or, Posbility: 0.0057
+Next Token :  :, Posbility: 0.0048
+Next Token : [, Posbility: 0.0020
+Choose : :,  Posbility: 0.9571
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+---------------------------
+Next Token : 
+, Posbility: 0.9888
+Next Token :  #, Posbility: 0.0033
+Next Token :  , Posbility: 0.0031
+Next Token :   , Posbility: 0.0011
+Next Token : 
+
+, Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9888
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+
+---------------------------
+Next Token :             , Posbility: 0.9892
+Next Token :                 , Posbility: 0.0035
+Next Token :            , Posbility: 0.0034
+Next Token :           , Posbility: 0.0013
+Next Token :              , Posbility: 0.0011
+Choose :             ,  Posbility: 0.9892
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            
+---------------------------
+Next Token : common, Posbility: 0.9274
+Next Token : if, Posbility: 0.0376
+Next Token : pass, Posbility: 0.0079
+Next Token : print, Posbility: 0.0046
+Next Token : #, Posbility: 0.0043
+Choose : common,  Posbility: 0.9274
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common
+---------------------------
+Next Token : _, Posbility: 0.9953
+Next Token :  =, Posbility: 0.0038
+Next Token : ., Posbility: 0.0006
+Next Token :  +=, Posbility: 0.0001
+Next Token : =, Posbility: 0.0001
+Choose : _,  Posbility: 0.9953
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_
+---------------------------
+Next Token : e, Posbility: 0.9992
+Next Token : element, Posbility: 0.0004
+Next Token : l, Posbility: 0.0001
+Next Token : list, Posbility: 0.0001
+Next Token : ele, Posbility: 0.0000
+Choose : e,  Posbility: 0.9992
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_e
+---------------------------
+Next Token : lements, Posbility: 1.0000
+Next Token : lem, Posbility: 0.0000
+Next Token : lement, Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : les, Posbility: 0.0000
+Choose : lements,  Posbility: 1.0000
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements
+---------------------------
+Next Token : ., Posbility: 0.9894
+Next Token :  +=, Posbility: 0.0060
+Next Token :  =, Posbility: 0.0039
+Next Token : [, Posbility: 0.0002
+Next Token : +=, Posbility: 0.0001
+Choose : .,  Posbility: 0.9894
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.
+---------------------------
+Next Token : append, Posbility: 0.9982
+Next Token : ext, Posbility: 0.0013
+Next Token : insert, Posbility: 0.0003
+Next Token : add, Posbility: 0.0001
+Next Token : remove, Posbility: 0.0000
+Choose : append,  Posbility: 0.9982
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append
+---------------------------
+Next Token : (, Posbility: 0.9878
+Next Token : ([, Posbility: 0.0058
+Next Token : ((, Posbility: 0.0050
+Next Token : (', Posbility: 0.0004
+Next Token : ({, Posbility: 0.0003
+Choose : (,  Posbility: 0.9878
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(
+---------------------------
+Next Token : l, Posbility: 0.9958
+Next Token : f, Posbility: 0.0008
+Next Token : str, Posbility: 0.0007
+Next Token :  l, Posbility: 0.0005
+Next Token : list, Posbility: 0.0004
+Choose : l,  Posbility: 0.9958
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l
+---------------------------
+Next Token : 1, Posbility: 0.9137
+Next Token : 2, Posbility: 0.0672
+Next Token : 3, Posbility: 0.0189
+Next Token : [, Posbility: 0.0001
+Next Token : 4, Posbility: 0.0000
+Choose : 1,  Posbility: 0.9137
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1
+---------------------------
+Next Token : [, Posbility: 0.9966
+Next Token : ., Posbility: 0.0023
+Next Token : ), Posbility: 0.0009
+Next Token :  [, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0000
+Choose : [,  Posbility: 0.9966
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[
+---------------------------
+Next Token : i, Posbility: 0.9980
+Next Token : l, Posbility: 0.0019
+Next Token : 0, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : int, Posbility: 0.0000
+Choose : i,  Posbility: 0.9980
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i
+---------------------------
+Next Token : ]), Posbility: 0.9956
+Next Token : ], Posbility: 0.0028
+Next Token : ]+, Posbility: 0.0005
+Next Token : ],, Posbility: 0.0004
+Next Token : ]);, Posbility: 0.0003
+Choose : ]),  Posbility: 0.9956
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+---------------------------
+Next Token : 
+, Posbility: 0.9515
+Next Token : 
+
+, Posbility: 0.0412
+Next Token :  , Posbility: 0.0035
+Next Token :     , Posbility: 0.0011
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9515
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+
+---------------------------
+Next Token :     , Posbility: 0.5221
+Next Token :             , Posbility: 0.3225
+Next Token :         , Posbility: 0.1516
+Next Token : 
+, Posbility: 0.0015
+Next Token : #, Posbility: 0.0004
+Choose :     ,  Posbility: 0.5221
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    
+---------------------------
+Next Token : return, Posbility: 0.8714
+Next Token : print, Posbility: 0.0460
+Next Token : common, Posbility: 0.0259
+Next Token : 
+, Posbility: 0.0250
+Next Token : for, Posbility: 0.0087
+Choose : return,  Posbility: 0.8714
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return
+---------------------------
+Next Token :  common, Posbility: 0.9330
+Next Token : (, Posbility: 0.0249
+Next Token :  list, Posbility: 0.0235
+Next Token :  sorted, Posbility: 0.0051
+Next Token :   , Posbility: 0.0034
+Choose :  common,  Posbility: 0.9330
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : ., Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_
+---------------------------
+Next Token : e, Posbility: 1.0000
+Next Token : list, Posbility: 0.0000
+Next Token : element, Posbility: 0.0000
+Next Token : l, Posbility: 0.0000
+Next Token : set, Posbility: 0.0000
+Choose : e,  Posbility: 1.0000
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_e
+---------------------------
+Next Token : lements, Posbility: 1.0000
+Next Token : lement, Posbility: 0.0000
+Next Token : lem, Posbility: 0.0000
+Next Token : els, Posbility: 0.0000
+Next Token : onents, Posbility: 0.0000
+Choose : lements,  Posbility: 1.0000
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+---------------------------
+Next Token : 
+, Posbility: 0.7183
+Next Token : 
+
+, Posbility: 0.2519
+Next Token : <|endoftext|>, Posbility: 0.0120
+Next Token :  , Posbility: 0.0075
+Next Token :     , Posbility: 0.0024
+Choose : 
+,  Posbility: 0.7183
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+---------------------------
+Next Token : 
+, Posbility: 0.8135
+Next Token : print, Posbility: 0.0519
+Next Token :     , Posbility: 0.0254
+Next Token : <|endoftext|>, Posbility: 0.0239
+Next Token : #, Posbility: 0.0145
+Choose : 
+,  Posbility: 0.8135
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9629
+Next Token : 
+
+, Posbility: 0.0167
+Next Token :     , Posbility: 0.0092
+Next Token : <|endoftext|>, Posbility: 0.0068
+Next Token :         , Posbility: 0.0018
+Choose : 
+,  Posbility: 0.9629
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3749
+Next Token : print, Posbility: 0.1475
+Next Token : #, Posbility: 0.1379
+Next Token : l, Posbility: 0.0979
+Next Token : def, Posbility: 0.0745
+Choose : '',  Posbility: 0.3749
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : This, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''
+---------------------------
+Next Token : We, Posbility: 0.4939
+Next Token : Write, Posbility: 0.1334
+Next Token : 
+, Posbility: 0.0219
+Next Token :  We, Posbility: 0.0186
+Next Token : A, Posbility: 0.0141
+Choose : We,  Posbility: 0.4939
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We
+---------------------------
+Next Token :  say, Posbility: 0.8504
+Next Token :  write, Posbility: 0.0175
+Next Token :  assume, Posbility: 0.0172
+Next Token :  have, Posbility: 0.0143
+Next Token :  call, Posbility: 0.0064
+Choose :  say,  Posbility: 0.8504
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say
+---------------------------
+Next Token :  that, Posbility: 0.9873
+Next Token :  a, Posbility: 0.0033
+Next Token :  the, Posbility: 0.0016
+Next Token :  this, Posbility: 0.0008
+Next Token : ,, Posbility: 0.0006
+Choose :  that,  Posbility: 0.9873
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that
+---------------------------
+Next Token :  an, Posbility: 0.7162
+Next Token :  a, Posbility: 0.1408
+Next Token :  the, Posbility: 0.0390
+Next Token :  l, Posbility: 0.0112
+Next Token :  we, Posbility: 0.0096
+Choose :  an,  Posbility: 0.7162
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an
+---------------------------
+Next Token :  element, Posbility: 0.9702
+Next Token :  array, Posbility: 0.0096
+Next Token :  integer, Posbility: 0.0033
+Next Token :  index, Posbility: 0.0025
+Next Token :  item, Posbility: 0.0010
+Choose :  element,  Posbility: 0.9702
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element
+---------------------------
+Next Token :  is, Posbility: 0.9592
+Next Token :  in, Posbility: 0.0076
+Next Token :  can, Posbility: 0.0035
+Next Token :  appears, Posbility: 0.0035
+Next Token :  of, Posbility: 0.0026
+Choose :  is,  Posbility: 0.9592
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is
+---------------------------
+Next Token :  common, Posbility: 0.5321
+Next Token :  uncommon, Posbility: 0.3020
+Next Token :  a, Posbility: 0.0303
+Next Token :  not, Posbility: 0.0129
+Next Token :  unique, Posbility: 0.0078
+Choose :  common,  Posbility: 0.5321
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common
+---------------------------
+Next Token :  for, Posbility: 0.9488
+Next Token :  between, Posbility: 0.0189
+Next Token :  if, Posbility: 0.0109
+Next Token :  in, Posbility: 0.0084
+Next Token :  to, Posbility: 0.0034
+Choose :  for,  Posbility: 0.9488
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for
+---------------------------
+Next Token :  lists, Posbility: 0.8469
+Next Token :  sets, Posbility: 0.0301
+Next Token :  a, Posbility: 0.0299
+Next Token :  two, Posbility: 0.0081
+Next Token :  strings, Posbility: 0.0066
+Choose :  lists,  Posbility: 0.8469
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists
+---------------------------
+Next Token :  l, Posbility: 0.9463
+Next Token : ,, Posbility: 0.0074
+Next Token :  n, Posbility: 0.0055
+Next Token :  ll, Posbility: 0.0025
+Next Token :  with, Posbility: 0.0025
+Choose :  l,  Posbility: 0.9463
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l
+---------------------------
+Next Token : 1, Posbility: 0.9826
+Next Token : 4, Posbility: 0.0041
+Next Token : 2, Posbility: 0.0030
+Next Token : 11, Posbility: 0.0028
+Next Token : ,, Posbility: 0.0015
+Choose : 1,  Posbility: 0.9826
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1
+---------------------------
+Next Token : ,, Posbility: 0.9958
+Next Token : _, Posbility: 0.0008
+Next Token :  and, Posbility: 0.0005
+Next Token : a, Posbility: 0.0004
+Next Token : [, Posbility: 0.0003
+Choose : ,,  Posbility: 0.9958
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1,
+---------------------------
+Next Token :  l, Posbility: 0.9975
+Next Token : l, Posbility: 0.0018
+Next Token :  list, Posbility: 0.0001
+Next Token :  2, Posbility: 0.0001
+Next Token :  m, Posbility: 0.0001
+Choose :  l,  Posbility: 0.9975
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l
+---------------------------
+Next Token : 2, Posbility: 0.9984
+Next Token : 1, Posbility: 0.0008
+Next Token : 3, Posbility: 0.0005
+Next Token : 4, Posbility: 0.0001
+Next Token :  2, Posbility: 0.0000
+Choose : 2,  Posbility: 0.9984
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2
+---------------------------
+Next Token : ,, Posbility: 0.9902
+Next Token :  and, Posbility: 0.0085
+Next Token : ., Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0001
+Next Token :  or, Posbility: 0.0001
+Choose : ,,  Posbility: 0.9902
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2,
+---------------------------
+Next Token :  l, Posbility: 0.9941
+Next Token :  and, Posbility: 0.0039
+Next Token : l, Posbility: 0.0004
+Next Token : ..., Posbility: 0.0003
+Next Token :  or, Posbility: 0.0002
+Choose :  l,  Posbility: 0.9941
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l
+---------------------------
+Next Token : 3, Posbility: 0.9968
+Next Token : 4, Posbility: 0.0012
+Next Token : 1, Posbility: 0.0010
+Next Token : 2, Posbility: 0.0006
+Next Token : 5, Posbility: 0.0001
+Choose : 3,  Posbility: 0.9968
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3
+---------------------------
+Next Token :  if, Posbility: 0.9895
+Next Token : ,, Posbility: 0.0025
+Next Token :  and, Posbility: 0.0012
+Next Token :  is, Posbility: 0.0009
+Next Token : ., Posbility: 0.0007
+Choose :  if,  Posbility: 0.9895
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if
+---------------------------
+Next Token :  it, Posbility: 0.9190
+Next Token :  the, Posbility: 0.0376
+Next Token :  its, Posbility: 0.0114
+Next Token :  they, Posbility: 0.0080
+Next Token :  all, Posbility: 0.0038
+Choose :  it,  Posbility: 0.9190
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it
+---------------------------
+Next Token :  appears, Posbility: 0.9327
+Next Token :  is, Posbility: 0.0211
+Next Token :  occurs, Posbility: 0.0173
+Next Token :  has, Posbility: 0.0044
+Next Token :  contains, Posbility: 0.0037
+Choose :  appears,  Posbility: 0.9327
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears
+---------------------------
+Next Token :  in, Posbility: 0.9330
+Next Token :  only, Posbility: 0.0159
+Next Token :  at, Posbility: 0.0060
+Next Token :  anywhere, Posbility: 0.0058
+Next Token :  exactly, Posbility: 0.0038
+Choose :  in,  Posbility: 0.9330
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in
+---------------------------
+Next Token :  all, Posbility: 0.7343
+Next Token :  the, Posbility: 0.0898
+Next Token :  both, Posbility: 0.0427
+Next Token :  only, Posbility: 0.0206
+Next Token :  any, Posbility: 0.0189
+Choose :  all,  Posbility: 0.7343
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all
+---------------------------
+Next Token :  three, Posbility: 0.9741
+Next Token :  3, Posbility: 0.0126
+Next Token :  four, Posbility: 0.0070
+Next Token :  six, Posbility: 0.0009
+Next Token :  the, Posbility: 0.0009
+Choose :  three,  Posbility: 0.9741
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three
+---------------------------
+Next Token :  lists, Posbility: 0.9961
+Next Token :  arrays, Posbility: 0.0008
+Next Token :  sets, Posbility: 0.0006
+Next Token :  other, Posbility: 0.0004
+Next Token :  of, Posbility: 0.0002
+Choose :  lists,  Posbility: 0.9961
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists
+---------------------------
+Next Token :  under, Posbility: 0.8250
+Next Token :  below, Posbility: 0.0265
+Next Token :  together, Posbility: 0.0211
+Next Token :  in, Posbility: 0.0146
+Next Token : ., Posbility: 0.0118
+Choose :  under,  Posbility: 0.8250
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under
+---------------------------
+Next Token :  the, Posbility: 0.9873
+Next Token :  a, Posbility: 0.0041
+Next Token :  different, Posbility: 0.0024
+Next Token :  their, Posbility: 0.0007
+Next Token :  index, Posbility: 0.0005
+Choose :  the,  Posbility: 0.9873
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the
+---------------------------
+Next Token :  same, Posbility: 0.9979
+Next Token :  index, Posbility: 0.0004
+Next Token :  different, Posbility: 0.0002
+Next Token :  last, Posbility: 0.0001
+Next Token :  first, Posbility: 0.0001
+Choose :  same,  Posbility: 0.9979
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same
+---------------------------
+Next Token :  index, Posbility: 0.9939
+Next Token :  indices, Posbility: 0.0007
+Next Token :  position, Posbility: 0.0006
+Next Token :  order, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0003
+Choose :  index,  Posbility: 0.9939
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index
+---------------------------
+Next Token : ., Posbility: 0.9102
+Next Token : ,, Posbility: 0.0208
+Next Token :  and, Posbility: 0.0123
+Next Token : .', Posbility: 0.0072
+Next Token :  in, Posbility: 0.0062
+Choose : .,  Posbility: 0.9102
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index.
+---------------------------
+Next Token :  Write, Posbility: 0.9051
+Next Token : 
+, Posbility: 0.0169
+Next Token :  Return, Posbility: 0.0082
+Next Token :  Given, Posbility: 0.0076
+Next Token :  We, Posbility: 0.0064
+Choose :  Write,  Posbility: 0.9051
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write
+---------------------------
+Next Token :  a, Posbility: 0.9975
+Next Token :  an, Posbility: 0.0007
+Next Token :  another, Posbility: 0.0004
+Next Token :  function, Posbility: 0.0004
+Next Token :  the, Posbility: 0.0003
+Choose :  a,  Posbility: 0.9975
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a
+---------------------------
+Next Token :  function, Posbility: 0.9814
+Next Token :  recursive, Posbility: 0.0050
+Next Token :  method, Posbility: 0.0024
+Next Token :  python, Posbility: 0.0011
+Next Token :  program, Posbility: 0.0008
+Choose :  function,  Posbility: 0.9814
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function
+---------------------------
+Next Token :  to, Posbility: 0.9203
+Next Token :  that, Posbility: 0.0598
+Next Token :  which, Posbility: 0.0073
+Next Token :  called, Posbility: 0.0033
+Next Token :  where, Posbility: 0.0014
+Choose :  to,  Posbility: 0.9203
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.6464
+Next Token :  return, Posbility: 0.1143
+Next Token :  check, Posbility: 0.0359
+Next Token :  remove, Posbility: 0.0346
+Next Token :  count, Posbility: 0.0191
+Choose :  find,  Posbility: 0.6464
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find
+---------------------------
+Next Token :  common, Posbility: 0.6895
+Next Token :  the, Posbility: 0.1707
+Next Token :  uncommon, Posbility: 0.0501
+Next Token :  most, Posbility: 0.0089
+Next Token :  all, Posbility: 0.0086
+Choose :  common,  Posbility: 0.6895
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common
+---------------------------
+Next Token :  elements, Posbility: 0.9887
+Next Token :  element, Posbility: 0.0023
+Next Token :  numbers, Posbility: 0.0009
+Next Token :  items, Posbility: 0.0007
+Next Token :  pairs, Posbility: 0.0004
+Choose :  elements,  Posbility: 0.9887
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements
+---------------------------
+Next Token :  from, Posbility: 0.9079
+Next Token :  of, Posbility: 0.0302
+Next Token :  in, Posbility: 0.0179
+Next Token :  between, Posbility: 0.0091
+Next Token : ., Posbility: 0.0033
+Choose :  from,  Posbility: 0.9079
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from
+---------------------------
+Next Token :  three, Posbility: 0.8208
+Next Token :  four, Posbility: 0.0939
+Next Token :  two, Posbility: 0.0352
+Next Token :  a, Posbility: 0.0195
+Next Token :  3, Posbility: 0.0051
+Choose :  three,  Posbility: 0.8208
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three
+---------------------------
+Next Token :  lists, Posbility: 0.9912
+Next Token :  other, Posbility: 0.0015
+Next Token :  arrays, Posbility: 0.0014
+Next Token :  sets, Posbility: 0.0010
+Next Token :  strings, Posbility: 0.0008
+Choose :  lists,  Posbility: 0.9912
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists
+---------------------------
+Next Token : ., Posbility: 0.8402
+Next Token : ,, Posbility: 0.0284
+Next Token : .', Posbility: 0.0241
+Next Token :  with, Posbility: 0.0205
+Next Token :  where, Posbility: 0.0113
+Choose : .,  Posbility: 0.8402
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists.
+---------------------------
+Next Token :  The, Posbility: 0.9325
+Next Token : 
+, Posbility: 0.0219
+Next Token :  You, Posbility: 0.0024
+Next Token :  This, Posbility: 0.0024
+Next Token :  , Posbility: 0.0022
+Choose :  The,  Posbility: 0.9325
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The
+---------------------------
+Next Token :  function, Posbility: 0.9960
+Next Token :  element, Posbility: 0.0006
+Next Token :  first, Posbility: 0.0003
+Next Token :  common, Posbility: 0.0003
+Next Token :  same, Posbility: 0.0002
+Choose :  function,  Posbility: 0.9960
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function
+---------------------------
+Next Token :  should, Posbility: 0.9975
+Next Token :  returns, Posbility: 0.0007
+Next Token :  takes, Posbility: 0.0002
+Next Token :  must, Posbility: 0.0002
+Next Token :  can, Posbility: 0.0002
+Choose :  should,  Posbility: 0.9975
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should
+---------------------------
+Next Token :  return, Posbility: 0.9939
+Next Token :  raise, Posbility: 0.0005
+Next Token :  output, Posbility: 0.0004
+Next Token :  remove, Posbility: 0.0004
+Next Token :  also, Posbility: 0.0004
+Choose :  return,  Posbility: 0.9939
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return
+---------------------------
+Next Token :  a, Posbility: 0.9515
+Next Token :  the, Posbility: 0.0309
+Next Token :  an, Posbility: 0.0048
+Next Token :  only, Posbility: 0.0015
+Next Token :  all, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9515
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a
+---------------------------
+Next Token :  list, Posbility: 0.9557
+Next Token :  tuple, Posbility: 0.0067
+Next Token :  new, Posbility: 0.0066
+Next Token :  single, Posbility: 0.0057
+Next Token :  dictionary, Posbility: 0.0054
+Choose :  list,  Posbility: 0.9557
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list
+---------------------------
+Next Token : .', Posbility: 0.7111
+Next Token : ., Posbility: 0.1273
+Next Token :  of, Posbility: 0.0568
+Next Token : '', Posbility: 0.0478
+Next Token : ,, Posbility: 0.0118
+Choose : .',  Posbility: 0.7111
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0001
+Next Token : ''., Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9617
+Next Token : 
+
+, Posbility: 0.0267
+Next Token : def, Posbility: 0.0067
+Next Token :  , Posbility: 0.0013
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9617
+---------------------------
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9003
+Next Token : 
+, Posbility: 0.0893
+Next Token : #, Posbility: 0.0039
+Next Token : import, Posbility: 0.0017
+Next Token : from, Posbility: 0.0008
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 33.454755783081055
+
+
+
+----------No Syntax Error--------
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+def common_elements(l1, l2, l3):
+    common_elements = []
+    for i in range(len(l1)):
+        if l1[i] in l2 and l2[i] in l3 and l3[i] in l1:
+            common_elements.append(l1[i])
+    return common_elements
+
+
+'''We say that an element is common for lists l1, l2, l3 if it appears in all three lists under the same index. Write a function to find common elements from three lists. The function should return a list.'''
+

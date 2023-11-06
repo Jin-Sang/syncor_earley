@@ -1,0 +1,1681 @@
+<<<<<<<<<<<< 121 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  find, Posbility: 0.3552
+Next Token :  max, Posbility: 0.1796
+Next Token :  bit, Posbility: 0.1174
+Next Token :  maximum, Posbility: 0.0399
+Next Token :  get, Posbility: 0.0155
+Choose :  find,  Posbility: 0.3552
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find
+---------------------------
+Next Token : _, Posbility: 0.6050
+Next Token : Max, Posbility: 0.2251
+Next Token : Maximum, Posbility: 0.0265
+Next Token : max, Posbility: 0.0184
+Next Token : (, Posbility: 0.0137
+Choose : _,  Posbility: 0.6050
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_
+---------------------------
+Next Token : max, Posbility: 0.5121
+Next Token : bit, Posbility: 0.1445
+Next Token : maximum, Posbility: 0.0729
+Next Token : sub, Posbility: 0.0419
+Next Token : sum, Posbility: 0.0230
+Choose : max,  Posbility: 0.5121
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max
+---------------------------
+Next Token : _, Posbility: 0.9167
+Next Token : (, Posbility: 0.0665
+Next Token : sum, Posbility: 0.0021
+Next Token : imal, Posbility: 0.0015
+Next Token : Sum, Posbility: 0.0011
+Choose : _,  Posbility: 0.9167
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_
+---------------------------
+Next Token : sum, Posbility: 0.3458
+Next Token : sub, Posbility: 0.2848
+Next Token : bit, Posbility: 0.1354
+Next Token : sequence, Posbility: 0.0303
+Next Token : seq, Posbility: 0.0208
+Choose : sum,  Posbility: 0.3458
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum
+---------------------------
+Next Token : _, Posbility: 0.6936
+Next Token : (, Posbility: 0.2968
+Next Token : 1, Posbility: 0.0018
+Next Token : bit, Posbility: 0.0017
+Next Token : 2, Posbility: 0.0012
+Choose : _,  Posbility: 0.6936
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_
+---------------------------
+Next Token : bit, Posbility: 0.4272
+Next Token : sub, Posbility: 0.2198
+Next Token : of, Posbility: 0.0567
+Next Token : b, Posbility: 0.0401
+Next Token : seq, Posbility: 0.0245
+Choose : bit,  Posbility: 0.4272
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bit
+---------------------------
+Next Token : onic, Posbility: 0.9958
+Next Token : _, Posbility: 0.0011
+Next Token : on, Posbility: 0.0011
+Next Token : (, Posbility: 0.0007
+Next Token : onics, Posbility: 0.0003
+Choose : onic,  Posbility: 0.9958
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic
+---------------------------
+Next Token : (, Posbility: 0.5907
+Next Token : _, Posbility: 0.3992
+Next Token : ():, Posbility: 0.0043
+Next Token :  (, Posbility: 0.0013
+Next Token : 2, Posbility: 0.0006
+Choose : (,  Posbility: 0.5907
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(
+---------------------------
+Next Token : arr, Posbility: 0.5882
+Next Token : array, Posbility: 0.1878
+Next Token : n, Posbility: 0.0414
+Next Token : a, Posbility: 0.0393
+Next Token : A, Posbility: 0.0229
+Choose : arr,  Posbility: 0.5882
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr
+---------------------------
+Next Token : ):, Posbility: 0.8521
+Next Token : ,, Posbility: 0.1098
+Next Token : :, Posbility: 0.0265
+Next Token : _, Posbility: 0.0033
+Next Token : ), Posbility: 0.0029
+Choose : ):,  Posbility: 0.8521
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+---------------------------
+Next Token : 
+, Posbility: 0.9152
+Next Token : 
+
+, Posbility: 0.0447
+Next Token : , Posbility: 0.0191
+Next Token :  , Posbility: 0.0106
+Next Token :  #, Posbility: 0.0033
+Choose : 
+,  Posbility: 0.9152
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+
+---------------------------
+Next Token :     , Posbility: 0.9115
+Next Token :   , Posbility: 0.0420
+Next Token : 	, Posbility: 0.0301
+Next Token :    , Posbility: 0.0053
+Next Token :         , Posbility: 0.0051
+Choose :     ,  Posbility: 0.9115
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    
+---------------------------
+Next Token : max, Posbility: 0.1839
+Next Token : #, Posbility: 0.1133
+Next Token : if, Posbility: 0.0947
+Next Token : '', Posbility: 0.0836
+Next Token : n, Posbility: 0.0474
+Choose : max,  Posbility: 0.1839
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max
+---------------------------
+Next Token : _, Posbility: 0.8542
+Next Token :  =, Posbility: 0.0559
+Next Token : Sum, Posbility: 0.0271
+Next Token : sum, Posbility: 0.0107
+Next Token : S, Posbility: 0.0058
+Choose : _,  Posbility: 0.8542
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_
+---------------------------
+Next Token : sum, Posbility: 0.7752
+Next Token : val, Posbility: 0.0274
+Next Token : so, Posbility: 0.0187
+Next Token : sub, Posbility: 0.0182
+Next Token : s, Posbility: 0.0165
+Choose : sum,  Posbility: 0.7752
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum
+---------------------------
+Next Token :  =, Posbility: 0.8330
+Next Token : _, Posbility: 0.1123
+Next Token : =, Posbility: 0.0253
+Next Token : ,, Posbility: 0.0253
+Next Token : =-, Posbility: 0.0015
+Choose :  =,  Posbility: 0.8330
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum =
+---------------------------
+Next Token :  0, Posbility: 0.4765
+Next Token :  arr, Posbility: 0.1978
+Next Token :  -, Posbility: 0.1352
+Next Token :  max, Posbility: 0.0391
+Next Token :  sum, Posbility: 0.0387
+Choose :  0,  Posbility: 0.4765
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+---------------------------
+Next Token : 
+, Posbility: 0.8940
+Next Token : 
+
+, Posbility: 0.0710
+Next Token :  , Posbility: 0.0106
+Next Token :  #, Posbility: 0.0073
+Next Token : ;, Posbility: 0.0054
+Choose : 
+,  Posbility: 0.8940
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9975
+Next Token :         , Posbility: 0.0008
+Next Token : 	, Posbility: 0.0004
+Next Token :  , Posbility: 0.0003
+Next Token :   , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9975
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.2586
+Next Token : max, Posbility: 0.0719
+Next Token : current, Posbility: 0.0517
+Next Token : i, Posbility: 0.0490
+Next Token : cur, Posbility: 0.0362
+Choose : for,  Posbility: 0.2586
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7546
+Next Token :  index, Posbility: 0.0367
+Next Token :  num, Posbility: 0.0270
+Next Token :  x, Posbility: 0.0169
+Next Token :  id, Posbility: 0.0157
+Choose :  i,  Posbility: 0.7546
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9763
+Next Token : ,, Posbility: 0.0229
+Next Token : _, Posbility: 0.0003
+Next Token : 1, Posbility: 0.0002
+Next Token :   , Posbility: 0.0001
+Choose :  in,  Posbility: 0.9763
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9431
+Next Token :  arr, Posbility: 0.0518
+Next Token :  reversed, Posbility: 0.0018
+Next Token :  sorted, Posbility: 0.0005
+Next Token :  x, Posbility: 0.0003
+Choose :  range,  Posbility: 0.9431
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9913
+Next Token :  (, Posbility: 0.0074
+Next Token : ((, Posbility: 0.0006
+Next Token : (-, Posbility: 0.0005
+Next Token : :, Posbility: 0.0000
+Choose : (,  Posbility: 0.9913
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.6473
+Next Token : 1, Posbility: 0.1849
+Next Token : 0, Posbility: 0.1415
+Next Token : 2, Posbility: 0.0064
+Next Token : n, Posbility: 0.0037
+Choose : len,  Posbility: 0.6473
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9997
+Next Token : ((, Posbility: 0.0001
+Next Token : (-, Posbility: 0.0001
+Next Token : (), Posbility: 0.0000
+Next Token : ({, Posbility: 0.0000
+Choose : (,  Posbility: 0.9997
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(
+---------------------------
+Next Token : arr, Posbility: 0.9993
+Next Token : max, Posbility: 0.0001
+Next Token : s, Posbility: 0.0000
+Next Token : array, Posbility: 0.0000
+Next Token : n, Posbility: 0.0000
+Choose : arr,  Posbility: 0.9993
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr
+---------------------------
+Next Token : ), Posbility: 0.8263
+Next Token : )-, Posbility: 0.1669
+Next Token : )+, Posbility: 0.0029
+Next Token : [, Posbility: 0.0022
+Next Token : )), Posbility: 0.0008
+Choose : ),  Posbility: 0.8263
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.7783
+Next Token :  -, Posbility: 0.2133
+Next Token :  +, Posbility: 0.0040
+Next Token : //, Posbility: 0.0028
+Next Token :  //, Posbility: 0.0013
+Choose : ):,  Posbility: 0.7783
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9716
+Next Token : 
+
+, Posbility: 0.0116
+Next Token :  #, Posbility: 0.0055
+Next Token :  , Posbility: 0.0035
+Next Token :   , Posbility: 0.0032
+Choose : 
+,  Posbility: 0.9716
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+
+---------------------------
+Next Token :         , Posbility: 0.9897
+Next Token :       , Posbility: 0.0038
+Next Token :             , Posbility: 0.0022
+Next Token :        , Posbility: 0.0018
+Next Token :     , Posbility: 0.0010
+Choose :         ,  Posbility: 0.9897
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        
+---------------------------
+Next Token : for, Posbility: 0.3089
+Next Token : if, Posbility: 0.1892
+Next Token : max, Posbility: 0.0638
+Next Token : cur, Posbility: 0.0399
+Next Token : #, Posbility: 0.0392
+Choose : for,  Posbility: 0.3089
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for
+---------------------------
+Next Token :  j, Posbility: 0.9595
+Next Token :  k, Posbility: 0.0116
+Next Token :  x, Posbility: 0.0038
+Next Token :  n, Posbility: 0.0021
+Next Token :  index, Posbility: 0.0017
+Choose :  j,  Posbility: 0.9595
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j
+---------------------------
+Next Token :  in, Posbility: 0.9989
+Next Token : ,, Posbility: 0.0009
+Next Token :   , Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token : 1, Posbility: 0.0000
+Choose :  in,  Posbility: 0.9989
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in
+---------------------------
+Next Token :  range, Posbility: 0.9963
+Next Token :  reversed, Posbility: 0.0019
+Next Token :  arr, Posbility: 0.0004
+Next Token :  [, Posbility: 0.0003
+Next Token :  (, Posbility: 0.0002
+Choose :  range,  Posbility: 0.9963
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range
+---------------------------
+Next Token : (, Posbility: 0.9956
+Next Token :  (, Posbility: 0.0027
+Next Token : ((, Posbility: 0.0013
+Next Token : (-, Posbility: 0.0003
+Next Token : ():, Posbility: 0.0000
+Choose : (,  Posbility: 0.9956
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(
+---------------------------
+Next Token : i, Posbility: 0.8640
+Next Token : len, Posbility: 0.0975
+Next Token : 0, Posbility: 0.0169
+Next Token : 1, Posbility: 0.0120
+Next Token : max, Posbility: 0.0033
+Choose : i,  Posbility: 0.8640
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i
+---------------------------
+Next Token : +, Posbility: 0.3238
+Next Token : ,, Posbility: 0.3221
+Next Token : ):, Posbility: 0.2096
+Next Token :  +, Posbility: 0.1256
+Next Token : -, Posbility: 0.0100
+Choose : +,  Posbility: 0.3238
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+
+---------------------------
+Next Token : 1, Posbility: 0.9944
+Next Token : 2, Posbility: 0.0041
+Next Token :  1, Posbility: 0.0010
+Next Token : 3, Posbility: 0.0001
+Next Token : len, Posbility: 0.0001
+Choose : 1,  Posbility: 0.9944
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1
+---------------------------
+Next Token : ,, Posbility: 0.7567
+Next Token : ):, Posbility: 0.2380
+Next Token : ,, Posbility: 0.0032
+Next Token : ,-, Posbility: 0.0008
+Next Token : -, Posbility: 0.0006
+Choose : ,,  Posbility: 0.7567
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1,
+---------------------------
+Next Token :  len, Posbility: 0.7486
+Next Token : len, Posbility: 0.2481
+Next Token :  min, Posbility: 0.0012
+Next Token :  0, Posbility: 0.0004
+Next Token : min, Posbility: 0.0002
+Choose :  len,  Posbility: 0.7486
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len
+---------------------------
+Next Token : (, Posbility: 0.9998
+Next Token :  (, Posbility: 0.0001
+Next Token : _, Posbility: 0.0000
+Next Token : (), Posbility: 0.0000
+Next Token : ):, Posbility: 0.0000
+Choose : (,  Posbility: 0.9998
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(
+---------------------------
+Next Token : arr, Posbility: 0.9998
+Next Token :  arr, Posbility: 0.0000
+Next Token : array, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : max, Posbility: 0.0000
+Choose : arr,  Posbility: 0.9998
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr
+---------------------------
+Next Token : ), Posbility: 0.9468
+Next Token : )+, Posbility: 0.0459
+Next Token : ),, Posbility: 0.0048
+Next Token : )-, Posbility: 0.0020
+Next Token : )), Posbility: 0.0003
+Choose : ),  Posbility: 0.9468
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)
+---------------------------
+Next Token : ):, Posbility: 0.9950
+Next Token :  +, Posbility: 0.0041
+Next Token :  ):, Posbility: 0.0003
+Next Token :  -, Posbility: 0.0002
+Next Token : +, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9950
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+---------------------------
+Next Token : 
+, Posbility: 0.9851
+Next Token : 
+
+, Posbility: 0.0059
+Next Token :  , Posbility: 0.0030
+Next Token :  #, Posbility: 0.0025
+Next Token :   , Posbility: 0.0010
+Choose : 
+,  Posbility: 0.9851
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+
+---------------------------
+Next Token :             , Posbility: 0.9951
+Next Token :                 , Posbility: 0.0017
+Next Token :            , Posbility: 0.0011
+Next Token :           , Posbility: 0.0005
+Next Token :              , Posbility: 0.0005
+Choose :             ,  Posbility: 0.9951
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            
+---------------------------
+Next Token : if, Posbility: 0.5437
+Next Token : sum, Posbility: 0.0858
+Next Token : max, Posbility: 0.0671
+Next Token : cur, Posbility: 0.0379
+Next Token : current, Posbility: 0.0349
+Choose : if,  Posbility: 0.5437
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if
+---------------------------
+Next Token :  arr, Posbility: 0.8174
+Next Token :  (, Posbility: 0.0473
+Next Token : (, Posbility: 0.0339
+Next Token :  max, Posbility: 0.0188
+Next Token :  j, Posbility: 0.0180
+Choose :  arr,  Posbility: 0.8174
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr
+---------------------------
+Next Token : [, Posbility: 0.9993
+Next Token :  [, Posbility: 0.0003
+Next Token : ., Posbility: 0.0002
+Next Token :  ==, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9993
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[
+---------------------------
+Next Token : i, Posbility: 0.8317
+Next Token : j, Posbility: 0.1663
+Next Token : max, Posbility: 0.0005
+Next Token : 0, Posbility: 0.0003
+Next Token : :, Posbility: 0.0003
+Choose : i,  Posbility: 0.8317
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i
+---------------------------
+Next Token : ], Posbility: 0.9277
+Next Token : ]+, Posbility: 0.0472
+Next Token : :, Posbility: 0.0067
+Next Token : ][, Posbility: 0.0049
+Next Token : +, Posbility: 0.0031
+Choose : ],  Posbility: 0.9277
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i]
+---------------------------
+Next Token :  >, Posbility: 0.3992
+Next Token :  +, Posbility: 0.2752
+Next Token :  <, Posbility: 0.1573
+Next Token :  >=, Posbility: 0.0414
+Next Token :  ==, Posbility: 0.0304
+Choose :  >,  Posbility: 0.3992
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] >
+---------------------------
+Next Token :  arr, Posbility: 0.9695
+Next Token :  0, Posbility: 0.0264
+Next Token :  max, Posbility: 0.0012
+Next Token :  (, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose :  arr,  Posbility: 0.9695
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr
+---------------------------
+Next Token : [, Posbility: 0.9996
+Next Token :  [, Posbility: 0.0004
+Next Token : :, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Next Token :  [-, Posbility: 0.0000
+Choose : [,  Posbility: 0.9996
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[
+---------------------------
+Next Token : j, Posbility: 0.9978
+Next Token : i, Posbility: 0.0014
+Next Token : arr, Posbility: 0.0003
+Next Token : 0, Posbility: 0.0001
+Next Token : -, Posbility: 0.0001
+Choose : j,  Posbility: 0.9978
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j
+---------------------------
+Next Token : ]:, Posbility: 0.7145
+Next Token : ], Posbility: 0.2827
+Next Token : ]+, Posbility: 0.0012
+Next Token : ]-, Posbility: 0.0006
+Next Token : ][, Posbility: 0.0002
+Choose : ]:,  Posbility: 0.7145
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+---------------------------
+Next Token : 
+, Posbility: 0.9798
+Next Token :  #, Posbility: 0.0067
+Next Token :  , Posbility: 0.0046
+Next Token :  max, Posbility: 0.0025
+Next Token :   , Posbility: 0.0020
+Choose : 
+,  Posbility: 0.9798
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+
+---------------------------
+Next Token :                 , Posbility: 0.9969
+Next Token :                , Posbility: 0.0008
+Next Token :                     , Posbility: 0.0008
+Next Token :             , Posbility: 0.0004
+Next Token :               , Posbility: 0.0004
+Choose :                 ,  Posbility: 0.9969
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                
+---------------------------
+Next Token : max, Posbility: 0.4646
+Next Token : if, Posbility: 0.1664
+Next Token : arr, Posbility: 0.0955
+Next Token : sum, Posbility: 0.0375
+Next Token : temp, Posbility: 0.0324
+Choose : max,  Posbility: 0.4646
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max
+---------------------------
+Next Token : _, Posbility: 0.9984
+Next Token :  =, Posbility: 0.0010
+Next Token : sum, Posbility: 0.0001
+Next Token : i, Posbility: 0.0001
+Next Token : Sum, Posbility: 0.0000
+Choose : _,  Posbility: 0.9984
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_
+---------------------------
+Next Token : sum, Posbility: 0.9918
+Next Token : diff, Posbility: 0.0014
+Next Token : val, Posbility: 0.0012
+Next Token : i, Posbility: 0.0008
+Next Token : sub, Posbility: 0.0007
+Choose : sum,  Posbility: 0.9918
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum
+---------------------------
+Next Token :  +=, Posbility: 0.6517
+Next Token :  =, Posbility: 0.3265
+Next Token : +=, Posbility: 0.0114
+Next Token :  -=, Posbility: 0.0078
+Next Token : =, Posbility: 0.0008
+Choose :  +=,  Posbility: 0.6517
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum +=
+---------------------------
+Next Token :  arr, Posbility: 0.9361
+Next Token :  (, Posbility: 0.0315
+Next Token :  1, Posbility: 0.0076
+Next Token :  max, Posbility: 0.0075
+Next Token :  j, Posbility: 0.0038
+Choose :  arr,  Posbility: 0.9361
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr
+---------------------------
+Next Token : [, Posbility: 0.9998
+Next Token :  [, Posbility: 0.0001
+Next Token : ., Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token : _, Posbility: 0.0000
+Choose : [,  Posbility: 0.9998
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[
+---------------------------
+Next Token : i, Posbility: 0.5431
+Next Token : j, Posbility: 0.4562
+Next Token : k, Posbility: 0.0002
+Next Token : max, Posbility: 0.0001
+Next Token : n, Posbility: 0.0001
+Choose : i,  Posbility: 0.5431
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i
+---------------------------
+Next Token : ], Posbility: 0.9468
+Next Token : ]-, Posbility: 0.0440
+Next Token : ]+, Posbility: 0.0047
+Next Token : -, Posbility: 0.0018
+Next Token : +, Posbility: 0.0013
+Choose : ],  Posbility: 0.9468
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+---------------------------
+Next Token : 
+, Posbility: 0.6443
+Next Token :  -, Posbility: 0.2604
+Next Token : 
+
+, Posbility: 0.0593
+Next Token :  +, Posbility: 0.0192
+Next Token :  *, Posbility: 0.0048
+Choose : 
+,  Posbility: 0.6443
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+
+---------------------------
+Next Token :     , Posbility: 0.5824
+Next Token :             , Posbility: 0.2791
+Next Token :                 , Posbility: 0.1093
+Next Token :         , Posbility: 0.0261
+Next Token : 
+, Posbility: 0.0005
+Choose :     ,  Posbility: 0.5824
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    
+---------------------------
+Next Token : return, Posbility: 0.8972
+Next Token : print, Posbility: 0.0534
+Next Token : 
+, Posbility: 0.0220
+Next Token : if, Posbility: 0.0112
+Next Token : max, Posbility: 0.0074
+Choose : return,  Posbility: 0.8972
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return
+---------------------------
+Next Token :  max, Posbility: 0.9895
+Next Token : (, Posbility: 0.0049
+Next Token :  (, Posbility: 0.0017
+Next Token :   , Posbility: 0.0006
+Next Token :  int, Posbility: 0.0006
+Choose :  max,  Posbility: 0.9895
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max
+---------------------------
+Next Token : _, Posbility: 0.9879
+Next Token : (, Posbility: 0.0119
+Next Token : ([, Posbility: 0.0001
+Next Token : ((, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Choose : _,  Posbility: 0.9879
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_
+---------------------------
+Next Token : sum, Posbility: 1.0000
+Next Token :  sum, Posbility: 0.0000
+Next Token : val, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Next Token : num, Posbility: 0.0000
+Choose : sum,  Posbility: 1.0000
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+---------------------------
+Next Token : 
+, Posbility: 0.6952
+Next Token : 
+
+, Posbility: 0.2157
+Next Token : <|endoftext|>, Posbility: 0.0593
+Next Token :  , Posbility: 0.0117
+Next Token :  +, Posbility: 0.0030
+Choose : 
+,  Posbility: 0.6952
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+---------------------------
+Next Token : 
+, Posbility: 0.7774
+Next Token :     , Posbility: 0.0345
+Next Token : <|endoftext|>, Posbility: 0.0332
+Next Token : print, Posbility: 0.0258
+Next Token : #, Posbility: 0.0227
+Choose : 
+,  Posbility: 0.7774
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9486
+Next Token : 
+
+, Posbility: 0.0197
+Next Token :     , Posbility: 0.0164
+Next Token : <|endoftext|>, Posbility: 0.0095
+Next Token :         , Posbility: 0.0021
+Choose : 
+,  Posbility: 0.9486
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5997
+Next Token : #, Posbility: 0.0991
+Next Token : def, Posbility: 0.0933
+Next Token : arr, Posbility: 0.0500
+Next Token : print, Posbility: 0.0479
+Choose : '',  Posbility: 0.5997
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8325
+Next Token : 
+, Posbility: 0.0392
+Next Token :  Write, Posbility: 0.0155
+Next Token : Given, Posbility: 0.0104
+Next Token : Find, Posbility: 0.0088
+Choose : Write,  Posbility: 0.8325
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9913
+Next Token :  your, Posbility: 0.0025
+Next Token :  an, Posbility: 0.0024
+Next Token :  the, Posbility: 0.0008
+Next Token :  function, Posbility: 0.0005
+Choose :  a,  Posbility: 0.9913
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9466
+Next Token :  Python, Posbility: 0.0100
+Next Token :  program, Posbility: 0.0075
+Next Token :  recursive, Posbility: 0.0072
+Next Token :  python, Posbility: 0.0052
+Choose :  function,  Posbility: 0.9466
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function
+---------------------------
+Next Token :  that, Posbility: 0.9090
+Next Token :  to, Posbility: 0.0434
+Next Token :  which, Posbility: 0.0086
+Next Token :  called, Posbility: 0.0082
+Next Token :  named, Posbility: 0.0042
+Choose :  that,  Posbility: 0.9090
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that
+---------------------------
+Next Token :  takes, Posbility: 0.6604
+Next Token :  returns, Posbility: 0.0639
+Next Token :  accepts, Posbility: 0.0260
+Next Token :  finds, Posbility: 0.0189
+Next Token :  checks, Posbility: 0.0160
+Choose :  takes,  Posbility: 0.6604
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes
+---------------------------
+Next Token :  an, Posbility: 0.4984
+Next Token :  a, Posbility: 0.3549
+Next Token :  in, Posbility: 0.0771
+Next Token :  two, Posbility: 0.0237
+Next Token :  as, Posbility: 0.0174
+Choose :  an,  Posbility: 0.4984
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an
+---------------------------
+Next Token :  array, Posbility: 0.9607
+Next Token :  integer, Posbility: 0.0183
+Next Token :  uns, Posbility: 0.0061
+Next Token :  input, Posbility: 0.0022
+Next Token :  even, Posbility: 0.0013
+Choose :  array,  Posbility: 0.9607
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array
+---------------------------
+Next Token :  and, Posbility: 0.7473
+Next Token :  of, Posbility: 0.0984
+Next Token : ,, Posbility: 0.0621
+Next Token :  as, Posbility: 0.0173
+Next Token :  (, Posbility: 0.0128
+Choose :  and,  Posbility: 0.7473
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and
+---------------------------
+Next Token :  returns, Posbility: 0.3683
+Next Token :  finds, Posbility: 0.2444
+Next Token :  calculates, Posbility: 0.0356
+Next Token :  sorts, Posbility: 0.0323
+Next Token :  checks, Posbility: 0.0291
+Choose :  returns,  Posbility: 0.3683
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns
+---------------------------
+Next Token :  the, Posbility: 0.5443
+Next Token :  a, Posbility: 0.1713
+Next Token :  an, Posbility: 0.0819
+Next Token :  its, Posbility: 0.0311
+Next Token :  True, Posbility: 0.0294
+Choose :  the,  Posbility: 0.5443
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the
+---------------------------
+Next Token :  number, Posbility: 0.1315
+Next Token :  sum, Posbility: 0.0756
+Next Token :  maximum, Posbility: 0.0678
+Next Token :  smallest, Posbility: 0.0597
+Next Token :  length, Posbility: 0.0517
+Choose :  number,  Posbility: 0.1315
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number
+---------------------------
+Next Token :  of, Posbility: 0.9902
+Next Token : 
+, Posbility: 0.0008
+Next Token :  in, Posbility: 0.0007
+Next Token :  (, Posbility: 0.0004
+Next Token :  if, Posbility: 0.0004
+Choose :  of,  Posbility: 0.9902
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of
+---------------------------
+Next Token :  elements, Posbility: 0.1152
+Next Token :  unique, Posbility: 0.0642
+Next Token :  occurrences, Posbility: 0.0559
+Next Token :  times, Posbility: 0.0539
+Next Token :  distinct, Posbility: 0.0382
+Choose :  elements,  Posbility: 0.1152
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements
+---------------------------
+Next Token :  in, Posbility: 0.4972
+Next Token :  that, Posbility: 0.1653
+Next Token :  with, Posbility: 0.0850
+Next Token :  where, Posbility: 0.0414
+Next Token :  which, Posbility: 0.0254
+Choose :  in,  Posbility: 0.4972
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in
+---------------------------
+Next Token :  the, Posbility: 0.6387
+Next Token :  a, Posbility: 0.1043
+Next Token :  which, Posbility: 0.0793
+Next Token :  it, Posbility: 0.0480
+Next Token :  an, Posbility: 0.0427
+Choose :  the,  Posbility: 0.6387
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the
+---------------------------
+Next Token :  array, Posbility: 0.6838
+Next Token :  bit, Posbility: 0.0407
+Next Token :  longest, Posbility: 0.0389
+Next Token :  sub, Posbility: 0.0225
+Next Token :  largest, Posbility: 0.0175
+Choose :  array,  Posbility: 0.6838
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array
+---------------------------
+Next Token :  that, Posbility: 0.5063
+Next Token :  which, Posbility: 0.0628
+Next Token : ., Posbility: 0.0566
+Next Token :  with, Posbility: 0.0562
+Next Token :  where, Posbility: 0.0431
+Choose :  that,  Posbility: 0.5063
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that
+---------------------------
+Next Token :  are, Posbility: 0.6186
+Next Token :  have, Posbility: 0.1684
+Next Token :  occur, Posbility: 0.0347
+Next Token :  sum, Posbility: 0.0225
+Next Token :  can, Posbility: 0.0151
+Choose :  are,  Posbility: 0.6186
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are
+---------------------------
+Next Token :  less, Posbility: 0.1085
+Next Token :  greater, Posbility: 0.0871
+Next Token :  equal, Posbility: 0.0697
+Next Token :  in, Posbility: 0.0625
+Next Token :  consecutive, Posbility: 0.0503
+Choose :  less,  Posbility: 0.1085
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less
+---------------------------
+Next Token :  than, Posbility: 0.9701
+Next Token :  or, Posbility: 0.0152
+Next Token :  then, Posbility: 0.0061
+Next Token : 
+, Posbility: 0.0017
+Next Token :  that, Posbility: 0.0011
+Choose :  than,  Posbility: 0.9701
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than
+---------------------------
+Next Token :  or, Posbility: 0.4749
+Next Token :  the, Posbility: 0.2437
+Next Token :  a, Posbility: 0.1000
+Next Token :  its, Posbility: 0.0207
+Next Token :  0, Posbility: 0.0090
+Choose :  or,  Posbility: 0.4749
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or
+---------------------------
+Next Token :  equal, Posbility: 0.9823
+Next Token :  equals, Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0021
+Next Token :  greater, Posbility: 0.0021
+Next Token :  , Posbility: 0.0010
+Choose :  equal,  Posbility: 0.9823
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal
+---------------------------
+Next Token :  to, Posbility: 0.9832
+Next Token :  than, Posbility: 0.0047
+Next Token : 
+, Posbility: 0.0020
+Next Token :  the, Posbility: 0.0016
+Next Token :  a, Posbility: 0.0010
+Choose :  to,  Posbility: 0.9832
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to
+---------------------------
+Next Token :  the, Posbility: 0.4778
+Next Token :  a, Posbility: 0.1429
+Next Token :  its, Posbility: 0.0845
+Next Token :  zero, Posbility: 0.0572
+Next Token :  0, Posbility: 0.0185
+Choose :  the,  Posbility: 0.4778
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the
+---------------------------
+Next Token :  given, Posbility: 0.3174
+Next Token :  target, Posbility: 0.0869
+Next Token :  sum, Posbility: 0.0771
+Next Token :  number, Posbility: 0.0374
+Next Token :  array, Posbility: 0.0342
+Choose :  given,  Posbility: 0.3174
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the given
+---------------------------
+Next Token :  value, Posbility: 0.3251
+Next Token :  number, Posbility: 0.1629
+Next Token :  element, Posbility: 0.1264
+Next Token :  threshold, Posbility: 0.1233
+Next Token :  target, Posbility: 0.0461
+Choose :  value,  Posbility: 0.3251
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the given value
+---------------------------
+Next Token : .', Posbility: 0.3982
+Next Token : ., Posbility: 0.3619
+Next Token : '', Posbility: 0.0659
+Next Token : ,, Posbility: 0.0393
+Next Token :  (, Posbility: 0.0191
+Choose : .',  Posbility: 0.3982
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the given value.'
+---------------------------
+Next Token : '', Posbility: 0.9994
+Next Token : 
+, Posbility: 0.0003
+Next Token :  ', Posbility: 0.0002
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9994
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the given value.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9329
+Next Token : 
+
+, Posbility: 0.0556
+Next Token : def, Posbility: 0.0039
+Next Token :  , Posbility: 0.0033
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9329
+---------------------------
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the given value.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9335
+Next Token : 
+, Posbility: 0.0495
+Next Token : #, Posbility: 0.0085
+Next Token : import, Posbility: 0.0023
+Next Token : from, Posbility: 0.0020
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 21.87441396713257
+
+
+
+----------No Syntax Error--------
+
+'''Write a function that takes an array and finds the maximum sum of a bitonic subsequence for the given array, where a sequence is bitonic if it is first increasing and then decreasing.'''
+def find_max_sum_bitonic(arr):
+    max_sum = 0
+    for i in range(len(arr)):
+        for j in range(i+1, len(arr)):
+            if arr[i] > arr[j]:
+                max_sum += arr[i]
+    return max_sum
+
+
+'''Write a function that takes an array and returns the number of elements in the array that are less than or equal to the given value.'''
+

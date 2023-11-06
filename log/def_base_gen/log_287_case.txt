@@ -1,0 +1,959 @@
+<<<<<<<<<<<< 287 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  surface, Posbility: 0.1689
+Next Token :  square, Posbility: 0.1392
+Next Token :  area, Posbility: 0.0851
+Next Token :  sq, Posbility: 0.0587
+Next Token :  py, Posbility: 0.0498
+Choose :  surface,  Posbility: 0.1689
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surface
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surface
+---------------------------
+Next Token : Area, Posbility: 0.4819
+Next Token : _, Posbility: 0.3169
+Next Token : (, Posbility: 0.1342
+Next Token : area, Posbility: 0.0301
+Next Token : Are, Posbility: 0.0075
+Choose : Area,  Posbility: 0.4819
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea
+---------------------------
+Next Token : (, Posbility: 0.8025
+Next Token : Py, Posbility: 0.0728
+Next Token :  (, Posbility: 0.0179
+Next Token : Of, Posbility: 0.0156
+Next Token : _, Posbility: 0.0132
+Choose : (,  Posbility: 0.8025
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(
+---------------------------
+Next Token : base, Posbility: 0.5988
+Next Token : height, Posbility: 0.0622
+Next Token : h, Posbility: 0.0381
+Next Token : edge, Posbility: 0.0280
+Next Token : b, Posbility: 0.0273
+Choose : base,  Posbility: 0.5988
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base
+---------------------------
+Next Token : ,, Posbility: 0.4809
+Next Token : Edge, Posbility: 0.2056
+Next Token : _, Posbility: 0.0737
+Next Token : edge, Posbility: 0.0390
+Next Token : Height, Posbility: 0.0359
+Choose : ,,  Posbility: 0.4809
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,
+---------------------------
+Next Token : height, Posbility: 0.4647
+Next Token :  height, Posbility: 0.4063
+Next Token : h, Posbility: 0.0695
+Next Token :  h, Posbility: 0.0166
+Next Token :  edge, Posbility: 0.0053
+Choose : height,  Posbility: 0.4647
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height
+---------------------------
+Next Token : ):, Posbility: 0.9518
+Next Token : ,, Posbility: 0.0257
+Next Token : ), Posbility: 0.0095
+Next Token : =, Posbility: 0.0079
+Next Token :  =, Posbility: 0.0021
+Choose : ):,  Posbility: 0.9518
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+---------------------------
+Next Token : 
+, Posbility: 0.8545
+Next Token : , Posbility: 0.0580
+Next Token : 
+
+, Posbility: 0.0411
+Next Token :  , Posbility: 0.0204
+Next Token :  #, Posbility: 0.0090
+Choose : 
+,  Posbility: 0.8545
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+
+---------------------------
+Next Token :     , Posbility: 0.8189
+Next Token : 	, Posbility: 0.0889
+Next Token :   , Posbility: 0.0659
+Next Token :    , Posbility: 0.0088
+Next Token :  , Posbility: 0.0031
+Choose :     ,  Posbility: 0.8189
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    
+---------------------------
+Next Token : area, Posbility: 0.1719
+Next Token : '', Posbility: 0.1403
+Next Token : if, Posbility: 0.1293
+Next Token : return, Posbility: 0.0988
+Next Token : #, Posbility: 0.0709
+Choose : area,  Posbility: 0.1719
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area
+---------------------------
+Next Token :  =, Posbility: 0.5147
+Next Token : =, Posbility: 0.3749
+Next Token : _, Posbility: 0.0189
+Next Token : =(, Posbility: 0.0177
+Next Token : 1, Posbility: 0.0171
+Choose :  =,  Posbility: 0.5147
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area =
+---------------------------
+Next Token :  0, Posbility: 0.4296
+Next Token :  (, Posbility: 0.2083
+Next Token :  base, Posbility: 0.1167
+Next Token :  height, Posbility: 0.0584
+Next Token :  4, Posbility: 0.0519
+Choose :  0,  Posbility: 0.4296
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+---------------------------
+Next Token : 
+, Posbility: 0.7481
+Next Token : ., Posbility: 0.1714
+Next Token : 
+
+, Posbility: 0.0383
+Next Token :  , Posbility: 0.0191
+Next Token : ;, Posbility: 0.0098
+Choose : 
+,  Posbility: 0.7481
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9940
+Next Token : 	, Posbility: 0.0013
+Next Token :    , Posbility: 0.0008
+Next Token :         , Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9940
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.4837
+Next Token : if, Posbility: 0.1090
+Next Token : #, Posbility: 0.0613
+Next Token : i, Posbility: 0.0314
+Next Token : while, Posbility: 0.0234
+Choose : for,  Posbility: 0.4837
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.6528
+Next Token :  x, Posbility: 0.0677
+Next Token :  y, Posbility: 0.0348
+Next Token :  row, Posbility: 0.0236
+Next Token :  side, Posbility: 0.0153
+Choose :  i,  Posbility: 0.6528
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9978
+Next Token : ,, Posbility: 0.0009
+Next Token :   , Posbility: 0.0004
+Next Token : 1, Posbility: 0.0002
+Next Token : _, Posbility: 0.0001
+Choose :  in,  Posbility: 0.9978
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9905
+Next Token :  [, Posbility: 0.0017
+Next Token :  base, Posbility: 0.0016
+Next Token :  height, Posbility: 0.0016
+Next Token :  (, Posbility: 0.0010
+Choose :  range,  Posbility: 0.9905
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9537
+Next Token :  (, Posbility: 0.0375
+Next Token : (-, Posbility: 0.0055
+Next Token : ((, Posbility: 0.0026
+Next Token :  (-, Posbility: 0.0002
+Choose : (,  Posbility: 0.9537
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(
+---------------------------
+Next Token : 1, Posbility: 0.4427
+Next Token : base, Posbility: 0.1742
+Next Token : 0, Posbility: 0.1600
+Next Token : height, Posbility: 0.1168
+Next Token : len, Posbility: 0.0264
+Choose : 1,  Posbility: 0.4427
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1
+---------------------------
+Next Token : ,, Posbility: 0.9956
+Next Token : ,, Posbility: 0.0024
+Next Token : ):, Posbility: 0.0009
+Next Token : +, Posbility: 0.0003
+Next Token : ,-, Posbility: 0.0003
+Choose : ,,  Posbility: 0.9956
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,
+---------------------------
+Next Token : height, Posbility: 0.3615
+Next Token : base, Posbility: 0.3466
+Next Token :  base, Posbility: 0.0819
+Next Token :  height, Posbility: 0.0565
+Next Token : int, Posbility: 0.0438
+Choose : height,  Posbility: 0.3615
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height
+---------------------------
+Next Token : +, Posbility: 0.4938
+Next Token : ):, Posbility: 0.3133
+Next Token : -, Posbility: 0.0611
+Next Token : //, Posbility: 0.0593
+Next Token : ,, Posbility: 0.0268
+Choose : +,  Posbility: 0.4938
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+
+---------------------------
+Next Token : 1, Posbility: 0.9774
+Next Token : 2, Posbility: 0.0154
+Next Token : base, Posbility: 0.0031
+Next Token :  1, Posbility: 0.0022
+Next Token : height, Posbility: 0.0010
+Choose : 1,  Posbility: 0.9774
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1
+---------------------------
+Next Token : ):, Posbility: 0.9501
+Next Token : ,, Posbility: 0.0410
+Next Token : ), Posbility: 0.0048
+Next Token : +, Posbility: 0.0009
+Next Token :  ):, Posbility: 0.0009
+Choose : ):,  Posbility: 0.9501
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+---------------------------
+Next Token : 
+, Posbility: 0.9729
+Next Token :  #, Posbility: 0.0079
+Next Token :  , Posbility: 0.0049
+Next Token : 
+
+, Posbility: 0.0040
+Next Token :     , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9729
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+
+---------------------------
+Next Token :         , Posbility: 0.9743
+Next Token :       , Posbility: 0.0080
+Next Token :             , Posbility: 0.0051
+Next Token :        , Posbility: 0.0049
+Next Token :          , Posbility: 0.0021
+Choose :         ,  Posbility: 0.9743
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        
+---------------------------
+Next Token : area, Posbility: 0.8560
+Next Token : for, Posbility: 0.0669
+Next Token : if, Posbility: 0.0168
+Next Token : base, Posbility: 0.0091
+Next Token : #, Posbility: 0.0063
+Choose : area,  Posbility: 0.8560
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area
+---------------------------
+Next Token :  +=, Posbility: 0.4440
+Next Token :  =, Posbility: 0.3776
+Next Token : +=, Posbility: 0.1169
+Next Token : =, Posbility: 0.0333
+Next Token : +, Posbility: 0.0093
+Choose :  +=,  Posbility: 0.4440
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area +=
+---------------------------
+Next Token :  base, Posbility: 0.3167
+Next Token :  (, Posbility: 0.2813
+Next Token :  i, Posbility: 0.0667
+Next Token :  4, Posbility: 0.0611
+Next Token :  2, Posbility: 0.0483
+Choose :  base,  Posbility: 0.3167
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base
+---------------------------
+Next Token :  *, Posbility: 0.3915
+Next Token : *, Posbility: 0.3809
+Next Token : **, Posbility: 0.0826
+Next Token : 
+, Posbility: 0.0678
+Next Token :  **, Posbility: 0.0317
+Choose :  *,  Posbility: 0.3915
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base *
+---------------------------
+Next Token :  i, Posbility: 0.5429
+Next Token :  (, Posbility: 0.2268
+Next Token :  height, Posbility: 0.0543
+Next Token :  pow, Posbility: 0.0267
+Next Token :  2, Posbility: 0.0251
+Choose :  i,  Posbility: 0.5429
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+---------------------------
+Next Token : 
+, Posbility: 0.7904
+Next Token :  *, Posbility: 0.0495
+Next Token : 
+
+, Posbility: 0.0304
+Next Token :  /, Posbility: 0.0258
+Next Token :  , Posbility: 0.0221
+Choose : 
+,  Posbility: 0.7904
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+
+---------------------------
+Next Token :     , Posbility: 0.9061
+Next Token :         , Posbility: 0.0900
+Next Token : 
+, Posbility: 0.0005
+Next Token :             , Posbility: 0.0004
+Next Token :    , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9061
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    
+---------------------------
+Next Token : return, Posbility: 0.7557
+Next Token : area, Posbility: 0.1247
+Next Token : print, Posbility: 0.0534
+Next Token : for, Posbility: 0.0271
+Next Token : 
+, Posbility: 0.0183
+Choose : return,  Posbility: 0.7557
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return
+---------------------------
+Next Token :  area, Posbility: 0.9370
+Next Token : (, Posbility: 0.0198
+Next Token :  (, Posbility: 0.0125
+Next Token :  round, Posbility: 0.0098
+Next Token :  abs, Posbility: 0.0036
+Choose :  area,  Posbility: 0.9370
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+---------------------------
+Next Token : 
+, Posbility: 0.7952
+Next Token : 
+
+, Posbility: 0.1119
+Next Token : <|endoftext|>, Posbility: 0.0248
+Next Token :  , Posbility: 0.0172
+Next Token :  *, Posbility: 0.0110
+Choose : 
+,  Posbility: 0.7952
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+---------------------------
+Next Token : 
+, Posbility: 0.6358
+Next Token : print, Posbility: 0.1477
+Next Token : #, Posbility: 0.0326
+Next Token :     , Posbility: 0.0312
+Next Token : def, Posbility: 0.0298
+Choose : 
+,  Posbility: 0.6358
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9049
+Next Token : 
+
+, Posbility: 0.0300
+Next Token :     , Posbility: 0.0267
+Next Token : <|endoftext|>, Posbility: 0.0266
+Next Token :   , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.9049
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4778
+Next Token : print, Posbility: 0.1802
+Next Token : #, Posbility: 0.1079
+Next Token : def, Posbility: 0.0692
+Next Token : 
+, Posbility: 0.0479
+Choose : '',  Posbility: 0.4778
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : This, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8694
+Next Token :  Write, Posbility: 0.0300
+Next Token : 
+, Posbility: 0.0123
+Next Token : Find, Posbility: 0.0056
+Next Token : write, Posbility: 0.0044
+Choose : Write,  Posbility: 0.8694
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9869
+Next Token :  your, Posbility: 0.0052
+Next Token :  an, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0014
+Next Token :  python, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9869
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9534
+Next Token :  function, Posbility: 0.0223
+Next Token :  Python, Posbility: 0.0138
+Next Token :  program, Posbility: 0.0021
+Next Token :  recursive, Posbility: 0.0008
+Choose :  python,  Posbility: 0.9534
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9738
+Next Token :  program, Posbility: 0.0144
+Next Token :  fun, Posbility: 0.0022
+Next Token :  script, Posbility: 0.0018
+Next Token :  code, Posbility: 0.0008
+Choose :  function,  Posbility: 0.9738
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8671
+Next Token :  that, Posbility: 0.0878
+Next Token :  which, Posbility: 0.0132
+Next Token :  for, Posbility: 0.0034
+Next Token :  called, Posbility: 0.0024
+Choose :  to,  Posbility: 0.8671
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to
+---------------------------
+Next Token :  find, Posbility: 0.2808
+Next Token :  calculate, Posbility: 0.1579
+Next Token :  print, Posbility: 0.1023
+Next Token :  check, Posbility: 0.0633
+Next Token :  compute, Posbility: 0.0519
+Choose :  find,  Posbility: 0.2808
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find
+---------------------------
+Next Token :  the, Posbility: 0.9192
+Next Token :  area, Posbility: 0.0147
+Next Token :  a, Posbility: 0.0055
+Next Token :  all, Posbility: 0.0032
+Next Token :  how, Posbility: 0.0031
+Choose :  the,  Posbility: 0.9192
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the
+---------------------------
+Next Token :  surface, Posbility: 0.3152
+Next Token :  perimeter, Posbility: 0.1496
+Next Token :  area, Posbility: 0.1355
+Next Token :  volume, Posbility: 0.0677
+Next Token :  number, Posbility: 0.0388
+Choose :  surface,  Posbility: 0.3152
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface
+---------------------------
+Next Token :  area, Posbility: 0.9734
+Next Token :  of, Posbility: 0.0065
+Next Token :  perimeter, Posbility: 0.0041
+Next Token :  volume, Posbility: 0.0019
+Next Token :  areas, Posbility: 0.0016
+Choose :  area,  Posbility: 0.9734
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area
+---------------------------
+Next Token :  of, Posbility: 0.9778
+Next Token :  for, Posbility: 0.0034
+Next Token : 
+, Posbility: 0.0023
+Next Token :  and, Posbility: 0.0019
+Next Token :  (, Posbility: 0.0019
+Choose :  of,  Posbility: 0.9778
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of
+---------------------------
+Next Token :  a, Posbility: 0.9329
+Next Token :  an, Posbility: 0.0220
+Next Token :  the, Posbility: 0.0071
+Next Token :  pyramid, Posbility: 0.0047
+Next Token :  triangle, Posbility: 0.0042
+Choose :  a,  Posbility: 0.9329
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a
+---------------------------
+Next Token :  pyramid, Posbility: 0.2872
+Next Token :  triangle, Posbility: 0.1284
+Next Token :  square, Posbility: 0.0977
+Next Token :  rectangle, Posbility: 0.0837
+Next Token :  cube, Posbility: 0.0701
+Choose :  pyramid,  Posbility: 0.2872
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid
+---------------------------
+Next Token :  with, Posbility: 0.8581
+Next Token :  of, Posbility: 0.0150
+Next Token : .', Posbility: 0.0139
+Next Token : ., Posbility: 0.0100
+Next Token :  where, Posbility: 0.0080
+Choose :  with,  Posbility: 0.8581
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with
+---------------------------
+Next Token :  a, Posbility: 0.7718
+Next Token :  given, Posbility: 0.0480
+Next Token :  base, Posbility: 0.0394
+Next Token :  the, Posbility: 0.0184
+Next Token :  two, Posbility: 0.0098
+Choose :  a,  Posbility: 0.7718
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a
+---------------------------
+Next Token :  given, Posbility: 0.9154
+Next Token :  base, Posbility: 0.0454
+Next Token :  certain, Posbility: 0.0049
+Next Token :  height, Posbility: 0.0030
+Next Token :  specified, Posbility: 0.0027
+Choose :  given,  Posbility: 0.9154
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given
+---------------------------
+Next Token :  base, Posbility: 0.9026
+Next Token :  height, Posbility: 0.0215
+Next Token :  edge, Posbility: 0.0153
+Next Token :  number, Posbility: 0.0072
+Next Token :  width, Posbility: 0.0047
+Choose :  base,  Posbility: 0.9026
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base
+---------------------------
+Next Token :  edge, Posbility: 0.9478
+Next Token :  and, Posbility: 0.0263
+Next Token :  height, Posbility: 0.0076
+Next Token : 
+, Posbility: 0.0022
+Next Token :  size, Posbility: 0.0018
+Choose :  edge,  Posbility: 0.9478
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge
+---------------------------
+Next Token :  and, Posbility: 0.8878
+Next Token : .', Posbility: 0.0410
+Next Token :  height, Posbility: 0.0110
+Next Token : ., Posbility: 0.0067
+Next Token : '', Posbility: 0.0063
+Choose :  and,  Posbility: 0.8878
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge and
+---------------------------
+Next Token :  height, Posbility: 0.8861
+Next Token :  depth, Posbility: 0.0159
+Next Token :  width, Posbility: 0.0125
+Next Token :  base, Posbility: 0.0103
+Next Token : 
+, Posbility: 0.0066
+Choose :  height,  Posbility: 0.8861
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge and height
+---------------------------
+Next Token : .', Posbility: 0.7195
+Next Token : ., Posbility: 0.1375
+Next Token : '', Posbility: 0.0385
+Next Token :  and, Posbility: 0.0180
+Next Token :  using, Posbility: 0.0114
+Choose : .',  Posbility: 0.7195
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge and height.'
+---------------------------
+Next Token : '', Posbility: 0.9989
+Next Token : 
+, Posbility: 0.0007
+Next Token :  ', Posbility: 0.0002
+Next Token : '''', Posbility: 0.0000
+Next Token :  , Posbility: 0.0000
+Choose : '',  Posbility: 0.9989
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge and height.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9382
+Next Token : 
+
+, Posbility: 0.0393
+Next Token : def, Posbility: 0.0056
+Next Token :  , Posbility: 0.0054
+Next Token :     , Posbility: 0.0037
+Choose : 
+,  Posbility: 0.9382
+---------------------------
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge and height.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9245
+Next Token : 
+, Posbility: 0.0552
+Next Token : #, Posbility: 0.0073
+Next Token : import, Posbility: 0.0026
+Next Token : from, Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.044462203979492
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to find the surface area of a square pyramid with a given base edge and height.'''
+def surfaceArea(base,height):
+    area = 0
+    for i in range(1,height+1):
+        area += base * i
+    return area
+
+
+'''Write a python function to find the surface area of a pyramid with a given base edge and height.'''
+

@@ -1,0 +1,614 @@
+<<<<<<<<<<<< 116 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.3416
+Next Token : ____, Posbility: 0.0691
+Next Token : ix, Posbility: 0.0567
+Next Token : 	, Posbility: 0.0459
+Next Token : 
+
+, Posbility: 0.0326
+syntax error : 
+
+Choose : ____, Posbility: 0.0691
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____
+---------------------------
+Next Token : (, Posbility: 0.4560
+Next Token : count, Posbility: 0.1199
+Next Token : ():, Posbility: 0.0613
+Next Token : sub, Posbility: 0.0374
+Next Token :  (, Posbility: 0.0203
+Choose : (, Posbility: 0.4560
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(
+---------------------------
+Next Token : string, Posbility: 0.2277
+Next Token : str, Posbility: 0.2052
+Next Token : s, Posbility: 0.1798
+Next Token : a, Posbility: 0.0402
+Next Token : text, Posbility: 0.0393
+Choose : string, Posbility: 0.2277
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string
+---------------------------
+Next Token : ):, Posbility: 0.6787
+Next Token : ,, Posbility: 0.2156
+Next Token : :, Posbility: 0.0341
+Next Token : 1, Posbility: 0.0336
+Next Token : _, Posbility: 0.0191
+Choose : ):, Posbility: 0.6787
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+---------------------------
+Next Token : 
+, Posbility: 0.8535
+Next Token : 
+
+, Posbility: 0.0539
+Next Token :  , Posbility: 0.0454
+Next Token : , Posbility: 0.0258
+Next Token :   , Posbility: 0.0042
+Choose : 
+, Posbility: 0.8535
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+
+---------------------------
+Next Token :     , Posbility: 0.7265
+Next Token : 	, Posbility: 0.1300
+Next Token :   , Posbility: 0.0733
+Next Token :    , Posbility: 0.0213
+Next Token : 
+, Posbility: 0.0079
+Choose :     , Posbility: 0.7265
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    
+---------------------------
+Next Token : count, Posbility: 0.1747
+Next Token : '', Posbility: 0.1128
+Next Token : #, Posbility: 0.0624
+Next Token : sub, Posbility: 0.0513
+Next Token : counter, Posbility: 0.0401
+Choose : count, Posbility: 0.1747
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count
+---------------------------
+Next Token :  =, Posbility: 0.7383
+Next Token : =, Posbility: 0.1676
+Next Token : _, Posbility: 0.0511
+Next Token : s, Posbility: 0.0092
+Next Token : 1, Posbility: 0.0040
+Choose :  =, Posbility: 0.7383
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count =
+---------------------------
+Next Token :  0, Posbility: 0.9284
+Next Token :  len, Posbility: 0.0096
+Next Token : 0, Posbility: 0.0091
+Next Token :  1, Posbility: 0.0087
+Next Token :  [], Posbility: 0.0058
+Choose :  0, Posbility: 0.9284
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+---------------------------
+Next Token : 
+, Posbility: 0.9188
+Next Token : 
+
+, Posbility: 0.0304
+Next Token :  , Posbility: 0.0262
+Next Token : ;, Posbility: 0.0100
+Next Token :  #, Posbility: 0.0050
+Choose : 
+, Posbility: 0.9188
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+
+---------------------------
+Next Token :     , Posbility: 0.9950
+Next Token :         , Posbility: 0.0008
+Next Token : 	, Posbility: 0.0007
+Next Token :    , Posbility: 0.0006
+Next Token :  , Posbility: 0.0006
+Choose :     , Posbility: 0.9950
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    
+---------------------------
+Next Token : for, Posbility: 0.6484
+Next Token : if, Posbility: 0.0278
+Next Token : i, Posbility: 0.0267
+Next Token : sub, Posbility: 0.0218
+Next Token : #, Posbility: 0.0192
+Choose : for, Posbility: 0.6484
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for
+---------------------------
+Next Token :  i, Posbility: 0.7713
+Next Token :  char, Posbility: 0.0436
+Next Token :  x, Posbility: 0.0376
+Next Token :  index, Posbility: 0.0168
+Next Token :  s, Posbility: 0.0120
+Choose :  i, Posbility: 0.7713
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i
+---------------------------
+Next Token :  in, Posbility: 0.9830
+Next Token : ,, Posbility: 0.0153
+Next Token : 1, Posbility: 0.0004
+Next Token : _, Posbility: 0.0004
+Next Token :   , Posbility: 0.0004
+Choose :  in, Posbility: 0.9830
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in
+---------------------------
+Next Token :  range, Posbility: 0.9020
+Next Token :  string, Posbility: 0.0831
+Next Token :  list, Posbility: 0.0034
+Next Token :  (, Posbility: 0.0016
+Next Token :  [, Posbility: 0.0014
+Choose :  range, Posbility: 0.9020
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range
+---------------------------
+Next Token : (, Posbility: 0.9715
+Next Token :  (, Posbility: 0.0258
+Next Token : ((, Posbility: 0.0011
+Next Token : (-, Posbility: 0.0010
+Next Token : ():, Posbility: 0.0001
+Choose : (, Posbility: 0.9715
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(
+---------------------------
+Next Token : len, Posbility: 0.7811
+Next Token : 0, Posbility: 0.1818
+Next Token : 1, Posbility: 0.0233
+Next Token :  len, Posbility: 0.0052
+Next Token : int, Posbility: 0.0014
+Choose : len, Posbility: 0.7811
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len
+---------------------------
+Next Token : (, Posbility: 0.9995
+Next Token : ((, Posbility: 0.0001
+Next Token : (', Posbility: 0.0001
+Next Token :  (, Posbility: 0.0000
+Next Token : (-, Posbility: 0.0000
+Choose : (, Posbility: 0.9995
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(
+---------------------------
+Next Token : string, Posbility: 0.9920
+Next Token : s, Posbility: 0.0027
+Next Token : str, Posbility: 0.0014
+Next Token : list, Posbility: 0.0010
+Next Token : __, Posbility: 0.0009
+Choose : string, Posbility: 0.9920
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string
+---------------------------
+Next Token : ), Posbility: 0.7934
+Next Token : )-, Posbility: 0.1932
+Next Token : )+, Posbility: 0.0057
+Next Token : )), Posbility: 0.0037
+Next Token : ),, Posbility: 0.0015
+Choose : ), Posbility: 0.7934
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)
+---------------------------
+Next Token : ):, Posbility: 0.9183
+Next Token :  -, Posbility: 0.0770
+Next Token :  +, Posbility: 0.0022
+Next Token : //, Posbility: 0.0018
+Next Token :  //, Posbility: 0.0003
+Choose : ):, Posbility: 0.9183
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+---------------------------
+Next Token : 
+, Posbility: 0.9778
+Next Token : 
+
+, Posbility: 0.0065
+Next Token :  , Posbility: 0.0056
+Next Token :  #, Posbility: 0.0028
+Next Token :   , Posbility: 0.0018
+Choose : 
+, Posbility: 0.9778
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+
+---------------------------
+Next Token :         , Posbility: 0.9798
+Next Token :       , Posbility: 0.0060
+Next Token :             , Posbility: 0.0039
+Next Token :        , Posbility: 0.0033
+Next Token :     , Posbility: 0.0025
+Choose :         , Posbility: 0.9798
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        
+---------------------------
+Next Token : if, Posbility: 0.4374
+Next Token : for, Posbility: 0.4101
+Next Token : count, Posbility: 0.0248
+Next Token : #, Posbility: 0.0158
+Next Token : j, Posbility: 0.0139
+Choose : if, Posbility: 0.4374
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if
+---------------------------
+Next Token :  string, Posbility: 0.7837
+Next Token : (, Posbility: 0.0619
+Next Token :  (, Posbility: 0.0507
+Next Token :  not, Posbility: 0.0336
+Next Token :  len, Posbility: 0.0316
+Choose :  string, Posbility: 0.7837
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string
+---------------------------
+Next Token : [, Posbility: 0.9896
+Next Token : ., Posbility: 0.0067
+Next Token :  ==, Posbility: 0.0021
+Next Token :  [, Posbility: 0.0005
+Next Token : ==, Posbility: 0.0004
+Choose : [, Posbility: 0.9896
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[
+---------------------------
+Next Token : i, Posbility: 0.9776
+Next Token : :, Posbility: 0.0136
+Next Token : 0, Posbility: 0.0072
+Next Token : len, Posbility: 0.0003
+Next Token : (, Posbility: 0.0002
+Choose : i, Posbility: 0.9776
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i
+---------------------------
+Next Token : ], Posbility: 0.8332
+Next Token : :, Posbility: 0.1096
+Next Token : ]., Posbility: 0.0222
+Next Token : :], Posbility: 0.0200
+Next Token : +, Posbility: 0.0043
+Choose : ], Posbility: 0.8332
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i]
+---------------------------
+Next Token :  ==, Posbility: 0.4375
+Next Token : !=, Posbility: 0.4039
+Next Token : ==, Posbility: 0.0575
+Next Token : !, Posbility: 0.0346
+Next Token :  in, Posbility: 0.0317
+Choose :  ==, Posbility: 0.4375
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] ==
+---------------------------
+Next Token :  string, Posbility: 0.3717
+Next Token :  ', Posbility: 0.3426
+Next Token :  ", Posbility: 0.2445
+Next Token :  "#, Posbility: 0.0107
+Next Token : ', Posbility: 0.0054
+Choose :  string, Posbility: 0.3717
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string
+---------------------------
+Next Token : [, Posbility: 0.9947
+Next Token :  [, Posbility: 0.0032
+Next Token : :, Posbility: 0.0015
+Next Token : ., Posbility: 0.0001
+Next Token :  and, Posbility: 0.0001
+Choose : [, Posbility: 0.9947
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[
+---------------------------
+Next Token : i, Posbility: 0.8913
+Next Token : 0, Posbility: 0.0713
+Next Token : -, Posbility: 0.0170
+Next Token : len, Posbility: 0.0069
+Next Token : :, Posbility: 0.0033
+Choose : i, Posbility: 0.8913
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i
+---------------------------
+Next Token : +, Posbility: 0.6200
+Next Token :  +, Posbility: 0.1277
+Next Token : ]:, Posbility: 0.0658
+Next Token : -, Posbility: 0.0493
+Next Token : ][, Posbility: 0.0449
+Choose : +, Posbility: 0.6200
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+
+---------------------------
+Next Token : 1, Posbility: 0.9949
+Next Token : len, Posbility: 0.0025
+Next Token : 2, Posbility: 0.0013
+Next Token :  1, Posbility: 0.0004
+Next Token : 3, Posbility: 0.0002
+Choose : 1, Posbility: 0.9949
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1
+---------------------------
+Next Token : ]:, Posbility: 0.8909
+Next Token : ], Posbility: 0.0916
+Next Token : :, Posbility: 0.0078
+Next Token : ][, Posbility: 0.0036
+Next Token : ]., Posbility: 0.0035
+Choose : ]:, Posbility: 0.8909
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+---------------------------
+Next Token : 
+, Posbility: 0.9728
+Next Token :  , Posbility: 0.0075
+Next Token :  count, Posbility: 0.0065
+Next Token :  #, Posbility: 0.0033
+Next Token :   , Posbility: 0.0020
+Choose : 
+, Posbility: 0.9728
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+
+---------------------------
+Next Token :             , Posbility: 0.9864
+Next Token :            , Posbility: 0.0068
+Next Token :              , Posbility: 0.0019
+Next Token :                 , Posbility: 0.0018
+Next Token :           , Posbility: 0.0016
+Choose :             , Posbility: 0.9864
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            
+---------------------------
+Next Token : count, Posbility: 0.7922
+Next Token : continue, Posbility: 0.1207
+Next Token : pass, Posbility: 0.0645
+Next Token : if, Posbility: 0.0055
+Next Token : break, Posbility: 0.0044
+Choose : count, Posbility: 0.7922
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count
+---------------------------
+Next Token :  +=, Posbility: 0.6898
+Next Token :  =, Posbility: 0.1863
+Next Token : +=, Posbility: 0.1105
+Next Token : =, Posbility: 0.0080
+Next Token :  -=, Posbility: 0.0020
+Choose :  +=, Posbility: 0.6898
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count +=
+---------------------------
+Next Token :  1, Posbility: 0.8813
+Next Token : 1, Posbility: 0.0645
+Next Token :  2, Posbility: 0.0469
+Next Token : 2, Posbility: 0.0035
+Next Token :  0, Posbility: 0.0011
+Choose :  1, Posbility: 0.8813
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count += 1
+---------------------------
+Next Token : 
+, Posbility: 0.9630
+Next Token : 
+
+, Posbility: 0.0187
+Next Token :  , Posbility: 0.0077
+Next Token :  #, Posbility: 0.0018
+Next Token : ;, Posbility: 0.0017
+Choose : 
+, Posbility: 0.9630
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count += 1
+
+---------------------------
+Next Token :     , Posbility: 0.6303
+Next Token :         , Posbility: 0.3102
+Next Token :             , Posbility: 0.0525
+Next Token : 
+, Posbility: 0.0018
+Next Token : print, Posbility: 0.0010
+Choose :     , Posbility: 0.6303
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count += 1
+    
+---------------------------
+Next Token : return, Posbility: 0.8795
+Next Token : print, Posbility: 0.0832
+Next Token : 
+, Posbility: 0.0110
+Next Token : if, Posbility: 0.0104
+Next Token : count, Posbility: 0.0031
+Choose : return, Posbility: 0.8795
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count += 1
+    return
+---------------------------
+Next Token :  count, Posbility: 0.9658
+Next Token : (, Posbility: 0.0153
+Next Token :  (, Posbility: 0.0102
+Next Token :  int, Posbility: 0.0014
+Next Token :  str, Posbility: 0.0013
+Choose :  count, Posbility: 0.9658
+---------------------------
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count += 1
+    return count
+---------------------------
+Next Token : 
+, Posbility: 0.8241
+Next Token : 
+
+, Posbility: 0.1206
+Next Token :  , Posbility: 0.0175
+Next Token : <|endoftext|>, Posbility: 0.0144
+Next Token : +, Posbility: 0.0029
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.246709823608398
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to count the number of non-empty substrings of a given string.'''
+def ____(string):
+    count = 0
+    for i in range(len(string)):
+        if string[i] == string[i+1]:
+            count += 1
+    return count
+
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>

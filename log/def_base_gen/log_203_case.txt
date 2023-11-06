@@ -1,0 +1,829 @@
+<<<<<<<<<<<< 203 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  extract, Posbility: 0.4528
+Next Token :  n, Posbility: 0.1182
+Next Token :  get, Posbility: 0.0839
+Next Token :  find, Posbility: 0.0511
+Next Token :  list, Posbility: 0.0127
+Choose :  extract,  Posbility: 0.4528
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract
+---------------------------
+Next Token : _, Posbility: 0.6488
+Next Token : (, Posbility: 0.2252
+Next Token : N, Posbility: 0.0392
+Next Token : Element, Posbility: 0.0131
+Next Token : n, Posbility: 0.0074
+Choose : _,  Posbility: 0.6488
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_
+---------------------------
+Next Token : n, Posbility: 0.7492
+Next Token : from, Posbility: 0.0437
+Next Token : element, Posbility: 0.0324
+Next Token : e, Posbility: 0.0253
+Next Token : second, Posbility: 0.0107
+Choose : n,  Posbility: 0.7492
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_n
+---------------------------
+Next Token : th, Posbility: 0.9772
+Next Token : _, Posbility: 0.0126
+Next Token : (, Posbility: 0.0055
+Next Token : umbers, Posbility: 0.0016
+Next Token : ums, Posbility: 0.0008
+Choose : th,  Posbility: 0.9772
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth
+---------------------------
+Next Token : (, Posbility: 0.6067
+Next Token : _, Posbility: 0.3810
+Next Token : from, Posbility: 0.0026
+Next Token :  (, Posbility: 0.0022
+Next Token : ():, Posbility: 0.0012
+Choose : (,  Posbility: 0.6067
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(
+---------------------------
+Next Token : l, Posbility: 0.2713
+Next Token : list, Posbility: 0.1657
+Next Token : n, Posbility: 0.1138
+Next Token : input, Posbility: 0.0545
+Next Token : a, Posbility: 0.0501
+Choose : l,  Posbility: 0.2713
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(l
+---------------------------
+Next Token : st, Posbility: 0.8548
+Next Token : ,, Posbility: 0.1225
+Next Token : :, Posbility: 0.0090
+Next Token : 1, Posbility: 0.0046
+Next Token : _, Posbility: 0.0028
+Choose : st,  Posbility: 0.8548
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst
+---------------------------
+Next Token : ,, Posbility: 0.9320
+Next Token : :, Posbility: 0.0263
+Next Token : _, Posbility: 0.0187
+Next Token : ):, Posbility: 0.0113
+Next Token : 1, Posbility: 0.0075
+Choose : ,,  Posbility: 0.9320
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst,
+---------------------------
+Next Token :  n, Posbility: 0.7633
+Next Token : n, Posbility: 0.1015
+Next Token :  index, Posbility: 0.0274
+Next Token :  id, Posbility: 0.0157
+Next Token :  num, Posbility: 0.0106
+Choose :  n,  Posbility: 0.7633
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n
+---------------------------
+Next Token : ):, Posbility: 0.7911
+Next Token : th, Posbility: 0.1433
+Next Token : ,, Posbility: 0.0470
+Next Token : =, Posbility: 0.0065
+Next Token : _, Posbility: 0.0034
+Choose : ):,  Posbility: 0.7911
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+---------------------------
+Next Token : 
+, Posbility: 0.9401
+Next Token : , Posbility: 0.0215
+Next Token : 
+
+, Posbility: 0.0188
+Next Token :  , Posbility: 0.0109
+Next Token :   , Posbility: 0.0037
+Choose : 
+,  Posbility: 0.9401
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+
+---------------------------
+Next Token :     , Posbility: 0.9341
+Next Token :   , Posbility: 0.0400
+Next Token : 	, Posbility: 0.0170
+Next Token :         , Posbility: 0.0037
+Next Token :    , Posbility: 0.0024
+Choose :     ,  Posbility: 0.9341
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    
+---------------------------
+Next Token : '', Posbility: 0.2719
+Next Token : return, Posbility: 0.2603
+Next Token : if, Posbility: 0.1199
+Next Token : l, Posbility: 0.0552
+Next Token : #, Posbility: 0.0425
+Choose : '',  Posbility: 0.2719
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Next Token : '/, Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''
+---------------------------
+Next Token : Ext, Posbility: 0.1495
+Next Token : 
+, Posbility: 0.1493
+Next Token : Return, Posbility: 0.1065
+Next Token : Take, Posbility: 0.0431
+Next Token : l, Posbility: 0.0365
+Choose : Ext,  Posbility: 0.1495
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Ext
+---------------------------
+Next Token : ract, Posbility: 0.9963
+Next Token : raction, Posbility: 0.0012
+Next Token : racted, Posbility: 0.0008
+Next Token : ractor, Posbility: 0.0004
+Next Token : r, Posbility: 0.0002
+Choose : ract,  Posbility: 0.9963
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract
+---------------------------
+Next Token :  the, Posbility: 0.6744
+Next Token :  n, Posbility: 0.1224
+Next Token : s, Posbility: 0.0926
+Next Token :  a, Posbility: 0.0272
+Next Token :  elements, Posbility: 0.0119
+Choose :  the,  Posbility: 0.6744
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the
+---------------------------
+Next Token :  n, Posbility: 0.9298
+Next Token :  first, Posbility: 0.0148
+Next Token :  given, Posbility: 0.0129
+Next Token :  element, Posbility: 0.0059
+Next Token :  N, Posbility: 0.0052
+Choose :  n,  Posbility: 0.9298
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the n
+---------------------------
+Next Token : th, Posbility: 0.9936
+Next Token : -, Posbility: 0.0029
+Next Token : 't, Posbility: 0.0011
+Next Token :  th, Posbility: 0.0008
+Next Token : +, Posbility: 0.0002
+Choose : th,  Posbility: 0.9936
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth
+---------------------------
+Next Token :  element, Posbility: 0.9112
+Next Token :  item, Posbility: 0.0295
+Next Token :  ele, Posbility: 0.0110
+Next Token :  value, Posbility: 0.0071
+Next Token :  tuple, Posbility: 0.0067
+Choose :  element,  Posbility: 0.9112
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element
+---------------------------
+Next Token :  from, Posbility: 0.7524
+Next Token :  of, Posbility: 0.1363
+Next Token :  in, Posbility: 0.0545
+Next Token : '', Posbility: 0.0117
+Next Token : .', Posbility: 0.0059
+Choose :  from,  Posbility: 0.7524
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from
+---------------------------
+Next Token :  a, Posbility: 0.8920
+Next Token :  the, Posbility: 0.0635
+Next Token :  list, Posbility: 0.0147
+Next Token :  given, Posbility: 0.0129
+Next Token :  l, Posbility: 0.0078
+Choose :  a,  Posbility: 0.8920
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a
+---------------------------
+Next Token :  given, Posbility: 0.9537
+Next Token :  list, Posbility: 0.0364
+Next Token :  tuple, Posbility: 0.0061
+Next Token :  give, Posbility: 0.0007
+Next Token :  sequence, Posbility: 0.0003
+Choose :  given,  Posbility: 0.9537
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given
+---------------------------
+Next Token :  list, Posbility: 0.9894
+Next Token :  tuple, Posbility: 0.0032
+Next Token :  l, Posbility: 0.0013
+Next Token :  tu, Posbility: 0.0006
+Next Token :  lists, Posbility: 0.0004
+Choose :  list,  Posbility: 0.9894
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list
+---------------------------
+Next Token :  of, Posbility: 0.8550
+Next Token : .', Posbility: 0.0691
+Next Token : ., Posbility: 0.0330
+Next Token : '', Posbility: 0.0129
+Next Token : 
+, Posbility: 0.0046
+Choose :  of,  Posbility: 0.8550
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of
+---------------------------
+Next Token :  tu, Posbility: 0.9780
+Next Token :  tuple, Posbility: 0.0144
+Next Token :  elements, Posbility: 0.0008
+Next Token :  Tu, Posbility: 0.0007
+Next Token : tu, Posbility: 0.0005
+Choose :  tu,  Posbility: 0.9780
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tu
+---------------------------
+Next Token : ples, Posbility: 0.9999
+Next Token : pl, Posbility: 0.0001
+Next Token : pless, Posbility: 0.0000
+Next Token : pe, Posbility: 0.0000
+Next Token : ple, Posbility: 0.0000
+Choose : ples,  Posbility: 0.9999
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples
+---------------------------
+Next Token : .', Posbility: 0.4614
+Next Token : ., Posbility: 0.3144
+Next Token : '', Posbility: 0.1285
+Next Token :  and, Posbility: 0.0203
+Next Token : 
+
+, Posbility: 0.0147
+Choose : .',  Posbility: 0.4614
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'
+---------------------------
+Next Token : '', Posbility: 0.9985
+Next Token : 
+, Posbility: 0.0005
+Next Token : 
+
+, Posbility: 0.0005
+Next Token :  ', Posbility: 0.0002
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9985
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9333
+Next Token : 
+
+, Posbility: 0.0612
+Next Token :  , Posbility: 0.0034
+Next Token :     , Posbility: 0.0006
+Next Token :   , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9333
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9946
+Next Token :   , Posbility: 0.0013
+Next Token :         , Posbility: 0.0010
+Next Token :    , Posbility: 0.0005
+Next Token : 	, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9946
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    
+---------------------------
+Next Token : return, Posbility: 0.4757
+Next Token : if, Posbility: 0.1389
+Next Token : l, Posbility: 0.0802
+Next Token : #, Posbility: 0.0310
+Next Token : try, Posbility: 0.0282
+Choose : return,  Posbility: 0.4757
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return
+---------------------------
+Next Token :  l, Posbility: 0.8255
+Next Token :  (, Posbility: 0.0325
+Next Token :  list, Posbility: 0.0289
+Next Token : (, Posbility: 0.0275
+Next Token :  tuple, Posbility: 0.0262
+Choose :  l,  Posbility: 0.8255
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return l
+---------------------------
+Next Token : st, Posbility: 0.9999
+Next Token : [, Posbility: 0.0000
+Next Token : sts, Posbility: 0.0000
+Next Token : ts, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : st,  Posbility: 0.9999
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst
+---------------------------
+Next Token : [, Posbility: 0.9951
+Next Token : ., Posbility: 0.0026
+Next Token :  [, Posbility: 0.0012
+Next Token : [[, Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Choose : [,  Posbility: 0.9951
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[
+---------------------------
+Next Token : n, Posbility: 0.9321
+Next Token : (, Posbility: 0.0259
+Next Token : len, Posbility: 0.0118
+Next Token : int, Posbility: 0.0110
+Next Token : -, Posbility: 0.0101
+Choose : n,  Posbility: 0.9321
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n
+---------------------------
+Next Token : ], Posbility: 0.8180
+Next Token : -, Posbility: 0.0698
+Next Token : ][, Posbility: 0.0662
+Next Token :  -, Posbility: 0.0185
+Next Token :  %, Posbility: 0.0036
+Choose : ],  Posbility: 0.8180
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+---------------------------
+Next Token : 
+, Posbility: 0.6380
+Next Token : 
+
+, Posbility: 0.2225
+Next Token : <|endoftext|>, Posbility: 0.0982
+Next Token :  if, Posbility: 0.0163
+Next Token :  #, Posbility: 0.0074
+Choose : 
+,  Posbility: 0.6380
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+---------------------------
+Next Token : 
+, Posbility: 0.8007
+Next Token : <|endoftext|>, Posbility: 0.0516
+Next Token :     , Posbility: 0.0389
+Next Token : print, Posbility: 0.0236
+Next Token : #, Posbility: 0.0151
+Choose : 
+,  Posbility: 0.8007
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9590
+Next Token : <|endoftext|>, Posbility: 0.0167
+Next Token : 
+
+, Posbility: 0.0119
+Next Token :     , Posbility: 0.0094
+Next Token :  , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9590
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3097
+Next Token : #, Posbility: 0.2544
+Next Token : def, Posbility: 0.2270
+Next Token : print, Posbility: 0.0534
+Next Token : if, Posbility: 0.0334
+Choose : '',  Posbility: 0.3097
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7275
+Next Token : 
+, Posbility: 0.0195
+Next Token :  Write, Posbility: 0.0174
+Next Token : Create, Posbility: 0.0147
+Next Token : Test, Posbility: 0.0125
+Choose : Write,  Posbility: 0.7275
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9846
+Next Token :  your, Posbility: 0.0040
+Next Token :  an, Posbility: 0.0032
+Next Token :  the, Posbility: 0.0020
+Next Token :  function, Posbility: 0.0013
+Choose :  a,  Posbility: 0.9846
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9380
+Next Token :  Python, Posbility: 0.0136
+Next Token :  program, Posbility: 0.0108
+Next Token :  python, Posbility: 0.0053
+Next Token :  recursive, Posbility: 0.0035
+Choose :  function,  Posbility: 0.9380
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7190
+Next Token :  that, Posbility: 0.1952
+Next Token :  named, Posbility: 0.0120
+Next Token :  which, Posbility: 0.0103
+Next Token :  called, Posbility: 0.0099
+Choose :  to,  Posbility: 0.7190
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.0741
+Next Token :  remove, Posbility: 0.0665
+Next Token :  print, Posbility: 0.0654
+Next Token :  merge, Posbility: 0.0525
+Next Token :  sort, Posbility: 0.0507
+Choose :  find,  Posbility: 0.0741
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.7316
+Next Token :  a, Posbility: 0.0311
+Next Token :  all, Posbility: 0.0307
+Next Token :  out, Posbility: 0.0303
+Next Token :  whether, Posbility: 0.0216
+Choose :  the,  Posbility: 0.7316
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  n, Posbility: 0.2431
+Next Token :  length, Posbility: 0.0598
+Next Token :  sum, Posbility: 0.0583
+Next Token :  maximum, Posbility: 0.0490
+Next Token :  index, Posbility: 0.0444
+Choose :  n,  Posbility: 0.2431
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the n
+---------------------------
+Next Token : th, Posbility: 0.9374
+Next Token : -, Posbility: 0.0460
+Next Token : 't, Posbility: 0.0014
+Next Token :  most, Posbility: 0.0013
+Next Token :  first, Posbility: 0.0012
+Choose : th,  Posbility: 0.9374
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth
+---------------------------
+Next Token :  element, Posbility: 0.2620
+Next Token :  occurrence, Posbility: 0.2263
+Next Token :  value, Posbility: 0.0544
+Next Token :  index, Posbility: 0.0493
+Next Token :  largest, Posbility: 0.0401
+Choose :  element,  Posbility: 0.2620
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element
+---------------------------
+Next Token :  in, Posbility: 0.4550
+Next Token :  from, Posbility: 0.2587
+Next Token :  of, Posbility: 0.1891
+Next Token :  with, Posbility: 0.0144
+Next Token : .', Posbility: 0.0141
+Choose :  in,  Posbility: 0.4550
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in
+---------------------------
+Next Token :  a, Posbility: 0.8955
+Next Token :  the, Posbility: 0.0737
+Next Token :  an, Posbility: 0.0083
+Next Token :  list, Posbility: 0.0054
+Next Token :  given, Posbility: 0.0029
+Choose :  a,  Posbility: 0.8955
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a
+---------------------------
+Next Token :  given, Posbility: 0.7163
+Next Token :  list, Posbility: 0.2137
+Next Token :  tuple, Posbility: 0.0294
+Next Token :  sorted, Posbility: 0.0071
+Next Token :  dictionary, Posbility: 0.0049
+Choose :  given,  Posbility: 0.7163
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given
+---------------------------
+Next Token :  list, Posbility: 0.9085
+Next Token :  array, Posbility: 0.0276
+Next Token :  sorted, Posbility: 0.0128
+Next Token :  sequence, Posbility: 0.0089
+Next Token :  iter, Posbility: 0.0048
+Choose :  list,  Posbility: 0.9085
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list
+---------------------------
+Next Token :  of, Posbility: 0.4745
+Next Token : .', Posbility: 0.4401
+Next Token : ., Posbility: 0.0451
+Next Token : ,, Posbility: 0.0048
+Next Token : '', Posbility: 0.0041
+Choose :  of,  Posbility: 0.4745
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of
+---------------------------
+Next Token :  tu, Posbility: 0.6899
+Next Token :  lists, Posbility: 0.1417
+Next Token :  numbers, Posbility: 0.0449
+Next Token :  diction, Posbility: 0.0321
+Next Token :  list, Posbility: 0.0115
+Choose :  tu,  Posbility: 0.6899
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of tu
+---------------------------
+Next Token : ples, Posbility: 1.0000
+Next Token : pl, Posbility: 0.0000
+Next Token : pless, Posbility: 0.0000
+Next Token : pe, Posbility: 0.0000
+Next Token : plets, Posbility: 0.0000
+Choose : ples,  Posbility: 1.0000
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of tuples
+---------------------------
+Next Token : .', Posbility: 0.8712
+Next Token : ., Posbility: 0.0797
+Next Token : ,, Posbility: 0.0055
+Next Token : '', Posbility: 0.0053
+Next Token : 
+, Posbility: 0.0049
+Choose : .',  Posbility: 0.8712
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of tuples.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of tuples.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9314
+Next Token : 
+
+, Posbility: 0.0601
+Next Token :  , Posbility: 0.0030
+Next Token :     , Posbility: 0.0016
+Next Token :   , Posbility: 0.0011
+Choose : 
+,  Posbility: 0.9314
+---------------------------
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of tuples.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9571
+Next Token : 
+, Posbility: 0.0277
+Next Token : #, Posbility: 0.0080
+Next Token : from, Posbility: 0.0019
+Next Token : import, Posbility: 0.0016
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 9.224143743515015
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to extract the nth element from a given list of tuples.'''
+def extract_nth(lst, n):
+    '''Extract the nth element from a given list of tuples.'''
+    return lst[n]
+
+
+'''Write a function to find the nth element in a given list of tuples.'''
+

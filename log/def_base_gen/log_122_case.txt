@@ -1,0 +1,1221 @@
+<<<<<<<<<<<< 122 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  compute, Posbility: 0.2031
+Next Token :  bab, Posbility: 0.1768
+Next Token :  sq, Posbility: 0.1235
+Next Token :  square, Posbility: 0.0978
+Next Token :  b, Posbility: 0.0473
+Choose :  compute,  Posbility: 0.2031
+'''Write a function for computing square roots using the babylonian method.'''
+def compute
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute
+---------------------------
+Next Token : _, Posbility: 0.7032
+Next Token : Square, Posbility: 0.1450
+Next Token : (, Posbility: 0.0655
+Next Token : Squ, Posbility: 0.0235
+Next Token : S, Posbility: 0.0146
+Choose : _,  Posbility: 0.7032
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_
+---------------------------
+Next Token : sq, Posbility: 0.4997
+Next Token : square, Posbility: 0.2792
+Next Token : root, Posbility: 0.0378
+Next Token : roots, Posbility: 0.0361
+Next Token : b, Posbility: 0.0269
+Choose : sq,  Posbility: 0.4997
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sq
+---------------------------
+Next Token : rt, Posbility: 0.8985
+Next Token : _, Posbility: 0.0330
+Next Token : r, Posbility: 0.0312
+Next Token : root, Posbility: 0.0111
+Next Token : (, Posbility: 0.0096
+Choose : rt,  Posbility: 0.8985
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt
+---------------------------
+Next Token : (, Posbility: 0.7612
+Next Token : _, Posbility: 0.1756
+Next Token : ():, Posbility: 0.0246
+Next Token :  (, Posbility: 0.0077
+Next Token : b, Posbility: 0.0063
+Choose : (,  Posbility: 0.7612
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(
+---------------------------
+Next Token : x, Posbility: 0.3837
+Next Token : a, Posbility: 0.1607
+Next Token : num, Posbility: 0.1025
+Next Token : n, Posbility: 0.0749
+Next Token : number, Posbility: 0.0549
+Choose : x,  Posbility: 0.3837
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x
+---------------------------
+Next Token : ):, Posbility: 0.7565
+Next Token : ,, Posbility: 0.1610
+Next Token : :, Posbility: 0.0450
+Next Token : 1, Posbility: 0.0132
+Next Token : _, Posbility: 0.0106
+Choose : ):,  Posbility: 0.7565
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+---------------------------
+Next Token : 
+, Posbility: 0.9311
+Next Token : , Posbility: 0.0245
+Next Token : 
+
+, Posbility: 0.0207
+Next Token :  , Posbility: 0.0101
+Next Token :  #, Posbility: 0.0043
+Choose : 
+,  Posbility: 0.9311
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+
+---------------------------
+Next Token :     , Posbility: 0.8692
+Next Token :   , Posbility: 0.0615
+Next Token : 	, Posbility: 0.0531
+Next Token :    , Posbility: 0.0087
+Next Token :         , Posbility: 0.0022
+Choose :     ,  Posbility: 0.8692
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    
+---------------------------
+Next Token : '', Posbility: 0.3749
+Next Token : if, Posbility: 0.1375
+Next Token : sq, Posbility: 0.0632
+Next Token : #, Posbility: 0.0601
+Next Token : return, Posbility: 0.0329
+Choose : '',  Posbility: 0.3749
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9994
+Next Token : '", Posbility: 0.0001
+Next Token :  (, Posbility: 0.0001
+Next Token : (, Posbility: 0.0001
+Next Token : ':, Posbility: 0.0001
+Choose : ',  Posbility: 0.9994
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''
+---------------------------
+Next Token : Comp, Posbility: 0.3357
+Next Token : 
+, Posbility: 0.1586
+Next Token : Return, Posbility: 0.0599
+Next Token : Function, Posbility: 0.0293
+Next Token : comp, Posbility: 0.0231
+Choose : Comp,  Posbility: 0.3357
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Comp
+---------------------------
+Next Token : ute, Posbility: 0.8631
+Next Token : utes, Posbility: 0.1366
+Next Token : ares, Posbility: 0.0001
+Next Token : uate, Posbility: 0.0000
+Next Token : ose, Posbility: 0.0000
+Choose : ute,  Posbility: 0.8631
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute
+---------------------------
+Next Token :  square, Posbility: 0.6155
+Next Token :  the, Posbility: 0.2886
+Next Token :  a, Posbility: 0.0166
+Next Token :  and, Posbility: 0.0165
+Next Token :  squares, Posbility: 0.0110
+Choose :  square,  Posbility: 0.6155
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square
+---------------------------
+Next Token :  roots, Posbility: 0.6636
+Next Token :  root, Posbility: 0.3148
+Next Token :  of, Posbility: 0.0072
+Next Token : -, Posbility: 0.0035
+Next Token :  rooted, Posbility: 0.0029
+Choose :  roots,  Posbility: 0.6636
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots
+---------------------------
+Next Token :  using, Posbility: 0.6002
+Next Token :  of, Posbility: 0.2520
+Next Token :  for, Posbility: 0.0271
+Next Token : ., Posbility: 0.0230
+Next Token : ,, Posbility: 0.0084
+Choose :  using,  Posbility: 0.6002
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using
+---------------------------
+Next Token :  the, Posbility: 0.8910
+Next Token :  bab, Posbility: 0.0589
+Next Token :  a, Posbility: 0.0113
+Next Token :  Babylon, Posbility: 0.0062
+Next Token :  B, Posbility: 0.0020
+Choose :  the,  Posbility: 0.8910
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the
+---------------------------
+Next Token :  bab, Posbility: 0.9442
+Next Token :  Babylon, Posbility: 0.0156
+Next Token :  Bab, Posbility: 0.0116
+Next Token :  b, Posbility: 0.0080
+Next Token :  baby, Posbility: 0.0019
+Choose :  bab,  Posbility: 0.9442
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the bab
+---------------------------
+Next Token : ylon, Posbility: 0.9984
+Next Token : yl, Posbility: 0.0004
+Next Token : yle, Posbility: 0.0002
+Next Token : el, Posbility: 0.0001
+Next Token : oon, Posbility: 0.0000
+Choose : ylon,  Posbility: 0.9984
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylon
+---------------------------
+Next Token : ian, Posbility: 0.9942
+Next Token :  method, Posbility: 0.0021
+Next Token : ien, Posbility: 0.0009
+Next Token : ians, Posbility: 0.0005
+Next Token : ain, Posbility: 0.0002
+Choose : ian,  Posbility: 0.9942
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian
+---------------------------
+Next Token :  method, Posbility: 0.9676
+Next Token :  algorithm, Posbility: 0.0143
+Next Token :  approach, Posbility: 0.0023
+Next Token :  Method, Posbility: 0.0019
+Next Token :  formula, Posbility: 0.0016
+Choose :  method,  Posbility: 0.9676
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method
+---------------------------
+Next Token : .', Posbility: 0.4956
+Next Token : ., Posbility: 0.3573
+Next Token : '', Posbility: 0.0725
+Next Token : 
+
+, Posbility: 0.0106
+Next Token : 
+, Posbility: 0.0100
+Choose : .',  Posbility: 0.4956
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'
+---------------------------
+Next Token : '', Posbility: 0.9960
+Next Token : 
+, Posbility: 0.0017
+Next Token : 
+
+, Posbility: 0.0015
+Next Token :  ', Posbility: 0.0004
+Next Token : "", Posbility: 0.0001
+Choose : '',  Posbility: 0.9960
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9184
+Next Token : 
+
+, Posbility: 0.0750
+Next Token :  , Posbility: 0.0032
+Next Token :     , Posbility: 0.0013
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9184
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+
+---------------------------
+Next Token :     , Posbility: 0.9957
+Next Token :         , Posbility: 0.0014
+Next Token :   , Posbility: 0.0007
+Next Token :    , Posbility: 0.0004
+Next Token : #, Posbility: 0.0003
+Choose :     ,  Posbility: 0.9957
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    
+---------------------------
+Next Token : if, Posbility: 0.1559
+Next Token : #, Posbility: 0.0929
+Next Token : sq, Posbility: 0.0866
+Next Token : y, Posbility: 0.0734
+Next Token : return, Posbility: 0.0428
+Choose : if,  Posbility: 0.1559
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if
+---------------------------
+Next Token :  x, Posbility: 0.7194
+Next Token :  (, Posbility: 0.0621
+Next Token :  not, Posbility: 0.0434
+Next Token :  abs, Posbility: 0.0423
+Next Token :  is, Posbility: 0.0245
+Choose :  x,  Posbility: 0.7194
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x
+---------------------------
+Next Token :  ==, Posbility: 0.4023
+Next Token :  <, Posbility: 0.2761
+Next Token :  <=, Posbility: 0.0670
+Next Token : ==, Posbility: 0.0552
+Next Token :  >, Posbility: 0.0513
+Choose :  ==,  Posbility: 0.4023
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x ==
+---------------------------
+Next Token :  0, Posbility: 0.8859
+Next Token :  1, Posbility: 0.0473
+Next Token :  int, Posbility: 0.0135
+Next Token :  x, Posbility: 0.0095
+Next Token :  2, Posbility: 0.0078
+Choose :  0,  Posbility: 0.8859
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0
+---------------------------
+Next Token : :, Posbility: 0.9304
+Next Token :  or, Posbility: 0.0390
+Next Token : ., Posbility: 0.0211
+Next Token :  :, Posbility: 0.0049
+Next Token :  and, Posbility: 0.0021
+Choose : :,  Posbility: 0.9304
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9001
+Next Token :  return, Posbility: 0.0587
+Next Token :  #, Posbility: 0.0120
+Next Token :  , Posbility: 0.0085
+Next Token :   , Posbility: 0.0081
+Choose : 
+,  Posbility: 0.9001
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9915
+Next Token :       , Posbility: 0.0032
+Next Token :        , Posbility: 0.0021
+Next Token :             , Posbility: 0.0012
+Next Token :          , Posbility: 0.0009
+Choose :         ,  Posbility: 0.9915
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.8748
+Next Token : #, Posbility: 0.0200
+Next Token : print, Posbility: 0.0190
+Next Token : raise, Posbility: 0.0184
+Next Token : sq, Posbility: 0.0123
+Choose : return,  Posbility: 0.8748
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return
+---------------------------
+Next Token :  0, Posbility: 0.5800
+Next Token :  x, Posbility: 0.1513
+Next Token :  1, Posbility: 0.0921
+Next Token :  float, Posbility: 0.0285
+Next Token :  -, Posbility: 0.0233
+Choose :  0,  Posbility: 0.5800
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+---------------------------
+Next Token : 
+, Posbility: 0.7961
+Next Token : ., Posbility: 0.1034
+Next Token : 
+
+, Posbility: 0.0703
+Next Token :  #, Posbility: 0.0078
+Next Token : ,, Posbility: 0.0068
+Choose : 
+,  Posbility: 0.7961
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+
+---------------------------
+Next Token :     , Posbility: 0.9936
+Next Token :         , Posbility: 0.0047
+Next Token : #, Posbility: 0.0003
+Next Token :  , Posbility: 0.0002
+Next Token :    , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9936
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    
+---------------------------
+Next Token : el, Posbility: 0.3109
+Next Token : if, Posbility: 0.2820
+Next Token : else, Posbility: 0.1272
+Next Token : y, Posbility: 0.0429
+Next Token : sq, Posbility: 0.0213
+Choose : el,  Posbility: 0.3109
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    el
+---------------------------
+Next Token : if, Posbility: 0.9999
+Next Token :  =, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : :, Posbility: 0.0000
+Next Token : im, Posbility: 0.0000
+Choose : if,  Posbility: 0.9999
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif
+---------------------------
+Next Token :  x, Posbility: 0.9254
+Next Token :  abs, Posbility: 0.0194
+Next Token :  (, Posbility: 0.0170
+Next Token :  not, Posbility: 0.0063
+Next Token :  math, Posbility: 0.0039
+Choose :  x,  Posbility: 0.9254
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x
+---------------------------
+Next Token :  <, Posbility: 0.4869
+Next Token :  ==, Posbility: 0.2906
+Next Token :  >, Posbility: 0.0834
+Next Token :  %, Posbility: 0.0334
+Next Token :  <=, Posbility: 0.0280
+Choose :  <,  Posbility: 0.4869
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x <
+---------------------------
+Next Token :  0, Posbility: 0.9690
+Next Token :  1, Posbility: 0.0111
+Next Token :  2, Posbility: 0.0062
+Next Token : 0, Posbility: 0.0029
+Next Token :  10, Posbility: 0.0025
+Choose :  0,  Posbility: 0.9690
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0
+---------------------------
+Next Token : :, Posbility: 0.9696
+Next Token :  or, Posbility: 0.0138
+Next Token : ., Posbility: 0.0080
+Next Token :  and, Posbility: 0.0062
+Next Token :  :, Posbility: 0.0013
+Choose : :,  Posbility: 0.9696
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+---------------------------
+Next Token : 
+, Posbility: 0.9801
+Next Token :  #, Posbility: 0.0074
+Next Token :   , Posbility: 0.0049
+Next Token :  , Posbility: 0.0025
+Next Token :  return, Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9801
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+
+---------------------------
+Next Token :         , Posbility: 0.9979
+Next Token :             , Posbility: 0.0004
+Next Token :        , Posbility: 0.0004
+Next Token :          , Posbility: 0.0004
+Next Token :       , Posbility: 0.0003
+Choose :         ,  Posbility: 0.9979
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        
+---------------------------
+Next Token : return, Posbility: 0.6274
+Next Token : print, Posbility: 0.0981
+Next Token : raise, Posbility: 0.0770
+Next Token : x, Posbility: 0.0481
+Next Token : #, Posbility: 0.0178
+Choose : return,  Posbility: 0.6274
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return
+---------------------------
+Next Token :  None, Posbility: 0.2921
+Next Token :  -, Posbility: 0.2437
+Next Token :  0, Posbility: 0.1133
+Next Token :  ', Posbility: 0.0647
+Next Token :  compute, Posbility: 0.0547
+Choose :  None,  Posbility: 0.2921
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+---------------------------
+Next Token : 
+, Posbility: 0.9265
+Next Token : 
+
+, Posbility: 0.0377
+Next Token :  #, Posbility: 0.0133
+Next Token :   , Posbility: 0.0084
+Next Token :  , Posbility: 0.0036
+Choose : 
+,  Posbility: 0.9265
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+
+---------------------------
+Next Token :     , Posbility: 0.9962
+Next Token :         , Posbility: 0.0024
+Next Token : 
+, Posbility: 0.0003
+Next Token : #, Posbility: 0.0002
+Next Token :  , Posbility: 0.0002
+Choose :     ,  Posbility: 0.9962
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    
+---------------------------
+Next Token : else, Posbility: 0.5373
+Next Token : el, Posbility: 0.2826
+Next Token : if, Posbility: 0.0220
+Next Token : 
+, Posbility: 0.0165
+Next Token : y, Posbility: 0.0162
+Choose : else,  Posbility: 0.5373
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else
+---------------------------
+Next Token : :, Posbility: 0.9982
+Next Token :  :, Posbility: 0.0016
+Next Token : :#, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ->, Posbility: 0.0000
+Choose : :,  Posbility: 0.9982
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9848
+Next Token :  , Posbility: 0.0053
+Next Token : 
+
+, Posbility: 0.0022
+Next Token :   , Posbility: 0.0018
+Next Token :  #, Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9848
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9956
+Next Token :     , Posbility: 0.0012
+Next Token :        , Posbility: 0.0008
+Next Token :       , Posbility: 0.0007
+Next Token :          , Posbility: 0.0006
+Choose :         ,  Posbility: 0.9956
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.1546
+Next Token : y, Posbility: 0.1308
+Next Token : sq, Posbility: 0.0739
+Next Token : if, Posbility: 0.0477
+Next Token : x, Posbility: 0.0383
+Choose : return,  Posbility: 0.1546
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return
+---------------------------
+Next Token :  x, Posbility: 0.3261
+Next Token :  (, Posbility: 0.2221
+Next Token :  1, Posbility: 0.0655
+Next Token :  int, Posbility: 0.0420
+Next Token :  ((, Posbility: 0.0396
+Choose :  x,  Posbility: 0.3261
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x
+---------------------------
+Next Token : **, Posbility: 0.4249
+Next Token :  **, Posbility: 0.2899
+Next Token :  *, Posbility: 0.1234
+Next Token :  /, Posbility: 0.0479
+Next Token : *, Posbility: 0.0454
+Choose : **,  Posbility: 0.4249
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**
+---------------------------
+Next Token : 0, Posbility: 0.8267
+Next Token : (, Posbility: 0.1037
+Next Token : 2, Posbility: 0.0253
+Next Token : ., Posbility: 0.0202
+Next Token : (-, Posbility: 0.0065
+Choose : 0,  Posbility: 0.8267
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0
+---------------------------
+Next Token : ., Posbility: 0.9978
+Next Token : 
+, Posbility: 0.0007
+Next Token : /, Posbility: 0.0005
+Next Token :  +, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0001
+Choose : .,  Posbility: 0.9978
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.
+---------------------------
+Next Token : 5, Posbility: 0.9929
+Next Token : 25, Posbility: 0.0043
+Next Token : 75, Posbility: 0.0005
+Next Token : 125, Posbility: 0.0003
+Next Token : 66666666, Posbility: 0.0002
+Choose : 5,  Posbility: 0.9929
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+---------------------------
+Next Token : 
+, Posbility: 0.6578
+Next Token : 
+
+, Posbility: 0.2308
+Next Token :  +, Posbility: 0.0400
+Next Token : <|endoftext|>, Posbility: 0.0297
+Next Token :  *, Posbility: 0.0058
+Choose : 
+,  Posbility: 0.6578
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+---------------------------
+Next Token : 
+, Posbility: 0.7477
+Next Token :     , Posbility: 0.0891
+Next Token : <|endoftext|>, Posbility: 0.0264
+Next Token :         , Posbility: 0.0226
+Next Token : def, Posbility: 0.0224
+Choose : 
+,  Posbility: 0.7477
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9590
+Next Token :     , Posbility: 0.0179
+Next Token : <|endoftext|>, Posbility: 0.0103
+Next Token : 
+
+, Posbility: 0.0086
+Next Token :         , Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9590
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3791
+Next Token : def, Posbility: 0.2912
+Next Token : #, Posbility: 0.1518
+Next Token : if, Posbility: 0.0405
+Next Token : print, Posbility: 0.0333
+Choose : '',  Posbility: 0.3791
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7795
+Next Token : 
+, Posbility: 0.0362
+Next Token :  Write, Posbility: 0.0171
+Next Token : Comp, Posbility: 0.0134
+Next Token : Test, Posbility: 0.0100
+Choose : Write,  Posbility: 0.7795
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9812
+Next Token :  your, Posbility: 0.0062
+Next Token :  an, Posbility: 0.0034
+Next Token :  the, Posbility: 0.0020
+Next Token :  function, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9812
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9455
+Next Token :  program, Posbility: 0.0101
+Next Token :  Python, Posbility: 0.0093
+Next Token :  python, Posbility: 0.0066
+Next Token :  method, Posbility: 0.0024
+Choose :  function,  Posbility: 0.9455
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function
+---------------------------
+Next Token :  for, Posbility: 0.7551
+Next Token :  that, Posbility: 0.1044
+Next Token :  to, Posbility: 0.0852
+Next Token :  which, Posbility: 0.0089
+Next Token :  called, Posbility: 0.0058
+Choose :  for,  Posbility: 0.7551
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for
+---------------------------
+Next Token :  computing, Posbility: 0.6214
+Next Token :  finding, Posbility: 0.0836
+Next Token :  calculating, Posbility: 0.0240
+Next Token :  determining, Posbility: 0.0240
+Next Token :  comp, Posbility: 0.0158
+Choose :  computing,  Posbility: 0.6214
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing
+---------------------------
+Next Token :  the, Posbility: 0.2643
+Next Token :  square, Posbility: 0.1643
+Next Token :  cube, Posbility: 0.0344
+Next Token :  fact, Posbility: 0.0239
+Next Token :  sum, Posbility: 0.0190
+Choose :  the,  Posbility: 0.2643
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the
+---------------------------
+Next Token :  square, Posbility: 0.1285
+Next Token :  sum, Posbility: 0.1123
+Next Token :  fact, Posbility: 0.0416
+Next Token :  area, Posbility: 0.0379
+Next Token :  absolute, Posbility: 0.0247
+Choose :  square,  Posbility: 0.1285
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square
+---------------------------
+Next Token :  root, Posbility: 0.4158
+Next Token :  roots, Posbility: 0.4157
+Next Token :  of, Posbility: 0.1073
+Next Token : -, Posbility: 0.0169
+Next Token : root, Posbility: 0.0054
+Choose :  root,  Posbility: 0.4158
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root
+---------------------------
+Next Token :  of, Posbility: 0.7205
+Next Token :  using, Posbility: 0.1844
+Next Token : .', Posbility: 0.0124
+Next Token : ., Posbility: 0.0100
+Next Token : ,, Posbility: 0.0078
+Choose :  of,  Posbility: 0.7205
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of
+---------------------------
+Next Token :  a, Posbility: 0.6003
+Next Token :  an, Posbility: 0.1177
+Next Token :  x, Posbility: 0.1002
+Next Token :  the, Posbility: 0.0450
+Next Token :  any, Posbility: 0.0139
+Choose :  a,  Posbility: 0.6003
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of a
+---------------------------
+Next Token :  number, Posbility: 0.6926
+Next Token :  given, Posbility: 0.0574
+Next Token :  float, Posbility: 0.0567
+Next Token :  positive, Posbility: 0.0283
+Next Token :  random, Posbility: 0.0193
+Choose :  number,  Posbility: 0.6926
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of a number
+---------------------------
+Next Token : .', Posbility: 0.4853
+Next Token :  using, Posbility: 0.2701
+Next Token : ., Posbility: 0.1073
+Next Token : ,, Posbility: 0.0228
+Next Token : '', Posbility: 0.0138
+Choose : .',  Posbility: 0.4853
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of a number.'
+---------------------------
+Next Token : '', Posbility: 0.9996
+Next Token :  ', Posbility: 0.0002
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9996
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of a number.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9191
+Next Token : 
+
+, Posbility: 0.0730
+Next Token : def, Posbility: 0.0024
+Next Token :  , Posbility: 0.0019
+Next Token :     , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9191
+---------------------------
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of a number.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9423
+Next Token : 
+, Posbility: 0.0362
+Next Token : #, Posbility: 0.0106
+Next Token : import, Posbility: 0.0034
+Next Token : from, Posbility: 0.0015
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 11.46022367477417
+
+
+
+----------No Syntax Error--------
+
+'''Write a function for computing square roots using the babylonian method.'''
+def compute_sqrt(x):
+    '''Compute square roots using the babylonian method.'''
+    if x == 0:
+        return 0
+    elif x < 0:
+        return None
+    else:
+        return x**0.5
+
+
+'''Write a function for computing the square root of a number.'''
+

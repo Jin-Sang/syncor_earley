@@ -1,0 +1,527 @@
+<<<<<<<<<<<< 179 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  cone, Posbility: 0.2366
+Next Token :  volume, Posbility: 0.2289
+Next Token :  vol, Posbility: 0.1088
+Next Token :  find, Posbility: 0.0922
+Next Token :  main, Posbility: 0.0285
+Choose :  cone,  Posbility: 0.2366
+'''Write a function to find the volume of a cone.'''
+def cone
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone
+---------------------------
+Next Token : _, Posbility: 0.4992
+Next Token : (, Posbility: 0.2606
+Next Token : Volume, Posbility: 0.1236
+Next Token : Vol, Posbility: 0.0358
+Next Token : ():, Posbility: 0.0176
+Choose : _,  Posbility: 0.4992
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_
+---------------------------
+Next Token : volume, Posbility: 0.8782
+Next Token : vol, Posbility: 0.0634
+Next Token : area, Posbility: 0.0101
+Next Token : Volume, Posbility: 0.0023
+Next Token : length, Posbility: 0.0023
+Choose : volume,  Posbility: 0.8782
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume
+---------------------------
+Next Token : (, Posbility: 0.9334
+Next Token : ():, Posbility: 0.0268
+Next Token : _, Posbility: 0.0240
+Next Token :  (, Posbility: 0.0124
+Next Token : (), Posbility: 0.0009
+Choose : (,  Posbility: 0.9334
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(
+---------------------------
+Next Token : r, Posbility: 0.1936
+Next Token : cone, Posbility: 0.1450
+Next Token : x, Posbility: 0.1022
+Next Token : radius, Posbility: 0.0834
+Next Token : h, Posbility: 0.0638
+Choose : r,  Posbility: 0.1936
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r
+---------------------------
+Next Token : ,, Posbility: 0.7827
+Next Token : ):, Posbility: 0.0880
+Next Token : 1, Posbility: 0.0459
+Next Token : _, Posbility: 0.0304
+Next Token : ho, Posbility: 0.0201
+Choose : ,,  Posbility: 0.7827
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r,
+---------------------------
+Next Token :  h, Posbility: 0.2738
+Next Token : h, Posbility: 0.2325
+Next Token :  r, Posbility: 0.0512
+Next Token :  c, Posbility: 0.0286
+Next Token :  l, Posbility: 0.0248
+Choose :  h,  Posbility: 0.2738
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h
+---------------------------
+Next Token : ):, Posbility: 0.7353
+Next Token : ,, Posbility: 0.2433
+Next Token : ), Posbility: 0.0053
+Next Token : _, Posbility: 0.0048
+Next Token : =, Posbility: 0.0035
+Choose : ):,  Posbility: 0.7353
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+---------------------------
+Next Token : 
+, Posbility: 0.9211
+Next Token : , Posbility: 0.0282
+Next Token : 
+
+, Posbility: 0.0201
+Next Token :  , Posbility: 0.0104
+Next Token :  #, Posbility: 0.0093
+Choose : 
+,  Posbility: 0.9211
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+
+---------------------------
+Next Token :     , Posbility: 0.9266
+Next Token :   , Posbility: 0.0517
+Next Token : 	, Posbility: 0.0168
+Next Token :    , Posbility: 0.0025
+Next Token :         , Posbility: 0.0006
+Choose :     ,  Posbility: 0.9266
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    
+---------------------------
+Next Token : return, Posbility: 0.3065
+Next Token : '', Posbility: 0.2572
+Next Token : volume, Posbility: 0.1425
+Next Token : #, Posbility: 0.0353
+Next Token : if, Posbility: 0.0311
+Choose : return,  Posbility: 0.3065
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return
+---------------------------
+Next Token :  (, Posbility: 0.2473
+Next Token :  r, Posbility: 0.2220
+Next Token :  4, Posbility: 0.1217
+Next Token :  3, Posbility: 0.1062
+Next Token :  h, Posbility: 0.0704
+Choose :  (,  Posbility: 0.2473
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (
+---------------------------
+Next Token : r, Posbility: 0.3658
+Next Token : 4, Posbility: 0.2668
+Next Token : 3, Posbility: 0.1863
+Next Token : 2, Posbility: 0.0544
+Next Token : 1, Posbility: 0.0212
+Choose : r,  Posbility: 0.3658
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r
+---------------------------
+Next Token : **, Posbility: 0.3839
+Next Token :  *, Posbility: 0.2484
+Next Token : *, Posbility: 0.2338
+Next Token :  **, Posbility: 0.1172
+Next Token : /, Posbility: 0.0065
+Choose : **,  Posbility: 0.3839
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**
+---------------------------
+Next Token : 3, Posbility: 0.6802
+Next Token : 2, Posbility: 0.3046
+Next Token : h, Posbility: 0.0090
+Next Token : (, Posbility: 0.0030
+Next Token : 4, Posbility: 0.0014
+Choose : 3,  Posbility: 0.6802
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3
+---------------------------
+Next Token : )*, Posbility: 0.5172
+Next Token : )/, Posbility: 0.1827
+Next Token : ), Posbility: 0.1262
+Next Token :  *, Posbility: 0.0694
+Next Token : *, Posbility: 0.0394
+Choose : )*,  Posbility: 0.5172
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*
+---------------------------
+Next Token : (, Posbility: 0.5293
+Next Token : h, Posbility: 0.3910
+Next Token : ((, Posbility: 0.0313
+Next Token : np, Posbility: 0.0122
+Next Token : math, Posbility: 0.0072
+Choose : (,  Posbility: 0.5293
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(
+---------------------------
+Next Token : h, Posbility: 0.5518
+Next Token : 3, Posbility: 0.2378
+Next Token : 4, Posbility: 0.1044
+Next Token : 1, Posbility: 0.0295
+Next Token : 2, Posbility: 0.0278
+Choose : h,  Posbility: 0.5518
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h
+---------------------------
+Next Token : **, Posbility: 0.7378
+Next Token : /, Posbility: 0.1824
+Next Token : ), Posbility: 0.0379
+Next Token : *, Posbility: 0.0158
+Next Token : )/, Posbility: 0.0060
+Choose : **,  Posbility: 0.7378
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**
+---------------------------
+Next Token : 3, Posbility: 0.8461
+Next Token : 2, Posbility: 0.1445
+Next Token : 4, Posbility: 0.0027
+Next Token : (-, Posbility: 0.0018
+Next Token : 6, Posbility: 0.0015
+Choose : 3,  Posbility: 0.8461
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3
+---------------------------
+Next Token : ), Posbility: 0.6471
+Next Token : )/, Posbility: 0.1700
+Next Token : )*, Posbility: 0.1097
+Next Token : )-, Posbility: 0.0278
+Next Token : )), Posbility: 0.0152
+Choose : ),  Posbility: 0.6471
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+---------------------------
+Next Token : 
+, Posbility: 0.7254
+Next Token : 
+
+, Posbility: 0.2172
+Next Token : <|endoftext|>, Posbility: 0.0144
+Next Token :  #, Posbility: 0.0081
+Next Token :  , Posbility: 0.0079
+Choose : 
+,  Posbility: 0.7254
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+---------------------------
+Next Token : 
+, Posbility: 0.7797
+Next Token : print, Posbility: 0.0494
+Next Token : #, Posbility: 0.0348
+Next Token :     , Posbility: 0.0255
+Next Token : def, Posbility: 0.0239
+Choose : 
+,  Posbility: 0.7797
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9734
+Next Token : <|endoftext|>, Posbility: 0.0090
+Next Token : 
+
+, Posbility: 0.0084
+Next Token :     , Posbility: 0.0063
+Next Token :   , Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9734
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3658
+Next Token : def, Posbility: 0.1767
+Next Token : #, Posbility: 0.1583
+Next Token : print, Posbility: 0.1035
+Next Token : if, Posbility: 0.0667
+Choose : '',  Posbility: 0.3658
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7754
+Next Token :  Write, Posbility: 0.0258
+Next Token : 
+, Posbility: 0.0231
+Next Token : Find, Posbility: 0.0158
+Next Token : Use, Posbility: 0.0058
+Choose : Write,  Posbility: 0.7754
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9875
+Next Token :  your, Posbility: 0.0032
+Next Token :  an, Posbility: 0.0026
+Next Token :  the, Posbility: 0.0025
+Next Token :  function, Posbility: 0.0011
+Choose :  a,  Posbility: 0.9875
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9508
+Next Token :  program, Posbility: 0.0150
+Next Token :  Python, Posbility: 0.0056
+Next Token :  python, Posbility: 0.0045
+Next Token :  recursive, Posbility: 0.0029
+Choose :  function,  Posbility: 0.9508
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7065
+Next Token :  that, Posbility: 0.2336
+Next Token :  called, Posbility: 0.0125
+Next Token :  which, Posbility: 0.0124
+Next Token :  named, Posbility: 0.0040
+Choose :  to,  Posbility: 0.7065
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to
+---------------------------
+Next Token :  find, Posbility: 0.1995
+Next Token :  print, Posbility: 0.1176
+Next Token :  calculate, Posbility: 0.1147
+Next Token :  compute, Posbility: 0.0773
+Next Token :  return, Posbility: 0.0457
+Choose :  find,  Posbility: 0.1995
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find
+---------------------------
+Next Token :  the, Posbility: 0.9067
+Next Token :  volume, Posbility: 0.0189
+Next Token :  a, Posbility: 0.0089
+Next Token :  area, Posbility: 0.0073
+Next Token :  how, Posbility: 0.0032
+Choose :  the,  Posbility: 0.9067
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the
+---------------------------
+Next Token :  volume, Posbility: 0.3734
+Next Token :  area, Posbility: 0.1560
+Next Token :  surface, Posbility: 0.0886
+Next Token :  number, Posbility: 0.0318
+Next Token :  length, Posbility: 0.0283
+Choose :  volume,  Posbility: 0.3734
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume
+---------------------------
+Next Token :  of, Posbility: 0.9920
+Next Token :  and, Posbility: 0.0017
+Next Token :  fo, Posbility: 0.0005
+Next Token : 
+, Posbility: 0.0003
+Next Token : ,, Posbility: 0.0002
+Choose :  of,  Posbility: 0.9920
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of
+---------------------------
+Next Token :  a, Posbility: 0.9431
+Next Token :  an, Posbility: 0.0196
+Next Token :  the, Posbility: 0.0066
+Next Token :  cylinder, Posbility: 0.0033
+Next Token :  two, Posbility: 0.0031
+Choose :  a,  Posbility: 0.9431
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of a
+---------------------------
+Next Token :  cylinder, Posbility: 0.3849
+Next Token :  sphere, Posbility: 0.3310
+Next Token :  cone, Posbility: 0.0488
+Next Token :  triangle, Posbility: 0.0374
+Next Token :  cub, Posbility: 0.0268
+Choose :  cylinder,  Posbility: 0.3849
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of a cylinder
+---------------------------
+Next Token : .', Posbility: 0.8645
+Next Token : ., Posbility: 0.0872
+Next Token : '', Posbility: 0.0268
+Next Token :  with, Posbility: 0.0030
+Next Token : 
+, Posbility: 0.0024
+Choose : .',  Posbility: 0.8645
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of a cylinder.'
+---------------------------
+Next Token : '', Posbility: 0.9998
+Next Token : 
+, Posbility: 0.0001
+Next Token :  ', Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9998
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of a cylinder.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9465
+Next Token : 
+
+, Posbility: 0.0492
+Next Token :  , Posbility: 0.0016
+Next Token : def, Posbility: 0.0009
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9465
+---------------------------
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of a cylinder.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9460
+Next Token : 
+, Posbility: 0.0398
+Next Token : #, Posbility: 0.0055
+Next Token : import, Posbility: 0.0038
+Next Token : from, Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 5.3866894245147705
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to find the volume of a cone.'''
+def cone_volume(r, h):
+    return (r**3)*(h**3)
+
+
+'''Write a function to find the volume of a cylinder.'''
+

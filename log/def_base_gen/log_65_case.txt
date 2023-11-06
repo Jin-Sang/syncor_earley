@@ -1,0 +1,816 @@
+<<<<<<<<<<<< 65 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  empty, Posbility: 0.2278
+Next Token :  is, Posbility: 0.1839
+Next Token :  check, Posbility: 0.1807
+Next Token :  all, Posbility: 0.0795
+Next Token :  dict, Posbility: 0.0392
+Choose :  empty,  Posbility: 0.2278
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty
+---------------------------
+Next Token : _, Posbility: 0.4498
+Next Token : (, Posbility: 0.3701
+Next Token : D, Posbility: 0.0493
+Next Token : List, Posbility: 0.0205
+Next Token : ():, Posbility: 0.0135
+Choose : _,  Posbility: 0.4498
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_
+---------------------------
+Next Token : dict, Posbility: 0.4157
+Next Token : list, Posbility: 0.1890
+Next Token : check, Posbility: 0.1232
+Next Token : d, Posbility: 0.1155
+Next Token : lists, Posbility: 0.0069
+Choose : dict,  Posbility: 0.4157
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict
+---------------------------
+Next Token : (, Posbility: 0.7587
+Next Token : _, Posbility: 0.0977
+Next Token : s, Posbility: 0.0803
+Next Token : ():, Posbility: 0.0425
+Next Token : (*, Posbility: 0.0058
+Choose : (,  Posbility: 0.7587
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(
+---------------------------
+Next Token : d, Posbility: 0.1744
+Next Token : list, Posbility: 0.1702
+Next Token : l, Posbility: 0.1298
+Next Token : dict, Posbility: 0.1072
+Next Token : my, Posbility: 0.0566
+Choose : d,  Posbility: 0.1744
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(d
+---------------------------
+Next Token : ictionary, Posbility: 0.3376
+Next Token : iction, Posbility: 0.2409
+Next Token : ):, Posbility: 0.2386
+Next Token : ic, Posbility: 0.0688
+Next Token : ct, Posbility: 0.0461
+Choose : ictionary,  Posbility: 0.3376
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary
+---------------------------
+Next Token : ):, Posbility: 0.7717
+Next Token : _, Posbility: 0.1712
+Next Token : ,, Posbility: 0.0209
+Next Token : :, Posbility: 0.0131
+Next Token : 1, Posbility: 0.0085
+Choose : ):,  Posbility: 0.7717
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+---------------------------
+Next Token : 
+, Posbility: 0.9371
+Next Token : 
+
+, Posbility: 0.0228
+Next Token : , Posbility: 0.0147
+Next Token :  , Posbility: 0.0115
+Next Token :  #, Posbility: 0.0057
+Choose : 
+,  Posbility: 0.9371
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+
+---------------------------
+Next Token :     , Posbility: 0.9426
+Next Token :   , Posbility: 0.0316
+Next Token : 	, Posbility: 0.0191
+Next Token :    , Posbility: 0.0039
+Next Token :         , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9426
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    
+---------------------------
+Next Token : for, Posbility: 0.2674
+Next Token : if, Posbility: 0.2325
+Next Token : '', Posbility: 0.2235
+Next Token : return, Posbility: 0.0514
+Next Token : empty, Posbility: 0.0498
+Choose : for,  Posbility: 0.2674
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for
+---------------------------
+Next Token :  key, Posbility: 0.2833
+Next Token :  i, Posbility: 0.2655
+Next Token :  k, Posbility: 0.1114
+Next Token :  x, Posbility: 0.0506
+Next Token :  item, Posbility: 0.0386
+Choose :  key,  Posbility: 0.2833
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key
+---------------------------
+Next Token :  in, Posbility: 0.6864
+Next Token : ,, Posbility: 0.3006
+Next Token : _, Posbility: 0.0084
+Next Token : 1, Posbility: 0.0019
+Next Token : ,, Posbility: 0.0011
+Choose :  in,  Posbility: 0.6864
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in
+---------------------------
+Next Token :  dictionary, Posbility: 0.9903
+Next Token :  dict, Posbility: 0.0020
+Next Token :  list, Posbility: 0.0020
+Next Token :  range, Posbility: 0.0014
+Next Token :  sorted, Posbility: 0.0010
+Choose :  dictionary,  Posbility: 0.9903
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary
+---------------------------
+Next Token : :, Posbility: 0.8211
+Next Token : ., Posbility: 0.1723
+Next Token : [, Posbility: 0.0030
+Next Token :  :, Posbility: 0.0021
+Next Token : [', Posbility: 0.0006
+Choose : :,  Posbility: 0.8211
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+---------------------------
+Next Token : 
+, Posbility: 0.9895
+Next Token :  , Posbility: 0.0029
+Next Token : 
+
+, Posbility: 0.0020
+Next Token :   , Posbility: 0.0018
+Next Token :  #, Posbility: 0.0009
+Choose : 
+,  Posbility: 0.9895
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+
+---------------------------
+Next Token :         , Posbility: 0.9820
+Next Token :             , Posbility: 0.0053
+Next Token :       , Posbility: 0.0053
+Next Token :        , Posbility: 0.0028
+Next Token :          , Posbility: 0.0017
+Choose :         ,  Posbility: 0.9820
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        
+---------------------------
+Next Token : if, Posbility: 0.9127
+Next Token : for, Posbility: 0.0168
+Next Token : print, Posbility: 0.0118
+Next Token : #, Posbility: 0.0083
+Next Token : value, Posbility: 0.0074
+Choose : if,  Posbility: 0.9127
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if
+---------------------------
+Next Token :  dictionary, Posbility: 0.3096
+Next Token :  len, Posbility: 0.2623
+Next Token :  not, Posbility: 0.1632
+Next Token :  type, Posbility: 0.1289
+Next Token : (, Posbility: 0.0411
+Choose :  dictionary,  Posbility: 0.3096
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary
+---------------------------
+Next Token : [, Posbility: 0.9430
+Next Token : ., Posbility: 0.0484
+Next Token :  ==, Posbility: 0.0031
+Next Token : :, Posbility: 0.0019
+Next Token :  [, Posbility: 0.0013
+Choose : [,  Posbility: 0.9430
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[
+---------------------------
+Next Token : key, Posbility: 0.9993
+Next Token : str, Posbility: 0.0002
+Next Token : 0, Posbility: 0.0001
+Next Token :  key, Posbility: 0.0001
+Next Token : keys, Posbility: 0.0000
+Choose : key,  Posbility: 0.9993
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key
+---------------------------
+Next Token : ], Posbility: 0.9451
+Next Token : ]:, Posbility: 0.0390
+Next Token : ][, Posbility: 0.0094
+Next Token : ]., Posbility: 0.0062
+Next Token : ]=, Posbility: 0.0002
+Choose : ],  Posbility: 0.9451
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key]
+---------------------------
+Next Token :  ==, Posbility: 0.7747
+Next Token :  is, Posbility: 0.0728
+Next Token : !=, Posbility: 0.0696
+Next Token : ==, Posbility: 0.0694
+Next Token : !, Posbility: 0.0035
+Choose :  ==,  Posbility: 0.7747
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] ==
+---------------------------
+Next Token :  {}, Posbility: 0.4093
+Next Token :  None, Posbility: 0.1923
+Next Token :  '', Posbility: 0.1403
+Next Token :  ", Posbility: 0.0803
+Next Token :  [, Posbility: 0.0775
+Choose :  {},  Posbility: 0.4093
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}
+---------------------------
+Next Token : :, Posbility: 0.9434
+Next Token :  or, Posbility: 0.0464
+Next Token :  and, Posbility: 0.0067
+Next Token :  :, Posbility: 0.0019
+Next Token :  ==, Posbility: 0.0004
+Choose : :,  Posbility: 0.9434
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+---------------------------
+Next Token : 
+, Posbility: 0.9876
+Next Token :  , Posbility: 0.0030
+Next Token :  #, Posbility: 0.0027
+Next Token :  return, Posbility: 0.0019
+Next Token :   , Posbility: 0.0015
+Choose : 
+,  Posbility: 0.9876
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+
+---------------------------
+Next Token :             , Posbility: 0.9858
+Next Token :            , Posbility: 0.0067
+Next Token :              , Posbility: 0.0021
+Next Token :                 , Posbility: 0.0020
+Next Token :           , Posbility: 0.0020
+Choose :             ,  Posbility: 0.9858
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            
+---------------------------
+Next Token : return, Posbility: 0.6596
+Next Token : print, Posbility: 0.1037
+Next Token : d, Posbility: 0.0816
+Next Token : pass, Posbility: 0.0540
+Next Token : empty, Posbility: 0.0373
+Choose : return,  Posbility: 0.6596
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return
+---------------------------
+Next Token :  False, Posbility: 0.4551
+Next Token :  True, Posbility: 0.4037
+Next Token :  ", Posbility: 0.0336
+Next Token :  ', Posbility: 0.0275
+Next Token :  0, Posbility: 0.0205
+Choose :  False,  Posbility: 0.4551
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+---------------------------
+Next Token : 
+, Posbility: 0.9273
+Next Token : 
+
+, Posbility: 0.0523
+Next Token :  , Posbility: 0.0059
+Next Token : ,, Posbility: 0.0041
+Next Token :  #, Posbility: 0.0037
+Choose : 
+,  Posbility: 0.9273
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+
+---------------------------
+Next Token :     , Posbility: 0.8437
+Next Token :         , Posbility: 0.1397
+Next Token : 
+, Posbility: 0.0103
+Next Token :             , Posbility: 0.0038
+Next Token : #, Posbility: 0.0004
+Choose :     ,  Posbility: 0.8437
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    
+---------------------------
+Next Token : return, Posbility: 0.9522
+Next Token : else, Posbility: 0.0211
+Next Token : 
+, Posbility: 0.0183
+Next Token : if, Posbility: 0.0034
+Next Token : for, Posbility: 0.0016
+Choose : return,  Posbility: 0.9522
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return
+---------------------------
+Next Token :  True, Posbility: 0.9954
+Next Token :  False, Posbility: 0.0009
+Next Token :  None, Posbility: 0.0006
+Next Token :  len, Posbility: 0.0005
+Next Token :  dictionary, Posbility: 0.0004
+Choose :  True,  Posbility: 0.9954
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+---------------------------
+Next Token : 
+, Posbility: 0.6870
+Next Token : 
+
+, Posbility: 0.2674
+Next Token : <|endoftext|>, Posbility: 0.0273
+Next Token :  , Posbility: 0.0092
+Next Token :     , Posbility: 0.0025
+Choose : 
+,  Posbility: 0.6870
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+---------------------------
+Next Token : 
+, Posbility: 0.7510
+Next Token : def, Posbility: 0.0530
+Next Token :     , Posbility: 0.0412
+Next Token : <|endoftext|>, Posbility: 0.0348
+Next Token : #, Posbility: 0.0304
+Choose : 
+,  Posbility: 0.7510
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9544
+Next Token : <|endoftext|>, Posbility: 0.0177
+Next Token : 
+
+, Posbility: 0.0160
+Next Token :     , Posbility: 0.0088
+Next Token :         , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9544
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.5743
+Next Token : def, Posbility: 0.1430
+Next Token : #, Posbility: 0.1340
+Next Token : 
+, Posbility: 0.0424
+Next Token : print, Posbility: 0.0233
+Choose : '',  Posbility: 0.5743
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7990
+Next Token :  Write, Posbility: 0.0228
+Next Token : 
+, Posbility: 0.0189
+Next Token : Check, Posbility: 0.0123
+Next Token : Create, Posbility: 0.0095
+Choose : Write,  Posbility: 0.7990
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9851
+Next Token :  your, Posbility: 0.0060
+Next Token :  function, Posbility: 0.0020
+Next Token :  an, Posbility: 0.0018
+Next Token :  the, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9851
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9649
+Next Token :  Python, Posbility: 0.0072
+Next Token :  program, Posbility: 0.0051
+Next Token :  python, Posbility: 0.0047
+Next Token :  Function, Posbility: 0.0026
+Choose :  function,  Posbility: 0.9649
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7065
+Next Token :  that, Posbility: 0.2330
+Next Token :  which, Posbility: 0.0178
+Next Token :  called, Posbility: 0.0107
+Next Token :  for, Posbility: 0.0049
+Choose :  to,  Posbility: 0.7065
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to
+---------------------------
+Next Token :  check, Posbility: 0.1401
+Next Token :  print, Posbility: 0.0848
+Next Token :  return, Posbility: 0.0752
+Next Token :  get, Posbility: 0.0657
+Next Token :  find, Posbility: 0.0591
+Choose :  check,  Posbility: 0.1401
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8379
+Next Token :  if, Posbility: 0.0967
+Next Token :  for, Posbility: 0.0133
+Next Token :  the, Posbility: 0.0128
+Next Token :  a, Posbility: 0.0095
+Choose :  whether,  Posbility: 0.8379
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether
+---------------------------
+Next Token :  a, Posbility: 0.3994
+Next Token :  all, Posbility: 0.2114
+Next Token :  the, Posbility: 0.1287
+Next Token :  there, Posbility: 0.0381
+Next Token :  an, Posbility: 0.0278
+Choose :  a,  Posbility: 0.3994
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a
+---------------------------
+Next Token :  dictionary, Posbility: 0.3698
+Next Token :  string, Posbility: 0.1611
+Next Token :  given, Posbility: 0.1111
+Next Token :  list, Posbility: 0.0760
+Next Token :  value, Posbility: 0.0315
+Choose :  dictionary,  Posbility: 0.3698
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary
+---------------------------
+Next Token :  is, Posbility: 0.8194
+Next Token :  contains, Posbility: 0.0403
+Next Token :  has, Posbility: 0.0401
+Next Token : 's, Posbility: 0.0302
+Next Token :  passed, Posbility: 0.0264
+Choose :  is,  Posbility: 0.8194
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is
+---------------------------
+Next Token :  a, Posbility: 0.5141
+Next Token :  empty, Posbility: 0.2640
+Next Token :  valid, Posbility: 0.0181
+Next Token :  an, Posbility: 0.0071
+Next Token :  filled, Posbility: 0.0063
+Choose :  a,  Posbility: 0.5141
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a
+---------------------------
+Next Token :  valid, Posbility: 0.6391
+Next Token :  subset, Posbility: 0.0415
+Next Token :  sub, Posbility: 0.0349
+Next Token :  proper, Posbility: 0.0326
+Next Token :  strict, Posbility: 0.0120
+Choose :  valid,  Posbility: 0.6391
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid
+---------------------------
+Next Token :  one, Posbility: 0.1203
+Next Token :  dictionary, Posbility: 0.0973
+Next Token :  JSON, Posbility: 0.0727
+Next Token :  BST, Posbility: 0.0427
+Next Token :  mapping, Posbility: 0.0368
+Choose :  one,  Posbility: 0.1203
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one
+---------------------------
+Next Token :  or, Posbility: 0.4321
+Next Token : .', Posbility: 0.2305
+Next Token : '', Posbility: 0.1540
+Next Token : ., Posbility: 0.0565
+Next Token :  (, Posbility: 0.0141
+Choose :  or,  Posbility: 0.4321
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one or
+---------------------------
+Next Token :  not, Posbility: 0.9884
+Next Token :  a, Posbility: 0.0027
+Next Token : 
+, Posbility: 0.0008
+Next Token :  no, Posbility: 0.0007
+Next Token :  the, Posbility: 0.0006
+Choose :  not,  Posbility: 0.9884
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one or not
+---------------------------
+Next Token : .', Posbility: 0.7119
+Next Token : ., Posbility: 0.1445
+Next Token : '', Posbility: 0.0616
+Next Token : ,, Posbility: 0.0113
+Next Token :  using, Posbility: 0.0110
+Choose : .',  Posbility: 0.7119
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one or not.'
+---------------------------
+Next Token : '', Posbility: 0.9999
+Next Token : 
+, Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Next Token : "", Posbility: 0.0000
+Choose : '',  Posbility: 0.9999
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9156
+Next Token : 
+
+, Posbility: 0.0738
+Next Token :  , Posbility: 0.0034
+Next Token : def, Posbility: 0.0024
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9156
+---------------------------
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.8647
+Next Token : 
+, Posbility: 0.0966
+Next Token : #, Posbility: 0.0175
+Next Token : import, Posbility: 0.0037
+Next Token : '', Posbility: 0.0035
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 8.241838216781616
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to check whether all dictionaries in a list are empty or not.'''
+def empty_dict(dictionary):
+    for key in dictionary:
+        if dictionary[key] == {}:
+            return False
+    return True
+
+
+'''Write a function to check whether a dictionary is a valid one or not.'''
+

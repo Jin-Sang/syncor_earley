@@ -1,0 +1,738 @@
+<<<<<<<<<<<< 155 problem >>>>>>>>>>>
+
+
+
+
+Next Token : 
+, Posbility: 0.1859
+Next Token : ile, Posbility: 0.1106
+Next Token : iban, Posbility: 0.0575
+Next Token : ival, Posbility: 0.0521
+Next Token : ive, Posbility: 0.0480
+Choose : 
+,  Posbility: 0.1859
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+
+---------------------------
+Next Token : def, Posbility: 0.1203
+Next Token : #, Posbility: 0.1188
+Next Token : 
+, Posbility: 0.1179
+Next Token : '', Posbility: 0.0790
+Next Token : import, Posbility: 0.0466
+Choose : def,  Posbility: 0.1203
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def
+---------------------------
+Next Token :  is, Posbility: 0.1075
+Next Token :  check, Posbility: 0.1068
+Next Token :  frequency, Posbility: 0.0793
+Next Token :  fre, Posbility: 0.0507
+Next Token :  less, Posbility: 0.0499
+Choose :  is,  Posbility: 0.1075
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is
+---------------------------
+Next Token : _, Posbility: 0.6102
+Next Token : F, Posbility: 0.0554
+Next Token : Valid, Posbility: 0.0402
+Next Token : Dig, Posbility: 0.0203
+Next Token : Number, Posbility: 0.0127
+Choose : _,  Posbility: 0.6102
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_
+---------------------------
+Next Token : valid, Posbility: 0.1165
+Next Token : digit, Posbility: 0.0669
+Next Token : le, Posbility: 0.0625
+Next Token : even, Posbility: 0.0466
+Next Token : prime, Posbility: 0.0465
+Choose : valid,  Posbility: 0.1165
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid
+---------------------------
+Next Token : (, Posbility: 0.5417
+Next Token : _, Posbility: 0.4324
+Next Token : ():, Posbility: 0.0073
+Next Token :  (, Posbility: 0.0058
+Next Token : ated, Posbility: 0.0025
+Choose : (,  Posbility: 0.5417
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(
+---------------------------
+Next Token : num, Posbility: 0.2580
+Next Token : n, Posbility: 0.2143
+Next Token : number, Posbility: 0.1167
+Next Token : x, Posbility: 0.0560
+Next Token : input, Posbility: 0.0352
+Choose : num,  Posbility: 0.2580
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num
+---------------------------
+Next Token : ):, Posbility: 0.8589
+Next Token : ,, Posbility: 0.0741
+Next Token : :, Posbility: 0.0332
+Next Token : _, Posbility: 0.0157
+Next Token : ), Posbility: 0.0077
+Choose : ):,  Posbility: 0.8589
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+---------------------------
+Next Token : 
+, Posbility: 0.9316
+Next Token : 
+
+, Posbility: 0.0325
+Next Token :  , Posbility: 0.0202
+Next Token :  #, Posbility: 0.0044
+Next Token :   , Posbility: 0.0039
+Choose : 
+,  Posbility: 0.9316
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+
+---------------------------
+Next Token :     , Posbility: 0.8816
+Next Token :   , Posbility: 0.0536
+Next Token : 	, Posbility: 0.0408
+Next Token :    , Posbility: 0.0078
+Next Token :         , Posbility: 0.0043
+Choose :     ,  Posbility: 0.8816
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    
+---------------------------
+Next Token : '', Posbility: 0.1913
+Next Token : if, Posbility: 0.1833
+Next Token : #, Posbility: 0.0550
+Next Token : for, Posbility: 0.0473
+Next Token : count, Posbility: 0.0318
+Choose : '',  Posbility: 0.1913
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9996
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Choose : ',  Posbility: 0.9996
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1088
+Next Token : Check, Posbility: 0.1063
+Next Token : Che, Posbility: 0.0634
+Next Token : This, Posbility: 0.0606
+Next Token : check, Posbility: 0.0532
+Choose : 
+,  Posbility: 0.1088
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9453
+Next Token :         , Posbility: 0.0363
+Next Token :      , Posbility: 0.0030
+Next Token :       , Posbility: 0.0027
+Next Token :        , Posbility: 0.0025
+Choose :     ,  Posbility: 0.9453
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    
+---------------------------
+Next Token : Che, Posbility: 0.0744
+Next Token : This, Posbility: 0.0660
+Next Token : :, Posbility: 0.0569
+Next Token : Check, Posbility: 0.0502
+Next Token : Function, Posbility: 0.0498
+Choose : Che,  Posbility: 0.0744
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Che
+---------------------------
+Next Token : cks, Posbility: 0.9975
+Next Token : k, Posbility: 0.0007
+Next Token : ks, Posbility: 0.0005
+Next Token : king, Posbility: 0.0004
+Next Token : c, Posbility: 0.0002
+Choose : cks,  Posbility: 0.9975
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks
+---------------------------
+Next Token :  whether, Posbility: 0.5427
+Next Token :  if, Posbility: 0.3261
+Next Token :  the, Posbility: 0.0371
+Next Token :  to, Posbility: 0.0279
+Next Token :  that, Posbility: 0.0233
+Choose :  whether,  Posbility: 0.5427
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether
+---------------------------
+Next Token :  the, Posbility: 0.6510
+Next Token :  a, Posbility: 0.1121
+Next Token :  num, Posbility: 0.0500
+Next Token :  or, Posbility: 0.0459
+Next Token :  an, Posbility: 0.0314
+Choose :  the,  Posbility: 0.6510
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the
+---------------------------
+Next Token :  number, Posbility: 0.2345
+Next Token :  input, Posbility: 0.1672
+Next Token :  given, Posbility: 0.1637
+Next Token :  integer, Posbility: 0.1041
+Next Token :  frequency, Posbility: 0.0331
+Choose :  number,  Posbility: 0.2345
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number
+---------------------------
+Next Token :  is, Posbility: 0.5823
+Next Token :  passed, Posbility: 0.1408
+Next Token :  provided, Posbility: 0.0329
+Next Token :  given, Posbility: 0.0318
+Next Token :  entered, Posbility: 0.0307
+Choose :  is,  Posbility: 0.5823
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is
+---------------------------
+Next Token :  valid, Posbility: 0.3333
+Next Token :  a, Posbility: 0.3291
+Next Token :  an, Posbility: 0.0585
+Next Token :  in, Posbility: 0.0408
+Next Token :  within, Posbility: 0.0134
+Choose :  valid,  Posbility: 0.3333
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid
+---------------------------
+Next Token :  or, Posbility: 0.4923
+Next Token : ., Posbility: 0.1619
+Next Token : 
+, Posbility: 0.1013
+Next Token : ,, Posbility: 0.0392
+Next Token :  for, Posbility: 0.0234
+Choose :  or,  Posbility: 0.4923
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or
+---------------------------
+Next Token :  not, Posbility: 0.9555
+Next Token :  invalid, Posbility: 0.0204
+Next Token :  does, Posbility: 0.0016
+Next Token :  if, Posbility: 0.0014
+Next Token :  doesn, Posbility: 0.0012
+Choose :  not,  Posbility: 0.9555
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not
+---------------------------
+Next Token : ., Posbility: 0.5018
+Next Token : 
+, Posbility: 0.3430
+Next Token : ,, Posbility: 0.0286
+Next Token : 
+
+, Posbility: 0.0243
+Next Token :  , Posbility: 0.0172
+Choose : .,  Posbility: 0.5018
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+---------------------------
+Next Token : 
+, Posbility: 0.6540
+Next Token : 
+
+, Posbility: 0.0967
+Next Token :  , Posbility: 0.0493
+Next Token :  If, Posbility: 0.0438
+Next Token :  It, Posbility: 0.0173
+Choose : 
+,  Posbility: 0.6540
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+
+---------------------------
+Next Token :     , Posbility: 0.9872
+Next Token :         , Posbility: 0.0078
+Next Token :      , Posbility: 0.0010
+Next Token :       , Posbility: 0.0007
+Next Token :   , Posbility: 0.0004
+Choose :     ,  Posbility: 0.9872
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    
+---------------------------
+Next Token : '', Posbility: 0.2175
+Next Token : :, Posbility: 0.1193
+Next Token : 
+, Posbility: 0.0862
+Next Token : If, Posbility: 0.0526
+Next Token : Args, Posbility: 0.0398
+Choose : '',  Posbility: 0.2175
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '", Posbility: 0.0000
+Next Token : ',, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9416
+Next Token : 
+
+, Posbility: 0.0465
+Next Token :  , Posbility: 0.0056
+Next Token :     , Posbility: 0.0034
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9416
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9893
+Next Token :         , Posbility: 0.0018
+Next Token : 
+, Posbility: 0.0017
+Next Token : def, Posbility: 0.0014
+Next Token :   , Posbility: 0.0012
+Choose :     ,  Posbility: 0.9893
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    
+---------------------------
+Next Token : if, Posbility: 0.2878
+Next Token : #, Posbility: 0.0734
+Next Token : for, Posbility: 0.0552
+Next Token : return, Posbility: 0.0540
+Next Token : num, Posbility: 0.0435
+Choose : if,  Posbility: 0.2878
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if
+---------------------------
+Next Token :  num, Posbility: 0.4510
+Next Token :  len, Posbility: 0.1222
+Next Token :  not, Posbility: 0.1080
+Next Token : (, Posbility: 0.0702
+Next Token :  (, Posbility: 0.0649
+Choose :  num,  Posbility: 0.4510
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num
+---------------------------
+Next Token :  <, Posbility: 0.2272
+Next Token :  ==, Posbility: 0.1984
+Next Token :  >=, Posbility: 0.1398
+Next Token :  >, Posbility: 0.0839
+Next Token :  <=, Posbility: 0.0806
+Choose :  <,  Posbility: 0.2272
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num <
+---------------------------
+Next Token :  10, Posbility: 0.5325
+Next Token :  0, Posbility: 0.3153
+Next Token :  1, Posbility: 0.0565
+Next Token :  9, Posbility: 0.0169
+Next Token :  100, Posbility: 0.0128
+Choose :  10,  Posbility: 0.5325
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10
+---------------------------
+Next Token : :, Posbility: 0.6691
+Next Token :  or, Posbility: 0.2716
+Next Token :  and, Posbility: 0.0352
+Next Token :  :, Posbility: 0.0074
+Next Token : **, Posbility: 0.0067
+Choose : :,  Posbility: 0.6691
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+---------------------------
+Next Token : 
+, Posbility: 0.9087
+Next Token :  return, Posbility: 0.0407
+Next Token :  #, Posbility: 0.0192
+Next Token :  , Posbility: 0.0151
+Next Token :   , Posbility: 0.0041
+Choose : 
+,  Posbility: 0.9087
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+
+---------------------------
+Next Token :         , Posbility: 0.9824
+Next Token :       , Posbility: 0.0054
+Next Token :        , Posbility: 0.0039
+Next Token :             , Posbility: 0.0036
+Next Token :          , Posbility: 0.0019
+Choose :         ,  Posbility: 0.9824
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        
+---------------------------
+Next Token : return, Posbility: 0.8122
+Next Token : print, Posbility: 0.1045
+Next Token : raise, Posbility: 0.0248
+Next Token : if, Posbility: 0.0125
+Next Token : #, Posbility: 0.0112
+Choose : return,  Posbility: 0.8122
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.7097
+Next Token :  True, Posbility: 0.1380
+Next Token :  num, Posbility: 0.0441
+Next Token :  ", Posbility: 0.0235
+Next Token :  ', Posbility: 0.0213
+Choose :  False,  Posbility: 0.7097
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.9246
+Next Token : 
+
+, Posbility: 0.0550
+Next Token :  , Posbility: 0.0064
+Next Token :  #, Posbility: 0.0049
+Next Token : ;, Posbility: 0.0023
+Choose : 
+,  Posbility: 0.9246
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+
+---------------------------
+Next Token :     , Posbility: 0.9924
+Next Token :         , Posbility: 0.0045
+Next Token : 
+, Posbility: 0.0011
+Next Token :   , Posbility: 0.0004
+Next Token :  , Posbility: 0.0003
+Choose :     ,  Posbility: 0.9924
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    
+---------------------------
+Next Token : else, Posbility: 0.3242
+Next Token : if, Posbility: 0.1710
+Next Token : el, Posbility: 0.1571
+Next Token : for, Posbility: 0.0766
+Next Token : return, Posbility: 0.0680
+Choose : else,  Posbility: 0.3242
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else
+---------------------------
+Next Token : :, Posbility: 0.9935
+Next Token :  :, Posbility: 0.0063
+Next Token : :#, Posbility: 0.0001
+Next Token :  if, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Choose : :,  Posbility: 0.9935
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9633
+Next Token :  , Posbility: 0.0192
+Next Token :  return, Posbility: 0.0112
+Next Token :  #, Posbility: 0.0014
+Next Token :     , Posbility: 0.0013
+Choose : 
+,  Posbility: 0.9633
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9924
+Next Token :        , Posbility: 0.0029
+Next Token :          , Posbility: 0.0014
+Next Token :     , Posbility: 0.0009
+Next Token :       , Posbility: 0.0008
+Choose :         ,  Posbility: 0.9924
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.3728
+Next Token : for, Posbility: 0.1723
+Next Token : if, Posbility: 0.0962
+Next Token : num, Posbility: 0.0291
+Next Token : digit, Posbility: 0.0278
+Choose : return,  Posbility: 0.3728
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.8079
+Next Token :  num, Posbility: 0.0908
+Next Token :  (, Posbility: 0.0177
+Next Token :  not, Posbility: 0.0104
+Next Token :  is, Posbility: 0.0089
+Choose :  True,  Posbility: 0.8079
+---------------------------
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.8669
+Next Token : 
+
+, Posbility: 0.1058
+Next Token :  , Posbility: 0.0093
+Next Token :     , Posbility: 0.0040
+Next Token : <|endoftext|>, Posbility: 0.0034
+EOS token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 7.913536310195923
+
+
+
+----------Syntax Error-----------
+
+'''Write a python function takes in an integer and check whether the frequency of each digit in the integer is less than or equal to the digit itself.'''
+def 
+def is_valid(num):
+    '''
+    Checks whether the number is valid or not.
+    '''
+    if num < 10:
+        return False
+    else:
+        return True
+
+
+
+Error Start : (2, 4), Error End (3, 0)
+
+<<<<<<<<<<<<< End : In Time >>>>>>>>>>>>
+
+<<<<<<<<<<<<< End : Timeout >>>>>>>>>>>>
