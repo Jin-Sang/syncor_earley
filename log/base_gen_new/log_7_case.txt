@@ -1,0 +1,1353 @@
+<<<<<<<<<<<< 7 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  remove, Posbility: 0.6858
+Next Token :  first, Posbility: 0.1115
+Next Token :  Remove, Posbility: 0.0144
+Next Token :  find, Posbility: 0.0106
+Next Token :  replace, Posbility: 0.0097
+Choose :  remove,  Posbility: 0.6858
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove
+---------------------------
+Next Token : _, Posbility: 0.5719
+Next Token : First, Posbility: 0.1838
+Next Token : (, Posbility: 0.0573
+Next Token : first, Posbility: 0.0477
+Next Token : Char, Posbility: 0.0424
+Choose : _,  Posbility: 0.5719
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_
+---------------------------
+Next Token : first, Posbility: 0.7671
+Next Token : char, Posbility: 0.0558
+Next Token : last, Posbility: 0.0167
+Next Token : f, Posbility: 0.0099
+Next Token : ch, Posbility: 0.0097
+Choose : first,  Posbility: 0.7671
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first
+---------------------------
+Next Token : _, Posbility: 0.9047
+Next Token : (, Posbility: 0.0837
+Next Token : and, Posbility: 0.0020
+Next Token : last, Posbility: 0.0019
+Next Token : And, Posbility: 0.0007
+Choose : _,  Posbility: 0.9047
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_
+---------------------------
+Next Token : and, Posbility: 0.4948
+Next Token : last, Posbility: 0.4395
+Next Token : char, Posbility: 0.0081
+Next Token : occ, Posbility: 0.0076
+Next Token : or, Posbility: 0.0069
+Choose : and,  Posbility: 0.4948
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and
+---------------------------
+Next Token : _, Posbility: 0.9979
+Next Token : (, Posbility: 0.0009
+Next Token : last, Posbility: 0.0004
+Next Token : Last, Posbility: 0.0003
+Next Token : __, Posbility: 0.0002
+Choose : _,  Posbility: 0.9979
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_
+---------------------------
+Next Token : last, Posbility: 0.9948
+Next Token : end, Posbility: 0.0008
+Next Token : first, Posbility: 0.0005
+Next Token : rest, Posbility: 0.0004
+Next Token : l, Posbility: 0.0003
+Choose : last,  Posbility: 0.9948
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last
+---------------------------
+Next Token : (, Posbility: 0.6432
+Next Token : _, Posbility: 0.3437
+Next Token : Occ, Posbility: 0.0049
+Next Token :  (, Posbility: 0.0023
+Next Token : char, Posbility: 0.0008
+Choose : (,  Posbility: 0.6432
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(
+---------------------------
+Next Token : string, Posbility: 0.4081
+Next Token : str, Posbility: 0.1973
+Next Token : s, Posbility: 0.1329
+Next Token : text, Posbility: 0.0433
+Next Token : input, Posbility: 0.0379
+Choose : string,  Posbility: 0.4081
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string
+---------------------------
+Next Token : ,, Posbility: 0.5946
+Next Token : ):, Posbility: 0.3338
+Next Token : :, Posbility: 0.0412
+Next Token : _, Posbility: 0.0196
+Next Token : 1, Posbility: 0.0041
+Choose : ,,  Posbility: 0.5946
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string,
+---------------------------
+Next Token :  char, Posbility: 0.5664
+Next Token :  character, Posbility: 0.1184
+Next Token : char, Posbility: 0.0737
+Next Token :  ch, Posbility: 0.0336
+Next Token : ch, Posbility: 0.0327
+Choose :  char,  Posbility: 0.5664
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char
+---------------------------
+Next Token : ):, Posbility: 0.9611
+Next Token : _, Posbility: 0.0200
+Next Token : =, Posbility: 0.0050
+Next Token : =', Posbility: 0.0043
+Next Token :  =, Posbility: 0.0026
+Choose : ):,  Posbility: 0.9611
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+---------------------------
+Next Token : 
+, Posbility: 0.9332
+Next Token : 
+
+, Posbility: 0.0334
+Next Token : , Posbility: 0.0214
+Next Token :  , Posbility: 0.0060
+Next Token :  #, Posbility: 0.0019
+Choose : 
+,  Posbility: 0.9332
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+
+---------------------------
+Next Token :     , Posbility: 0.9643
+Next Token :   , Posbility: 0.0161
+Next Token : 	, Posbility: 0.0160
+Next Token :    , Posbility: 0.0016
+Next Token :         , Posbility: 0.0009
+Choose :     ,  Posbility: 0.9643
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    
+---------------------------
+Next Token : '', Posbility: 0.2302
+Next Token : if, Posbility: 0.1498
+Next Token : #, Posbility: 0.0839
+Next Token : return, Posbility: 0.0497
+Next Token : string, Posbility: 0.0445
+Choose : '',  Posbility: 0.2302
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    ''
+---------------------------
+Next Token : ', Posbility: 0.9997
+Next Token : '", Posbility: 0.0001
+Next Token : ':, Posbility: 0.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Choose : ',  Posbility: 0.9997
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.1310
+Next Token : Remove, Posbility: 0.0993
+Next Token : Write, Posbility: 0.0871
+Next Token : Function, Posbility: 0.0834
+Next Token : This, Posbility: 0.0509
+Choose : 
+,  Posbility: 0.1310
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9101
+Next Token :         , Posbility: 0.0689
+Next Token :      , Posbility: 0.0042
+Next Token :       , Posbility: 0.0030
+Next Token :        , Posbility: 0.0029
+Choose :     ,  Posbility: 0.9101
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    
+---------------------------
+Next Token : string, Posbility: 0.0679
+Next Token : This, Posbility: 0.0645
+Next Token : :, Posbility: 0.0612
+Next Token : Input, Posbility: 0.0510
+Next Token : Function, Posbility: 0.0508
+Choose : string,  Posbility: 0.0679
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string
+---------------------------
+Next Token : :, Posbility: 0.4057
+Next Token :  :, Posbility: 0.1597
+Next Token :  =, Posbility: 0.1225
+Next Token :  -, Posbility: 0.0986
+Next Token :  is, Posbility: 0.0329
+Choose : :,  Posbility: 0.4057
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string:
+---------------------------
+Next Token :  string, Posbility: 0.3105
+Next Token :  the, Posbility: 0.1047
+Next Token :  a, Posbility: 0.0982
+Next Token :  str, Posbility: 0.0958
+Next Token :  String, Posbility: 0.0719
+Choose :  string,  Posbility: 0.3105
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string
+---------------------------
+Next Token :  to, Posbility: 0.6424
+Next Token :  of, Posbility: 0.0475
+Next Token : 
+, Posbility: 0.0469
+Next Token :  that, Posbility: 0.0208
+Next Token :  which, Posbility: 0.0195
+Choose :  to,  Posbility: 0.6424
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to
+---------------------------
+Next Token :  be, Posbility: 0.4857
+Next Token :  remove, Posbility: 0.1622
+Next Token :  check, Posbility: 0.0480
+Next Token :  search, Posbility: 0.0429
+Next Token :  modify, Posbility: 0.0392
+Choose :  be,  Posbility: 0.4857
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be
+---------------------------
+Next Token :  checked, Posbility: 0.2074
+Next Token :  modified, Posbility: 0.1676
+Next Token :  processed, Posbility: 0.0868
+Next Token :  searched, Posbility: 0.0824
+Next Token :  analyzed, Posbility: 0.0616
+Choose :  checked,  Posbility: 0.2074
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+---------------------------
+Next Token : 
+, Posbility: 0.7021
+Next Token :  for, Posbility: 0.0862
+Next Token : ., Posbility: 0.0763
+Next Token :  and, Posbility: 0.0375
+Next Token : ,, Posbility: 0.0208
+Choose : 
+,  Posbility: 0.7021
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+
+---------------------------
+Next Token :     , Posbility: 0.9726
+Next Token :         , Posbility: 0.0186
+Next Token :             , Posbility: 0.0033
+Next Token :        , Posbility: 0.0012
+Next Token :            , Posbility: 0.0007
+Choose :     ,  Posbility: 0.9726
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    
+---------------------------
+Next Token : char, Posbility: 0.9114
+Next Token : '', Posbility: 0.0152
+Next Token : return, Posbility: 0.0086
+Next Token : ch, Posbility: 0.0074
+Next Token : 
+, Posbility: 0.0055
+Choose : char,  Posbility: 0.9114
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char
+---------------------------
+Next Token : :, Posbility: 0.9656
+Next Token :  :, Posbility: 0.0164
+Next Token :  =, Posbility: 0.0029
+Next Token : _, Posbility: 0.0021
+Next Token :  to, Posbility: 0.0013
+Choose : :,  Posbility: 0.9656
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char:
+---------------------------
+Next Token :  character, Posbility: 0.4781
+Next Token :  the, Posbility: 0.1317
+Next Token :  char, Posbility: 0.1214
+Next Token :  first, Posbility: 0.0409
+Next Token :  a, Posbility: 0.0361
+Choose :  character,  Posbility: 0.4781
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character
+---------------------------
+Next Token :  to, Posbility: 0.8259
+Next Token :  that, Posbility: 0.0270
+Next Token :  whose, Posbility: 0.0182
+Next Token : 
+, Posbility: 0.0164
+Next Token :  which, Posbility: 0.0115
+Choose :  to,  Posbility: 0.8259
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to
+---------------------------
+Next Token :  be, Posbility: 0.9020
+Next Token :  remove, Posbility: 0.0535
+Next Token :  search, Posbility: 0.0112
+Next Token :  check, Posbility: 0.0080
+Next Token :  find, Posbility: 0.0054
+Choose :  be,  Posbility: 0.9020
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be
+---------------------------
+Next Token :  removed, Posbility: 0.2915
+Next Token :  searched, Posbility: 0.2726
+Next Token :  checked, Posbility: 0.2592
+Next Token :  replaced, Posbility: 0.0341
+Next Token :  found, Posbility: 0.0251
+Choose :  removed,  Posbility: 0.2915
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+---------------------------
+Next Token : 
+, Posbility: 0.6262
+Next Token :  from, Posbility: 0.2260
+Next Token : 
+
+, Posbility: 0.0554
+Next Token : ., Posbility: 0.0186
+Next Token :  in, Posbility: 0.0127
+Choose : 
+,  Posbility: 0.6262
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+
+---------------------------
+Next Token :     , Posbility: 0.9952
+Next Token :         , Posbility: 0.0022
+Next Token :      , Posbility: 0.0006
+Next Token :             , Posbility: 0.0004
+Next Token : '', Posbility: 0.0002
+Choose :     ,  Posbility: 0.9952
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    
+---------------------------
+Next Token : '', Posbility: 0.4306
+Next Token : return, Posbility: 0.2242
+Next Token : 
+, Posbility: 0.1136
+Next Token : Returns, Posbility: 0.0387
+Next Token : Return, Posbility: 0.0361
+Choose : '',  Posbility: 0.4306
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    ''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : '', Posbility: 0.0000
+Next Token : 't, Posbility: 0.0000
+Next Token :  ', Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+---------------------------
+Next Token : 
+, Posbility: 0.9333
+Next Token : 
+
+, Posbility: 0.0599
+Next Token :  , Posbility: 0.0040
+Next Token :     , Posbility: 0.0013
+Next Token :   , Posbility: 0.0006
+Choose : 
+,  Posbility: 0.9333
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+
+---------------------------
+Next Token :     , Posbility: 0.9945
+Next Token :         , Posbility: 0.0013
+Next Token :   , Posbility: 0.0007
+Next Token :    , Posbility: 0.0006
+Next Token : 	, Posbility: 0.0005
+Choose :     ,  Posbility: 0.9945
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    
+---------------------------
+Next Token : if, Posbility: 0.2300
+Next Token : #, Posbility: 0.1007
+Next Token : index, Posbility: 0.0485
+Next Token : return, Posbility: 0.0463
+Next Token : '', Posbility: 0.0444
+Choose : if,  Posbility: 0.2300
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if
+---------------------------
+Next Token :  char, Posbility: 0.4250
+Next Token :  string, Posbility: 0.2240
+Next Token :  len, Posbility: 0.1842
+Next Token : (, Posbility: 0.0516
+Next Token :  not, Posbility: 0.0422
+Choose :  char,  Posbility: 0.4250
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char
+---------------------------
+Next Token :  in, Posbility: 0.6984
+Next Token :  not, Posbility: 0.1960
+Next Token :  ==, Posbility: 0.0702
+Next Token : !=, Posbility: 0.0080
+Next Token : ., Posbility: 0.0077
+Choose :  in,  Posbility: 0.6984
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in
+---------------------------
+Next Token :  string, Posbility: 0.9687
+Next Token :  list, Posbility: 0.0108
+Next Token :  set, Posbility: 0.0052
+Next Token :  str, Posbility: 0.0038
+Next Token :  char, Posbility: 0.0020
+Choose :  string,  Posbility: 0.9687
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string
+---------------------------
+Next Token : :, Posbility: 0.8806
+Next Token : [, Posbility: 0.0456
+Next Token :  and, Posbility: 0.0273
+Next Token : ., Posbility: 0.0232
+Next Token :  :, Posbility: 0.0189
+Choose : :,  Posbility: 0.8806
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+---------------------------
+Next Token : 
+, Posbility: 0.9560
+Next Token :  , Posbility: 0.0104
+Next Token :  #, Posbility: 0.0090
+Next Token :   , Posbility: 0.0046
+Next Token : 
+
+, Posbility: 0.0041
+Choose : 
+,  Posbility: 0.9560
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+
+---------------------------
+Next Token :         , Posbility: 0.9815
+Next Token :       , Posbility: 0.0052
+Next Token :        , Posbility: 0.0042
+Next Token :             , Posbility: 0.0032
+Next Token :     , Posbility: 0.0029
+Choose :         ,  Posbility: 0.9815
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        
+---------------------------
+Next Token : string, Posbility: 0.2115
+Next Token : return, Posbility: 0.1234
+Next Token : index, Posbility: 0.0935
+Next Token : start, Posbility: 0.0750
+Next Token : first, Posbility: 0.0703
+Choose : string,  Posbility: 0.2115
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string
+---------------------------
+Next Token :  =, Posbility: 0.7788
+Next Token : ., Posbility: 0.0941
+Next Token : =, Posbility: 0.0844
+Next Token : _, Posbility: 0.0272
+Next Token : [, Posbility: 0.0055
+Choose :  =,  Posbility: 0.7788
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string =
+---------------------------
+Next Token :  string, Posbility: 0.9501
+Next Token :  list, Posbility: 0.0235
+Next Token :  str, Posbility: 0.0055
+Next Token :  ', Posbility: 0.0036
+Next Token :  remove, Posbility: 0.0027
+Choose :  string,  Posbility: 0.9501
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string
+---------------------------
+Next Token : ., Posbility: 0.9004
+Next Token : [, Posbility: 0.0976
+Next Token :  [, Posbility: 0.0007
+Next Token : ., Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0002
+Choose : .,  Posbility: 0.9004
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.
+---------------------------
+Next Token : replace, Posbility: 0.9405
+Next Token : split, Posbility: 0.0334
+Next Token : lower, Posbility: 0.0126
+Next Token : strip, Posbility: 0.0051
+Next Token : l, Posbility: 0.0032
+Choose : replace,  Posbility: 0.9405
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace
+---------------------------
+Next Token : (, Posbility: 0.9925
+Next Token : (', Posbility: 0.0042
+Next Token :  (, Posbility: 0.0016
+Next Token : (", Posbility: 0.0013
+Next Token : (), Posbility: 0.0001
+Choose : (,  Posbility: 0.9925
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(
+---------------------------
+Next Token : char, Posbility: 0.9165
+Next Token : string, Posbility: 0.0608
+Next Token : str, Posbility: 0.0095
+Next Token : ch, Posbility: 0.0029
+Next Token : f, Posbility: 0.0023
+Choose : char,  Posbility: 0.9165
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char
+---------------------------
+Next Token : ,, Posbility: 0.9268
+Next Token : ,', Posbility: 0.0439
+Next Token : ,", Posbility: 0.0217
+Next Token : ,, Posbility: 0.0022
+Next Token :  +, Posbility: 0.0018
+Choose : ,,  Posbility: 0.9268
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char,
+---------------------------
+Next Token :  ", Posbility: 0.5135
+Next Token :  '', Posbility: 0.3999
+Next Token :  ', Posbility: 0.0666
+Next Token : '', Posbility: 0.0138
+Next Token :  "", Posbility: 0.0008
+Choose :  ",  Posbility: 0.5135
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "
+---------------------------
+Next Token : "), Posbility: 0.7851
+Next Token : ",, Posbility: 0.1524
+Next Token :  ", Posbility: 0.0398
+Next Token : ")., Posbility: 0.0101
+Next Token :  ",, Posbility: 0.0039
+Choose : "),  Posbility: 0.7851
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+---------------------------
+Next Token : 
+, Posbility: 0.9329
+Next Token : 
+
+, Posbility: 0.0315
+Next Token :  #, Posbility: 0.0141
+Next Token :  , Posbility: 0.0070
+Next Token :   , Posbility: 0.0040
+Choose : 
+,  Posbility: 0.9329
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+
+---------------------------
+Next Token :     , Posbility: 0.5950
+Next Token :         , Posbility: 0.3965
+Next Token : 
+, Posbility: 0.0044
+Next Token : #, Posbility: 0.0009
+Next Token : print, Posbility: 0.0006
+Choose :     ,  Posbility: 0.5950
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    
+---------------------------
+Next Token : return, Posbility: 0.5262
+Next Token : else, Posbility: 0.2509
+Next Token : if, Posbility: 0.1169
+Next Token : el, Posbility: 0.0318
+Next Token : 
+, Posbility: 0.0291
+Choose : return,  Posbility: 0.5262
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return
+---------------------------
+Next Token :  string, Posbility: 0.9452
+Next Token : (, Posbility: 0.0275
+Next Token :  (, Posbility: 0.0077
+Next Token :  str, Posbility: 0.0054
+Next Token :  ", Posbility: 0.0023
+Choose :  string,  Posbility: 0.9452
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+---------------------------
+Next Token : 
+, Posbility: 0.7017
+Next Token : 
+
+, Posbility: 0.2159
+Next Token : <|endoftext|>, Posbility: 0.0322
+Next Token :  , Posbility: 0.0145
+Next Token : ., Posbility: 0.0098
+Choose : 
+,  Posbility: 0.7017
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+---------------------------
+Next Token : 
+, Posbility: 0.7196
+Next Token : print, Posbility: 0.0758
+Next Token :     , Posbility: 0.0605
+Next Token : <|endoftext|>, Posbility: 0.0414
+Next Token : #, Posbility: 0.0281
+Choose : 
+,  Posbility: 0.7196
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9123
+Next Token : 
+
+, Posbility: 0.0305
+Next Token : <|endoftext|>, Posbility: 0.0278
+Next Token :     , Posbility: 0.0233
+Next Token :         , Posbility: 0.0017
+Choose : 
+,  Posbility: 0.9123
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.2770
+Next Token : print, Posbility: 0.1611
+Next Token : def, Posbility: 0.1521
+Next Token : #, Posbility: 0.1400
+Next Token : if, Posbility: 0.1101
+Choose : '',  Posbility: 0.2770
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.6269
+Next Token : 
+, Posbility: 0.1621
+Next Token :  Write, Posbility: 0.0298
+Next Token : Remove, Posbility: 0.0124
+Next Token : Test, Posbility: 0.0071
+Choose : Write,  Posbility: 0.6269
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9828
+Next Token :  your, Posbility: 0.0047
+Next Token :  an, Posbility: 0.0034
+Next Token :  python, Posbility: 0.0016
+Next Token :  the, Posbility: 0.0014
+Choose :  a,  Posbility: 0.9828
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9415
+Next Token :  function, Posbility: 0.0273
+Next Token :  Python, Posbility: 0.0168
+Next Token :  program, Posbility: 0.0029
+Next Token :  recursive, Posbility: 0.0008
+Choose :  python,  Posbility: 0.9415
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9766
+Next Token :  program, Posbility: 0.0111
+Next Token :  script, Posbility: 0.0021
+Next Token :  fun, Posbility: 0.0016
+Next Token :  functions, Posbility: 0.0007
+Choose :  function,  Posbility: 0.9766
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8850
+Next Token :  that, Posbility: 0.0764
+Next Token :  which, Posbility: 0.0113
+Next Token :  for, Posbility: 0.0031
+Next Token :  called, Posbility: 0.0020
+Choose :  to,  Posbility: 0.8850
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to
+---------------------------
+Next Token :  remove, Posbility: 0.2384
+Next Token :  count, Posbility: 0.0968
+Next Token :  check, Posbility: 0.0904
+Next Token :  find, Posbility: 0.0702
+Next Token :  print, Posbility: 0.0538
+Choose :  remove,  Posbility: 0.2384
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove
+---------------------------
+Next Token :  the, Posbility: 0.1612
+Next Token :  a, Posbility: 0.1249
+Next Token :  all, Posbility: 0.1137
+Next Token :  first, Posbility: 0.0810
+Next Token :  characters, Posbility: 0.0233
+Choose :  the,  Posbility: 0.1612
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the
+---------------------------
+Next Token :  first, Posbility: 0.1808
+Next Token :  middle, Posbility: 0.0936
+Next Token :  given, Posbility: 0.0789
+Next Token :  even, Posbility: 0.0336
+Next Token :  character, Posbility: 0.0311
+Choose :  first,  Posbility: 0.1808
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first
+---------------------------
+Next Token :  occurrence, Posbility: 0.5277
+Next Token :  and, Posbility: 0.2326
+Next Token :  occ, Posbility: 0.0545
+Next Token :  instance, Posbility: 0.0217
+Next Token :  appearance, Posbility: 0.0202
+Choose :  occurrence,  Posbility: 0.5277
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence
+---------------------------
+Next Token :  of, Posbility: 0.9796
+Next Token : 
+, Posbility: 0.0023
+Next Token :  and, Posbility: 0.0018
+Next Token :  (, Posbility: 0.0014
+Next Token :  from, Posbility: 0.0013
+Choose :  of,  Posbility: 0.9796
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of
+---------------------------
+Next Token :  a, Posbility: 0.6256
+Next Token :  the, Posbility: 0.1676
+Next Token :  any, Posbility: 0.0387
+Next Token :  an, Posbility: 0.0234
+Next Token :  character, Posbility: 0.0172
+Choose :  a,  Posbility: 0.6256
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a
+---------------------------
+Next Token :  given, Posbility: 0.7846
+Next Token :  character, Posbility: 0.0479
+Next Token :  certain, Posbility: 0.0298
+Next Token :  specific, Posbility: 0.0227
+Next Token :  specified, Posbility: 0.0156
+Choose :  given,  Posbility: 0.7846
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given
+---------------------------
+Next Token :  character, Posbility: 0.8000
+Next Token :  subst, Posbility: 0.0443
+Next Token :  letter, Posbility: 0.0249
+Next Token :  string, Posbility: 0.0247
+Next Token :  word, Posbility: 0.0134
+Choose :  character,  Posbility: 0.8000
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character
+---------------------------
+Next Token :  from, Posbility: 0.7592
+Next Token :  in, Posbility: 0.0792
+Next Token : 
+, Posbility: 0.0292
+Next Token : ., Posbility: 0.0152
+Next Token : .', Posbility: 0.0137
+Choose :  from,  Posbility: 0.7592
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from
+---------------------------
+Next Token :  the, Posbility: 0.7220
+Next Token :  a, Posbility: 0.1693
+Next Token :  string, Posbility: 0.0152
+Next Token :  all, Posbility: 0.0149
+Next Token : 
+, Posbility: 0.0114
+Choose :  the,  Posbility: 0.7220
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from the
+---------------------------
+Next Token :  string, Posbility: 0.9292
+Next Token :  given, Posbility: 0.0228
+Next Token : 
+, Posbility: 0.0082
+Next Token :  , Posbility: 0.0045
+Next Token :  list, Posbility: 0.0038
+Choose :  string,  Posbility: 0.9292
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from the string
+---------------------------
+Next Token : .', Posbility: 0.7418
+Next Token : ., Posbility: 0.1269
+Next Token :  and, Posbility: 0.0178
+Next Token : '', Posbility: 0.0176
+Next Token : ,, Posbility: 0.0157
+Choose : .',  Posbility: 0.7418
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from the string.'
+---------------------------
+Next Token : '', Posbility: 0.9992
+Next Token : 
+, Posbility: 0.0004
+Next Token :  ', Posbility: 0.0003
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9992
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from the string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9343
+Next Token : 
+
+, Posbility: 0.0558
+Next Token :  , Posbility: 0.0045
+Next Token :     , Posbility: 0.0012
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9343
+---------------------------
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from the string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9354
+Next Token : 
+, Posbility: 0.0448
+Next Token : #, Posbility: 0.0098
+Next Token : import, Posbility: 0.0026
+Next Token : from, Posbility: 0.0013
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 12.725917339324951
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to remove first and last occurrence of a given character from the string.'''
+def remove_first_and_last(string, char):
+    '''
+    string: string to be checked
+    char: character to be removed
+    '''
+    if char in string:
+        string = string.replace(char, "")
+    return string
+
+
+'''Write a python function to remove the first occurrence of a given character from the string.'''
+

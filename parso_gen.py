@@ -193,6 +193,9 @@ def continue_generate(text):
 # description을 받아옴                
 text = sys.argv[2]
 
+# 후보 리스트 
+possible = []
+
 # 테스트 실행
 continue_generate(text)
                 

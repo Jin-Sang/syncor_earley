@@ -9,7 +9,7 @@ index = sys.argv[1]
 
 # log를 기록할 파일 설정
 # 디렉터리 경로
-directory_path = "/home/jskim/syncor/log/def_base_gen"
+directory_path = "/home/jskim/syncor/log/base_gen_new"
 # 파일명 생성
 file_name = f"log_{index}_case.txt"
 # 파일 경로

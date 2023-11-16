@@ -1,0 +1,1042 @@
+<<<<<<<<<<<< 12 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  remove, Posbility: 0.7996
+Next Token :  first, Posbility: 0.0214
+Next Token :  Remove, Posbility: 0.0151
+Next Token :  rem, Posbility: 0.0113
+Next Token :  find, Posbility: 0.0099
+Choose :  remove,  Posbility: 0.7996
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove
+---------------------------
+Next Token : _, Posbility: 0.6689
+Next Token : (, Posbility: 0.0777
+Next Token : Char, Posbility: 0.0557
+Next Token : Characters, Posbility: 0.0380
+Next Token : Ch, Posbility: 0.0198
+Choose : _,  Posbility: 0.6689
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_
+---------------------------
+Next Token : char, Posbility: 0.3747
+Next Token : ch, Posbility: 0.1976
+Next Token : character, Posbility: 0.0875
+Next Token : from, Posbility: 0.0262
+Next Token : first, Posbility: 0.0238
+Choose : char,  Posbility: 0.3747
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_char
+---------------------------
+Next Token : acters, Posbility: 0.5395
+Next Token : (, Posbility: 0.3931
+Next Token : _, Posbility: 0.0561
+Next Token : 1, Posbility: 0.0015
+Next Token :  (, Posbility: 0.0014
+Choose : acters,  Posbility: 0.5395
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters
+---------------------------
+Next Token : (, Posbility: 0.6867
+Next Token : _, Posbility: 0.3030
+Next Token : ():, Posbility: 0.0028
+Next Token : 1, Posbility: 0.0021
+Next Token : 2, Posbility: 0.0020
+Choose : (,  Posbility: 0.6867
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(
+---------------------------
+Next Token : first, Posbility: 0.2118
+Next Token : string, Posbility: 0.1863
+Next Token : s, Posbility: 0.1713
+Next Token : str, Posbility: 0.1030
+Next Token : a, Posbility: 0.0537
+Choose : first,  Posbility: 0.2118
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first
+---------------------------
+Next Token : _, Posbility: 0.5767
+Next Token : ,, Posbility: 0.3422
+Next Token : String, Posbility: 0.0217
+Next Token : :, Posbility: 0.0186
+Next Token : string, Posbility: 0.0131
+Choose : _,  Posbility: 0.5767
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_
+---------------------------
+Next Token : string, Posbility: 0.6913
+Next Token : str, Posbility: 0.2628
+Next Token : text, Posbility: 0.0081
+Next Token : word, Posbility: 0.0060
+Next Token : s, Posbility: 0.0046
+Choose : string,  Posbility: 0.6913
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string
+---------------------------
+Next Token : ,, Posbility: 0.9586
+Next Token : :, Posbility: 0.0257
+Next Token : ):, Posbility: 0.0098
+Next Token : _, Posbility: 0.0031
+Next Token : ,, Posbility: 0.0012
+Choose : ,,  Posbility: 0.9586
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string,
+---------------------------
+Next Token :  second, Posbility: 0.9095
+Next Token : second, Posbility: 0.0869
+Next Token :  other, Posbility: 0.0003
+Next Token :  character, Posbility: 0.0003
+Next Token :  first, Posbility: 0.0003
+Choose :  second,  Posbility: 0.9095
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second
+---------------------------
+Next Token : _, Posbility: 0.9981
+Next Token : ):, Posbility: 0.0014
+Next Token : String, Posbility: 0.0002
+Next Token : string, Posbility: 0.0001
+Next Token : ,, Posbility: 0.0001
+Choose : _,  Posbility: 0.9981
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_
+---------------------------
+Next Token : string, Posbility: 0.9942
+Next Token : str, Posbility: 0.0028
+Next Token : list, Posbility: 0.0010
+Next Token : strings, Posbility: 0.0002
+Next Token : text, Posbility: 0.0002
+Choose : string,  Posbility: 0.9942
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string
+---------------------------
+Next Token : ):, Posbility: 0.9808
+Next Token : ,, Posbility: 0.0171
+Next Token : ), Posbility: 0.0015
+Next Token : _, Posbility: 0.0003
+Next Token : =, Posbility: 0.0001
+Choose : ):,  Posbility: 0.9808
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+---------------------------
+Next Token : 
+, Posbility: 0.9288
+Next Token : 
+
+, Posbility: 0.0315
+Next Token : , Posbility: 0.0252
+Next Token :  , Posbility: 0.0087
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9288
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+
+---------------------------
+Next Token :     , Posbility: 0.9522
+Next Token : 	, Posbility: 0.0206
+Next Token :   , Posbility: 0.0195
+Next Token :    , Posbility: 0.0026
+Next Token :         , Posbility: 0.0024
+Choose :     ,  Posbility: 0.9522
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    
+---------------------------
+Next Token : for, Posbility: 0.1381
+Next Token : '', Posbility: 0.1350
+Next Token : #, Posbility: 0.0987
+Next Token : first, Posbility: 0.0509
+Next Token : if, Posbility: 0.0468
+Choose : for,  Posbility: 0.1381
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for
+---------------------------
+Next Token :  char, Posbility: 0.3277
+Next Token :  i, Posbility: 0.3214
+Next Token :  character, Posbility: 0.0656
+Next Token :  letter, Posbility: 0.0508
+Next Token :  x, Posbility: 0.0348
+Choose :  char,  Posbility: 0.3277
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char
+---------------------------
+Next Token :  in, Posbility: 0.9798
+Next Token : _, Posbility: 0.0121
+Next Token : 1, Posbility: 0.0041
+Next Token : ,, Posbility: 0.0010
+Next Token : ac, Posbility: 0.0007
+Choose :  in,  Posbility: 0.9798
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in
+---------------------------
+Next Token :  second, Posbility: 0.6755
+Next Token :  first, Posbility: 0.2614
+Next Token :  range, Posbility: 0.0304
+Next Token :  set, Posbility: 0.0125
+Next Token :  list, Posbility: 0.0054
+Choose :  second,  Posbility: 0.6755
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second
+---------------------------
+Next Token : _, Posbility: 0.9999
+Next Token : :, Posbility: 0.0001
+Next Token : ., Posbility: 0.0000
+Next Token : [, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 0.9999
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_
+---------------------------
+Next Token : string, Posbility: 0.9997
+Next Token : str, Posbility: 0.0002
+Next Token : list, Posbility: 0.0000
+Next Token : word, Posbility: 0.0000
+Next Token : strings, Posbility: 0.0000
+Choose : string,  Posbility: 0.9997
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string
+---------------------------
+Next Token : :, Posbility: 0.9631
+Next Token : ., Posbility: 0.0266
+Next Token : [, Posbility: 0.0062
+Next Token :  :, Posbility: 0.0021
+Next Token :  +, Posbility: 0.0009
+Choose : :,  Posbility: 0.9631
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+---------------------------
+Next Token : 
+, Posbility: 0.9835
+Next Token :  #, Posbility: 0.0043
+Next Token :  , Posbility: 0.0043
+Next Token : 
+
+, Posbility: 0.0033
+Next Token :   , Posbility: 0.0016
+Choose : 
+,  Posbility: 0.9835
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+
+---------------------------
+Next Token :         , Posbility: 0.9815
+Next Token :       , Posbility: 0.0058
+Next Token :             , Posbility: 0.0055
+Next Token :        , Posbility: 0.0030
+Next Token :     , Posbility: 0.0011
+Choose :         ,  Posbility: 0.9815
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        
+---------------------------
+Next Token : if, Posbility: 0.9146
+Next Token : for, Posbility: 0.0181
+Next Token : first, Posbility: 0.0172
+Next Token : try, Posbility: 0.0085
+Next Token : #, Posbility: 0.0066
+Choose : if,  Posbility: 0.9146
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if
+---------------------------
+Next Token :  char, Posbility: 0.9464
+Next Token : (, Posbility: 0.0152
+Next Token :  not, Posbility: 0.0107
+Next Token :  first, Posbility: 0.0103
+Next Token :  (, Posbility: 0.0083
+Choose :  char,  Posbility: 0.9464
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char
+---------------------------
+Next Token :  in, Posbility: 0.9189
+Next Token :  not, Posbility: 0.0696
+Next Token : ., Posbility: 0.0086
+Next Token :  ==, Posbility: 0.0009
+Next Token :   , Posbility: 0.0009
+Choose :  in,  Posbility: 0.9189
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in
+---------------------------
+Next Token :  first, Posbility: 0.9882
+Next Token :  second, Posbility: 0.0082
+Next Token :  list, Posbility: 0.0007
+Next Token :   , Posbility: 0.0006
+Next Token :  set, Posbility: 0.0005
+Choose :  first,  Posbility: 0.9882
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : :, Posbility: 0.0000
+Next Token : ():, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_
+---------------------------
+Next Token : string, Posbility: 0.9999
+Next Token : str, Posbility: 0.0001
+Next Token : list, Posbility: 0.0000
+Next Token : word, Posbility: 0.0000
+Next Token : set, Posbility: 0.0000
+Choose : string,  Posbility: 0.9999
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string
+---------------------------
+Next Token : :, Posbility: 0.9612
+Next Token : ., Posbility: 0.0195
+Next Token :  and, Posbility: 0.0148
+Next Token : [, Posbility: 0.0015
+Next Token :  or, Posbility: 0.0012
+Choose : :,  Posbility: 0.9612
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+---------------------------
+Next Token : 
+, Posbility: 0.9896
+Next Token :  , Posbility: 0.0030
+Next Token :  #, Posbility: 0.0019
+Next Token : 
+
+, Posbility: 0.0013
+Next Token :   , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9896
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+
+---------------------------
+Next Token :             , Posbility: 0.9891
+Next Token :            , Posbility: 0.0037
+Next Token :                 , Posbility: 0.0036
+Next Token :              , Posbility: 0.0012
+Next Token :           , Posbility: 0.0010
+Choose :             ,  Posbility: 0.9891
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            
+---------------------------
+Next Token : first, Posbility: 0.9324
+Next Token : print, Posbility: 0.0071
+Next Token : second, Posbility: 0.0062
+Next Token : return, Posbility: 0.0058
+Next Token : #, Posbility: 0.0057
+Choose : first,  Posbility: 0.9324
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first
+---------------------------
+Next Token : _, Posbility: 0.9997
+Next Token :  =, Posbility: 0.0002
+Next Token : =, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : _,  Posbility: 0.9997
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_
+---------------------------
+Next Token : string, Posbility: 0.9986
+Next Token : str, Posbility: 0.0004
+Next Token : list, Posbility: 0.0002
+Next Token : index, Posbility: 0.0001
+Next Token : array, Posbility: 0.0001
+Choose : string,  Posbility: 0.9986
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string
+---------------------------
+Next Token :  =, Posbility: 0.5860
+Next Token : ., Posbility: 0.3710
+Next Token : =, Posbility: 0.0371
+Next Token : [, Posbility: 0.0035
+Next Token : _, Posbility: 0.0006
+Choose :  =,  Posbility: 0.5860
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string =
+---------------------------
+Next Token :  first, Posbility: 0.9707
+Next Token :   , Posbility: 0.0068
+Next Token :  list, Posbility: 0.0035
+Next Token :  (, Posbility: 0.0029
+Next Token :  ', Posbility: 0.0027
+Choose :  first,  Posbility: 0.9707
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : [, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Next Token :  =, Posbility: 0.0000
+Next Token : (, Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_
+---------------------------
+Next Token : string, Posbility: 0.9999
+Next Token : str, Posbility: 0.0001
+Next Token : strings, Posbility: 0.0000
+Next Token : list, Posbility: 0.0000
+Next Token : word, Posbility: 0.0000
+Choose : string,  Posbility: 0.9999
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string
+---------------------------
+Next Token : ., Posbility: 0.8642
+Next Token : [, Posbility: 0.1348
+Next Token :  [, Posbility: 0.0004
+Next Token : 
+, Posbility: 0.0002
+Next Token :  -, Posbility: 0.0001
+Choose : .,  Posbility: 0.8642
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.
+---------------------------
+Next Token : replace, Posbility: 0.9953
+Next Token : strip, Posbility: 0.0018
+Next Token : remove, Posbility: 0.0016
+Next Token : l, Posbility: 0.0004
+Next Token : split, Posbility: 0.0003
+Choose : replace,  Posbility: 0.9953
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace
+---------------------------
+Next Token : (, Posbility: 0.9980
+Next Token : (', Posbility: 0.0011
+Next Token : (", Posbility: 0.0004
+Next Token :  (, Posbility: 0.0004
+Next Token : (), Posbility: 0.0000
+Choose : (,  Posbility: 0.9980
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(
+---------------------------
+Next Token : char, Posbility: 0.9941
+Next Token : ch, Posbility: 0.0013
+Next Token : str, Posbility: 0.0011
+Next Token : f, Posbility: 0.0010
+Next Token : 
+, Posbility: 0.0009
+Choose : char,  Posbility: 0.9941
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char
+---------------------------
+Next Token : ,, Posbility: 0.9368
+Next Token : ,', Posbility: 0.0393
+Next Token : ,", Posbility: 0.0196
+Next Token : ,, Posbility: 0.0018
+Next Token : ,'', Posbility: 0.0008
+Choose : ,,  Posbility: 0.9368
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char,
+---------------------------
+Next Token :  ", Posbility: 0.5270
+Next Token :  '', Posbility: 0.3993
+Next Token :  ', Posbility: 0.0591
+Next Token : '', Posbility: 0.0091
+Next Token :  "-, Posbility: 0.0010
+Choose :  ",  Posbility: 0.5270
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "
+---------------------------
+Next Token : "), Posbility: 0.9191
+Next Token :  ", Posbility: 0.0441
+Next Token : ",, Posbility: 0.0282
+Next Token : ")., Posbility: 0.0027
+Next Token :  ",, Posbility: 0.0017
+Choose : "),  Posbility: 0.9191
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+---------------------------
+Next Token : 
+, Posbility: 0.8579
+Next Token : 
+
+, Posbility: 0.1166
+Next Token :  , Posbility: 0.0075
+Next Token :  #, Posbility: 0.0042
+Next Token : <|endoftext|>, Posbility: 0.0032
+Choose : 
+,  Posbility: 0.8579
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+
+---------------------------
+Next Token :     , Posbility: 0.8455
+Next Token :         , Posbility: 0.0708
+Next Token :             , Posbility: 0.0436
+Next Token : 
+, Posbility: 0.0247
+Next Token : print, Posbility: 0.0060
+Choose :     ,  Posbility: 0.8455
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    
+---------------------------
+Next Token : return, Posbility: 0.8166
+Next Token : print, Posbility: 0.0860
+Next Token : if, Posbility: 0.0386
+Next Token : 
+, Posbility: 0.0357
+Next Token : for, Posbility: 0.0060
+Choose : return,  Posbility: 0.8166
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return
+---------------------------
+Next Token :  first, Posbility: 0.8967
+Next Token : (, Posbility: 0.0550
+Next Token :  f, Posbility: 0.0096
+Next Token :  (, Posbility: 0.0074
+Next Token :  ", Posbility: 0.0063
+Choose :  first,  Posbility: 0.8967
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first
+---------------------------
+Next Token : _, Posbility: 1.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : 
+
+, Posbility: 0.0000
+Next Token : ,, Posbility: 0.0000
+Next Token : ., Posbility: 0.0000
+Choose : _,  Posbility: 1.0000
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_
+---------------------------
+Next Token : string, Posbility: 0.9999
+Next Token : str, Posbility: 0.0000
+Next Token :  string, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : s, Posbility: 0.0000
+Choose : string,  Posbility: 0.9999
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+---------------------------
+Next Token : 
+, Posbility: 0.6838
+Next Token : 
+
+, Posbility: 0.2083
+Next Token : <|endoftext|>, Posbility: 0.0699
+Next Token : ., Posbility: 0.0110
+Next Token :  , Posbility: 0.0089
+Choose : 
+,  Posbility: 0.6838
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+---------------------------
+Next Token : 
+, Posbility: 0.6589
+Next Token : print, Posbility: 0.1230
+Next Token : <|endoftext|>, Posbility: 0.0581
+Next Token : #, Posbility: 0.0404
+Next Token :     , Posbility: 0.0323
+Choose : 
+,  Posbility: 0.6589
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.8956
+Next Token : <|endoftext|>, Posbility: 0.0420
+Next Token : 
+
+, Posbility: 0.0363
+Next Token :     , Posbility: 0.0176
+Next Token :         , Posbility: 0.0028
+Choose : 
+,  Posbility: 0.8956
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.3678
+Next Token : #, Posbility: 0.2030
+Next Token : print, Posbility: 0.1568
+Next Token : if, Posbility: 0.0808
+Next Token : def, Posbility: 0.0676
+Choose : '',  Posbility: 0.3678
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+''
+---------------------------
+Next Token : ', Posbility: 1.0000
+Next Token : '/, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Next Token : '-, Posbility: 0.0000
+Next Token : '], Posbility: 0.0000
+Choose : ',  Posbility: 1.0000
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.8351
+Next Token : 
+, Posbility: 0.0270
+Next Token :  Write, Posbility: 0.0248
+Next Token : Remove, Posbility: 0.0052
+Next Token : Return, Posbility: 0.0051
+Choose : Write,  Posbility: 0.8351
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9917
+Next Token :  an, Posbility: 0.0020
+Next Token :  your, Posbility: 0.0016
+Next Token :  function, Posbility: 0.0013
+Next Token :  the, Posbility: 0.0009
+Choose :  a,  Posbility: 0.9917
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a
+---------------------------
+Next Token :  function, Posbility: 0.9418
+Next Token :  program, Posbility: 0.0131
+Next Token :  Python, Posbility: 0.0131
+Next Token :  python, Posbility: 0.0071
+Next Token :  method, Posbility: 0.0025
+Choose :  function,  Posbility: 0.9418
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function
+---------------------------
+Next Token :  to, Posbility: 0.7516
+Next Token :  that, Posbility: 0.1702
+Next Token :  which, Posbility: 0.0285
+Next Token :  called, Posbility: 0.0130
+Next Token :  named, Posbility: 0.0039
+Choose :  to,  Posbility: 0.7516
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to
+---------------------------
+Next Token :  remove, Posbility: 0.1244
+Next Token :  count, Posbility: 0.0647
+Next Token :  print, Posbility: 0.0640
+Next Token :  replace, Posbility: 0.0594
+Next Token :  find, Posbility: 0.0560
+Choose :  remove,  Posbility: 0.1244
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove
+---------------------------
+Next Token :  all, Posbility: 0.1226
+Next Token :  words, Posbility: 0.0888
+Next Token :  the, Posbility: 0.0863
+Next Token :  dupl, Posbility: 0.0836
+Next Token :  characters, Posbility: 0.0568
+Choose :  all,  Posbility: 0.1226
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all
+---------------------------
+Next Token :  the, Posbility: 0.2430
+Next Token :  occurrences, Posbility: 0.1718
+Next Token :  duplicate, Posbility: 0.0644
+Next Token :  spaces, Posbility: 0.0560
+Next Token :  whites, Posbility: 0.0449
+Choose :  the,  Posbility: 0.2430
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the
+---------------------------
+Next Token :  vow, Posbility: 0.1191
+Next Token :  spaces, Posbility: 0.0892
+Next Token :  duplicate, Posbility: 0.0741
+Next Token :  consecutive, Posbility: 0.0534
+Next Token :  dupl, Posbility: 0.0376
+Choose :  vow,  Posbility: 0.1191
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vow
+---------------------------
+Next Token : els, Posbility: 0.9969
+Next Token : les, Posbility: 0.0018
+Next Token : ell, Posbility: 0.0002
+Next Token : es, Posbility: 0.0001
+Next Token : l, Posbility: 0.0001
+Choose : els,  Posbility: 0.9969
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels
+---------------------------
+Next Token :  from, Posbility: 0.7266
+Next Token :  of, Posbility: 0.1041
+Next Token :  in, Posbility: 0.0903
+Next Token :  contained, Posbility: 0.0123
+Next Token :  (, Posbility: 0.0093
+Choose :  from,  Posbility: 0.7266
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from
+---------------------------
+Next Token :  a, Posbility: 0.4933
+Next Token :  the, Posbility: 0.4454
+Next Token :  an, Posbility: 0.0137
+Next Token :  any, Posbility: 0.0113
+Next Token :  string, Posbility: 0.0056
+Choose :  a,  Posbility: 0.4933
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from a
+---------------------------
+Next Token :  string, Posbility: 0.5852
+Next Token :  given, Posbility: 0.2684
+Next Token :  word, Posbility: 0.0613
+Next Token :  sentence, Posbility: 0.0178
+Next Token :  phrase, Posbility: 0.0114
+Choose :  string,  Posbility: 0.5852
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from a string
+---------------------------
+Next Token : .', Posbility: 0.6387
+Next Token : ., Posbility: 0.1798
+Next Token : '', Posbility: 0.0521
+Next Token :  and, Posbility: 0.0260
+Next Token :  using, Posbility: 0.0125
+Choose : .',  Posbility: 0.6387
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from a string.'
+---------------------------
+Next Token : '', Posbility: 0.9995
+Next Token :  ', Posbility: 0.0003
+Next Token : 
+, Posbility: 0.0001
+Next Token :  '', Posbility: 0.0000
+Next Token : '''', Posbility: 0.0000
+Choose : '',  Posbility: 0.9995
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from a string.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9280
+Next Token : 
+
+, Posbility: 0.0636
+Next Token : def, Posbility: 0.0030
+Next Token :  , Posbility: 0.0030
+Next Token :   , Posbility: 0.0007
+Choose : 
+,  Posbility: 0.9280
+---------------------------
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from a string.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9146
+Next Token : 
+, Posbility: 0.0572
+Next Token : #, Posbility: 0.0097
+Next Token : v, Posbility: 0.0077
+Next Token : import, Posbility: 0.0026
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 12.502801895141602
+
+
+
+----------No Syntax Error--------
+
+'''Write a function to remove characters from the first string which are present in the second string.'''
+def remove_characters(first_string, second_string):
+    for char in second_string:
+        if char in first_string:
+            first_string = first_string.replace(char, "")
+    return first_string
+
+
+'''Write a function to remove all the vowels from a string.'''
+

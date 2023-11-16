@@ -1,0 +1,1118 @@
+<<<<<<<<<<<< 17 problem >>>>>>>>>>>
+
+
+
+
+Next Token :  opposite, Posbility: 0.1975
+Next Token :  check, Posbility: 0.1025
+Next Token :  opp, Posbility: 0.0962
+Next Token :  sign, Posbility: 0.0452
+Next Token :  is, Posbility: 0.0322
+Choose :  opposite,  Posbility: 0.1975
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite
+---------------------------
+Next Token : (, Posbility: 0.4480
+Next Token : _, Posbility: 0.3933
+Next Token : Sign, Posbility: 0.0807
+Next Token : ():, Posbility: 0.0216
+Next Token : sign, Posbility: 0.0137
+Choose : (,  Posbility: 0.4480
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(
+---------------------------
+Next Token : a, Posbility: 0.3734
+Next Token : x, Posbility: 0.2198
+Next Token : num, Posbility: 0.1927
+Next Token : n, Posbility: 0.0463
+Next Token : number, Posbility: 0.0325
+Choose : a,  Posbility: 0.3734
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a
+---------------------------
+Next Token : ,, Posbility: 0.9536
+Next Token : :, Posbility: 0.0169
+Next Token : ):, Posbility: 0.0152
+Next Token : 1, Posbility: 0.0056
+Next Token : ,, Posbility: 0.0038
+Choose : ,,  Posbility: 0.9536
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a,
+---------------------------
+Next Token :  b, Posbility: 0.5100
+Next Token : b, Posbility: 0.4783
+Next Token :  sign, Posbility: 0.0017
+Next Token :  n, Posbility: 0.0009
+Next Token : sign, Posbility: 0.0005
+Choose :  b,  Posbility: 0.5100
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b
+---------------------------
+Next Token : ):, Posbility: 0.9681
+Next Token : ,, Posbility: 0.0162
+Next Token : ), Posbility: 0.0145
+Next Token : =, Posbility: 0.0005
+Next Token :  ):, Posbility: 0.0002
+Choose : ):,  Posbility: 0.9681
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+---------------------------
+Next Token : 
+, Posbility: 0.9172
+Next Token : 
+
+, Posbility: 0.0267
+Next Token : , Posbility: 0.0253
+Next Token :  , Posbility: 0.0172
+Next Token :   , Posbility: 0.0052
+Choose : 
+,  Posbility: 0.9172
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+
+---------------------------
+Next Token :     , Posbility: 0.9230
+Next Token :   , Posbility: 0.0360
+Next Token : 	, Posbility: 0.0276
+Next Token :    , Posbility: 0.0071
+Next Token :         , Posbility: 0.0017
+Choose :     ,  Posbility: 0.9230
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    
+---------------------------
+Next Token : if, Posbility: 0.6331
+Next Token : '', Posbility: 0.1433
+Next Token : return, Posbility: 0.0500
+Next Token : #, Posbility: 0.0270
+Next Token : sign, Posbility: 0.0167
+Choose : if,  Posbility: 0.6331
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if
+---------------------------
+Next Token :  a, Posbility: 0.7620
+Next Token :  (, Posbility: 0.0955
+Next Token : (, Posbility: 0.0555
+Next Token :  b, Posbility: 0.0478
+Next Token :  ((, Posbility: 0.0075
+Choose :  a,  Posbility: 0.7620
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a
+---------------------------
+Next Token :  >, Posbility: 0.3836
+Next Token :  <, Posbility: 0.3755
+Next Token :  ==, Posbility: 0.0784
+Next Token : >, Posbility: 0.0376
+Next Token :  >=, Posbility: 0.0318
+Choose :  >,  Posbility: 0.3836
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a >
+---------------------------
+Next Token :  b, Posbility: 0.9207
+Next Token :  0, Posbility: 0.0669
+Next Token :  -, Posbility: 0.0029
+Next Token : b, Posbility: 0.0023
+Next Token :  1, Posbility: 0.0016
+Choose :  b,  Posbility: 0.9207
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b
+---------------------------
+Next Token : :, Posbility: 0.9490
+Next Token :  or, Posbility: 0.0176
+Next Token :  :, Posbility: 0.0166
+Next Token :  and, Posbility: 0.0141
+Next Token :  >, Posbility: 0.0004
+Choose : :,  Posbility: 0.9490
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+---------------------------
+Next Token : 
+, Posbility: 0.9739
+Next Token :  return, Posbility: 0.0115
+Next Token :  , Posbility: 0.0045
+Next Token :  a, Posbility: 0.0025
+Next Token :   , Posbility: 0.0022
+Choose : 
+,  Posbility: 0.9739
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+
+---------------------------
+Next Token :         , Posbility: 0.9915
+Next Token :       , Posbility: 0.0028
+Next Token :        , Posbility: 0.0026
+Next Token :             , Posbility: 0.0013
+Next Token :          , Posbility: 0.0007
+Choose :         ,  Posbility: 0.9915
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        
+---------------------------
+Next Token : return, Posbility: 0.6487
+Next Token : print, Posbility: 0.0894
+Next Token : if, Posbility: 0.0820
+Next Token : a, Posbility: 0.0483
+Next Token : result, Posbility: 0.0152
+Choose : return,  Posbility: 0.6487
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return
+---------------------------
+Next Token :  True, Posbility: 0.4645
+Next Token :  a, Posbility: 0.2044
+Next Token :  1, Posbility: 0.0965
+Next Token :  ', Posbility: 0.0429
+Next Token :  b, Posbility: 0.0311
+Choose :  True,  Posbility: 0.4645
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+---------------------------
+Next Token : 
+, Posbility: 0.9770
+Next Token : 
+
+, Posbility: 0.0129
+Next Token :  , Posbility: 0.0025
+Next Token :  if, Posbility: 0.0023
+Next Token : ;, Posbility: 0.0014
+Choose : 
+,  Posbility: 0.9770
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+
+---------------------------
+Next Token :     , Posbility: 0.9934
+Next Token :         , Posbility: 0.0035
+Next Token : 
+, Posbility: 0.0020
+Next Token : #, Posbility: 0.0002
+Next Token : def, Posbility: 0.0002
+Choose :     ,  Posbility: 0.9934
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    
+---------------------------
+Next Token : el, Posbility: 0.5153
+Next Token : else, Posbility: 0.2713
+Next Token : if, Posbility: 0.1416
+Next Token : return, Posbility: 0.0660
+Next Token : 
+, Posbility: 0.0022
+Choose : el,  Posbility: 0.5153
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    el
+---------------------------
+Next Token : if, Posbility: 1.0000
+Next Token : im, Posbility: 0.0000
+Next Token :  if, Posbility: 0.0000
+Next Token : 
+, Posbility: 0.0000
+Next Token : ve, Posbility: 0.0000
+Choose : if,  Posbility: 1.0000
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif
+---------------------------
+Next Token :  a, Posbility: 0.9154
+Next Token :  b, Posbility: 0.0776
+Next Token :  (, Posbility: 0.0036
+Next Token : (, Posbility: 0.0008
+Next Token :   , Posbility: 0.0005
+Choose :  a,  Posbility: 0.9154
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a
+---------------------------
+Next Token :  <, Posbility: 0.9551
+Next Token :  ==, Posbility: 0.0262
+Next Token :  <=, Posbility: 0.0052
+Next Token : <, Posbility: 0.0048
+Next Token :  >, Posbility: 0.0037
+Choose :  <,  Posbility: 0.9551
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a <
+---------------------------
+Next Token :  b, Posbility: 0.9954
+Next Token :  0, Posbility: 0.0018
+Next Token : b, Posbility: 0.0008
+Next Token :  -, Posbility: 0.0007
+Next Token :   , Posbility: 0.0004
+Choose :  b,  Posbility: 0.9954
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b
+---------------------------
+Next Token : :, Posbility: 0.9959
+Next Token :  and, Posbility: 0.0020
+Next Token :  :, Posbility: 0.0013
+Next Token :  or, Posbility: 0.0005
+Next Token :  <, Posbility: 0.0001
+Choose : :,  Posbility: 0.9959
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+---------------------------
+Next Token : 
+, Posbility: 0.9976
+Next Token :  , Posbility: 0.0016
+Next Token :   , Posbility: 0.0002
+Next Token : 
+
+, Posbility: 0.0001
+Next Token :  return, Posbility: 0.0001
+Choose : 
+,  Posbility: 0.9976
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+
+---------------------------
+Next Token :         , Posbility: 0.9984
+Next Token :          , Posbility: 0.0007
+Next Token :             , Posbility: 0.0003
+Next Token :        , Posbility: 0.0003
+Next Token :     , Posbility: 0.0002
+Choose :         ,  Posbility: 0.9984
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        
+---------------------------
+Next Token : return, Posbility: 0.9977
+Next Token : if, Posbility: 0.0011
+Next Token : a, Posbility: 0.0002
+Next Token : print, Posbility: 0.0002
+Next Token : #, Posbility: 0.0002
+Choose : return,  Posbility: 0.9977
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return
+---------------------------
+Next Token :  False, Posbility: 0.7586
+Next Token :  True, Posbility: 0.2339
+Next Token :   , Posbility: 0.0019
+Next Token :  a, Posbility: 0.0019
+Next Token :  b, Posbility: 0.0006
+Choose :  False,  Posbility: 0.7586
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+---------------------------
+Next Token : 
+, Posbility: 0.9519
+Next Token : 
+
+, Posbility: 0.0409
+Next Token :  , Posbility: 0.0036
+Next Token : <|endoftext|>, Posbility: 0.0015
+Next Token :     , Posbility: 0.0005
+Choose : 
+,  Posbility: 0.9519
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+
+---------------------------
+Next Token :     , Posbility: 0.9129
+Next Token : 
+, Posbility: 0.0638
+Next Token : print, Posbility: 0.0031
+Next Token :         , Posbility: 0.0027
+Next Token : <|endoftext|>, Posbility: 0.0023
+Choose :     ,  Posbility: 0.9129
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    
+---------------------------
+Next Token : else, Posbility: 0.7573
+Next Token : return, Posbility: 0.1200
+Next Token : el, Posbility: 0.0971
+Next Token : 
+, Posbility: 0.0082
+Next Token : if, Posbility: 0.0075
+Choose : else,  Posbility: 0.7573
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else
+---------------------------
+Next Token : :, Posbility: 0.9936
+Next Token :  :, Posbility: 0.0062
+Next Token : :#, Posbility: 0.0001
+Next Token : 
+, Posbility: 0.0000
+Next Token :  ->, Posbility: 0.0000
+Choose : :,  Posbility: 0.9936
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+---------------------------
+Next Token : 
+, Posbility: 0.9854
+Next Token :  return, Posbility: 0.0055
+Next Token :  , Posbility: 0.0048
+Next Token :   , Posbility: 0.0013
+Next Token :  #, Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9854
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+
+---------------------------
+Next Token :         , Posbility: 0.9929
+Next Token :          , Posbility: 0.0024
+Next Token :     , Posbility: 0.0012
+Next Token :        , Posbility: 0.0010
+Next Token :       , Posbility: 0.0009
+Choose :         ,  Posbility: 0.9929
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        
+---------------------------
+Next Token : return, Posbility: 0.8964
+Next Token : if, Posbility: 0.0415
+Next Token : pass, Posbility: 0.0163
+Next Token : print, Posbility: 0.0138
+Next Token : a, Posbility: 0.0073
+Choose : return,  Posbility: 0.8964
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return
+---------------------------
+Next Token :  opposite, Posbility: 0.4155
+Next Token :  False, Posbility: 0.2267
+Next Token :  True, Posbility: 0.1851
+Next Token :  None, Posbility: 0.0379
+Next Token :  a, Posbility: 0.0359
+Choose :  opposite,  Posbility: 0.4155
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite
+---------------------------
+Next Token : (, Posbility: 0.9732
+Next Token : (-, Posbility: 0.0098
+Next Token : ((, Posbility: 0.0055
+Next Token : _, Posbility: 0.0044
+Next Token :  (, Posbility: 0.0012
+Choose : (,  Posbility: 0.9732
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(
+---------------------------
+Next Token : a, Posbility: 0.6419
+Next Token : b, Posbility: 0.3290
+Next Token : int, Posbility: 0.0154
+Next Token : abs, Posbility: 0.0042
+Next Token : 2, Posbility: 0.0016
+Choose : a,  Posbility: 0.6419
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a
+---------------------------
+Next Token : ,, Posbility: 0.4623
+Next Token :  %, Posbility: 0.1415
+Next Token :  -, Posbility: 0.1177
+Next Token :  +, Posbility: 0.0882
+Next Token : -, Posbility: 0.0532
+Choose : ,,  Posbility: 0.4623
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a,
+---------------------------
+Next Token :  b, Posbility: 0.7949
+Next Token :  a, Posbility: 0.1134
+Next Token : b, Posbility: 0.0486
+Next Token :  int, Posbility: 0.0143
+Next Token :  (, Posbility: 0.0053
+Choose :  b,  Posbility: 0.7949
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b
+---------------------------
+Next Token :  -, Posbility: 0.3430
+Next Token : ), Posbility: 0.2298
+Next Token : -, Posbility: 0.1902
+Next Token :  +, Posbility: 0.0877
+Next Token : +, Posbility: 0.0479
+Choose :  -,  Posbility: 0.3430
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b -
+---------------------------
+Next Token :  1, Posbility: 0.5947
+Next Token :  a, Posbility: 0.2300
+Next Token :  2, Posbility: 0.1165
+Next Token :  3, Posbility: 0.0106
+Next Token :  (, Posbility: 0.0069
+Choose :  1,  Posbility: 0.5947
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1
+---------------------------
+Next Token : ), Posbility: 0.9919
+Next Token : ),, Posbility: 0.0018
+Next Token : ., Posbility: 0.0014
+Next Token : );, Posbility: 0.0008
+Next Token :  ), Posbility: 0.0006
+Choose : ),  Posbility: 0.9919
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+---------------------------
+Next Token : 
+, Posbility: 0.5140
+Next Token : 
+
+, Posbility: 0.3324
+Next Token :  or, Posbility: 0.0725
+Next Token :  and, Posbility: 0.0235
+Next Token : <|endoftext|>, Posbility: 0.0149
+Choose : 
+,  Posbility: 0.5140
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+---------------------------
+Next Token : 
+, Posbility: 0.6656
+Next Token : print, Posbility: 0.0798
+Next Token :     , Posbility: 0.0490
+Next Token : #, Posbility: 0.0336
+Next Token : <|endoftext|>, Posbility: 0.0294
+Choose : 
+,  Posbility: 0.6656
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+---------------------------
+Next Token : 
+, Posbility: 0.9752
+Next Token :     , Posbility: 0.0087
+Next Token : 
+
+, Posbility: 0.0071
+Next Token : <|endoftext|>, Posbility: 0.0063
+Next Token :         , Posbility: 0.0012
+Choose : 
+,  Posbility: 0.9752
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+
+---------------------------
+Next Token : '', Posbility: 0.4860
+Next Token : def, Posbility: 0.1498
+Next Token : #, Posbility: 0.1473
+Next Token : print, Posbility: 0.0971
+Next Token : if, Posbility: 0.0272
+Choose : '',  Posbility: 0.4860
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+''
+---------------------------
+Next Token : ', Posbility: 0.9999
+Next Token : '/, Posbility: 0.0000
+Next Token : '., Posbility: 0.0000
+Next Token : ':, Posbility: 0.0000
+Next Token : '), Posbility: 0.0000
+Choose : ',  Posbility: 0.9999
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''
+---------------------------
+Next Token : Write, Posbility: 0.7550
+Next Token :  Write, Posbility: 0.0313
+Next Token : 
+, Posbility: 0.0192
+Next Token : Check, Posbility: 0.0158
+Next Token : Function, Posbility: 0.0072
+Choose : Write,  Posbility: 0.7550
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write
+---------------------------
+Next Token :  a, Posbility: 0.9856
+Next Token :  your, Posbility: 0.0048
+Next Token :  an, Posbility: 0.0022
+Next Token :  the, Posbility: 0.0017
+Next Token :  python, Posbility: 0.0010
+Choose :  a,  Posbility: 0.9856
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a
+---------------------------
+Next Token :  python, Posbility: 0.9008
+Next Token :  function, Posbility: 0.0505
+Next Token :  Python, Posbility: 0.0293
+Next Token :  program, Posbility: 0.0058
+Next Token :  script, Posbility: 0.0011
+Choose :  python,  Posbility: 0.9008
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python
+---------------------------
+Next Token :  function, Posbility: 0.9644
+Next Token :  program, Posbility: 0.0205
+Next Token :  fun, Posbility: 0.0024
+Next Token :  script, Posbility: 0.0021
+Next Token :  code, Posbility: 0.0012
+Choose :  function,  Posbility: 0.9644
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function
+---------------------------
+Next Token :  to, Posbility: 0.8657
+Next Token :  that, Posbility: 0.0749
+Next Token :  which, Posbility: 0.0234
+Next Token :  for, Posbility: 0.0059
+Next Token : ,, Posbility: 0.0023
+Choose :  to,  Posbility: 0.8657
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to
+---------------------------
+Next Token :  check, Posbility: 0.2933
+Next Token :  find, Posbility: 0.0995
+Next Token :  calculate, Posbility: 0.0682
+Next Token :  get, Posbility: 0.0650
+Next Token :  print, Posbility: 0.0508
+Choose :  check,  Posbility: 0.2933
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check
+---------------------------
+Next Token :  whether, Posbility: 0.8278
+Next Token :  if, Posbility: 0.0946
+Next Token :  the, Posbility: 0.0269
+Next Token :  for, Posbility: 0.0057
+Next Token :  a, Posbility: 0.0047
+Choose :  whether,  Posbility: 0.8278
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether
+---------------------------
+Next Token :  the, Posbility: 0.6495
+Next Token :  a, Posbility: 0.1244
+Next Token :  two, Posbility: 0.0738
+Next Token :  an, Posbility: 0.0283
+Next Token :  given, Posbility: 0.0151
+Choose :  the,  Posbility: 0.6495
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the
+---------------------------
+Next Token :  given, Posbility: 0.8022
+Next Token :  number, Posbility: 0.0268
+Next Token :  two, Posbility: 0.0150
+Next Token :  string, Posbility: 0.0113
+Next Token :  first, Posbility: 0.0096
+Choose :  given,  Posbility: 0.8022
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given
+---------------------------
+Next Token :  two, Posbility: 0.7609
+Next Token :  string, Posbility: 0.0410
+Next Token :  number, Posbility: 0.0337
+Next Token :  integer, Posbility: 0.0229
+Next Token :  three, Posbility: 0.0155
+Choose :  two,  Posbility: 0.7609
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two
+---------------------------
+Next Token :  integers, Posbility: 0.6650
+Next Token :  numbers, Posbility: 0.0624
+Next Token :  strings, Posbility: 0.0578
+Next Token :  integer, Posbility: 0.0510
+Next Token :  lists, Posbility: 0.0256
+Choose :  integers,  Posbility: 0.6650
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers
+---------------------------
+Next Token :  have, Posbility: 0.8771
+Next Token :  are, Posbility: 0.0698
+Next Token :  can, Posbility: 0.0133
+Next Token :  has, Posbility: 0.0082
+Next Token : 
+, Posbility: 0.0025
+Choose :  have,  Posbility: 0.8771
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have
+---------------------------
+Next Token :  opposite, Posbility: 0.4333
+Next Token :  same, Posbility: 0.1681
+Next Token :  the, Posbility: 0.0772
+Next Token :  equal, Posbility: 0.0327
+Next Token :  a, Posbility: 0.0184
+Choose :  opposite,  Posbility: 0.4333
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite
+---------------------------
+Next Token :  sign, Posbility: 0.9419
+Next Token :  signs, Posbility: 0.0287
+Next Token :  number, Posbility: 0.0037
+Next Token : 
+, Posbility: 0.0023
+Next Token :  value, Posbility: 0.0019
+Choose :  sign,  Posbility: 0.9419
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign
+---------------------------
+Next Token :  or, Posbility: 0.8954
+Next Token : .', Posbility: 0.0327
+Next Token :  and, Posbility: 0.0108
+Next Token : '', Posbility: 0.0104
+Next Token : 
+, Posbility: 0.0060
+Choose :  or,  Posbility: 0.8954
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign or
+---------------------------
+Next Token :  not, Posbility: 0.9979
+Next Token : 
+, Posbility: 0.0006
+Next Token :  no, Posbility: 0.0003
+Next Token :  , Posbility: 0.0002
+Next Token :  is, Posbility: 0.0001
+Choose :  not,  Posbility: 0.9979
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign or not
+---------------------------
+Next Token : .', Posbility: 0.7915
+Next Token : ., Posbility: 0.1019
+Next Token : '', Posbility: 0.0350
+Next Token :  and, Posbility: 0.0150
+Next Token : ,, Posbility: 0.0114
+Choose : .',  Posbility: 0.7915
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign or not.'
+---------------------------
+Next Token : '', Posbility: 0.9997
+Next Token : 
+, Posbility: 0.0002
+Next Token :  ', Posbility: 0.0001
+Next Token : '''', Posbility: 0.0000
+Next Token :  '', Posbility: 0.0000
+Choose : '',  Posbility: 0.9997
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+---------------------------
+Next Token : 
+, Posbility: 0.9123
+Next Token : 
+
+, Posbility: 0.0813
+Next Token : def, Posbility: 0.0021
+Next Token :  , Posbility: 0.0017
+Next Token :   , Posbility: 0.0008
+Choose : 
+,  Posbility: 0.9123
+---------------------------
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+
+---------------------------
+Next Token : def, Posbility: 0.9236
+Next Token : 
+, Posbility: 0.0515
+Next Token : #, Posbility: 0.0104
+Next Token : '', Posbility: 0.0024
+Next Token : import, Posbility: 0.0021
+def token!!!
+---------------------------
+<<<<<<<<<<<<< FINISH >>>>>>>>>>>>
+
+
+
+processing time : 10.858593702316284
+
+
+
+----------No Syntax Error--------
+
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+def opposite(a, b):
+    if a > b:
+        return True
+    elif a < b:
+        return False
+    else:
+        return opposite(a, b - 1)
+
+
+'''Write a python function to check whether the given two integers have opposite sign or not.'''
+
