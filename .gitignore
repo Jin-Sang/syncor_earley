@@ -1,1 +1,10 @@
 python100k_train.json
+log
+codebleu_utils
+codegpt2-small-py
+codegpt-small_codecompletion-py150
+result.txt
+.mypy_cache
+csv
+__pycache__
+*.txt
