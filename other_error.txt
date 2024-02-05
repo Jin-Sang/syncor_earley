@@ -1,0 +1,10 @@
+357 assert xtogglebits(0b1000001) == 0b1111111 
+357 assert xtogglebits(0b1001101) == 0b1110011 
+400 assert not ix(100) 
+400 assert ix(125) 
+357 assert xtogglebits(0b1000001) == 0b1111111 
+357 assert xtogglebits(0b1001101) == 0b1110011 
+400 assert not ix(100) 
+400 assert ix(125) 
+357 assert xtogglebits(0b1000001) == 0b1111111 
+357 assert xtogglebits(0b1001101) == 0b1110011 

@@ -5,10 +5,10 @@ import csv
 
 # CSV 파일명
 #csv_file = "base_gen.csv"
-csv_file = "csv/base_gen_1.csv"
+csv_file = "csv/parso_gen_revision.csv"
 # 디렉토리 경로 설정
 #directory_path = '/home/jskim/syncor/log/base_gen'
-directory_path = '/home/jskim/syncor/log/base_gen_1'
+directory_path = '/home/jskim/syncor/log/parso_gen_revision'
 # 디렉토리 내의 .txt 파일 가져오기
 txt_files = glob.glob(os.path.join(directory_path, '*.txt'))
 
@@ -35,7 +35,7 @@ for txt_file in sorted(txt_files, key=extract_number):
         
         # 파일 이름 
         name = extract_number(txt_file.split("/")[-1])
-        
+
         
         # 파일 내용 읽어오기
         content = file.readlines()
@@ -55,25 +55,24 @@ for txt_file in sorted(txt_files, key=extract_number):
                 time = content.split("processing time : ")[-1].split("\n")[0]
             
                 # syntax error check
-                syn_err = content.split(f"processing time : ")[1].split("\n")[4].strip()
+                syn_err = content.split(f"Syntax : ")[1].split("\n")[0].strip()
                 
-                """
+                
                 if syn_err == "Correct" :
                     syn_err = 'No Syntax Error'
                 else:
                     syn_err = 'Syntax Error'
-                """
+                
                 
                 # code
                 # syntax error가 없을 때
-                if syn_err == "No Syntax Error" :
-                    code_score = content.split(f"{syn_err}")[1].split("\n")
-                    code = "\n".join(code_score[:-4])
-                # syntax error가 있을 때
-                elif syn_err == "Syntax Error":
-                    code_score = content.split(f"{syn_err}")[1].split("\n")
-                    code = "\n".join(code_score[:-4])
-                    
+                try:
+                    code_score = content.split(f"code:\n")[1].split("processing time : ")[0].split("\n")
+                    code = "\n".join(code_score[:-1])
+                
+                except: # 후보 리스트가 비었으면 정답 코드가 로그에 없다.
+                    code = "Generation Fail" 
+                    syn_err = "Generation Fail"    
             
         # Time Out 즉, 시간 초과 난 경우    
         elif time_out == "Timeout":

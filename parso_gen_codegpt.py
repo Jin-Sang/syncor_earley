@@ -7,14 +7,31 @@ import sys
 import math
 from parso.python.token import PythonTokenTypes
 
-# 사용할 모델과 토크나이저 ( 구버전 ) - 작은 모델
-# tokenizer = AutoTokenizer.from_pretrained("Salesforce/codegen-350M-mono")
-# model = AutoModelForCausalLM.from_pretrained("Salesforce/codegen-350M-mono")
+## update path to real one
+path = "codegpt-small_codecompletion-py150"
 
-# 큰 모델에 대해 돌려본다.
-from transformers import AutoTokenizer, AutoModelForCausalLM
-tokenizer = AutoTokenizer.from_pretrained("Salesforce/codegen25-7b-mono", trust_remote_code=True)
-model = AutoModelForCausalLM.from_pretrained("Salesforce/codegen25-7b-mono")
+
+##### Load Tokenizer, Model #####
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
+
+tokenizer = GPT2Tokenizer.from_pretrained(path)
+model = GPT2LMHeadModel.from_pretrained(path)
+
+##### Tokenize #####
+from preprocess import preprocess
+from restore import restore
+
+def encode(text, max_length):
+    code = preprocess(text)
+    endofline = code.splitlines(keepends=True)[0][-1]
+    if not code.endswith(endofline):
+        code += endofline
+    return tokenizer(code, padding=False, truncation=True, max_length=max_length,
+                     add_special_tokens=True, return_tensors="pt")
+
+def decode(token_ids):
+    return restore(tokenizer.decode(token_ids))
+
 
 # 몇번째 테스트 케이스 인지 받아옴 
 index = sys.argv[1]
@@ -24,7 +41,7 @@ text = sys.argv[2]
 
 # log를 기록할 파일 설정
 # 디렉터리 경로
-directory_path = "/home/jskim/syncor/log/parso_gen_bigmodel"
+directory_path = "/home/jskim/syncor/log/parso_gen_ryumodel"
 
 # 파일명 생성
 file_name = f"{index}.txt"
@@ -40,22 +57,22 @@ with open(file_path, "w") as file:
 grammar = parso.load_grammar()
 
 # end token 설정    
-EOS_token = "<|endoftext|>"
-EOS_def = "def"
+EOS_token = "</s>"
+EOS_def = " def"
 
 # 상위 몇개를 볼건지
-top_k = 5
+top_k = 10
 
 
 def next_tokens(text):
     
     answers = []
     
-    input_ids = tokenizer(text, return_tensors="pt").input_ids
+    input_ids = encode(text, None)
     
     # 다음 토큰의 logit 확률 계산
     with torch.no_grad():
-        logits = model(input_ids).logits
+        logits = model(input_ids["input_ids"]).logits
 
     # logits에서 다음 토큰에 대한 확률 분포 얻기
     next_token_logits = logits[:, -1, :]
@@ -72,18 +89,21 @@ def next_tokens(text):
         token_probability = top_k_probabilities[0, i].item()
         token = tokenizer.decode(token_id)
         with open(file_path, "a") as file:
-                    file.write(f"Next Token: [{token}], Possibility: {token_probability:.4f}\n")
+                    file.write(f"Next Token: [{token}, {token_id}], Possibility: {token_probability:.4f}\n")
                  
 
         if token == EOS_token or token == EOS_def:
-            text_token = text
-            EOS = True 
+            text_token = encode(text, None)
+            EOS = True
+        
+        elif token_id == 220:
+            continue 
             
         else:
-            text_token = text + token
+            text_token = encode(text + token, None)
             EOS = False
 
-        answers.append([text_token, EOS])
+        answers.append([decode(text_token["input_ids"][0]), EOS])
         
     answers.reverse()
     return answers
