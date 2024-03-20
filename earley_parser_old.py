@@ -3,9 +3,8 @@ import io
 import token
 import tokenize
 import copy
-from io import BytesIO
 
-# Grammar 사전
+
 # 파이썬 파싱 grammar를 dict 자료형으로 만들기
 with open('python_grammar.txt', 'r') as file:
     lines = file.read()
@@ -32,60 +31,40 @@ for devided_token in divided_tokens:
         dic_value.append(cleaned_list)
     grammar[key] = dic_value
 
-# 터미널     
+
+
+sample = "2+3*4"
+
+grammar = {}
+
 terminal = []
 
-with open('OP.txt', 'r') as file:
-    # 파일의 모든 줄을 읽어들입니다.
-    lines = file.readlines()
-    
-    for line in lines:
-        terminal.append("<"+line.split()[0].strip()+">")
-    
-
-# 키워드
-# python grammar에서 ''로 묶인 키워드를 찾는 함수
-def find_enclosed_texts(file_path, sep):
-    enclosed_texts = []
-    with open(file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-            start_index = 0
-            while True:
-                start_index = line.find(sep, start_index)
-                if start_index == -1:
-                    break
-                end_index = line.find(sep, start_index + 1)
-                if end_index == -1:
-                    break
-                enclosed_texts.append(line[start_index + 1:end_index])
-                start_index = end_index + 1
-    return enclosed_texts
-
-# 파일 경로
-file_path = 'python_grammar.txt'
-
-# 키워드를 저장하는 리스트
-keyword_list = list(set(find_enclosed_texts(file_path, "'"))) + list(set(find_enclosed_texts(file_path, "\"")))
+# 터미널에 해당하는 토큰 
+for token_type, token_name in token.tok_name.items():
+    terminal.append(token_name)
 
 
 
-sample = """
-def plus(a):
-    return a+b"""
 
-# 문자열을 바이트로 변환
-sample_bytes = sample.strip().encode('utf-8')
+# 나무위키 예제 grammar
 
-# tokenize.tokenize() 함수를 사용하여 토큰으로 분할
-sample_tokens = []
-for tok in tokenize.tokenize(BytesIO(sample_bytes).readline):
-    sample_tokens.append(tok)
+grammar = {"γ" : [["S"]],
+           "S" : [["S","+","M"], ["M"]],
+           "M" : [["M","*","T"], ["T"]],
+           "T" : [["1"],["2"],["3"],["4"]]}
 
-# 맨 앞 ENCODING 빼주기
-sample_tokens.pop(0)
-
+operator = [["+"], ["*"]]
 
 S = []
+
+code_token = []
+
+# parso 렉서 장착 ()
+grammar_parso = parso.load_grammar()
+token_info = grammar_parso._tokenize(sample)
+
+for info in token_info:
+     code_token.append(info)
 
 
 # 현재 포지션 오른쪽에 아무것도 없는지 즉, 끝인지 확인
@@ -103,9 +82,9 @@ def next_nonterminal_check(state):
     next = list(state[0].values())[0]
     #next = next.split()
     idx = next.index("•") + 1
-
+    
     #if next[idx] in grammar["terminal"] or next[idx] in operator:
-    if next[idx] in terminal or next[idx] in keyword_list:
+    if [next[idx]] in grammar["T"] or [next[idx]] in operator:
         return False
     else:
         return True
@@ -115,30 +94,29 @@ def predictor(state, k, grammar):
     
     next = list(state[0].values())[0]
     idx = next.index("•") + 1
-    
     for i in grammar[next[idx]]:
         if not ({next[idx]: ["•"]+i}, k) in S[k]:
             S[k].append(({next[idx]: ["•"]+i}, k))
 
 # 실제로 확인하고 다음으로 넘어가는것
 def scanner(state, k, words):
+    
 
     next = list(state[0].values())[0]
     idx = next.index("•") + 1
-
-    if state[1] < len(words) and k != len(words) and (next[idx] == "<"+token.tok_name[words[k].type]+">" or next[idx] == words[k].string) :
-
+    
+    if state[1] < len(words) and k != len(words) and next[idx] == words[k]:
+        
         t = copy.deepcopy(next)
         tmp =  t[idx]
         t[idx-1] = tmp
         t[idx] = "•"
         
         S[k+1].append(({(list(state[0].keys())[0]): t}, state[1]))
-        
     
 def completer(state, k):
     
-    #s = []
+    s = []
     for st in S[state[1]]:
     
         next = list(st[0].values())[0]
@@ -149,13 +127,17 @@ def completer(state, k):
             tmp = t[idx]
             t[idx-1] = tmp
             t[idx] = "•"
-            #s.append(({(list(st[0].keys())[0]): t}, st[1]))
-            S[k].append(({(list(st[0].keys())[0]): t}, st[1]))
+            s.append(({(list(st[0].keys())[0]): t}, st[1]))
              
             
-    #for i in s:
-    #    S[k].append(i)
+    for i in s:
+        S[k].append(i)
         
+   
+            
+
+
+
 
 
 def earley_parser(words, grammar):
@@ -164,60 +146,55 @@ def earley_parser(words, grammar):
     for i in range(0, len(words)+1):
         S.append([])
     
-    S[0].append(({"γ": ["•","<file>"]}, 0))
-    # S[0].append(({"γ": ["•","<interactive>"]}, 0))
-    # S[0].append(({"γ": ["•","<eval>"]}, 0))
-    # S[0].append(({"γ": ["•","<func_type>"]}, 0))
+    S[0].append(({"γ": ["•","S"]}, 0))
     
     for k in range(0, len(words)+1):
         print(k)
-        
         for state in S[k]:
             # print(1)
             if not finish_check(state):
                 # print(2)
                 if next_nonterminal_check(state):
                     # print(3)
-       
                     predictor(state, k, grammar)
                     # print(4)
                 else:
                     # print(5)
-
                     scanner(state, k, words)
                     # print(6)
                     
             else:
                 # print(7)
-
                 completer(state, k)
                 # print(8)
-    
+        
         for i in S[k]:
-           print(i, k) 
-                
+            print(i)        
+        #print(S[k])
 
 
-earley_parser(sample_tokens, grammar)
 
-# predictor(({'<function_def_raw>': ['def', '<NAME>', '(', '•', '<params>', ')', ':', '<block>']}, 0),3,grammar)
+#predictor(({"γ": "•S"}, 0), 0, grammar)
 
-# k = 6
-# print(f"•{sample_tokens[k].string}")
-# print(f'S[{k}]')
-# for i in S[k]:
+earley_parser(sample, grammar)
+
+
+import tokenize
+from io import BytesIO
+
+code = '''
+def greet(name):
+    print("Hello, " + name + "!")
+'''
+
+# 문자열을 토큰으로 분할하여 표시합니다.
+
+#tokens = tokenize.tokenize(BytesIO(code.encode('utf-8')).readline)
+#for token in tokens:
+#    print(token)
+#    print(tokenize.tok_name[token.type], token.string)
     
-    #if ''.join((i[0].keys())) == '<function_def_raw>':
-    # print(i)
- 
 
-    
-
-# S[3] (•
-# S[6] params•)
-    
-
-# k인 경우 문자열 k번째 앞에 ㅇ 있는 경우
 
 
     
